@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juega-mejores-juegos-consola-movil-android-iphone-1349884'>Los 10 mejores juegos de consola que puedes instalar en tu móvil Android y que deberías jugar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/gaming/juega-mejores-juegos-consola-movil-android-iphone-1349884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-mejores-juegos-consola-puedes-instalar-movil-android-deberias-jugar-ahora-mismo-3249002.jpg?tf=1200x' alt='Los 10 mejores juegos de consola que puedes instalar en tu móvil Android y que deberías jugar ahora mismo' />
+    <h4><a href='https://computerhoy.com/life/voy-aplicar-matematicas-no-atragantarme-uvas-nochevieja-1353338'>Voy a aplicar una estrategia matemática para comer las uvas esta Nochevieja y llegar al Año Nuevo sin atragantarme</a></h4>
+    <a href='https://computerhoy.com/life/voy-aplicar-matematicas-no-atragantarme-uvas-nochevieja-1353338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/uvas-nochevieja-3255316.jpg?tf=1200x' alt='Voy a aplicar una estrategia matemática para comer las uvas esta Nochevieja y llegar al Año Nuevo sin atragantarme' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ahora-buscar-recetas-buscador-google-sera-facil-nunca-1353366'>Ahora buscar recetas en el buscador de Google será más fácil que nunca</a></h4>
-    <a href='https://computerhoy.com/google/ahora-buscar-recetas-buscador-google-sera-facil-nunca-1353366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-recetas-comida-3255340.jpg?tf=1200x' alt='Ahora buscar recetas en el buscador de Google será más fácil que nunca' />
+    <h4><a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2024-1172852'>Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2024</a></h4>
+    <a href='https://computerhoy.com/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2024-1172852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3253086.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estafa-smartwatch-auriculares-buzon-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses' />
+    <h4><a href='https://computerhoy.com/listas/tecnologia/frases-nochevieja-para-enviar-549839'>50 frases de Año Nuevo, Nochevieja y Navidad para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/frases-nochevieja-para-enviar-549839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/salto-2024-3255386.jpg?tf=1200x' alt='50 frases de Año Nuevo, Nochevieja y Navidad para enviar por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-trabaja-actualizacion-critica-solventar-error-android-auto-1353362'>Google trabaja en una actualización crítica para solventar este error en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/google-trabaja-actualizacion-critica-solventar-error-android-auto-1353362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922220.jpg?tf=1200x' alt='Google trabaja en una actualización crítica para solventar este error en Android Auto' />
+    <h4><a href='https://computerhoy.com/life/sorprendente-razon-comemos-12-uvas-nochevieja-1352400'>Esta es la sorprendente razón por la que comemos 12 uvas en Nochevieja (y puede que no sea la que crees)</a></h4>
+    <a href='https://computerhoy.com/life/sorprendente-razon-comemos-12-uvas-nochevieja-1352400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sorprendente-razon-comemos-12-uvas-nochevieja-3253322.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que comemos 12 uvas en Nochevieja (y puede que no sea la que crees)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-windows-11-hunde-precio-presume-ryzen-5-16gb-ram-1353005'>Este portátil Windows 11 hunde su precio, y presume de Ryzen 5 y 16GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-windows-11-hunde-precio-presume-ryzen-5-16gb-ram-1353005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/asus-vivobook-16x-3253980.jpg?tf=1200x' alt='Este portátil Windows 11 hunde su precio, y presume de Ryzen 5 y 16GB de RAM' />
+    <h4><a href='https://computerhoy.com/motor/tesla-cybertruck-como-nunca-habia-visto-antes-1353373'>El Tesla Cybertruck como nunca se había visto antes</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-cybertruck-como-nunca-habia-visto-antes-1353373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tesla-cybertruck-negro-brillante-3255346.jpg?tf=1200x' alt='El Tesla Cybertruck como nunca se había visto antes' />
     </a>
 </div>
 
