@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/puerta-casa-tiene-tipo-llaves-como-dejaras-puerta-abierta-1312236'>Si la puerta de tu casa tiene este tipo de llaves, es como si dejarás la puerta abierta, no vale de nada</a></h4>
-    <a href='https://computerhoy.com/hogar/puerta-casa-tiene-tipo-llaves-como-dejaras-puerta-abierta-1312236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si la puerta de tu casa tiene este tipo de llaves, es como si dejarás la puerta abierta, no vale de nada' />
+    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310'>Imágenes y memes graciosos para felicitar el Año Nuevo 2024</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3254044.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317'>Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad</a></h4>
-    <a href='https://computerhoy.com/apple/error-ios-1721-provoca-iphone-tenga-problemas-conectividad-1353317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/indicador-bateria-clasico-volvera-iphone-14-pro-2803097.jpg?tf=1200x' alt='Este error de iOS 17.2.1 provoca que el iPhone tenga problemas de conectividad' />
+    <h4><a href='https://computerhoy.com/google/google-gemini-promete-revolucionar-campo-inteligencia-artificial-1351833'>¿Qué es Google Gemini y por qué promete revolucionar el campo de la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/google/google-gemini-promete-revolucionar-campo-inteligencia-artificial-1351833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/verticalimage1703855905194-3254866.jpg?tf=1200x' alt='¿Qué es Google Gemini y por qué promete revolucionar el campo de la inteligencia artificial?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124'>Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/internet-40-gb-segundo-cable-exprime-100-conexion-fibra-ahora-varios-anos-1352124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cable-red-cable-ethernet-3252761.jpg?tf=1200x' alt='Internet a 40 GB por segundo: este cable exprime al 100% tu conexión de fibra ahora y por varios años' />
+    <h4><a href='https://computerhoy.com/tecnologia/te-cuesta-despertar-gadget-te-da-ayuda-fundamental-cada-manana-barato-1352718'>Si te cuesta despertar, este gadget te da una ayuda fundamental cada mañana, y es barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-cuesta-despertar-gadget-te-da-ayuda-fundamental-cada-manana-barato-1352718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/despertador-3253932.jpg?tf=1200x' alt='Si te cuesta despertar, este gadget te da una ayuda fundamental cada mañana, y es barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-forma-del-agua-1353315'>Qué película ver en la TDT hoy: Guillermo del Toro rompe un tabú con el cine de monstruos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/que-pelicula-ver-tdt-hoy-la-forma-del-agua-1353315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/forma-agua-2017-3095998.jpg?tf=1200x' alt='Qué película ver en la TDT hoy: Guillermo del Toro rompe un tabú con el cine de monstruos' />
+    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-ano-nuevo-2024-3252957.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293'>La presencia de taxis voladores en nuestros cielos, cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/life/presencia-taxis-voladores-cielos-cada-vez-cerca-1353293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/volocopter-3255204.jpg?tf=1200x' alt='La presencia de taxis voladores en nuestros cielos, cada vez más cerca' />
+    <h4><a href='https://computerhoy.com/tecnologia/estan-utilizando-libros-harry-potter-experimentos-inteligencia-artificial-consiste-1353294'>Están utilizando los libros de Harry Potter para experimentos de inteligencia artificial y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estan-utilizando-libros-harry-potter-experimentos-inteligencia-artificial-consiste-1353294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/libros-harry-potter-3255205.jpg?tf=1200x' alt='Están utilizando los libros de Harry Potter para experimentos de inteligencia artificial y en esto consiste' />
     </a>
 </div>
 
