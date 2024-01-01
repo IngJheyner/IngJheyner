@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/pequeno-radio-fm-varios-colores-muy-barato-altavoz-muy-top-1353420'>Pequeño, con radio FM, en varios colores y muy barato: este altavoz es muy top</a></h4>
+    <a href='https://computerhoy.com/audio/pequeno-radio-fm-varios-colores-muy-barato-altavoz-muy-top-1353420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/altavoz-energy-sistem-2440607.jpg?tf=1200x' alt='Pequeño, con radio FM, en varios colores y muy barato: este altavoz es muy top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-450w-90000-mah-salvavidas-siempre-deberias-tener-mano-barato-1353068'>Esta batería de 450W y 90.000 mAh es un salvavidas que siempre deberías tener a mano, y barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-450w-90000-mah-salvavidas-siempre-deberias-tener-mano-barato-1353068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baseus-estacion-energia-3254618.jpg?tf=1200x' alt='Esta batería de 450W y 90.000 mAh es un salvavidas que siempre deberías tener a mano, y barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527'>Los 6 videojuegos más esperados de 2024 que merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-videojuegos-esperados-2024-merecen-mucho-pena-3253578.jpg?tf=1200x' alt='Los 6 videojuegos más esperados de 2024 que merecen mucho la pena' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp</a></h4>
     <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-ano-nuevo-2024-3252957.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310'>Imágenes y memes graciosos para felicitar el Año Nuevo 2024 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-memes-graciosos-felicitar-ano-nuevo-1350310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/memes-2024-3254044.jpg?tf=1200x' alt='Imágenes y memes graciosos para felicitar el Año Nuevo 2024 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malos-habitos-contrasenas-evitar-1326806'>No pongas en riesgo tu seguridad: evita estos 10 malos hábitos con las contraseñas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malos-habitos-contrasenas-evitar-1326806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/no-pongas-riesgo-seguridad-evita-estos-10-malos-habitos-contrasenas-3207600.jpg?tf=1200x' alt='No pongas en riesgo tu seguridad: evita estos 10 malos hábitos con las contraseñas' />
     </a>
 </div>
 
