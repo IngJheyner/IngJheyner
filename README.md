@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716'>Photoshop gratis: mejores alternativas para editar fotos sin instalar ni pagar nada</a></h4>
-    <a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/photoshop-3253540.jpg?tf=1200x' alt='Photoshop gratis: mejores alternativas para editar fotos sin instalar ni pagar nada' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765'>Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3251092.jpg?tf=1200x' alt='Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crater-grande-mundo-como-formo-puerta-inframundo-1347318'>La Puerta al Inframundo en Siberia: un enorme cráter que hace ruidos extraños y nadie sabe por qué</a></h4>
-    <a href='https://computerhoy.com/ciencia/crater-grande-mundo-como-formo-puerta-inframundo-1347318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puerta-inframundo-siberia-enorme-crater-hace-ruidos-extranos-nadie-sabe-3244592.jpg?tf=1200x' alt='La Puerta al Inframundo en Siberia: un enorme cráter que hace ruidos extraños y nadie sabe por qué' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-amazon-stick-4k-android-cuarta-parte-firestick-1352744'>AliExpress se la lía a Amazon: este Stick 4K con Android la cuarta parte que un Firestick</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-amazon-stick-4k-android-cuarta-parte-firestick-1352744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dq03-3253948.jpg?tf=1200x' alt='AliExpress se la lía a Amazon: este Stick 4K con Android la cuarta parte que un Firestick' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-tv-box-s-2nd-gen-3216722.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084'>Estas son las series más esperadas de Netflix para 2024</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Estas son las series más esperadas de Netflix para 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierras-raras-son-son-importantes-movil-1284358'>Qué son las tierras raras y por qué son importantes para los móviles o los coches eléctricos del futuro</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierras-raras-son-son-importantes-movil-1284358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/portada-tierras-raras-3100796.jpg?tf=1200x' alt='Qué son las tierras raras y por qué son importantes para los móviles o los coches eléctricos del futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/cursos-programacion-tecnologia-gratuitos-certificacion-oficial-empezar-2024-1350492'>Cursos de programación y tecnología gratuitos con certificación oficial para empezar en 2024 </a></h4>
+    <a href='https://computerhoy.com/tecnologia/cursos-programacion-tecnologia-gratuitos-certificacion-oficial-empezar-2024-1350492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cursos-tecnologia-3254124.jpg?tf=1200x' alt='Cursos de programación y tecnología gratuitos con certificación oficial para empezar en 2024 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/combinaciones-teclado-prohibidas-1347330'>Teclas prohibidas: 9 combinaciones de tu teclado que pueden causar auténticos estragos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/combinaciones-teclado-prohibidas-1347330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/teclas-prohibidas-9-combinaciones-teclado-pueden-causar-autenticos-estragos-3244596.jpg?tf=1200x' alt='Teclas prohibidas: 9 combinaciones de tu teclado que pueden causar auténticos estragos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-estos-seran-principales-peligros-amenazas-2024-1350491'>Ciberseguridad: estos serán los principales peligros y amenazas en 2024 </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-estos-seran-principales-peligros-amenazas-2024-1350491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3253454.jpg?tf=1200x' alt='Ciberseguridad: estos serán los principales peligros y amenazas en 2024 ' />
     </a>
 </div>
 
