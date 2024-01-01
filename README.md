@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683'>Las películas más esperadas de 2024: 6 estrenos que no debes perderte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-3250321.jpg?tf=1200x' alt='Las películas más esperadas de 2024: 6 estrenos que no debes perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-1352179'>5 películas ambientadas en Año Nuevo que seguro que quieres volver a ver</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-1352179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-3252886.jpg?tf=1200x' alt='5 películas ambientadas en Año Nuevo que seguro que quieres volver a ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765'>Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3251092.jpg?tf=1200x' alt='Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084'>Estas son las series más esperadas de Netflix para 2024</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Estas son las series más esperadas de Netflix para 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cursos-programacion-tecnologia-gratuitos-certificacion-oficial-empezar-2024-1350492'>Cursos de programación y tecnología gratuitos con certificación oficial para empezar en 2024 </a></h4>
-    <a href='https://computerhoy.com/tecnologia/cursos-programacion-tecnologia-gratuitos-certificacion-oficial-empezar-2024-1350492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cursos-tecnologia-3254124.jpg?tf=1200x' alt='Cursos de programación y tecnología gratuitos con certificación oficial para empezar en 2024 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberseguridad-estos-seran-principales-peligros-amenazas-2024-1350491'>Ciberseguridad: estos serán los principales peligros y amenazas en 2024 </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberseguridad-estos-seran-principales-peligros-amenazas-2024-1350491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3253454.jpg?tf=1200x' alt='Ciberseguridad: estos serán los principales peligros y amenazas en 2024 ' />
     </a>
 </div>
 
