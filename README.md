@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/pequeno-radio-fm-varios-colores-muy-barato-altavoz-muy-top-1353420'>Pequeño, con radio FM, en varios colores y muy barato: este altavoz es muy top</a></h4>
-    <a href='https://computerhoy.com/audio/pequeno-radio-fm-varios-colores-muy-barato-altavoz-muy-top-1353420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/altavoz-energy-sistem-2440607.jpg?tf=1200x' alt='Pequeño, con radio FM, en varios colores y muy barato: este altavoz es muy top' />
+    <h4><a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716'>Photoshop gratis: mejores alternativas para editar fotos sin instalar ni pagar nada</a></h4>
+    <a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/photoshop-3253540.jpg?tf=1200x' alt='Photoshop gratis: mejores alternativas para editar fotos sin instalar ni pagar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-450w-90000-mah-salvavidas-siempre-deberias-tener-mano-barato-1353068'>Esta batería de 450W y 90.000 mAh es un salvavidas que siempre deberías tener a mano, y barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-450w-90000-mah-salvavidas-siempre-deberias-tener-mano-barato-1353068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/baseus-estacion-energia-3254618.jpg?tf=1200x' alt='Esta batería de 450W y 90.000 mAh es un salvavidas que siempre deberías tener a mano, y barato' />
+    <h4><a href='https://computerhoy.com/ciencia/crater-grande-mundo-como-formo-puerta-inframundo-1347318'>La Puerta al Inframundo en Siberia: un enorme cráter que hace ruidos extraños y nadie sabe por qué</a></h4>
+    <a href='https://computerhoy.com/ciencia/crater-grande-mundo-como-formo-puerta-inframundo-1347318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puerta-inframundo-siberia-enorme-crater-hace-ruidos-extranos-nadie-sabe-3244592.jpg?tf=1200x' alt='La Puerta al Inframundo en Siberia: un enorme cráter que hace ruidos extraños y nadie sabe por qué' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527'>Los 6 videojuegos más esperados de 2024 que merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/videojuegos-esperados-2024-merecen-mucho-pena-1352527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/6-videojuegos-esperados-2024-merecen-mucho-pena-3253578.jpg?tf=1200x' alt='Los 6 videojuegos más esperados de 2024 que merecen mucho la pena' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173'>Mejores Android TV Box baratas que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-android-tv-box-baratos-1120173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-tv-box-s-2nd-gen-3216722.jpg?tf=1200x' alt='Mejores Android TV Box baratas que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-alternativas-google-maps-1347332'>18 aplicaciones que son mejores que Google Maps según el uso y necesidades</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-alternativas-google-maps-1347332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='18 aplicaciones que son mejores que Google Maps según el uso y necesidades' />
+    <h4><a href='https://computerhoy.com/ciencia/tierras-raras-son-son-importantes-movil-1284358'>Qué son las tierras raras y por qué son importantes para los móviles o los coches eléctricos del futuro</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierras-raras-son-son-importantes-movil-1284358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/portada-tierras-raras-3100796.jpg?tf=1200x' alt='Qué son las tierras raras y por qué son importantes para los móviles o los coches eléctricos del futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/imagenes-fotos-originales-felicitar-ano-nuevo-contactos-1349881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-ano-nuevo-2024-3252957.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo a tus contactos de WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/combinaciones-teclado-prohibidas-1347330'>Teclas prohibidas: 9 combinaciones de tu teclado que pueden causar auténticos estragos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/combinaciones-teclado-prohibidas-1347330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/teclas-prohibidas-9-combinaciones-teclado-pueden-causar-autenticos-estragos-3244596.jpg?tf=1200x' alt='Teclas prohibidas: 9 combinaciones de tu teclado que pueden causar auténticos estragos' />
     </a>
 </div>
 
