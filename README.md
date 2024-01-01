@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/gran-fracaso-streaming-5000-millones-perdidas-2023-1353409'>El gran fracaso del streaming: 5.000 millones de dólares de pérdidas en 2023</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/gran-fracaso-streaming-5000-millones-perdidas-2023-1353409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gran-fracaso-streaming-5000-millones-dolares-perdidas-2023-3255401.jpg?tf=1200x' alt='El gran fracaso del streaming: 5.000 millones de dólares de pérdidas en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lg-presenta-robot-inteligencia-artificial-hogar-1353401'>LG presenta un robot de compañía con IA que analiza las emociones y conversa como una persona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-presenta-robot-inteligencia-artificial-hogar-1353401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lg-presenta-robot-compania-ia-juega-ninos-vigila-mascotas-3255387.jpg?tf=1200x' alt='LG presenta un robot de compañía con IA que analiza las emociones y conversa como una persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683'>Las películas más esperadas de 2024: 6 estrenos que no debes perderte</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-3250321.jpg?tf=1200x' alt='Las películas más esperadas de 2024: 6 estrenos que no debes perderte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765'>Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3251092.jpg?tf=1200x' alt='Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-amazon-stick-4k-android-cuarta-parte-firestick-1352744'>AliExpress se la lía a Amazon: este Stick 4K con Android la cuarta parte que un Firestick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-amazon-stick-4k-android-cuarta-parte-firestick-1352744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/dq03-3253948.jpg?tf=1200x' alt='AliExpress se la lía a Amazon: este Stick 4K con Android la cuarta parte que un Firestick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084'>Estas son las series más esperadas de Netflix para 2024</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estas-son-series-esperadas-netflix-2024-1351084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Estas son las series más esperadas de Netflix para 2024' />
     </a>
 </div>
 
