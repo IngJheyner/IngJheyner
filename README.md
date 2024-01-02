@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/camara-puente-animales-autopista-muestra-docenas-especies-1353419'>Ponen una cámara en un puente para animales sobre una autopista, y lo cruzan docenas de especies</a></h4>
+    <a href='https://computerhoy.com/life/camara-puente-animales-autopista-muestra-docenas-especies-1353419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ponen-camara-puente-animales-autopista-cruzan-docenas-especies-3255414.jpg?tf=1200x' alt='Ponen una cámara en un puente para animales sobre una autopista, y lo cruzan docenas de especies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/renault-5-e-tech-coche-electrico-precio-fecha-lanzamiento-1353416'>El mítico Renault 5 vuelve a la carretera en versión eléctrica</a></h4>
+    <a href='https://computerhoy.com/motor/renault-5-e-tech-coche-electrico-precio-fecha-lanzamiento-1353416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mitico-renault-5-vuelve-carretera-version-electrica-3255410.jpg?tf=1200x' alt='El mítico Renault 5 vuelve a la carretera en versión eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nvidia-rtx-4000-super-especificaciones-fecha-lanzamiento-1353414'>No compres una nueva tarjeta gráfica: se filtran las especificaciones completas de las RTX 4000 Super de Nvidia </a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-rtx-4000-super-especificaciones-fecha-lanzamiento-1353414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/filtran-esperadas-tarjetas-rtx-4070-4060-2988092.jpg?tf=1200x' alt='No compres una nueva tarjeta gráfica: se filtran las especificaciones completas de las RTX 4000 Super de Nvidia ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033'>Estas son las mejores aspiradoras inalámbricas calidad precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-aspiradoras-inalambricas-808033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-mi-vacuum-cleaner-g10-plus-3195874.jpg?tf=1200x' alt='Estas son las mejores aspiradoras inalámbricas calidad precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/gran-fracaso-streaming-5000-millones-perdidas-2023-1353409'>El gran fracaso del streaming: 5.000 millones de dólares de pérdidas en 2023</a></h4>
     <a href='https://computerhoy.com/entretenimiento/gran-fracaso-streaming-5000-millones-perdidas-2023-1353409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gran-fracaso-streaming-5000-millones-dolares-perdidas-2023-3255401.jpg?tf=1200x' alt='El gran fracaso del streaming: 5.000 millones de dólares de pérdidas en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-presenta-robot-inteligencia-artificial-hogar-1353401'>LG presenta un robot de compañía con IA que analiza las emociones y conversa como una persona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-presenta-robot-inteligencia-artificial-hogar-1353401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lg-presenta-robot-compania-ia-juega-ninos-vigila-mascotas-3255387.jpg?tf=1200x' alt='LG presenta un robot de compañía con IA que analiza las emociones y conversa como una persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683'>Las películas más esperadas de 2024: 6 estrenos que no debes perderte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-1350683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/peliculas-esperadas-2024-6-estrenos-no-debes-perderte-3250321.jpg?tf=1200x' alt='Las películas más esperadas de 2024: 6 estrenos que no debes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-1352179'>5 películas ambientadas en Año Nuevo que seguro que quieres volver a ver</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-1352179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-ambientadas-ano-nuevo-seguro-quieres-volver-ver-3252886.jpg?tf=1200x' alt='5 películas ambientadas en Año Nuevo que seguro que quieres volver a ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765'>Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-habitos-online-deberias-cambiarlos-estar-protegido-2024-1350765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ciberseguridad-2024-3251092.jpg?tf=1200x' alt='Estos hábitos online deberías cambiarlos para estar protegido en 2024, según expertos' />
     </a>
 </div>
 
