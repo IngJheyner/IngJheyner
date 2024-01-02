@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tendencias-he-visto-moviles-2023-no-me-gustaria-volver-ver-2024-1350191'>Soy analista de móviles: 4 cosas que he visto en los smartphones durante 2023 que no me gustaría volver a ver en 2024</a></h4>
-    <a href='https://computerhoy.com/moviles/tendencias-he-visto-moviles-2023-no-me-gustaria-volver-ver-2024-1350191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-detalles-no-me-gustan-moviles-2023-3251704.jpg?tf=1200x' alt='Soy analista de móviles: 4 cosas que he visto en los smartphones durante 2023 que no me gustaría volver a ver en 2024' />
+    <h4><a href='https://computerhoy.com/apple/apple-marca-fin-era-abandonar-tradicion-12-anos-1353549'>Apple marca el fin de una era al abandonar una tradición de 12 años</a></h4>
+    <a href='https://computerhoy.com/apple/apple-marca-fin-era-abandonar-tradicion-12-anos-1353549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ipad-air-3223566.jpg?tf=1200x' alt='Apple marca el fin de una era al abandonar una tradición de 12 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/caracteristica-me-ha-gustado-huawei-freeclip-1353098'>Esta es la característica que más me ha gustado de los Huawei FreeClip</a></h4>
-    <a href='https://computerhoy.com/audio/caracteristica-me-ha-gustado-huawei-freeclip-1353098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-freeclip-caracteristica-me-ha-gustado-3254940.jpg?tf=1200x' alt='Esta es la característica que más me ha gustado de los Huawei FreeClip' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-regala-36-euros-gratis-puedes-lograrlos-1353534'>AliExpress pega el bombazo y regala hasta 36 euros gratis: así puedes lograrlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-regala-36-euros-gratis-puedes-lograrlos-1353534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='AliExpress pega el bombazo y regala hasta 36 euros gratis: así puedes lograrlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593'>Mejores tablets de 10 pulgadas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-10-pulgadas-puedes-comprar-1127593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-surface-go-3-3251466.jpg?tf=1200x' alt='Mejores tablets de 10 pulgadas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/novedades-nuevas-funciones-llegaran-whatsapp-2024-1353536'>7 novedades y nuevas funciones que llegarán a WhatsApp este 2024</a></h4>
+    <a href='https://computerhoy.com/apps/novedades-nuevas-funciones-llegaran-whatsapp-2024-1353536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-funciones-whatsapp-2024-3255549.jpg?tf=1200x' alt='7 novedades y nuevas funciones que llegarán a WhatsApp este 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299'>Mejores televisores 4K de 55 pulgadas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-4k-55-pulgadas-1059299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/tv-sony.jpg?tf=1200x' alt='Mejores televisores 4K de 55 pulgadas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292'>WhatsApp Web tiene un nuevo modo oscuro en proceso</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='WhatsApp Web tiene un nuevo modo oscuro en proceso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908'>Los motivos por los que los coches eléctricos necesitan neumáticos especiales</a></h4>
-    <a href='https://computerhoy.com/motor/estos-son-motivos-coches-electricos-necesitan-neumaticos-especiales-1173908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/neumaticos-2472453.jpg?tf=1200x' alt='Los motivos por los que los coches eléctricos necesitan neumáticos especiales' />
+    <h4><a href='https://computerhoy.com/life/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-1352714'>¿Problemas para madrugar? 5 sencillas acciones para que salir de la cama no sea un drama</a></h4>
+    <a href='https://computerhoy.com/life/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-1352714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-3253916.jpg?tf=1200x' alt='¿Problemas para madrugar? 5 sencillas acciones para que salir de la cama no sea un drama' />
     </a>
 </div>
 
