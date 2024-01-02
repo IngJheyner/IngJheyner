@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estas-son-todas-misiones-nasa-2024-espectacular-trailer-1353621'>Estas son todas las misiones de la NASA para 2024 en un espectacular tráiler</a></h4>
-    <a href='https://computerhoy.com/espacio/estas-son-todas-misiones-nasa-2024-espectacular-trailer-1353621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/misiones-nasa-2024-3255679.jpg?tf=1200x' alt='Estas son todas las misiones de la NASA para 2024 en un espectacular tráiler' />
+    <h4><a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709'>El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón</a></h4>
+    <a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-triunfa-tiktok-alexa-te-notifique-cartas-buzon-3255849.jpg?tf=1200x' alt='El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ano-oiras-hablar-mucho-mentalidad-aumentada-toma-nota-1353589'>Este año oirás hablar mucho de "Mentalidad aumentada" así que toma nota</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ano-oiras-hablar-mucho-mentalidad-aumentada-toma-nota-1353589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asistente-virtual-ia-3255668.jpg?tf=1200x' alt='Este año oirás hablar mucho de "Mentalidad aumentada" así que toma nota' />
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721189.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-alcanza-hoy-velocidad-maxima-acerca-sol-1353571'>La Tierra alcanza hoy su velocidad máxima y se acerca más que nunca al Sol</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-alcanza-hoy-velocidad-maxima-acerca-sol-1353571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tierra-sol-3255633.jpg?tf=1200x' alt='La Tierra alcanza hoy su velocidad máxima y se acerca más que nunca al Sol' />
+    <h4><a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759'>Mejores apps para que tus hijos escriban a los Reyes Magos</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-hijos-escriban-reyes-magos-3253959.jpg?tf=1200x' alt='Mejores apps para que tus hijos escriban a los Reyes Magos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210'>El test que te dice a qué filósofo te pareces según tu forma de pensar</a></h4>
-    <a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/filosofo-te-pareces-3255667.jpg?tf=1200x' alt='El test que te dice a qué filósofo te pareces según tu forma de pensar' />
+    <h4><a href='https://computerhoy.com/espacio/luna-io-inaccesible-extrema-sistema-solar-1353701'>Así es la luna más inaccesible y extrema del Sistema Solar</a></h4>
+    <a href='https://computerhoy.com/espacio/luna-io-inaccesible-extrema-sistema-solar-1353701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-inaccesible-extrema-sistema-solar-3255811.jpg?tf=1200x' alt='Así es la luna más inaccesible y extrema del Sistema Solar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-garmin-buscado-fenix-7x-carga-solar-1353557'>Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-garmin-buscado-fenix-7x-carga-solar-1353557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-1353091'>Fukutsudzi, el método japonés que te ayuda a lucir abdominales y se ha hecho viral</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-1353091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-3254863.jpg?tf=1200x' alt='Fukutsudzi, el método japonés que te ayuda a lucir abdominales y se ha hecho viral' />
     </a>
 </div>
 
