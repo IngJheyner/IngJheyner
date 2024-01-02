@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-marca-fin-era-abandonar-tradicion-12-anos-1353549'>Apple marca el fin de una era al abandonar una tradición de 12 años</a></h4>
-    <a href='https://computerhoy.com/apple/apple-marca-fin-era-abandonar-tradicion-12-anos-1353549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ipad-air-3223566.jpg?tf=1200x' alt='Apple marca el fin de una era al abandonar una tradición de 12 años' />
+    <h4><a href='https://computerhoy.com/espacio/estas-son-todas-misiones-nasa-2024-espectacular-trailer-1353621'>Estas son todas las misiones de la NASA para 2024 en un espectacular tráiler</a></h4>
+    <a href='https://computerhoy.com/espacio/estas-son-todas-misiones-nasa-2024-espectacular-trailer-1353621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/misiones-nasa-2024-3255679.jpg?tf=1200x' alt='Estas son todas las misiones de la NASA para 2024 en un espectacular tráiler' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-regala-36-euros-gratis-puedes-lograrlos-1353534'>AliExpress pega el bombazo y regala hasta 36 euros gratis: así puedes lograrlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-regala-36-euros-gratis-puedes-lograrlos-1353534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='AliExpress pega el bombazo y regala hasta 36 euros gratis: así puedes lograrlos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ano-oiras-hablar-mucho-mentalidad-aumentada-toma-nota-1353589'>Este año oirás hablar mucho de "Mentalidad aumentada" así que toma nota</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ano-oiras-hablar-mucho-mentalidad-aumentada-toma-nota-1353589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asistente-virtual-ia-3255668.jpg?tf=1200x' alt='Este año oirás hablar mucho de "Mentalidad aumentada" así que toma nota' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/novedades-nuevas-funciones-llegaran-whatsapp-2024-1353536'>7 novedades y nuevas funciones que llegarán a WhatsApp este 2024</a></h4>
-    <a href='https://computerhoy.com/apps/novedades-nuevas-funciones-llegaran-whatsapp-2024-1353536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-funciones-whatsapp-2024-3255549.jpg?tf=1200x' alt='7 novedades y nuevas funciones que llegarán a WhatsApp este 2024' />
+    <h4><a href='https://computerhoy.com/ciencia/tierra-alcanza-hoy-velocidad-maxima-acerca-sol-1353571'>La Tierra alcanza hoy su velocidad máxima y se acerca más que nunca al Sol</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-alcanza-hoy-velocidad-maxima-acerca-sol-1353571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tierra-sol-3255633.jpg?tf=1200x' alt='La Tierra alcanza hoy su velocidad máxima y se acerca más que nunca al Sol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292'>WhatsApp Web tiene un nuevo modo oscuro en proceso</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-modo-oscuro-whatsapp-web-vas-querer-activar-1353292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/whatsapp-web-pc-movil-2597981.jpg?tf=1200x' alt='WhatsApp Web tiene un nuevo modo oscuro en proceso' />
+    <h4><a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210'>El test que te dice a qué filósofo te pareces según tu forma de pensar</a></h4>
+    <a href='https://computerhoy.com/life/test-te-dice-filosofo-te-pareces-forma-pensar-1181210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/filosofo-te-pareces-3255667.jpg?tf=1200x' alt='El test que te dice a qué filósofo te pareces según tu forma de pensar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-1352714'>¿Problemas para madrugar? 5 sencillas acciones para que salir de la cama no sea un drama</a></h4>
-    <a href='https://computerhoy.com/life/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-1352714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/problemas-madrugar-5-sencillas-acciones-salir-cama-no-sea-drama-3253916.jpg?tf=1200x' alt='¿Problemas para madrugar? 5 sencillas acciones para que salir de la cama no sea un drama' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-garmin-buscado-fenix-7x-carga-solar-1353557'>Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-garmin-buscado-fenix-7x-carga-solar-1353557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar' />
     </a>
 </div>
 
