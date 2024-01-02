@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-reforzar-seguridad-privacidad-1353713'>Desactiva esta configuración del iPhone para reforzar tu seguridad y privacidad online</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-reforzar-seguridad-privacidad-1353713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-desarrolla-sistema-actualizar-iphones-estrenar-sacarlos-caja-3197500.jpg?tf=1200x' alt='Desactiva esta configuración del iPhone para reforzar tu seguridad y privacidad online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-solucionar-errores-spotify-android-auto-guia-completa-1353723'>Cómo solucionar los errores de Spotify en Android Auto: guía completa</a></h4>
+    <a href='https://computerhoy.com/apps/como-solucionar-errores-spotify-android-auto-guia-completa-1353723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Cómo solucionar los errores de Spotify en Android Auto: guía completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709'>El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón</a></h4>
     <a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-triunfa-tiktok-alexa-te-notifique-cartas-buzon-3255849.jpg?tf=1200x' alt='El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759'>Mejores apps para que tus hijos escriban a los Reyes Magos</a></h4>
     <a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-hijos-escriban-reyes-magos-3253959.jpg?tf=1200x' alt='Mejores apps para que tus hijos escriban a los Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/luna-io-inaccesible-extrema-sistema-solar-1353701'>Así es la luna más inaccesible y extrema del Sistema Solar</a></h4>
-    <a href='https://computerhoy.com/espacio/luna-io-inaccesible-extrema-sistema-solar-1353701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-inaccesible-extrema-sistema-solar-3255811.jpg?tf=1200x' alt='Así es la luna más inaccesible y extrema del Sistema Solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-1353091'>Fukutsudzi, el método japonés que te ayuda a lucir abdominales y se ha hecho viral</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-1353091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fukutsudzi-metodo-japones-te-ayuda-lucir-abdominales-ha-hecho-viral-3254863.jpg?tf=1200x' alt='Fukutsudzi, el método japonés que te ayuda a lucir abdominales y se ha hecho viral' />
     </a>
 </div>
 
