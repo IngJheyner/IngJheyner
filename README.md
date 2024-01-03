@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396'>iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas</a></h4>
+    <a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg?tf=1200x' alt='iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-invento-chino-construir-coches-hidrogeno-1353975'>Así es el nuevo invento chino para construir coches de hidrógeno</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-invento-chino-construir-coches-hidrogeno-1353975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-invento-chino-construir-coches-hidrogeno-3256278.jpg?tf=1200x' alt='Así es el nuevo invento chino para construir coches de hidrógeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/truco-2024-no-te-multen-radares-arrasa-europa-1354072'>El truco de 2024 para engañar a los radares de la DGT, que arrasa en Europa</a></h4>
+    <a href='https://computerhoy.com/motor/truco-2024-no-te-multen-radares-arrasa-europa-1354072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-2024-no-te-multen-radares-arrasa-europa-3256556.jpg?tf=1200x' alt='El truco de 2024 para engañar a los radares de la DGT, que arrasa en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063'>El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia</a></h4>
+    <a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/retrovisor-lluvia-3256543.jpg?tf=1200x' alt='El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057'>Crean una tecnología de teletransportación similar a la vista en Star Trek</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Crean una tecnología de teletransportación similar a la vista en Star Trek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ayudan-videojuegos-estimular-mente-dice-realmente-ciencia-1353883'>¿Ayudan los videojuegos a estimular la mente? Esto dice realmente la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/ayudan-videojuegos-estimular-mente-dice-realmente-ciencia-1353883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='¿Ayudan los videojuegos a estimular la mente? Esto dice realmente la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/precio-apple-watch-series-9-toca-fondo-amazon-rebaja-puertas-reyes-1353948'>El precio del Apple Watch Series 9 toca fondo: Amazon lo rebaja a las puertas de Reyes</a></h4>
-    <a href='https://computerhoy.com/apple/precio-apple-watch-series-9-toca-fondo-amazon-rebaja-puertas-reyes-1353948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187122.jpg?tf=1200x' alt='El precio del Apple Watch Series 9 toca fondo: Amazon lo rebaja a las puertas de Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/roaching-como-detectar-pareja-personas-vez-1353664'>Roaching: cómo detectar si tu pareja está con más personas a la vez</a></h4>
-    <a href='https://computerhoy.com/life/roaching-como-detectar-pareja-personas-vez-1353664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roaching-como-detectar-pareja-sale-personas-vez-3255738.jpg?tf=1200x' alt='Roaching: cómo detectar si tu pareja está con más personas a la vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solucion-fabricantes-camaras-imagenes-creadas-inteligencia-artificial-1353995'>La solución de los fabricantes de cámaras para las fotos creadas por IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solucion-fabricantes-camaras-imagenes-creadas-inteligencia-artificial-1353995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/solucion-fabricantes-camaras-fotos-creadas-ia-3256384.jpg?tf=1200x' alt='La solución de los fabricantes de cámaras para las fotos creadas por IA' />
     </a>
 </div>
 
