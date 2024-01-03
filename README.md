@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-reforzar-seguridad-privacidad-1353713'>Desactiva esta configuración del iPhone para reforzar tu seguridad y privacidad online</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-reforzar-seguridad-privacidad-1353713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-desarrolla-sistema-actualizar-iphones-estrenar-sacarlos-caja-3197500.jpg?tf=1200x' alt='Desactiva esta configuración del iPhone para reforzar tu seguridad y privacidad online' />
+    <h4><a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749'>Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney</a></h4>
+    <a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mickey-mouse-ya-dominio-publico-pero-solo-diseno-1928-3255911.jpg?tf=1200x' alt='Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-solucionar-errores-spotify-android-auto-guia-completa-1353723'>Cómo solucionar los errores de Spotify en Android Auto: guía completa</a></h4>
-    <a href='https://computerhoy.com/apps/como-solucionar-errores-spotify-android-auto-guia-completa-1353723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Cómo solucionar los errores de Spotify en Android Auto: guía completa' />
+    <h4><a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741'>¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo</a></h4>
+    <a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fin-cemento-inventan-tecnica-agiliza-construccion-muros-ladrillo-rapido-3255894.jpg?tf=1200x' alt='¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709'>El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón</a></h4>
-    <a href='https://computerhoy.com/life/truco-alexa-notifique-cartas-buzon-1353709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-triunfa-tiktok-alexa-te-notifique-cartas-buzon-3255849.jpg?tf=1200x' alt='El truco que triunfa en TikTok para que Alexa te notifique las cartas en tu buzón' />
+    <h4><a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803'>Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-prime-video-tiene-pelicula-momento-narra-poderosa-historia-lucha-clases-3255959.jpg?tf=1200x' alt='Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721189.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-bancaria-cada-vez-comun-espana-debes-protegerte-1353780'>La estafa telefónica y bancaria cada vez más común en España y de la que debes protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-bancaria-cada-vez-comun-espana-debes-protegerte-1353780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-telefonica-3255956.jpg?tf=1200x' alt='La estafa telefónica y bancaria cada vez más común en España y de la que debes protegerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759'>Mejores apps para que tus hijos escriban a los Reyes Magos</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-apps-hijos-escriban-reyes-magos-1352759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/mejores-apps-hijos-escriban-reyes-magos-3253959.jpg?tf=1200x' alt='Mejores apps para que tus hijos escriban a los Reyes Magos' />
+    <h4><a href='https://computerhoy.com/apps/acerca-dia-donde-hay-probabilidades-ligar-tinder-otras-apps-citas-1353777'>Se acerca el día donde hay más probabilidades de ligar en Tinder y otras apps de citas</a></h4>
+    <a href='https://computerhoy.com/apps/acerca-dia-donde-hay-probabilidades-ligar-tinder-otras-apps-citas-1353777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conciertos-tinder-2675101.jpg?tf=1200x' alt='Se acerca el día donde hay más probabilidades de ligar en Tinder y otras apps de citas' />
     </a>
 </div>
 
