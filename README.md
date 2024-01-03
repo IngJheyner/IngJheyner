@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936060.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/valoracion-twitter-x-cae-picado-elon-musk-1353837'>Una nueva valoración de 2024 concluye que Twitter vale hoy solo el 29% de lo que Elon Musk pagó</a></h4>
+    <a href='https://computerhoy.com/tecnologia/valoracion-twitter-x-cae-picado-elon-musk-1353837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-twitter-cara-elon-musk-3003134.jpg?tf=1200x' alt='Una nueva valoración de 2024 concluye que Twitter vale hoy solo el 29% de lo que Elon Musk pagó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-calibrar-google-maps-mejorar-precision-funcionamiento-1353785'>El sencillo truco para mejorar la precisión y funcionamiento de tu Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/como-calibrar-google-maps-mejorar-precision-funcionamiento-1353785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-puedes-mejorar-precision-funcionamiento-google-maps-3255973.jpg?tf=1200x' alt='El sencillo truco para mejorar la precisión y funcionamiento de tu Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-alternativo-barato-igual-potente-1353607'>Olvida la Raspberry Pi: este Mini PC alternativo es más barato e igual de potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-alternativo-barato-igual-potente-1353607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Olvida la Raspberry Pi: este Mini PC alternativo es más barato e igual de potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575'>¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819'>Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual</a></h4>
-    <a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-puedes-descargar-uevr-mod-gratuito-permite-jugar-11000-juegos-pc-realidad-virtual-3255998.jpg?tf=1200x' alt='Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/analisis-honor-magic-6-lite-bateria-infinita-modesto-familia-1351195'>Análisis Honor Magic 6 Lite, batería infinita para el más modesto de la familia</a></h4>
-    <a href='https://computerhoy.com/analisis/analisis-honor-magic-6-lite-bateria-infinita-modesto-familia-1351195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magic-lite-3255690.jpg?tf=1200x' alt='Análisis Honor Magic 6 Lite, batería infinita para el más modesto de la familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749'>Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney</a></h4>
-    <a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mickey-mouse-ya-dominio-publico-pero-solo-diseno-1928-3255911.jpg?tf=1200x' alt='Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741'>¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo</a></h4>
-    <a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fin-cemento-inventan-tecnica-agiliza-construccion-muros-ladrillo-rapido-3255894.jpg?tf=1200x' alt='¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo' />
     </a>
 </div>
 
