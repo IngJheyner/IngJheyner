@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575'>¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819'>Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual</a></h4>
     <a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-puedes-descargar-uevr-mod-gratuito-permite-jugar-11000-juegos-pc-realidad-virtual-3255998.jpg?tf=1200x' alt='Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741'>¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo</a></h4>
     <a href='https://computerhoy.com/life/fin-cemento-inventan-tecnica-agiliza-construccion-1353741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fin-cemento-inventan-tecnica-agiliza-construccion-muros-ladrillo-rapido-3255894.jpg?tf=1200x' alt='¿El fin del cemento? Inventan una técnica que agiliza la construcción de muros de ladrillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803'>Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-prime-video-tiene-pelicula-momento-narra-poderosa-historia-lucha-clases-3255959.jpg?tf=1200x' alt='Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases' />
     </a>
 </div>
 
