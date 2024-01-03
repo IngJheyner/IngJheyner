@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819'>Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual</a></h4>
+    <a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-puedes-descargar-uevr-mod-gratuito-permite-jugar-11000-juegos-pc-realidad-virtual-3255998.jpg?tf=1200x' alt='Ya puedes descargar UEVR, el mod gratuito que permite jugar a 11.000 juegos de PC en realidad virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/analisis-honor-magic-6-lite-bateria-infinita-modesto-familia-1351195'>Análisis Honor Magic 6 Lite, batería infinita para el más modesto de la familia</a></h4>
+    <a href='https://computerhoy.com/analisis/analisis-honor-magic-6-lite-bateria-infinita-modesto-familia-1351195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magic-lite-3255690.jpg?tf=1200x' alt='Análisis Honor Magic 6 Lite, batería infinita para el más modesto de la familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749'>Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney</a></h4>
     <a href='https://computerhoy.com/life/mickey-mouse-dominio-publico-diseno-1928-1353749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mickey-mouse-ya-dominio-publico-pero-solo-diseno-1928-3255911.jpg?tf=1200x' alt='Mickey Mouse ya es de dominio público, y ya cuenta con una película de terror y un videojuego que enfadarán a Disney' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803'>Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases</a></h4>
     <a href='https://computerhoy.com/entretenimiento/saltburn-amazon-prime-video-tiene-pelicula-momento-1353803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-prime-video-tiene-pelicula-momento-narra-poderosa-historia-lucha-clases-3255959.jpg?tf=1200x' alt='Amazon Prime Video tiene la película del momento que narra una poderosa historia sobre la lucha de clases' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-bancaria-cada-vez-comun-espana-debes-protegerte-1353780'>La estafa telefónica y bancaria cada vez más común en España y de la que debes protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-telefonica-bancaria-cada-vez-comun-espana-debes-protegerte-1353780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-telefonica-3255956.jpg?tf=1200x' alt='La estafa telefónica y bancaria cada vez más común en España y de la que debes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/acerca-dia-donde-hay-probabilidades-ligar-tinder-otras-apps-citas-1353777'>Se acerca el día donde hay más probabilidades de ligar en Tinder y otras apps de citas</a></h4>
-    <a href='https://computerhoy.com/apps/acerca-dia-donde-hay-probabilidades-ligar-tinder-otras-apps-citas-1353777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/conciertos-tinder-2675101.jpg?tf=1200x' alt='Se acerca el día donde hay más probabilidades de ligar en Tinder y otras apps de citas' />
     </a>
 </div>
 
