@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047'>Mejores ordenadores de sobremesa que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-ordenadores-sobremesa-puedes-comprar-1043047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936060.jpg?tf=1200x' alt='Mejores ordenadores de sobremesa que puedes comprar' />
+    <h4><a href='https://computerhoy.com/motor/nuevos-detalles-su7-xiaomi-conduccion-autonoma-ecosistema-hyperos-iot-1353866'>Nuevos detalles del SU7 de Xiaomi: conducción autónoma, ecosistema HyperOS IoT y mucha IA</a></h4>
+    <a href='https://computerhoy.com/motor/nuevos-detalles-su7-xiaomi-conduccion-autonoma-ecosistema-hyperos-iot-1353866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/su7-xiaomi-3256113.jpg?tf=1200x' alt='Nuevos detalles del SU7 de Xiaomi: conducción autónoma, ecosistema HyperOS IoT y mucha IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/valoracion-twitter-x-cae-picado-elon-musk-1353837'>Una nueva valoración de 2024 concluye que Twitter vale hoy solo el 29% de lo que Elon Musk pagó</a></h4>
-    <a href='https://computerhoy.com/tecnologia/valoracion-twitter-x-cae-picado-elon-musk-1353837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/logo-twitter-cara-elon-musk-3003134.jpg?tf=1200x' alt='Una nueva valoración de 2024 concluye que Twitter vale hoy solo el 29% de lo que Elon Musk pagó' />
+    <h4><a href='https://computerhoy.com/tecnologia/revelados-astronomicos-salarios-openai-google-pagan-trabajdores-ia-1353856'>Revelados los astronómicos salarios que OpenAI o Google pagan a sus trabajadores de IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/revelados-astronomicos-salarios-openai-google-pagan-trabajdores-ia-1353856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trabajador-ia-3256108.jpg?tf=1200x' alt='Revelados los astronómicos salarios que OpenAI o Google pagan a sus trabajadores de IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-calibrar-google-maps-mejorar-precision-funcionamiento-1353785'>El sencillo truco para mejorar la precisión y funcionamiento de tu Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/como-calibrar-google-maps-mejorar-precision-funcionamiento-1353785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-puedes-mejorar-precision-funcionamiento-google-maps-3255973.jpg?tf=1200x' alt='El sencillo truco para mejorar la precisión y funcionamiento de tu Google Maps' />
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-flash-ultima-hora-ipad-revienta-precio-llega-antes-reyes-1353844'>Chollo flash de última hora: el iPad revienta su precio y llega antes de Reyes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-flash-ultima-hora-ipad-revienta-precio-llega-antes-reyes-1353844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Chollo flash de última hora: el iPad revienta su precio y llega antes de Reyes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-alternativo-barato-igual-potente-1353607'>Olvida la Raspberry Pi: este Mini PC alternativo es más barato e igual de potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-alternativo-barato-igual-potente-1353607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Olvida la Raspberry Pi: este Mini PC alternativo es más barato e igual de potente' />
+    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-estan-punto-compartir-sitio-humanos-industria-1353850'>Los robots humanoides ya son una realidad y comparten lugar de trabajo con los humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-humanoides-estan-punto-compartir-sitio-humanos-industria-1353850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robots-humanoides-3256055.jpg?tf=1200x' alt='Los robots humanoides ya son una realidad y comparten lugar de trabajo con los humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575'>¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-1353575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='¿Quieres vivir más y envejecer mejor? Lo tienes más fácil de lo que crees, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-ofrece-chatbot-respecto-demas-1353703'>¿Qué es Meta AI y qué ofrece este chatbot respecto a los demás?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-ai-ofrece-chatbot-respecto-demas-1353703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/meta-ai-ofrece-chatbot-respecto-demas-3255866.jpg?tf=1200x' alt='¿Qué es Meta AI y qué ofrece este chatbot respecto a los demás?' />
     </a>
 </div>
 
