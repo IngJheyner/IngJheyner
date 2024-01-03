@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevos-detalles-su7-xiaomi-conduccion-autonoma-ecosistema-hyperos-iot-1353866'>Nuevos detalles del SU7 de Xiaomi: conducción autónoma, ecosistema HyperOS IoT y mucha IA</a></h4>
-    <a href='https://computerhoy.com/motor/nuevos-detalles-su7-xiaomi-conduccion-autonoma-ecosistema-hyperos-iot-1353866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/su7-xiaomi-3256113.jpg?tf=1200x' alt='Nuevos detalles del SU7 de Xiaomi: conducción autónoma, ecosistema HyperOS IoT y mucha IA' />
+    <h4><a href='https://computerhoy.com/apps/drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-1353821'>Google pronto comenzará a cobrarte por usar WhatsApp en Android: Toma nota para evitarlo</a></h4>
+    <a href='https://computerhoy.com/apps/drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-1353821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/momento-ha-llegado-drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-3256016.jpg?tf=1200x' alt='Google pronto comenzará a cobrarte por usar WhatsApp en Android: Toma nota para evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revelados-astronomicos-salarios-openai-google-pagan-trabajdores-ia-1353856'>Revelados los astronómicos salarios que OpenAI o Google pagan a sus trabajadores de IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/revelados-astronomicos-salarios-openai-google-pagan-trabajdores-ia-1353856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trabajador-ia-3256108.jpg?tf=1200x' alt='Revelados los astronómicos salarios que OpenAI o Google pagan a sus trabajadores de IA' />
+    <h4><a href='https://computerhoy.com/life/calcula-cuanto-te-tiene-quitar-hacienda-nomina-2024-1353802'>Cómo saber el IRPF que te deben quitar de tu nómina en 2024 con la calculadora de Hacienda</a></h4>
+    <a href='https://computerhoy.com/life/calcula-cuanto-te-tiene-quitar-hacienda-nomina-2024-1353802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-irpf-te-deben-quitar-nomina-2024-calculadora-hacienda-3256008.jpg?tf=1200x' alt='Cómo saber el IRPF que te deben quitar de tu nómina en 2024 con la calculadora de Hacienda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-flash-ultima-hora-ipad-revienta-precio-llega-antes-reyes-1353844'>Chollo flash de última hora: el iPad revienta su precio y llega antes de Reyes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-flash-ultima-hora-ipad-revienta-precio-llega-antes-reyes-1353844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Chollo flash de última hora: el iPad revienta su precio y llega antes de Reyes' />
+    <h4><a href='https://computerhoy.com/life/mexico-descubre-mayor-tesoro-arqueologico-decadas-durante-obras-tren-maya-1353957'>México descubre el 'mayor tesoro arqueológico' en décadas durante las obras del Tren Maya</a></h4>
+    <a href='https://computerhoy.com/life/mexico-descubre-mayor-tesoro-arqueologico-decadas-durante-obras-tren-maya-1353957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/palenque-mexico-3256274.jpg?tf=1200x' alt='México descubre el 'mayor tesoro arqueológico' en décadas durante las obras del Tren Maya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-estan-punto-compartir-sitio-humanos-industria-1353850'>Los robots humanoides ya son una realidad y comparten lugar de trabajo con los humanos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-estan-punto-compartir-sitio-humanos-industria-1353850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robots-humanoides-3256055.jpg?tf=1200x' alt='Los robots humanoides ya son una realidad y comparten lugar de trabajo con los humanos' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-revela-metodo-identificar-exoplanetas-habitables-telescopio-james-webb-1353914'>La NASA revela el método para identificar exoplanetas habitables con el telescopio James Webb</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-revela-metodo-identificar-exoplanetas-habitables-telescopio-james-webb-1353914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-exoplaneta-3256201.jpg?tf=1200x' alt='La NASA revela el método para identificar exoplanetas habitables con el telescopio James Webb' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-ai-ofrece-chatbot-respecto-demas-1353703'>¿Qué es Meta AI y qué ofrece este chatbot respecto a los demás?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-ai-ofrece-chatbot-respecto-demas-1353703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/meta-ai-ofrece-chatbot-respecto-demas-3255866.jpg?tf=1200x' alt='¿Qué es Meta AI y qué ofrece este chatbot respecto a los demás?' />
+    <h4><a href='https://computerhoy.com/apple/apple-va-android-auto-nuevo-carplay-estas-son-novedades-1353886'>Apple va a por Android Auto con su nuevo CarPlay: más inteligente, personalizado e integrado que nunca</a></h4>
+    <a href='https://computerhoy.com/apple/apple-va-android-auto-nuevo-carplay-estas-son-novedades-1353886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proxima-generacion-carplay-apple-3256162.jpg?tf=1200x' alt='Apple va a por Android Auto con su nuevo CarPlay: más inteligente, personalizado e integrado que nunca' />
     </a>
 </div>
 
