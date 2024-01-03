@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-1353821'>Google pronto comenzará a cobrarte por usar WhatsApp en Android: Toma nota para evitarlo</a></h4>
-    <a href='https://computerhoy.com/apps/drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-1353821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/momento-ha-llegado-drive-comenzara-cobrar-guardar-copias-whatsapp-android-puedes-evitarlo-3256016.jpg?tf=1200x' alt='Google pronto comenzará a cobrarte por usar WhatsApp en Android: Toma nota para evitarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057'>Crean una tecnología de teletransportación similar a la vista en Star Trek</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Crean una tecnología de teletransportación similar a la vista en Star Trek' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/calcula-cuanto-te-tiene-quitar-hacienda-nomina-2024-1353802'>Cómo saber el IRPF que te deben quitar de tu nómina en 2024 con la calculadora de Hacienda</a></h4>
-    <a href='https://computerhoy.com/life/calcula-cuanto-te-tiene-quitar-hacienda-nomina-2024-1353802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-irpf-te-deben-quitar-nomina-2024-calculadora-hacienda-3256008.jpg?tf=1200x' alt='Cómo saber el IRPF que te deben quitar de tu nómina en 2024 con la calculadora de Hacienda' />
+    <h4><a href='https://computerhoy.com/ciencia/ayudan-videojuegos-estimular-mente-dice-realmente-ciencia-1353883'>¿Ayudan los videojuegos a estimular la mente? Esto dice realmente la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/ayudan-videojuegos-estimular-mente-dice-realmente-ciencia-1353883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/videojuegos-moviles-competitivos-smartphone-gaming-3210390.jpg?tf=1200x' alt='¿Ayudan los videojuegos a estimular la mente? Esto dice realmente la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mexico-descubre-mayor-tesoro-arqueologico-decadas-durante-obras-tren-maya-1353957'>México descubre el 'mayor tesoro arqueológico' en décadas durante las obras del Tren Maya</a></h4>
-    <a href='https://computerhoy.com/life/mexico-descubre-mayor-tesoro-arqueologico-decadas-durante-obras-tren-maya-1353957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/palenque-mexico-3256274.jpg?tf=1200x' alt='México descubre el 'mayor tesoro arqueológico' en décadas durante las obras del Tren Maya' />
+    <h4><a href='https://computerhoy.com/apple/precio-apple-watch-series-9-toca-fondo-amazon-rebaja-puertas-reyes-1353948'>El precio del Apple Watch Series 9 toca fondo: Amazon lo rebaja a las puertas de Reyes</a></h4>
+    <a href='https://computerhoy.com/apple/precio-apple-watch-series-9-toca-fondo-amazon-rebaja-puertas-reyes-1353948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187122.jpg?tf=1200x' alt='El precio del Apple Watch Series 9 toca fondo: Amazon lo rebaja a las puertas de Reyes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-revela-metodo-identificar-exoplanetas-habitables-telescopio-james-webb-1353914'>La NASA revela el método para identificar exoplanetas habitables con el telescopio James Webb</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-revela-metodo-identificar-exoplanetas-habitables-telescopio-james-webb-1353914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-exoplaneta-3256201.jpg?tf=1200x' alt='La NASA revela el método para identificar exoplanetas habitables con el telescopio James Webb' />
+    <h4><a href='https://computerhoy.com/life/roaching-como-detectar-pareja-personas-vez-1353664'>Roaching: cómo detectar si tu pareja está con más personas a la vez</a></h4>
+    <a href='https://computerhoy.com/life/roaching-como-detectar-pareja-personas-vez-1353664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roaching-como-detectar-pareja-sale-personas-vez-3255738.jpg?tf=1200x' alt='Roaching: cómo detectar si tu pareja está con más personas a la vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-va-android-auto-nuevo-carplay-estas-son-novedades-1353886'>Apple va a por Android Auto con su nuevo CarPlay: más inteligente, personalizado e integrado que nunca</a></h4>
-    <a href='https://computerhoy.com/apple/apple-va-android-auto-nuevo-carplay-estas-son-novedades-1353886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proxima-generacion-carplay-apple-3256162.jpg?tf=1200x' alt='Apple va a por Android Auto con su nuevo CarPlay: más inteligente, personalizado e integrado que nunca' />
+    <h4><a href='https://computerhoy.com/tecnologia/solucion-fabricantes-camaras-imagenes-creadas-inteligencia-artificial-1353995'>La solución de los fabricantes de cámaras para las fotos creadas por IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solucion-fabricantes-camaras-imagenes-creadas-inteligencia-artificial-1353995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/solucion-fabricantes-camaras-fotos-creadas-ia-3256384.jpg?tf=1200x' alt='La solución de los fabricantes de cámaras para las fotos creadas por IA' />
     </a>
 </div>
 
