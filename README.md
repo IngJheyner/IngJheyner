@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-bate-record-vehiculos-fabricados-vendidos-2023-1354102'>Al fin una buena noticia para Elon Musk: Tesla bate en 2023 su récord de vehículos fabricados</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-bate-record-vehiculos-fabricados-vendidos-2023-1354102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg?tf=1200x' alt='Al fin una buena noticia para Elon Musk: Tesla bate en 2023 su récord de vehículos fabricados' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aire-acondicionado-tcl-3254104.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396'>iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas</a></h4>
-    <a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg?tf=1200x' alt='iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas' />
+    <h4><a href='https://computerhoy.com/analisis/poco-c65-analisis-opinion-1352558'>Poco C65: ideal para consumo multimedia y autonomía infinita con precio muy ajustado</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-c65-analisis-opinion-1352558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-c65-3256361.jpg?tf=1200x' alt='Poco C65: ideal para consumo multimedia y autonomía infinita con precio muy ajustado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-invento-chino-construir-coches-hidrogeno-1353975'>Así es el nuevo invento chino para construir coches de hidrógeno</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-invento-chino-construir-coches-hidrogeno-1353975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-invento-chino-construir-coches-hidrogeno-3256278.jpg?tf=1200x' alt='Así es el nuevo invento chino para construir coches de hidrógeno' />
+    <h4><a href='https://computerhoy.com/tv/como-fabrica-pantallas-microled-samsung-wall-1350165'>He visitado la fábrica de la pantalla microLED Samsung The Wall y ya quiero una en casa</a></h4>
+    <a href='https://computerhoy.com/tv/como-fabrica-pantallas-microled-samsung-wall-1350165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fabrica-wall-samsung-3249466.jpg?tf=1200x' alt='He visitado la fábrica de la pantalla microLED Samsung The Wall y ya quiero una en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/truco-2024-no-te-multen-radares-arrasa-europa-1354072'>El truco de 2024 para engañar a los radares de la DGT, que arrasa en Europa</a></h4>
-    <a href='https://computerhoy.com/motor/truco-2024-no-te-multen-radares-arrasa-europa-1354072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-2024-no-te-multen-radares-arrasa-europa-3256556.jpg?tf=1200x' alt='El truco de 2024 para engañar a los radares de la DGT, que arrasa en Europa' />
+    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Altavoces Bluetooth: en qué debes fijarte y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/jbl-go-3-3253480.jpg?tf=1200x' alt='Altavoces Bluetooth: en qué debes fijarte y cuáles son los mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063'>El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia</a></h4>
-    <a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/retrovisor-lluvia-3256543.jpg?tf=1200x' alt='El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia' />
+    <h4><a href='https://computerhoy.com/tecnologia/televisores-lg-oled-2024-inteligencia-artificial-144-hz-1354114'>LG desvela sus televisores OLED para 2024, con la IA y los 144 Hz como grandes protagonistas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisores-lg-oled-2024-inteligencia-artificial-144-hz-1354114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lg-desvela-televisores-oled-2024-ia-como-gran-protagonista-3256596.jpg?tf=1200x' alt='LG desvela sus televisores OLED para 2024, con la IA y los 144 Hz como grandes protagonistas' />
     </a>
 </div>
 
