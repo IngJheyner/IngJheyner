@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/viaje-cambio-historia-65-anos-luna-1-desafio-gravedad-1354182'>Un viaje que cambió la historia: 65 años de Luna 1 y su desafío a la gravedad</a></h4>
+    <a href='https://computerhoy.com/espacio/viaje-cambio-historia-65-anos-luna-1-desafio-gravedad-1354182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-1-urss-espacio-3256696.jpg?tf=1200x' alt='Un viaje que cambió la historia: 65 años de Luna 1 y su desafío a la gravedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-fuente-juventud-podria-controlar-enfermedades-envejecimiento-1354172'>La nueva "fuente de la juventud" que podría controlar enfermedades y el envejecimiento</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-fuente-juventud-podria-controlar-enfermedades-envejecimiento-1354172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/envejecimiento-humanos-3256684.jpg?tf=1200x' alt='La nueva "fuente de la juventud" que podría controlar enfermedades y el envejecimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-oneplus-16gb-ram-canon-gama-alta-precio-record-1353620'>Este móvil premium se carga en 20 minutos, tiene 16 GB de RAM y acaba de hundir su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-oneplus-16gb-ram-canon-gama-alta-precio-record-1353620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oneplus-11-3255659.jpg?tf=1200x' alt='Este móvil premium se carga en 20 minutos, tiene 16 GB de RAM y acaba de hundir su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/tecla-copilot-punto-llegar-teclado-windows-primera-actualizacion-casi-30-anos-1354190'>La tecla Copilot a punto de llegar a tu teclado con Windows 11: la primera actualización en casi 30 años</a></h4>
+    <a href='https://computerhoy.com/windows/tecla-copilot-punto-llegar-teclado-windows-primera-actualizacion-casi-30-anos-1354190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='La tecla Copilot a punto de llegar a tu teclado con Windows 11: la primera actualización en casi 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157'>Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024</a></h4>
     <a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-2024-telegram-3256658.jpg?tf=1200x' alt='Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-dice-adios-wordpad-despues-30-anos-1354175'>La próxima actualización de Windows 11 dice adiós a WordPad después de 30 años, y estrena comandos de voz en español</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-dice-adios-wordpad-despues-30-anos-1354175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='La próxima actualización de Windows 11 dice adiós a WordPad después de 30 años, y estrena comandos de voz en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/xiaomi-deja-ko-roomba-robot-ultrapotente-limpia-solo-120eu-barato-1354156'>Xiaomi deja KO a Roomba: este robot ultrapotente se limpia solo y es 120€ más barato</a></h4>
-    <a href='https://computerhoy.com/hogar/xiaomi-deja-ko-roomba-robot-ultrapotente-limpia-solo-120eu-barato-1354156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-robot-vacuum-x10-3043122.jpg?tf=1200x' alt='Xiaomi deja KO a Roomba: este robot ultrapotente se limpia solo y es 120€ más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/jefes-windows-responde-criticas-menu-inicio-windows-11-promete-mejoras-1354145'>Uno de los jefes de Windows responde a las críticas sobre el menú de inicio de Windows 11 y promete mejoras</a></h4>
-    <a href='https://computerhoy.com/windows/jefes-windows-responde-criticas-menu-inicio-windows-11-promete-mejoras-1354145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/menu-inicio-windows-11-3256651.jpg?tf=1200x' alt='Uno de los jefes de Windows responde a las críticas sobre el menú de inicio de Windows 11 y promete mejoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-1353862'>¿Qué es el breadcrumbing? Cuando el narcisismo en redes sociales se vuelve tóxico</a></h4>
-    <a href='https://computerhoy.com/redes/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-1353862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-3256106.jpg?tf=1200x' alt='¿Qué es el breadcrumbing? Cuando el narcisismo en redes sociales se vuelve tóxico' />
     </a>
 </div>
 
