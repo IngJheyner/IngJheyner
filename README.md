@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aire-acondicionado-tcl-3254104.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157'>Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024</a></h4>
+    <a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-2024-telegram-3256658.jpg?tf=1200x' alt='Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-c65-analisis-opinion-1352558'>Poco C65: ideal para consumo multimedia y autonomía infinita con precio muy ajustado</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-c65-analisis-opinion-1352558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-c65-3256361.jpg?tf=1200x' alt='Poco C65: ideal para consumo multimedia y autonomía infinita con precio muy ajustado' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-dice-adios-wordpad-despues-30-anos-1354175'>La próxima actualización de Windows 11 dice adiós a WordPad después de 30 años, y estrena comandos de voz en español</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-dice-adios-wordpad-despues-30-anos-1354175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='La próxima actualización de Windows 11 dice adiós a WordPad después de 30 años, y estrena comandos de voz en español' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-fabrica-pantallas-microled-samsung-wall-1350165'>He visitado la fábrica de la pantalla microLED Samsung The Wall y ya quiero una en casa</a></h4>
-    <a href='https://computerhoy.com/tv/como-fabrica-pantallas-microled-samsung-wall-1350165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fabrica-wall-samsung-3249466.jpg?tf=1200x' alt='He visitado la fábrica de la pantalla microLED Samsung The Wall y ya quiero una en casa' />
+    <h4><a href='https://computerhoy.com/hogar/xiaomi-deja-ko-roomba-robot-ultrapotente-limpia-solo-120eu-barato-1354156'>Xiaomi deja KO a Roomba: este robot ultrapotente se limpia solo y es 120€ más barato</a></h4>
+    <a href='https://computerhoy.com/hogar/xiaomi-deja-ko-roomba-robot-ultrapotente-limpia-solo-120eu-barato-1354156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/xiaomi-robot-vacuum-x10-3043122.jpg?tf=1200x' alt='Xiaomi deja KO a Roomba: este robot ultrapotente se limpia solo y es 120€ más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108'>Altavoces Bluetooth: en qué debes fijarte y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/altavoces-bluetooth-1216108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/jbl-go-3-3253480.jpg?tf=1200x' alt='Altavoces Bluetooth: en qué debes fijarte y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/windows/jefes-windows-responde-criticas-menu-inicio-windows-11-promete-mejoras-1354145'>Uno de los jefes de Windows responde a las críticas sobre el menú de inicio de Windows 11 y promete mejoras</a></h4>
+    <a href='https://computerhoy.com/windows/jefes-windows-responde-criticas-menu-inicio-windows-11-promete-mejoras-1354145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/menu-inicio-windows-11-3256651.jpg?tf=1200x' alt='Uno de los jefes de Windows responde a las críticas sobre el menú de inicio de Windows 11 y promete mejoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisores-lg-oled-2024-inteligencia-artificial-144-hz-1354114'>LG desvela sus televisores OLED para 2024, con la IA y los 144 Hz como grandes protagonistas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisores-lg-oled-2024-inteligencia-artificial-144-hz-1354114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lg-desvela-televisores-oled-2024-ia-como-gran-protagonista-3256596.jpg?tf=1200x' alt='LG desvela sus televisores OLED para 2024, con la IA y los 144 Hz como grandes protagonistas' />
+    <h4><a href='https://computerhoy.com/redes/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-1353862'>¿Qué es el breadcrumbing? Cuando el narcisismo en redes sociales se vuelve tóxico</a></h4>
+    <a href='https://computerhoy.com/redes/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-1353862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/breadcrumbing-cuando-narcisismo-redes-sociales-vuelve-toxico-3256106.jpg?tf=1200x' alt='¿Qué es el breadcrumbing? Cuando el narcisismo en redes sociales se vuelve tóxico' />
     </a>
 </div>
 
