@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
+    <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/alguien-ha-espiado-mi-whatsapp-compruebalo-sencillo-truco-1354229'>¿Alguien ha espiado mi WhatsApp? El sencillo truco para salir de dudas en un momento</a></h4>
     <a href='https://computerhoy.com/apps/alguien-ha-espiado-mi-whatsapp-compruebalo-sencillo-truco-1354229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/alguien-ha-espiado-mi-whatsapp-sencillo-truco-salir-dudas-momento-3256762.jpg?tf=1200x' alt='¿Alguien ha espiado mi WhatsApp? El sencillo truco para salir de dudas en un momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/wifi-6e-todo-debes-saber-ultima-generacion-internet-inalambrica-1354210'>WiFi 6E: todo lo que debes saber de la "última" generación de Internet inalámbrica disponible para cualquiera</a></h4>
-    <a href='https://computerhoy.com/internet/wifi-6e-todo-debes-saber-ultima-generacion-internet-inalambrica-1354210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/wifi-6e-todo-tienes-saber-3256759.jpg?tf=1200x' alt='WiFi 6E: todo lo que debes saber de la "última" generación de Internet inalámbrica disponible para cualquiera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nino-consigue-pasarse-mitico-tetris-30-anos-despues-1354173'>Un niño prodigio consigue “pasarse” el mítico Tetris más de 30 años después</a></h4>
-    <a href='https://computerhoy.com/gaming/nino-consigue-pasarse-mitico-tetris-30-anos-despues-1354173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-prodigio-consigue-pasarse-mitico-tetris-30-anos-despues-3256673.jpg?tf=1200x' alt='Un niño prodigio consigue “pasarse” el mítico Tetris más de 30 años después' />
     </a>
 </div>
 
