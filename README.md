@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/viaje-cambio-historia-65-anos-luna-1-desafio-gravedad-1354182'>Un viaje que cambió la historia: 65 años de Luna 1 y su desafío a la gravedad</a></h4>
-    <a href='https://computerhoy.com/espacio/viaje-cambio-historia-65-anos-luna-1-desafio-gravedad-1354182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-1-urss-espacio-3256696.jpg?tf=1200x' alt='Un viaje que cambió la historia: 65 años de Luna 1 y su desafío a la gravedad' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-fuente-juventud-podria-controlar-enfermedades-envejecimiento-1354172'>La nueva "fuente de la juventud" que podría controlar enfermedades y el envejecimiento</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-fuente-juventud-podria-controlar-enfermedades-envejecimiento-1354172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/envejecimiento-humanos-3256684.jpg?tf=1200x' alt='La nueva "fuente de la juventud" que podría controlar enfermedades y el envejecimiento' />
+    <h4><a href='https://computerhoy.com/ciencia/nueva-york-otras-ciudades-estados-unidos-estan-hundiendo-1354183'>Nueva York y otras importantes ciudades de Estados Unidos se están hundiendo, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-york-otras-ciudades-estados-unidos-estan-hundiendo-1354183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-york-otras-importantes-ciudades-estados-unidos-estan-hundiendo-nuevo-estudio-3256693.jpg?tf=1200x' alt='Nueva York y otras importantes ciudades de Estados Unidos se están hundiendo, según un nuevo estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-oneplus-16gb-ram-canon-gama-alta-precio-record-1353620'>Este móvil premium se carga en 20 minutos, tiene 16 GB de RAM y acaba de hundir su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-oneplus-16gb-ram-canon-gama-alta-precio-record-1353620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oneplus-11-3255659.jpg?tf=1200x' alt='Este móvil premium se carga en 20 minutos, tiene 16 GB de RAM y acaba de hundir su precio' />
+    <h4><a href='https://computerhoy.com/apps/alguien-ha-espiado-mi-whatsapp-compruebalo-sencillo-truco-1354229'>¿Alguien ha espiado mi WhatsApp? El sencillo truco para salir de dudas en un momento</a></h4>
+    <a href='https://computerhoy.com/apps/alguien-ha-espiado-mi-whatsapp-compruebalo-sencillo-truco-1354229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/alguien-ha-espiado-mi-whatsapp-sencillo-truco-salir-dudas-momento-3256762.jpg?tf=1200x' alt='¿Alguien ha espiado mi WhatsApp? El sencillo truco para salir de dudas en un momento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tecla-copilot-punto-llegar-teclado-windows-primera-actualizacion-casi-30-anos-1354190'>La tecla Copilot a punto de llegar a tu teclado con Windows 11: la primera actualización en casi 30 años</a></h4>
-    <a href='https://computerhoy.com/windows/tecla-copilot-punto-llegar-teclado-windows-primera-actualizacion-casi-30-anos-1354190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='La tecla Copilot a punto de llegar a tu teclado con Windows 11: la primera actualización en casi 30 años' />
+    <h4><a href='https://computerhoy.com/internet/wifi-6e-todo-debes-saber-ultima-generacion-internet-inalambrica-1354210'>WiFi 6E: todo lo que debes saber de la "última" generación de Internet inalámbrica disponible para cualquiera</a></h4>
+    <a href='https://computerhoy.com/internet/wifi-6e-todo-debes-saber-ultima-generacion-internet-inalambrica-1354210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/wifi-6e-todo-tienes-saber-3256759.jpg?tf=1200x' alt='WiFi 6E: todo lo que debes saber de la "última" generación de Internet inalámbrica disponible para cualquiera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157'>Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024</a></h4>
-    <a href='https://computerhoy.com/apps/nuevas-funcionalidades-telegram-llegan-gran-actualizacion-2024-1354157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-2024-telegram-3256658.jpg?tf=1200x' alt='Las nuevas funcionalidades de Telegram que llegan tras su gran actualización de 2024' />
+    <h4><a href='https://computerhoy.com/gaming/nino-consigue-pasarse-mitico-tetris-30-anos-despues-1354173'>Un niño prodigio consigue “pasarse” el mítico Tetris más de 30 años después</a></h4>
+    <a href='https://computerhoy.com/gaming/nino-consigue-pasarse-mitico-tetris-30-anos-despues-1354173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-prodigio-consigue-pasarse-mitico-tetris-30-anos-despues-3256673.jpg?tf=1200x' alt='Un niño prodigio consigue “pasarse” el mítico Tetris más de 30 años después' />
     </a>
 </div>
 
