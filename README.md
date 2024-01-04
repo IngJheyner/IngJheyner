@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-bate-record-vehiculos-fabricados-vendidos-2023-1354102'>Al fin una buena noticia para Elon Musk: Tesla bate en 2023 su récord de vehículos fabricados</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-bate-record-vehiculos-fabricados-vendidos-2023-1354102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/increible-vuelo-dron-dentro-gigafactoria-tesla-berlin-2675131.jpg?tf=1200x' alt='Al fin una buena noticia para Elon Musk: Tesla bate en 2023 su récord de vehículos fabricados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396'>iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas</a></h4>
     <a href='https://computerhoy.com/moviles/iphone-13-pro-merece-pena-caracteristicas-alternativas-baratas-1244396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/iphone-13-pro-max-color-verde-alpino-2765457.jpg?tf=1200x' alt='iPhone 13 Pro: ¿sigue mereciendo la pena todavía? Características y alternativas baratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063'>El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia</a></h4>
     <a href='https://computerhoy.com/life/truco-casero-hacer-inmunes-retrovisores-coche-molestas-gotas-lluvia-1354063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/retrovisor-lluvia-3256543.jpg?tf=1200x' alt='El truco casero para hacer inmunes los retrovisores de tu coche a las molestas gotas de lluvia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057'>Crean una tecnología de teletransportación similar a la vista en Star Trek</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-tecnologia-teletransportacion-similar-vista-star-trek-1354057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletransportacion-3256537.jpg?tf=1200x' alt='Crean una tecnología de teletransportación similar a la vista en Star Trek' />
     </a>
 </div>
 
