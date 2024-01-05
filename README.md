@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/descubre-hace-boton-vehiculo-1354332'>Descubre lo que hace el botón "A" en tu vehículo</a></h4>
-    <a href='https://computerhoy.com/motor/descubre-hace-boton-vehiculo-1354332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubre-hace-boton-vehiculo-3256951.jpg?tf=1200x' alt='Descubre lo que hace el botón "A" en tu vehículo' />
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-permitira-ocultar-mensajes-contactos-whatsapp-1354495'>WhatsApp permitirá ocultar mensajes de contactos bloqueados en chats grupales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-permitira-ocultar-mensajes-contactos-whatsapp-1354495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215588.jpg?tf=1200x' alt='WhatsApp permitirá ocultar mensajes de contactos bloqueados en chats grupales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308'>Las razones por las que no usar Google o Facebook para iniciar sesión en páginas web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/razones-no-usar-google-facebook-iniciar-sesion-paginas-web-3256928.jpg?tf=1200x' alt='Las razones por las que no usar Google o Facebook para iniciar sesión en páginas web' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dji-osmo-action-cam-2403051.jpg?tf=1200x' alt='Mejores alternativas baratas a las GoPro que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/larga-espera-gmail-android-recibe-finalmente-funcion-esencial-faltaba-inicio-1354504'>Tras una larga espera, Gmail para Android recibe finalmente la función esencial que le faltaba desde el inicio</a></h4>
-    <a href='https://computerhoy.com/google/larga-espera-gmail-android-recibe-finalmente-funcion-esencial-faltaba-inicio-1354504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gmail-android-3257279.jpg?tf=1200x' alt='Tras una larga espera, Gmail para Android recibe finalmente la función esencial que le faltaba desde el inicio' />
+    <h4><a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-usando-antena-casera-1354632'>Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera</a></h4>
+    <a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-usando-antena-casera-1354632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/consigue-charlar-astronauta-estacion-espacial-internacional-usando-antena-casera-3257352.jpg?tf=1200x' alt='Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas:novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas:novedades, lanzamientos y toda la información del evento tecnológico en directo' />
+    <h4><a href='https://computerhoy.com/life/verdadera-razon-pagana-comemos-roscon-reyes-1354485'>La verdadera razón pagana por la que comemos roscón de Reyes</a></h4>
+    <a href='https://computerhoy.com/life/verdadera-razon-pagana-comemos-roscon-reyes-1354485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verdadera-razon-pagana-comemos-roscon-reyes-3257141.jpg?tf=1200x' alt='La verdadera razón pagana por la que comemos roscón de Reyes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/podras-activar-bard-inteligencia-artificial-google-dispositivo-android-solo-clic-1354505'>Así podrás activar Bard, la Inteligencia Artificial de Google, en tu dispositivo Android con un solo clic</a></h4>
-    <a href='https://computerhoy.com/google/podras-activar-bard-inteligencia-artificial-google-dispositivo-android-solo-clic-1354505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asistente-google-bard-3257229.jpg?tf=1200x' alt='Así podrás activar Bard, la Inteligencia Artificial de Google, en tu dispositivo Android con un solo clic' />
+    <h4><a href='https://computerhoy.com/ciencia/relacion-dinosaurios-esperanza-vida-humanos-1354346'>La extraña relación entre los dinosaurios y la esperanza de vida de los humanos</a></h4>
+    <a href='https://computerhoy.com/ciencia/relacion-dinosaurios-esperanza-vida-humanos-1354346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extrana-relacion-dinosaurios-esperanza-vida-humanos-3256990.jpg?tf=1200x' alt='La extraña relación entre los dinosaurios y la esperanza de vida de los humanos' />
     </a>
 </div>
 
