@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140'>Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-habilitar-funcion-proteccion-antirrastreo-chrome-1354457'>Cómo habilitar la función de Protección Antirrastreo de Chrome</a></h4>
+    <a href='https://computerhoy.com/google/como-habilitar-funcion-proteccion-antirrastreo-chrome-1354457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-chrome-funcion-rastreo-3257112.jpg?tf=1200x' alt='Cómo habilitar la función de Protección Antirrastreo de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
     <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-659-computer-hoy-1350776'>¡Ya está en tu quiosco el número 659 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-659-computer-hoy-1350776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-659-3251901.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 659 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-comienza-deshabilitar-cookies-terceros-google-chrome-1354453'>Google comienza a deshabilitar las cookies de terceros en Google Chrome</a></h4>
-    <a href='https://computerhoy.com/google/google-comienza-deshabilitar-cookies-terceros-google-chrome-1354453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/historial-google-cookies-3248418.jpg?tf=1200x' alt='Google comienza a deshabilitar las cookies de terceros en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/codigos-secretos-activar-menus-ocultos-smart-tv-xiaomi-1354012'>Los códigos secretos de las televisiones Xiaomi para acceder a los menús ocultos</a></h4>
-    <a href='https://computerhoy.com/tv/codigos-secretos-activar-menus-ocultos-smart-tv-xiaomi-1354012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubre-todos-codigos-secretos-televisiones-xiaomi-acceder-menus-ocultos-3256511.jpg?tf=1200x' alt='Los códigos secretos de las televisiones Xiaomi para acceder a los menús ocultos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681'>Los mejores routers que puedes comprar por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-routers-2019-rango-precio-361681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/honor-router-3-2260161.jpg?tf=1200x' alt='Los mejores routers que puedes comprar por rango de precio' />
     </a>
 </div>
 
