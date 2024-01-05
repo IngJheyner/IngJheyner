@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/descubre-hace-boton-vehiculo-1354332'>Descubre lo que hace el botón "A" en tu vehículo</a></h4>
+    <a href='https://computerhoy.com/motor/descubre-hace-boton-vehiculo-1354332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubre-hace-boton-vehiculo-3256951.jpg?tf=1200x' alt='Descubre lo que hace el botón "A" en tu vehículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308'>Las razones por las que no usar Google o Facebook para iniciar sesión en páginas web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/razones-no-usar-google-iniciar-sesion-paginas-web-1354308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/razones-no-usar-google-facebook-iniciar-sesion-paginas-web-3256928.jpg?tf=1200x' alt='Las razones por las que no usar Google o Facebook para iniciar sesión en páginas web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/larga-espera-gmail-android-recibe-finalmente-funcion-esencial-faltaba-inicio-1354504'>Tras una larga espera, Gmail para Android recibe finalmente la función esencial que le faltaba desde el inicio</a></h4>
+    <a href='https://computerhoy.com/google/larga-espera-gmail-android-recibe-finalmente-funcion-esencial-faltaba-inicio-1354504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gmail-android-3257279.jpg?tf=1200x' alt='Tras una larga espera, Gmail para Android recibe finalmente la función esencial que le faltaba desde el inicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas:novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas:novedades, lanzamientos y toda la información del evento tecnológico en directo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/podras-activar-bard-inteligencia-artificial-google-dispositivo-android-solo-clic-1354505'>Así podrás activar Bard, la Inteligencia Artificial de Google, en tu dispositivo Android con un solo clic</a></h4>
     <a href='https://computerhoy.com/google/podras-activar-bard-inteligencia-artificial-google-dispositivo-android-solo-clic-1354505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asistente-google-bard-3257229.jpg?tf=1200x' alt='Así podrás activar Bard, la Inteligencia Artificial de Google, en tu dispositivo Android con un solo clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-probar-juego-surf-microsoft-edge-forma-sencilla-1354426'>Cómo probar el juego del surf en Microsoft Edge</a></h4>
-    <a href='https://computerhoy.com/windows/como-probar-juego-surf-microsoft-edge-forma-sencilla-1354426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-probar-juego-surf-microsoft-edge-3257079.jpg?tf=1200x' alt='Cómo probar el juego del surf en Microsoft Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/reciente-descubrimiento-revela-fosiles-atribuidos-t-rex-son-realidad-otra-especie-1354501'>Un reciente descubrimiento revela que los fósiles atribuidos al T-Rex son, en realidad, de otra especie</a></h4>
-    <a href='https://computerhoy.com/ciencia/reciente-descubrimiento-revela-fosiles-atribuidos-t-rex-son-realidad-otra-especie-1354501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/t-rex-dinosaurio-3257202.jpg?tf=1200x' alt='Un reciente descubrimiento revela que los fósiles atribuidos al T-Rex son, en realidad, de otra especie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bombazo-xiaomi-patinete-potente-mitad-precio-forma-temporal-1354477'>Bombazo Xiaomi: su patinete más potente está a mitad de precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/motor/bombazo-xiaomi-patinete-potente-mitad-precio-forma-temporal-1354477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-electric-scooter-4-pro-3257131.jpg?tf=1200x' alt='Bombazo Xiaomi: su patinete más potente está a mitad de precio de forma temporal' />
     </a>
 </div>
 
