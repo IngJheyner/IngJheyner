@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/reciente-descubrimiento-revela-fosiles-atribuidos-t-rex-son-realidad-otra-especie-1354501'>Un reciente descubrimiento revela que los fósiles atribuidos al T-Rex son, en realidad, de otra especie</a></h4>
+    <a href='https://computerhoy.com/ciencia/reciente-descubrimiento-revela-fosiles-atribuidos-t-rex-son-realidad-otra-especie-1354501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/t-rex-dinosaurio-3257202.jpg?tf=1200x' alt='Un reciente descubrimiento revela que los fósiles atribuidos al T-Rex son, en realidad, de otra especie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/bombazo-xiaomi-patinete-potente-mitad-precio-forma-temporal-1354477'>Bombazo Xiaomi: su patinete más potente está a mitad de precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/motor/bombazo-xiaomi-patinete-potente-mitad-precio-forma-temporal-1354477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-electric-scooter-4-pro-3257131.jpg?tf=1200x' alt='Bombazo Xiaomi: su patinete más potente está a mitad de precio de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/rover-perseverance-investiga-antiguo-rio-marte-revela-secretos-crater-jezero-1354478'>El rover Perseverance investiga un antiguo río en Marte y revela los secretos del cráter Jezero</a></h4>
+    <a href='https://computerhoy.com/espacio/rover-perseverance-investiga-antiguo-rio-marte-revela-secretos-crater-jezero-1354478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/perseverance-nasa-detecta-pinza-cangrejo-marte-3128808.jpg?tf=1200x' alt='El rover Perseverance investiga un antiguo río en Marte y revela los secretos del cráter Jezero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/debil-contrasena-desencadena-desastre-segundo-operador-movil-espana-1354473'>Una débil contraseña desencadena el desastre en el segundo operador móvil de España</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/debil-contrasena-desencadena-desastre-segundo-operador-movil-espana-1354473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-contrasena-orange-3257132.jpg?tf=1200x' alt='Una débil contraseña desencadena el desastre en el segundo operador móvil de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140'>Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-habilitar-funcion-proteccion-antirrastreo-chrome-1354457'>Cómo habilitar la función de Protección Antirrastreo de Chrome</a></h4>
-    <a href='https://computerhoy.com/google/como-habilitar-funcion-proteccion-antirrastreo-chrome-1354457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-chrome-funcion-rastreo-3257112.jpg?tf=1200x' alt='Cómo habilitar la función de Protección Antirrastreo de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
-    <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
     </a>
 </div>
 
