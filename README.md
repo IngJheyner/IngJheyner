@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-semiconductor-funcional-grafeno-1354430'>¿El fin de la era del silicio? Crean el primer semiconductor funcional de grafeno </a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-semiconductor-funcional-grafeno-1354430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704407396830-3257063.jpg?tf=1200x' alt='¿El fin de la era del silicio? Crean el primer semiconductor funcional de grafeno ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150'>PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-buds-4-lite-3256633.jpg?tf=1200x' alt='PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
-    <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
     </a>
 </div>
 
