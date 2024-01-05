@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sonar-despierto-podria-ser-bueno-memoria-cerebro-1354557'>Soñar despierto podría ser bueno para la memoria y el cerebro, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/sonar-despierto-podria-ser-bueno-memoria-cerebro-1354557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sonar-despierto-podria-ser-bueno-memoria-cerebro-nuevo-estudio-3257280.jpg?tf=1200x' alt='Soñar despierto podría ser bueno para la memoria y el cerebro, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-podria-reemplazar-asistente-google-telefonos-android-1354658'>ChatGPT podría reemplazar al asistente de Google en los teléfonos Android</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-podria-reemplazar-asistente-google-telefonos-android-1354658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3257409.jpg?tf=1200x' alt='ChatGPT podría reemplazar al asistente de Google en los teléfonos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/paso-importante-lavarse-dientes-no-piensas-1354655'>El paso más importante de lavarse los dientes no es el que piensas</a></h4>
+    <a href='https://computerhoy.com/life/paso-importante-lavarse-dientes-no-piensas-1354655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cepillarse-dientes-3257405.jpg?tf=1200x' alt='El paso más importante de lavarse los dientes no es el que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-sobrecalienta-evitalo-estos-sencillos-consejos-1354519'>¿Tu portátil se sobrecalienta? Evítalo con estos sencillos consejos</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-sobrecalienta-evitalo-estos-sencillos-consejos-1354519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/portatil-sobrecalienta-evitalo-estos-sencillos-consejos-3257217.jpg?tf=1200x' alt='¿Tu portátil se sobrecalienta? Evítalo con estos sencillos consejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/funcion-permitira-ocultar-mensajes-contactos-whatsapp-1354495'>WhatsApp permitirá ocultar mensajes de contactos bloqueados en chats grupales</a></h4>
     <a href='https://computerhoy.com/tecnologia/funcion-permitira-ocultar-mensajes-contactos-whatsapp-1354495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/whatsapp-puedes-ocultar-contacto-bloquearlo-3215588.jpg?tf=1200x' alt='WhatsApp permitirá ocultar mensajes de contactos bloqueados en chats grupales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191'>Mejores alternativas baratas a las GoPro que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-baratas-gopro-1028191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/dji-osmo-action-cam-2403051.jpg?tf=1200x' alt='Mejores alternativas baratas a las GoPro que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-usando-antena-casera-1354632'>Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera</a></h4>
-    <a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-usando-antena-casera-1354632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/consigue-charlar-astronauta-estacion-espacial-internacional-usando-antena-casera-3257352.jpg?tf=1200x' alt='Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/verdadera-razon-pagana-comemos-roscon-reyes-1354485'>La verdadera razón pagana por la que comemos roscón de Reyes</a></h4>
-    <a href='https://computerhoy.com/life/verdadera-razon-pagana-comemos-roscon-reyes-1354485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verdadera-razon-pagana-comemos-roscon-reyes-3257141.jpg?tf=1200x' alt='La verdadera razón pagana por la que comemos roscón de Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/relacion-dinosaurios-esperanza-vida-humanos-1354346'>La extraña relación entre los dinosaurios y la esperanza de vida de los humanos</a></h4>
-    <a href='https://computerhoy.com/ciencia/relacion-dinosaurios-esperanza-vida-humanos-1354346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extrana-relacion-dinosaurios-esperanza-vida-humanos-3256990.jpg?tf=1200x' alt='La extraña relación entre los dinosaurios y la esperanza de vida de los humanos' />
     </a>
 </div>
 
