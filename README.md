@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-semiconductor-funcional-grafeno-1354430'>¿El fin de la era del silicio? Crean el primer semiconductor funcional de grafeno </a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-semiconductor-funcional-grafeno-1354430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704407396830-3257063.jpg?tf=1200x' alt='¿El fin de la era del silicio? Crean el primer semiconductor funcional de grafeno ' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150'>PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-buds-4-lite-3256633.jpg?tf=1200x' alt='PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-trucos-alargar-duracion-bateria-dualsense-ps5-1354046'>5 trucos para alargar la duración de la batería del DualSense de PS5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-trucos-alargar-duracion-bateria-dualsense-ps5-1354046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-trucos-alargar-duracion-bateria-dualsense-ps5-3256545.jpg?tf=1200x' alt='5 trucos para alargar la duración de la batería del DualSense de PS5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-prepara-version-pago-bard-1354380'>Google prepara una versión de pago de Bard</a></h4>
-    <a href='https://computerhoy.com/google/google-prepara-version-pago-bard-1354380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='Google prepara una versión de pago de Bard' />
+    <h4><a href='https://computerhoy.com/analisis/amazon-luna-servicio-videojuegos-streaming-1351044'>Amazon Luna me ha reconciliado con los juegos en streaming, pero su mejor baza no es el servicio, es su mando</a></h4>
+    <a href='https://computerhoy.com/analisis/amazon-luna-servicio-videojuegos-streaming-1351044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-luna-3250981.jpg?tf=1200x' alt='Amazon Luna me ha reconciliado con los juegos en streaming, pero su mejor baza no es el servicio, es su mando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llegan-edificios-3d-google-maps-android-auto-puedes-activarlos-1354371'>Llegan los edificios 3D a Google Maps en Android Auto y así puedes activarlos</a></h4>
-    <a href='https://computerhoy.com/apps/llegan-edificios-3d-google-maps-android-auto-puedes-activarlos-1354371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/android-auto-89-2955218.jpg?tf=1200x' alt='Llegan los edificios 3D a Google Maps en Android Auto y así puedes activarlos' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440'>Mejores móviles calidad precio de hasta 200 euros que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-moviles-menos-200-euros-1269440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/poco-m5s-2920630.jpg?tf=1200x' alt='Mejores móviles calidad precio de hasta 200 euros que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775'>Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-comprar-aliexpress-como-funciona-994775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='Guía para comprar en AliExpress en 2024: encuentra las mejores ofertas y evita estafas y malas experiencias' />
+    <h4><a href='https://computerhoy.com/moviles/fundas-clicks-teclado-fisico-convierten-movil-blackberry-1354438'>Llegan las fundas con teclado que convierten tu móvil en un BlackBerry, y tiene sentido</a></h4>
+    <a href='https://computerhoy.com/moviles/fundas-clicks-teclado-fisico-convierten-movil-blackberry-1354438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/llegan-fundas-teclado-convierten-movil-blackberry-tiene-todo-sentido-3257084.jpg?tf=1200x' alt='Llegan las fundas con teclado que convierten tu móvil en un BlackBerry, y tiene sentido' />
     </a>
 </div>
 
