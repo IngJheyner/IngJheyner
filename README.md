@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150'>PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-lia-deja-cascos-xiaomi-top-ventas-mitad-precio-1354150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-buds-4-lite-3256633.jpg?tf=1200x' alt='PcComponentes la lía y deja los cascos Xiaomi top ventas a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-prepara-version-pago-bard-1354380'>Google prepara una versión de pago de Bard</a></h4>
     <a href='https://computerhoy.com/google/google-prepara-version-pago-bard-1354380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-bard-2998776.jpg?tf=1200x' alt='Google prepara una versión de pago de Bard' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
     <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: todas las novedades del evento tecnológico más importante del año en directo' />
     </a>
 </div>
 
