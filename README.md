@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/debil-contrasena-desencadena-desastre-segundo-operador-movil-espana-1354473'>Una débil contraseña desencadena el desastre en el segundo operador móvil de España</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/debil-contrasena-desencadena-desastre-segundo-operador-movil-espana-1354473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-contrasena-orange-3257132.jpg?tf=1200x' alt='Una débil contraseña desencadena el desastre en el segundo operador móvil de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140'>Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/te-cansan-marcas-siempre-nothing-ha-rebajado-movil-top-130-euros-1354140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Si te cansan las marcas de siempre, Nothing ha rebajado su móvil más top en 130 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250'>5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)</a></h4>
     <a href='https://computerhoy.com/life/5-curiosidades-cabalgata-reyes-magos-no-conocias-1354250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-curiosidades-cabalgata-reyes-magos-no-conocias-te-sorprenderan-3256803.jpg?tf=1200x' alt='5 curiosidades de la cabalgata de los Reyes Magos que no conocías (y te sorprenderán)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-659-computer-hoy-1350776'>¡Ya está en tu quiosco el número 659 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-659-computer-hoy-1350776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computer-hoy-659-3251901.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 659 de Computer Hoy!' />
     </a>
 </div>
 
