@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-fabrica-chips-sin-trabajadores-humanos-1354705'>Ya está aquí: Samsung planea una fábrica de chips sin trabajadores humanos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-fabrica-chips-sin-trabajadores-humanos-1354705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-aqui-samsung-anuncia-fabrica-chips-trabajadores-humanos-3257460.jpg?tf=1200x' alt='Ya está aquí: Samsung planea una fábrica de chips sin trabajadores humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/cafe-biohazard-cuatro-veces-cafeina-cafe-normal-1354698'>El café Biohazard es el más fuerte del mundo: cuatro veces más cafeína que un café normal</a></h4>
     <a href='https://computerhoy.com/alimentacion/cafe-biohazard-cuatro-veces-cafeina-cafe-normal-1354698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704487880189-3257421.jpg?tf=1200x' alt='El café Biohazard es el más fuerte del mundo: cuatro veces más cafeína que un café normal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-podria-reemplazar-asistente-google-telefonos-android-1354658'>ChatGPT podría reemplazar al asistente de Google en los teléfonos Android</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-podria-reemplazar-asistente-google-telefonos-android-1354658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3257409.jpg?tf=1200x' alt='ChatGPT podría reemplazar al asistente de Google en los teléfonos Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/paso-importante-lavarse-dientes-no-piensas-1354655'>El paso más importante de lavarse los dientes no es el que piensas</a></h4>
-    <a href='https://computerhoy.com/life/paso-importante-lavarse-dientes-no-piensas-1354655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cepillarse-dientes-3257405.jpg?tf=1200x' alt='El paso más importante de lavarse los dientes no es el que piensas' />
     </a>
 </div>
 
