@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-1353727'>Así es el método noruego para alcanzar la felicidad en tres sencillos pasos</a></h4>
+    <a href='https://computerhoy.com/life/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-1353727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-3255873.jpg?tf=1200x' alt='Así es el método noruego para alcanzar la felicidad en tres sencillos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-1353927'>Así es la súper infusión japonesa que te ayuda a reducir el estrés y ganar energía</a></h4>
     <a href='https://computerhoy.com/alimentacion/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-1353927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-3256216.jpg?tf=1200x' alt='Así es la súper infusión japonesa que te ayuda a reducir el estrés y ganar energía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/2024-ano-descentralizacion-redes-sociales-1353573'>2024, el año de la descentralización de las redes sociales</a></h4>
     <a href='https://computerhoy.com/internet/2024-ano-descentralizacion-redes-sociales-1353573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mastodon-disecado-expuesto-royal-victoria-museum-columbia-britanica-canada-3255597.jpg?tf=1200x' alt='2024, el año de la descentralización de las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-liberar-espacio-movil-soluciones-me-han-servido-1342332'>Cómo liberar espacio en el móvil: estas son las soluciones que más me han servido</a></h4>
-    <a href='https://computerhoy.com/moviles/como-liberar-espacio-movil-soluciones-me-han-servido-1342332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-liberar-espacio-movil-tienes-poco-almacenamiento-3237644.jpg?tf=1200x' alt='Cómo liberar espacio en el móvil: estas son las soluciones que más me han servido' />
     </a>
 </div>
 
