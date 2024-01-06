@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-1353727'>Así es el método noruego para alcanzar la felicidad en tres sencillos pasos</a></h4>
-    <a href='https://computerhoy.com/life/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-1353727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-noruego-alcanzar-felicidad-tres-sencillos-pasos-3255873.jpg?tf=1200x' alt='Así es el método noruego para alcanzar la felicidad en tres sencillos pasos' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-freidora-aire-brutal-xiaomi-vuelve-precio-historico-1354529'>Amazon va a agotar la freidora de aire más brutal de Xiaomi, que vuelve a su precio histórico más bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-freidora-aire-brutal-xiaomi-vuelve-precio-historico-1354529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3137656.jpg?tf=1200x' alt='Amazon va a agotar la freidora de aire más brutal de Xiaomi, que vuelve a su precio histórico más bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-1353927'>Así es la súper infusión japonesa que te ayuda a reducir el estrés y ganar energía</a></h4>
-    <a href='https://computerhoy.com/alimentacion/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-1353927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/super-infusion-japonesa-te-ayuda-reducir-estres-ganar-energia-3256216.jpg?tf=1200x' alt='Así es la súper infusión japonesa que te ayuda a reducir el estrés y ganar energía' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-rescata-negocio-perifericos-pc-traves-empresa-1354752'>Microsoft rescata su negocio de periféricos para PC a través de esta empresa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-rescata-negocio-perifericos-pc-traves-empresa-1354752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/accesorios-microsoft-incase-3257539.jpg?tf=1200x' alt='Microsoft rescata su negocio de periféricos para PC a través de esta empresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-cisne-vehiculo-excentrico-siglo-xx-1354711'>El Coche Cisne, el vehículo más excéntrico del siglo XX</a></h4>
-    <a href='https://computerhoy.com/motor/coche-cisne-vehiculo-excentrico-siglo-xx-1354711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/coche-cisne-vehiculo-excentrico-siglo-xx-3257504.jpg?tf=1200x' alt='El Coche Cisne, el vehículo más excéntrico del siglo XX' />
+    <h4><a href='https://computerhoy.com/life/como-quitar-hipo-causas-remedios-bebes-adultos-1308118'>Cómo quitar el hipo: por qué se produce y cómo se quita el hipo en bebés y adultos</a></h4>
+    <a href='https://computerhoy.com/life/como-quitar-hipo-causas-remedios-bebes-adultos-1308118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-hipo-produce-como-quita-hipo-bebes-adultos-3139848.jpg?tf=1200x' alt='Cómo quitar el hipo: por qué se produce y cómo se quita el hipo en bebés y adultos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673'>Estas son las mejores sillas de escritorio baratas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-sillas-escritorio-baratas-625673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/silla-escritorio-3254331.jpg?tf=1200x' alt='Estas son las mejores sillas de escritorio baratas que puedes comprar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-buscaria-rentabilizar-negocio-juegos-incluyendo-anuncios-mismos-1354740'>Netflix buscaría rentabilizar su negocio de juegos incluyendo anuncios en los mismos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-buscaria-rentabilizar-negocio-juegos-incluyendo-anuncios-mismos-1354740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-juegos-2520525.jpg?tf=1200x' alt='Netflix buscaría rentabilizar su negocio de juegos incluyendo anuncios en los mismos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/2024-ano-descentralizacion-redes-sociales-1353573'>2024, el año de la descentralización de las redes sociales</a></h4>
-    <a href='https://computerhoy.com/internet/2024-ano-descentralizacion-redes-sociales-1353573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mastodon-disecado-expuesto-royal-victoria-museum-columbia-britanica-canada-3255597.jpg?tf=1200x' alt='2024, el año de la descentralización de las redes sociales' />
+    <h4><a href='https://computerhoy.com/apps/app-medidas-iphone-esconde-funcion-adicional-muy-util-1292152'>La app medidas del iPhone esconde una función adicional que casi nadie conoce y que es muy útil para el bricolaje en casa</a></h4>
+    <a href='https://computerhoy.com/apps/app-medidas-iphone-esconde-funcion-adicional-muy-util-1292152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='La app medidas del iPhone esconde una función adicional que casi nadie conoce y que es muy útil para el bricolaje en casa' />
     </a>
 </div>
 
