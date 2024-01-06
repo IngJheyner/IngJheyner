@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798'>La próxima gran actualización para Windows 11 llegará en abril, según Dell</a></h4>
+    <a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalacion-limpia-windows-11-3201328.jpg?tf=1200x' alt='La próxima gran actualización para Windows 11 llegará en abril, según Dell' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estos-son-influencers-mejor-pagados-instagram-actualmente-1354396'>Estos son los influencers mejor pagados de Instagram actualmente</a></h4>
+    <a href='https://computerhoy.com/internet/estos-son-influencers-mejor-pagados-instagram-actualmente-1354396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Estos son los influencers mejor pagados de Instagram actualmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382'>¿A qué huele el espacio? Esto es lo que dicen los astronautas</a></h4>
     <a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? Esto es lo que dicen los astronautas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713'>Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2</a></h4>
     <a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-blackview-3257510.jpg?tf=1200x' alt='Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-1353638'>5 grandes películas de ciencia ficción que nunca tuvieron secuela (y deberían)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-1353638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-3255680.jpg?tf=1200x' alt='5 grandes películas de ciencia ficción que nunca tuvieron secuela (y deberían)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chrome-android-facilita-eliminacion-datos-navegacion-hace-ahora-forma-1354779'>Chrome para Android facilita la eliminación de datos de navegación y se hace ahora de esta forma</a></h4>
-    <a href='https://computerhoy.com/apps/chrome-android-facilita-eliminacion-datos-navegacion-hace-ahora-forma-1354779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-android-3255332.jpg?tf=1200x' alt='Chrome para Android facilita la eliminación de datos de navegación y se hace ahora de esta forma' />
     </a>
 </div>
 
