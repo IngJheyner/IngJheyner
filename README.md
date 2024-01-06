@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-prepara-todas-estas-nuevas-funcionalidades-bard-1354778'>Google prepara todas estas nuevas funcionalidades para Bard</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-prepara-todas-estas-nuevas-funcionalidades-bard-1354778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pesadilla-influencers-google-bard-ya-ve-video-youtube-extrae-datos-te-hace-resumen-3230532.jpg?tf=1200x' alt='Google prepara todas estas nuevas funcionalidades para Bard' />
+    <h4><a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382'>¿A qué huele el espacio? Esto es lo que dicen los astronautas</a></h4>
+    <a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? Esto es lo que dicen los astronautas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estos-son-alimentos-danan-memoria-harvard-1350533'>Estos son los alimentos que más dañan tu memoria, según Harvard</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estos-son-alimentos-danan-memoria-harvard-1350533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-alimentos-danan-memoria-harvard-3250037.jpg?tf=1200x' alt='Estos son los alimentos que más dañan tu memoria, según Harvard' />
+    <h4><a href='https://computerhoy.com/apps/reuniones-microsoft-teams-llegan-tambien-android-auto-1354793'>Las reuniones de Microsoft Teams llegan también a Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/reuniones-microsoft-teams-llegan-tambien-android-auto-1354793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Las reuniones de Microsoft Teams llegan también a Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spotube-app-escuchar-musica-gratis-spotify-youtube-music-1353824'>Así puedes escuchar música gratis de Spotify y YouTube Music sin anuncios y de manera legal</a></h4>
-    <a href='https://computerhoy.com/apps/spotube-app-escuchar-musica-gratis-spotify-youtube-music-1353824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-escuchar-musica-gratis-spotify-youtube-music-anuncios-manera-legal-3256020.jpg?tf=1200x' alt='Así puedes escuchar música gratis de Spotify y YouTube Music sin anuncios y de manera legal' />
+    <h4><a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713'>Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-blackview-3257510.jpg?tf=1200x' alt='Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-tambien-quiere-copilot-explorador-archivos-windows-11-1354774'>Microsoft también quiere que Copilot esté en el explorador de archivos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-tambien-quiere-copilot-explorador-archivos-windows-11-1354774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/copilot-3140950.jpg?tf=1200x' alt='Microsoft también quiere que Copilot esté en el explorador de archivos de Windows 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-1353638'>5 grandes películas de ciencia ficción que nunca tuvieron secuela (y deberían)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-1353638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-grandes-peliculas-ciencia-ficcion-nunca-tuvieron-secuela-deberian-3255680.jpg?tf=1200x' alt='5 grandes películas de ciencia ficción que nunca tuvieron secuela (y deberían)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regalos-no-te-gustan-tienes-plataformas-segunda-mano-1353651'>Este año los Reyes se han equivocado con mis regalos, pero estas plataformas de segunda mano me han salvado la vida</a></h4>
-    <a href='https://computerhoy.com/life/regalos-no-te-gustan-tienes-plataformas-segunda-mano-1353651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/regalos-reyes-3256823.jpg?tf=1200x' alt='Este año los Reyes se han equivocado con mis regalos, pero estas plataformas de segunda mano me han salvado la vida' />
+    <h4><a href='https://computerhoy.com/apps/chrome-android-facilita-eliminacion-datos-navegacion-hace-ahora-forma-1354779'>Chrome para Android facilita la eliminación de datos de navegación y se hace ahora de esta forma</a></h4>
+    <a href='https://computerhoy.com/apps/chrome-android-facilita-eliminacion-datos-navegacion-hace-ahora-forma-1354779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-android-3255332.jpg?tf=1200x' alt='Chrome para Android facilita la eliminación de datos de navegación y se hace ahora de esta forma' />
     </a>
 </div>
 
