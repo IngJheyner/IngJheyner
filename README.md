@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-freidora-aire-brutal-xiaomi-vuelve-precio-historico-1354529'>Amazon va a agotar la freidora de aire más brutal de Xiaomi, que vuelve a su precio histórico más bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-freidora-aire-brutal-xiaomi-vuelve-precio-historico-1354529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3137656.jpg?tf=1200x' alt='Amazon va a agotar la freidora de aire más brutal de Xiaomi, que vuelve a su precio histórico más bajo' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-prepara-todas-estas-nuevas-funcionalidades-bard-1354778'>Google prepara todas estas nuevas funcionalidades para Bard</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-prepara-todas-estas-nuevas-funcionalidades-bard-1354778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/pesadilla-influencers-google-bard-ya-ve-video-youtube-extrae-datos-te-hace-resumen-3230532.jpg?tf=1200x' alt='Google prepara todas estas nuevas funcionalidades para Bard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-rescata-negocio-perifericos-pc-traves-empresa-1354752'>Microsoft rescata su negocio de periféricos para PC a través de esta empresa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-rescata-negocio-perifericos-pc-traves-empresa-1354752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/accesorios-microsoft-incase-3257539.jpg?tf=1200x' alt='Microsoft rescata su negocio de periféricos para PC a través de esta empresa' />
+    <h4><a href='https://computerhoy.com/alimentacion/estos-son-alimentos-danan-memoria-harvard-1350533'>Estos son los alimentos que más dañan tu memoria, según Harvard</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estos-son-alimentos-danan-memoria-harvard-1350533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estos-son-alimentos-danan-memoria-harvard-3250037.jpg?tf=1200x' alt='Estos son los alimentos que más dañan tu memoria, según Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-quitar-hipo-causas-remedios-bebes-adultos-1308118'>Cómo quitar el hipo: por qué se produce y cómo se quita el hipo en bebés y adultos</a></h4>
-    <a href='https://computerhoy.com/life/como-quitar-hipo-causas-remedios-bebes-adultos-1308118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-quitar-hipo-produce-como-quita-hipo-bebes-adultos-3139848.jpg?tf=1200x' alt='Cómo quitar el hipo: por qué se produce y cómo se quita el hipo en bebés y adultos' />
+    <h4><a href='https://computerhoy.com/apps/spotube-app-escuchar-musica-gratis-spotify-youtube-music-1353824'>Así puedes escuchar música gratis de Spotify y YouTube Music sin anuncios y de manera legal</a></h4>
+    <a href='https://computerhoy.com/apps/spotube-app-escuchar-musica-gratis-spotify-youtube-music-1353824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-escuchar-musica-gratis-spotify-youtube-music-anuncios-manera-legal-3256020.jpg?tf=1200x' alt='Así puedes escuchar música gratis de Spotify y YouTube Music sin anuncios y de manera legal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-buscaria-rentabilizar-negocio-juegos-incluyendo-anuncios-mismos-1354740'>Netflix buscaría rentabilizar su negocio de juegos incluyendo anuncios en los mismos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-buscaria-rentabilizar-negocio-juegos-incluyendo-anuncios-mismos-1354740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/netflix-juegos-2520525.jpg?tf=1200x' alt='Netflix buscaría rentabilizar su negocio de juegos incluyendo anuncios en los mismos' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-tambien-quiere-copilot-explorador-archivos-windows-11-1354774'>Microsoft también quiere que Copilot esté en el explorador de archivos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-tambien-quiere-copilot-explorador-archivos-windows-11-1354774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/copilot-3140950.jpg?tf=1200x' alt='Microsoft también quiere que Copilot esté en el explorador de archivos de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-medidas-iphone-esconde-funcion-adicional-muy-util-1292152'>La app medidas del iPhone esconde una función adicional que casi nadie conoce y que es muy útil para el bricolaje en casa</a></h4>
-    <a href='https://computerhoy.com/apps/app-medidas-iphone-esconde-funcion-adicional-muy-util-1292152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2948946.jpg?tf=1200x' alt='La app medidas del iPhone esconde una función adicional que casi nadie conoce y que es muy útil para el bricolaje en casa' />
+    <h4><a href='https://computerhoy.com/life/regalos-no-te-gustan-tienes-plataformas-segunda-mano-1353651'>Este año los Reyes se han equivocado con mis regalos, pero estas plataformas de segunda mano me han salvado la vida</a></h4>
+    <a href='https://computerhoy.com/life/regalos-no-te-gustan-tienes-plataformas-segunda-mano-1353651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/regalos-reyes-3256823.jpg?tf=1200x' alt='Este año los Reyes se han equivocado con mis regalos, pero estas plataformas de segunda mano me han salvado la vida' />
     </a>
 </div>
 
