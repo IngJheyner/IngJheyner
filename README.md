@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/avance-neurona-alzheimer-dana-defenderse-misma-1352226'>Nuevo avance en la comprensión del Alzheimer: las neuronas se dañan al defenderse de sí mismas</a></h4>
+    <a href='https://computerhoy.com/life/avance-neurona-alzheimer-dana-defenderse-misma-1352226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-avance-comprension-alzheimer-neuronas-danan-defenderse-mismas-3252982.jpg?tf=1200x' alt='Nuevo avance en la comprensión del Alzheimer: las neuronas se dañan al defenderse de sí mismas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/posibilidad-compartir-musica-durante-videollamada-whatsapp-cada-vez-cerca-1354851'>La posibilidad de compartir música durante una videollamada en WhatsApp cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/apps/posibilidad-compartir-musica-durante-videollamada-whatsapp-cada-vez-cerca-1354851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='La posibilidad de compartir música durante una videollamada en WhatsApp cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualiza-microsoft-store-windows-11-buena-noticia-amantes-videojuegos-1354846'>Se actualiza la Microsoft Store en Windows 11 con una buena noticia para los amantes de los videojuegos</a></h4>
+    <a href='https://computerhoy.com/windows/actualiza-microsoft-store-windows-11-buena-noticia-amantes-videojuegos-1354846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='Se actualiza la Microsoft Store en Windows 11 con una buena noticia para los amantes de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-abrir-menu-completo-boton-derecho-forma-predeterminada-windows-11-1348834'>Cómo abrir el menú completo del botón derecho de forma predeterminada en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-abrir-menu-completo-boton-derecho-forma-predeterminada-windows-11-1348834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menu-completo-windows-11-3247517.jpg?tf=1200x' alt='Cómo abrir el menú completo del botón derecho de forma predeterminada en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490'>Estas son todas las tarifas que suben en 2024: prepara la cartera </a></h4>
     <a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarifas-suben-2024-3255037.jpg?tf=1200x' alt='Estas son todas las tarifas que suben en 2024: prepara la cartera ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-experimenta-funcionalidad-similar-tinder-pero-moda-1354838'>Google experimenta con una funcionalidad similar a Tinder pero para la moda</a></h4>
-    <a href='https://computerhoy.com/google/google-experimenta-funcionalidad-similar-tinder-pero-moda-1354838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buscador-google-3257642.jpg?tf=1200x' alt='Google experimenta con una funcionalidad similar a Tinder pero para la moda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-prueba-nuevo-widget-clima-pantalla-bloqueo-luce-1354834'>Windows 11 prueba un nuevo widget del clima en la pantalla de bloqueo y así luce</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-prueba-nuevo-widget-clima-pantalla-bloqueo-luce-1354834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3257637.jpg?tf=1200x' alt='Windows 11 prueba un nuevo widget del clima en la pantalla de bloqueo y así luce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/6-mejores-alternativas-app-notas-iphone-1336680'>Las 6 mejores alternativas a la app Notas del iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/6-mejores-alternativas-app-notas-iphone-1336680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-mejores-alternativas-app-notas-iphone-3224686.jpg?tf=1200x' alt='Las 6 mejores alternativas a la app Notas del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cada-vez-personas-estan-cancelando-servicios-como-netflix-disney-hbo-incremento-precios-estudio-1354827'>Cada vez más personas están cancelando servicios como Netflix, Disney+ o HBO por el incremento de precios, según este estudio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cada-vez-personas-estan-cancelando-servicios-como-netflix-disney-hbo-incremento-precios-estudio-1354827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='Cada vez más personas están cancelando servicios como Netflix, Disney+ o HBO por el incremento de precios, según este estudio' />
     </a>
 </div>
 
