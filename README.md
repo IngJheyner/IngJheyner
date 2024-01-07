@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hercules-arana-sidney-grande-venenosa-jamas-vista-1354814'>Esta es Hércules, la araña de Sídney más grande jamás vista, su veneno mata a una persona en 15 minutos</a></h4>
-    <a href='https://computerhoy.com/life/hercules-arana-sidney-grande-venenosa-jamas-vista-1354814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hercules-arana-sidney-grande-jamas-vista-veneno-mata-persona-15-minutos-3257617.jpg?tf=1200x' alt='Esta es Hércules, la araña de Sídney más grande jamás vista, su veneno mata a una persona en 15 minutos' />
+    <h4><a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-baratos-2024-comparados-2023-1350495'>Productos tecnológicos que serán más baratos en 2024 comparados con 2023 </a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-baratos-2024-comparados-2023-1350495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/productos-tecnologicos-caros-2024-3255915.jpg?tf=1200x' alt='Productos tecnológicos que serán más baratos en 2024 comparados con 2023 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/secreto-encontrar-felicidad-persona-feliz-mundo-1354794'>Este es el secreto para encontrar la felicidad según la persona más feliz del mundo</a></h4>
-    <a href='https://computerhoy.com/life/secreto-encontrar-felicidad-persona-feliz-mundo-1354794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/felicidad-3257583.jpg?tf=1200x' alt='Este es el secreto para encontrar la felicidad según la persona más feliz del mundo' />
+    <h4><a href='https://computerhoy.com/ciencia/despertarte-3-manana-no-mito-explica-ciencia-1353012'>Despertarte a las 3 de la mañana no es un mito, y así lo explica la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/despertarte-3-manana-no-mito-explica-ciencia-1353012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/despertarte-3-manana-no-mito-explica-ciencia-3254537.jpg?tf=1200x' alt='Despertarte a las 3 de la mañana no es un mito, y así lo explica la ciencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estan-haciendo-estos-7-millonarios-tecnologicos-vivir-1350714'>Qué están haciendo estos 7 millonarios tecnológicos obsesionados con vivir más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estan-haciendo-estos-7-millonarios-tecnologicos-vivir-1350714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/millonarios-obsesionados-vida-3251928.jpg?tf=1200x' alt='Qué están haciendo estos 7 millonarios tecnológicos obsesionados con vivir más' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/zero-trust-seguridad-confianza-cero-todas-empresas-deberian-incluirlo-1344804'>¿Qué es Zero Trust o seguridad de Confianza Cero y por qué todas las empresas deberían incluirlo?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/zero-trust-seguridad-confianza-cero-todas-empresas-deberian-incluirlo-1344804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704445914179-3257140.jpg?tf=1200x' alt='¿Qué es Zero Trust o seguridad de Confianza Cero y por qué todas las empresas deberían incluirlo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Los mejores televisores QLED calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-tv-q2-3254628.jpg?tf=1200x' alt='Los mejores televisores QLED calidad-precio que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/cambios-vida-digital-2024-leyes-impuestos-novedades-tecnologicas-1352746'>Cambios en la vida digital en 2024: leyes, impuestos y novedades tecnológicas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambios-vida-digital-2024-leyes-impuestos-novedades-tecnologicas-1352746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/leyes-impuestos-2024-3255492.jpg?tf=1200x' alt='Cambios en la vida digital en 2024: leyes, impuestos y novedades tecnológicas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798'>La próxima gran actualización para Windows 11 llegará en abril, según Dell</a></h4>
-    <a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalacion-limpia-windows-11-3201328.jpg?tf=1200x' alt='La próxima gran actualización para Windows 11 llegará en abril, según Dell' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143604.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
     </a>
 </div>
 
