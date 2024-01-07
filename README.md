@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-baratos-2024-comparados-2023-1350495'>Productos tecnológicos que serán más baratos en 2024 comparados con 2023 </a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-baratos-2024-comparados-2023-1350495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/productos-tecnologicos-caros-2024-3255915.jpg?tf=1200x' alt='Productos tecnológicos que serán más baratos en 2024 comparados con 2023 ' />
+    <h4><a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490'>Estas son todas las tarifas que suben en 2024: prepara la cartera </a></h4>
+    <a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarifas-suben-2024-3255037.jpg?tf=1200x' alt='Estas son todas las tarifas que suben en 2024: prepara la cartera ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/despertarte-3-manana-no-mito-explica-ciencia-1353012'>Despertarte a las 3 de la mañana no es un mito, y así lo explica la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/despertarte-3-manana-no-mito-explica-ciencia-1353012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/despertarte-3-manana-no-mito-explica-ciencia-3254537.jpg?tf=1200x' alt='Despertarte a las 3 de la mañana no es un mito, y así lo explica la ciencia' />
+    <h4><a href='https://computerhoy.com/google/google-experimenta-funcionalidad-similar-tinder-pero-moda-1354838'>Google experimenta con una funcionalidad similar a Tinder pero para la moda</a></h4>
+    <a href='https://computerhoy.com/google/google-experimenta-funcionalidad-similar-tinder-pero-moda-1354838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buscador-google-3257642.jpg?tf=1200x' alt='Google experimenta con una funcionalidad similar a Tinder pero para la moda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/zero-trust-seguridad-confianza-cero-todas-empresas-deberian-incluirlo-1344804'>¿Qué es Zero Trust o seguridad de Confianza Cero y por qué todas las empresas deberían incluirlo?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/zero-trust-seguridad-confianza-cero-todas-empresas-deberian-incluirlo-1344804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704445914179-3257140.jpg?tf=1200x' alt='¿Qué es Zero Trust o seguridad de Confianza Cero y por qué todas las empresas deberían incluirlo?' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-prueba-nuevo-widget-clima-pantalla-bloqueo-luce-1354834'>Windows 11 prueba un nuevo widget del clima en la pantalla de bloqueo y así luce</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-prueba-nuevo-widget-clima-pantalla-bloqueo-luce-1354834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3257637.jpg?tf=1200x' alt='Windows 11 prueba un nuevo widget del clima en la pantalla de bloqueo y así luce' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambios-vida-digital-2024-leyes-impuestos-novedades-tecnologicas-1352746'>Cambios en la vida digital en 2024: leyes, impuestos y novedades tecnológicas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambios-vida-digital-2024-leyes-impuestos-novedades-tecnologicas-1352746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/leyes-impuestos-2024-3255492.jpg?tf=1200x' alt='Cambios en la vida digital en 2024: leyes, impuestos y novedades tecnológicas' />
+    <h4><a href='https://computerhoy.com/apps/6-mejores-alternativas-app-notas-iphone-1336680'>Las 6 mejores alternativas a la app Notas del iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/6-mejores-alternativas-app-notas-iphone-1336680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/6-mejores-alternativas-app-notas-iphone-3224686.jpg?tf=1200x' alt='Las 6 mejores alternativas a la app Notas del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2023</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143604.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2023' />
+    <h4><a href='https://computerhoy.com/entretenimiento/cada-vez-personas-estan-cancelando-servicios-como-netflix-disney-hbo-incremento-precios-estudio-1354827'>Cada vez más personas están cancelando servicios como Netflix, Disney+ o HBO por el incremento de precios, según este estudio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cada-vez-personas-estan-cancelando-servicios-como-netflix-disney-hbo-incremento-precios-estudio-1354827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/mercado-streaming-hipercompetitivo-adictivo-saturado-2985794.jpg?tf=1200x' alt='Cada vez más personas están cancelando servicios como Netflix, Disney+ o HBO por el incremento de precios, según este estudio' />
     </a>
 </div>
 
