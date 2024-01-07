@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/avance-neurona-alzheimer-dana-defenderse-misma-1352226'>Nuevo avance en la comprensión del Alzheimer: las neuronas se dañan al defenderse de sí mismas</a></h4>
-    <a href='https://computerhoy.com/life/avance-neurona-alzheimer-dana-defenderse-misma-1352226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nuevo-avance-comprension-alzheimer-neuronas-danan-defenderse-mismas-3252982.jpg?tf=1200x' alt='Nuevo avance en la comprensión del Alzheimer: las neuronas se dañan al defenderse de sí mismas' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/posibilidad-compartir-musica-durante-videollamada-whatsapp-cada-vez-cerca-1354851'>La posibilidad de compartir música durante una videollamada en WhatsApp cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/apps/posibilidad-compartir-musica-durante-videollamada-whatsapp-cada-vez-cerca-1354851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-logo-3198238.jpg?tf=1200x' alt='La posibilidad de compartir música durante una videollamada en WhatsApp cada vez más cerca' />
+    <h4><a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487'>Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proyector-xgimi-horizon-max-3257228.jpg?tf=1200x' alt='Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualiza-microsoft-store-windows-11-buena-noticia-amantes-videojuegos-1354846'>Se actualiza la Microsoft Store en Windows 11 con una buena noticia para los amantes de los videojuegos</a></h4>
-    <a href='https://computerhoy.com/windows/actualiza-microsoft-store-windows-11-buena-noticia-amantes-videojuegos-1354846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-store-3226806.jpg?tf=1200x' alt='Se actualiza la Microsoft Store en Windows 11 con una buena noticia para los amantes de los videojuegos' />
+    <h4><a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877'>Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?</a></h4>
+    <a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cloudflare-publica-lista-webs-visitadas-mundo-seguro-aciertas-mayoria-3257674.jpg?tf=1200x' alt='Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-abrir-menu-completo-boton-derecho-forma-predeterminada-windows-11-1348834'>Cómo abrir el menú completo del botón derecho de forma predeterminada en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/como-abrir-menu-completo-boton-derecho-forma-predeterminada-windows-11-1348834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menu-completo-windows-11-3247517.jpg?tf=1200x' alt='Cómo abrir el menú completo del botón derecho de forma predeterminada en Windows 11' />
+    <h4><a href='https://computerhoy.com/moviles/como-buscar-eliminar-fotos-android-ios-1354422'>Cómo buscar y eliminar fotos de Android e iOS</a></h4>
+    <a href='https://computerhoy.com/moviles/como-buscar-eliminar-fotos-android-ios-1354422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-buscar-eliminar-fotos-android-ios-3257071.jpg?tf=1200x' alt='Cómo buscar y eliminar fotos de Android e iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490'>Estas son todas las tarifas que suben en 2024: prepara la cartera </a></h4>
-    <a href='https://computerhoy.com/life/estas-son-todas-tarifas-suben-2024-prepara-cartera-1350490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tarifas-suben-2024-3255037.jpg?tf=1200x' alt='Estas son todas las tarifas que suben en 2024: prepara la cartera ' />
+    <h4><a href='https://computerhoy.com/alimentacion/cantidad-magnesio-debes-tomar-dia-evitar-fatiga-estudio-1342018'>Esta es la cantidad de magnesio que debes tomar al día para evitar la fatiga, según un estudio</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cantidad-magnesio-debes-tomar-dia-evitar-fatiga-estudio-1342018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cansancio-1954275.jpg?tf=1200x' alt='Esta es la cantidad de magnesio que debes tomar al día para evitar la fatiga, según un estudio' />
     </a>
 </div>
 
