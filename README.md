@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-te-invita-enviar-nombre-luna-mision-artemis-rover-viper-1354892'>La NASA te invita a enviar tu nombre al polo sur de la Luna, en la misión Artemis</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-te-invita-enviar-nombre-luna-mision-artemis-rover-viper-1354892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-te-invita-enviar-nombre-polo-sur-luna-mision-artemis-3257690.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre al polo sur de la Luna, en la misión Artemis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/union-europea-quiere-quitar-aprobacion-cookies-cuando-visitas-web-1354888'>La Unión Europea reconoce que tener que aprobar las cookies cada vez que visitas una web genera fatiga, y lo va a cambiar</a></h4>
+    <a href='https://computerhoy.com/internet/union-europea-quiere-quitar-aprobacion-cookies-cuando-visitas-web-1354888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/union-europea-reconoce-tener-aprobar-cookies-cada-vez-visitas-web-ridiculo-va-cambiar-3257685.jpg?tf=1200x' alt='La Unión Europea reconoce que tener que aprobar las cookies cada vez que visitas una web genera fatiga, y lo va a cambiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877'>Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?</a></h4>
     <a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cloudflare-publica-lista-webs-visitadas-mundo-seguro-aciertas-mayoria-3257674.jpg?tf=1200x' alt='Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-buscar-eliminar-fotos-android-ios-1354422'>Cómo buscar y eliminar fotos de Android e iOS</a></h4>
-    <a href='https://computerhoy.com/moviles/como-buscar-eliminar-fotos-android-ios-1354422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-buscar-eliminar-fotos-android-ios-3257071.jpg?tf=1200x' alt='Cómo buscar y eliminar fotos de Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cantidad-magnesio-debes-tomar-dia-evitar-fatiga-estudio-1342018'>Esta es la cantidad de magnesio que debes tomar al día para evitar la fatiga, según un estudio</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cantidad-magnesio-debes-tomar-dia-evitar-fatiga-estudio-1342018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/05/cansancio-1954275.jpg?tf=1200x' alt='Esta es la cantidad de magnesio que debes tomar al día para evitar la fatiga, según un estudio' />
     </a>
 </div>
 
