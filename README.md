@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hercules-arana-sidney-grande-venenosa-jamas-vista-1354814'>Esta es Hércules, la araña de Sídney más grande jamás vista, su veneno mata a una persona en 15 minutos</a></h4>
+    <a href='https://computerhoy.com/life/hercules-arana-sidney-grande-venenosa-jamas-vista-1354814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hercules-arana-sidney-grande-jamas-vista-veneno-mata-persona-15-minutos-3257617.jpg?tf=1200x' alt='Esta es Hércules, la araña de Sídney más grande jamás vista, su veneno mata a una persona en 15 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/secreto-encontrar-felicidad-persona-feliz-mundo-1354794'>Este es el secreto para encontrar la felicidad según la persona más feliz del mundo</a></h4>
+    <a href='https://computerhoy.com/life/secreto-encontrar-felicidad-persona-feliz-mundo-1354794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/felicidad-3257583.jpg?tf=1200x' alt='Este es el secreto para encontrar la felicidad según la persona más feliz del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estan-haciendo-estos-7-millonarios-tecnologicos-vivir-1350714'>Qué están haciendo estos 7 millonarios tecnológicos obsesionados con vivir más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estan-haciendo-estos-7-millonarios-tecnologicos-vivir-1350714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/millonarios-obsesionados-vida-3251928.jpg?tf=1200x' alt='Qué están haciendo estos 7 millonarios tecnológicos obsesionados con vivir más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085'>Los mejores televisores QLED calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-televisores-qled-puedes-comprar-1021085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-tv-q2-3254628.jpg?tf=1200x' alt='Los mejores televisores QLED calidad-precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798'>La próxima gran actualización para Windows 11 llegará en abril, según Dell</a></h4>
     <a href='https://computerhoy.com/windows/proxima-gran-actualizacion-windows-11-llegara-abril-dell-1354798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/instalacion-limpia-windows-11-3201328.jpg?tf=1200x' alt='La próxima gran actualización para Windows 11 llegará en abril, según Dell' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estos-son-influencers-mejor-pagados-instagram-actualmente-1354396'>Estos son los influencers mejor pagados de Instagram actualmente</a></h4>
-    <a href='https://computerhoy.com/internet/estos-son-influencers-mejor-pagados-instagram-actualmente-1354396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-3212144.jpg?tf=1200x' alt='Estos son los influencers mejor pagados de Instagram actualmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382'>¿A qué huele el espacio? Esto es lo que dicen los astronautas</a></h4>
-    <a href='https://computerhoy.com/ciencia/huele-espacio-dicen-astronautas-1354382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? Esto es lo que dicen los astronautas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/reuniones-microsoft-teams-llegan-tambien-android-auto-1354793'>Las reuniones de Microsoft Teams llegan también a Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/reuniones-microsoft-teams-llegan-tambien-android-auto-1354793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2575823.jpg?tf=1200x' alt='Las reuniones de Microsoft Teams llegan también a Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713'>Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2</a></h4>
-    <a href='https://computerhoy.com/tecnologia/clon-apple-watch-ultra-cuesta-20-veces-menos-pero-mide-spo2-1354713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-blackview-3257510.jpg?tf=1200x' alt='Este clon del Apple Watch cuesta casi 20 veces menos, pero mide hasta la SpO2' />
     </a>
 </div>
 
