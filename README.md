@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/ingresan-millon-euros-primer-monedero-inventor-bitcoin-1354900'>Ingresan un millón de euros en el primer monedero del inventor del Bitcoin, Satoshi Nakamoto, y las especulaciones se disparan</a></h4>
+    <a href='https://computerhoy.com/criptos/ingresan-millon-euros-primer-monedero-inventor-bitcoin-1354900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ingresan-millon-euros-primer-monedero-inventor-bitcoin-satoshi-nakamoto-especulaciones-disparan-3257694.jpg?tf=1200x' alt='Ingresan un millón de euros en el primer monedero del inventor del Bitcoin, Satoshi Nakamoto, y las especulaciones se disparan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-te-invita-enviar-nombre-luna-mision-artemis-rover-viper-1354892'>La NASA te invita a enviar tu nombre al polo sur de la Luna, en la misión Artemis</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-te-invita-enviar-nombre-luna-mision-artemis-rover-viper-1354892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-te-invita-enviar-nombre-polo-sur-luna-mision-artemis-3257690.jpg?tf=1200x' alt='La NASA te invita a enviar tu nombre al polo sur de la Luna, en la misión Artemis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487'>Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024</a></h4>
     <a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proyector-xgimi-horizon-max-3257228.jpg?tf=1200x' alt='Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877'>Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?</a></h4>
-    <a href='https://computerhoy.com/internet/cloudflare-publica-lista-webs-mas-visitadas-mundo-2024-1354877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cloudflare-publica-lista-webs-visitadas-mundo-seguro-aciertas-mayoria-3257674.jpg?tf=1200x' alt='Cloudflare publica la lista de dominios más visitados del mundo en 2024, ¿hay sorpresas?' />
     </a>
 </div>
 
