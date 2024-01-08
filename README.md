@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/juegos-mesa-clasicos-indispendables-movil-1354995'>5 juegos de mesa clásicos que no pueden faltar en tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/juegos-mesa-clasicos-indispendables-movil-1354995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-juegos-mesa-clasicos-no-pueden-faltar-telefono-movil-3257867.jpg?tf=1200x' alt='5 juegos de mesa clásicos que no pueden faltar en tu teléfono móvil' />
+    <h4><a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196'>NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!</a></h4>
+    <a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nvidia-presenta-tarjetas-rtx-4000-super-potentes-baratas-3258196.jpg?tf=1200x' alt='NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compra-baratija-mercadillo-descubre-television-vale-miles-euros-1355127'>Compra una "baratija" en un mercadillo y descubre por televisión que vale 17.000 euros</a></h4>
-    <a href='https://computerhoy.com/life/compra-baratija-mercadillo-descubre-television-vale-miles-euros-1355127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compra-joya-mercado-hace-25-anos-descubre-viendo-programa-tv-vale-17000-euros-3258117.jpg?tf=1200x' alt='Compra una "baratija" en un mercadillo y descubre por televisión que vale 17.000 euros' />
+    <h4><a href='https://computerhoy.com/life/genial-truco-viral-limpiar-interior-radiadores-segundos-calienten-1355186'>El genial truco viral para limpiar el interior de los radiadores en segundos para que calienten más</a></h4>
+    <a href='https://computerhoy.com/life/genial-truco-viral-limpiar-interior-radiadores-segundos-calienten-1355186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/radiador-3258202.jpg?tf=1200x' alt='El genial truco viral para limpiar el interior de los radiadores en segundos para que calienten más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-1352429'>Gophering: ¿por qué se produce y cuándo un ligue por Internet puede ser peligroso?</a></h4>
-    <a href='https://computerhoy.com/internet/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-1352429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-3253380.jpg?tf=1200x' alt='Gophering: ¿por qué se produce y cuándo un ligue por Internet puede ser peligroso?' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169'>No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3252860.jpg?tf=1200x' alt='No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/habitos-comunes-debes-evitar-no-desarrollar-demencia-temprana-1355104'>Un estudio detecta los hábitos comunes que debes evitar para no desarrollar demencia temprana</a></h4>
-    <a href='https://computerhoy.com/life/habitos-comunes-debes-evitar-no-desarrollar-demencia-temprana-1355104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-evitar-estilo-vida-no-desarrollar-demencia-temprana-antes-65-anos-3258098.jpg?tf=1200x' alt='Un estudio detecta los hábitos comunes que debes evitar para no desarrollar demencia temprana' />
+    <h4><a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184'>Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-3258201.jpg?tf=1200x' alt='Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bateria-generador-compatible-energia-solar-sorprendentemente-barato-va-ser-mejor-aliado-camping-1355018'>Esta batería y generador compatible con energía solar es sorprendentemente barato y va a ser tu mejor aliado en el camping</a></h4>
-    <a href='https://computerhoy.com/life/bateria-generador-compatible-energia-solar-sorprendentemente-barato-va-ser-mejor-aliado-camping-1355018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estacion-carga-bluetti-eb3a-3257970.jpg?tf=1200x' alt='Esta batería y generador compatible con energía solar es sorprendentemente barato y va a ser tu mejor aliado en el camping' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833'>Cómo saber el código PIN de mi tarjeta SIM</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-codigo-pin-mi-tarjeta-sim-3257080.jpg?tf=1200x' alt='Cómo saber el código PIN de mi tarjeta SIM' />
     </a>
 </div>
 
