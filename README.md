@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950'>El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android</a></h4>
+    <a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191812.jpg?tf=1200x' alt='El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942'>Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol</a></h4>
     <a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/paneles-solares-3257777.jpg?tf=1200x' alt='Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-99-euros-tiene-ssd-8-gb-ram-mini-pc-arrasando-aliexpress-1353865'>Cuesta 99 euros y tiene SSD y 8 GB de RAM: este Mini PC está arrasando en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-99-euros-tiene-ssd-8-gb-ram-mini-pc-arrasando-aliexpress-1353865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg?tf=1200x' alt='Cuesta 99 euros y tiene SSD y 8 GB de RAM: este Mini PC está arrasando en AliExpress' />
     </a>
 </div>
 
