@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-area-servicio-cercana-1353145'>Cómo encontrar con Google Maps el área de servicio más próxima a tu ubicación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-area-servicio-cercana-1353145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-encontrar-google-maps-area-servicio-proxima-ubicacion-3255050.jpg?tf=1200x' alt='Cómo encontrar con Google Maps el área de servicio más próxima a tu ubicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097'>Apple Vision Pro se pone a la venta el 2 de febrero</a></h4>
     <a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple Vision Pro se pone a la venta el 2 de febrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062'>Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico</a></h4>
     <a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-lanzamientos-novedades-ces-2024-3256900.jpg?tf=1200x' alt='Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significan-numeros-letras-procesadores-intel-3256593.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
     </a>
 </div>
 
