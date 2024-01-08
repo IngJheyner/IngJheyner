@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-planea-crear-sensores-humanoides-fotografiar-invisible-1354103'>El plan innovador de Samsung pasa por desarrollar sensores "humanoides" con IA para fotografiar lo invisible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-planea-crear-sensores-humanoides-fotografiar-invisible-1354103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/plan-innovador-samsung-pasa-desarrollar-sensores-humanoides-ia-fotografiar-invisible-3256592.jpg?tf=1200x' alt='El plan innovador de Samsung pasa por desarrollar sensores "humanoides" con IA para fotografiar lo invisible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-arma-doble-filo-sera-decisiva-ciberseguridad-2024-1355050'>La inteligencia artificial, un arma de doble filo que será decisiva en la ciberseguridad de 2024</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-arma-doble-filo-sera-decisiva-ciberseguridad-2024-1355050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-ciberseguridad-3257994.jpg?tf=1200x' alt='La inteligencia artificial, un arma de doble filo que será decisiva en la ciberseguridad de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950'>El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android</a></h4>
     <a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191812.jpg?tf=1200x' alt='El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954'>Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad</a></h4>
     <a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/privacidad-anonimato-internet-3257847.jpg?tf=1200x' alt='Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/shiba-inu-experimenta-aumento-2500-tasa-quema-1354943'>Shiba Inu experimenta un aumento del 2.500% en la tasa de quema en un solo día</a></h4>
-    <a href='https://computerhoy.com/criptos/shiba-inu-experimenta-aumento-2500-tasa-quema-1354943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu experimenta un aumento del 2.500% en la tasa de quema en un solo día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942'>Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol</a></h4>
-    <a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/paneles-solares-3257777.jpg?tf=1200x' alt='Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol' />
     </a>
 </div>
 
