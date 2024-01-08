@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-area-servicio-cercana-1353145'>Cómo encontrar con Google Maps el área de servicio más próxima a tu ubicación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-google-maps-area-servicio-cercana-1353145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-encontrar-google-maps-area-servicio-proxima-ubicacion-3255050.jpg?tf=1200x' alt='Cómo encontrar con Google Maps el área de servicio más próxima a tu ubicación' />
+    <h4><a href='https://computerhoy.com/moviles/juegos-mesa-clasicos-indispendables-movil-1354995'>5 juegos de mesa clásicos que no pueden faltar en tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/juegos-mesa-clasicos-indispendables-movil-1354995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-juegos-mesa-clasicos-no-pueden-faltar-telefono-movil-3257867.jpg?tf=1200x' alt='5 juegos de mesa clásicos que no pueden faltar en tu teléfono móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097'>Apple Vision Pro se pone a la venta el 2 de febrero</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple Vision Pro se pone a la venta el 2 de febrero' />
+    <h4><a href='https://computerhoy.com/life/compra-baratija-mercadillo-descubre-television-vale-miles-euros-1355127'>Compra una "baratija" en un mercadillo y descubre por televisión que vale 17.000 euros</a></h4>
+    <a href='https://computerhoy.com/life/compra-baratija-mercadillo-descubre-television-vale-miles-euros-1355127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compra-joya-mercado-hace-25-anos-descubre-viendo-programa-tv-vale-17000-euros-3258117.jpg?tf=1200x' alt='Compra una "baratija" en un mercadillo y descubre por televisión que vale 17.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-deberias-seguir-utilizando-graficos-circulares-1355084'>¿Por qué no deberías seguir ilustrando todos tus informes y datos con gráficos circulares? </a></h4>
-    <a href='https://computerhoy.com/life/no-deberias-seguir-utilizando-graficos-circulares-1355084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-deberias-seguir-ilustrando-todos-informes-datos-graficos-circulares-3258051.jpg?tf=1200x' alt='¿Por qué no deberías seguir ilustrando todos tus informes y datos con gráficos circulares? ' />
+    <h4><a href='https://computerhoy.com/internet/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-1352429'>Gophering: ¿por qué se produce y cuándo un ligue por Internet puede ser peligroso?</a></h4>
+    <a href='https://computerhoy.com/internet/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-1352429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gophering-produce-cuando-ligue-internet-puede-ser-peligroso-3253380.jpg?tf=1200x' alt='Gophering: ¿por qué se produce y cuándo un ligue por Internet puede ser peligroso?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ces-2024-amd-presenta-nueva-tarjeta-grafica-radeon-rx-7600-xt-1354546'>Así es la nueva tarjeta gráfica de AMD, la Radeon RX 7600 XT de 16 gigabytes, que competirá con la RTX 4060 de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ces-2024-amd-presenta-nueva-tarjeta-grafica-radeon-rx-7600-xt-1354546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-tarjeta-grafica-amd-radeon-rx-7600-xt-16-gigabytes-3258023.jpg?tf=1200x' alt='Así es la nueva tarjeta gráfica de AMD, la Radeon RX 7600 XT de 16 gigabytes, que competirá con la RTX 4060 de NVIDIA' />
+    <h4><a href='https://computerhoy.com/life/habitos-comunes-debes-evitar-no-desarrollar-demencia-temprana-1355104'>Un estudio detecta los hábitos comunes que debes evitar para no desarrollar demencia temprana</a></h4>
+    <a href='https://computerhoy.com/life/habitos-comunes-debes-evitar-no-desarrollar-demencia-temprana-1355104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-evitar-estilo-vida-no-desarrollar-demencia-temprana-antes-65-anos-3258098.jpg?tf=1200x' alt='Un estudio detecta los hábitos comunes que debes evitar para no desarrollar demencia temprana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062'>Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-lanzamientos-novedades-ces-2024-3256900.jpg?tf=1200x' alt='Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico' />
+    <h4><a href='https://computerhoy.com/life/bateria-generador-compatible-energia-solar-sorprendentemente-barato-va-ser-mejor-aliado-camping-1355018'>Esta batería y generador compatible con energía solar es sorprendentemente barato y va a ser tu mejor aliado en el camping</a></h4>
+    <a href='https://computerhoy.com/life/bateria-generador-compatible-energia-solar-sorprendentemente-barato-va-ser-mejor-aliado-camping-1355018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estacion-carga-bluetti-eb3a-3257970.jpg?tf=1200x' alt='Esta batería y generador compatible con energía solar es sorprendentemente barato y va a ser tu mejor aliado en el camping' />
     </a>
 </div>
 
