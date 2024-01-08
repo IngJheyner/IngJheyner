@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212'>Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reiki-verdades-mentiras-sirve-realmente-algo-3256021.jpg?tf=1200x' alt='Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?' />
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097'>Apple Vision Pro se pone a la venta el 2 de febrero</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-pone-venta-2-febrero-1355097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple Vision Pro se pone a la venta el 2 de febrero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo' />
+    <h4><a href='https://computerhoy.com/life/no-deberias-seguir-utilizando-graficos-circulares-1355084'>¿Por qué no deberías seguir ilustrando todos tus informes y datos con gráficos circulares? </a></h4>
+    <a href='https://computerhoy.com/life/no-deberias-seguir-utilizando-graficos-circulares-1355084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-deberias-seguir-ilustrando-todos-informes-datos-graficos-circulares-3258051.jpg?tf=1200x' alt='¿Por qué no deberías seguir ilustrando todos tus informes y datos con gráficos circulares? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-planea-crear-sensores-humanoides-fotografiar-invisible-1354103'>El plan innovador de Samsung pasa por desarrollar sensores "humanoides" con IA para fotografiar lo invisible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-planea-crear-sensores-humanoides-fotografiar-invisible-1354103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/plan-innovador-samsung-pasa-desarrollar-sensores-humanoides-ia-fotografiar-invisible-3256592.jpg?tf=1200x' alt='El plan innovador de Samsung pasa por desarrollar sensores "humanoides" con IA para fotografiar lo invisible' />
+    <h4><a href='https://computerhoy.com/tecnologia/ces-2024-amd-presenta-nueva-tarjeta-grafica-radeon-rx-7600-xt-1354546'>Así es la nueva tarjeta gráfica de AMD, la Radeon RX 7600 XT de 16 gigabytes, que competirá con la RTX 4060 de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ces-2024-amd-presenta-nueva-tarjeta-grafica-radeon-rx-7600-xt-1354546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-tarjeta-grafica-amd-radeon-rx-7600-xt-16-gigabytes-3258023.jpg?tf=1200x' alt='Así es la nueva tarjeta gráfica de AMD, la Radeon RX 7600 XT de 16 gigabytes, que competirá con la RTX 4060 de NVIDIA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-arma-doble-filo-sera-decisiva-ciberseguridad-2024-1355050'>La inteligencia artificial, un arma de doble filo que será decisiva en la ciberseguridad de 2024</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-arma-doble-filo-sera-decisiva-ciberseguridad-2024-1355050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-ciberseguridad-3257994.jpg?tf=1200x' alt='La inteligencia artificial, un arma de doble filo que será decisiva en la ciberseguridad de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062'>Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ces-2024-roborock-muestra-robots-limpieza-brazo-robotico-1353062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-lanzamientos-novedades-ces-2024-3256900.jpg?tf=1200x' alt='Roborock muestra en el CES 2024 sus nuevos robots para aspirar y fregar con brazo robótico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950'>El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android</a></h4>
-    <a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191812.jpg?tf=1200x' alt='El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android' />
+    <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
+    <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significan-numeros-letras-procesadores-intel-3256593.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
     </a>
 </div>
 
