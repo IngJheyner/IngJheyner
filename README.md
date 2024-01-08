@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sencillo-truco-evitar-movil-escuche-conversaciones-1326762'>El sencillo truco para evitar que tu móvil escuche tus conversaciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sencillo-truco-evitar-movil-escuche-conversaciones-1326762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='El sencillo truco para evitar que tu móvil escuche tus conversaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-lanza-tienda-chatbots-personalizados-gpt-store-como-ganar-dinero-ella-1354931'>OpenAI lanza su tienda de chatbots personalizados: así es la GPT Store y cómo ganar dinero con ella</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-lanza-tienda-chatbots-personalizados-gpt-store-como-ganar-dinero-ella-1354931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-chatbots-ia-3257761.jpg?tf=1200x' alt='OpenAI lanza su tienda de chatbots personalizados: así es la GPT Store y cómo ganar dinero con ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-caros-2024-vs-2023-1350494'>Productos tecnológicos que serán más caros en 2024 comparados con 2023 </a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-tecnologicos-seran-caros-2024-vs-2023-1350494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/precios-productos-tecnologicos-2024-3255152.jpg?tf=1200x' alt='Productos tecnológicos que serán más caros en 2024 comparados con 2023 ' />
+    <h4><a href='https://computerhoy.com/motor/como-conseguir-etiqueta-eco-sin-cambiar-coche-glp-1354934'>Así puedes conseguir la etiqueta ECO sin cambiar de coche, ahorrando mucho dinero</a></h4>
+    <a href='https://computerhoy.com/motor/como-conseguir-etiqueta-eco-sin-cambiar-coche-glp-1354934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/diferencias-etiqueta-eco-etiqueta-cero-dgt-1885023.jpg?tf=1200x' alt='Así puedes conseguir la etiqueta ECO sin cambiar de coche, ahorrando mucho dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049'>Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-ebooks-ereaders-333049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/kindle-scribe-3139352.jpg?tf=1200x' alt='Los mejores lectores de eBook de 2023: cuál comprar, comparativa y guía para elegir' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dormir-pareja-podria-ser-malo-descanso-ciencia-1353591'>Por qué dormir en pareja podría ser malo para tu descanso, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/dormir-pareja-podria-ser-malo-descanso-ciencia-1353591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dormir-pareja-podria-ser-malo-descanso-ciencia-3255624.jpg?tf=1200x' alt='Por qué dormir en pareja podría ser malo para tu descanso, según la ciencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-copilot-como-sacarle-partido-chat-ia-1353990'>Qué es Microsoft Copilot y cómo sacarle partido a este chat de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-copilot-como-sacarle-partido-chat-ia-1353990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Qué es Microsoft Copilot y cómo sacarle partido a este chat de inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apuesta-ia-samsung-todos-productos-tv-anunciados-ces-2024-1354587'>La apuesta IA de Samsung es clara en todos los productos TV anunciados en CES 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apuesta-ia-samsung-todos-productos-tv-anunciados-ces-2024-1354587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tvs-samsung-3257314.jpg?tf=1200x' alt='La apuesta IA de Samsung es clara en todos los productos TV anunciados en CES 2024' />
+    <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos calidad precio</a></h4>
+    <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cepillo-electrico-2053557.jpg?tf=1200x' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos calidad precio' />
     </a>
 </div>
 
