@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212'>Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/reiki-verdades-mentiras-sirve-realmente-algo-45212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reiki-verdades-mentiras-sirve-realmente-algo-3256021.jpg?tf=1200x' alt='Qué es Reiki: verdades y mentiras, ¿sirve realmente para algo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: estas son todas las novedades en gadgets y tecnologías en directo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950'>El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android</a></h4>
     <a href='https://computerhoy.com/android/chollazo-amazon-google-pixel-8-pro-precio-minimo-historico-1354950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191812.jpg?tf=1200x' alt='El Pixel 8 Pro tiene una oferta que debería hacer temblar a otros fabricantes Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954'>Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad</a></h4>
-    <a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/privacidad-anonimato-internet-3257847.jpg?tf=1200x' alt='Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad' />
     </a>
 </div>
 
