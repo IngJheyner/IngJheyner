@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apuesta-ia-samsung-todos-productos-tv-anunciados-ces-2024-1354587'>La apuesta IA de Samsung es clara en todos los productos TV anunciados en CES 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apuesta-ia-samsung-todos-productos-tv-anunciados-ces-2024-1354587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tvs-samsung-3257314.jpg?tf=1200x' alt='La apuesta IA de Samsung es clara en todos los productos TV anunciados en CES 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/espectacular-grafica-recoge-50-anos-ingresos-videojuegos-1354903'>Una gráfica que recoge 50 años de ingresos de los videojuegos, desvela que los móviles aplastan a las consolas y el PC</a></h4>
+    <a href='https://computerhoy.com/gaming/espectacular-grafica-recoge-50-anos-ingresos-videojuegos-1354903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/grafica-recoge-50-anos-ingresos-videojuegos-desvela-moviles-aplastan-consolas-pc-3257704.jpg?tf=1200x' alt='Una gráfica que recoge 50 años de ingresos de los videojuegos, desvela que los móviles aplastan a las consolas y el PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/ingresan-millon-euros-primer-monedero-inventor-bitcoin-1354900'>Ingresan un millón de euros en el primer monedero del inventor del Bitcoin, Satoshi Nakamoto, y las especulaciones se disparan</a></h4>
     <a href='https://computerhoy.com/criptos/ingresan-millon-euros-primer-monedero-inventor-bitcoin-1354900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ingresan-millon-euros-primer-monedero-inventor-bitcoin-satoshi-nakamoto-especulaciones-disparan-3257694.jpg?tf=1200x' alt='Ingresan un millón de euros en el primer monedero del inventor del Bitcoin, Satoshi Nakamoto, y las especulaciones se disparan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/union-europea-quiere-quitar-aprobacion-cookies-cuando-visitas-web-1354888'>La Unión Europea reconoce que tener que aprobar las cookies cada vez que visitas una web genera fatiga, y lo va a cambiar</a></h4>
     <a href='https://computerhoy.com/internet/union-europea-quiere-quitar-aprobacion-cookies-cuando-visitas-web-1354888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/union-europea-reconoce-tener-aprobar-cookies-cada-vez-visitas-web-ridiculo-va-cambiar-3257685.jpg?tf=1200x' alt='La Unión Europea reconoce que tener que aprobar las cookies cada vez que visitas una web genera fatiga, y lo va a cambiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487'>Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xgimi-presenta-nuevo-proyector-lampara-altavoz-inteligente-1354487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proyector-xgimi-horizon-max-3257228.jpg?tf=1200x' alt='Xgimi presenta nuevo proyector y una lámpara altavoz inteligente en el CES 2024' />
     </a>
 </div>
 
