@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-lanza-tienda-chatbots-personalizados-gpt-store-como-ganar-dinero-ella-1354931'>OpenAI lanza su tienda de chatbots personalizados: así es la GPT Store y cómo ganar dinero con ella</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-lanza-tienda-chatbots-personalizados-gpt-store-como-ganar-dinero-ella-1354931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-chatbots-ia-3257761.jpg?tf=1200x' alt='OpenAI lanza su tienda de chatbots personalizados: así es la GPT Store y cómo ganar dinero con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-conseguir-etiqueta-eco-sin-cambiar-coche-glp-1354934'>Así puedes conseguir la etiqueta ECO sin cambiar de coche, ahorrando mucho dinero</a></h4>
-    <a href='https://computerhoy.com/motor/como-conseguir-etiqueta-eco-sin-cambiar-coche-glp-1354934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/diferencias-etiqueta-eco-etiqueta-cero-dgt-1885023.jpg?tf=1200x' alt='Así puedes conseguir la etiqueta ECO sin cambiar de coche, ahorrando mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo</a></h4>
     <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2023-3256867.jpg?tf=1200x' alt='CES 2024 en Las Vegas: novedades, lanzamientos y toda la información del evento tecnológico en directo' />
@@ -74,17 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-copilot-como-sacarle-partido-chat-ia-1353990'>Qué es Microsoft Copilot y cómo sacarle partido a este chat de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-copilot-como-sacarle-partido-chat-ia-1353990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Qué es Microsoft Copilot y cómo sacarle partido a este chat de inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954'>Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad</a></h4>
+    <a href='https://computerhoy.com/internet/como-ser-anonimo-internet-consejos-proteger-maximo-privacidad-1354954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/privacidad-anonimato-internet-3257847.jpg?tf=1200x' alt='Cómo ser más anónimo en Internet: consejos para proteger al máximo tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/cepillo-electrico'>¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos calidad precio</a></h4>
-    <a href='https://computerhoy.com/guia-compra/cepillo-electrico' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/cepillo-electrico-2053557.jpg?tf=1200x' alt='¿Cuál es el mejor cepillo de dientes eléctrico? Guía de compra con los mejores modelos calidad precio' />
+    <h4><a href='https://computerhoy.com/criptos/shiba-inu-experimenta-aumento-2500-tasa-quema-1354943'>Shiba Inu experimenta un aumento del 2.500% en la tasa de quema en un solo día</a></h4>
+    <a href='https://computerhoy.com/criptos/shiba-inu-experimenta-aumento-2500-tasa-quema-1354943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/shiba-inu-2610337.jpg?tf=1200x' alt='Shiba Inu experimenta un aumento del 2.500% en la tasa de quema en un solo día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942'>Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol</a></h4>
+    <a href='https://computerhoy.com/energia/estos-paneles-solares-ia-disparan-eficiencia-40-tener-moverlos-seguir-sol-1354942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/paneles-solares-3257777.jpg?tf=1200x' alt='Estos paneles solares con IA disparan la eficiencia en un 40% sin tener que moverlos para seguir al sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-99-euros-tiene-ssd-8-gb-ram-mini-pc-arrasando-aliexpress-1353865'>Cuesta 99 euros y tiene SSD y 8 GB de RAM: este Mini PC está arrasando en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-99-euros-tiene-ssd-8-gb-ram-mini-pc-arrasando-aliexpress-1353865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/mini-pc-bmax-b2-2565179.jpg?tf=1200x' alt='Cuesta 99 euros y tiene SSD y 8 GB de RAM: este Mini PC está arrasando en AliExpress' />
     </a>
 </div>
 
