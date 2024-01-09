@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183'>Estas son las mejores alternativas a los AirTags para usuarios de Android</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-smarttag2-3258220.jpg?tf=1200x' alt='Estas son las mejores alternativas a los AirTags para usuarios de Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/lg-presenta-primer-televisor-oled-transparente-inalambrico-mundo-1355249'>LG presenta en CES 2024 el primer televisor OLED transparente inalámbrico del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lg-presenta-primer-televisor-oled-transparente-inalambrico-mundo-1355249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-signature-oled-t-3258282.jpg?tf=1200x' alt='LG presenta en CES 2024 el primer televisor OLED transparente inalámbrico del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/esperar-moviles-2024-expertos-directivos-1343328'>Qué se espera de los móviles en 2024, según expertos y directivos</a></h4>
-    <a href='https://computerhoy.com/moviles/esperar-moviles-2024-expertos-directivos-1343328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-2024-3256935.jpg?tf=1200x' alt='Qué se espera de los móviles en 2024, según expertos y directivos' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-cambies-windows-11-estas-novedades-2024-1355261'>Microsoft quiere seducirte y que cambies a Windows 11 con estas novedades que llegan en 2024</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-cambies-windows-11-estas-novedades-2024-1355261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-windows-11-3258315.jpg?tf=1200x' alt='Microsoft quiere seducirte y que cambies a Windows 11 con estas novedades que llegan en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188'>Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/vpn-funciona-televisor-te-conecta-100-paises-precio-ha-hundido-ahora-1355241'>Esta VPN funciona en tu televisor y te conecta a más de 100 países: su precio se ha hundido ahora</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/vpn-funciona-televisor-te-conecta-100-paises-precio-ha-hundido-ahora-1355241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Esta VPN funciona en tu televisor y te conecta a más de 100 países: su precio se ha hundido ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet</a></h4>
-    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mercusys-me70x-3258200.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet' />
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-presenta-40-equipos-ia-como-gran-protagonista-1355251'>Lenovo presenta más de 40 dispositivos y soluciones impulsados por la IA para aumentar la creatividad y productividad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-presenta-40-equipos-ia-como-gran-protagonista-1355251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-yoga-slim-7i-3258284.jpg?tf=1200x' alt='Lenovo presenta más de 40 dispositivos y soluciones impulsados por la IA para aumentar la creatividad y productividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870'>Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad</a></h4>
-    <a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menique-habla-ti-conexion-tamano-personalidad-3255112.jpg?tf=1200x' alt='Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/tcl-llega-cargado-ces-2024-tecnologia-nxtpaper-30-nueva-serie-moviles-dos-tablets-1355245'>TCL llega cargado al CES 2024: tecnología NXTPAPER 3.0, nueva serie de móviles y dos tablets</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tcl-llega-cargado-ces-2024-tecnologia-nxtpaper-30-nueva-serie-moviles-dos-tablets-1355245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tcl-ces-2024-3258286.jpg?tf=1200x' alt='TCL llega cargado al CES 2024: tecnología NXTPAPER 3.0, nueva serie de móviles y dos tablets' />
     </a>
 </div>
 
