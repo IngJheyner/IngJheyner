@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hackers-usan-chatgpt-google-bard-generar-contenido-inapropiado-1354669'>Un grupo de 'hackers' comprometen la integridad de ChatGPT y Bard, forzándolos a producir contenido inapropiado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hackers-usan-chatgpt-google-bard-generar-contenido-inapropiado-1354669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/grupo-hackers-comprometen-integridad-chatgpt-bard-forzandolos-producir-contenido-inapropiado-3257443.jpg?tf=1200x' alt='Un grupo de 'hackers' comprometen la integridad de ChatGPT y Bard, forzándolos a producir contenido inapropiado' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-threads-instagram-1355115'>Así puedes darte de baja en Threads sin eliminar tu cuenta de Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-threads-instagram-1355115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Así puedes darte de baja en Threads sin eliminar tu cuenta de Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-japonesa-perder-peso-adelgazar-1355012'>Solo necesitas 5 minutos al día para perder peso, según esta técnica japonesa</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-japonesa-perder-peso-adelgazar-1355012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/solo-necesitas-5-minutos-dia-perder-peso-tecnica-japonesa-3257903.jpg?tf=1200x' alt='Solo necesitas 5 minutos al día para perder peso, según esta técnica japonesa' />
+    <h4><a href='https://computerhoy.com/amazon/comienza-pesadilla-tienes-amazon-fire-tv-1355416'>Comienza la pesadilla si tienes un Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/comienza-pesadilla-tienes-amazon-fire-tv-1355416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-fire-tv-3258673.jpg?tf=1200x' alt='Comienza la pesadilla si tienes un Amazon Fire TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/cortando-sano-ceo-ha-despedido-200-empleados-llamada-expres-google-meet-1355336'>Cortando por lo sano: este CEO ha despedido a 200 empleados en una llamada exprés por Google Meet</a></h4>
-    <a href='https://computerhoy.com/industria/cortando-sano-ceo-ha-despedido-200-empleados-llamada-expres-google-meet-1355336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trabajo-despido-3258478.jpg?tf=1200x' alt='Cortando por lo sano: este CEO ha despedido a 200 empleados en una llamada exprés por Google Meet' />
+    <h4><a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214'>Modo espejo: el truco para convertir tu Amazon Fire TV en un Chromecast</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-3258246.jpg?tf=1200x' alt='Modo espejo: el truco para convertir tu Amazon Fire TV en un Chromecast' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/whatsapp-fin-escucha-usuarios-permitira-nueva-personalizacion-1355281'>WhatsApp por fin escucha a los usuarios y permitirá esta nueva personalización</a></h4>
-    <a href='https://computerhoy.com/redes/whatsapp-fin-escucha-usuarios-permitira-nueva-personalizacion-1355281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3148554.jpg?tf=1200x' alt='WhatsApp por fin escucha a los usuarios y permitirá esta nueva personalización' />
+    <h4><a href='https://computerhoy.com/android/ces-2024-nuevas-funciones-google-trae-dispositivos-android-1355085'>Google anuncia en CES 2024 nuevas funciones en dispositivos Android: Quick Share, Fast Pair, Chromecast, Matter y Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/ces-2024-nuevas-funciones-google-trae-dispositivos-android-1355085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-novedades-google-tv-android-auto-chromecast-3258114.jpg?tf=1200x' alt='Google anuncia en CES 2024 nuevas funciones en dispositivos Android: Quick Share, Fast Pair, Chromecast, Matter y Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343'>Una filtración confirma que Windows 12 existe, aunque no como te imaginas</a></h4>
-    <a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Una filtración confirma que Windows 12 existe, aunque no como te imaginas' />
+    <h4><a href='https://computerhoy.com/life/tim-cook-revela-secreto-heredo-steve-jobs-1354094'>Tim Cook revela el secreto que heredó de Steve Jobs y que sigue utilizando en Apple hoy en día</a></h4>
+    <a href='https://computerhoy.com/life/tim-cook-revela-secreto-heredo-steve-jobs-1354094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-tim-cook-3064294.jpg?tf=1200x' alt='Tim Cook revela el secreto que heredó de Steve Jobs y que sigue utilizando en Apple hoy en día' />
     </a>
 </div>
 
