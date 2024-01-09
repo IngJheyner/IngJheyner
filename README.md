@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hackers-usan-chatgpt-google-bard-generar-contenido-inapropiado-1354669'>Un grupo de 'hackers' comprometen la integridad de ChatGPT y Bard, forzándolos a producir contenido inapropiado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hackers-usan-chatgpt-google-bard-generar-contenido-inapropiado-1354669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/grupo-hackers-comprometen-integridad-chatgpt-bard-forzandolos-producir-contenido-inapropiado-3257443.jpg?tf=1200x' alt='Un grupo de 'hackers' comprometen la integridad de ChatGPT y Bard, forzándolos a producir contenido inapropiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tecnica-japonesa-perder-peso-adelgazar-1355012'>Solo necesitas 5 minutos al día para perder peso, según esta técnica japonesa</a></h4>
+    <a href='https://computerhoy.com/life/tecnica-japonesa-perder-peso-adelgazar-1355012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/solo-necesitas-5-minutos-dia-perder-peso-tecnica-japonesa-3257903.jpg?tf=1200x' alt='Solo necesitas 5 minutos al día para perder peso, según esta técnica japonesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/cortando-sano-ceo-ha-despedido-200-empleados-llamada-expres-google-meet-1355336'>Cortando por lo sano: este CEO ha despedido a 200 empleados en una llamada exprés por Google Meet</a></h4>
+    <a href='https://computerhoy.com/industria/cortando-sano-ceo-ha-despedido-200-empleados-llamada-expres-google-meet-1355336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trabajo-despido-3258478.jpg?tf=1200x' alt='Cortando por lo sano: este CEO ha despedido a 200 empleados en una llamada exprés por Google Meet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/whatsapp-fin-escucha-usuarios-permitira-nueva-personalizacion-1355281'>WhatsApp por fin escucha a los usuarios y permitirá esta nueva personalización</a></h4>
+    <a href='https://computerhoy.com/redes/whatsapp-fin-escucha-usuarios-permitira-nueva-personalizacion-1355281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/whatsapp-3148554.jpg?tf=1200x' alt='WhatsApp por fin escucha a los usuarios y permitirá esta nueva personalización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343'>Una filtración confirma que Windows 12 existe, aunque no como te imaginas</a></h4>
     <a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Una filtración confirma que Windows 12 existe, aunque no como te imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701'>Los mejores lectores PDF para Windows gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mejores-lectores-pdf-3257466.jpg?tf=1200x' alt='Los mejores lectores PDF para Windows gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/situacion-tensa-openai-demanda-new-york-times-no-cuenta-historia-completa-1355315'>La situación se tensa entre OpenAI y la demanda de The New York Times: "no cuenta la historia completa"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/situacion-tensa-openai-demanda-new-york-times-no-cuenta-historia-completa-1355315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-chatgpt-3258444.jpg?tf=1200x' alt='La situación se tensa entre OpenAI y la demanda de The New York Times: "no cuenta la historia completa"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/configuracion-basica-television-haciendo-peliculas-vean-peor-1355284'>Esta configuración básica de tu televisión está haciendo que las películas se vean peor</a></h4>
-    <a href='https://computerhoy.com/tv/configuracion-basica-television-haciendo-peliculas-vean-peor-1355284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/deberia-ser-tamano-televisor-salon-no-quieres-verlo-pixelado-3217304.jpg?tf=1200x' alt='Esta configuración básica de tu televisión está haciendo que las películas se vean peor' />
     </a>
 </div>
 
