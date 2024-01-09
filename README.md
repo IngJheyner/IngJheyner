@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215'>Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704753146555-3258231.jpg?tf=1200x' alt='Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196'>NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!</a></h4>
     <a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nvidia-presenta-tarjetas-rtx-4000-super-potentes-baratas-3258196.jpg?tf=1200x' alt='NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184'>Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura</a></h4>
     <a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-3258201.jpg?tf=1200x' alt='Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833'>Cómo saber el código PIN de mi tarjeta SIM</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-codigo-pin-mi-tarjeta-sim-1051833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-codigo-pin-mi-tarjeta-sim-3257080.jpg?tf=1200x' alt='Cómo saber el código PIN de mi tarjeta SIM' />
     </a>
 </div>
 
