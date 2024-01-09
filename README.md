@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/amd-ryzen-8000g-con-inteligencia-artificial-1355220'>AMD anuncia los primeros procesadores de la era AI PC, Ryzen 8000G, con chip de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/pc/amd-ryzen-8000g-con-inteligencia-artificial-1355220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amd-anuncia-primeros-procesadores-era-ai-pc-ryzen-8000-g-chips-inteligencia-artificial-3258247.jpg?tf=1200x' alt='AMD anuncia los primeros procesadores de la era AI PC, Ryzen 8000G, con chip de inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215'>Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho</a></h4>
     <a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704753146555-3258231.jpg?tf=1200x' alt='Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169'>No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3252860.jpg?tf=1200x' alt='No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184'>Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-1355184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-sobrevive-explosion-aire-vuelo-alaska-airlines-casi-5-km-altura-3258201.jpg?tf=1200x' alt='Un iPhone sobrevive a la explosión en el aire de un vuelo de Alaska Airlines a casi 5 km de altura' />
     </a>
 </div>
 
