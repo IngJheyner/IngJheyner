@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-version-beta-android-meta-ai-whatsapp-1354691'>Cómo activar la versión beta para Android de Meta AI en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-version-beta-android-meta-ai-whatsapp-1354691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Cómo activar la versión beta para Android de Meta AI en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/mercadona-pierde-trono-ya-no-supermercado-favorito-espanoles-1355472'>Mercadona pierde su trono: Ya no es el supermercado favorito de los españoles</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mercadona-pierde-trono-ya-no-supermercado-favorito-espanoles-1355472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='Mercadona pierde su trono: Ya no es el supermercado favorito de los españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/bots-telegram-podrian-robar-datos-puedes-evitarlo-1355205'>Los bots de Telegram podrían robar tus datos y contraseñas sin que te des cuenta, así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bots-telegram-podrian-robar-datos-puedes-evitarlo-1355205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bots-telegram-podrian-robar-datos-contrasenas-te-des-cuenta-puedes-evitarlo-3258242.jpg?tf=1200x' alt='Los bots de Telegram podrían robar tus datos y contraseñas sin que te des cuenta, así puedes evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-threads-instagram-1355115'>Así puedes darte de baja en Threads sin eliminar tu cuenta de Instagram</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-cuenta-threads-instagram-1355115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/threads-3244808.jpg?tf=1200x' alt='Así puedes darte de baja en Threads sin eliminar tu cuenta de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/comienza-pesadilla-tienes-amazon-fire-tv-1355416'>Comienza la pesadilla si tienes un Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/comienza-pesadilla-tienes-amazon-fire-tv-1355416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-fire-tv-3258673.jpg?tf=1200x' alt='Comienza la pesadilla si tienes un Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214'>Modo espejo: el truco para convertir tu Amazon Fire TV en un Chromecast</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-3258246.jpg?tf=1200x' alt='Modo espejo: el truco para convertir tu Amazon Fire TV en un Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ces-2024-nuevas-funciones-google-trae-dispositivos-android-1355085'>Google anuncia en CES 2024 nuevas funciones en dispositivos Android: Quick Share, Fast Pair, Chromecast, Matter y Android Auto</a></h4>
-    <a href='https://computerhoy.com/android/ces-2024-nuevas-funciones-google-trae-dispositivos-android-1355085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-novedades-google-tv-android-auto-chromecast-3258114.jpg?tf=1200x' alt='Google anuncia en CES 2024 nuevas funciones en dispositivos Android: Quick Share, Fast Pair, Chromecast, Matter y Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tim-cook-revela-secreto-heredo-steve-jobs-1354094'>Tim Cook revela el secreto que heredó de Steve Jobs y que sigue utilizando en Apple hoy en día</a></h4>
-    <a href='https://computerhoy.com/life/tim-cook-revela-secreto-heredo-steve-jobs-1354094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-tim-cook-3064294.jpg?tf=1200x' alt='Tim Cook revela el secreto que heredó de Steve Jobs y que sigue utilizando en Apple hoy en día' />
     </a>
 </div>
 
