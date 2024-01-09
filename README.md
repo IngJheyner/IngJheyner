@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lg-presenta-primer-televisor-oled-transparente-inalambrico-mundo-1355249'>LG presenta en CES 2024 el primer televisor OLED transparente inalámbrico del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lg-presenta-primer-televisor-oled-transparente-inalambrico-mundo-1355249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-signature-oled-t-3258282.jpg?tf=1200x' alt='LG presenta en CES 2024 el primer televisor OLED transparente inalámbrico del mundo' />
+    <h4><a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343'>Una filtración confirma que Windows 12 existe, aunque no como te imaginas</a></h4>
+    <a href='https://computerhoy.com/windows/filtracion-confirma-windows-12-existe-aunque-no-como-te-imaginas-1355343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='Una filtración confirma que Windows 12 existe, aunque no como te imaginas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-cambies-windows-11-estas-novedades-2024-1355261'>Microsoft quiere seducirte y que cambies a Windows 11 con estas novedades que llegan en 2024</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-cambies-windows-11-estas-novedades-2024-1355261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-windows-11-3258315.jpg?tf=1200x' alt='Microsoft quiere seducirte y que cambies a Windows 11 con estas novedades que llegan en 2024' />
+    <h4><a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701'>Los mejores lectores PDF para Windows gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/mejores-lectores-pdf-windows-gratis-73701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mejores-lectores-pdf-3257466.jpg?tf=1200x' alt='Los mejores lectores PDF para Windows gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vpn-funciona-televisor-te-conecta-100-paises-precio-ha-hundido-ahora-1355241'>Esta VPN funciona en tu televisor y te conecta a más de 100 países: su precio se ha hundido ahora</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vpn-funciona-televisor-te-conecta-100-paises-precio-ha-hundido-ahora-1355241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Esta VPN funciona en tu televisor y te conecta a más de 100 países: su precio se ha hundido ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/situacion-tensa-openai-demanda-new-york-times-no-cuenta-historia-completa-1355315'>La situación se tensa entre OpenAI y la demanda de The New York Times: "no cuenta la historia completa"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/situacion-tensa-openai-demanda-new-york-times-no-cuenta-historia-completa-1355315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-chatgpt-3258444.jpg?tf=1200x' alt='La situación se tensa entre OpenAI y la demanda de The New York Times: "no cuenta la historia completa"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-presenta-40-equipos-ia-como-gran-protagonista-1355251'>Lenovo presenta más de 40 dispositivos y soluciones impulsados por la IA para aumentar la creatividad y productividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-presenta-40-equipos-ia-como-gran-protagonista-1355251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-yoga-slim-7i-3258284.jpg?tf=1200x' alt='Lenovo presenta más de 40 dispositivos y soluciones impulsados por la IA para aumentar la creatividad y productividad' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tcl-llega-cargado-ces-2024-tecnologia-nxtpaper-30-nueva-serie-moviles-dos-tablets-1355245'>TCL llega cargado al CES 2024: tecnología NXTPAPER 3.0, nueva serie de móviles y dos tablets</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tcl-llega-cargado-ces-2024-tecnologia-nxtpaper-30-nueva-serie-moviles-dos-tablets-1355245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tcl-ces-2024-3258286.jpg?tf=1200x' alt='TCL llega cargado al CES 2024: tecnología NXTPAPER 3.0, nueva serie de móviles y dos tablets' />
+    <h4><a href='https://computerhoy.com/tv/configuracion-basica-television-haciendo-peliculas-vean-peor-1355284'>Esta configuración básica de tu televisión está haciendo que las películas se vean peor</a></h4>
+    <a href='https://computerhoy.com/tv/configuracion-basica-television-haciendo-peliculas-vean-peor-1355284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/deberia-ser-tamano-televisor-salon-no-quieres-verlo-pixelado-3217304.jpg?tf=1200x' alt='Esta configuración básica de tu televisión está haciendo que las películas se vean peor' />
     </a>
 </div>
 
