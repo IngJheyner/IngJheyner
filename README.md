@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amd-ryzen-8000g-con-inteligencia-artificial-1355220'>AMD anuncia los primeros procesadores de la era AI PC, Ryzen 8000G, con chip de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/pc/amd-ryzen-8000g-con-inteligencia-artificial-1355220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amd-anuncia-primeros-procesadores-era-ai-pc-ryzen-8000-g-chips-inteligencia-artificial-3258247.jpg?tf=1200x' alt='AMD anuncia los primeros procesadores de la era AI PC, Ryzen 8000G, con chip de inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183'>Estas son las mejores alternativas a los AirTags para usuarios de Android</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-alternativas-airtags-android-859183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-smarttag2-3258220.jpg?tf=1200x' alt='Estas son las mejores alternativas a los AirTags para usuarios de Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215'>Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/beamo-te-hace-chequeo-medico-completo-solo-ponertelo-frente-1355215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704753146555-3258231.jpg?tf=1200x' alt='Star Trek ya está aquí: BeamO te hace un chequeo médico con solo ponértelo en la frente o el pecho' />
+    <h4><a href='https://computerhoy.com/moviles/esperar-moviles-2024-expertos-directivos-1343328'>Qué se espera de los móviles en 2024, según expertos y directivos</a></h4>
+    <a href='https://computerhoy.com/moviles/esperar-moviles-2024-expertos-directivos-1343328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-2024-3256935.jpg?tf=1200x' alt='Qué se espera de los móviles en 2024, según expertos y directivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196'>NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!</a></h4>
-    <a href='https://computerhoy.com/pc/nvidia-tarjetas-rtx-4000-super-especificaciones-precio-1355196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nvidia-presenta-tarjetas-rtx-4000-super-potentes-baratas-3258196.jpg?tf=1200x' alt='NVIDIA presenta las tarjetas RTX 4000 Super en CES 2024, más potentes... ¡y más baratas!' />
+    <h4><a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188'>Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/bicicleta-ruedas-cuadradas-funciona-1230188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Llega la bicicleta con ruedas cuadradas, y realmente funciona (vídeo)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/genial-truco-viral-limpiar-interior-radiadores-segundos-calienten-1355186'>El genial truco viral para limpiar el interior de los radiadores en segundos para que calienten más</a></h4>
-    <a href='https://computerhoy.com/life/genial-truco-viral-limpiar-interior-radiadores-segundos-calienten-1355186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/radiador-3258202.jpg?tf=1200x' alt='El genial truco viral para limpiar el interior de los radiadores en segundos para que calienten más' />
+    <h4><a href='https://computerhoy.com/guia-comprar/repetidor-wifi'>Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet</a></h4>
+    <a href='https://computerhoy.com/guia-comprar/repetidor-wifi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mercusys-me70x-3258200.jpg?tf=1200x' alt='Guía y consejos para comprar un repetidor WiFi y mejorar tu conexión a internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169'>No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-smartwatch-barato-aspecto-reloj-muy-caro-1352169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3252860.jpg?tf=1200x' alt='No es un error: este smartwatch es así de barato y su aspecto es de reloj muy caro' />
+    <h4><a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870'>Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad</a></h4>
+    <a href='https://computerhoy.com/life/descubre-dice-tamano-menique-personalidad-1277870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/menique-habla-ti-conexion-tamano-personalidad-3255112.jpg?tf=1200x' alt='Tu meñique habla de ti: la conexión entre su tamaño y tu personalidad' />
     </a>
 </div>
 
