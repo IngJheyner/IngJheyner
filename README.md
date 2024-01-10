@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
+    <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bono-cultural-joven-2024-3258756.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-80-piden-remake-1355378'>5 míticas películas de ciencia ficción de los 80 que piden un remake a gritos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-80-piden-remake-1355378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 míticas películas de ciencia ficción de los 80 que piden un remake a gritos' />
+    <h4><a href='https://computerhoy.com/hogar/grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716'>El grave error que comentes con tus llaves que está comprometiendo la seguridad de tu casa</a></h4>
+    <a href='https://computerhoy.com/hogar/grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dejar-llave-cerradura-no-extra-seguridad-robo-3259159.jpg?tf=1200x' alt='El grave error que comentes con tus llaves que está comprometiendo la seguridad de tu casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394'>Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos</a></h4>
-    <a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amistad-redes-sociales-estas-son-razones-conveniente-tener-pocos-amigos-3258563.jpg?tf=1200x' alt='Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-escuchar-musica-videos-youtube-pantalla-movil-apagada-1355395'>Cómo escuchar música y vídeos de YouTube con la pantalla del móvil apagada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escuchar-musica-videos-youtube-pantalla-movil-apagada-1355395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-movil-youtube-3259126.jpg?tf=1200x' alt='Cómo escuchar música y vídeos de YouTube con la pantalla del móvil apagada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jovenes-cambian-psicologo-inteligencia-artificial-1355596'>Los jóvenes cambian el psicólogo por el “diván” de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jovenes-cambian-psicologo-inteligencia-artificial-1355596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/jovenes-cambian-psicologo-divan-inteligencia-artificial-3258961.jpg?tf=1200x' alt='Los jóvenes cambian el psicólogo por el “diván” de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/life/espectacular-espiral-fibonacci-acuatica-baile-ballenas-1355676'>La espectacular espiral de Fibonacci acuática: el baile de las Ballenas Jorobadas en la Antártida</a></h4>
+    <a href='https://computerhoy.com/life/espectacular-espiral-fibonacci-acuatica-baile-ballenas-1355676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/espectacular-espiral-fibonacci-acuatica-baile-ballenas-jorobadas-antartida-3259091.jpg?tf=1200x' alt='La espectacular espiral de Fibonacci acuática: el baile de las Ballenas Jorobadas en la Antártida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374'>Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora</a></h4>
-    <a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significa-certificacion-wifi-7-sera-tan-importante-partir-ahora-3258543.jpg?tf=1200x' alt='Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora' />
+    <h4><a href='https://computerhoy.com/mejores/impresoras-laser-1258538'>Impresoras láser: por qué comprar una y cuáles son los mejores modelos</a></h4>
+    <a href='https://computerhoy.com/mejores/impresoras-laser-1258538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/impresora-brother-hl-1210w-3259202.jpg?tf=1200x' alt='Impresoras láser: por qué comprar una y cuáles son los mejores modelos' />
     </a>
 </div>
 
