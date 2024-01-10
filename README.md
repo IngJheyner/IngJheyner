@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lado-oscuro-cervezas-alcohol-0-ligth-nadie-te-cuenta-3117222.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853'>Cómo convertir vídeos de YouTube a MP3 con VLC media player</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-convertir-videos-youtube-mp3-vlc-media-player-3254357.jpg?tf=1200x' alt='Cómo convertir vídeos de YouTube a MP3 con VLC media player' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552'>Retro Gaming Watch, el reloj que se convierte en consola portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704868314462-3258837.jpg?tf=1200x' alt='Retro Gaming Watch, el reloj que se convierte en consola portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-1355181'>6 cosas sorprendentes que puedes hacer con el Flipper Zero, el Tamagotchi para hackers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-1355181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-3258225.jpg?tf=1200x' alt='6 cosas sorprendentes que puedes hacer con el Flipper Zero, el Tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-latpop-studio-2-analisis-opinion-1353643'>Surface Laptop Studio 2 me ha parecido un portátil potente y con diseño único, pero todavía tiene una característica que mejorar</a></h4>
-    <a href='https://computerhoy.com/analisis/microsoft-surface-latpop-studio-2-analisis-opinion-1353643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-surface-laptop-studio-2-3256175.jpg?tf=1200x' alt='Surface Laptop Studio 2 me ha parecido un portátil potente y con diseño único, pero todavía tiene una característica que mejorar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/30-segundos-marcaron-historia-apple-steve-jobs-1355398'>Los 30 segundos que marcaron la historia de Apple y Steve Jobs: "digo que es un imbécil, o miento"</a></h4>
-    <a href='https://computerhoy.com/apple/30-segundos-marcaron-historia-apple-steve-jobs-1355398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-3064448.jpg?tf=1200x' alt='Los 30 segundos que marcaron la historia de Apple y Steve Jobs: "digo que es un imbécil, o miento"' />
     </a>
 </div>
 
