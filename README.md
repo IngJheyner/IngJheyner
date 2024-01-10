@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-renueva-bloc-notas-windows-11-inteligencia-artificial-1355607'>Microsoft hará un lavado de cara a su Bloc de Notas en Windows 11 e incluirá inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-renueva-bloc-notas-windows-11-inteligencia-artificial-1355607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-ia-bloc-notas-3258996.jpg?tf=1200x' alt='Microsoft hará un lavado de cara a su Bloc de Notas en Windows 11 e incluirá inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394'>Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos</a></h4>
+    <a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amistad-redes-sociales-estas-son-razones-conveniente-tener-pocos-amigos-3258563.jpg?tf=1200x' alt='Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclado-botones-herramientas-3259033.jpg?tf=1200x' alt='Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/jovenes-cambian-psicologo-inteligencia-artificial-1355596'>Los jóvenes cambian el psicólogo por el “diván” de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jovenes-cambian-psicologo-inteligencia-artificial-1355596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/jovenes-cambian-psicologo-divan-inteligencia-artificial-3258961.jpg?tf=1200x' alt='Los jóvenes cambian el psicólogo por el “diván” de la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/divertido-dispositivo-llega-ces-2024-idea-acabar-moviles-siempre-1355590'>Este divertido dispositivo con IA llega al CES 2024 con la idea de acabar con los móviles para siempre</a></h4>
-    <a href='https://computerhoy.com/moviles/divertido-dispositivo-llega-ces-2024-idea-acabar-moviles-siempre-1355590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dispositivo-ces-2024-moviles-3258957.jpg?tf=1200x' alt='Este divertido dispositivo con IA llega al CES 2024 con la idea de acabar con los móviles para siempre' />
+    <h4><a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374'>Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora</a></h4>
+    <a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significa-certificacion-wifi-7-sera-tan-importante-partir-ahora-3258543.jpg?tf=1200x' alt='Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/solucion-bolsillo-invierno-calefactor-bolsillo-gran-potencia-1355580'>La solución para tu cartera en invierno es este calefactor de bolsillo con una gran potencia</a></h4>
-    <a href='https://computerhoy.com/life/solucion-bolsillo-invierno-calefactor-bolsillo-gran-potencia-1355580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/calefactor-bolsillo-3258945.jpg?tf=1200x' alt='La solución para tu cartera en invierno es este calefactor de bolsillo con una gran potencia' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312'>Cómo ver más de mil canales gratis por Internet con Photocall TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-mil-canales-gratis-internet-photocall-tv-3258823.jpg?tf=1200x' alt='Cómo ver más de mil canales gratis por Internet con Photocall TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557'>El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188454.jpg?tf=1200x' alt='El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor' />
+    <h4><a href='https://computerhoy.com/tecnologia/4-productos-locos-han-presentado-ces-2024-1355670'>El factor sorpresa del CES 2024: 4 productos presentados de lo más locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/4-productos-locos-han-presentado-ces-2024-1355670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/productos-locos-ces-2024-3259094.jpg?tf=1200x' alt='El factor sorpresa del CES 2024: 4 productos presentados de lo más locos' />
     </a>
 </div>
 
