@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669'>El color rosa no existe, es solo un truco de tu cerebro</a></h4>
+    <a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rosa-no-existe-solo-truco-cerebro-3259075.jpg?tf=1200x' alt='El color rosa no existe, es solo un truco de tu cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/muerte-palo-selfie-dron-ia-te-sigue-como-tuvieras-propio-paparazzi-1355843'>Muerte al palo selfie: este dron con IA te sigue como si tuvieras tu propio paparazzi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muerte-palo-selfie-dron-ia-te-sigue-como-tuvieras-propio-paparazzi-1355843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hoverair-x1-3259338.jpg?tf=1200x' alt='Muerte al palo selfie: este dron con IA te sigue como si tuvieras tu propio paparazzi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-anuncia-nuevas-aplicaciones-funciones-android-auto-1355841'>Google anuncia nuevas aplicaciones y funciones para Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/google-anuncia-nuevas-aplicaciones-funciones-android-auto-1355841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Google anuncia nuevas aplicaciones y funciones para Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dieta-no-envejecer-mayor-experto-envejecimiento-genetica-harvard-1355722'>El mayor experto en envejecimiento y genética de Harvard comparte los alimentos que te hacen envejecer más rápido</a></h4>
+    <a href='https://computerhoy.com/life/dieta-no-envejecer-mayor-experto-envejecimiento-genetica-harvard-1355722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dieta-mantener-juventud-david-sinclair-mayor-experto-envejecimiento-genetica-harvard-3259166.jpg?tf=1200x' alt='El mayor experto en envejecimiento y genética de Harvard comparte los alimentos que te hacen envejecer más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
     <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bono-cultural-joven-2024-3258756.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716'>El grave error que comentes con tus llaves que está comprometiendo la seguridad de tu casa</a></h4>
-    <a href='https://computerhoy.com/hogar/grave-error-comentes-llaves-comprometiendo-seguridad-casa-1355716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dejar-llave-cerradura-no-extra-seguridad-robo-3259159.jpg?tf=1200x' alt='El grave error que comentes con tus llaves que está comprometiendo la seguridad de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-escuchar-musica-videos-youtube-pantalla-movil-apagada-1355395'>Cómo escuchar música y vídeos de YouTube con la pantalla del móvil apagada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-escuchar-musica-videos-youtube-pantalla-movil-apagada-1355395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-movil-youtube-3259126.jpg?tf=1200x' alt='Cómo escuchar música y vídeos de YouTube con la pantalla del móvil apagada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/espectacular-espiral-fibonacci-acuatica-baile-ballenas-1355676'>La espectacular espiral de Fibonacci acuática: el baile de las Ballenas Jorobadas en la Antártida</a></h4>
-    <a href='https://computerhoy.com/life/espectacular-espiral-fibonacci-acuatica-baile-ballenas-1355676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/espectacular-espiral-fibonacci-acuatica-baile-ballenas-jorobadas-antartida-3259091.jpg?tf=1200x' alt='La espectacular espiral de Fibonacci acuática: el baile de las Ballenas Jorobadas en la Antártida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/impresoras-laser-1258538'>Impresoras láser: por qué comprar una y cuáles son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/mejores/impresoras-laser-1258538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/impresora-brother-hl-1210w-3259202.jpg?tf=1200x' alt='Impresoras láser: por qué comprar una y cuáles son los mejores modelos' />
     </a>
 </div>
 
