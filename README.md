@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-atrasa-aterrizaje-astronautas-luna-2026-1355528'>La Luna tendrá que esperar: la NASA retrasa el aterrizaje de astronautas hasta 2026, y el módulo Peregrine se queda sin combustible </a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-atrasa-aterrizaje-astronautas-luna-2026-1355528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-tendra-esperar-nasa-atrasa-aterrizaje-astronautas-2026-modulo-peregrine-queda-combustible-3258815.jpg?tf=1200x' alt='La Luna tendrá que esperar: la NASA retrasa el aterrizaje de astronautas hasta 2026, y el módulo Peregrine se queda sin combustible ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/msi-anuncia-monitor-inteligencia-artificial-te-da-ventajas-juegos-multijugador-1355526'>MSI anuncia un monitor que te ayuda a "hacer trampas" en los juegos multijugador, usando IA</a></h4>
+    <a href='https://computerhoy.com/gaming/msi-anuncia-monitor-inteligencia-artificial-te-da-ventajas-juegos-multijugador-1355526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/msi-anuncia-monitor-te-ayuda-hacer-trampas-juegos-multijugador-usando-ia-3258808.jpg?tf=1200x' alt='MSI anuncia un monitor que te ayuda a "hacer trampas" en los juegos multijugador, usando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-1355510'>Este gusano "gigante" aterrorizó los mares hace 500 millones de años</a></h4>
     <a href='https://computerhoy.com/ciencia/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-1355510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-3258740.jpg?tf=1200x' alt='Este gusano "gigante" aterrorizó los mares hace 500 millones de años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?</a></h4>
     <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-coche-deportivo-3199322.jpg?tf=1200x' alt='Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-tenemos-invento-2024-bolsa-calienta-comida-enfria-cerveza-1355476'>Ya tenemos el invento de 2024: la bolsa que calienta la comida y enfría la cerveza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-tenemos-invento-2024-bolsa-calienta-comida-enfria-cerveza-1355476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/willcook-3258738.jpg?tf=1200x' alt='Ya tenemos el invento de 2024: la bolsa que calienta la comida y enfría la cerveza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-version-beta-android-meta-ai-whatsapp-1354691'>Cómo activar la versión beta para Android de Meta AI en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-version-beta-android-meta-ai-whatsapp-1354691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Cómo activar la versión beta para Android de Meta AI en WhatsApp' />
     </a>
 </div>
 
