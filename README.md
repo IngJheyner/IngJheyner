@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclado-botones-herramientas-3259033.jpg?tf=1200x' alt='Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/divertido-dispositivo-llega-ces-2024-idea-acabar-moviles-siempre-1355590'>Este divertido dispositivo con IA llega al CES 2024 con la idea de acabar con los móviles para siempre</a></h4>
+    <a href='https://computerhoy.com/moviles/divertido-dispositivo-llega-ces-2024-idea-acabar-moviles-siempre-1355590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dispositivo-ces-2024-moviles-3258957.jpg?tf=1200x' alt='Este divertido dispositivo con IA llega al CES 2024 con la idea de acabar con los móviles para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/solucion-bolsillo-invierno-calefactor-bolsillo-gran-potencia-1355580'>La solución para tu cartera en invierno es este calefactor de bolsillo con una gran potencia</a></h4>
+    <a href='https://computerhoy.com/life/solucion-bolsillo-invierno-calefactor-bolsillo-gran-potencia-1355580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/calefactor-bolsillo-3258945.jpg?tf=1200x' alt='La solución para tu cartera en invierno es este calefactor de bolsillo con una gran potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557'>El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188454.jpg?tf=1200x' alt='El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/lado-oscuro-cervezas-alcohol-0-ligth-nadie-te-cuenta-3117222.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853'>Cómo convertir vídeos de YouTube a MP3 con VLC media player</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-convertir-videos-youtube-mp3-vlc-media-player-3254357.jpg?tf=1200x' alt='Cómo convertir vídeos de YouTube a MP3 con VLC media player' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552'>Retro Gaming Watch, el reloj que se convierte en consola portátil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704868314462-3258837.jpg?tf=1200x' alt='Retro Gaming Watch, el reloj que se convierte en consola portátil' />
     </a>
 </div>
 
