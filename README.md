@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-renueva-bloc-notas-windows-11-inteligencia-artificial-1355607'>Microsoft hará un lavado de cara a su Bloc de Notas en Windows 11 e incluirá inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-renueva-bloc-notas-windows-11-inteligencia-artificial-1355607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-ia-bloc-notas-3258996.jpg?tf=1200x' alt='Microsoft hará un lavado de cara a su Bloc de Notas en Windows 11 e incluirá inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793'>Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/web-navaja-suiza-herramientas-online-editar-pdfs-convertir-video-todo-gratis-1067793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclado-botones-herramientas-3259033.jpg?tf=1200x' alt='Desde que descubrí esta web no he vuelto a tener problemas con mis archivos, es mágica y además gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557'>El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-usado-strava-viejo-garmin-2015-pese-tener-ya-sucesor-1355557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-forerunner-255-3188454.jpg?tf=1200x' alt='El smartwatch más usado en Strava es este viejo Garmin de 2015, pese a tener ya sucesor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
     </a>
 </div>
 
