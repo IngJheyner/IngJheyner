@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-atrasa-aterrizaje-astronautas-luna-2026-1355528'>La Luna tendrá que esperar: la NASA retrasa el aterrizaje de astronautas hasta 2026, y el módulo Peregrine se queda sin combustible </a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-atrasa-aterrizaje-astronautas-luna-2026-1355528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-tendra-esperar-nasa-atrasa-aterrizaje-astronautas-2026-modulo-peregrine-queda-combustible-3258815.jpg?tf=1200x' alt='La Luna tendrá que esperar: la NASA retrasa el aterrizaje de astronautas hasta 2026, y el módulo Peregrine se queda sin combustible ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853'>Cómo convertir vídeos de YouTube a MP3 con VLC media player</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-videos-youtube-mp3-vlc-media-player-1352853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-convertir-videos-youtube-mp3-vlc-media-player-3254357.jpg?tf=1200x' alt='Cómo convertir vídeos de YouTube a MP3 con VLC media player' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/msi-anuncia-monitor-inteligencia-artificial-te-da-ventajas-juegos-multijugador-1355526'>MSI anuncia un monitor que te ayuda a "hacer trampas" en los juegos multijugador, usando IA</a></h4>
-    <a href='https://computerhoy.com/gaming/msi-anuncia-monitor-inteligencia-artificial-te-da-ventajas-juegos-multijugador-1355526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/msi-anuncia-monitor-te-ayuda-hacer-trampas-juegos-multijugador-usando-ia-3258808.jpg?tf=1200x' alt='MSI anuncia un monitor que te ayuda a "hacer trampas" en los juegos multijugador, usando IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552'>Retro Gaming Watch, el reloj que se convierte en consola portátil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/retro-gaming-watch-reloj-convierte-consola-portatil-1355552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704868314462-3258837.jpg?tf=1200x' alt='Retro Gaming Watch, el reloj que se convierte en consola portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-1355510'>Este gusano "gigante" aterrorizó los mares hace 500 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-1355510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gusano-gigante-aterrorizo-mares-hace-500-millones-anos-3258740.jpg?tf=1200x' alt='Este gusano "gigante" aterrorizó los mares hace 500 millones de años' />
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-1355181'>6 cosas sorprendentes que puedes hacer con el Flipper Zero, el Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-1355181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-cosas-sorprendentes-puedes-hacer-flipper-zero-tamagotchi-hackers-3258225.jpg?tf=1200x' alt='6 cosas sorprendentes que puedes hacer con el Flipper Zero, el Tamagotchi para hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-va-fitbit-smartwatch-barato-tiene-todo-arrasar-sector-1355308'>Xiaomi va a por Fitbit: este smartwatch barato lo tiene todo para arrasar en su sector</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-va-fitbit-smartwatch-barato-tiene-todo-arrasar-sector-1355308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/redmi-watch-3-analisis-opinion-3022010.jpg?tf=1200x' alt='Xiaomi va a por Fitbit: este smartwatch barato lo tiene todo para arrasar en su sector' />
+    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-latpop-studio-2-analisis-opinion-1353643'>Surface Laptop Studio 2 me ha parecido un portátil potente y con diseño único, pero todavía tiene una característica que mejorar</a></h4>
+    <a href='https://computerhoy.com/analisis/microsoft-surface-latpop-studio-2-analisis-opinion-1353643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-surface-laptop-studio-2-3256175.jpg?tf=1200x' alt='Surface Laptop Studio 2 me ha parecido un portátil potente y con diseño único, pero todavía tiene una característica que mejorar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794'>Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?</a></h4>
-    <a href='https://computerhoy.com/life/estudio-relaciona-tener-pene-pequeno-comprarse-deportivo-1316794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hombre-coche-deportivo-3199322.jpg?tf=1200x' alt='Presumir de coche deportivo: ¿una forma de compensar el tamaño del pene?' />
+    <h4><a href='https://computerhoy.com/apple/30-segundos-marcaron-historia-apple-steve-jobs-1355398'>Los 30 segundos que marcaron la historia de Apple y Steve Jobs: "digo que es un imbécil, o miento"</a></h4>
+    <a href='https://computerhoy.com/apple/30-segundos-marcaron-historia-apple-steve-jobs-1355398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/steve-jobs-3064448.jpg?tf=1200x' alt='Los 30 segundos que marcaron la historia de Apple y Steve Jobs: "digo que es un imbécil, o miento"' />
     </a>
 </div>
 
