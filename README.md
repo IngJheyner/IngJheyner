@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-80-piden-remake-1355378'>5 míticas películas de ciencia ficción de los 80 que piden un remake a gritos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-80-piden-remake-1355378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 míticas películas de ciencia ficción de los 80 que piden un remake a gritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394'>Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos</a></h4>
     <a href='https://computerhoy.com/redes/amistad-redes-sociales-razones-conveniente-tener-pocos-amigos-1355394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amistad-redes-sociales-estas-son-razones-conveniente-tener-pocos-amigos-3258563.jpg?tf=1200x' alt='Amistad y redes sociales: estas son las razones por las que es conveniente tener pocos amigos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374'>Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora</a></h4>
     <a href='https://computerhoy.com/internet/significa-certificacion-wifi-7-sera-tan-importante-1355374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significa-certificacion-wifi-7-sera-tan-importante-partir-ahora-3258543.jpg?tf=1200x' alt='Qué significa la certificación WiFi 7 y por qué será tan importante a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312'>Cómo ver más de mil canales gratis por Internet con Photocall TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-mil-canales-gratis-internet-photocall-tv-1214312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-mil-canales-gratis-internet-photocall-tv-3258823.jpg?tf=1200x' alt='Cómo ver más de mil canales gratis por Internet con Photocall TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/4-productos-locos-han-presentado-ces-2024-1355670'>El factor sorpresa del CES 2024: 4 productos presentados de lo más locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/4-productos-locos-han-presentado-ces-2024-1355670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/productos-locos-ces-2024-3259094.jpg?tf=1200x' alt='El factor sorpresa del CES 2024: 4 productos presentados de lo más locos' />
     </a>
 </div>
 
