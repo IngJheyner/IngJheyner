@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188'>IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas</a></h4>
+    <a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ikea-pide-devuelvas-inmediatamente-cargador-movil-produce-quemaduras-descargas-electricas-3259925.jpg?tf=1200x' alt='IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-ultra-hunde-precio-casi-100-euros-amazon-deja-precio-saldo-1355970'>El Apple Watch Ultra hunde su precio en casi 100 euros: Amazon lo deja a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-ultra-hunde-precio-casi-100-euros-amazon-deja-precio-saldo-1355970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-tenis-3086538.jpg?tf=1200x' alt='El Apple Watch Ultra hunde su precio en casi 100 euros: Amazon lo deja a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-deberias-quitarte-zapatillas-cuando-viajas-avion-1356097'>Por qué no deberías quitarte nunca las zapatillas cuando viajas en avión</a></h4>
+    <a href='https://computerhoy.com/life/no-deberias-quitarte-zapatillas-cuando-viajas-avion-1356097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-deberias-quitarte-zapatillas-cuando-viajas-avion-3259756.jpg?tf=1200x' alt='Por qué no deberías quitarte nunca las zapatillas cuando viajas en avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ves-netflix-chrome-firefox-posible-estes-tirando-dinero-1356175'>Si ves Netflix en Chrome o Firefox es posible que estés tirando tu dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ves-netflix-chrome-firefox-posible-estes-tirando-dinero-1356175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-estrena-funciones-conocidas-netflix-no-perder-control-series-peliculas-favoritas-3251971.jpg?tf=1200x' alt='Si ves Netflix en Chrome o Firefox es posible que estés tirando tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/compra-rtx-4090-segunda-mano-convierte-peor-pesadilla-1356173'>Compra una RTX 4090 de segunda mano y se convierte en su peor pesadilla</a></h4>
     <a href='https://computerhoy.com/tecnologia/compra-rtx-4090-segunda-mano-convierte-peor-pesadilla-1356173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835453.jpg?tf=1200x' alt='Compra una RTX 4090 de segunda mano y se convierte en su peor pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-salen-cuentas-publicidad-quiere-1356172'>A Netflix le salen las cuentas con la publicidad y quiere más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-salen-cuentas-publicidad-quiere-1356172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='A Netflix le salen las cuentas con la publicidad y quiere más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-pilotos-recuperan-tiempo-vuelos-no-acelerando-1356094'>¿Cómo los pilotos recuperan tiempo en los vuelos? No, no es acelerando más</a></h4>
-    <a href='https://computerhoy.com/life/como-pilotos-recuperan-tiempo-vuelos-no-acelerando-1356094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-pilotos-recuperan-tiempo-vuelos-no-no-acelerando-3259748.jpg?tf=1200x' alt='¿Cómo los pilotos recuperan tiempo en los vuelos? No, no es acelerando más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ocultar-ip-whatsapp-1354656'>Cómo ocultar la IP en una llamada de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ocultar-ip-whatsapp-1354656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ocultar-ip-llamada-whatsapp-3257415.jpg?tf=1200x' alt='Cómo ocultar la IP en una llamada de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-caramelo-propina-1356075'>El "truco del caramelo" de bares y restaurantes para que dejes más propina que puedes aplicar en tu negocio</a></h4>
-    <a href='https://computerhoy.com/life/truco-caramelo-propina-1356075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dar-regalo-cliente-despues-compra-correctamente-puede-aumentar-propina-21-3259725.jpg?tf=1200x' alt='El "truco del caramelo" de bares y restaurantes para que dejes más propina que puedes aplicar en tu negocio' />
     </a>
 </div>
 
