@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-tv-nuevo-malware-escondido-apps-streaming-falsas-1355968'>Alerta usuarios de Android TV: este nuevo malware está escondido en apps de streaming falsas </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-usuarios-android-tv-nuevo-malware-escondido-apps-streaming-falsas-1355968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-tv-3259567.jpg?tf=1200x' alt='Alerta usuarios de Android TV: este nuevo malware está escondido en apps de streaming falsas ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974'>Esta es la mejor forma de detectar las estafas por clonación de voz</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-telefonica-3259661.jpg?tf=1200x' alt='Esta es la mejor forma de detectar las estafas por clonación de voz' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/peligroso-reinfectarse-covid-19-2024-1355950'>¿Es realmente peligroso volver a infectarse por COVID-19 en 2024?</a></h4>
-    <a href='https://computerhoy.com/life/peligroso-reinfectarse-covid-19-2024-1355950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/coronavirus-3259525.jpg?tf=1200x' alt='¿Es realmente peligroso volver a infectarse por COVID-19 en 2024?' />
+    <h4><a href='https://computerhoy.com/tecnologia/enamorarse-chatbot-riesgos-tener-novia-virtual-2024-1355939'>Enamorarse de un chatbot: los riesgos de tener una “novia virtual” en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/enamorarse-chatbot-riesgos-tener-novia-virtual-2024-1355939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-3085594.jpg?tf=1200x' alt='Enamorarse de un chatbot: los riesgos de tener una “novia virtual” en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-mejores-operadoras-espana-ver-netflix-maxima-calidad-1355942'>Estas son las mejores operadoras de Internet en España para ver Netflix a máxima calidad</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-mejores-operadoras-espana-ver-netflix-maxima-calidad-1355942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/netflix-espana-3259508.jpg?tf=1200x' alt='Estas son las mejores operadoras de Internet en España para ver Netflix a máxima calidad' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028'>5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-ciencia-ficcion-estrenan-2024-ningun-fan-genero-puede-perderse-3259644.jpg?tf=1200x' alt='5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-desterrara-radiadores-calor-inmediato-menos-gasto-1355962'>Este invento puede desterrar para siempre a los radiadores: calor en segundos y mucho más eficiente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-desterrara-radiadores-calor-inmediato-menos-gasto-1355962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/warming-surfaces-3259539.jpg?tf=1200x' alt='Este invento puede desterrar para siempre a los radiadores: calor en segundos y mucho más eficiente' />
+    <h4><a href='https://computerhoy.com/tecnologia/uso-cpu-elevado-ralentiza-ordenador-como-solucionar-problema-1356013'>Uso de la CPU elevado: qué es, por qué tu ordenador va lento y como solucionar este problema</a></h4>
+    <a href='https://computerhoy.com/tecnologia/uso-cpu-elevado-ralentiza-ordenador-como-solucionar-problema-1356013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-enfado-ordenador-3259642.jpg?tf=1200x' alt='Uso de la CPU elevado: qué es, por qué tu ordenador va lento y como solucionar este problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/multimillonario-ofrece-dudoso-sistema-antienvejecimiento-333-dolares-mes-1355923'>¿Quieres parar el tiempo? Este multimillonario ofrece su sistema antienvejecimiento por 333 dólares al mes </a></h4>
-    <a href='https://computerhoy.com/life/multimillonario-ofrece-dudoso-sistema-antienvejecimiento-333-dolares-mes-1355923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sistema-antienvejecimiento-3259481.jpg?tf=1200x' alt='¿Quieres parar el tiempo? Este multimillonario ofrece su sistema antienvejecimiento por 333 dólares al mes ' />
+    <h4><a href='https://computerhoy.com/patrocinado/caracteristicas-haran-te-compres-nuevos-smartphones-poco-x6-1355342'>Descubre por qué los nuevos smartphones de POCO van a conquistar a los amantes del gaming</a></h4>
+    <a href='https://computerhoy.com/patrocinado/caracteristicas-haran-te-compres-nuevos-smartphones-poco-x6-1355342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3258448.jpg?tf=1200x' alt='Descubre por qué los nuevos smartphones de POCO van a conquistar a los amantes del gaming' />
     </a>
 </div>
 
