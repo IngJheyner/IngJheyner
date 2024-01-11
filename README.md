@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rutina-90901-formula-exito-alcanzar-cualquier-meta-1356071'>Prueba esta rutina de 90 minutos diarios durante 90 días en tu proyecto para conseguir objetivos increíbles</a></h4>
+    <a href='https://computerhoy.com/life/rutina-90901-formula-exito-alcanzar-cualquier-meta-1356071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rutina-90-minutos-diarios-durante-90-dias-proyecto-tarea-prioritaria-conseguir-objetivos-increibles-3259721.jpg?tf=1200x' alt='Prueba esta rutina de 90 minutos diarios durante 90 días en tu proyecto para conseguir objetivos increíbles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/declaracion-renta-2023-cuando-pedir-online-borrador-renta-2024-1355839'>Declaración de la Renta 2023 por Internet: cuándo puedes pedir online el borrador de la Renta 2024</a></h4>
+    <a href='https://computerhoy.com/life/declaracion-renta-2023-cuando-pedir-online-borrador-renta-2024-1355839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/declaracion-renta-2023-internet-cuando-puedes-pedir-online-borrador-renta-2024-3259349.jpg?tf=1200x' alt='Declaración de la Renta 2023 por Internet: cuándo puedes pedir online el borrador de la Renta 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974'>Esta es la mejor forma de detectar las estafas por clonación de voz</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-telefonica-3259661.jpg?tf=1200x' alt='Esta es la mejor forma de detectar las estafas por clonación de voz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028'>5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-ciencia-ficcion-estrenan-2024-ningun-fan-genero-puede-perderse-3259644.jpg?tf=1200x' alt='5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/uso-cpu-elevado-ralentiza-ordenador-como-solucionar-problema-1356013'>Uso de la CPU elevado: qué es, por qué tu ordenador va lento y como solucionar este problema</a></h4>
-    <a href='https://computerhoy.com/tecnologia/uso-cpu-elevado-ralentiza-ordenador-como-solucionar-problema-1356013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-enfado-ordenador-3259642.jpg?tf=1200x' alt='Uso de la CPU elevado: qué es, por qué tu ordenador va lento y como solucionar este problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/patrocinado/caracteristicas-haran-te-compres-nuevos-smartphones-poco-x6-1355342'>Descubre por qué los nuevos smartphones de POCO van a conquistar a los amantes del gaming</a></h4>
-    <a href='https://computerhoy.com/patrocinado/caracteristicas-haran-te-compres-nuevos-smartphones-poco-x6-1355342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3258448.jpg?tf=1200x' alt='Descubre por qué los nuevos smartphones de POCO van a conquistar a los amantes del gaming' />
     </a>
 </div>
 
