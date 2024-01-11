@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/union-europea-confirma-2023-ano-caluroso-historia-1355900'>Los satélites climáticos Copérnico de la Unión Europea lo confirman: 2023 ha sido el año más caluroso de la historia</a></h4>
-    <a href='https://computerhoy.com/ciencia/union-europea-confirma-2023-ano-caluroso-historia-1355900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/satelites-climaticos-copernico-union-europea-tambien-confirman-2023-ha-sido-ano-caluroso-historia-3259398.jpg?tf=1200x' alt='Los satélites climáticos Copérnico de la Unión Europea lo confirman: 2023 ha sido el año más caluroso de la historia' />
+    <h4><a href='https://computerhoy.com/life/multimillonario-ofrece-dudoso-sistema-antienvejecimiento-333-dolares-mes-1355923'>¿Quieres parar el tiempo? Este multimillonario ofrece su sistema antienvejecimiento por 333 dólares al mes </a></h4>
+    <a href='https://computerhoy.com/life/multimillonario-ofrece-dudoso-sistema-antienvejecimiento-333-dolares-mes-1355923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sistema-antienvejecimiento-3259481.jpg?tf=1200x' alt='¿Quieres parar el tiempo? Este multimillonario ofrece su sistema antienvejecimiento por 333 dólares al mes ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/windowsbt-sirve-como-elimina-windows-11-1353219'>Qué es $WINDOWS.~BT, para qué sirve y cómo eliminar la carpeta misteriosa de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/windowsbt-sirve-como-elimina-windows-11-1353219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windowsbt-sirve-como-eliminar-carpeta-misteriosa-windows-11-3255110.jpg?tf=1200x' alt='Qué es $WINDOWS.~BT, para qué sirve y cómo eliminar la carpeta misteriosa de Windows 11' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875587.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/tamagotchi-smartwatch-piensas-comprar-reloj-hijo-practicamente-perfecto-1355905'>Tamagotchi y smartwatch: si piensas comprar un reloj a tu hijo, este es prácticamente perfecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tamagotchi-smartwatch-piensas-comprar-reloj-hijo-practicamente-perfecto-1355905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/vtech-my-first-kidiwatch-3259414.jpg?tf=1200x' alt='Tamagotchi y smartwatch: si piensas comprar un reloj a tu hijo, este es prácticamente perfecto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/herramientas-ia-he-probado-muy-utiles-1345444'>7 herramientas de IA que he probado y considero muy útiles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/herramientas-ia-he-probado-muy-utiles-1345444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramientas-ia-inteligencia-artificial-utiles-3241224.jpg?tf=1200x' alt='7 herramientas de IA que he probado y considero muy útiles' />
+    <h4><a href='https://computerhoy.com/tecnologia/sorprendente-guante-elimina-plumazo-parkinson-1355935'>Este sorprendente guante elimina de un plumazo los problemas de Parkinson: así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sorprendente-guante-elimina-plumazo-parkinson-1355935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gyroglove-3259489.jpg?tf=1200x' alt='Este sorprendente guante elimina de un plumazo los problemas de Parkinson: así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-anonimo-1354601'>Cómo ver historias de Instagram en anónimo sin que nadie se dé cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-anonimo-1354601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-historias-instagram-otro-nadie-cuenta-3257362.jpg?tf=1200x' alt='Cómo ver historias de Instagram en anónimo sin que nadie se dé cuenta' />
+    <h4><a href='https://computerhoy.com/ciencia/millennium-camera-fotografiara-mismo-lugar-durante-1000-anos-1355927'>Millennium Camera, la cámara que fotografiará el mismo lugar durante 1.000 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/millennium-camera-fotografiara-mismo-lugar-durante-1000-anos-1355927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/millennium-camera-camara-fotografiara-mismo-lugar-durante-1000-anos-3259421.jpg?tf=1200x' alt='Millennium Camera, la cámara que fotografiará el mismo lugar durante 1.000 años' />
     </a>
 </div>
 
