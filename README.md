@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/superalimento-consumen-astronautas-aumentar-masa-muscular-quinoa-1355883'>Este superalimento fácil de conseguir, es el que consumen los astronautas para no perder masa muscular</a></h4>
-    <a href='https://computerhoy.com/espacio/superalimento-consumen-astronautas-aumentar-masa-muscular-quinoa-1355883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/superalimento-facil-conseguir-consumen-astronautas-aumentar-masa-muscular-3259289.jpg?tf=1200x' alt='Este superalimento fácil de conseguir, es el que consumen los astronautas para no perder masa muscular' />
+    <h4><a href='https://computerhoy.com/ciencia/union-europea-confirma-2023-ano-caluroso-historia-1355900'>Los satélites climáticos Copérnico de la Unión Europea lo confirman: 2023 ha sido el año más caluroso de la historia</a></h4>
+    <a href='https://computerhoy.com/ciencia/union-europea-confirma-2023-ano-caluroso-historia-1355900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/satelites-climaticos-copernico-union-europea-tambien-confirman-2023-ha-sido-ano-caluroso-historia-3259398.jpg?tf=1200x' alt='Los satélites climáticos Copérnico de la Unión Europea lo confirman: 2023 ha sido el año más caluroso de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ventas-pc-caen-2023-pero-confian-resurgir-2024-inteligencia-artificial-1355878'>Las ventas de PC también han caído en 2023, Apple es la peor parada: confían en resurgir en 2024 gracias a los AI PC</a></h4>
-    <a href='https://computerhoy.com/pc/ventas-pc-caen-2023-pero-confian-resurgir-2024-inteligencia-artificial-1355878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Las ventas de PC también han caído en 2023, Apple es la peor parada: confían en resurgir en 2024 gracias a los AI PC' />
+    <h4><a href='https://computerhoy.com/tutoriales/windowsbt-sirve-como-elimina-windows-11-1353219'>Qué es $WINDOWS.~BT, para qué sirve y cómo eliminar la carpeta misteriosa de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/windowsbt-sirve-como-elimina-windows-11-1353219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windowsbt-sirve-como-eliminar-carpeta-misteriosa-windows-11-3255110.jpg?tf=1200x' alt='Qué es $WINDOWS.~BT, para qué sirve y cómo eliminar la carpeta misteriosa de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/noabot-peligroso-virus-infectando-miles-ordenadores-linux-1355868'>NoaBot, el gusano informático que está poniendo en jaque a miles de ordenadores Linux</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/noabot-peligroso-virus-infectando-miles-ordenadores-linux-1355868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/noabot-gusano-informatico-poniendo-jaque-miles-ordenadores-linux-3259371.jpg?tf=1200x' alt='NoaBot, el gusano informático que está poniendo en jaque a miles de ordenadores Linux' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875587.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-abre-gpt-store-mejores-chatgpt-personalizados-puedes-usar-1355869'>OpenAI abre la GPT Store y selecciona los mejores ChatGPT personalizados que puedes usar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-abre-gpt-store-mejores-chatgpt-personalizados-puedes-usar-1355869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-abre-gpt-store-estos-son-mejores-chatgpt-personalizados-puedes-usar-3259342.jpg?tf=1200x' alt='OpenAI abre la GPT Store y selecciona los mejores ChatGPT personalizados que puedes usar' />
+    <h4><a href='https://computerhoy.com/tecnologia/herramientas-ia-he-probado-muy-utiles-1345444'>7 herramientas de IA que he probado y considero muy útiles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/herramientas-ia-he-probado-muy-utiles-1345444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramientas-ia-inteligencia-artificial-utiles-3241224.jpg?tf=1200x' alt='7 herramientas de IA que he probado y considero muy útiles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669'>El color rosa no existe, es solo un truco de tu cerebro</a></h4>
-    <a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rosa-no-existe-solo-truco-cerebro-3259075.jpg?tf=1200x' alt='El color rosa no existe, es solo un truco de tu cerebro' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-anonimo-1354601'>Cómo ver historias de Instagram en anónimo sin que nadie se dé cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-anonimo-1354601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-historias-instagram-otro-nadie-cuenta-3257362.jpg?tf=1200x' alt='Cómo ver historias de Instagram en anónimo sin que nadie se dé cuenta' />
     </a>
 </div>
 
