@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/superalimento-consumen-astronautas-aumentar-masa-muscular-quinoa-1355883'>Este superalimento fácil de conseguir, es el que consumen los astronautas para no perder masa muscular</a></h4>
+    <a href='https://computerhoy.com/espacio/superalimento-consumen-astronautas-aumentar-masa-muscular-quinoa-1355883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/superalimento-facil-conseguir-consumen-astronautas-aumentar-masa-muscular-3259289.jpg?tf=1200x' alt='Este superalimento fácil de conseguir, es el que consumen los astronautas para no perder masa muscular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ventas-pc-caen-2023-pero-confian-resurgir-2024-inteligencia-artificial-1355878'>Las ventas de PC también han caído en 2023, Apple es la peor parada: confían en resurgir en 2024 gracias a los AI PC</a></h4>
     <a href='https://computerhoy.com/pc/ventas-pc-caen-2023-pero-confian-resurgir-2024-inteligencia-artificial-1355878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Las ventas de PC también han caído en 2023, Apple es la peor parada: confían en resurgir en 2024 gracias a los AI PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669'>El color rosa no existe, es solo un truco de tu cerebro</a></h4>
     <a href='https://computerhoy.com/life/color-rosa-no-existe-solo-truco-cerebro-1355669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rosa-no-existe-solo-truco-cerebro-3259075.jpg?tf=1200x' alt='El color rosa no existe, es solo un truco de tu cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muerte-palo-selfie-dron-ia-te-sigue-como-tuvieras-propio-paparazzi-1355843'>Muerte al palo selfie: este dron con IA te sigue como si tuvieras tu propio paparazzi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muerte-palo-selfie-dron-ia-te-sigue-como-tuvieras-propio-paparazzi-1355843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hoverair-x1-3259338.jpg?tf=1200x' alt='Muerte al palo selfie: este dron con IA te sigue como si tuvieras tu propio paparazzi' />
     </a>
 </div>
 
