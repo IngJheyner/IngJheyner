@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rutina-90901-formula-exito-alcanzar-cualquier-meta-1356071'>Prueba esta rutina de 90 minutos diarios durante 90 días en tu proyecto para conseguir objetivos increíbles</a></h4>
-    <a href='https://computerhoy.com/life/rutina-90901-formula-exito-alcanzar-cualquier-meta-1356071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rutina-90-minutos-diarios-durante-90-dias-proyecto-tarea-prioritaria-conseguir-objetivos-increibles-3259721.jpg?tf=1200x' alt='Prueba esta rutina de 90 minutos diarios durante 90 días en tu proyecto para conseguir objetivos increíbles' />
+    <h4><a href='https://computerhoy.com/tecnologia/compra-rtx-4090-segunda-mano-convierte-peor-pesadilla-1356173'>Compra una RTX 4090 de segunda mano y se convierte en su peor pesadilla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/compra-rtx-4090-segunda-mano-convierte-peor-pesadilla-1356173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835453.jpg?tf=1200x' alt='Compra una RTX 4090 de segunda mano y se convierte en su peor pesadilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/declaracion-renta-2023-cuando-pedir-online-borrador-renta-2024-1355839'>Declaración de la Renta 2023 por Internet: cuándo puedes pedir online el borrador de la Renta 2024</a></h4>
-    <a href='https://computerhoy.com/life/declaracion-renta-2023-cuando-pedir-online-borrador-renta-2024-1355839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/declaracion-renta-2023-internet-cuando-puedes-pedir-online-borrador-renta-2024-3259349.jpg?tf=1200x' alt='Declaración de la Renta 2023 por Internet: cuándo puedes pedir online el borrador de la Renta 2024' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-salen-cuentas-publicidad-quiere-1356172'>A Netflix le salen las cuentas con la publicidad y quiere más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-salen-cuentas-publicidad-quiere-1356172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/miniseries-netflix-ver-fin-semana-3089032.jpg?tf=1200x' alt='A Netflix le salen las cuentas con la publicidad y quiere más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974'>Esta es la mejor forma de detectar las estafas por clonación de voz</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mejor-forma-detectar-estafas-clonacion-voz-1354974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-telefonica-3259661.jpg?tf=1200x' alt='Esta es la mejor forma de detectar las estafas por clonación de voz' />
+    <h4><a href='https://computerhoy.com/life/como-pilotos-recuperan-tiempo-vuelos-no-acelerando-1356094'>¿Cómo los pilotos recuperan tiempo en los vuelos? No, no es acelerando más</a></h4>
+    <a href='https://computerhoy.com/life/como-pilotos-recuperan-tiempo-vuelos-no-acelerando-1356094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-pilotos-recuperan-tiempo-vuelos-no-no-acelerando-3259748.jpg?tf=1200x' alt='¿Cómo los pilotos recuperan tiempo en los vuelos? No, no es acelerando más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/enamorarse-chatbot-riesgos-tener-novia-virtual-2024-1355939'>Enamorarse de un chatbot: los riesgos de tener una “novia virtual” en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/enamorarse-chatbot-riesgos-tener-novia-virtual-2024-1355939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatbots-entrenadores-robots-citas-virtuales-ia-abre-paso-mundo-amor-3085594.jpg?tf=1200x' alt='Enamorarse de un chatbot: los riesgos de tener una “novia virtual” en 2024' />
+    <h4><a href='https://computerhoy.com/tutoriales/ocultar-ip-whatsapp-1354656'>Cómo ocultar la IP en una llamada de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ocultar-ip-whatsapp-1354656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ocultar-ip-llamada-whatsapp-3257415.jpg?tf=1200x' alt='Cómo ocultar la IP en una llamada de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028'>5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-estrenan-2024-1356028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-ciencia-ficcion-estrenan-2024-ningun-fan-genero-puede-perderse-3259644.jpg?tf=1200x' alt='5 películas de ciencia ficción que se estrenan en 2024 y ningún fan del género puede perderse' />
+    <h4><a href='https://computerhoy.com/life/truco-caramelo-propina-1356075'>El "truco del caramelo" de bares y restaurantes para que dejes más propina que puedes aplicar en tu negocio</a></h4>
+    <a href='https://computerhoy.com/life/truco-caramelo-propina-1356075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dar-regalo-cliente-despues-compra-correctamente-puede-aumentar-propina-21-3259725.jpg?tf=1200x' alt='El "truco del caramelo" de bares y restaurantes para que dejes más propina que puedes aplicar en tu negocio' />
     </a>
 </div>
 
