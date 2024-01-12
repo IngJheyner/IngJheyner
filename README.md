@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-airtag-estos-localizadores-funcionan-android-cuestan-menos-mitad-1356225'>Olvida los AirTag: estos localizadores funcionan con Android y cuestan menos de la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-airtag-estos-localizadores-funcionan-android-cuestan-menos-mitad-1356225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/autovus-3260011.jpg?tf=1200x' alt='Olvida los AirTag: estos localizadores funcionan con Android y cuestan menos de la mitad' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243'>Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg?tf=1200x' alt='Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-dijeron-ser-filologa-no-tenia-salida-pero-ia-ha-cambiado-1340416'>Me dijeron que ser filóloga solo me serviría para ser profesora: ahora trabajo para una empresa de IA en uno de los empleos con más futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-dijeron-ser-filologa-no-tenia-salida-pero-ia-ha-cambiado-1340416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/esther-fernandez-carbayo-filologa-hispanica-inteligencia-artificial-3231392.jpg?tf=1200x' alt='Me dijeron que ser filóloga solo me serviría para ser profesora: ahora trabajo para una empresa de IA en uno de los empleos con más futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030'>Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/philips-air-performer-3259672.jpg?tf=1200x' alt='Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/cmf-buds-pro-analisis-opinion-auriculares-cancelacion-ruido-1354284'>He probado los auriculares CMF Buds Pro de Nothing y no entiendo como se escuchan tan bien costando tan poco</a></h4>
-    <a href='https://computerhoy.com/analisis/cmf-buds-pro-analisis-opinion-auriculares-cancelacion-ruido-1354284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cmf-buds-pro-3256846.jpg?tf=1200x' alt='He probado los auriculares CMF Buds Pro de Nothing y no entiendo como se escuchan tan bien costando tan poco' />
+    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
+    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cuanto-tiempo-dura-router-cuando-deberias-reemplazarlo-nuevo-1353217'>Cuánto tiempo dura un router WiFi y cuándo deberías reemplazarlo por uno nuevo</a></h4>
-    <a href='https://computerhoy.com/redes/cuanto-tiempo-dura-router-cuando-deberias-reemplazarlo-nuevo-1353217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuanto-tiempo-dura-router-wifi-cuando-deberias-reemplazarlo-nuevo-3255109.jpg?tf=1200x' alt='Cuánto tiempo dura un router WiFi y cuándo deberías reemplazarlo por uno nuevo' />
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-estrena-opcion-crear-editar-compartir-stickers-ios-1356242'>WhatsApp estrena la opción de crear, editar y compartir tus propios stickers con iOS sin salir de la app</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-estrena-opcion-crear-editar-compartir-stickers-ios-1356242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/creacion-pegatinas-whatsapp-3260055.jpg?tf=1200x' alt='WhatsApp estrena la opción de crear, editar y compartir tus propios stickers con iOS sin salir de la app' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-lia-liquida-stock-casi-todas-aspiradoras-estas-son-mejores-ofertas-1356024'>Dyson la lía y liquida stock de casi todas sus aspiradoras: estas son las mejores ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-lia-liquida-stock-casi-todas-aspiradoras-estas-son-mejores-ofertas-1356024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-absolute-3013792.jpg?tf=1200x' alt='Dyson la lía y liquida stock de casi todas sus aspiradoras: estas son las mejores ofertas' />
+    <h4><a href='https://computerhoy.com/life/mindear-inteligencia-artificial-reducir-tinnitus-acufenos-semanas-1356261'>Un chatbot con IA consigue reducir los tinnitus o acúfenos en cuestión de semanas</a></h4>
+    <a href='https://computerhoy.com/life/mindear-inteligencia-artificial-reducir-tinnitus-acufenos-semanas-1356261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatbot-ia-consigue-reducir-tinnitus-acufenos-cuestion-semanas-3260034.jpg?tf=1200x' alt='Un chatbot con IA consigue reducir los tinnitus o acúfenos en cuestión de semanas' />
     </a>
 </div>
 
