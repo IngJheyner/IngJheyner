@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-marcas-agua-fotografia-gratis-1355404'>Cómo quitar marcas de agua de una fotografía gratis sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-marcas-agua-fotografia-gratis-1355404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-quitar-marcas-agua-fotografia-gratis-instalar-nada-3258718.jpg?tf=1200x' alt='Cómo quitar marcas de agua de una fotografía gratis sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/simio-gigante-vivio-china-gigantopithecus-blacki-1356214'>Aclaran la extinción del "verdadero" King Kong, un misterioso simio gigante que vivió en China</a></h4>
+    <a href='https://computerhoy.com/ciencia/simio-gigante-vivio-china-gigantopithecus-blacki-1356214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aclaran-extincion-verdadero-king-kong-misterioso-simio-gigante-vivio-china-3259983.jpg?tf=1200x' alt='Aclaran la extinción del "verdadero" King Kong, un misterioso simio gigante que vivió en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funcion-seguridad-whatsapp-deberias-activar-ahora-mismo-1356198'>La función de seguridad oculta de WhatsApp que no conoces y que deberías activar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/funcion-seguridad-whatsapp-deberias-activar-ahora-mismo-1356198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/funcion-seguridad-oculta-whatsapp-no-conoces-deberias-activar-ahora-mismo-3259974.jpg?tf=1200x' alt='La función de seguridad oculta de WhatsApp que no conoces y que deberías activar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188'>IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas</a></h4>
     <a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ikea-pide-devuelvas-inmediatamente-cargador-movil-produce-quemaduras-descargas-electricas-3259925.jpg?tf=1200x' alt='IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-ultra-hunde-precio-casi-100-euros-amazon-deja-precio-saldo-1355970'>El Apple Watch Ultra hunde su precio en casi 100 euros: Amazon lo deja a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-ultra-hunde-precio-casi-100-euros-amazon-deja-precio-saldo-1355970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-tenis-3086538.jpg?tf=1200x' alt='El Apple Watch Ultra hunde su precio en casi 100 euros: Amazon lo deja a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-deberias-quitarte-zapatillas-cuando-viajas-avion-1356097'>Por qué no deberías quitarte nunca las zapatillas cuando viajas en avión</a></h4>
-    <a href='https://computerhoy.com/life/no-deberias-quitarte-zapatillas-cuando-viajas-avion-1356097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-deberias-quitarte-zapatillas-cuando-viajas-avion-3259756.jpg?tf=1200x' alt='Por qué no deberías quitarte nunca las zapatillas cuando viajas en avión' />
     </a>
 </div>
 
