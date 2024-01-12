@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-opciones-instalar-android-raspberry-pi-1356212'>Las 5 mejores opciones para instalar Android en tu Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-opciones-instalar-android-raspberry-pi-1356212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-mejores-opciones-instalar-android-raspberry-pi-3259992.jpg?tf=1200x' alt='Las 5 mejores opciones para instalar Android en tu Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483'>Un estudio revela los fondos que te hacen parecer más competente en una videollamada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estudio-revela-fondos-zoom-te-hacen-parecer-competente-3260489.jpg?tf=1200x' alt='Un estudio revela los fondos que te hacen parecer más competente en una videollamada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/web-te-permite-crear-propia-combinacion-ruido-ambiental-1356397'>Así puedes crear tu propio ruido ambiental para mejorar tu concentración, productividad o relajación</a></h4>
-    <a href='https://computerhoy.com/audio/web-te-permite-crear-propia-combinacion-ruido-ambiental-1356397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ambiphone-3260391.jpg?tf=1200x' alt='Así puedes crear tu propio ruido ambiental para mejorar tu concentración, productividad o relajación' />
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-120-hz-rebaja-lanzamiento-poco-x6-pro-ya-venta-viene-varias-sorpresas-1356234'>Pantalla 120 Hz y rebaja de lanzamiento: el POCO X6 Pro ya está a la venta y viene con varias sorpresas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-120-hz-rebaja-lanzamiento-poco-x6-pro-ya-venta-viene-varias-sorpresas-1356234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Pantalla 120 Hz y rebaja de lanzamiento: el POCO X6 Pro ya está a la venta y viene con varias sorpresas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnofatiga-como-aprender-desconectar-antes-nuevas-tecnologias-te-agoten-1355994'>Tecnofatiga: cómo aprender a “desconectar” antes de que las nuevas tecnologías te agoten</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnofatiga-como-aprender-desconectar-antes-nuevas-tecnologias-te-agoten-1355994' target='_blank'>
-        <img width='30%' src='/sites/navi.axelspringer.es/public/media/image/2024/01/https-wwwamazones-repellshield-spray-repelente-pececillos-plata-dp-b08dp1nc9d-refsr12crid222n6xq4qkpmrkeywordsrepelshieldqid1704969703sdigital-textsprefixrepelshiel2cdigital-text2c242sr1-2-3259575.jpg?tf=1200x' alt='Tecnofatiga: cómo aprender a “desconectar” antes de que las nuevas tecnologías te agoten' />
+    <h4><a href='https://computerhoy.com/apps/tivify-planta-cara-iptv-nuevo-canal-gratis-futbol-1356468'>Tivify planta cara a las IPTV con un nuevo canal gratis de fútbol</a></h4>
+    <a href='https://computerhoy.com/apps/tivify-planta-cara-iptv-nuevo-canal-gratis-futbol-1356468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='Tivify planta cara a las IPTV con un nuevo canal gratis de fútbol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-desconcertados-unas-estructuras-poligonales-descubiertas-marte-1356392'>Científicos desconcertados con estas estructuras poligonales descubiertas en Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-desconcertados-unas-estructuras-poligonales-descubiertas-marte-1356392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-estructuras-poligonales-superficie-marte-3260366.jpg?tf=1200x' alt='Científicos desconcertados con estas estructuras poligonales descubiertas en Marte' />
+    <h4><a href='https://computerhoy.com/apps/regla-dia-expertos-seguridad-evitar-apps-espia-movil-1356463'>La regla de “una al día” de los expertos en seguridad para evitar las apps espía en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/regla-dia-expertos-seguridad-evitar-apps-espia-movil-1356463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='La regla de “una al día” de los expertos en seguridad para evitar las apps espía en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-deja-frito-apple-oferta-pixel-buds-pro-hunden-precio-1355983'>Google deja frito a Apple con esta oferta: los Pixel Buds Pro hunden su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-deja-frito-apple-oferta-pixel-buds-pro-hunden-precio-1355983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-pixel-buds-pro-2778313.jpg?tf=1200x' alt='Google deja frito a Apple con esta oferta: los Pixel Buds Pro hunden su precio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/libros-clasicos-ciencia-ficcion-japoneses-1355629'>5 libros clásicos de ciencia ficción japoneses que todo fan del género debería conocer</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/libros-clasicos-ciencia-ficcion-japoneses-1355629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-libros-clasicos-ciencia-ficcion-japoneses-todo-fan-genero-deberia-conocer-3259008.jpg?tf=1200x' alt='5 libros clásicos de ciencia ficción japoneses que todo fan del género debería conocer' />
     </a>
 </div>
 
