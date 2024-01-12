@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-marcas-agua-fotografia-gratis-1355404'>Cómo quitar marcas de agua de una fotografía gratis sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-quitar-marcas-agua-fotografia-gratis-1355404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-quitar-marcas-agua-fotografia-gratis-instalar-nada-3258718.jpg?tf=1200x' alt='Cómo quitar marcas de agua de una fotografía gratis sin instalar nada' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-airtag-estos-localizadores-funcionan-android-cuestan-menos-mitad-1356225'>Olvida los AirTag: estos localizadores funcionan con Android y cuestan menos de la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-airtag-estos-localizadores-funcionan-android-cuestan-menos-mitad-1356225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/autovus-3260011.jpg?tf=1200x' alt='Olvida los AirTag: estos localizadores funcionan con Android y cuestan menos de la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/simio-gigante-vivio-china-gigantopithecus-blacki-1356214'>Aclaran la extinción del "verdadero" King Kong, un misterioso simio gigante que vivió en China</a></h4>
-    <a href='https://computerhoy.com/ciencia/simio-gigante-vivio-china-gigantopithecus-blacki-1356214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aclaran-extincion-verdadero-king-kong-misterioso-simio-gigante-vivio-china-3259983.jpg?tf=1200x' alt='Aclaran la extinción del "verdadero" King Kong, un misterioso simio gigante que vivió en China' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-dijeron-ser-filologa-no-tenia-salida-pero-ia-ha-cambiado-1340416'>Me dijeron que ser filóloga solo me serviría para ser profesora: ahora trabajo para una empresa de IA en uno de los empleos con más futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-dijeron-ser-filologa-no-tenia-salida-pero-ia-ha-cambiado-1340416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/esther-fernandez-carbayo-filologa-hispanica-inteligencia-artificial-3231392.jpg?tf=1200x' alt='Me dijeron que ser filóloga solo me serviría para ser profesora: ahora trabajo para una empresa de IA en uno de los empleos con más futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-seguridad-whatsapp-deberias-activar-ahora-mismo-1356198'>La función de seguridad oculta de WhatsApp que no conoces y que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-seguridad-whatsapp-deberias-activar-ahora-mismo-1356198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/funcion-seguridad-oculta-whatsapp-no-conoces-deberias-activar-ahora-mismo-3259974.jpg?tf=1200x' alt='La función de seguridad oculta de WhatsApp que no conoces y que deberías activar ahora mismo' />
+    <h4><a href='https://computerhoy.com/analisis/cmf-buds-pro-analisis-opinion-auriculares-cancelacion-ruido-1354284'>He probado los auriculares CMF Buds Pro de Nothing y no entiendo como se escuchan tan bien costando tan poco</a></h4>
+    <a href='https://computerhoy.com/analisis/cmf-buds-pro-analisis-opinion-auriculares-cancelacion-ruido-1354284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cmf-buds-pro-3256846.jpg?tf=1200x' alt='He probado los auriculares CMF Buds Pro de Nothing y no entiendo como se escuchan tan bien costando tan poco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevo-mando-dualsense-v2-soluciona-mayor-problema-gamepad-ps5-1356205'>Una tienda filtra el nuevo gamepad DualSense V2, y soluciona el mayor problema del mando de PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevo-mando-dualsense-v2-soluciona-mayor-problema-gamepad-ps5-1356205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dualsense-edge-2793067.jpg?tf=1200x' alt='Una tienda filtra el nuevo gamepad DualSense V2, y soluciona el mayor problema del mando de PS5' />
+    <h4><a href='https://computerhoy.com/redes/cuanto-tiempo-dura-router-cuando-deberias-reemplazarlo-nuevo-1353217'>Cuánto tiempo dura un router WiFi y cuándo deberías reemplazarlo por uno nuevo</a></h4>
+    <a href='https://computerhoy.com/redes/cuanto-tiempo-dura-router-cuando-deberias-reemplazarlo-nuevo-1353217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cuanto-tiempo-dura-router-wifi-cuando-deberias-reemplazarlo-nuevo-3255109.jpg?tf=1200x' alt='Cuánto tiempo dura un router WiFi y cuándo deberías reemplazarlo por uno nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188'>IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas</a></h4>
-    <a href='https://computerhoy.com/moviles/cargador-movil-ikea-produce-quemaduras-descargas-electricas-1356188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ikea-pide-devuelvas-inmediatamente-cargador-movil-produce-quemaduras-descargas-electricas-3259925.jpg?tf=1200x' alt='IKEA pide que dejes de usar este cargador de móvil: produce quemaduras y descargas eléctricas' />
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-lia-liquida-stock-casi-todas-aspiradoras-estas-son-mejores-ofertas-1356024'>Dyson la lía y liquida stock de casi todas sus aspiradoras: estas son las mejores ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-lia-liquida-stock-casi-todas-aspiradoras-estas-son-mejores-ofertas-1356024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dyson-v15-detect-absolute-3013792.jpg?tf=1200x' alt='Dyson la lía y liquida stock de casi todas sus aspiradoras: estas son las mejores ofertas' />
     </a>
 </div>
 
