@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349'>Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía </a></h4>
+    <a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cargar-bateria-movil-3260325.jpg?tf=1200x' alt='Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamado por teléfono</a></h4>
+    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/listaspam-otras-webs-saber-quien-te-llamado-telefono-3260007.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamado por teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320'>Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024</a></h4>
+    <a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243'>Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg?tf=1200x' alt='Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030'>Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/philips-air-performer-3259672.jpg?tf=1200x' alt='Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261'>CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos</a></h4>
-    <a href='https://computerhoy.com/directos/ces-2024-directo-ultimas-novedades-presentaciones-1354261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ces-2024-directo-3258449.jpg?tf=1200x' alt='CES 2024 en Las Vegas en directo: todas las noticias y lanzamientos tecnológicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-estrena-opcion-crear-editar-compartir-stickers-ios-1356242'>WhatsApp estrena la opción de crear, editar y compartir tus propios stickers con iOS sin salir de la app</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-estrena-opcion-crear-editar-compartir-stickers-ios-1356242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/creacion-pegatinas-whatsapp-3260055.jpg?tf=1200x' alt='WhatsApp estrena la opción de crear, editar y compartir tus propios stickers con iOS sin salir de la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mindear-inteligencia-artificial-reducir-tinnitus-acufenos-semanas-1356261'>Un chatbot con IA consigue reducir los tinnitus o acúfenos en cuestión de semanas</a></h4>
-    <a href='https://computerhoy.com/life/mindear-inteligencia-artificial-reducir-tinnitus-acufenos-semanas-1356261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatbot-ia-consigue-reducir-tinnitus-acufenos-cuestion-semanas-3260034.jpg?tf=1200x' alt='Un chatbot con IA consigue reducir los tinnitus o acúfenos en cuestión de semanas' />
     </a>
 </div>
 
