@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-propositos-digitales-espanoles-2024-estudio-1356316'>Estos son los propósitos digitales de los españoles para 2024, según un estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-propositos-digitales-espanoles-2024-estudio-1356316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-propositos-digitales-espanoles-2024-estudio-3260226.jpg?tf=1200x' alt='Estos son los propósitos digitales de los españoles para 2024, según un estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-opciones-instalar-android-raspberry-pi-1356212'>Las 5 mejores opciones para instalar Android en tu Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-opciones-instalar-android-raspberry-pi-1356212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-mejores-opciones-instalar-android-raspberry-pi-3259992.jpg?tf=1200x' alt='Las 5 mejores opciones para instalar Android en tu Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-descubre-nuevo-material-desconocido-podria-cambiar-mundo-1356398'>La IA descubre nuevo material desconocido que podría revolucionar las baterías</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-descubre-nuevo-material-desconocido-podria-cambiar-mundo-1356398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-encuentran-tiempo-record-material-baterias-estado-solido-utilizando-ia-3260378.jpg?tf=1200x' alt='La IA descubre nuevo material desconocido que podría revolucionar las baterías' />
+    <h4><a href='https://computerhoy.com/audio/web-te-permite-crear-propia-combinacion-ruido-ambiental-1356397'>Así puedes crear tu propio ruido ambiental para mejorar tu concentración, productividad o relajación</a></h4>
+    <a href='https://computerhoy.com/audio/web-te-permite-crear-propia-combinacion-ruido-ambiental-1356397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ambiphone-3260391.jpg?tf=1200x' alt='Así puedes crear tu propio ruido ambiental para mejorar tu concentración, productividad o relajación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/the400-mini-regreso-mitico-ordenador-atari-1979-1356278'>Así es THE400 Mini, el regreso del mítico ordenador de Atari de 1979</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/the400-mini-regreso-mitico-ordenador-atari-1979-1356278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/the400-mini-regreso-mitico-ordenador-atari-1979-3260114.jpg?tf=1200x' alt='Así es THE400 Mini, el regreso del mítico ordenador de Atari de 1979' />
+    <h4><a href='https://computerhoy.com/tecnologia/tecnofatiga-como-aprender-desconectar-antes-nuevas-tecnologias-te-agoten-1355994'>Tecnofatiga: cómo aprender a “desconectar” antes de que las nuevas tecnologías te agoten</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnofatiga-como-aprender-desconectar-antes-nuevas-tecnologias-te-agoten-1355994' target='_blank'>
+        <img width='30%' src='/sites/navi.axelspringer.es/public/media/image/2024/01/https-wwwamazones-repellshield-spray-repelente-pececillos-plata-dp-b08dp1nc9d-refsr12crid222n6xq4qkpmrkeywordsrepelshieldqid1704969703sdigital-textsprefixrepelshiel2cdigital-text2c242sr1-2-3259575.jpg?tf=1200x' alt='Tecnofatiga: cómo aprender a “desconectar” antes de que las nuevas tecnologías te agoten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-poder-femenino-ursula-corbero-jennifer-lawrence-kaley-cuoco-1356267'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: poder femenino con Ursula corberó, Jennifer Lawrence y Kaley Cuoco</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-poder-femenino-ursula-corbero-jennifer-lawrence-kaley-cuoco-1356267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/peliculas-fin-semana-3260239.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: poder femenino con Ursula corberó, Jennifer Lawrence y Kaley Cuoco' />
+    <h4><a href='https://computerhoy.com/espacio/cientificos-desconcertados-unas-estructuras-poligonales-descubiertas-marte-1356392'>Científicos desconcertados con estas estructuras poligonales descubiertas en Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-desconcertados-unas-estructuras-poligonales-descubiertas-marte-1356392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-estructuras-poligonales-superficie-marte-3260366.jpg?tf=1200x' alt='Científicos desconcertados con estas estructuras poligonales descubiertas en Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/variante-genetica-puede-ser-clave-combatir-parkinson-1356389'>Una variante genética puede ser la clave para combatir el Parkinson</a></h4>
-    <a href='https://computerhoy.com/life/variante-genetica-puede-ser-clave-combatir-parkinson-1356389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/variante-genetica-puede-ser-clave-combatir-parkinson-3260364.jpg?tf=1200x' alt='Una variante genética puede ser la clave para combatir el Parkinson' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-deja-frito-apple-oferta-pixel-buds-pro-hunden-precio-1355983'>Google deja frito a Apple con esta oferta: los Pixel Buds Pro hunden su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-deja-frito-apple-oferta-pixel-buds-pro-hunden-precio-1355983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-pixel-buds-pro-2778313.jpg?tf=1200x' alt='Google deja frito a Apple con esta oferta: los Pixel Buds Pro hunden su precio' />
     </a>
 </div>
 
