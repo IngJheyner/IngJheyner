@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-timo-boton-rojo-1356334'>Cuidado con los mayores: la Policía advierte del timo del botón rojo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-timo-boton-rojo-1356334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cuidado-mayores-policia-advierte-timo-boton-rojo-3260251.jpg?tf=1200x' alt='Cuidado con los mayores: la Policía advierte del timo del botón rojo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493'>A qué canción pertenece esta letra</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cancion-pertenece-letra-3259390.jpg?tf=1200x' alt='A qué canción pertenece esta letra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349'>Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía </a></h4>
     <a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cargar-bateria-movil-3260325.jpg?tf=1200x' alt='Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320'>Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024</a></h4>
     <a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243'>Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-assistant-va-perder-monton-funciones-26-enero-1356243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-assistant-2311421.jpg?tf=1200x' alt='Google Assistant va a perder un montón de funciones que la compañía considera "poco utilizadas": aquí la lista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030'>Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/philips-va-dyson-imita-aparatos-buscados-mejor-precio-1356030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/philips-air-performer-3259672.jpg?tf=1200x' alt='Philips va a por Dyson: imita uno de sus aparatos más buscados, y a mejor precio' />
     </a>
 </div>
 
