@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-timo-boton-rojo-1356334'>Cuidado con los mayores: la Policía advierte del timo del botón rojo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-timo-boton-rojo-1356334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cuidado-mayores-policia-advierte-timo-boton-rojo-3260251.jpg?tf=1200x' alt='Cuidado con los mayores: la Policía advierte del timo del botón rojo' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-propositos-digitales-espanoles-2024-estudio-1356316'>Estos son los propósitos digitales de los españoles para 2024, según un estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-propositos-digitales-espanoles-2024-estudio-1356316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-propositos-digitales-espanoles-2024-estudio-3260226.jpg?tf=1200x' alt='Estos son los propósitos digitales de los españoles para 2024, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493'>A qué canción pertenece esta letra</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cancion-pertenece-letra-1033493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cancion-pertenece-letra-3259390.jpg?tf=1200x' alt='A qué canción pertenece esta letra' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-descubre-nuevo-material-desconocido-podria-cambiar-mundo-1356398'>La IA descubre nuevo material desconocido que podría revolucionar las baterías</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-descubre-nuevo-material-desconocido-podria-cambiar-mundo-1356398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-encuentran-tiempo-record-material-baterias-estado-solido-utilizando-ia-3260378.jpg?tf=1200x' alt='La IA descubre nuevo material desconocido que podría revolucionar las baterías' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349'>Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía </a></h4>
-    <a href='https://computerhoy.com/moviles/adios-cargar-movil-cada-dia-bateria-nuclear-promete-50-anos-energia-1356349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cargar-bateria-movil-3260325.jpg?tf=1200x' alt='Adiós a cargar el móvil cada día: esta batería nuclear promete 50 años de energía ' />
+    <h4><a href='https://computerhoy.com/entretenimiento/the400-mini-regreso-mitico-ordenador-atari-1979-1356278'>Así es THE400 Mini, el regreso del mítico ordenador de Atari de 1979</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/the400-mini-regreso-mitico-ordenador-atari-1979-1356278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/the400-mini-regreso-mitico-ordenador-atari-1979-3260114.jpg?tf=1200x' alt='Así es THE400 Mini, el regreso del mítico ordenador de Atari de 1979' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamado por teléfono</a></h4>
-    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/listaspam-otras-webs-saber-quien-te-llamado-telefono-3260007.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamado por teléfono' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-poder-femenino-ursula-corbero-jennifer-lawrence-kaley-cuoco-1356267'>Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: poder femenino con Ursula corberó, Jennifer Lawrence y Kaley Cuoco</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-netflix-prime-video-movistar-plus-poder-femenino-ursula-corbero-jennifer-lawrence-kaley-cuoco-1356267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/peliculas-fin-semana-3260239.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Netflix, Prime Video y Movistar Plus+: poder femenino con Ursula corberó, Jennifer Lawrence y Kaley Cuoco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320'>Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024</a></h4>
-    <a href='https://computerhoy.com/gaming/filtra-accidentalmente-fecha-lanzamiento-nintendo-switch-2-ces-2024-1356320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nintendo-switch-3073978.jpg?tf=1200x' alt='Se "filtra accidentalmente" la fecha de lanzamiento de la Nintendo Switch 2 en el CES 2024' />
+    <h4><a href='https://computerhoy.com/life/variante-genetica-puede-ser-clave-combatir-parkinson-1356389'>Una variante genética puede ser la clave para combatir el Parkinson</a></h4>
+    <a href='https://computerhoy.com/life/variante-genetica-puede-ser-clave-combatir-parkinson-1356389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/variante-genetica-puede-ser-clave-combatir-parkinson-3260364.jpg?tf=1200x' alt='Una variante genética puede ser la clave para combatir el Parkinson' />
     </a>
 </div>
 
