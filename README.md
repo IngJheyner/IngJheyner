@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492'>Algunos medios españoles comienzan a cobrar dinero, si no aceptas las cookies</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492'>Los medios de comunicación españoles comienzan a cobrar una suscripción, si no aceptas las cookies</a></h4>
     <a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='Algunos medios españoles comienzan a cobrar dinero, si no aceptas las cookies' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='Los medios de comunicación españoles comienzan a cobrar una suscripción, si no aceptas las cookies' />
     </a>
 </div>
 
