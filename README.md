@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fallece-cavar-agujero-40-metros-cocina-buscando-oro-1356501'>Un hombre fallece tras cavar un agujero de 40 metros en la cocina, porque soñó que encontraría oro</a></h4>
-    <a href='https://computerhoy.com/life/fallece-cavar-agujero-40-metros-cocina-buscando-oro-1356501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-fallece-cavar-agujero-40-metros-cocina-porque-sono-encontraria-oro-3260534.jpg?tf=1200x' alt='Un hombre fallece tras cavar un agujero de 40 metros en la cocina, porque soñó que encontraría oro' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-iphone-restablecer-reiniciar-ios-1354544'>Cómo resetear un iPhone: todas las opciones para restablecer o reiniciar en iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-resetear-iphone-restablecer-reiniciar-ios-1354544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143630.jpg?tf=1200x' alt='Cómo resetear un iPhone: todas las opciones para restablecer o reiniciar en iOS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-apple-tiene-preparado-2024-nuevos-mac-iphone-ipad-1354975'>Todo lo que Apple tiene preparado para ti en 2024: nuevos Mac, iPhone, iPad y más llegarán este año</a></h4>
-    <a href='https://computerhoy.com/apple/todo-apple-tiene-preparado-2024-nuevos-mac-iphone-ipad-1354975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dispositivos-apple-3257897.jpg?tf=1200x' alt='Todo lo que Apple tiene preparado para ti en 2024: nuevos Mac, iPhone, iPad y más llegarán este año' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiene-11000-comentarios-amazon-gente-ama-smartwatch-38-euros-tiene-llamadas-1353929'>Tiene más de 11.000 comentarios en Amazon y la gente lo ama: este smartwatch de 38 euros tiene llamadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiene-11000-comentarios-amazon-gente-ama-smartwatch-38-euros-tiene-llamadas-1353929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/blackview-x1-3256158.jpg?tf=1200x' alt='Tiene más de 11.000 comentarios en Amazon y la gente lo ama: este smartwatch de 38 euros tiene llamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/caso-pet-rock-broma-cuidar-piedra-termino-haciendo-millonario-creador-1355828'>El caso de Pet Rock, la broma de cuidar una piedra que terminó haciendo millonario a su creador</a></h4>
-    <a href='https://computerhoy.com/life/caso-pet-rock-broma-cuidar-piedra-termino-haciendo-millonario-creador-1355828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pet-rock-millonario-3260105.jpg?tf=1200x' alt='El caso de Pet Rock, la broma de cuidar una piedra que terminó haciendo millonario a su creador' />
+    <h4><a href='https://computerhoy.com/ciencia/5-peliculas-te-ayudan-estimular-mente-harvard-1351620'>5 películas que te ayudan a estimular la mente, según Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/5-peliculas-te-ayudan-estimular-mente-harvard-1351620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-te-ayudan-estimular-mente-harvard-3252010.jpg?tf=1200x' alt='5 películas que te ayudan a estimular la mente, según Harvard' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3075352.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
+    <h4><a href='https://computerhoy.com/tecnologia/exceso-pantalla-puede-acabar-vista-estos-consejos-evitaran-1353654'>Así es como el exceso de pantalla puede acabar con tu vista: estos consejos lo evitarán</a></h4>
+    <a href='https://computerhoy.com/tecnologia/exceso-pantalla-puede-acabar-vista-estos-consejos-evitaran-1353654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/salud-ojos-ordenador-3256479.jpg?tf=1200x' alt='Así es como el exceso de pantalla puede acabar con tu vista: estos consejos lo evitarán' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-pros-6-contras-usar-netflix-descubre-ti-1356062'>Los 7 pros y 6 contras de usar Netflix: descubre si la plataforma es para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-pros-6-contras-usar-netflix-descubre-ti-1356062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/netflix-3260273.jpg?tf=1200x' alt='Los 7 pros y 6 contras de usar Netflix: descubre si la plataforma es para ti' />
+    <h4><a href='https://computerhoy.com/apps/logrando-objetivos-apps-habitos-como-han-conseguido-empiece-2024-buen-pie-1355028'>Logrando objetivos con aplicaciones de hábitos: así es como han conseguido que empiece 2024 con buen pie</a></h4>
+    <a href='https://computerhoy.com/apps/logrando-objetivos-apps-habitos-como-han-conseguido-empiece-2024-buen-pie-1355028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-habitos-3259319.jpg?tf=1200x' alt='Logrando objetivos con aplicaciones de hábitos: así es como han conseguido que empiece 2024 con buen pie' />
     </a>
 </div>
 
