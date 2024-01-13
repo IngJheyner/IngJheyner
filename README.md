@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-resetear-iphone-restablecer-reiniciar-ios-1354544'>Cómo resetear un iPhone: todas las opciones para restablecer o reiniciar en iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-resetear-iphone-restablecer-reiniciar-ios-1354544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143630.jpg?tf=1200x' alt='Cómo resetear un iPhone: todas las opciones para restablecer o reiniciar en iOS' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121'>Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-1356121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-utilizar-chatgpt-crear-formulas-excel-google-sheets-3259924.jpg?tf=1200x' alt='Cómo utilizar ChatGPT para crear fórmulas de Excel y Google Sheets' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiene-11000-comentarios-amazon-gente-ama-smartwatch-38-euros-tiene-llamadas-1353929'>Tiene más de 11.000 comentarios en Amazon y la gente lo ama: este smartwatch de 38 euros tiene llamadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiene-11000-comentarios-amazon-gente-ama-smartwatch-38-euros-tiene-llamadas-1353929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/blackview-x1-3256158.jpg?tf=1200x' alt='Tiene más de 11.000 comentarios en Amazon y la gente lo ama: este smartwatch de 38 euros tiene llamadas' />
+    <h4><a href='https://computerhoy.com/life/extranas-sorprendentes-coincidencias-unen-anos-1996-2024-1356551'>Las extrañas y sorprendentes coincidencias que unen los años 1996 y 2024</a></h4>
+    <a href='https://computerhoy.com/life/extranas-sorprendentes-coincidencias-unen-anos-1996-2024-1356551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/calendario-3260601.jpg?tf=1200x' alt='Las extrañas y sorprendentes coincidencias que unen los años 1996 y 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/5-peliculas-te-ayudan-estimular-mente-harvard-1351620'>5 películas que te ayudan a estimular la mente, según Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/5-peliculas-te-ayudan-estimular-mente-harvard-1351620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/5-peliculas-te-ayudan-estimular-mente-harvard-3252010.jpg?tf=1200x' alt='5 películas que te ayudan a estimular la mente, según Harvard' />
+    <h4><a href='https://computerhoy.com/espacio/lanzan-primera-campana-turismo-interestelar-nos-visiten-extraterrestres-1356548'>Lanzan la primera campaña de turismo interestelar para que nos visiten los extraterrestres</a></h4>
+    <a href='https://computerhoy.com/espacio/lanzan-primera-campana-turismo-interestelar-nos-visiten-extraterrestres-1356548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/planeta-tierra-3260593.jpg?tf=1200x' alt='Lanzan la primera campaña de turismo interestelar para que nos visiten los extraterrestres' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/exceso-pantalla-puede-acabar-vista-estos-consejos-evitaran-1353654'>Así es como el exceso de pantalla puede acabar con tu vista: estos consejos lo evitarán</a></h4>
-    <a href='https://computerhoy.com/tecnologia/exceso-pantalla-puede-acabar-vista-estos-consejos-evitaran-1353654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/salud-ojos-ordenador-3256479.jpg?tf=1200x' alt='Así es como el exceso de pantalla puede acabar con tu vista: estos consejos lo evitarán' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-wifi-nombre-red-router-casa-1353096'>Cómo cambiar la contraseña del WiFi y el nombre de la red en tu router de casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-wifi-nombre-red-router-casa-1353096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/login-password-3255548.jpg?tf=1200x' alt='Cómo cambiar la contraseña del WiFi y el nombre de la red en tu router de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/logrando-objetivos-apps-habitos-como-han-conseguido-empiece-2024-buen-pie-1355028'>Logrando objetivos con aplicaciones de hábitos: así es como han conseguido que empiece 2024 con buen pie</a></h4>
-    <a href='https://computerhoy.com/apps/logrando-objetivos-apps-habitos-como-han-conseguido-empiece-2024-buen-pie-1355028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-habitos-3259319.jpg?tf=1200x' alt='Logrando objetivos con aplicaciones de hábitos: así es como han conseguido que empiece 2024 con buen pie' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-ofrecera-transferencias-datos-usb-rapidas-windows-11-1356540'>Microsoft ofrecerá transferencias de datos USB más rápidas en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ofrecera-transferencias-datos-usb-rapidas-windows-11-1356540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/usb-ordenador-3260584.jpg?tf=1200x' alt='Microsoft ofrecerá transferencias de datos USB más rápidas en Windows 11' />
     </a>
 </div>
 
