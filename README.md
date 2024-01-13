@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/debes-hacer-dejas-ver-tdt-proximo-14-febrero-1356494'>¿Qué debes hacer si dejas de ver la TDT el próximo 14 de febrero?</a></h4>
+    <a href='https://computerhoy.com/tv/debes-hacer-dejas-ver-tdt-proximo-14-febrero-1356494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='¿Qué debes hacer si dejas de ver la TDT el próximo 14 de febrero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/go-nanai-creador-mazinger-z-museo-destruido-terremoto-japon-1356495'>Go Nagai, el creador de Mazinger Z, da una lección al descubrir que su museo ha sido destruido por el terremoto de Japón</a></h4>
+    <a href='https://computerhoy.com/go-nanai-creador-mazinger-z-museo-destruido-terremoto-japon-1356495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/go-nanai-creador-mazinger-z-da-leccion-descubrir-museo-ha-sido-destruido-terremoto-japon-3260513.jpg?tf=1200x' alt='Go Nagai, el creador de Mazinger Z, da una lección al descubrir que su museo ha sido destruido por el terremoto de Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491'>El botón secreto del Amazon Fire TV que soluciona el error de bloqueo y otros problemas de rendimiento</a></h4>
+    <a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-segundos-3260510.jpg?tf=1200x' alt='El botón secreto del Amazon Fire TV que soluciona el error de bloqueo y otros problemas de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492'>Algunos medios españoles comienzan a cobrar dinero, si no aceptas las cookies</a></h4>
+    <a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='Algunos medios españoles comienzan a cobrar dinero, si no aceptas las cookies' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483'>Un estudio revela los fondos que te hacen parecer más competente en una videollamada</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estudio-revela-fondos-zoom-te-hacen-parecer-competente-3260489.jpg?tf=1200x' alt='Un estudio revela los fondos que te hacen parecer más competente en una videollamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-120-hz-rebaja-lanzamiento-poco-x6-pro-ya-venta-viene-varias-sorpresas-1356234'>Pantalla 120 Hz y rebaja de lanzamiento: el POCO X6 Pro ya está a la venta y viene con varias sorpresas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-120-hz-rebaja-lanzamiento-poco-x6-pro-ya-venta-viene-varias-sorpresas-1356234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Pantalla 120 Hz y rebaja de lanzamiento: el POCO X6 Pro ya está a la venta y viene con varias sorpresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tivify-planta-cara-iptv-nuevo-canal-gratis-futbol-1356468'>Tivify planta cara a las IPTV con un nuevo canal gratis de fútbol</a></h4>
-    <a href='https://computerhoy.com/apps/tivify-planta-cara-iptv-nuevo-canal-gratis-futbol-1356468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='Tivify planta cara a las IPTV con un nuevo canal gratis de fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/regla-dia-expertos-seguridad-evitar-apps-espia-movil-1356463'>La regla de “una al día” de los expertos en seguridad para evitar las apps espía en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/regla-dia-expertos-seguridad-evitar-apps-espia-movil-1356463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/malware-android-3202220.jpg?tf=1200x' alt='La regla de “una al día” de los expertos en seguridad para evitar las apps espía en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/libros-clasicos-ciencia-ficcion-japoneses-1355629'>5 libros clásicos de ciencia ficción japoneses que todo fan del género debería conocer</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/libros-clasicos-ciencia-ficcion-japoneses-1355629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-libros-clasicos-ciencia-ficcion-japoneses-todo-fan-genero-deberia-conocer-3259008.jpg?tf=1200x' alt='5 libros clásicos de ciencia ficción japoneses que todo fan del género debería conocer' />
     </a>
 </div>
 
