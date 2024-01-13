@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/debes-hacer-dejas-ver-tdt-proximo-14-febrero-1356494'>¿Qué debes hacer si dejas de ver la TDT el próximo 14 de febrero?</a></h4>
-    <a href='https://computerhoy.com/tv/debes-hacer-dejas-ver-tdt-proximo-14-febrero-1356494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='¿Qué debes hacer si dejas de ver la TDT el próximo 14 de febrero?' />
+    <h4><a href='https://computerhoy.com/life/fallece-cavar-agujero-40-metros-cocina-buscando-oro-1356501'>Un hombre fallece tras cavar un agujero de 40 metros en la cocina, porque soñó que encontraría oro</a></h4>
+    <a href='https://computerhoy.com/life/fallece-cavar-agujero-40-metros-cocina-buscando-oro-1356501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-fallece-cavar-agujero-40-metros-cocina-porque-sono-encontraria-oro-3260534.jpg?tf=1200x' alt='Un hombre fallece tras cavar un agujero de 40 metros en la cocina, porque soñó que encontraría oro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/go-nanai-creador-mazinger-z-museo-destruido-terremoto-japon-1356495'>Go Nagai, el creador de Mazinger Z, da una lección al descubrir que su museo ha sido destruido por el terremoto de Japón</a></h4>
-    <a href='https://computerhoy.com/go-nanai-creador-mazinger-z-museo-destruido-terremoto-japon-1356495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/go-nanai-creador-mazinger-z-da-leccion-descubrir-museo-ha-sido-destruido-terremoto-japon-3260513.jpg?tf=1200x' alt='Go Nagai, el creador de Mazinger Z, da una lección al descubrir que su museo ha sido destruido por el terremoto de Japón' />
+    <h4><a href='https://computerhoy.com/apple/todo-apple-tiene-preparado-2024-nuevos-mac-iphone-ipad-1354975'>Todo lo que Apple tiene preparado para ti en 2024: nuevos Mac, iPhone, iPad y más llegarán este año</a></h4>
+    <a href='https://computerhoy.com/apple/todo-apple-tiene-preparado-2024-nuevos-mac-iphone-ipad-1354975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dispositivos-apple-3257897.jpg?tf=1200x' alt='Todo lo que Apple tiene preparado para ti en 2024: nuevos Mac, iPhone, iPad y más llegarán este año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491'>El botón secreto del Amazon Fire TV que soluciona el error de bloqueo y otros problemas de rendimiento</a></h4>
-    <a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-segundos-3260510.jpg?tf=1200x' alt='El botón secreto del Amazon Fire TV que soluciona el error de bloqueo y otros problemas de rendimiento' />
+    <h4><a href='https://computerhoy.com/life/caso-pet-rock-broma-cuidar-piedra-termino-haciendo-millonario-creador-1355828'>El caso de Pet Rock, la broma de cuidar una piedra que terminó haciendo millonario a su creador</a></h4>
+    <a href='https://computerhoy.com/life/caso-pet-rock-broma-cuidar-piedra-termino-haciendo-millonario-creador-1355828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pet-rock-millonario-3260105.jpg?tf=1200x' alt='El caso de Pet Rock, la broma de cuidar una piedra que terminó haciendo millonario a su creador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492'>Los medios de comunicación españoles comienzan a cobrar una suscripción, si no aceptas las cookies</a></h4>
-    <a href='https://computerhoy.com/tecnologia/medios-espanoles-comienzan-cobrar-dinero-no-aceptas-cookies-1356492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/datos-first-party-como-webs-recopilaran-datos-cuando-desaparezcan-cookies-2022-2382493.jpg?tf=1200x' alt='Los medios de comunicación españoles comienzan a cobrar una suscripción, si no aceptas las cookies' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391'>Mejores relojes inteligentes para personas mayores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-personas-mayores-puedes-comprar-1002391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-3075352.jpg?tf=1200x' alt='Mejores relojes inteligentes para personas mayores que puedes comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483'>Un estudio revela los fondos que te hacen parecer más competente en una videollamada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-fondos-videollamada-te-hacen-parecer-competente-1356483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estudio-revela-fondos-zoom-te-hacen-parecer-competente-3260489.jpg?tf=1200x' alt='Un estudio revela los fondos que te hacen parecer más competente en una videollamada' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-pros-6-contras-usar-netflix-descubre-ti-1356062'>Los 7 pros y 6 contras de usar Netflix: descubre si la plataforma es para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-pros-6-contras-usar-netflix-descubre-ti-1356062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/netflix-3260273.jpg?tf=1200x' alt='Los 7 pros y 6 contras de usar Netflix: descubre si la plataforma es para ti' />
     </a>
 </div>
 
