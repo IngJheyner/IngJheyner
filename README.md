@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616'>Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos</a></h4>
+    <a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615'>Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café</a></h4>
     <a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/figure-101-3260663.jpg?tf=1200x' alt='Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cantidad-pasos-deberias-dar-cada-dia-vivir-muchos-anos-1356585'>Esta es la cantidad de pasos que deberías dar cada día para vivir muchos años</a></h4>
     <a href='https://computerhoy.com/life/cantidad-pasos-deberias-dar-cada-dia-vivir-muchos-anos-1356585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/caminar-3260634.jpg?tf=1200x' alt='Esta es la cantidad de pasos que deberías dar cada día para vivir muchos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-te-permitira-crear-fondos-pantalla-personalizados-usando-ia-1356582'>Google Chrome te permitirá crear fondos de pantalla personalizados usando IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-te-permitira-crear-fondos-pantalla-personalizados-usando-ia-1356582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/logo-chrome-color-blanco-negro-3100910.jpg?tf=1200x' alt='Google Chrome te permitirá crear fondos de pantalla personalizados usando IA' />
     </a>
 </div>
 
