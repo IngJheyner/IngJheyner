@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-spotify-crean-servicio-musica-solo-perros-1356613'>Tiembla Spotify: Crean un servicio de música solo para perros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-spotify-crean-servicio-musica-solo-perros-1356613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/one-one-music-3260657.jpg?tf=1200x' alt='Tiembla Spotify: Crean un servicio de música solo para perros' />
+    <h4><a href='https://computerhoy.com/espacio/cuanto-cuesta-viajar-espacio-1356639'>Esto es lo que tienes que pagar si quieres viajar al espacio con Space X, Virgin Galactic, Blue Origin y otras</a></h4>
+    <a href='https://computerhoy.com/espacio/cuanto-cuesta-viajar-espacio-1356639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienes-pagar-quieres-viajar-espacio-space-x-virgin-galactic-blue-origin-otras-3260712.jpg?tf=1200x' alt='Esto es lo que tienes que pagar si quieres viajar al espacio con Space X, Virgin Galactic, Blue Origin y otras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/calienta-segundos-bolsillo-radiador-ideal-espacios-pequenos-1356311'>Calienta en segundos y cabe en el bolsillo: este radiador es ideal para espacios pequeños</a></h4>
-    <a href='https://computerhoy.com/tecnologia/calienta-segundos-bolsillo-radiador-ideal-espacios-pequenos-1356311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/calefactor-ceramico-aliexpress-3260191.jpg?tf=1200x' alt='Calienta en segundos y cabe en el bolsillo: este radiador es ideal para espacios pequeños' />
+    <h4><a href='https://computerhoy.com/moviles/estas-enganchado-tecnologia-adiccion-moviles-va-manos-70-espanoles-admite-1348298'>¿Estás enganchado a la tecnología? La adicción a los móviles se va de las manos y el 70% de los españoles lo admite</a></h4>
+    <a href='https://computerhoy.com/moviles/estas-enganchado-tecnologia-adiccion-moviles-va-manos-70-espanoles-admite-1348298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adiccion-moviles-3248036.jpg?tf=1200x' alt='¿Estás enganchado a la tecnología? La adicción a los móviles se va de las manos y el 70% de los españoles lo admite' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631'>HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hzo-presenta-parylene-capa-protectora-invisible-sumergir-cualquier-dispositivo-agua-3260685.jpg?tf=1200x' alt='HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua' />
+    <h4><a href='https://computerhoy.com/tecnologia/red-neuronal-como-funciona-maravilla-inteligencia-artificial-1351834'>¿Qué es una red neuronal y cómo funciona esta maravilla de la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/red-neuronal-como-funciona-maravilla-inteligencia-artificial-1351834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704970323440-3259579.jpg?tf=1200x' alt='¿Qué es una red neuronal y cómo funciona esta maravilla de la inteligencia artificial?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616'>Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos</a></h4>
-    <a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos' />
+    <h4><a href='https://computerhoy.com/moviles/como-lidian-padres-primer-smartphone-hijos-1352279'>Ya está pidiendo un móvil: ¿Cómo lidian los padres con el primer smartphone de sus hijos? Esta es la opinión de una psicóloga</a></h4>
+    <a href='https://computerhoy.com/moviles/como-lidian-padres-primer-smartphone-hijos-1352279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-padres-hijos-3256470.jpg?tf=1200x' alt='Ya está pidiendo un móvil: ¿Cómo lidian los padres con el primer smartphone de sus hijos? Esta es la opinión de una psicóloga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615'>Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/figure-101-3260663.jpg?tf=1200x' alt='Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café' />
+    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-piratas-3139196.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
     </a>
 </div>
 
