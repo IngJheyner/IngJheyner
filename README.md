@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-compania-mas-valiosa-mundo-superando-apple-1356736'>La inteligencia artificial gana al iPhone: Microsoft ya es la compañía más valiosa del mundo, superando a Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-compania-mas-valiosa-mundo-superando-apple-1356736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/satya-nadella-ceo-microsoft-2932918.jpg?tf=1200x' alt='La inteligencia artificial gana al iPhone: Microsoft ya es la compañía más valiosa del mundo, superando a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-suaviza-postura-uso-chatgpt-fines-militares-supone-partir-ahora-1356689'>OpenAI suaviza su postura sobre el uso de ChatGPT con fines militares, y esto es lo que supone a partir de ahora</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-suaviza-postura-uso-chatgpt-fines-militares-supone-partir-ahora-1356689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-3015138.jpg?tf=1200x' alt='OpenAI suaviza su postura sobre el uso de ChatGPT con fines militares, y esto es lo que supone a partir de ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663'>Tu nuevo compañero de clase podría ser una inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ferris-state-university-3260758.jpg?tf=1200x' alt='Tu nuevo compañero de clase podría ser una inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123'>Cómo compartir la contraseña del WiFi en iPhone y Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Cómo compartir la contraseña del WiFi en iPhone y Android' />
     </a>
 </div>
 
