@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631'>HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hzo-presenta-parylene-capa-protectora-invisible-sumergir-cualquier-dispositivo-agua-3260685.jpg?tf=1200x' alt='HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616'>Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos</a></h4>
     <a href='https://computerhoy.com/audio/mejores-auriculares-cancelacion-ruido-estan-ahora-150-euros-menos-1356616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido cuestan ahora 150 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/otra-caracteristica-creia-exclusiva-windows-11-llegara-tambien-windows-10-1356586'>Otra característica que se creía exclusiva de Windows 11 llegará también a Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/otra-caracteristica-creia-exclusiva-windows-11-llegara-tambien-windows-10-1356586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Otra característica que se creía exclusiva de Windows 11 llegará también a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cantidad-pasos-deberias-dar-cada-dia-vivir-muchos-anos-1356585'>Esta es la cantidad de pasos que deberías dar cada día para vivir muchos años</a></h4>
-    <a href='https://computerhoy.com/life/cantidad-pasos-deberias-dar-cada-dia-vivir-muchos-anos-1356585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/caminar-3260634.jpg?tf=1200x' alt='Esta es la cantidad de pasos que deberías dar cada día para vivir muchos años' />
     </a>
 </div>
 
