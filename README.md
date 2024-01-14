@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuanto-cuesta-viajar-espacio-1356639'>Esto es lo que tienes que pagar si quieres viajar al espacio con Space X, Virgin Galactic, Blue Origin y otras</a></h4>
-    <a href='https://computerhoy.com/espacio/cuanto-cuesta-viajar-espacio-1356639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienes-pagar-quieres-viajar-espacio-space-x-virgin-galactic-blue-origin-otras-3260712.jpg?tf=1200x' alt='Esto es lo que tienes que pagar si quieres viajar al espacio con Space X, Virgin Galactic, Blue Origin y otras' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663'>Tu nuevo compañero de clase podría ser una inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ferris-state-university-3260758.jpg?tf=1200x' alt='Tu nuevo compañero de clase podría ser una inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estas-enganchado-tecnologia-adiccion-moviles-va-manos-70-espanoles-admite-1348298'>¿Estás enganchado a la tecnología? La adicción a los móviles se va de las manos y el 70% de los españoles lo admite</a></h4>
-    <a href='https://computerhoy.com/moviles/estas-enganchado-tecnologia-adiccion-moviles-va-manos-70-espanoles-admite-1348298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adiccion-moviles-3248036.jpg?tf=1200x' alt='¿Estás enganchado a la tecnología? La adicción a los móviles se va de las manos y el 70% de los españoles lo admite' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123'>Cómo compartir la contraseña del WiFi en iPhone y Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Cómo compartir la contraseña del WiFi en iPhone y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/red-neuronal-como-funciona-maravilla-inteligencia-artificial-1351834'>¿Qué es una red neuronal y cómo funciona esta maravilla de la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/red-neuronal-como-funciona-maravilla-inteligencia-artificial-1351834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1704970323440-3259579.jpg?tf=1200x' alt='¿Qué es una red neuronal y cómo funciona esta maravilla de la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-hace-cocteles-funcion-emociones-clientes-1356661'>El robot que hace cócteles en función de las emociones de los clientes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-hace-cocteles-funcion-emociones-clientes-1356661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mixmaster-moodie-3260755.jpg?tf=1200x' alt='El robot que hace cócteles en función de las emociones de los clientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-lidian-padres-primer-smartphone-hijos-1352279'>Ya está pidiendo un móvil: ¿Cómo lidian los padres con el primer smartphone de sus hijos? Esta es la opinión de una psicóloga</a></h4>
-    <a href='https://computerhoy.com/moviles/como-lidian-padres-primer-smartphone-hijos-1352279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-padres-hijos-3256470.jpg?tf=1200x' alt='Ya está pidiendo un móvil: ¿Cómo lidian los padres con el primer smartphone de sus hijos? Esta es la opinión de una psicóloga' />
+    <h4><a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216'>Las 6 mejores webs para escanear y eliminar virus gratis</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-mejores-webs-escanear-eliminar-virus-gratis-3260003.jpg?tf=1200x' alt='Las 6 mejores webs para escanear y eliminar virus gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768'>Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/amazon/televisores-32-pulgadas-debes-tener-cuenta-cuales-son-mejores-1208768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-piratas-3139196.jpg?tf=1200x' alt='Televisores de 32 pulgadas: qué debes tener en cuenta y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-creara-simulador-realidad-aumentada-entrenamiento-fuerza-espacial-estados-unidos-1356655'>Microsoft creará un simulador de realidad aumentada para el entrenamiento de la Fuerza Espacial de Estados Unidos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-creara-simulador-realidad-aumentada-entrenamiento-fuerza-espacial-estados-unidos-1356655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/realidad-mixta-hololens-3260746.jpg?tf=1200x' alt='Microsoft creará un simulador de realidad aumentada para el entrenamiento de la Fuerza Espacial de Estados Unidos ' />
     </a>
 </div>
 
