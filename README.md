@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/ceo-hyperverse-era-actor-fondo-criptos-estafa-1300-millones-1356751'>El CEO era un actor: así estafó 1.200 millones de euros esta empresa de criptomonedas</a></h4>
+    <a href='https://computerhoy.com/criptos/ceo-hyperverse-era-actor-fondo-criptos-estafa-1300-millones-1356751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ceo-era-actor-estafo-1300-millones-euros-empresa-criptomonedas-3260897.jpg?tf=1200x' alt='El CEO era un actor: así estafó 1.200 millones de euros esta empresa de criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientos-productos-amazon-llaman-peticion-contra-politica-openai-1356746'>Por qué docenas de productos de Amazon y eBay se llaman "Lo siento, su petición va en contra de la política de OpenAI"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientos-productos-amazon-llaman-peticion-contra-politica-openai-1356746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientos-productos-amazon-ebay-llaman-siento-peticion-va-politica-openai-3260887.jpg?tf=1200x' alt='Por qué docenas de productos de Amazon y eBay se llaman "Lo siento, su petición va en contra de la política de OpenAI"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-compania-mas-valiosa-mundo-superando-apple-1356736'>La inteligencia artificial gana al iPhone: Microsoft ya es la compañía más valiosa del mundo, superando a Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-compania-mas-valiosa-mundo-superando-apple-1356736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/satya-nadella-ceo-microsoft-2932918.jpg?tf=1200x' alt='La inteligencia artificial gana al iPhone: Microsoft ya es la compañía más valiosa del mundo, superando a Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-robot-humanoide-capaz-realizar-todas-tareas-hogar-1356670'>Google DeepMind crea un robot humanoide capaz de realizar todas las tareas del hogar</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-robot-humanoide-capaz-realizar-todas-tareas-hogar-1356670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mobile-aloha-3260765.jpg?tf=1200x' alt='Google DeepMind crea un robot humanoide capaz de realizar todas las tareas del hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-curriculum-inteligencia-artificial-1356133'>Cómo hacer un currículum perfecto utilizando Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-curriculum-inteligencia-artificial-1356133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-curriculum-inteligencia-artificial-3259967.jpg?tf=1200x' alt='Cómo hacer un currículum perfecto utilizando Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663'>Tu nuevo compañero de clase podría ser una inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ferris-state-university-3260758.jpg?tf=1200x' alt='Tu nuevo compañero de clase podría ser una inteligencia artificial' />
     </a>
 </div>
 
