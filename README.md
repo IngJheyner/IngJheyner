@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-spotify-crean-servicio-musica-solo-perros-1356613'>Tiembla Spotify: Crean un servicio de música solo para perros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-spotify-crean-servicio-musica-solo-perros-1356613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/one-one-music-3260657.jpg?tf=1200x' alt='Tiembla Spotify: Crean un servicio de música solo para perros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/calienta-segundos-bolsillo-radiador-ideal-espacios-pequenos-1356311'>Calienta en segundos y cabe en el bolsillo: este radiador es ideal para espacios pequeños</a></h4>
+    <a href='https://computerhoy.com/tecnologia/calienta-segundos-bolsillo-radiador-ideal-espacios-pequenos-1356311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/calefactor-ceramico-aliexpress-3260191.jpg?tf=1200x' alt='Calienta en segundos y cabe en el bolsillo: este radiador es ideal para espacios pequeños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631'>HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua</a></h4>
     <a href='https://computerhoy.com/tecnologia/parylene-capa-invisible-sumergir-raspberry-pi-1356631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hzo-presenta-parylene-capa-protectora-invisible-sumergir-cualquier-dispositivo-agua-3260685.jpg?tf=1200x' alt='HZO presenta Parylene, una capa protectora invisible para sumergir cualquier dispositivo bajo el agua' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615'>Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café</a></h4>
     <a href='https://computerhoy.com/tecnologia/fabrican-robot-humanoide-impulsado-inteligencia-artificial-capaz-prepararte-mejor-cafe-1356615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/figure-101-3260663.jpg?tf=1200x' alt='Fabrican un robot humanoide impulsado por inteligencia artificial capaz de prepararte el mejor café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-openai-habla-futuro-chatgpt-1356610'>Sam Altman de OpenAI habla sobre el futuro ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-openai-habla-futuro-chatgpt-1356610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman de OpenAI habla sobre el futuro ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/otra-caracteristica-creia-exclusiva-windows-11-llegara-tambien-windows-10-1356586'>Otra característica que se creía exclusiva de Windows 11 llegará también a Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/otra-caracteristica-creia-exclusiva-windows-11-llegara-tambien-windows-10-1356586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Otra característica que se creía exclusiva de Windows 11 llegará también a Windows 10' />
     </a>
 </div>
 
