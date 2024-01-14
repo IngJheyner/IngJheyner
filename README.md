@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-suaviza-postura-uso-chatgpt-fines-militares-supone-partir-ahora-1356689'>OpenAI suaviza su postura sobre el uso de ChatGPT con fines militares, y esto es lo que supone a partir de ahora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-suaviza-postura-uso-chatgpt-fines-militares-supone-partir-ahora-1356689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-hackear-chatgpt-salte-politicas-openai-resultado-3015138.jpg?tf=1200x' alt='OpenAI suaviza su postura sobre el uso de ChatGPT con fines militares, y esto es lo que supone a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-robot-humanoide-capaz-realizar-todas-tareas-hogar-1356670'>Google DeepMind crea un robot humanoide capaz de realizar todas las tareas del hogar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-robot-humanoide-capaz-realizar-todas-tareas-hogar-1356670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mobile-aloha-3260765.jpg?tf=1200x' alt='Google DeepMind crea un robot humanoide capaz de realizar todas las tareas del hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-curriculum-inteligencia-artificial-1356133'>Cómo hacer un currículum perfecto utilizando Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-curriculum-inteligencia-artificial-1356133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-curriculum-inteligencia-artificial-3259967.jpg?tf=1200x' alt='Cómo hacer un currículum perfecto utilizando Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663'>Tu nuevo compañero de clase podría ser una inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-companero-clase-podria-ser-estudiante-inteligencia-artificial-1356663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ferris-state-university-3260758.jpg?tf=1200x' alt='Tu nuevo compañero de clase podría ser una inteligencia artificial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123'>Cómo compartir la contraseña del WiFi en iPhone y Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-contrasena-wifi-iphone-android-1352123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Cómo compartir la contraseña del WiFi en iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-hace-cocteles-funcion-emociones-clientes-1356661'>El robot que hace cócteles en función de las emociones de los clientes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-hace-cocteles-funcion-emociones-clientes-1356661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mixmaster-moodie-3260755.jpg?tf=1200x' alt='El robot que hace cócteles en función de las emociones de los clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216'>Las 6 mejores webs para escanear y eliminar virus gratis</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-mejores-webs-escanear-eliminar-virus-gratis-3260003.jpg?tf=1200x' alt='Las 6 mejores webs para escanear y eliminar virus gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-creara-simulador-realidad-aumentada-entrenamiento-fuerza-espacial-estados-unidos-1356655'>Microsoft creará un simulador de realidad aumentada para el entrenamiento de la Fuerza Espacial de Estados Unidos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-creara-simulador-realidad-aumentada-entrenamiento-fuerza-espacial-estados-unidos-1356655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/realidad-mixta-hololens-3260746.jpg?tf=1200x' alt='Microsoft creará un simulador de realidad aumentada para el entrenamiento de la Fuerza Espacial de Estados Unidos ' />
     </a>
 </div>
 
