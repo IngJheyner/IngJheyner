@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores</a></h4>
-    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prueba-cerveza-steve-jobs-contratar-mantener-empleados-3261453.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores' />
+    <h4><a href='https://computerhoy.com/apps/mejor-momento-dia-conectarte-aplicaciones-citas-conseguir-muchos-match-1357068'>El mejor momento del día para conectarte a las aplicaciones de citas para conseguir muchos match</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-momento-dia-conectarte-aplicaciones-citas-conseguir-muchos-match-1357068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicacion-citas-2760835.jpg?tf=1200x' alt='El mejor momento del día para conectarte a las aplicaciones de citas para conseguir muchos match' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960'>La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-3261314.jpg?tf=1200x' alt='La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores' />
+    <h4><a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067'>El asteroide no fue el único causante de la extinción de los dinosaurios</a></h4>
+    <a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extincion-dinosaurios-3261501.jpg?tf=1200x' alt='El asteroide no fue el único causante de la extinción de los dinosaurios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-bateria-solar-infinita-carga-solo-tiene-gps-garmin-pay-1356703'>Este Garmin tiene batería solar infinita: se carga solo, tiene GPS y hasta Garmin Pay</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-tiene-bateria-solar-infinita-carga-solo-tiene-gps-garmin-pay-1356703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin tiene batería solar infinita: se carga solo, tiene GPS y hasta Garmin Pay' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/senales-alerta-tienes-virus-iphone-1357009'>Estas señales te pueden alertar a tiempo de que hay un virus en tu iPhone </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/senales-alerta-tienes-virus-iphone-1357009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-senales-te-pueden-alertar-virus-iphone-3261416.jpg?tf=1200x' alt='Estas señales te pueden alertar a tiempo de que hay un virus en tu iPhone ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/temes-te-espien-puedes-saber-hay-camaras-ocultas-airbnb-1356917'>¿Temes que te espíen de vacaciones? Así puedes saber si hay cámaras ocultas en tu hotel o Airbnb</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/temes-te-espien-puedes-saber-hay-camaras-ocultas-airbnb-1356917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/camaras-ocultas-espionaje-3261268.jpg?tf=1200x' alt='¿Temes que te espíen de vacaciones? Así puedes saber si hay cámaras ocultas en tu hotel o Airbnb' />
+    <h4><a href='https://computerhoy.com/moviles/funda-convierte-cualquier-movil-camara-submarina-1357058'>Esta funda convierte cualquier móvil en una cámara submarina</a></h4>
+    <a href='https://computerhoy.com/moviles/funda-convierte-cualquier-movil-camara-submarina-1357058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705337428998-3261456.jpg?tf=1200x' alt='Esta funda convierte cualquier móvil en una cámara submarina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/veia-venir-usan-tienda-gpt-openai-crear-chatbots-imitan-novia-humana-1356901'>Se veía venir: usan la GPT Store de OpenAI para crear chatbots que imitan a una novia humana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/veia-venir-usan-tienda-gpt-openai-crear-chatbots-imitan-novia-humana-1356901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienda-gpt-chatbots-3261249.jpg?tf=1200x' alt='Se veía venir: usan la GPT Store de OpenAI para crear chatbots que imitan a una novia humana' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-encuentra-rayos-gamma-magnitud-10-veces-mayor-esperado-1356978'>La NASA encuentra rayos gamma de una magnitud 10 veces superior a lo que esperaba en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-encuentra-rayos-gamma-magnitud-10-veces-mayor-esperado-1356978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-encuentra-rayos-gamma-magnitud-10-veces-superior-esperaba-espacio-3261371.jpg?tf=1200x' alt='La NASA encuentra rayos gamma de una magnitud 10 veces superior a lo que esperaba en el espacio' />
     </a>
 </div>
 
