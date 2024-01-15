@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843'>Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huella-dactilar-3261133.jpg?tf=1200x' alt='Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas' />
+    <h4><a href='https://computerhoy.com/google/android-auto-111-ya-disponible-estas-son-novedades-trae-1356811'>Android Auto 11.1 ya está disponible y estas son las novedades que trae</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-111-ya-disponible-estas-son-novedades-trae-1356811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-auto-111-3260998.jpg?tf=1200x' alt='Android Auto 11.1 ya está disponible y estas son las novedades que trae' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419'>Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-pro-5g-primeras-impresiones-3260414.jpg?tf=1200x' alt='Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-gaming-pepino-i7-rtx-3060-tiene-casi-700-euros-descuento-1356789'>Este portátil gaming es un pepino con i7 y RTX 3060 que tiene casi 700 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-gaming-pepino-i7-rtx-3060-tiene-casi-700-euros-descuento-1356789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/acer-nitro-5-3260954.jpg?tf=1200x' alt='Este portátil gaming es un pepino con i7 y RTX 3060 que tiene casi 700 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/serie-xiaomi-redmi-note-13-caracteristicas-precios-disponibilidad-1356357'>La serie Redmi Note 13 ya es oficial: Xiaomi vuelve a la carga con su familia más asequible</a></h4>
-    <a href='https://computerhoy.com/moviles/serie-xiaomi-redmi-note-13-caracteristicas-precios-disponibilidad-1356357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-series-caracteristicas-opciones-precio-3260396.jpg?tf=1200x' alt='La serie Redmi Note 13 ya es oficial: Xiaomi vuelve a la carga con su familia más asequible' />
+    <h4><a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802'>YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas</a></h4>
+    <a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/youtube-ralentiza-videos-3260965.jpg?tf=1200x' alt='YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-cheetah-precio-minimo-historico-1356798'>Este reloj Amazfit quiere apretarle al Apple Watch: usa IA y es perfecto para running</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-cheetah-precio-minimo-historico-1356798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='Este reloj Amazfit quiere apretarle al Apple Watch: usa IA y es perfecto para running' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656'>Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-analisis-opinion-3259819.jpg?tf=1200x' alt='Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyecto-cerca-conseguir-robots-capaces-recoger-casa-intervenir-cirugia-1356824'>Este proyecto está cerca de crear robots capaces de hacerlo todo: desde recoger tu casa hasta intervenir en una cirugía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyecto-cerca-conseguir-robots-capaces-recoger-casa-intervenir-cirugia-1356824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-3261066.jpg?tf=1200x' alt='Este proyecto está cerca de crear robots capaces de hacerlo todo: desde recoger tu casa hasta intervenir en una cirugía' />
+    <h4><a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778'>No podrás creer que existan: estos son los museos más extraños de España</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/museo-original-3260902.jpg?tf=1200x' alt='No podrás creer que existan: estos son los museos más extraños de España' />
     </a>
 </div>
 
