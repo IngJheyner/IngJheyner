@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/triste-final-modulo-peregrine-no-ha-llegado-luna-1356764'>Ya sabemos cuál será el triste final del módulo Peregrine, la misión privada que no ha alcanzado la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/triste-final-modulo-peregrine-no-ha-llegado-luna-1356764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/modulo-privado-peregrine-aterrizara-luna-nochebuena-transporta-cenizas-muertos-bitcoin-cosas-3242956.jpg?tf=1200x' alt='Ya sabemos cuál será el triste final del módulo Peregrine, la misión privada que no ha alcanzado la Luna' />
+    <h4><a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802'>YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas</a></h4>
+    <a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/youtube-ralentiza-videos-3260965.jpg?tf=1200x' alt='YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-ya-fabrica-70000-raspberry-pi-5-semana-stock-todos-1356757'>Raspberry Pi ya fabrica 280.000 Raspberry Pi 5 al mes, y le da las gracias a... Sony</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-ya-fabrica-70000-raspberry-pi-5-semana-stock-todos-1356757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/raspberry-pi-ya-fabrica-70000-raspberry-pi-5-semana-da-gracias-sony-3260901.jpg?tf=1200x' alt='Raspberry Pi ya fabrica 280.000 Raspberry Pi 5 al mes, y le da las gracias a... Sony' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656'>Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-analisis-opinion-3259819.jpg?tf=1200x' alt='Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-arrasa-aliexpress-tiene-llamadas-panel-amoled-cuesta-17-euros-1355287'>Este reloj arrasa en AliExpress: tiene llamadas, panel AMOLED y cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-arrasa-aliexpress-tiene-llamadas-panel-amoled-cuesta-17-euros-1355287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/zeblaze-gts-3-pro-3258345.jpg?tf=1200x' alt='Este reloj arrasa en AliExpress: tiene llamadas, panel AMOLED y cuesta menos de 20 euros' />
+    <h4><a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778'>No podrás creer que existan: estos son los museos más extraños de España</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/museo-original-3260902.jpg?tf=1200x' alt='No podrás creer que existan: estos son los museos más extraños de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/ceo-hyperverse-era-actor-fondo-criptos-estafa-1300-millones-1356751'>El CEO era un actor: así estafó 1.200 millones de euros esta empresa de criptomonedas</a></h4>
-    <a href='https://computerhoy.com/criptos/ceo-hyperverse-era-actor-fondo-criptos-estafa-1300-millones-1356751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ceo-era-actor-estafo-1300-millones-euros-empresa-criptomonedas-3260897.jpg?tf=1200x' alt='El CEO era un actor: así estafó 1.200 millones de euros esta empresa de criptomonedas' />
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-ninos-cuales-son-mejores-fijarte-1356777'>Relojes inteligentes para niños: cuáles son los mejores y en qué fijarte</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-ninos-cuales-son-mejores-fijarte-1356777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/vtech-reloj-infantil-3260939.jpg?tf=1200x' alt='Relojes inteligentes para niños: cuáles son los mejores y en qué fijarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientos-productos-amazon-llaman-peticion-contra-politica-openai-1356746'>Por qué docenas de productos de Amazon y eBay se llaman "Lo siento, su petición va en contra de la política de OpenAI"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientos-productos-amazon-llaman-peticion-contra-politica-openai-1356746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientos-productos-amazon-ebay-llaman-siento-peticion-va-politica-openai-3260887.jpg?tf=1200x' alt='Por qué docenas de productos de Amazon y eBay se llaman "Lo siento, su petición va en contra de la política de OpenAI"' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-quien-construyo-gigante-cerne-abbas-quien-representa-1356774'>Por fin descubren quién construyó el Gigante de Cerne Abbas, y a quién representa</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-quien-construyo-gigante-cerne-abbas-quien-representa-1356774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fin-descubren-quien-construyo-gigante-cerne-abbas-quien-representa-3260932.jpg?tf=1200x' alt='Por fin descubren quién construyó el Gigante de Cerne Abbas, y a quién representa' />
     </a>
 </div>
 
