@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960'>La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-3261314.jpg?tf=1200x' alt='La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-bateria-solar-infinita-carga-solo-tiene-gps-garmin-pay-1356703'>Este Garmin tiene batería solar infinita: se carga solo, tiene GPS y hasta Garmin Pay</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-tiene-bateria-solar-infinita-carga-solo-tiene-gps-garmin-pay-1356703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin tiene batería solar infinita: se carga solo, tiene GPS y hasta Garmin Pay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/temes-te-espien-puedes-saber-hay-camaras-ocultas-airbnb-1356917'>¿Temes que te espíen de vacaciones? Así puedes saber si hay cámaras ocultas en tu hotel o Airbnb</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/temes-te-espien-puedes-saber-hay-camaras-ocultas-airbnb-1356917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/camaras-ocultas-espionaje-3261268.jpg?tf=1200x' alt='¿Temes que te espíen de vacaciones? Así puedes saber si hay cámaras ocultas en tu hotel o Airbnb' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-punto-lanzar-funcion-seguro-alegra-empresa-influencer-1356880'>WhatsApp a punto de lanzar una función que seguro que alegra a más de una empresa o influencer</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-punto-lanzar-funcion-seguro-alegra-empresa-influencer-1356880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-funciones-3113448.jpg?tf=1200x' alt='WhatsApp a punto de lanzar una función que seguro que alegra a más de una empresa o influencer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843'>Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huella-dactilar-3261133.jpg?tf=1200x' alt='Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419'>Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-pro-5g-primeras-impresiones-3260414.jpg?tf=1200x' alt='Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G' />
     </a>
 </div>
 
