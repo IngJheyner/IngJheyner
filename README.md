@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527'>La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores</a></h4>
+    <a href='https://computerhoy.com/noticias/life/prueba-cerveza-steve-jobs-contratar-mantener-mejores-empleados-1141527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prueba-cerveza-steve-jobs-contratar-mantener-empleados-3261453.jpg?tf=1200x' alt='La prueba de la cerveza de Steve Jobs para contratar y mantener a sus mejores trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960'>La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-1356960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-alerta-regreso-estafa-clasica-personas-mayores-3261314.jpg?tf=1200x' alt='La Guardia Civil alerta del regreso de esta estafa “clásica” a personas mayores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/veia-venir-usan-tienda-gpt-openai-crear-chatbots-imitan-novia-humana-1356901'>Se veía venir: usan la GPT Store de OpenAI para crear chatbots que imitan a una novia humana</a></h4>
     <a href='https://computerhoy.com/tecnologia/veia-venir-usan-tienda-gpt-openai-crear-chatbots-imitan-novia-humana-1356901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienda-gpt-chatbots-3261249.jpg?tf=1200x' alt='Se veía venir: usan la GPT Store de OpenAI para crear chatbots que imitan a una novia humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-punto-lanzar-funcion-seguro-alegra-empresa-influencer-1356880'>WhatsApp a punto de lanzar una función que seguro que alegra a más de una empresa o influencer</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-punto-lanzar-funcion-seguro-alegra-empresa-influencer-1356880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-funciones-3113448.jpg?tf=1200x' alt='WhatsApp a punto de lanzar una función que seguro que alegra a más de una empresa o influencer' />
     </a>
 </div>
 
