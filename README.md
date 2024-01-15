@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802'>YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas</a></h4>
-    <a href='https://computerhoy.com/google/youtube-nuevo-bloqueadores-anuncios-ahora-ralentizara-videos-usas-1356802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/youtube-ralentiza-videos-3260965.jpg?tf=1200x' alt='YouTube de nuevo contra los bloqueadores de anuncios: ahora ralentizará los vídeos si los usas' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843'>Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudio-acaba-revelar-huellas-dactilares-no-son-tan-unicas-como-pensabas-1356843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huella-dactilar-3261133.jpg?tf=1200x' alt='Este estudio acaba de revelar que tus huellas dactilares no son tan únicas como pensabas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656'>Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-matebook-d16-2024-analisis-opinion-1350656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-analisis-opinion-3259819.jpg?tf=1200x' alt='Huawei MateBook D16 2024, un portátil potente y con una de las mejores pantallas del mercado' />
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419'>Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-nuevo-redmi-note-pro-5g-1356419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-pro-5g-primeras-impresiones-3260414.jpg?tf=1200x' alt='Lo que más me ha gustado tras probar unos minutos el nuevo Redmi Note Pro+ 5G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778'>No podrás creer que existan: estos son los museos más extraños de España</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-museos-extranos-espana-1327778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/museo-original-3260902.jpg?tf=1200x' alt='No podrás creer que existan: estos son los museos más extraños de España' />
+    <h4><a href='https://computerhoy.com/moviles/serie-xiaomi-redmi-note-13-caracteristicas-precios-disponibilidad-1356357'>La serie Redmi Note 13 ya es oficial: Xiaomi vuelve a la carga con su familia más asequible</a></h4>
+    <a href='https://computerhoy.com/moviles/serie-xiaomi-redmi-note-13-caracteristicas-precios-disponibilidad-1356357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-series-caracteristicas-opciones-precio-3260396.jpg?tf=1200x' alt='La serie Redmi Note 13 ya es oficial: Xiaomi vuelve a la carga con su familia más asequible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-ninos-cuales-son-mejores-fijarte-1356777'>Relojes inteligentes para niños: cuáles son los mejores y en qué fijarte</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-ninos-cuales-son-mejores-fijarte-1356777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/vtech-reloj-infantil-3260939.jpg?tf=1200x' alt='Relojes inteligentes para niños: cuáles son los mejores y en qué fijarte' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-cheetah-precio-minimo-historico-1356798'>Este reloj Amazfit quiere apretarle al Apple Watch: usa IA y es perfecto para running</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-cheetah-precio-minimo-historico-1356798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='Este reloj Amazfit quiere apretarle al Apple Watch: usa IA y es perfecto para running' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-quien-construyo-gigante-cerne-abbas-quien-representa-1356774'>Por fin descubren quién construyó el Gigante de Cerne Abbas, y a quién representa</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-quien-construyo-gigante-cerne-abbas-quien-representa-1356774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fin-descubren-quien-construyo-gigante-cerne-abbas-quien-representa-3260932.jpg?tf=1200x' alt='Por fin descubren quién construyó el Gigante de Cerne Abbas, y a quién representa' />
+    <h4><a href='https://computerhoy.com/tecnologia/proyecto-cerca-conseguir-robots-capaces-recoger-casa-intervenir-cirugia-1356824'>Este proyecto está cerca de crear robots capaces de hacerlo todo: desde recoger tu casa hasta intervenir en una cirugía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyecto-cerca-conseguir-robots-capaces-recoger-casa-intervenir-cirugia-1356824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-3261066.jpg?tf=1200x' alt='Este proyecto está cerca de crear robots capaces de hacerlo todo: desde recoger tu casa hasta intervenir en una cirugía' />
     </a>
 </div>
 
