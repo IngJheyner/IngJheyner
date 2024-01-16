@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dedo-indice-corto-anular-significado-ciencia-no-te-va-gustar-1357380'>¿Tu dedo índice es más corto que el anular? Este es su significado, según la ciencia, y no te va a gustar</a></h4>
-    <a href='https://computerhoy.com/life/dedo-indice-corto-anular-significado-ciencia-no-te-va-gustar-1357380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rasgos-psicopata-3262055.jpg?tf=1200x' alt='¿Tu dedo índice es más corto que el anular? Este es su significado, según la ciencia, y no te va a gustar' />
+    <h4><a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413'>OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra</a></h4>
+    <a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705436160069-3262085.jpg?tf=1200x' alt='OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/utilizar-amazon-fire-tv-ver-iptv-ya-actividad-riesgo-1357327'>Utilizar un Amazon Fire TV para ver IPTV ya es una actividad de riesgo en ciertos países</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/utilizar-amazon-fire-tv-ver-iptv-ya-actividad-riesgo-1357327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Utilizar un Amazon Fire TV para ver IPTV ya es una actividad de riesgo en ciertos países' />
+    <h4><a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358'>La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles</a></h4>
+    <a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-movil-actualiza-nuevos-canales-gratis-1357377'>TDTChannels, la mejor app para ver la TDT en el móvil, se actualiza con nuevos canales gratis</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-movil-actualiza-nuevos-canales-gratis-1357377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT en el móvil, se actualiza con nuevos canales gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/philips-va-roomba-aspiradora-autovaciado-280eu-barata-amazon-1357230'>Philips va a por Roomba: su aspiradora con autovaciado es 280€ más barata en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/philips-va-roomba-aspiradora-autovaciado-280eu-barata-amazon-1357230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/philips-homerun-3000-3261766.jpg?tf=1200x' alt='Philips va a por Roomba: su aspiradora con autovaciado es 280€ más barata en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-1356421'>Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-1356421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-instalar-cami-chatbot-ia-gratis-whatsapp-todo-puedes-hacer-3260462.jpg?tf=1200x' alt='Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y todo lo que puedes hacer con él' />
+    <h4><a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316'>Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia</a></h4>
+    <a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-crateres-explosivos-siberia-podrian-explotar-causa-cambio-climatico-3261929.jpg?tf=1200x' alt='Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-1357337'>Cómo saber si podrás seguir viendo la TDT a partir del 14 de febrero sin tocar nada</a></h4>
-    <a href='https://computerhoy.com/tv/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-1357337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-3261968.jpg?tf=1200x' alt='Cómo saber si podrás seguir viendo la TDT a partir del 14 de febrero sin tocar nada' />
+    <h4><a href='https://computerhoy.com/moviles/reducir-uso-telefono-movil-consejos-1356875'>¿Quieres reducir el uso del teléfono móvil en 2024? Pon en práctica estos 5 consejos</a></h4>
+    <a href='https://computerhoy.com/moviles/reducir-uso-telefono-movil-consejos-1356875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-reducir-uso-telefono-movil-2024-pon-practica-estos-5-consejos-3261147.jpg?tf=1200x' alt='¿Quieres reducir el uso del teléfono móvil en 2024? Pon en práctica estos 5 consejos' />
     </a>
 </div>
 
