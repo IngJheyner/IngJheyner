@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mitica-empresa-tractores-john-deere-une-spacex-llevar-satelites-starlink-campo-1357151'>Elon Musk y John Deere: la mítica empresa de tractores se une a SpaceX para llevar sus satélites Starlink al campo</a></h4>
+    <a href='https://computerhoy.com/internet/mitica-empresa-tractores-john-deere-une-spacex-llevar-satelites-starlink-campo-1357151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/elon-musk-john-deere-3261627.jpg?tf=1200x' alt='Elon Musk y John Deere: la mítica empresa de tractores se une a SpaceX para llevar sus satélites Starlink al campo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-ademas-barato-rapidos-mercado-1356937'>Este SSD es igual de rápido que los mejores del mercado, pero ahora es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-ademas-barato-rapidos-mercado-1356937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/disco-duro-asgard-gen-4-3261300.jpg?tf=1200x' alt='Este SSD es igual de rápido que los mejores del mercado, pero ahora es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-eliminar-funcion-estrella-evitar-prohibicion-apple-watch-series-9-ultra-2-1357144'>Apple listo para eliminar su función estrella y evitar la prohibición de los Apple Watch Series 9 y Ultra 2</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-eliminar-funcion-estrella-evitar-prohibicion-apple-watch-series-9-ultra-2-1357144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187110.jpg?tf=1200x' alt='Apple listo para eliminar su función estrella y evitar la prohibición de los Apple Watch Series 9 y Ultra 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openrun-pro-3261594.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/he-probado-sony-xperia-5-v-no-todo-mundo-estos-son-motivos-voy-comprar-1354163'>He probado Sony Xperia 5 V y no es para todo el mundo: estos son los motivos por los que lo voy a comprar</a></h4>
     <a href='https://computerhoy.com/moviles/he-probado-sony-xperia-5-v-no-todo-mundo-estos-son-motivos-voy-comprar-1354163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sony-xperia-5-v-3259885.jpg?tf=1200x' alt='He probado Sony Xperia 5 V y no es para todo el mundo: estos son los motivos por los que lo voy a comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/codigo-secreto-te-permitira-desbloquear-funciones-avanzadas-movil-1357065'>El código secreto que te permitirá desbloquear funciones avanzadas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/codigo-secreto-te-permitira-desbloquear-funciones-avanzadas-movil-1357065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/codigo-secreto-desbloquear-funciones-avanzadas-3261509.jpg?tf=1200x' alt='El código secreto que te permitirá desbloquear funciones avanzadas en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openswim-3260844.jpg?tf=1200x' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/realmente-luz-azul-deteriora-calidad-sueno-1356990'>¿Realmente la luz azul deteriora la calidad del sueño? </a></h4>
-    <a href='https://computerhoy.com/life/realmente-luz-azul-deteriora-calidad-sueno-1356990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/realmente-luz-azul-deteriora-calidad-sueno-3261398.jpg?tf=1200x' alt='¿Realmente la luz azul deteriora la calidad del sueño? ' />
     </a>
 </div>
 
