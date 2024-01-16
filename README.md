@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/increible-avance-computacion-cuantica-consigue-funcione-temperatura-ambiente-1357298'>Increíble avance en la computación cuántica: consigue que funcione a temperatura ambiente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/increible-avance-computacion-cuantica-consigue-funcione-temperatura-ambiente-1357298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pc-cuantico-3261927.jpg?tf=1200x' alt='Increíble avance en la computación cuántica: consigue que funcione a temperatura ambiente' />
+    <h4><a href='https://computerhoy.com/life/dedo-indice-corto-anular-significado-ciencia-no-te-va-gustar-1357380'>¿Tu dedo índice es más corto que el anular? Este es su significado, según la ciencia, y no te va a gustar</a></h4>
+    <a href='https://computerhoy.com/life/dedo-indice-corto-anular-significado-ciencia-no-te-va-gustar-1357380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rasgos-psicopata-3262055.jpg?tf=1200x' alt='¿Tu dedo índice es más corto que el anular? Este es su significado, según la ciencia, y no te va a gustar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999'>¿Qué es exactamente un año luz y para qué se usa esta medida en astronomía?</a></h4>
-    <a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='¿Qué es exactamente un año luz y para qué se usa esta medida en astronomía?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/utilizar-amazon-fire-tv-ver-iptv-ya-actividad-riesgo-1357327'>Utilizar un Amazon Fire TV para ver IPTV ya es una actividad de riesgo en ciertos países</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/utilizar-amazon-fire-tv-ver-iptv-ya-actividad-riesgo-1357327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/amazon-fire-tv-2977426.jpg?tf=1200x' alt='Utilizar un Amazon Fire TV para ver IPTV ya es una actividad de riesgo en ciertos países' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961'>Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-tipos-fotos-nunca-debes-compartir-redes-sociales-preservar-seguridad-3259535.jpg?tf=1200x' alt='Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad' />
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-movil-actualiza-nuevos-canales-gratis-1357377'>TDTChannels, la mejor app para ver la TDT en el móvil, se actualiza con nuevos canales gratis</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-mejor-app-ver-tdt-movil-actualiza-nuevos-canales-gratis-1357377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver la TDT en el móvil, se actualiza con nuevos canales gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mercado-moviles-resurge-extremis-apple-lidera-iphone-15-samsung-xiaomi-pisandole-talones-1357229'>El mercado de los móviles resurge in extremis: Apple lidera con los iPhone 15 con Samsung y Xiaomi pisándole los talones</a></h4>
-    <a href='https://computerhoy.com/moviles/mercado-moviles-resurge-extremis-apple-lidera-iphone-15-samsung-xiaomi-pisandole-talones-1357229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ventas-moviles-3261834.jpg?tf=1200x' alt='El mercado de los móviles resurge in extremis: Apple lidera con los iPhone 15 con Samsung y Xiaomi pisándole los talones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-1356421'>Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-cami-chatbot-ia-gratis-whatsapp-1356421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-instalar-cami-chatbot-ia-gratis-whatsapp-todo-puedes-hacer-3260462.jpg?tf=1200x' alt='Cómo instalar Cami, el chatbot IA gratis para WhatsApp, y todo lo que puedes hacer con él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166'>El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-hackers-3261759.jpg?tf=1200x' alt='El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar' />
+    <h4><a href='https://computerhoy.com/tv/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-1357337'>Cómo saber si podrás seguir viendo la TDT a partir del 14 de febrero sin tocar nada</a></h4>
+    <a href='https://computerhoy.com/tv/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-1357337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-podras-seguir-viendo-tdt-partir-14-febrero-tocar-nada-3261968.jpg?tf=1200x' alt='Cómo saber si podrás seguir viendo la TDT a partir del 14 de febrero sin tocar nada' />
     </a>
 </div>
 
