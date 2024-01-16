@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/increible-avance-computacion-cuantica-consigue-funcione-temperatura-ambiente-1357298'>Increíble avance en la computación cuántica: consigue que funcione a temperatura ambiente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/increible-avance-computacion-cuantica-consigue-funcione-temperatura-ambiente-1357298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pc-cuantico-3261927.jpg?tf=1200x' alt='Increíble avance en la computación cuántica: consigue que funcione a temperatura ambiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999'>¿Qué es exactamente un año luz y para qué se usa esta medida en astronomía?</a></h4>
+    <a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='¿Qué es exactamente un año luz y para qué se usa esta medida en astronomía?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961'>Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-tipos-fotos-nunca-debes-compartir-redes-sociales-preservar-seguridad-3259535.jpg?tf=1200x' alt='Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166'>El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-hackers-3261759.jpg?tf=1200x' alt='El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-admitira-usb4-20-promete-velocidades-80-gbps-1357225'>Windows 11 admitirá USB4 2.0, el estándar que promete velocidades de hasta 80 Gbps</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-admitira-usb4-20-promete-velocidades-80-gbps-1357225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/window-11-usb4-20-3261748.jpg?tf=1200x' alt='Windows 11 admitirá USB4 2.0, el estándar que promete velocidades de hasta 80 Gbps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/absenta-historia-peligros-mitos-bebida-prohibida-77937'>Absenta: historia, peligros y mitos de la bebida prohibida</a></h4>
-    <a href='https://computerhoy.com/noticias/life/absenta-historia-peligros-mitos-bebida-prohibida-77937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/absenta-historia-peligros-mitos-bebida-prohibida-3260529.jpg?tf=1200x' alt='Absenta: historia, peligros y mitos de la bebida prohibida' />
     </a>
 </div>
 
