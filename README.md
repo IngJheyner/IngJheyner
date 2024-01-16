@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mitica-empresa-tractores-john-deere-une-spacex-llevar-satelites-starlink-campo-1357151'>Elon Musk y John Deere: la mítica empresa de tractores se une a SpaceX para llevar sus satélites Starlink al campo</a></h4>
-    <a href='https://computerhoy.com/internet/mitica-empresa-tractores-john-deere-une-spacex-llevar-satelites-starlink-campo-1357151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/elon-musk-john-deere-3261627.jpg?tf=1200x' alt='Elon Musk y John Deere: la mítica empresa de tractores se une a SpaceX para llevar sus satélites Starlink al campo' />
+    <h4><a href='https://computerhoy.com/tv/existe-subvenciones-cambio-tdt-alta-definicion-hd-1357196'>¿Existen subvenciones por el cambio de la TDT a la alta definición (HD)?</a></h4>
+    <a href='https://computerhoy.com/tv/existe-subvenciones-cambio-tdt-alta-definicion-hd-1357196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='¿Existen subvenciones por el cambio de la TDT a la alta definición (HD)?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-ademas-barato-rapidos-mercado-1356937'>Este SSD es igual de rápido que los mejores del mercado, pero ahora es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-ademas-barato-rapidos-mercado-1356937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/disco-duro-asgard-gen-4-3261300.jpg?tf=1200x' alt='Este SSD es igual de rápido que los mejores del mercado, pero ahora es mucho más barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-admite-video-robot-optimus-no-parece-1357182'>Elon Musk contra las cuerdas admite que el vídeo de su robot Optimus no es lo que parece</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-admite-video-robot-optimus-no-parece-1357182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-optimus-elon-musk-3261673.jpg?tf=1200x' alt='Elon Musk contra las cuerdas admite que el vídeo de su robot Optimus no es lo que parece' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-eliminar-funcion-estrella-evitar-prohibicion-apple-watch-series-9-ultra-2-1357144'>Apple listo para eliminar su función estrella y evitar la prohibición de los Apple Watch Series 9 y Ultra 2</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-eliminar-funcion-estrella-evitar-prohibicion-apple-watch-series-9-ultra-2-1357144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187110.jpg?tf=1200x' alt='Apple listo para eliminar su función estrella y evitar la prohibición de los Apple Watch Series 9 y Ultra 2' />
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-amazon-garmin-fenix-carga-solar-vuelve-bajar-precio-nada-menos-300-euros-1357139'>Bombazo de Amazon: el Garmin Fenix con carga solar vuelve a bajar de precio en nada menos que 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-amazon-garmin-fenix-carga-solar-vuelve-bajar-precio-nada-menos-300-euros-1357139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Bombazo de Amazon: el Garmin Fenix con carga solar vuelve a bajar de precio en nada menos que 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040'>Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-transmision-osea-son-como-funcionan-cuales-son-mejores-1301040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openrun-pro-3261594.jpg?tf=1200x' alt='Auriculares de transmisión ósea: qué son, cómo funcionan y cuáles son los mejores' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-descargas-ia-codigo-abierto-podria-estar-envenenada-malware-1357177'>Cuidado con lo que descargas: la IA de código abierto podría estar envenenada con malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-descargas-ia-codigo-abierto-podria-estar-envenenada-malware-1357177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-modelos-lenguaje-3261661.jpg?tf=1200x' alt='Cuidado con lo que descargas: la IA de código abierto podría estar envenenada con malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-sony-xperia-5-v-no-todo-mundo-estos-son-motivos-voy-comprar-1354163'>He probado Sony Xperia 5 V y no es para todo el mundo: estos son los motivos por los que lo voy a comprar</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-sony-xperia-5-v-no-todo-mundo-estos-son-motivos-voy-comprar-1354163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sony-xperia-5-v-3259885.jpg?tf=1200x' alt='He probado Sony Xperia 5 V y no es para todo el mundo: estos son los motivos por los que lo voy a comprar' />
+    <h4><a href='https://computerhoy.com/apple/tres-dias-vision-pro-esten-disponibles-apple-elimina-funciones-1357156'>A tres días para que las Vision Pro estén disponibles, Apple elimina una de sus funciones</a></h4>
+    <a href='https://computerhoy.com/apple/tres-dias-vision-pro-esten-disponibles-apple-elimina-funciones-1357156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051140.jpg?tf=1200x' alt='A tres días para que las Vision Pro estén disponibles, Apple elimina una de sus funciones' />
     </a>
 </div>
 
