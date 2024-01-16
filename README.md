@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/existe-subvenciones-cambio-tdt-alta-definicion-hd-1357196'>¿Existen subvenciones por el cambio de la TDT a la alta definición (HD)?</a></h4>
-    <a href='https://computerhoy.com/tv/existe-subvenciones-cambio-tdt-alta-definicion-hd-1357196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sentimos-televisor-tiene-hoy-menos-canales-tdt-no-error-3200804.jpg?tf=1200x' alt='¿Existen subvenciones por el cambio de la TDT a la alta definición (HD)?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961'>Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tipos-fotos-nunca-debes-compartir-redes-sociales-1355961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-tipos-fotos-nunca-debes-compartir-redes-sociales-preservar-seguridad-3259535.jpg?tf=1200x' alt='Tipos de fotos que nunca debes compartir en redes sociales para preservar tu seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-admite-video-robot-optimus-no-parece-1357182'>Elon Musk contra las cuerdas admite que el vídeo de su robot Optimus no es lo que parece</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-admite-video-robot-optimus-no-parece-1357182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robot-optimus-elon-musk-3261673.jpg?tf=1200x' alt='Elon Musk contra las cuerdas admite que el vídeo de su robot Optimus no es lo que parece' />
+    <h4><a href='https://computerhoy.com/moviles/mercado-moviles-resurge-extremis-apple-lidera-iphone-15-samsung-xiaomi-pisandole-talones-1357229'>El mercado de los móviles resurge in extremis: Apple lidera con los iPhone 15 con Samsung y Xiaomi pisándole los talones</a></h4>
+    <a href='https://computerhoy.com/moviles/mercado-moviles-resurge-extremis-apple-lidera-iphone-15-samsung-xiaomi-pisandole-talones-1357229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ventas-moviles-3261834.jpg?tf=1200x' alt='El mercado de los móviles resurge in extremis: Apple lidera con los iPhone 15 con Samsung y Xiaomi pisándole los talones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-amazon-garmin-fenix-carga-solar-vuelve-bajar-precio-nada-menos-300-euros-1357139'>Bombazo de Amazon: el Garmin Fenix con carga solar vuelve a bajar de precio en nada menos que 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-amazon-garmin-fenix-carga-solar-vuelve-bajar-precio-nada-menos-300-euros-1357139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Bombazo de Amazon: el Garmin Fenix con carga solar vuelve a bajar de precio en nada menos que 300 euros' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166'>El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/agujero-google-permite-hackers-entrar-cuenta-contrasena-1357166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-hackers-3261759.jpg?tf=1200x' alt='El agujero en la seguridad que permite a los hackers entrar en tu cuenta sin contraseña que Google no sabe solucionar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-descargas-ia-codigo-abierto-podria-estar-envenenada-malware-1357177'>Cuidado con lo que descargas: la IA de código abierto podría estar envenenada con malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-descargas-ia-codigo-abierto-podria-estar-envenenada-malware-1357177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-modelos-lenguaje-3261661.jpg?tf=1200x' alt='Cuidado con lo que descargas: la IA de código abierto podría estar envenenada con malware' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-admitira-usb4-20-promete-velocidades-80-gbps-1357225'>Windows 11 admitirá USB4 2.0, el estándar que promete velocidades de hasta 80 Gbps</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-admitira-usb4-20-promete-velocidades-80-gbps-1357225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/window-11-usb4-20-3261748.jpg?tf=1200x' alt='Windows 11 admitirá USB4 2.0, el estándar que promete velocidades de hasta 80 Gbps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tres-dias-vision-pro-esten-disponibles-apple-elimina-funciones-1357156'>A tres días para que las Vision Pro estén disponibles, Apple elimina una de sus funciones</a></h4>
-    <a href='https://computerhoy.com/apple/tres-dias-vision-pro-esten-disponibles-apple-elimina-funciones-1357156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051140.jpg?tf=1200x' alt='A tres días para que las Vision Pro estén disponibles, Apple elimina una de sus funciones' />
+    <h4><a href='https://computerhoy.com/noticias/life/absenta-historia-peligros-mitos-bebida-prohibida-77937'>Absenta: historia, peligros y mitos de la bebida prohibida</a></h4>
+    <a href='https://computerhoy.com/noticias/life/absenta-historia-peligros-mitos-bebida-prohibida-77937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/absenta-historia-peligros-mitos-bebida-prohibida-3260529.jpg?tf=1200x' alt='Absenta: historia, peligros y mitos de la bebida prohibida' />
     </a>
 </div>
 
