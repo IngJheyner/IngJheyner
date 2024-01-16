@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/codigo-secreto-te-permitira-desbloquear-funciones-avanzadas-movil-1357065'>El código secreto que te permitirá desbloquear funciones avanzadas en tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/codigo-secreto-te-permitira-desbloquear-funciones-avanzadas-movil-1357065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/codigo-secreto-desbloquear-funciones-avanzadas-3261509.jpg?tf=1200x' alt='El código secreto que te permitirá desbloquear funciones avanzadas en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887'>Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-reproductores-mp3-acuaticos-nadar-870887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openswim-3260844.jpg?tf=1200x' alt='Estos son los mejores MP3 acuáticos para hacer natación que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/realmente-luz-azul-deteriora-calidad-sueno-1356990'>¿Realmente la luz azul deteriora la calidad del sueño? </a></h4>
+    <a href='https://computerhoy.com/life/realmente-luz-azul-deteriora-calidad-sueno-1356990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/realmente-luz-azul-deteriora-calidad-sueno-3261398.jpg?tf=1200x' alt='¿Realmente la luz azul deteriora la calidad del sueño? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/graban-primera-vez-increible-video-dos-plantas-hablando-1357092'>Graban por primera vez un increíble vídeo con dos plantas "hablando" entre ellas </a></h4>
     <a href='https://computerhoy.com/ciencia/graban-primera-vez-increible-video-dos-plantas-hablando-1357092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/graban-primera-vez-increible-video-dos-plantas-hablando-ellas-3261528.jpg?tf=1200x' alt='Graban por primera vez un increíble vídeo con dos plantas "hablando" entre ellas ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-lanza-copilot-pro-usuarios-domesticos-1357087'>Microsoft lanza Copilot Pro para usuarios domésticos, potencia con IA todas las apps de Office o Microsoft 365</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-lanza-copilot-pro-usuarios-domesticos-1357087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Microsoft lanza Copilot Pro para usuarios domésticos, potencia con IA todas las apps de Office o Microsoft 365' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-1357078'>Le pone el nombre de un proveedor de Internet a su hija, para tener WiFi gratis</a></h4>
-    <a href='https://computerhoy.com/internet/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-1357078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-3261502.jpg?tf=1200x' alt='Le pone el nombre de un proveedor de Internet a su hija, para tener WiFi gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-momento-dia-conectarte-aplicaciones-citas-conseguir-muchos-match-1357068'>El mejor momento del día para conectarte a las aplicaciones de citas para conseguir muchos match</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-momento-dia-conectarte-aplicaciones-citas-conseguir-muchos-match-1357068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aplicacion-citas-2760835.jpg?tf=1200x' alt='El mejor momento del día para conectarte a las aplicaciones de citas para conseguir muchos match' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067'>El asteroide no fue el único causante de la extinción de los dinosaurios</a></h4>
-    <a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extincion-dinosaurios-3261501.jpg?tf=1200x' alt='El asteroide no fue el único causante de la extinción de los dinosaurios' />
     </a>
 </div>
 
