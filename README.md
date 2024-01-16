@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/graban-primera-vez-increible-video-dos-plantas-hablando-1357092'>Graban por primera vez un increíble vídeo con dos plantas "hablando" entre ellas </a></h4>
+    <a href='https://computerhoy.com/ciencia/graban-primera-vez-increible-video-dos-plantas-hablando-1357092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/graban-primera-vez-increible-video-dos-plantas-hablando-ellas-3261528.jpg?tf=1200x' alt='Graban por primera vez un increíble vídeo con dos plantas "hablando" entre ellas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-lanza-copilot-pro-usuarios-domesticos-1357087'>Microsoft lanza Copilot Pro para usuarios domésticos, potencia con IA todas las apps de Office o Microsoft 365</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-lanza-copilot-pro-usuarios-domesticos-1357087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Microsoft lanza Copilot Pro para usuarios domésticos, potencia con IA todas las apps de Office o Microsoft 365' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-1357078'>Le pone el nombre de un proveedor de Internet a su hija, para tener WiFi gratis</a></h4>
     <a href='https://computerhoy.com/internet/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-1357078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pone-nombre-proveedor-internet-hija-tener-wifi-gratis-3261502.jpg?tf=1200x' alt='Le pone el nombre de un proveedor de Internet a su hija, para tener WiFi gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067'>El asteroide no fue el único causante de la extinción de los dinosaurios</a></h4>
     <a href='https://computerhoy.com/life/asteroide-no-fue-unico-causante-extincion-dinosaurios-1357067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extincion-dinosaurios-3261501.jpg?tf=1200x' alt='El asteroide no fue el único causante de la extinción de los dinosaurios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/senales-alerta-tienes-virus-iphone-1357009'>Estas señales te pueden alertar a tiempo de que hay un virus en tu iPhone </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/senales-alerta-tienes-virus-iphone-1357009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-senales-te-pueden-alertar-virus-iphone-3261416.jpg?tf=1200x' alt='Estas señales te pueden alertar a tiempo de que hay un virus en tu iPhone ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/funda-convierte-cualquier-movil-camara-submarina-1357058'>Esta funda convierte cualquier móvil en una cámara submarina</a></h4>
-    <a href='https://computerhoy.com/moviles/funda-convierte-cualquier-movil-camara-submarina-1357058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705337428998-3261456.jpg?tf=1200x' alt='Esta funda convierte cualquier móvil en una cámara submarina' />
     </a>
 </div>
 
