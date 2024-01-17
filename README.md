@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/diseno-top-precio-locos-estos-auriculares-anc-estan-triunfando-amazon-1357448'>El diseño más top y precio de locos: estos auriculares con ANC están triunfando en Amazon</a></h4>
+    <a href='https://computerhoy.com/audio/diseno-top-precio-locos-estos-auriculares-anc-estan-triunfando-amazon-1357448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/soundpeats-capsule3-pro-3262176.jpg?tf=1200x' alt='El diseño más top y precio de locos: estos auriculares con ANC están triunfando en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-tv-anade-notificaciones-llamadas-no-perderte-nada-mientras-ves-tele-1357470'>Chromecast con Google TV añade notificaciones de llamadas para no perderte nada mientras ves la tele</a></h4>
+    <a href='https://computerhoy.com/google/google-tv-anade-notificaciones-llamadas-no-perderte-nada-mientras-ves-tele-1357470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2120031.jpg?tf=1200x' alt='Chromecast con Google TV añade notificaciones de llamadas para no perderte nada mientras ves la tele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458'>Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441'>Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien</a></h4>
     <a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/empresa-china-traslada-oficinas-alto-montana-remota-empleados-renuncien-3262153.jpg?tf=1200x' alt='Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/virus-total-como-comprobar-apps-android-tienen-virus-malware-1356498'>Virus Total: cómo comprobar si las apps de Android tienen virus o malware antes de instalarlas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/virus-total-como-comprobar-apps-android-tienen-virus-malware-1356498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/virus-total-como-comprobar-apps-android-tienen-virus-malware-antes-instalarlas-3260528.jpg?tf=1200x' alt='Virus Total: cómo comprobar si las apps de Android tienen virus o malware antes de instalarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad-precio que puedes comprar' />
     </a>
 </div>
 
