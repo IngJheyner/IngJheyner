@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ganar-dinero-amazon-utilizar-bing-1356404'>Cómo ganar dinero de Amazon solo por utilizar Bing unos minutos cada día</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ganar-dinero-amazon-utilizar-bing-1356404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ganar-dinero-amazon-solo-utilizar-bing-minutos-cada-dia-3260430.jpg?tf=1200x' alt='Cómo ganar dinero de Amazon solo por utilizar Bing unos minutos cada día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-pulveriza-precio-tiene-carga-vertigo-67w-1326162'>Este móvil Xiaomi 5G pulveriza su precio y tiene carga de vértigo a 67W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-pulveriza-precio-tiene-carga-vertigo-67w-1326162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-12-lite-3206154.jpg?tf=1200x' alt='Este móvil Xiaomi 5G pulveriza su precio y tiene carga de vértigo a 67W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427'>Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito</a></h4>
     <a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-actualiza-avistarte-google-webs-te-rastrean-modo-incognito-3262134.jpg?tf=1200x' alt='Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358'>La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles</a></h4>
     <a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/philips-va-roomba-aspiradora-autovaciado-280eu-barata-amazon-1357230'>Philips va a por Roomba: su aspiradora con autovaciado es 280€ más barata en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/philips-va-roomba-aspiradora-autovaciado-280eu-barata-amazon-1357230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/philips-homerun-3000-3261766.jpg?tf=1200x' alt='Philips va a por Roomba: su aspiradora con autovaciado es 280€ más barata en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316'>Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia</a></h4>
-    <a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-crateres-explosivos-siberia-podrian-explotar-causa-cambio-climatico-3261929.jpg?tf=1200x' alt='Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia' />
     </a>
 </div>
 
