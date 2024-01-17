@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-planeta-descubierto-patio-trasero-1357589'>Así es el nuevo planeta descubierto “en nuestro patio trasero” y que orbita en torno a una estrella igual al Sol</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-planeta-descubierto-patio-trasero-1357589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-planeta-descubierto-patio-trasero-orbita-torno-estrella-igual-sol-3262426.jpg?tf=1200x' alt='Así es el nuevo planeta descubierto “en nuestro patio trasero” y que orbita en torno a una estrella igual al Sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lavadora-secadora-precio-record-candy-tumba-precio-electrodomestico-estrella-amazon-1357496'>Lavadora y secadora a precio récord: Candy tumba el precio de su electrodoméstico estrella en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lavadora-secadora-precio-record-candy-tumba-precio-electrodomestico-estrella-amazon-1357496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='Lavadora y secadora a precio récord: Candy tumba el precio de su electrodoméstico estrella en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/listas-iptv-funcionan-siempre-ver-gratis-miles-canales-todo-mundo-1305460'>Listas IPTV que funcionan siempre para ver gratis la TDT y miles de canales de todo el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/listas-iptv-funcionan-siempre-ver-gratis-miles-canales-todo-mundo-1305460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-gratis-3135840.jpg?tf=1200x' alt='Listas IPTV que funcionan siempre para ver gratis la TDT y miles de canales de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542'>No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas</a></h4>
     <a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spam-resultados-google-3262393.jpg?tf=1200x' alt='No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506'>A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE</a></h4>
     <a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/coche-electrico-pasaporte-ue-3262316.jpg?tf=1200x' alt='A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/pon-android-4k-televisor-13-euros-aparato-arrasa-aliexpress-increiblemente-barato-1357465'>Pon Android 4K en tu televisor por 13 euros: este aparato arrasa en AliExpress y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tv/pon-android-4k-televisor-13-euros-aparato-arrasa-aliexpress-increiblemente-barato-1357465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tv-mxq-pro-3262196.jpg?tf=1200x' alt='Pon Android 4K en tu televisor por 13 euros: este aparato arrasa en AliExpress y es increíblemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-amd-apple-cuerdas-tarjetas-graficas-ia-son-vulnerables-peligroso-ciberataque-1357486'>Qualcomm, AMD y Apple contra las cuerdas: sus tarjetas gráficas para IA son vulnerables a un peligroso ciberataque</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-amd-apple-cuerdas-tarjetas-graficas-ia-son-vulnerables-peligroso-ciberataque-1357486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-gpu-3262253.jpg?tf=1200x' alt='Qualcomm, AMD y Apple contra las cuerdas: sus tarjetas gráficas para IA son vulnerables a un peligroso ciberataque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381'>La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?</a></h4>
-    <a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-3262135.jpg?tf=1200x' alt='La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?' />
     </a>
 </div>
 
