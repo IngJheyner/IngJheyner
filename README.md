@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-planeta-descubierto-patio-trasero-1357589'>Así es el nuevo planeta descubierto “en nuestro patio trasero” y que orbita en torno a una estrella igual al Sol</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-planeta-descubierto-patio-trasero-1357589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-planeta-descubierto-patio-trasero-orbita-torno-estrella-igual-sol-3262426.jpg?tf=1200x' alt='Así es el nuevo planeta descubierto “en nuestro patio trasero” y que orbita en torno a una estrella igual al Sol' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-1357052'>Cómo recuperar y reparar archivos ZIP dañados en Windows 11 fácilmente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-1357052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-3261498.jpg?tf=1200x' alt='Cómo recuperar y reparar archivos ZIP dañados en Windows 11 fácilmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lavadora-secadora-precio-record-candy-tumba-precio-electrodomestico-estrella-amazon-1357496'>Lavadora y secadora a precio récord: Candy tumba el precio de su electrodoméstico estrella en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lavadora-secadora-precio-record-candy-tumba-precio-electrodomestico-estrella-amazon-1357496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/lavadora-3030328.jpg?tf=1200x' alt='Lavadora y secadora a precio récord: Candy tumba el precio de su electrodoméstico estrella en Amazon' />
+    <h4><a href='https://computerhoy.com/windows/imaginan-como-deberia-ser-windows-12-ser-verdaderamente-revolucionario-1357697'>Imaginan cómo debería ser Windows 12 para ser verdaderamente revolucionario</a></h4>
+    <a href='https://computerhoy.com/windows/imaginan-como-deberia-ser-windows-12-ser-verdaderamente-revolucionario-1357697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/concepto-windows-12-3262621.jpg?tf=1200x' alt='Imaginan cómo debería ser Windows 12 para ser verdaderamente revolucionario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/listas-iptv-funcionan-siempre-ver-gratis-miles-canales-todo-mundo-1305460'>Listas IPTV que funcionan siempre para ver gratis la TDT y miles de canales de todo el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/listas-iptv-funcionan-siempre-ver-gratis-miles-canales-todo-mundo-1305460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iptv-gratis-3135840.jpg?tf=1200x' alt='Listas IPTV que funcionan siempre para ver gratis la TDT y miles de canales de todo el mundo' />
+    <h4><a href='https://computerhoy.com/apple/tuvo-mentir-steve-jobs-presentacion-primer-iphone-1357650'>¿Tuvo que mentir Steve Jobs en la presentación del primer iPhone? Parece que sí</a></h4>
+    <a href='https://computerhoy.com/apple/tuvo-mentir-steve-jobs-presentacion-primer-iphone-1357650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/steve-jobs-3262603.jpg?tf=1200x' alt='¿Tuvo que mentir Steve Jobs en la presentación del primer iPhone? Parece que sí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542'>No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas</a></h4>
-    <a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spam-resultados-google-3262393.jpg?tf=1200x' alt='No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-japonesas-clasicas-ciencia-ficcion-revolucionarias-1357492'>5 películas japonesas clásicas de ciencia ficción que revolucionaron el género</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-japonesas-clasicas-ciencia-ficcion-revolucionarias-1357492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-japonesas-clasicas-ciencia-ficcion-revolucionaron-genero-3262241.jpg?tf=1200x' alt='5 películas japonesas clásicas de ciencia ficción que revolucionaron el género' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506'>A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE</a></h4>
-    <a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/coche-electrico-pasaporte-ue-3262316.jpg?tf=1200x' alt='A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE' />
+    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-gemini-google-samsung-galaxy-s24-pixel-8-1357679'>Google y Samsung se alían para introducir la IA Gemini en los Samsung Galaxy S24, con nuevas funciones como Rodea para buscar</a></h4>
+    <a href='https://computerhoy.com/google/inteligencia-artificial-gemini-google-samsung-galaxy-s24-pixel-8-1357679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-samsung-alian-introducir-ia-gemini-samsung-galaxy-s24-nuevas-funciones-como-rodear-buscar-3262550.jpg?tf=1200x' alt='Google y Samsung se alían para introducir la IA Gemini en los Samsung Galaxy S24, con nuevas funciones como Rodea para buscar' />
     </a>
 </div>
 
