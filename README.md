@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ganar-dinero-amazon-utilizar-bing-1356404'>Cómo ganar dinero de Amazon solo por utilizar Bing unos minutos cada día</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ganar-dinero-amazon-utilizar-bing-1356404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ganar-dinero-amazon-solo-utilizar-bing-minutos-cada-dia-3260430.jpg?tf=1200x' alt='Cómo ganar dinero de Amazon solo por utilizar Bing unos minutos cada día' />
+    <h4><a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381'>La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?</a></h4>
+    <a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-3262135.jpg?tf=1200x' alt='La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-pulveriza-precio-tiene-carga-vertigo-67w-1326162'>Este móvil Xiaomi 5G pulveriza su precio y tiene carga de vértigo a 67W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-pulveriza-precio-tiene-carga-vertigo-67w-1326162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-12-lite-3206154.jpg?tf=1200x' alt='Este móvil Xiaomi 5G pulveriza su precio y tiene carga de vértigo a 67W' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458'>Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427'>Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito</a></h4>
-    <a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-actualiza-avistarte-google-webs-te-rastrean-modo-incognito-3262134.jpg?tf=1200x' alt='Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito' />
+    <h4><a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441'>Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien</a></h4>
+    <a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/empresa-china-traslada-oficinas-alto-montana-remota-empleados-renuncien-3262153.jpg?tf=1200x' alt='Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413'>OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra</a></h4>
-    <a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705436160069-3262085.jpg?tf=1200x' alt='OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra' />
+    <h4><a href='https://computerhoy.com/tutoriales/virus-total-como-comprobar-apps-android-tienen-virus-malware-1356498'>Virus Total: cómo comprobar si las apps de Android tienen virus o malware antes de instalarlas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/virus-total-como-comprobar-apps-android-tienen-virus-malware-1356498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/virus-total-como-comprobar-apps-android-tienen-virus-malware-antes-instalarlas-3260528.jpg?tf=1200x' alt='Virus Total: cómo comprobar si las apps de Android tienen virus o malware antes de instalarlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358'>La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles</a></h4>
-    <a href='https://computerhoy.com/google/nueva-opcion-google-maps-ya-no-te-perderas-nunca-tuneles-1357358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nueva-opcion-oculta-google-maps-ya-no-te-perderas-nunca-tuneles-3262109.jpg?tf=1200x' alt='La nueva opción oculta de Google Maps con la que ya no te perderás nunca en los túneles' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad-precio que puedes comprar' />
     </a>
 </div>
 
