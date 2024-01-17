@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427'>Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito</a></h4>
+    <a href='https://computerhoy.com/google/chrome-ya-te-avisa-google-webs-rastrean-modo-incognito-1357427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-actualiza-avistarte-google-webs-te-rastrean-modo-incognito-3262134.jpg?tf=1200x' alt='Chrome se actualiza para avisarte de que Google y las webs te rastrean en el modo Incógnito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413'>OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra</a></h4>
     <a href='https://computerhoy.com/gaming/onexplayer-x1-nuevo-rival-steam-deck-formato-tablet-intel-core-ultra-1357413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705436160069-3262085.jpg?tf=1200x' alt='OneXPlayer X1, la nueva rival de Steam Deck con pantalla de tablet e Intel Core Ultra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316'>Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia</a></h4>
     <a href='https://computerhoy.com/life/ya-hay-explicacion-misteriosos-crateres-explosivos-gigantes-siberia-1357316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-crateres-explosivos-siberia-podrian-explotar-causa-cambio-climatico-3261929.jpg?tf=1200x' alt='Ya hay una explicación para los misteriosos cráteres explosivos gigantes de Siberia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/reducir-uso-telefono-movil-consejos-1356875'>¿Quieres reducir el uso del teléfono móvil en 2024? Pon en práctica estos 5 consejos</a></h4>
-    <a href='https://computerhoy.com/moviles/reducir-uso-telefono-movil-consejos-1356875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-reducir-uso-telefono-movil-2024-pon-practica-estos-5-consejos-3261147.jpg?tf=1200x' alt='¿Quieres reducir el uso del teléfono móvil en 2024? Pon en práctica estos 5 consejos' />
     </a>
 </div>
 
