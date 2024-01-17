@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542'>No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas</a></h4>
+    <a href='https://computerhoy.com/internet/no-solo-sensacion-google-va-peor-plagado-resenas-falsas-1357542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spam-resultados-google-3262393.jpg?tf=1200x' alt='No es solo sensación tuya, los resultados en Google  van a peor: si buscas un móvil, el 42% son reseñas falsas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506'>A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE</a></h4>
+    <a href='https://computerhoy.com/motor/partir-2027-todos-coches-electricos-necesitaran-pasaporte-ue-1357506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/coche-electrico-pasaporte-ue-3262316.jpg?tf=1200x' alt='A partir de 2027, todos los coches eléctricos vendidos necesitarán un pasaporte de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/pon-android-4k-televisor-13-euros-aparato-arrasa-aliexpress-increiblemente-barato-1357465'>Pon Android 4K en tu televisor por 13 euros: este aparato arrasa en AliExpress y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tv/pon-android-4k-televisor-13-euros-aparato-arrasa-aliexpress-increiblemente-barato-1357465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tv-mxq-pro-3262196.jpg?tf=1200x' alt='Pon Android 4K en tu televisor por 13 euros: este aparato arrasa en AliExpress y es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-amd-apple-cuerdas-tarjetas-graficas-ia-son-vulnerables-peligroso-ciberataque-1357486'>Qualcomm, AMD y Apple contra las cuerdas: sus tarjetas gráficas para IA son vulnerables a un peligroso ciberataque</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-amd-apple-cuerdas-tarjetas-graficas-ia-son-vulnerables-peligroso-ciberataque-1357486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-gpu-3262253.jpg?tf=1200x' alt='Qualcomm, AMD y Apple contra las cuerdas: sus tarjetas gráficas para IA son vulnerables a un peligroso ciberataque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381'>La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?</a></h4>
     <a href='https://computerhoy.com/ciencia/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-1357381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ia-resuelve-gran-enigma-humanidad-fue-primero-huevo-gallina-3262135.jpg?tf=1200x' alt='La IA resuelve el gran enigma de la humanidad: ¿qué fue primero, el huevo o la gallina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/diseno-top-precio-locos-estos-auriculares-anc-estan-triunfando-amazon-1357448'>El diseño más top y precio de locos: estos auriculares con ANC están triunfando en Amazon</a></h4>
-    <a href='https://computerhoy.com/audio/diseno-top-precio-locos-estos-auriculares-anc-estan-triunfando-amazon-1357448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/soundpeats-capsule3-pro-3262176.jpg?tf=1200x' alt='El diseño más top y precio de locos: estos auriculares con ANC están triunfando en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tv-anade-notificaciones-llamadas-no-perderte-nada-mientras-ves-tele-1357470'>Chromecast con Google TV añade notificaciones de llamadas para no perderte nada mientras ves la tele</a></h4>
-    <a href='https://computerhoy.com/google/google-tv-anade-notificaciones-llamadas-no-perderte-nada-mientras-ves-tele-1357470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/chromecast-google-tv-2120031.jpg?tf=1200x' alt='Chromecast con Google TV añade notificaciones de llamadas para no perderte nada mientras ves la tele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458'>Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-calma-aguas-afirma-ia-nivel-humano-no-sera-tan-apocaliptica-como-cree-1357458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman quiere calmar las aguas y afirma que la IA a nivel humano no será tan apocalíptica como se cree' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441'>Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien</a></h4>
-    <a href='https://computerhoy.com/life/tactica-empresa-china-trasladar-oficinas-montana-1357441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/empresa-china-traslada-oficinas-alto-montana-remota-empleados-renuncien-3262153.jpg?tf=1200x' alt='Una empresa china traslada las oficinas a la cima de una montaña remota, para que los empleados renuncien' />
     </a>
 </div>
 
