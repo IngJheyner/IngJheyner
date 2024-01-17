@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-1357052'>Cómo recuperar y reparar archivos ZIP dañados en Windows 11 fácilmente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-1357052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-recuperar-reparar-archivos-zip-danados-windows-11-facilmente-3261498.jpg?tf=1200x' alt='Cómo recuperar y reparar archivos ZIP dañados en Windows 11 fácilmente' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256'>Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/imaginan-como-deberia-ser-windows-12-ser-verdaderamente-revolucionario-1357697'>Imaginan cómo debería ser Windows 12 para ser verdaderamente revolucionario</a></h4>
-    <a href='https://computerhoy.com/windows/imaginan-como-deberia-ser-windows-12-ser-verdaderamente-revolucionario-1357697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/concepto-windows-12-3262621.jpg?tf=1200x' alt='Imaginan cómo debería ser Windows 12 para ser verdaderamente revolucionario' />
+    <h4><a href='https://computerhoy.com/espacio/astronautas-marte-viviran-fenomenos-fascinantes-universo-1357665'>Los astronautas en Marte vivirán uno de los fenómenos más fascinantes del Universo: la dilatación del tiempo</a></h4>
+    <a href='https://computerhoy.com/espacio/astronautas-marte-viviran-fenomenos-fascinantes-universo-1357665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-marte-constataria-alli-tiempo-pasa-deprisa-tierra-3262498.jpg?tf=1200x' alt='Los astronautas en Marte vivirán uno de los fenómenos más fascinantes del Universo: la dilatación del tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tuvo-mentir-steve-jobs-presentacion-primer-iphone-1357650'>¿Tuvo que mentir Steve Jobs en la presentación del primer iPhone? Parece que sí</a></h4>
-    <a href='https://computerhoy.com/apple/tuvo-mentir-steve-jobs-presentacion-primer-iphone-1357650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/steve-jobs-3262603.jpg?tf=1200x' alt='¿Tuvo que mentir Steve Jobs en la presentación del primer iPhone? Parece que sí' />
+    <h4><a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718'>Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-ring-anillo-samsung-llega-ano-primeras-imagenes-3262646.jpg?tf=1200x' alt='Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-japonesas-clasicas-ciencia-ficcion-revolucionarias-1357492'>5 películas japonesas clásicas de ciencia ficción que revolucionaron el género</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-japonesas-clasicas-ciencia-ficcion-revolucionarias-1357492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-japonesas-clasicas-ciencia-ficcion-revolucionaron-genero-3262241.jpg?tf=1200x' alt='5 películas japonesas clásicas de ciencia ficción que revolucionaron el género' />
+    <h4><a href='https://computerhoy.com/life/bullet-journal-metodo-organizarte-mejorar-productividad-1353212'>Qué es Bullet Journal y cómo funciona el mejor método para organizarte y mejorar tu productividad en 2024</a></h4>
+    <a href='https://computerhoy.com/life/bullet-journal-metodo-organizarte-mejorar-productividad-1353212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bullet-journal-como-funciona-mejor-metodo-organizarte-mejorar-productividad-2024-3255098.jpg?tf=1200x' alt='Qué es Bullet Journal y cómo funciona el mejor método para organizarte y mejorar tu productividad en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/inteligencia-artificial-gemini-google-samsung-galaxy-s24-pixel-8-1357679'>Google y Samsung se alían para introducir la IA Gemini en los Samsung Galaxy S24, con nuevas funciones como Rodea para buscar</a></h4>
-    <a href='https://computerhoy.com/google/inteligencia-artificial-gemini-google-samsung-galaxy-s24-pixel-8-1357679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-samsung-alian-introducir-ia-gemini-samsung-galaxy-s24-nuevas-funciones-como-rodear-buscar-3262550.jpg?tf=1200x' alt='Google y Samsung se alían para introducir la IA Gemini en los Samsung Galaxy S24, con nuevas funciones como Rodea para buscar' />
+    <h4><a href='https://computerhoy.com/life/restaurante-sirve-sopa-hecha-hace-50-anos-1357641'>Este restaurante sirve una sopa hecha hace más de 50 años y afirman que es exquisita</a></h4>
+    <a href='https://computerhoy.com/life/restaurante-sirve-sopa-hecha-hace-50-anos-1357641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/seguro-comer-caldo-medio-siglo-3262523.jpg?tf=1200x' alt='Este restaurante sirve una sopa hecha hace más de 50 años y afirman que es exquisita' />
     </a>
 </div>
 
