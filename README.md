@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-trabaja-plan-suscripcion-alexa-impulsada-ia-aunque-no-siendo-facil-1357773'>Amazon trabaja en un plan de suscripción para Alexa impulsada por IA aunque no está siendo fácil</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-trabaja-plan-suscripcion-alexa-impulsada-ia-aunque-no-siendo-facil-1357773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-3047914.jpg?tf=1200x' alt='Amazon trabaja en un plan de suscripción para Alexa impulsada por IA aunque no está siendo fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
     <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426'>Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad</a></h4>
     <a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/alexa-espiando-conversaciones-puedes-evitarlo-blindar-privacidad-3262142.jpg?tf=1200x' alt='Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
-    <a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-elegir-portatil-perfecto-necesidades-no-morir-intento-3103006.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
     </a>
 </div>
 
