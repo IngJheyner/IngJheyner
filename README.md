@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/serpiente-venenosa-dispensador-hielo-frigorifico-1357747'>Lo último que esperas que salga del dispensador de agua del frigorífico: una serpiente venenosa</a></h4>
-    <a href='https://computerhoy.com/life/serpiente-venenosa-dispensador-hielo-frigorifico-1357747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ultimo-esperas-encontrar-dispensador-hielo-frigorifico-serpiente-venenosa-3262699.jpg?tf=1200x' alt='Lo último que esperas que salga del dispensador de agua del frigorífico: una serpiente venenosa' />
+    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-se-creo-petroleo-gas-natural-1357730'>Mito desmentido: el petróleo y el gas natural no provienen de los dinosaurios, ¿cómo se crearon?</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-se-creo-petroleo-gas-natural-1357730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mito-desmentido-petroleo-no-proviene-dinosaurios-como-creo-3262627.jpg?tf=1200x' alt='Mito desmentido: el petróleo y el gas natural no provienen de los dinosaurios, ¿cómo se crearon?' />
+    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>El verdadero sabor de los ositos de Haribo que ha dejado a todo el mundo en shock</a></h4>
+    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/haribo-3262513.jpg?tf=1200x' alt='El verdadero sabor de los ositos de Haribo que ha dejado a todo el mundo en shock' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256'>Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/historia-dell-1350539'>Historia de Dell: cómo un universitario de 19 años fundó una empresa de ordenadores que hoy en día es una de las más grandes del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/historia-dell-1350539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-dell-3251721.jpg?tf=1200x' alt='Historia de Dell: cómo un universitario de 19 años fundó una empresa de ordenadores que hoy en día es una de las más grandes del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronautas-marte-viviran-fenomenos-fascinantes-universo-1357665'>Los astronautas en Marte vivirán uno de los fenómenos más fascinantes del Universo: la dilatación del tiempo</a></h4>
-    <a href='https://computerhoy.com/espacio/astronautas-marte-viviran-fenomenos-fascinantes-universo-1357665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-marte-constataria-alli-tiempo-pasa-deprisa-tierra-3262498.jpg?tf=1200x' alt='Los astronautas en Marte vivirán uno de los fenómenos más fascinantes del Universo: la dilatación del tiempo' />
+    <h4><a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426'>Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/alexa-espiando-conversaciones-puedes-evitarlo-blindar-privacidad-3262142.jpg?tf=1200x' alt='Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718'>Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-ring-anillo-samsung-llega-ano-primeras-imagenes-3262646.jpg?tf=1200x' alt='Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características' />
+    <h4><a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
+    <a href='https://computerhoy.com/mejores/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/como-elegir-portatil-perfecto-necesidades-no-morir-intento-3103006.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
     </a>
 </div>
 
