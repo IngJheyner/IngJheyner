@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inalambricos-comodos-estos-auriculares-conduccion-osea-son-tan-baratos-no-cuesta-probarlos-1356372'>Inalámbricos y cómodos: estos auriculares de conducción ósea son tan baratos que no cuesta probarlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inalambricos-comodos-estos-auriculares-conduccion-osea-son-tan-baratos-no-cuesta-probarlos-1356372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x4-3260237.jpg?tf=1200x' alt='Inalámbricos y cómodos: estos auriculares de conducción ósea son tan baratos que no cuesta probarlos' />
+    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida</a></h4>
+    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/haribo-3262513.jpg?tf=1200x' alt='Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevo-estudio-afirma-teletrabajo-no-ha-empeorado-productividad-trabajadores-1357821'>Un nuevo estudio afirma que el teletrabajo no ha empeorado la productividad de los trabajadores</a></h4>
-    <a href='https://computerhoy.com/life/nuevo-estudio-afirma-teletrabajo-no-ha-empeorado-productividad-trabajadores-1357821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teletrabajo-3207394.jpg?tf=1200x' alt='Un nuevo estudio afirma que el teletrabajo no ha empeorado la productividad de los trabajadores' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683'>Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-anade-nuevos-filtros-fotos-tengan-toque-diferente-1357809'>Instagram por fin añade nuevos filtros para que tus fotos tengan un toque diferente</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-anade-nuevos-filtros-fotos-tengan-toque-diferente-1357809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram por fin añade nuevos filtros para que tus fotos tengan un toque diferente' />
+    <h4><a href='https://computerhoy.com/life/10-diagnosticos-psiquiatricos-villanos-terror-victimas-1346892'>10 diagnósticos psiquiátricos de villanos del terror y sus víctimas</a></h4>
+    <a href='https://computerhoy.com/life/10-diagnosticos-psiquiatricos-villanos-terror-victimas-1346892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-diagnosticos-psiquiatricos-villanos-terror-victimas-3243910.jpg?tf=1200x' alt='10 diagnósticos psiquiátricos de villanos del terror y sus víctimas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-s24-ya-aqui-viene-descuento-estos-son-precios-1357781'>El Samsung Galaxy S24 ya está aquí, y viene con descuento: estos son sus precios</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-s24-ya-aqui-viene-descuento-estos-son-precios-1357781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/familia-samsung-galaxy-s24-3261333.jpg?tf=1200x' alt='El Samsung Galaxy S24 ya está aquí, y viene con descuento: estos son sus precios' />
+    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573'>Cuál es mi código postal y cómo descubrirlo rápidamente</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cual-mi-codigo-postal-como-descubrirlo-3262147.jpg?tf=1200x' alt='Cuál es mi código postal y cómo descubrirlo rápidamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatgpt-dia-dia-chatbot-perfecto-estas-tres-tareas-sam-altman-1357785'>¿Quieres usar ChatGPT en tu día a día? El chatbot es perfecto para estas tres tareas, según Sam Altman</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatgpt-dia-dia-chatbot-perfecto-estas-tres-tareas-sam-altman-1357785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='¿Quieres usar ChatGPT en tu día a día? El chatbot es perfecto para estas tres tareas, según Sam Altman' />
+    <h4><a href='https://computerhoy.com/life/luz-ultravioleta-capaz-eliminar-cualquier-virus-no-todas-partes-1357841'>Si la luz ultravioleta es capaz de eliminar cualquier virus, ¿por qué no está en todas partes?</a></h4>
+    <a href='https://computerhoy.com/life/luz-ultravioleta-capaz-eliminar-cualquier-virus-no-todas-partes-1357841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luz-ultravioleta-virus-3262882.jpg?tf=1200x' alt='Si la luz ultravioleta es capaz de eliminar cualquier virus, ¿por qué no está en todas partes?' />
     </a>
 </div>
 
