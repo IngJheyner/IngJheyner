@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/serpiente-venenosa-dispensador-hielo-frigorifico-1357747'>Lo último que esperas que salga del dispensador de agua del frigorífico: una serpiente venenosa</a></h4>
+    <a href='https://computerhoy.com/life/serpiente-venenosa-dispensador-hielo-frigorifico-1357747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ultimo-esperas-encontrar-dispensador-hielo-frigorifico-serpiente-venenosa-3262699.jpg?tf=1200x' alt='Lo último que esperas que salga del dispensador de agua del frigorífico: una serpiente venenosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-se-creo-petroleo-gas-natural-1357730'>Mito desmentido: el petróleo y el gas natural no provienen de los dinosaurios, ¿cómo se crearon?</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-se-creo-petroleo-gas-natural-1357730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mito-desmentido-petroleo-no-proviene-dinosaurios-como-creo-3262627.jpg?tf=1200x' alt='Mito desmentido: el petróleo y el gas natural no provienen de los dinosaurios, ¿cómo se crearon?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256'>Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-auriculares-inalambricos-son-acuaticos-sirven-nadar-pero-mejor-precio-1356256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Estos auriculares inalámbricos son acuáticos y sirven para nadar, pero lo mejor es su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718'>Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características</a></h4>
     <a href='https://computerhoy.com/tecnologia/desvela-samsung-galaxy-ring-anillo-inteligente-samsung-1357718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-ring-anillo-samsung-llega-ano-primeras-imagenes-3262646.jpg?tf=1200x' alt='Samsung Galaxy Ring, el anillo inteligente de Samsung, llega este año: primeras imágenes y características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bullet-journal-metodo-organizarte-mejorar-productividad-1353212'>Qué es Bullet Journal y cómo funciona el mejor método para organizarte y mejorar tu productividad en 2024</a></h4>
-    <a href='https://computerhoy.com/life/bullet-journal-metodo-organizarte-mejorar-productividad-1353212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/bullet-journal-como-funciona-mejor-metodo-organizarte-mejorar-productividad-2024-3255098.jpg?tf=1200x' alt='Qué es Bullet Journal y cómo funciona el mejor método para organizarte y mejorar tu productividad en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/restaurante-sirve-sopa-hecha-hace-50-anos-1357641'>Este restaurante sirve una sopa hecha hace más de 50 años y afirman que es exquisita</a></h4>
-    <a href='https://computerhoy.com/life/restaurante-sirve-sopa-hecha-hace-50-anos-1357641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/seguro-comer-caldo-medio-siglo-3262523.jpg?tf=1200x' alt='Este restaurante sirve una sopa hecha hace más de 50 años y afirman que es exquisita' />
     </a>
 </div>
 
