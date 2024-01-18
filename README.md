@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-compania-no-va-reembolsarte-200-euros-1357830'>La Guardia Civil alerta de una nueva estafa: esta conocida compañía no va a reembolsarte 200 euros</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-compania-no-va-reembolsarte-200-euros-1357830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-alerta-nueva-estafa-conocida-compania-no-va-reembolsarte-200-euros-3262814.jpg?tf=1200x' alt='La Guardia Civil alerta de una nueva estafa: esta conocida compañía no va a reembolsarte 200 euros' />
+    <h4><a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938'>Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos </a></h4>
+    <a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/insomnio-3263011.jpg?tf=1200x' alt='Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hielo-parabrisas-cada-manana-solucion-cocina-1357941'>¿Hielo en el parabrisas cada mañana? La solución está en tu cocina</a></h4>
-    <a href='https://computerhoy.com/motor/hielo-parabrisas-cada-manana-solucion-cocina-1357941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hielo-parabrisas-cada-manana-prueba-usar-estos-vegetales-3262999.jpg?tf=1200x' alt='¿Hielo en el parabrisas cada mañana? La solución está en tu cocina' />
+    <h4><a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926'>5 novelas clásicas de ciencia ficción que se adelantaron años a su época</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-3262950.jpg?tf=1200x' alt='5 novelas clásicas de ciencia ficción que se adelantaron años a su época' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/whatsapp-son-cuatro-nuevas-funciones-canales-1357873'>WhatsApp: así son las cuatro nuevas funciones que prometen revolucionar sus canales</a></h4>
-    <a href='https://computerhoy.com/redes/whatsapp-son-cuatro-nuevas-funciones-canales-1357873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-canales-whatsapp-3262939.jpg?tf=1200x' alt='WhatsApp: así son las cuatro nuevas funciones que prometen revolucionar sus canales' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-sorprendente-uso-posos-cafe-1357997'>Descubren un sorprendente uso para los posos de café, que solucionaría un grave problema</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-nuevo-sorprendente-uso-posos-cafe-1357997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-nuevo-sorprendente-uso-posos-cafe-solucionaria-grave-problema-medioambiental-3262928.jpg?tf=1200x' alt='Descubren un sorprendente uso para los posos de café, que solucionaría un grave problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida</a></h4>
-    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/haribo-3262513.jpg?tf=1200x' alt='Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-abandona-siempre-grandes-apuestas-adios-black-mirror-1357993'>Netflix abandona para siempre una de sus grandes apuestas: adiós a este Black Mirror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-abandona-siempre-grandes-apuestas-adios-black-mirror-1357993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/black-mirror-bandersnatch_5.jpg?tf=1200x' alt='Netflix abandona para siempre una de sus grandes apuestas: adiós a este Black Mirror' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683'>Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-saber-antes-compartir-dni-internet-1357862'>Piénsalo bien: esto es lo que tienes que saber antes de compartir tu DNI por Internet</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tienes-saber-antes-compartir-dni-internet-1357862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Piénsalo bien: esto es lo que tienes que saber antes de compartir tu DNI por Internet' />
     </a>
 </div>
 
