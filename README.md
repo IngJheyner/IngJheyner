@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-trabaja-plan-suscripcion-alexa-impulsada-ia-aunque-no-siendo-facil-1357773'>Amazon trabaja en un plan de suscripción para Alexa impulsada por IA aunque no está siendo fácil</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-trabaja-plan-suscripcion-alexa-impulsada-ia-aunque-no-siendo-facil-1357773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/amazon-multada-casi-30-millones-euros-violaciones-privacidad-datos-alexa-ring-3047914.jpg?tf=1200x' alt='Amazon trabaja en un plan de suscripción para Alexa impulsada por IA aunque no está siendo fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/inalambricos-comodos-estos-auriculares-conduccion-osea-son-tan-baratos-no-cuesta-probarlos-1356372'>Inalámbricos y cómodos: estos auriculares de conducción ósea son tan baratos que no cuesta probarlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inalambricos-comodos-estos-auriculares-conduccion-osea-son-tan-baratos-no-cuesta-probarlos-1356372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x4-3260237.jpg?tf=1200x' alt='Inalámbricos y cómodos: estos auriculares de conducción ósea son tan baratos que no cuesta probarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    <h4><a href='https://computerhoy.com/life/nuevo-estudio-afirma-teletrabajo-no-ha-empeorado-productividad-trabajadores-1357821'>Un nuevo estudio afirma que el teletrabajo no ha empeorado la productividad de los trabajadores</a></h4>
+    <a href='https://computerhoy.com/life/nuevo-estudio-afirma-teletrabajo-no-ha-empeorado-productividad-trabajadores-1357821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teletrabajo-3207394.jpg?tf=1200x' alt='Un nuevo estudio afirma que el teletrabajo no ha empeorado la productividad de los trabajadores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>El verdadero sabor de los ositos de Haribo que ha dejado a todo el mundo en shock</a></h4>
-    <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/haribo-3262513.jpg?tf=1200x' alt='El verdadero sabor de los ositos de Haribo que ha dejado a todo el mundo en shock' />
+    <h4><a href='https://computerhoy.com/apps/instagram-anade-nuevos-filtros-fotos-tengan-toque-diferente-1357809'>Instagram por fin añade nuevos filtros para que tus fotos tengan un toque diferente</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-anade-nuevos-filtros-fotos-tengan-toque-diferente-1357809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/instagram-3022000.jpg?tf=1200x' alt='Instagram por fin añade nuevos filtros para que tus fotos tengan un toque diferente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/historia-dell-1350539'>Historia de Dell: cómo un universitario de 19 años fundó una empresa de ordenadores que hoy en día es una de las más grandes del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/historia-dell-1350539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-dell-3251721.jpg?tf=1200x' alt='Historia de Dell: cómo un universitario de 19 años fundó una empresa de ordenadores que hoy en día es una de las más grandes del mundo' />
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-s24-ya-aqui-viene-descuento-estos-son-precios-1357781'>El Samsung Galaxy S24 ya está aquí, y viene con descuento: estos son sus precios</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-s24-ya-aqui-viene-descuento-estos-son-precios-1357781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/familia-samsung-galaxy-s24-3261333.jpg?tf=1200x' alt='El Samsung Galaxy S24 ya está aquí, y viene con descuento: estos son sus precios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426'>Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/evitar-amazon-alexa-espia-1357426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/alexa-espiando-conversaciones-puedes-evitarlo-blindar-privacidad-3262142.jpg?tf=1200x' alt='Amazon Alexa está espiando tus conversaciones y así puedes evitarlo para blindar tu privacidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatgpt-dia-dia-chatbot-perfecto-estas-tres-tareas-sam-altman-1357785'>¿Quieres usar ChatGPT en tu día a día? El chatbot es perfecto para estas tres tareas, según Sam Altman</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatgpt-dia-dia-chatbot-perfecto-estas-tres-tareas-sam-altman-1357785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='¿Quieres usar ChatGPT en tu día a día? El chatbot es perfecto para estas tres tareas, según Sam Altman' />
     </a>
 </div>
 
