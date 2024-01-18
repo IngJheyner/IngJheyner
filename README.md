@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-compania-no-va-reembolsarte-200-euros-1357830'>La Guardia Civil alerta de una nueva estafa: esta conocida compañía no va a reembolsarte 200 euros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-compania-no-va-reembolsarte-200-euros-1357830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-alerta-nueva-estafa-conocida-compania-no-va-reembolsarte-200-euros-3262814.jpg?tf=1200x' alt='La Guardia Civil alerta de una nueva estafa: esta conocida compañía no va a reembolsarte 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/hielo-parabrisas-cada-manana-solucion-cocina-1357941'>¿Hielo en el parabrisas cada mañana? La solución está en tu cocina</a></h4>
+    <a href='https://computerhoy.com/motor/hielo-parabrisas-cada-manana-solucion-cocina-1357941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hielo-parabrisas-cada-manana-prueba-usar-estos-vegetales-3262999.jpg?tf=1200x' alt='¿Hielo en el parabrisas cada mañana? La solución está en tu cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/whatsapp-son-cuatro-nuevas-funciones-canales-1357873'>WhatsApp: así son las cuatro nuevas funciones que prometen revolucionar sus canales</a></h4>
+    <a href='https://computerhoy.com/redes/whatsapp-son-cuatro-nuevas-funciones-canales-1357873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novedades-canales-whatsapp-3262939.jpg?tf=1200x' alt='WhatsApp: así son las cuatro nuevas funciones que prometen revolucionar sus canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118'>Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida</a></h4>
     <a href='https://computerhoy.com/life/redes-estado-shock-descubrir-verdadero-sabor-ositos-verdes-haribo-1234118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/haribo-3262513.jpg?tf=1200x' alt='Descubren el verdadero sabor de los ositos Haribo, has vivido engañado toda la vida' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683'>Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-contrasenas-guardadas-chrome-1357683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Cómo ver todas tus contraseñas guardadas en Google Chrome y protegerlas de los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-diagnosticos-psiquiatricos-villanos-terror-victimas-1346892'>10 diagnósticos psiquiátricos de villanos del terror y sus víctimas</a></h4>
-    <a href='https://computerhoy.com/life/10-diagnosticos-psiquiatricos-villanos-terror-victimas-1346892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-diagnosticos-psiquiatricos-villanos-terror-victimas-3243910.jpg?tf=1200x' alt='10 diagnósticos psiquiátricos de villanos del terror y sus víctimas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573'>Cuál es mi código postal y cómo descubrirlo rápidamente</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cual-mi-codigo-postal-como-descubrirlo-1048573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cual-mi-codigo-postal-como-descubrirlo-3262147.jpg?tf=1200x' alt='Cuál es mi código postal y cómo descubrirlo rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/luz-ultravioleta-capaz-eliminar-cualquier-virus-no-todas-partes-1357841'>Si la luz ultravioleta es capaz de eliminar cualquier virus, ¿por qué no está en todas partes?</a></h4>
-    <a href='https://computerhoy.com/life/luz-ultravioleta-capaz-eliminar-cualquier-virus-no-todas-partes-1357841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luz-ultravioleta-virus-3262882.jpg?tf=1200x' alt='Si la luz ultravioleta es capaz de eliminar cualquier virus, ¿por qué no está en todas partes?' />
     </a>
 </div>
 
