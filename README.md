@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-prime-video-movistar-plus-saw-creator-mucho-terror-1358141'>Qué películas ver este fin de semana en Disney+, Prime Video y Movistar Plus+: Saw, The Creator y mucho terror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-prime-video-movistar-plus-saw-creator-mucho-terror-1358141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/peliculas-fin-semana-3263432.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Prime Video y Movistar Plus+: Saw, The Creator y mucho terror' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-podria-provocar-ordenadores-nuevos-sean-mucho-caros-1358308'>Windows 12 podría provocar que los ordenadores nuevos sean mucho más caros</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-podria-provocar-ordenadores-nuevos-sean-mucho-caros-1358308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/windows-12-3143120.jpg?tf=1200x' alt='Windows 12 podría provocar que los ordenadores nuevos sean mucho más caros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-5-camino-esperar-nueva-version-inteligencia-artificial-chatgpt-1358074'>GPT-5 en camino: ¿qué esperar de la nueva versión de la inteligencia artificial de ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-5-camino-esperar-nueva-version-inteligencia-artificial-chatgpt-1358074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gpt-5-camino-puede-esperarse-nueva-version-inteligencia-artificial-chatgpt-3263173.jpg?tf=1200x' alt='GPT-5 en camino: ¿qué esperar de la nueva versión de la inteligencia artificial de ChatGPT?' />
+    <h4><a href='https://computerhoy.com/tutoriales/8-trucos-efectivos-bateria-iphone-dure-mucho-1353143'>8 trucos efectivos para que la batería de tu iPhone dure mucho más</a></h4>
+    <a href='https://computerhoy.com/tutoriales/8-trucos-efectivos-bateria-iphone-dure-mucho-1353143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='8 trucos efectivos para que la batería de tu iPhone dure mucho más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-1358118'>Sadfishing: cuando la tristeza ayuda a conseguir “likes” en redes sociales</a></h4>
-    <a href='https://computerhoy.com/redes/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-1358118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-3263271.jpg?tf=1200x' alt='Sadfishing: cuando la tristeza ayuda a conseguir “likes” en redes sociales' />
+    <h4><a href='https://computerhoy.com/pc/almohadilla-termica-grafeno-vs-pasta-termica-cual-mejor-1357715'>Qué es una almohadilla térmica de grafeno y en qué se diferencia de la pasta térmica convencional</a></h4>
+    <a href='https://computerhoy.com/pc/almohadilla-termica-grafeno-vs-pasta-termica-cual-mejor-1357715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/almohadilla-termica-grafeno-diferencia-pasta-termica-convencional-3262695.jpg?tf=1200x' alt='Qué es una almohadilla térmica de grafeno y en qué se diferencia de la pasta térmica convencional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880'>La configuración oculta de Google Maps que deberías cambiar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-3262711.jpg?tf=1200x' alt='La configuración oculta de Google Maps que deberías cambiar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-reloj-gps-xiaomi-increiblemente-barato-ahora-miravia-1357824'>No es un error: este reloj GPS de Xiaomi es increíblemente barato ahora en Miravia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-reloj-gps-xiaomi-increiblemente-barato-ahora-miravia-1357824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-mi-watch-3262742.jpg?tf=1200x' alt='No es un error: este reloj GPS de Xiaomi es increíblemente barato ahora en Miravia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151'>Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novias-inteligencia-artificial-3263381.jpg?tf=1200x' alt='Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?' />
+    <h4><a href='https://computerhoy.com/tutoriales/atajos-teclado-no-funcionan-windows-11-1357744'>8 cosas que puedes hacer si los atajos de teclado dejan de funcionar en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/atajos-teclado-no-funcionan-windows-11-1357744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-puedes-hacer-atajos-teclado-dejan-funcionar-windows-11-3262710.jpg?tf=1200x' alt='8 cosas que puedes hacer si los atajos de teclado dejan de funcionar en Windows 11' />
     </a>
 </div>
 
