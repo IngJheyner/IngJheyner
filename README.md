@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/vision-pro-apple-ya-venta-comprarlas-sera-castigo-pero-prometen-ser-revolucion-medicina-1358065'>Las Apple Vision Pro ya están a la venta: triunfarán en sectores como la medicina y la educación, según los expertos</a></h4>
+    <a href='https://computerhoy.com/apple/vision-pro-apple-ya-venta-comprarlas-sera-castigo-pero-prometen-ser-revolucion-medicina-1358065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vision-pro-3051532.jpg?tf=1200x' alt='Las Apple Vision Pro ya están a la venta: triunfarán en sectores como la medicina y la educación, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-660-computer-hoy-1355813'>¡Ya está en tu quiosco el número 660 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-660-computer-hoy-1355813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/computer-hoy-660-3260126.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 660 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653'>Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis</a></h4>
     <a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3263005.jpg?tf=1200x' alt='Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671'>Este smartwatch con GPS y con IA es barato y de una marca top como Nothing</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-watch-pro-3255739.jpg?tf=1200x' alt='Este smartwatch con GPS y con IA es barato y de una marca top como Nothing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049'>Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-robots-humanoides-acaban-firmar-contrato-trabajar-fabricas-bmw-3263147.jpg?tf=1200x' alt='Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-laptop-go-3-analisis-opinion-portatil-ultraligero-1356083'>Microsoft Surface Laptop Go 3 es el sueño de quien trabaja entre la oficina y una cafetería, pero se está quedando peligrosamente desfasado</a></h4>
-    <a href='https://computerhoy.com/analisis/microsoft-surface-laptop-go-3-analisis-opinion-portatil-ultraligero-1356083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-surface-laptop-go-3-3260204.jpg?tf=1200x' alt='Microsoft Surface Laptop Go 3 es el sueño de quien trabaja entre la oficina y una cafetería, pero se está quedando peligrosamente desfasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297'>Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matepad-pro-132-analisis-opinion-caracteristica-me-ha-gustado-3261994.jpg?tf=1200x' alt='Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas' />
     </a>
 </div>
 
