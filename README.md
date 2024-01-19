@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961'>El truco para que el apagón de la TDT no te afecte, y sin comprar nada</a></h4>
+    <a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-apagon-tdt-no-te-afecte-comprar-nada-3263116.jpg?tf=1200x' alt='El truco para que el apagón de la TDT no te afecte, y sin comprar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-1358030'>71 millones de cuentas y 25 millones de contraseñas nunca hackeadas, a la venta en la Dark Web: Comprueba si está la tuya entre ellas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-1358030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-dark-web-ellas-3263091.jpg?tf=1200x' alt='71 millones de cuentas y 25 millones de contraseñas nunca hackeadas, a la venta en la Dark Web: Comprueba si está la tuya entre ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-pone-windows-11-volar-precio-regalo-1357877'>Ryzen 7 y 16GB de RAM: este mini PC corre Windows 11 como la seda y su precio es un regalo</a></h4>
+    <a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-pone-windows-11-volar-precio-regalo-1357877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trigkey-mini-pc-3262924.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM: este mini PC corre Windows 11 como la seda y su precio es un regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938'>Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos </a></h4>
     <a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/insomnio-3263011.jpg?tf=1200x' alt='Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926'>5 novelas clásicas de ciencia ficción que se adelantaron años a su época</a></h4>
     <a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-3262950.jpg?tf=1200x' alt='5 novelas clásicas de ciencia ficción que se adelantaron años a su época' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-sorprendente-uso-posos-cafe-1357997'>Descubren un sorprendente uso para los posos de café, que solucionaría un grave problema</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-nuevo-sorprendente-uso-posos-cafe-1357997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-nuevo-sorprendente-uso-posos-cafe-solucionaria-grave-problema-medioambiental-3262928.jpg?tf=1200x' alt='Descubren un sorprendente uso para los posos de café, que solucionaría un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-abandona-siempre-grandes-apuestas-adios-black-mirror-1357993'>Netflix abandona para siempre una de sus grandes apuestas: adiós a este Black Mirror</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-abandona-siempre-grandes-apuestas-adios-black-mirror-1357993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/black-mirror-bandersnatch_5.jpg?tf=1200x' alt='Netflix abandona para siempre una de sus grandes apuestas: adiós a este Black Mirror' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tienes-saber-antes-compartir-dni-internet-1357862'>Piénsalo bien: esto es lo que tienes que saber antes de compartir tu DNI por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tienes-saber-antes-compartir-dni-internet-1357862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Piénsalo bien: esto es lo que tienes que saber antes de compartir tu DNI por Internet' />
     </a>
 </div>
 
