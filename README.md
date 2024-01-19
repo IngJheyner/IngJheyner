@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estudio-confirma-buscador-google-funciona-cada-vez-peor-1358037'>Un estudio confirma lo que ya sabíamos: que el buscador de Google y el resto, funcionan cada vez peor</a></h4>
+    <a href='https://computerhoy.com/google/estudio-confirma-buscador-google-funciona-cada-vez-peor-1358037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/buscador-google_0.jpg?tf=1200x' alt='Un estudio confirma lo que ya sabíamos: que el buscador de Google y el resto, funcionan cada vez peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961'>El truco para que el apagón de la TDT no te afecte, y sin comprar nada</a></h4>
     <a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-apagon-tdt-no-te-afecte-comprar-nada-3263116.jpg?tf=1200x' alt='El truco para que el apagón de la TDT no te afecte, y sin comprar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938'>Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos </a></h4>
     <a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/insomnio-3263011.jpg?tf=1200x' alt='Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926'>5 novelas clásicas de ciencia ficción que se adelantaron años a su época</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-1357926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-novelas-clasicas-ciencia-ficcion-adelantaron-anos-epoca-3262950.jpg?tf=1200x' alt='5 novelas clásicas de ciencia ficción que se adelantaron años a su época' />
     </a>
 </div>
 
