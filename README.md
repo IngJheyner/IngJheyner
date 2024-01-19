@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-prime-video-movistar-plus-saw-creator-mucho-terror-1358141'>Qué películas ver este fin de semana en Disney+, Prime Video y Movistar Plus+: Saw, The Creator y mucho terror</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ver-fin-semana-disney-prime-video-movistar-plus-saw-creator-mucho-terror-1358141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/peliculas-fin-semana-3263432.jpg?tf=1200x' alt='Qué películas ver este fin de semana en Disney+, Prime Video y Movistar Plus+: Saw, The Creator y mucho terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-5-camino-esperar-nueva-version-inteligencia-artificial-chatgpt-1358074'>GPT-5 en camino: ¿qué esperar de la nueva versión de la inteligencia artificial de ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-5-camino-esperar-nueva-version-inteligencia-artificial-chatgpt-1358074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gpt-5-camino-puede-esperarse-nueva-version-inteligencia-artificial-chatgpt-3263173.jpg?tf=1200x' alt='GPT-5 en camino: ¿qué esperar de la nueva versión de la inteligencia artificial de ChatGPT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-1358118'>Sadfishing: cuando la tristeza ayuda a conseguir “likes” en redes sociales</a></h4>
+    <a href='https://computerhoy.com/redes/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-1358118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sadfishing-cuando-tristeza-ayuda-conseguir-likes-redes-sociales-3263271.jpg?tf=1200x' alt='Sadfishing: cuando la tristeza ayuda a conseguir “likes” en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880'>La configuración oculta de Google Maps que deberías cambiar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-1281880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/configuracion-oculta-google-maps-deberias-cambiar-ahora-mismo-3262711.jpg?tf=1200x' alt='La configuración oculta de Google Maps que deberías cambiar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151'>Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?</a></h4>
     <a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novias-inteligencia-artificial-3263381.jpg?tf=1200x' alt='Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-dispositivo-quiere-acabar-moviles-triunfa-pone-cosas-dificiles-apple-google-1358095'>Rabbit R1, el dispositivo que quiere acabar con los móviles, triunfa y pone las cosas difíciles a Apple y Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1-dispositivo-quiere-acabar-moviles-triunfa-pone-cosas-dificiles-apple-google-1358095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='Rabbit R1, el dispositivo que quiere acabar con los móviles, triunfa y pone las cosas difíciles a Apple y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-thermomix-robot-cocina-llega-espana-barato-1357528'>Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-thermomix-robot-cocina-llega-espana-barato-1357528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/japon-quiere-lograr-aterrizaje-luna-apodado-como-francotirador-lunar-1358097'>Japón quiere lograr un aterrizaje de cirujano en la Luna con el apodado como "francotirador lunar"</a></h4>
-    <a href='https://computerhoy.com/espacio/japon-quiere-lograr-aterrizaje-luna-apodado-como-francotirador-lunar-1358097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-aterrizaje-luna-3263252.jpg?tf=1200x' alt='Japón quiere lograr un aterrizaje de cirujano en la Luna con el apodado como "francotirador lunar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerbeg-une-carrera-lograr-ia-sea-tan-inteligente-como-humano-1358075'>Mark Zuckerberg se une a la batalla para lograr que la IA sea tan inteligente como un humano, pero no lo tiene fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mark-zuckerbeg-une-carrera-lograr-ia-sea-tan-inteligente-como-humano-1358075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mark-zuckerbeg-ia-3263222.jpg?tf=1200x' alt='Mark Zuckerberg se une a la batalla para lograr que la IA sea tan inteligente como un humano, pero no lo tiene fácil' />
     </a>
 </div>
 
