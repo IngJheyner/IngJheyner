@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653'>Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis</a></h4>
+    <a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3263005.jpg?tf=1200x' alt='Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671'>Este smartwatch con GPS y con IA es barato y de una marca top como Nothing</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-watch-pro-3255739.jpg?tf=1200x' alt='Este smartwatch con GPS y con IA es barato y de una marca top como Nothing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049'>Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-robots-humanoides-acaban-firmar-contrato-trabajar-fabricas-bmw-3263147.jpg?tf=1200x' alt='Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297'>Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas</a></h4>
     <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matepad-pro-132-analisis-opinion-caracteristica-me-ha-gustado-3261994.jpg?tf=1200x' alt='Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diferencias-copilot-copilot-pro-ia-windows-11-1357642'>Diferencias entre Copilot y Copilot Pro: ¿merece la pena pagar por la IA de Windows 11?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diferencias-copilot-copilot-pro-ia-windows-11-1357642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Diferencias entre Copilot y Copilot Pro: ¿merece la pena pagar por la IA de Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-barato-xiaomi-comprar-estos-son-mejores-1357906'>Qué móvil barato de Xiaomi comprar: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/android/movil-barato-xiaomi-comprar-estos-son-mejores-1357906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/redmi-note-13-series-3262885.jpg?tf=1200x' alt='Qué móvil barato de Xiaomi comprar: estos son los mejores' />
     </a>
 </div>
 
