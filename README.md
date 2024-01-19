@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151'>Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/novias-creadas-inteligencia-artificial-triunfan-pero-donde-estan-novios-virtuales-1358151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/novias-inteligencia-artificial-3263381.jpg?tf=1200x' alt='Las "novias" creadas con inteligencia artificial triunfan, pero ¿dónde están los novios virtuales?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/vision-pro-apple-ya-venta-comprarlas-sera-castigo-pero-prometen-ser-revolucion-medicina-1358065'>Las Apple Vision Pro ya están a la venta: triunfarán en sectores como la medicina y la educación, según los expertos</a></h4>
-    <a href='https://computerhoy.com/apple/vision-pro-apple-ya-venta-comprarlas-sera-castigo-pero-prometen-ser-revolucion-medicina-1358065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/vision-pro-3051532.jpg?tf=1200x' alt='Las Apple Vision Pro ya están a la venta: triunfarán en sectores como la medicina y la educación, según los expertos' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-dispositivo-quiere-acabar-moviles-triunfa-pone-cosas-dificiles-apple-google-1358095'>Rabbit R1, el dispositivo que quiere acabar con los móviles, triunfa y pone las cosas difíciles a Apple y Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-dispositivo-quiere-acabar-moviles-triunfa-pone-cosas-dificiles-apple-google-1358095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3263345.jpg?tf=1200x' alt='Rabbit R1, el dispositivo que quiere acabar con los móviles, triunfa y pone las cosas difíciles a Apple y Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-660-computer-hoy-1355813'>¡Ya está en tu quiosco el número 660 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-660-computer-hoy-1355813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/computer-hoy-660-3260126.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 660 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-thermomix-robot-cocina-llega-espana-barato-1357528'>Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-deja-ko-thermomix-robot-cocina-llega-espana-barato-1357528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653'>Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis</a></h4>
-    <a href='https://computerhoy.com/tv/apagon-tdt-2024-fecha-pasara-como-saber-estas-preparado-seguir-viendo-tv-gratis-1357653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3263005.jpg?tf=1200x' alt='Apagón TDT 2024: fecha, qué pasará, y cómo saber si estás preparado para seguir viendo la TV gratis' />
+    <h4><a href='https://computerhoy.com/espacio/japon-quiere-lograr-aterrizaje-luna-apodado-como-francotirador-lunar-1358097'>Japón quiere lograr un aterrizaje de cirujano en la Luna con el apodado como "francotirador lunar"</a></h4>
+    <a href='https://computerhoy.com/espacio/japon-quiere-lograr-aterrizaje-luna-apodado-como-francotirador-lunar-1358097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-aterrizaje-luna-3263252.jpg?tf=1200x' alt='Japón quiere lograr un aterrizaje de cirujano en la Luna con el apodado como "francotirador lunar"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671'>Este smartwatch con GPS y con IA es barato y de una marca top como Nothing</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-gps-ia-barato-marca-top-como-nothing-1353671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-watch-pro-3255739.jpg?tf=1200x' alt='Este smartwatch con GPS y con IA es barato y de una marca top como Nothing' />
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerbeg-une-carrera-lograr-ia-sea-tan-inteligente-como-humano-1358075'>Mark Zuckerberg se une a la batalla para lograr que la IA sea tan inteligente como un humano, pero no lo tiene fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerbeg-une-carrera-lograr-ia-sea-tan-inteligente-como-humano-1358075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mark-zuckerbeg-ia-3263222.jpg?tf=1200x' alt='Mark Zuckerberg se une a la batalla para lograr que la IA sea tan inteligente como un humano, pero no lo tiene fácil' />
     </a>
 </div>
 
