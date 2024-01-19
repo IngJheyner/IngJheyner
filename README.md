@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estudio-confirma-buscador-google-funciona-cada-vez-peor-1358037'>Un estudio confirma lo que ya sabíamos: que el buscador de Google y el resto, funcionan cada vez peor</a></h4>
-    <a href='https://computerhoy.com/google/estudio-confirma-buscador-google-funciona-cada-vez-peor-1358037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/buscador-google_0.jpg?tf=1200x' alt='Un estudio confirma lo que ya sabíamos: que el buscador de Google y el resto, funcionan cada vez peor' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049'>Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevos-trabajadores-bmw-robots-humanoides-figure-1358049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-robots-humanoides-acaban-firmar-contrato-trabajar-fabricas-bmw-3263147.jpg?tf=1200x' alt='Estos robots humanoides acaban de firmar un contrato para trabajar en las fábricas de BMW' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961'>El truco para que el apagón de la TDT no te afecte, y sin comprar nada</a></h4>
-    <a href='https://computerhoy.com/tv/truco-apagon-tdt-no-te-afecte-comprar-nada-1357961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/truco-apagon-tdt-no-te-afecte-comprar-nada-3263116.jpg?tf=1200x' alt='El truco para que el apagón de la TDT no te afecte, y sin comprar nada' />
+    <h4><a href='https://computerhoy.com/analisis/microsoft-surface-laptop-go-3-analisis-opinion-portatil-ultraligero-1356083'>Microsoft Surface Laptop Go 3 es el sueño de quien trabaja entre la oficina y una cafetería, pero se está quedando peligrosamente desfasado</a></h4>
+    <a href='https://computerhoy.com/analisis/microsoft-surface-laptop-go-3-analisis-opinion-portatil-ultraligero-1356083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-surface-laptop-go-3-3260204.jpg?tf=1200x' alt='Microsoft Surface Laptop Go 3 es el sueño de quien trabaja entre la oficina y una cafetería, pero se está quedando peligrosamente desfasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-1358030'>71 millones de cuentas y 25 millones de contraseñas nunca hackeadas, a la venta en la Dark Web: Comprueba si está la tuya entre ellas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-1358030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/71-millones-cuentas-25-millones-contrasenas-nunca-hackeadas-venta-dark-web-ellas-3263091.jpg?tf=1200x' alt='71 millones de cuentas y 25 millones de contraseñas nunca hackeadas, a la venta en la Dark Web: Comprueba si está la tuya entre ellas' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297'>Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-matepad-pro-132-pulgadas-1357297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matepad-pro-132-analisis-opinion-caracteristica-me-ha-gustado-3261994.jpg?tf=1200x' alt='Lo que más me ha gustado de la nueva tablet Huawei MatePad Pro de 13,2 pulgadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-pone-windows-11-volar-precio-regalo-1357877'>Ryzen 7 y 16GB de RAM: este mini PC corre Windows 11 como la seda y su precio es un regalo</a></h4>
-    <a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-pone-windows-11-volar-precio-regalo-1357877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trigkey-mini-pc-3262924.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM: este mini PC corre Windows 11 como la seda y su precio es un regalo' />
+    <h4><a href='https://computerhoy.com/tecnologia/diferencias-copilot-copilot-pro-ia-windows-11-1357642'>Diferencias entre Copilot y Copilot Pro: ¿merece la pena pagar por la IA de Windows 11?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencias-copilot-copilot-pro-ia-windows-11-1357642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Diferencias entre Copilot y Copilot Pro: ¿merece la pena pagar por la IA de Windows 11?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938'>Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos </a></h4>
-    <a href='https://computerhoy.com/life/sufres-insomnio-prueba-cambiar-dieta-comer-estos-alimentos-1357938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/insomnio-3263011.jpg?tf=1200x' alt='Si sufres insomnio prueba a cambiar tu dieta y comer estos alimentos ' />
+    <h4><a href='https://computerhoy.com/android/movil-barato-xiaomi-comprar-estos-son-mejores-1357906'>Qué móvil barato de Xiaomi comprar: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/android/movil-barato-xiaomi-comprar-estos-son-mejores-1357906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/redmi-note-13-series-3262885.jpg?tf=1200x' alt='Qué móvil barato de Xiaomi comprar: estos son los mejores' />
     </a>
 </div>
 
