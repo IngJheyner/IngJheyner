@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-android-podria-cambiar-siempre-visualizacion-archivos-pdf-1358465'>Google Chrome para Android podría cambiar para siempre la visualización de archivos PDF</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-chrome-android-podria-cambiar-siempre-visualizacion-archivos-pdf-1358465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-pdf-3263819.jpg?tf=1200x' alt='Google Chrome para Android podría cambiar para siempre la visualización de archivos PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parche-cutaneo-controlado-movil-libera-medicamentos-1358454'>El parche cutáneo controlado por el móvil que libera medicamentos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parche-cutaneo-controlado-movil-libera-medicamentos-1358454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spatiotemporal-demand-patch-sop-3263800.jpg?tf=1200x' alt='El parche cutáneo controlado por el móvil que libera medicamentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/portatil-game-pass-steam-ahora-oferta-asus-rog-ally-revienta-precio-1356732'>Portátil, con Game Pass y con Steam, y ahora de oferta: la ASUS ROG Ally revienta su precio</a></h4>
+    <a href='https://computerhoy.com/gaming/portatil-game-pass-steam-ahora-oferta-asus-rog-ally-revienta-precio-1356732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-rog-ally-3260866.jpg?tf=1200x' alt='Portátil, con Game Pass y con Steam, y ahora de oferta: la ASUS ROG Ally revienta su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cambiara-forma-te-recomienda-contenido-1358444'>Netflix cambiará la forma en la que te recomienda contenido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-cambiara-forma-te-recomienda-contenido-1358444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Netflix cambiará la forma en la que te recomienda contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442'>Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/pasara-canales-autonomicos-locales-tdt-apagon-14-febrero-1358434'>¿Qué pasará con los canales autonómicos y locales de la TDT tras el apagón del 14 de febrero?</a></h4>
-    <a href='https://computerhoy.com/tv/pasara-canales-autonomicos-locales-tdt-apagon-14-febrero-1358434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ver-television-3263774.jpg?tf=1200x' alt='¿Qué pasará con los canales autonómicos y locales de la TDT tras el apagón del 14 de febrero?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-secreta-amazon-fire-tv-stick-olvidarte-mandos-control-1358423'>La función secreta de tu Amazon Fire TV stick para olvidarte de los mandos de control</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-secreta-amazon-fire-tv-stick-olvidarte-mandos-control-1358423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='La función secreta de tu Amazon Fire TV stick para olvidarte de los mandos de control' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-paginas-pdf-gratis-instalar-nada-1351627'>Cómo eliminar páginas PDF gratis sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-paginas-pdf-gratis-instalar-nada-1351627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-eliminar-paginas-pdf-gratis-instalar-nada-3252086.jpg?tf=1200x' alt='Cómo eliminar páginas PDF gratis sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088'>10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas</a></h4>
-    <a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diez-trucos-bloquear-pc-windows-ocultar-datos-miradas-indiscretas-3261541.jpg?tf=1200x' alt='10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas' />
     </a>
 </div>
 
