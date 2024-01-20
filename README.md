@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361'>El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas</a></h4>
+    <a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/primer-astronauta-muerto-espacio-dio-vida-salvar-companero-3263668.jpg?tf=1200x' alt='El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/bombillas-philips-hue-tipos-hay-cuales-son-mejores-1358261'>Bombillas Philips Hue: qué tipos hay y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.com/hogar/bombillas-philips-hue-tipos-hay-cuales-son-mejores-1358261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/philips-hue-3009106.jpg?tf=1200x' alt='Bombillas Philips Hue: qué tipos hay y cuáles son las mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359'>Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios</a></h4>
     <a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gafas-apple-vision-pro-te-parecen-caras-espera-ver-cuestan-accesorios-3263657.jpg?tf=1200x' alt='Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350'>Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro</a></h4>
     <a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-quinto-pais-aterrizar-luna-pero-modulo-podria-morir-cuestion-horas-3263641.jpg?tf=1200x' alt='Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-auriculares-baratos-favoritos-cancelacion-ruido-solo-30-euros-1358149'>Son nuestros auriculares baratos favoritos: con cancelación de ruido y desde solo 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-auriculares-baratos-favoritos-cancelacion-ruido-solo-30-euros-1358149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-cmf-buds-pro-3256849.jpg?tf=1200x' alt='Son nuestros auriculares baratos favoritos: con cancelación de ruido y desde solo 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314'>Cómo encontrar y deshabilitar los programas que se inician con Windows para mejorar el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-deshabilitar-programas-inician-windows-mejorar-rendimiento-pc-3261987.jpg?tf=1200x' alt='Cómo encontrar y deshabilitar los programas que se inician con Windows para mejorar el rendimiento de tu PC' />
     </a>
 </div>
 
