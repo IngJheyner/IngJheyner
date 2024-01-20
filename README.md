@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ahondando-oscuro-internet-puedes-encontrar-dark-web-1355027'>Ahondando en lo más oscuro de Internet: esto es lo que puedes encontrar en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/internet/ahondando-oscuro-internet-puedes-encontrar-dark-web-1355027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3260851.jpg?tf=1200x' alt='Ahondando en lo más oscuro de Internet: esto es lo que puedes encontrar en la Dark Web' />
+    <h4><a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088'>10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas</a></h4>
+    <a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diez-trucos-bloquear-pc-windows-ocultar-datos-miradas-indiscretas-3261541.jpg?tf=1200x' alt='10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-funcionan-algoritmos-instagram-tiktok-1355026'>Así funcionan los algoritmos de Instagram, TikTok o Facebook: ¿Cómo les puedes sacar mayor partido?</a></h4>
-    <a href='https://computerhoy.com/apps/como-funcionan-algoritmos-instagram-tiktok-1355026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/algoritmos-redes-sociales-3261472.jpg?tf=1200x' alt='Así funcionan los algoritmos de Instagram, TikTok o Facebook: ¿Cómo les puedes sacar mayor partido?' />
+    <h4><a href='https://computerhoy.com/life/turista-devuelve-objetos-robados-pompeya-despues-sufrir-maldicion-1358397'>Turista devuelve objetos robados de Pompeya después de sufrir “una maldición”</a></h4>
+    <a href='https://computerhoy.com/life/turista-devuelve-objetos-robados-pompeya-despues-sufrir-maldicion-1358397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pompeya-3263734.jpg?tf=1200x' alt='Turista devuelve objetos robados de Pompeya después de sufrir “una maldición”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/pantallas-oled-todos-lados-pliegan-te-puedes-llevar-viaje-1357012'>Pantallas OLED en todos lados, se pliegan y hasta te las puedes llevar de viaje</a></h4>
-    <a href='https://computerhoy.com/tv/pantallas-oled-todos-lados-pliegan-te-puedes-llevar-viaje-1357012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-zenscreen-fold-oled-mq17qh-3261418.jpg?tf=1200x' alt='Pantallas OLED en todos lados, se pliegan y hasta te las puedes llevar de viaje' />
+    <h4><a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220'>Arqueólogos encuentran trampas explosivas y ríos de mercurio que protegen la tumba del primer emperador chino y sus guerreros de terracota</a></h4>
+    <a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guerreros-terracota-3263732.jpg?tf=1200x' alt='Arqueólogos encuentran trampas explosivas y ríos de mercurio que protegen la tumba del primer emperador chino y sus guerreros de terracota' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-ventajas-4-desventajas-tener-hbo-max-1357973'>He probado HBO Max durante años y tengo claro sus ventajas y desventajas: descubre si es para ti</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-ventajas-4-desventajas-tener-hbo-max-1357973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ventajas-desventajas-hbo-max-3263425.jpg?tf=1200x' alt='He probado HBO Max durante años y tengo claro sus ventajas y desventajas: descubre si es para ti' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-senala-grupo-piratas-informaticos-ha-tenido-acceso-correos-electronicos-altos-ejecutivos-1358385'>Microsoft señala que un grupo de piratas informáticos ha tenido acceso a correos electrónicos de sus altos ejecutivos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-senala-grupo-piratas-informaticos-ha-tenido-acceso-correos-electronicos-altos-ejecutivos-1358385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-hq-3263720.jpg?tf=1200x' alt='Microsoft señala que un grupo de piratas informáticos ha tenido acceso a correos electrónicos de sus altos ejecutivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361'>El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas</a></h4>
-    <a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/primer-astronauta-muerto-espacio-dio-vida-salvar-companero-3263668.jpg?tf=1200x' alt='El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-favoritas-oscar-2024-ya-puedes-ver-netflix-hbo-max-disney-skyshowtime-1357959'>Películas favoritas a los Óscar 2024 que ya puedes ver en Netflix, HBO Max, Disney+ o SkyShowtime</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-favoritas-oscar-2024-ya-puedes-ver-netflix-hbo-max-disney-skyshowtime-1357959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/warner-lia-japon-promocionar-fenomeno-barbenheimer-memes-graciosos-bombas-atomicas-rosas-3098436.jpg?tf=1200x' alt='Películas favoritas a los Óscar 2024 que ya puedes ver en Netflix, HBO Max, Disney+ o SkyShowtime' />
     </a>
 </div>
 
