@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359'>Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gafas-apple-vision-pro-te-parecen-caras-espera-ver-cuestan-accesorios-3263657.jpg?tf=1200x' alt='Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-1358349'>Cuenta atrás para el apagón de la TDT: ¿qué puedes hacer si tu televisor se queda en negro?</a></h4>
+    <a href='https://computerhoy.com/tv/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-1358349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-3263661.jpg?tf=1200x' alt='Cuenta atrás para el apagón de la TDT: ¿qué puedes hacer si tu televisor se queda en negro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350'>Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro</a></h4>
     <a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-quinto-pais-aterrizar-luna-pero-modulo-podria-morir-cuestion-horas-3263641.jpg?tf=1200x' alt='Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314'>Cómo encontrar y deshabilitar los programas que se inician con Windows para mejorar el rendimiento de tu PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-deshabilitar-programas-inician-windows-mejorar-rendimiento-pc-3261987.jpg?tf=1200x' alt='Cómo encontrar y deshabilitar los programas que se inician con Windows para mejorar el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fujitsu-pide-perdon-bugs-software-envio-personas-carcel-1358324'>Fujitsu pide perdón porque su software lleno de bugs envió a personas inocentes a la cárcel, algunas se suicidaron</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fujitsu-pide-perdon-bugs-software-envio-personas-carcel-1358324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fujitsu-pide-perdon-porque-software-lleno-bugs-envio-personas-carcel-suicidio-3263613.jpg?tf=1200x' alt='Fujitsu pide perdón porque su software lleno de bugs envió a personas inocentes a la cárcel, algunas se suicidaron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primera-aerolinea-espana-permite-subirse-avion-cara-1358314'>Primera aerolínea en España que permite subirse a un avión "por la cara"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primera-aerolinea-espana-permite-subirse-avion-cara-1358314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reconocimiento-facial-3263620.jpg?tf=1200x' alt='Primera aerolínea en España que permite subirse a un avión "por la cara"' />
     </a>
 </div>
 
