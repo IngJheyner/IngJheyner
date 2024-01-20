@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ahondando-oscuro-internet-puedes-encontrar-dark-web-1355027'>Ahondando en lo más oscuro de Internet: esto es lo que puedes encontrar en la Dark Web</a></h4>
+    <a href='https://computerhoy.com/internet/ahondando-oscuro-internet-puedes-encontrar-dark-web-1355027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3260851.jpg?tf=1200x' alt='Ahondando en lo más oscuro de Internet: esto es lo que puedes encontrar en la Dark Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-funcionan-algoritmos-instagram-tiktok-1355026'>Así funcionan los algoritmos de Instagram, TikTok o Facebook: ¿Cómo les puedes sacar mayor partido?</a></h4>
+    <a href='https://computerhoy.com/apps/como-funcionan-algoritmos-instagram-tiktok-1355026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/algoritmos-redes-sociales-3261472.jpg?tf=1200x' alt='Así funcionan los algoritmos de Instagram, TikTok o Facebook: ¿Cómo les puedes sacar mayor partido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/pantallas-oled-todos-lados-pliegan-te-puedes-llevar-viaje-1357012'>Pantallas OLED en todos lados, se pliegan y hasta te las puedes llevar de viaje</a></h4>
+    <a href='https://computerhoy.com/tv/pantallas-oled-todos-lados-pliegan-te-puedes-llevar-viaje-1357012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-zenscreen-fold-oled-mq17qh-3261418.jpg?tf=1200x' alt='Pantallas OLED en todos lados, se pliegan y hasta te las puedes llevar de viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-ventajas-4-desventajas-tener-hbo-max-1357973'>He probado HBO Max durante años y tengo claro sus ventajas y desventajas: descubre si es para ti</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-ventajas-4-desventajas-tener-hbo-max-1357973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ventajas-desventajas-hbo-max-3263425.jpg?tf=1200x' alt='He probado HBO Max durante años y tengo claro sus ventajas y desventajas: descubre si es para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361'>El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas</a></h4>
     <a href='https://computerhoy.com/espacio/vladimir-komarov-primer-astronauta-muerto-mision-espacial-1358361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/primer-astronauta-muerto-espacio-dio-vida-salvar-companero-3263668.jpg?tf=1200x' alt='El primer cosmonauta muerto en misión espacial, cuando la política era más importante que las vidas humanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bombillas-philips-hue-tipos-hay-cuales-son-mejores-1358261'>Bombillas Philips Hue: qué tipos hay y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.com/hogar/bombillas-philips-hue-tipos-hay-cuales-son-mejores-1358261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/philips-hue-3009106.jpg?tf=1200x' alt='Bombillas Philips Hue: qué tipos hay y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359'>Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-accesorios-precio-1358359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gafas-apple-vision-pro-te-parecen-caras-espera-ver-cuestan-accesorios-3263657.jpg?tf=1200x' alt='Si la gafas Apple Vision Pro te parecen caras, espera a ver lo que cuestan los accesorios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-1358349'>Cuenta atrás para el apagón de la TDT: ¿qué puedes hacer si tu televisor se queda en negro?</a></h4>
-    <a href='https://computerhoy.com/tv/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-1358349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cuenta-atras-apagon-tdt-puedes-hacer-televisor-queda-negro-3263661.jpg?tf=1200x' alt='Cuenta atrás para el apagón de la TDT: ¿qué puedes hacer si tu televisor se queda en negro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350'>Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro</a></h4>
-    <a href='https://computerhoy.com/espacio/japon-quinto-pais-aterrizar-luna-modulo-corre-peligro-1358350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-quinto-pais-aterrizar-luna-pero-modulo-podria-morir-cuestion-horas-3263641.jpg?tf=1200x' alt='Japón es el quinto país en aterrizar en la Luna, pero su módulo corre grave peligro' />
     </a>
 </div>
 
