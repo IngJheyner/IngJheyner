@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442'>Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/pasara-canales-autonomicos-locales-tdt-apagon-14-febrero-1358434'>¿Qué pasará con los canales autonómicos y locales de la TDT tras el apagón del 14 de febrero?</a></h4>
+    <a href='https://computerhoy.com/tv/pasara-canales-autonomicos-locales-tdt-apagon-14-febrero-1358434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ver-television-3263774.jpg?tf=1200x' alt='¿Qué pasará con los canales autonómicos y locales de la TDT tras el apagón del 14 de febrero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-secreta-amazon-fire-tv-stick-olvidarte-mandos-control-1358423'>La función secreta de tu Amazon Fire TV stick para olvidarte de los mandos de control</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-secreta-amazon-fire-tv-stick-olvidarte-mandos-control-1358423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/descubren-menu-oculto-amazon-fire-tv-stick-permite-activar-nuevas-funciones-3246054.jpg?tf=1200x' alt='La función secreta de tu Amazon Fire TV stick para olvidarte de los mandos de control' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-paginas-pdf-gratis-instalar-nada-1351627'>Cómo eliminar páginas PDF gratis sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-eliminar-paginas-pdf-gratis-instalar-nada-1351627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-eliminar-paginas-pdf-gratis-instalar-nada-3252086.jpg?tf=1200x' alt='Cómo eliminar páginas PDF gratis sin instalar nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088'>10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas</a></h4>
     <a href='https://computerhoy.com/windows/trucos-bloquear-pc-windows-ocultar-datos-1357088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diez-trucos-bloquear-pc-windows-ocultar-datos-miradas-indiscretas-3261541.jpg?tf=1200x' alt='10 trucos para bloquear tu PC con Windows y ocultar tus datos de miradas indiscretas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/turista-devuelve-objetos-robados-pompeya-despues-sufrir-maldicion-1358397'>Turista devuelve objetos robados de Pompeya después de sufrir “una maldición”</a></h4>
-    <a href='https://computerhoy.com/life/turista-devuelve-objetos-robados-pompeya-despues-sufrir-maldicion-1358397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pompeya-3263734.jpg?tf=1200x' alt='Turista devuelve objetos robados de Pompeya después de sufrir “una maldición”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220'>Arqueólogos encuentran trampas explosivas y ríos de mercurio que protegen la tumba del primer emperador chino y sus guerreros de terracota</a></h4>
-    <a href='https://computerhoy.com/life/rios-mercurio-impiden-entrar-tumba-primer-emperador-chino-1287220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guerreros-terracota-3263732.jpg?tf=1200x' alt='Arqueólogos encuentran trampas explosivas y ríos de mercurio que protegen la tumba del primer emperador chino y sus guerreros de terracota' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-senala-grupo-piratas-informaticos-ha-tenido-acceso-correos-electronicos-altos-ejecutivos-1358385'>Microsoft señala que un grupo de piratas informáticos ha tenido acceso a correos electrónicos de sus altos ejecutivos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-senala-grupo-piratas-informaticos-ha-tenido-acceso-correos-electronicos-altos-ejecutivos-1358385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-hq-3263720.jpg?tf=1200x' alt='Microsoft señala que un grupo de piratas informáticos ha tenido acceso a correos electrónicos de sus altos ejecutivos' />
     </a>
 </div>
 
