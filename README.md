@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519'>Google Maps tiene una buena noticia para los amantes de la gastronomía</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-maps-comida-3263880.jpg?tf=1200x' alt='Google Maps tiene una buena noticia para los amantes de la gastronomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reducir-tamano-pdf-gratis-instalar-nada-1352268'>Cómo reducir el tamaño de un PDF gratis sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reducir-tamano-pdf-gratis-instalar-nada-1352268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-tamano-pdf-gratis-instalar-nada-3253140.jpg?tf=1200x' alt='Cómo reducir el tamaño de un PDF gratis sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508'>Esta es la nueva función que se está probando en Windows Copilot y así funciona </a></h4>
     <a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256709.jpg?tf=1200x' alt='Esta es la nueva función que se está probando en Windows Copilot y así funciona ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506'>El error que estás cometiendo al encender y apagar tu PC con Windows</a></h4>
     <a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apagar-ordenador-3263866.jpg?tf=1200x' alt='El error que estás cometiendo al encender y apagar tu PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-aprovechar-maximo-audio-adaptativo-airpods-pro-1357022'>Cómo aprovechar al máximo el audio adaptativo de los AirPods Pro para una experiencia inmersiva</a></h4>
-    <a href='https://computerhoy.com/apple/como-aprovechar-maximo-audio-adaptativo-airpods-pro-1357022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-aprovechar-maximo-audio-adaptativo-airpods-pro-experiencia-inmersiva-3261475.jpg?tf=1200x' alt='Cómo aprovechar al máximo el audio adaptativo de los AirPods Pro para una experiencia inmersiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-saber-correo-electronico-falso-8-senales-alerta-1357925'>Cómo saber si un correo electrónico es falso: 8 señales que debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-saber-correo-electronico-falso-8-senales-alerta-1357925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-correo-electronico-falso-8-senales-debes-tener-cuenta-3263004.jpg?tf=1200x' alt='Cómo saber si un correo electrónico es falso: 8 señales que debes tener en cuenta' />
     </a>
 </div>
 
