@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-garmin-forerunner-reloj-gps-suunto-tiene-rebajaza-deja-ko-1358129'>Olvida los Garmin Forerunner: este reloj GPS de Suunto tiene rebajaza y los deja KO</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-garmin-forerunner-reloj-gps-suunto-tiene-rebajaza-deja-ko-1358129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/suunto-5-peak-3263247.jpg?tf=1200x' alt='Olvida los Garmin Forerunner: este reloj GPS de Suunto tiene rebajaza y los deja KO' />
+    <h4><a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508'>Esta es la nueva función que se está probando en Windows Copilot y así funciona </a></h4>
+    <a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256709.jpg?tf=1200x' alt='Esta es la nueva función que se está probando en Windows Copilot y así funciona ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044'>Las 10 mejores distribuciones Linux de 2024 para cada tipo de usuario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-3263142.jpg?tf=1200x' alt='Las 10 mejores distribuciones Linux de 2024 para cada tipo de usuario' />
+    <h4><a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178'>Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar</a></h4>
+    <a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-mejores-programas-escritorio-remoto-controlar-pc-cualquier-lugar-3255097.jpg?tf=1200x' alt='Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-funcionalidad-herramienta-recortes-windows-11-te-va-facilitar-mucho-vida-1358492'>La nueva funcionalidad de la herramienta de recortes en Windows 11 que te va a facilitar mucho la vida</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-funcionalidad-herramienta-recortes-windows-11-te-va-facilitar-mucho-vida-1358492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='La nueva funcionalidad de la herramienta de recortes en Windows 11 que te va a facilitar mucho la vida' />
+    <h4><a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506'>El error que estás cometiendo al encender y apagar tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apagar-ordenador-3263866.jpg?tf=1200x' alt='El error que estás cometiendo al encender y apagar tu PC con Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/speakspots-ia-espanola-planifica-viaje-minuto-incluye-chatbot-whatsapp-1357050'>Speakspots, la IA española que planifica tu viaje en un minuto y que incluye un chatbot en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tecnologia/speakspots-ia-espanola-planifica-viaje-minuto-incluye-chatbot-whatsapp-1357050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/speakspots-app-ia-3262057.jpg?tf=1200x' alt='Speakspots, la IA española que planifica tu viaje en un minuto y que incluye un chatbot en WhatsApp' />
+    <h4><a href='https://computerhoy.com/apple/como-aprovechar-maximo-audio-adaptativo-airpods-pro-1357022'>Cómo aprovechar al máximo el audio adaptativo de los AirPods Pro para una experiencia inmersiva</a></h4>
+    <a href='https://computerhoy.com/apple/como-aprovechar-maximo-audio-adaptativo-airpods-pro-1357022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-aprovechar-maximo-audio-adaptativo-airpods-pro-experiencia-inmersiva-3261475.jpg?tf=1200x' alt='Cómo aprovechar al máximo el audio adaptativo de los AirPods Pro para una experiencia inmersiva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-ivy-lee-aumenta-productividad-1354525'>He probado el método centenario Ivy Lee que aumenta tu productividad y podría ser la clave para dar un giro de 180 grados en mi vida</a></h4>
-    <a href='https://computerhoy.com/life/metodo-ivy-lee-aumenta-productividad-1354525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-organizacion-trabajo-3260195.jpg?tf=1200x' alt='He probado el método centenario Ivy Lee que aumenta tu productividad y podría ser la clave para dar un giro de 180 grados en mi vida' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-saber-correo-electronico-falso-8-senales-alerta-1357925'>Cómo saber si un correo electrónico es falso: 8 señales que debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-saber-correo-electronico-falso-8-senales-alerta-1357925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-correo-electronico-falso-8-senales-debes-tener-cuenta-3263004.jpg?tf=1200x' alt='Cómo saber si un correo electrónico es falso: 8 señales que debes tener en cuenta' />
     </a>
 </div>
 
