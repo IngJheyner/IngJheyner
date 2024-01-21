@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-android-podria-cambiar-siempre-visualizacion-archivos-pdf-1358465'>Google Chrome para Android podría cambiar para siempre la visualización de archivos PDF</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-android-podria-cambiar-siempre-visualizacion-archivos-pdf-1358465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-pdf-3263819.jpg?tf=1200x' alt='Google Chrome para Android podría cambiar para siempre la visualización de archivos PDF' />
+    <h4><a href='https://computerhoy.com/apps/nuevo-sistema-ganar-votos-como-politicos-ahora-han-pasado-redes-sociales-1357049'>Un nuevo sistema para ganar votos: así es como los políticos ahora se han pasado a las redes sociales</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-sistema-ganar-votos-como-politicos-ahora-han-pasado-redes-sociales-1357049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/politicos-3263061.jpg?tf=1200x' alt='Un nuevo sistema para ganar votos: así es como los políticos ahora se han pasado a las redes sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parche-cutaneo-controlado-movil-libera-medicamentos-1358454'>El parche cutáneo controlado por el móvil que libera medicamentos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parche-cutaneo-controlado-movil-libera-medicamentos-1358454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spatiotemporal-demand-patch-sop-3263800.jpg?tf=1200x' alt='El parche cutáneo controlado por el móvil que libera medicamentos' />
+    <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-crece-como-enredadera-1358458'>Fabrican un robot que crece como una enredadera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fabrican-robot-crece-como-enredadera-1358458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/filobot-3263804.jpg?tf=1200x' alt='Fabrican un robot que crece como una enredadera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/portatil-game-pass-steam-ahora-oferta-asus-rog-ally-revienta-precio-1356732'>Portátil, con Game Pass y con Steam, y ahora de oferta: la ASUS ROG Ally revienta su precio</a></h4>
-    <a href='https://computerhoy.com/gaming/portatil-game-pass-steam-ahora-oferta-asus-rog-ally-revienta-precio-1356732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-rog-ally-3260866.jpg?tf=1200x' alt='Portátil, con Game Pass y con Steam, y ahora de oferta: la ASUS ROG Ally revienta su precio' />
+    <h4><a href='https://computerhoy.com/internet/l4s-mejoras-trae-revolucionar-experiencia-internet-1351835'>¿Qué es L4S y qué mejoras trae para revolucionar tu experiencia en Internet?</a></h4>
+    <a href='https://computerhoy.com/internet/l4s-mejoras-trae-revolucionar-experiencia-internet-1351835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705661835809-3263338.jpg?tf=1200x' alt='¿Qué es L4S y qué mejoras trae para revolucionar tu experiencia en Internet?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-cambiara-forma-te-recomienda-contenido-1358444'>Netflix cambiará la forma en la que te recomienda contenido</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-cambiara-forma-te-recomienda-contenido-1358444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/netflix-2796523.jpg?tf=1200x' alt='Netflix cambiará la forma en la que te recomienda contenido' />
+    <h4><a href='https://computerhoy.com/espacio/asteroide-apofis-acercara-tanto-tierra-veremos-simple-vista-1358481'>El asteroide Apofis se acercará tanto a la Tierra, que lo veremos a simple vista  </a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-apofis-acercara-tanto-tierra-veremos-simple-vista-1358481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asteroide-apofis-va-acercar-tanto-tierra-podra-verse-simple-vista-3263836.jpg?tf=1200x' alt='El asteroide Apofis se acercará tanto a la Tierra, que lo veremos a simple vista  ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442'>Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-facilitara-envio-automatico-fotos-movil-android-pc-1358442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 facilitará el envío automático de las fotos de tu móvil Android al PC' />
+    <h4><a href='https://computerhoy.com/espacio/startup-quiere-construir-enorme-laser-desviar-basura-espacial-tierra-1358464'>Esta startup quiere construir un enorme láser para desviar basura espacial desde la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/startup-quiere-construir-enorme-laser-desviar-basura-espacial-tierra-1358464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/basura-espacial-3263818.jpg?tf=1200x' alt='Esta startup quiere construir un enorme láser para desviar basura espacial desde la Tierra' />
     </a>
 </div>
 
