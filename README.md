@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603'>Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11</a></h4>
+    <a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-3263954.jpg?tf=1200x' alt='Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866'>Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563'>Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261335.jpg?tf=1200x' alt='Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519'>Google Maps tiene una buena noticia para los amantes de la gastronomía</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-maps-comida-3263880.jpg?tf=1200x' alt='Google Maps tiene una buena noticia para los amantes de la gastronomía' />
     </a>
 </div>
 
