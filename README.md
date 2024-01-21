@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-sistema-ganar-votos-como-politicos-ahora-han-pasado-redes-sociales-1357049'>Un nuevo sistema para ganar votos: así es como los políticos ahora se han pasado a las redes sociales</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-sistema-ganar-votos-como-politicos-ahora-han-pasado-redes-sociales-1357049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/politicos-3263061.jpg?tf=1200x' alt='Un nuevo sistema para ganar votos: así es como los políticos ahora se han pasado a las redes sociales' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-garmin-forerunner-reloj-gps-suunto-tiene-rebajaza-deja-ko-1358129'>Olvida los Garmin Forerunner: este reloj GPS de Suunto tiene rebajaza y los deja KO</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-garmin-forerunner-reloj-gps-suunto-tiene-rebajaza-deja-ko-1358129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/suunto-5-peak-3263247.jpg?tf=1200x' alt='Olvida los Garmin Forerunner: este reloj GPS de Suunto tiene rebajaza y los deja KO' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fabrican-robot-crece-como-enredadera-1358458'>Fabrican un robot que crece como una enredadera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fabrican-robot-crece-como-enredadera-1358458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/filobot-3263804.jpg?tf=1200x' alt='Fabrican un robot que crece como una enredadera' />
+    <h4><a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044'>Las 10 mejores distribuciones Linux de 2024 para cada tipo de usuario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-3263142.jpg?tf=1200x' alt='Las 10 mejores distribuciones Linux de 2024 para cada tipo de usuario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/l4s-mejoras-trae-revolucionar-experiencia-internet-1351835'>¿Qué es L4S y qué mejoras trae para revolucionar tu experiencia en Internet?</a></h4>
-    <a href='https://computerhoy.com/internet/l4s-mejoras-trae-revolucionar-experiencia-internet-1351835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705661835809-3263338.jpg?tf=1200x' alt='¿Qué es L4S y qué mejoras trae para revolucionar tu experiencia en Internet?' />
+    <h4><a href='https://computerhoy.com/windows/nueva-funcionalidad-herramienta-recortes-windows-11-te-va-facilitar-mucho-vida-1358492'>La nueva funcionalidad de la herramienta de recortes en Windows 11 que te va a facilitar mucho la vida</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-funcionalidad-herramienta-recortes-windows-11-te-va-facilitar-mucho-vida-1358492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='La nueva funcionalidad de la herramienta de recortes en Windows 11 que te va a facilitar mucho la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-apofis-acercara-tanto-tierra-veremos-simple-vista-1358481'>El asteroide Apofis se acercará tanto a la Tierra, que lo veremos a simple vista  </a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-apofis-acercara-tanto-tierra-veremos-simple-vista-1358481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asteroide-apofis-va-acercar-tanto-tierra-podra-verse-simple-vista-3263836.jpg?tf=1200x' alt='El asteroide Apofis se acercará tanto a la Tierra, que lo veremos a simple vista  ' />
+    <h4><a href='https://computerhoy.com/tecnologia/speakspots-ia-espanola-planifica-viaje-minuto-incluye-chatbot-whatsapp-1357050'>Speakspots, la IA española que planifica tu viaje en un minuto y que incluye un chatbot en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tecnologia/speakspots-ia-espanola-planifica-viaje-minuto-incluye-chatbot-whatsapp-1357050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/speakspots-app-ia-3262057.jpg?tf=1200x' alt='Speakspots, la IA española que planifica tu viaje en un minuto y que incluye un chatbot en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/startup-quiere-construir-enorme-laser-desviar-basura-espacial-tierra-1358464'>Esta startup quiere construir un enorme láser para desviar basura espacial desde la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/startup-quiere-construir-enorme-laser-desviar-basura-espacial-tierra-1358464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/basura-espacial-3263818.jpg?tf=1200x' alt='Esta startup quiere construir un enorme láser para desviar basura espacial desde la Tierra' />
+    <h4><a href='https://computerhoy.com/life/metodo-ivy-lee-aumenta-productividad-1354525'>He probado el método centenario Ivy Lee que aumenta tu productividad y podría ser la clave para dar un giro de 180 grados en mi vida</a></h4>
+    <a href='https://computerhoy.com/life/metodo-ivy-lee-aumenta-productividad-1354525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-organizacion-trabajo-3260195.jpg?tf=1200x' alt='He probado el método centenario Ivy Lee que aumenta tu productividad y podría ser la clave para dar un giro de 180 grados en mi vida' />
     </a>
 </div>
 
