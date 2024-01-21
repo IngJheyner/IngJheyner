@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563'>Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261335.jpg?tf=1200x' alt='Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519'>Google Maps tiene una buena noticia para los amantes de la gastronomía</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-maps-comida-3263880.jpg?tf=1200x' alt='Google Maps tiene una buena noticia para los amantes de la gastronomía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178'>Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar</a></h4>
     <a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-mejores-programas-escritorio-remoto-controlar-pc-cualquier-lugar-3255097.jpg?tf=1200x' alt='Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506'>El error que estás cometiendo al encender y apagar tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/error-estas-cometiendo-encender-apagar-pc-windows-1358506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apagar-ordenador-3263866.jpg?tf=1200x' alt='El error que estás cometiendo al encender y apagar tu PC con Windows' />
     </a>
 </div>
 
