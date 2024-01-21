@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866'>Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597'>La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote</a></h4>
+    <a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rae-estrena-biblioteca-digital-4800-libros-historicos-leer-incluyendo-primera-edicion-quijote-3263944.jpg?tf=1200x' alt='La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575'>Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad</a></h4>
+    <a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-3263934.jpg?tf=1200x' alt='Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563'>Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261335.jpg?tf=1200x' alt='Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519'>Google Maps tiene una buena noticia para los amantes de la gastronomía</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-tiene-buena-noticia-amantes-gastronomia-1358519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-maps-comida-3263880.jpg?tf=1200x' alt='Google Maps tiene una buena noticia para los amantes de la gastronomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reducir-tamano-pdf-gratis-instalar-nada-1352268'>Cómo reducir el tamaño de un PDF gratis sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reducir-tamano-pdf-gratis-instalar-nada-1352268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-reducir-tamano-pdf-gratis-instalar-nada-3253140.jpg?tf=1200x' alt='Cómo reducir el tamaño de un PDF gratis sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508'>Esta es la nueva función que se está probando en Windows Copilot y así funciona </a></h4>
-    <a href='https://computerhoy.com/windows/nueva-funcion-probando-windows-copilot-funciona-1358508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256709.jpg?tf=1200x' alt='Esta es la nueva función que se está probando en Windows Copilot y así funciona ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178'>Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar</a></h4>
-    <a href='https://computerhoy.com/pc/mejores-programas-escritorio-remoto-controlar-pc-1353178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/10-mejores-programas-escritorio-remoto-controlar-pc-cualquier-lugar-3255097.jpg?tf=1200x' alt='Los 10 mejores programas de escritorio remoto para controlar tu PC desde cualquier lugar' />
     </a>
 </div>
 
