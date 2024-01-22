@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-estafa-no-hagas-ni-caso-1358212'>La Policía Nacional advierte de esta peligrosa estafa por WhatsApp: “no le hagas ni caso”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-advierte-estafa-no-hagas-ni-caso-1358212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3264181.jpg?tf=1200x' alt='La Policía Nacional advierte de esta peligrosa estafa por WhatsApp: “no le hagas ni caso”' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1se-actualiza-ahora-tiene-colaboracion-perplexity-1358841'>Rabbit R1, el asistente de bolsillo con IA que quiere acabar con tu móvil, demuestra que va muy en serio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1se-actualiza-ahora-tiene-colaboracion-perplexity-1358841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3264317.jpg?tf=1200x' alt='Rabbit R1, el asistente de bolsillo con IA que quiere acabar con tu móvil, demuestra que va muy en serio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/reglas-telefono-movil-relacion-pareja-1358225'>Las 5 reglas de oro para que el teléfono móvil no acabe con tu relación de pareja</a></h4>
-    <a href='https://computerhoy.com/moviles/reglas-telefono-movil-relacion-pareja-1358225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-reglas-oro-telefono-movil-no-acabe-relacion-pareja-3263478.jpg?tf=1200x' alt='Las 5 reglas de oro para que el teléfono móvil no acabe con tu relación de pareja' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-top-tecnologia-arrancar-semana-1358691'>5 ofertas top en tecnología para arrancar la semana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-ofertas-top-tecnologia-arrancar-semana-1358691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dos-mujeres-mirando-movil-compras-2903788.jpg?tf=1200x' alt='5 ofertas top en tecnología para arrancar la semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057'>Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones </a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-montar-imagen-iso-windows-necesidad-aplicaciones-1147057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-montar-imagen-iso-windows-necesidad-aplicaciones-3263678.jpg?tf=1200x' alt='Cómo montar una imagen ISO en Windows sin necesidad de aplicaciones ' />
+    <h4><a href='https://computerhoy.com/espacio/sucede-cuando-astronauta-orbita-dice-no-va-regresar-1358862'>¿Qué sucede cuando un astronauta en órbita dice que no va a regresar?</a></h4>
+    <a href='https://computerhoy.com/espacio/sucede-cuando-astronauta-orbita-dice-no-va-regresar-1358862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='¿Qué sucede cuando un astronauta en órbita dice que no va a regresar?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-te-curcuma-infusion-sorprendentes-beneficios-salud-846153'>Cómo preparar té de cúrcuma, una infusión con sorprendentes beneficios para tu salud</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-preparar-te-curcuma-infusion-sorprendentes-beneficios-salud-846153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/curcuma-3264180.jpg?tf=1200x' alt='Cómo preparar té de cúrcuma, una infusión con sorprendentes beneficios para tu salud' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-mensajes-whatsapp-sin-conexion-internet-1358254'>Cómo enviar mensajes de WhatsApp cuando no tienes conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-enviar-mensajes-whatsapp-sin-conexion-internet-1358254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-enviar-mensajes-whatsapp-cuando-no-tienes-conexion-internet-3263675.jpg?tf=1200x' alt='Cómo enviar mensajes de WhatsApp cuando no tienes conexión a Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cuidado-compras-amazon-crecen-estafas-nvidia-rtx-4090-1358740'>Crecen las estafas con la Nvidia RTX 4090: ahora en Amazon y las llamadas "FrankenGPU"</a></h4>
-    <a href='https://computerhoy.com/gaming/cuidado-compras-amazon-crecen-estafas-nvidia-rtx-4090-1358740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='Crecen las estafas con la Nvidia RTX 4090: ahora en Amazon y las llamadas "FrankenGPU"' />
+    <h4><a href='https://computerhoy.com/internet/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-1358034'>Los mejores cursos online gratis para aprender a usar ChatGPT desde cero</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-1358034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-3263129.jpg?tf=1200x' alt='Los mejores cursos online gratis para aprender a usar ChatGPT desde cero' />
     </a>
 </div>
 
