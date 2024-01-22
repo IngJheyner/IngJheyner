@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-aproxima-dma-marzo-nuevos-ipad-funciones-ia-1358655'>Apple listo para lo que se aproxima: desde la DMA en marzo hasta nuevos iPad y funciones de IA</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-aproxima-dma-marzo-nuevos-ipad-funciones-ia-1358655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ipad-3223416.jpg?tf=1200x' alt='Apple listo para lo que se aproxima: desde la DMA en marzo hasta nuevos iPad y funciones de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/todas-claves-entender-apagon-hd-tdt-14-febrero-1358641'>Todas las claves para entender el apagón SD de la TDT del 14 de febrero</a></h4>
+    <a href='https://computerhoy.com/tv/todas-claves-entender-apagon-hd-tdt-14-febrero-1358641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3264021.jpg?tf=1200x' alt='Todas las claves para entender el apagón SD de la TDT del 14 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-grande-nuevo-superventas-xiaomi-redmi-note-13-rebajadisimo-todas-versiones-1358627'>AliExpress la lía a lo grande: el nuevo superventas Xiaomi Redmi Note 13, rebajadísimo en todas sus versiones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-grande-nuevo-superventas-xiaomi-redmi-note-13-rebajadisimo-todas-versiones-1358627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-3263984.jpg?tf=1200x' alt='AliExpress la lía a lo grande: el nuevo superventas Xiaomi Redmi Note 13, rebajadísimo en todas sus versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/funcion-android-te-ayudara-escribir-correos-gmail-voz-gracias-ia-1358634'>Esta función para Android te ayudará a escribir los correos en Gmail con tu voz gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/android/funcion-android-te-ayudara-escribir-correos-gmail-voz-gracias-ia-1358634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cerrar-sesion-gmail-3221994.jpg?tf=1200x' alt='Esta función para Android te ayudará a escribir los correos en Gmail con tu voz gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628'>Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook</a></h4>
     <a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-denuncia-27-mujeres-exige-75000-dolares-ponerle-notas-negativas-grupo-citas-facebook-3263982.jpg?tf=1200x' alt='Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-gratis-pero-casi-vpn-ultrarrapida-desploma-precio-durante-dos-anos-1356277'>No es gratis pero casi: esta VPN ultrarrápida desploma su precio durante dos años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-gratis-pero-casi-vpn-ultrarrapida-desploma-precio-durante-dos-anos-1356277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='No es gratis pero casi: esta VPN ultrarrápida desploma su precio durante dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/espera-pc-2024-expertos-directivos-1343330'>Qué debes esperar de los PC en 2024, según expertos y directivos</a></h4>
-    <a href='https://computerhoy.com/pc/espera-pc-2024-expertos-directivos-1343330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pc-2024-3258628.jpg?tf=1200x' alt='Qué debes esperar de los PC en 2024, según expertos y directivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/huawei-matebook-d16-2024-caracteristica-me-ha-ahorrado-trabajo-1357037'>El Huawei MateBook D16 de 2024 tiene una característica que me ha facilitado mucho el trabajo diario</a></h4>
-    <a href='https://computerhoy.com/pc/huawei-matebook-d16-2024-caracteristica-me-ha-ahorrado-trabajo-1357037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-caracteristica-me-ha-gustado-3261909.jpg?tf=1200x' alt='El Huawei MateBook D16 de 2024 tiene una característica que me ha facilitado mucho el trabajo diario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gato-descansando-encima-radiador-2851295.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
     </a>
 </div>
 
