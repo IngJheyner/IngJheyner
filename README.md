@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628'>Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook</a></h4>
+    <a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-denuncia-27-mujeres-exige-75000-dolares-ponerle-notas-negativas-grupo-citas-facebook-3263982.jpg?tf=1200x' alt='Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-gratis-pero-casi-vpn-ultrarrapida-desploma-precio-durante-dos-anos-1356277'>No es gratis pero casi: esta VPN ultrarrápida desploma su precio durante dos años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-gratis-pero-casi-vpn-ultrarrapida-desploma-precio-durante-dos-anos-1356277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='No es gratis pero casi: esta VPN ultrarrápida desploma su precio durante dos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/espera-pc-2024-expertos-directivos-1343330'>Qué debes esperar de los PC en 2024, según expertos y directivos</a></h4>
+    <a href='https://computerhoy.com/pc/espera-pc-2024-expertos-directivos-1343330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pc-2024-3258628.jpg?tf=1200x' alt='Qué debes esperar de los PC en 2024, según expertos y directivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/huawei-matebook-d16-2024-caracteristica-me-ha-ahorrado-trabajo-1357037'>El Huawei MateBook D16 de 2024 tiene una característica que me ha facilitado mucho el trabajo diario</a></h4>
+    <a href='https://computerhoy.com/pc/huawei-matebook-d16-2024-caracteristica-me-ha-ahorrado-trabajo-1357037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-matebook-d16-2024-caracteristica-me-ha-gustado-3261909.jpg?tf=1200x' alt='El Huawei MateBook D16 de 2024 tiene una característica que me ha facilitado mucho el trabajo diario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gato-descansando-encima-radiador-2851295.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611'>Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-madrid-nueva-especie-gato-prehistorico-hace-15-millones-anos-3263969.jpg?tf=1200x' alt='Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603'>Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11</a></h4>
-    <a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-3263954.jpg?tf=1200x' alt='Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866'>Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-vendido-amazon-sorprendente-ni-siquiera-nuevo-1357866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='Este es el PC más vendido en Amazon y es sorprendente: ni siquiera es nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597'>La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote</a></h4>
-    <a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rae-estrena-biblioteca-digital-4800-libros-historicos-leer-incluyendo-primera-edicion-quijote-3263944.jpg?tf=1200x' alt='La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote' />
     </a>
 </div>
 
