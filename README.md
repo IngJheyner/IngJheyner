@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-aproxima-dma-marzo-nuevos-ipad-funciones-ia-1358655'>Apple listo para lo que se aproxima: desde la DMA en marzo hasta nuevos iPad y funciones de IA</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-aproxima-dma-marzo-nuevos-ipad-funciones-ia-1358655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ipad-3223416.jpg?tf=1200x' alt='Apple listo para lo que se aproxima: desde la DMA en marzo hasta nuevos iPad y funciones de IA' />
+    <h4><a href='https://computerhoy.com/noticias/life/como-preparar-te-curcuma-infusion-sorprendentes-beneficios-salud-846153'>Cómo preparar té de cúrcuma, una infusión con sorprendentes beneficios para tu salud</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-preparar-te-curcuma-infusion-sorprendentes-beneficios-salud-846153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/curcuma-3264180.jpg?tf=1200x' alt='Cómo preparar té de cúrcuma, una infusión con sorprendentes beneficios para tu salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/todas-claves-entender-apagon-hd-tdt-14-febrero-1358641'>Todas las claves para entender el apagón SD de la TDT del 14 de febrero</a></h4>
-    <a href='https://computerhoy.com/tv/todas-claves-entender-apagon-hd-tdt-14-febrero-1358641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3264021.jpg?tf=1200x' alt='Todas las claves para entender el apagón SD de la TDT del 14 de febrero' />
+    <h4><a href='https://computerhoy.com/gaming/cuidado-compras-amazon-crecen-estafas-nvidia-rtx-4090-1358740'>Crecen las estafas con la Nvidia RTX 4090: ahora en Amazon y las llamadas "FrankenGPU"</a></h4>
+    <a href='https://computerhoy.com/gaming/cuidado-compras-amazon-crecen-estafas-nvidia-rtx-4090-1358740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/nvidia-rtx-4090-2835443.jpg?tf=1200x' alt='Crecen las estafas con la Nvidia RTX 4090: ahora en Amazon y las llamadas "FrankenGPU"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-grande-nuevo-superventas-xiaomi-redmi-note-13-rebajadisimo-todas-versiones-1358627'>AliExpress la lía a lo grande: el nuevo superventas Xiaomi Redmi Note 13, rebajadísimo en todas sus versiones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-grande-nuevo-superventas-xiaomi-redmi-note-13-rebajadisimo-todas-versiones-1358627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-3263984.jpg?tf=1200x' alt='AliExpress la lía a lo grande: el nuevo superventas Xiaomi Redmi Note 13, rebajadísimo en todas sus versiones' />
+    <h4><a href='https://computerhoy.com/internet/paginas-web-visitadas-cada-pais-mundo-refleja-espana-cultura-1358362'>Las páginas web más visitadas en cada país del mundo no deja en buen lugar a los españoles</a></h4>
+    <a href='https://computerhoy.com/internet/paginas-web-visitadas-cada-pais-mundo-refleja-espana-cultura-1358362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/paginas-web-visitadas-cada-pais-mundo-refleja-espana-cultura-3263677.jpg?tf=1200x' alt='Las páginas web más visitadas en cada país del mundo no deja en buen lugar a los españoles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funcion-android-te-ayudara-escribir-correos-gmail-voz-gracias-ia-1358634'>Esta función para Android te ayudará a escribir los correos en Gmail con tu voz gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/android/funcion-android-te-ayudara-escribir-correos-gmail-voz-gracias-ia-1358634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-cerrar-sesion-gmail-3221994.jpg?tf=1200x' alt='Esta función para Android te ayudará a escribir los correos en Gmail con tu voz gracias a la IA' />
+    <h4><a href='https://computerhoy.com/moviles/motorola-lanza-moto-g34-5g-precio-bateria-como-claves-1358722'>Motorola lanza el moto g34 5G que llega al mercado con precio, conectividad y batería como claves</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-lanza-moto-g34-5g-precio-bateria-como-claves-1358722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moto-g34-5g-3264135.jpg?tf=1200x' alt='Motorola lanza el moto g34 5G que llega al mercado con precio, conectividad y batería como claves' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628'>Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook</a></h4>
-    <a href='https://computerhoy.com/life/denuncia-27-mujeres-ponerle-notas-negativas-grupo-citas-facebook-1358628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hombre-denuncia-27-mujeres-exige-75000-dolares-ponerle-notas-negativas-grupo-citas-facebook-3263982.jpg?tf=1200x' alt='Un hombre denuncia a 27 mujeres y exige 75.000 dólares por ponerle notas negativas en un grupo de citas de Facebook' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-quiere-crear-chips-imitan-cerebro-humano-llevar-ia-otro-nivel-1358716'>Sam Altman quiere crear chips que imitan al cerebro humano para llevar la inteligencia artificial a otro nivel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-quiere-crear-chips-imitan-cerebro-humano-llevar-ia-otro-nivel-1358716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chips-imitan-cerebro-humano-3264143.jpg?tf=1200x' alt='Sam Altman quiere crear chips que imitan al cerebro humano para llevar la inteligencia artificial a otro nivel' />
     </a>
 </div>
 
