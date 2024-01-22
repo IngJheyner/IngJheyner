@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461'>Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/5-mejores-radiadores-consumo-ahorrar-factura-luz-pasar-frio-532461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/gato-descansando-encima-radiador-2851295.jpg?tf=1200x' alt='Los mejores radiadores de bajo consumo para ahorrar en la factura de la luz sin pasar frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611'>Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-madrid-nueva-especie-gato-prehistorico-hace-15-millones-anos-3263969.jpg?tf=1200x' alt='Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597'>La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote</a></h4>
     <a href='https://computerhoy.com/tecnologia/biblioteca-digital-rae-4800-libros-historicos-leer-descargar-1358597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rae-estrena-biblioteca-digital-4800-libros-historicos-leer-incluyendo-primera-edicion-quijote-3263944.jpg?tf=1200x' alt='La RAE estrena la Biblioteca Digital, 4.800 libros históricos para leer y descargar, incluyendo una primera edición de El Quijote' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575'>Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad</a></h4>
-    <a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-3263934.jpg?tf=1200x' alt='Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad' />
     </a>
 </div>
 
