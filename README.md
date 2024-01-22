@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611'>Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-madrid-nueva-especie-gato-prehistorico-1358611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-madrid-nueva-especie-gato-prehistorico-hace-15-millones-anos-3263969.jpg?tf=1200x' alt='Descubren en Madrid una nueva especie de gato prehistórico de hace 15 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603'>Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11</a></h4>
     <a href='https://computerhoy.com/windows/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-1358603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiny11-consigue-windows-11-ocupe-solo-100-mb-convirtiendolo-ms-dos-11-3263954.jpg?tf=1200x' alt='Tiny11 consigue que Windows 11 ocupe solo 100 MB, convirtiéndolo en MS-DOS 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575'>Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad</a></h4>
     <a href='https://computerhoy.com/internet/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-1358575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fallece-dave-mills-inventor-reloj-internet-85-anos-edad-3263934.jpg?tf=1200x' alt='Fallece Dave Mills, el creador del "reloj" de Internet, a los 85 años de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563'>Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-cobrar-suscripcion-usar-inteligencia-artificial-moviles-galaxy-s24-1358563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261335.jpg?tf=1200x' alt='Samsung podría cobrar una suscripción por usar la IA en sus móviles Galaxy' />
     </a>
 </div>
 
