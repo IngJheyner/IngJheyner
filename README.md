@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1se-actualiza-ahora-tiene-colaboracion-perplexity-1358841'>Rabbit R1, el asistente de bolsillo con IA que quiere acabar con tu móvil, demuestra que va muy en serio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1se-actualiza-ahora-tiene-colaboracion-perplexity-1358841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-r1-3264317.jpg?tf=1200x' alt='Rabbit R1, el asistente de bolsillo con IA que quiere acabar con tu móvil, demuestra que va muy en serio' />
+    <h4><a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-atasque-sea-mucho-lento-1358881'>El error con la conexión WiFi que hace que tu Amazon Fire TV se atasque y sea mucho más lento</a></h4>
+    <a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-atasque-sea-mucho-lento-1358881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='El error con la conexión WiFi que hace que tu Amazon Fire TV se atasque y sea mucho más lento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-top-tecnologia-arrancar-semana-1358691'>5 ofertas top en tecnología para arrancar la semana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-ofertas-top-tecnologia-arrancar-semana-1358691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/dos-mujeres-mirando-movil-compras-2903788.jpg?tf=1200x' alt='5 ofertas top en tecnología para arrancar la semana' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-avisa-estafa-amenaza-compartir-videos-1358764'>La Guardia Civil avisa: así es la estafa que amenaza con compartir vídeos comprometidos y que debes borrar al instante</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-avisa-estafa-amenaza-compartir-videos-1358764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guardia-civil-avisa-estafa-amenaza-compartir-videos-comprometidos-debes-borrar-instante-3264187.jpg?tf=1200x' alt='La Guardia Civil avisa: así es la estafa que amenaza con compartir vídeos comprometidos y que debes borrar al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sucede-cuando-astronauta-orbita-dice-no-va-regresar-1358862'>¿Qué sucede cuando un astronauta en órbita dice que no va a regresar?</a></h4>
-    <a href='https://computerhoy.com/espacio/sucede-cuando-astronauta-orbita-dice-no-va-regresar-1358862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/cohete-2862309.jpg?tf=1200x' alt='¿Qué sucede cuando un astronauta en órbita dice que no va a regresar?' />
+    <h4><a href='https://computerhoy.com/life/pasaria-tierra-quedase-oxigeno-durante-solo-5-segundos-aterrador-1358879'>Esto es lo que le pasaría a la Tierra si se quedase sin oxígeno durante solo 5 segundos, y es aterrador</a></h4>
+    <a href='https://computerhoy.com/life/pasaria-tierra-quedase-oxigeno-durante-solo-5-segundos-aterrador-1358879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/final-planeta-tierra-3264365.jpg?tf=1200x' alt='Esto es lo que le pasaría a la Tierra si se quedase sin oxígeno durante solo 5 segundos, y es aterrador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-mensajes-whatsapp-sin-conexion-internet-1358254'>Cómo enviar mensajes de WhatsApp cuando no tienes conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-enviar-mensajes-whatsapp-sin-conexion-internet-1358254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-enviar-mensajes-whatsapp-cuando-no-tienes-conexion-internet-3263675.jpg?tf=1200x' alt='Cómo enviar mensajes de WhatsApp cuando no tienes conexión a Internet' />
+    <h4><a href='https://computerhoy.com/motor/coches-placa-v12-fv-pueden-circular-150-km-h-1358877'>Esto son los únicos coches que pueden circular a 150 Km/h, y no son policías ni ambulancias</a></h4>
+    <a href='https://computerhoy.com/motor/coches-placa-v12-fv-pueden-circular-150-km-h-1358877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-unicos-coches-pueden-circular-150-km-h-no-son-policias-ni-ambulancias-3264344.jpg?tf=1200x' alt='Esto son los únicos coches que pueden circular a 150 Km/h, y no son policías ni ambulancias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-1358034'>Los mejores cursos online gratis para aprender a usar ChatGPT desde cero</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-1358034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mejores-cursos-online-gratis-aprender-usar-chatgpt-cero-3263129.jpg?tf=1200x' alt='Los mejores cursos online gratis para aprender a usar ChatGPT desde cero' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-att-invierten-servicio-satelite-smartphone-1358865'>Starlink ya tiene rival y viene de la mano de Google y AT&T</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-att-invierten-servicio-satelite-smartphone-1358865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tierra-3264351.jpg?tf=1200x' alt='Starlink ya tiene rival y viene de la mano de Google y AT&T' />
     </a>
 </div>
 
