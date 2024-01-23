@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014'>¿Por qué el inglés no es el idioma oficial de Estados Unidos?</a></h4>
+    <a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estados-unidos-bandera-3264581.jpg?tf=1200x' alt='¿Por qué el inglés no es el idioma oficial de Estados Unidos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/colossus-superordenador-ayudo-derrotar-alemania-durante-segunda-guerra-mundial-1358992'>Así es Colossus, el superordenador que ayudó a derrotar a los nazis durante la Segunda Guerra Mundial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/colossus-superordenador-ayudo-derrotar-alemania-durante-segunda-guerra-mundial-1358992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ordenador-colossus-britanico-3264565.jpg?tf=1200x' alt='Así es Colossus, el superordenador que ayudó a derrotar a los nazis durante la Segunda Guerra Mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-alexa-amazfit-tiene-precio-locura-reventando-gama-entrada-1357840'>Este reloj GPS y con Alexa de Amazfit tiene precio de locura y está reventando la gama de entrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-gps-alexa-amazfit-tiene-precio-locura-reventando-gama-entrada-1357840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazfit-bip-5-3262834.jpg?tf=1200x' alt='Este reloj GPS y con Alexa de Amazfit tiene precio de locura y está reventando la gama de entrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982'>Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-trabajo-humano-3264537.jpg?tf=1200x' alt='Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699'>Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965'>¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no conocer el precio de su reparación</a></h4>
-    <a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no conocer el precio de su reparación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-173-incluye-novedad-proteger-iphone-robos-1358959'>Apple lanza iOS 17.3 e incluye una novedad para proteger tu iPhone y tus datos de los robos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-ios-173-incluye-novedad-proteger-iphone-robos-1358959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ladron-moviles-3264497.jpg?tf=1200x' alt='Apple lanza iOS 17.3 e incluye una novedad para proteger tu iPhone y tus datos de los robos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cerebro-cuantico-idea-revolucionaria-cambia-todo-1358952'>¿Tenemos un cerebro cuántico? Una idea revolucionaria que cambia todo lo que sabemos sobre él</a></h4>
-    <a href='https://computerhoy.com/ciencia/cerebro-cuantico-idea-revolucionaria-cambia-todo-1358952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tenemos-cerebro-cuantico-estos-comportamientos-demuestran-3264456.jpg?tf=1200x' alt='¿Tenemos un cerebro cuántico? Una idea revolucionaria que cambia todo lo que sabemos sobre él' />
     </a>
 </div>
 
