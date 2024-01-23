@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323'>¿El menú inicio en Windows 11 no funciona? No desesperes, prueba alguna de estas soluciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ordenador-menu-inicio-windows-11-3264756.jpg?tf=1200x' alt='¿El menú inicio en Windows 11 no funciona? No desesperes, prueba alguna de estas soluciones' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-anuncia-mayores-descubrimientos-marte-opalo-1359150'>La NASA anuncia uno sus mayores descubrimientos en Marte: "aumenta las posibilidades de vida"</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-anuncia-mayores-descubrimientos-marte-opalo-1359150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-marte-constataria-alli-tiempo-pasa-deprisa-tierra-3262498.jpg?tf=1200x' alt='La NASA anuncia uno sus mayores descubrimientos en Marte: "aumenta las posibilidades de vida"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014'>¿Por qué el inglés no es el idioma oficial de Estados Unidos?</a></h4>
-    <a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estados-unidos-bandera-3264581.jpg?tf=1200x' alt='¿Por qué el inglés no es el idioma oficial de Estados Unidos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-bascula-inteligente-top-acaba-hundir-precio-40-1358951'>Garmin tiene la báscula inteligente más top, y acaba de hundir su precio en un 40%</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-tiene-bascula-inteligente-top-acaba-hundir-precio-40-1358951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-index-s2-3264464.jpg?tf=1200x' alt='Garmin tiene la báscula inteligente más top, y acaba de hundir su precio en un 40%' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/colossus-superordenador-ayudo-derrotar-alemania-durante-segunda-guerra-mundial-1358992'>Así es Colossus, el superordenador que ayudó a derrotar a los nazis durante la Segunda Guerra Mundial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/colossus-superordenador-ayudo-derrotar-alemania-durante-segunda-guerra-mundial-1358992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ordenador-colossus-britanico-3264565.jpg?tf=1200x' alt='Así es Colossus, el superordenador que ayudó a derrotar a los nazis durante la Segunda Guerra Mundial' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-exito-secuelas-1358779'>6 películas de éxito que no tenías ni idea que tenían secuela (y quizá hubiese sido mejor así)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-exito-secuelas-1358779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/instinto-basico-2-3264832.jpg?tf=1200x' alt='6 películas de éxito que no tenías ni idea que tenían secuela (y quizá hubiese sido mejor así)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gps-alexa-amazfit-tiene-precio-locura-reventando-gama-entrada-1357840'>Este reloj GPS y con Alexa de Amazfit tiene precio de locura y está reventando la gama de entrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gps-alexa-amazfit-tiene-precio-locura-reventando-gama-entrada-1357840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazfit-bip-5-3262834.jpg?tf=1200x' alt='Este reloj GPS y con Alexa de Amazfit tiene precio de locura y está reventando la gama de entrada' />
+    <h4><a href='https://computerhoy.com/tecnologia/cae-mayores-redes-iptv-paginas-ver-futbol-gratis-1359151'>Cae una de las mayores redes de IPTV y páginas para ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cae-mayores-redes-iptv-paginas-ver-futbol-gratis-1359151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Cae una de las mayores redes de IPTV y páginas para ver el fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982'>Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-trabajo-humano-3264537.jpg?tf=1200x' alt='Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos' />
+    <h4><a href='https://computerhoy.com/ciencia/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-1352897'>Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2024</a></h4>
+    <a href='https://computerhoy.com/ciencia/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-1352897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-3254458.jpg?tf=1200x' alt='Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2024' />
     </a>
 </div>
 
