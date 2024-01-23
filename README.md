@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965'>¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no saber el de su reparación</a></h4>
+    <h4><a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965'>¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no conocer el precio de su reparación</a></h4>
     <a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no saber el de su reparación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no conocer el precio de su reparación' />
     </a>
 </div>
 
