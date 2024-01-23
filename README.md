@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/discos-duros-gran-capacidad-1358880'>5 discos duros de gran capacidad como alternativa al almacenamiento en la nube</a></h4>
-    <a href='https://computerhoy.com/discos-duros-gran-capacidad-1358880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='5 discos duros de gran capacidad como alternativa al almacenamiento en la nube' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982'>Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-trabajo-humano-3264537.jpg?tf=1200x' alt='Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-shure-sm7db-micro-mayoria-streamers-mejorado-1355602'>He probado el Shure SM7dB, el micro de la mayoría de streamers mejorado</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-shure-sm7db-micro-mayoria-streamers-mejorado-1355602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shure-sm7db-3259653.jpg?tf=1200x' alt='He probado el Shure SM7dB, el micro de la mayoría de streamers mejorado' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699'>Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625'>Estos son los mejores relojes para trail running</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg?tf=1200x' alt='Estos son los mejores relojes para trail running' />
+    <h4><a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965'>¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no saber el de su reparación</a></h4>
+    <a href='https://computerhoy.com/apple/te-parecen-caras-apple-vision-pro-procura-cuidarlas-no-tengas-saber-reparacion-1358965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='¿Las Apple Vision Pro te parecen caras?, procura cuidarlas y no saber el de su reparación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-1358930'>FraudGPT y WormGPT, las versiones malvadas de ChatGPT que aterrorizan a los expertos en ciberseguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-1358930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-3264449.jpg?tf=1200x' alt='FraudGPT y WormGPT, las versiones malvadas de ChatGPT que aterrorizan a los expertos en ciberseguridad' />
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-ios-173-incluye-novedad-proteger-iphone-robos-1358959'>Apple lanza iOS 17.3 e incluye una novedad para proteger tu iPhone y tus datos de los robos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-ios-173-incluye-novedad-proteger-iphone-robos-1358959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ladron-moviles-3264497.jpg?tf=1200x' alt='Apple lanza iOS 17.3 e incluye una novedad para proteger tu iPhone y tus datos de los robos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuenta-facebook-desvincula-instagram-messenger-marketplace-gaming-1358931'>20 años después, Meta devuelve la libertad de elección a los usuarios europeos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuenta-facebook-desvincula-instagram-messenger-marketplace-gaming-1358931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='20 años después, Meta devuelve la libertad de elección a los usuarios europeos' />
+    <h4><a href='https://computerhoy.com/ciencia/cerebro-cuantico-idea-revolucionaria-cambia-todo-1358952'>¿Tenemos un cerebro cuántico? Una idea revolucionaria que cambia todo lo que sabemos sobre él</a></h4>
+    <a href='https://computerhoy.com/ciencia/cerebro-cuantico-idea-revolucionaria-cambia-todo-1358952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tenemos-cerebro-cuantico-estos-comportamientos-demuestran-3264456.jpg?tf=1200x' alt='¿Tenemos un cerebro cuántico? Una idea revolucionaria que cambia todo lo que sabemos sobre él' />
     </a>
 </div>
 
