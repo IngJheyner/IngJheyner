@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/discos-duros-gran-capacidad-1358880'>5 discos duros de gran capacidad como alternativa al almacenamiento en la nube</a></h4>
+    <a href='https://computerhoy.com/discos-duros-gran-capacidad-1358880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/vida-media-unidad-disco-duro-hdd-no-alcanza-3-anos-nuevo-estudio-3025802.jpg?tf=1200x' alt='5 discos duros de gran capacidad como alternativa al almacenamiento en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-shure-sm7db-micro-mayoria-streamers-mejorado-1355602'>He probado el Shure SM7dB, el micro de la mayoría de streamers mejorado</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-shure-sm7db-micro-mayoria-streamers-mejorado-1355602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shure-sm7db-3259653.jpg?tf=1200x' alt='He probado el Shure SM7dB, el micro de la mayoría de streamers mejorado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625'>Estos son los mejores relojes para trail running</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg?tf=1200x' alt='Estos son los mejores relojes para trail running' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuenta-facebook-desvincula-instagram-messenger-marketplace-gaming-1358931'>20 años después, Meta devuelve la libertad de elección a los usuarios europeos</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuenta-facebook-desvincula-instagram-messenger-marketplace-gaming-1358931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/meta-facebook-3209280.jpg?tf=1200x' alt='20 años después, Meta devuelve la libertad de elección a los usuarios europeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-1358927'>Linux Lite o cómo devolver a la vida cualquier PC, por muy viejo que sea</a></h4>
-    <a href='https://computerhoy.com/pc/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-1358927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-3264445.jpg?tf=1200x' alt='Linux Lite o cómo devolver a la vida cualquier PC, por muy viejo que sea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921'>Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oppo-a79-5g-aterriza-espana-bateria-5000-mah-resistencia-agua-diseno-nivel-moviles-gama-alta-3264430.jpg?tf=1200x' alt='Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta' />
     </a>
 </div>
 
