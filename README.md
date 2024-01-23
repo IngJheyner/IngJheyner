@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625'>Estos son los mejores relojes para trail running</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-trail-running-1001625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/persona-corriendo-carrera-trail-running-2806315.jpg?tf=1200x' alt='Estos son los mejores relojes para trail running' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-1358930'>FraudGPT y WormGPT, las versiones malvadas de ChatGPT que aterrorizan a los expertos en ciberseguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-1358930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fraudgpt-wormgpt-versiones-malvadas-chatgpt-aterrorizan-expertos-ciberseguridad-3264449.jpg?tf=1200x' alt='FraudGPT y WormGPT, las versiones malvadas de ChatGPT que aterrorizan a los expertos en ciberseguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921'>Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oppo-a79-5g-aterriza-espana-bateria-5000-mah-resistencia-agua-diseno-nivel-moviles-gama-alta-3264430.jpg?tf=1200x' alt='Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/excavadora-autonoma-construye-muro-inteligencia-artificial-1358922'>Esta excavadora autónoma construye un muro sin intervención humana, usando IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/excavadora-autonoma-construye-muro-inteligencia-artificial-1358922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705954627272-3264387.jpg?tf=1200x' alt='Esta excavadora autónoma construye un muro sin intervención humana, usando IA' />
     </a>
 </div>
 
