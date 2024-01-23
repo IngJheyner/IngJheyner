@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-anuncia-mayores-descubrimientos-marte-opalo-1359150'>La NASA anuncia uno sus mayores descubrimientos en Marte: "aumenta las posibilidades de vida"</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-anuncia-mayores-descubrimientos-marte-opalo-1359150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-marte-constataria-alli-tiempo-pasa-deprisa-tierra-3262498.jpg?tf=1200x' alt='La NASA anuncia uno sus mayores descubrimientos en Marte: "aumenta las posibilidades de vida"' />
+    <h4><a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242'>Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-3264977.jpg?tf=1200x' alt='Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-tiene-bascula-inteligente-top-acaba-hundir-precio-40-1358951'>Garmin tiene la báscula inteligente más top, y acaba de hundir su precio en un 40%</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-tiene-bascula-inteligente-top-acaba-hundir-precio-40-1358951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-index-s2-3264464.jpg?tf=1200x' alt='Garmin tiene la báscula inteligente más top, y acaba de hundir su precio en un 40%' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-ensena-primeras-muestras-bennu-admite-ellos-tambien-son-humanos-1359239'>La NASA enseña las primeras muestras de Bennu y admite que ellos también son humanos</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ensena-primeras-muestras-bennu-admite-ellos-tambien-son-humanos-1359239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/nave-osiris-rex-nasa-alcanza-asteroide-bennu_0.jpg?tf=1200x' alt='La NASA enseña las primeras muestras de Bennu y admite que ellos también son humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-exito-secuelas-1358779'>6 películas de éxito que no tenías ni idea que tenían secuela (y quizá hubiese sido mejor así)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-exito-secuelas-1358779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/instinto-basico-2-3264832.jpg?tf=1200x' alt='6 películas de éxito que no tenías ni idea que tenían secuela (y quizá hubiese sido mejor así)' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-visualizacion-facebook-1357424'>Cómo borrar tu historial de visualización en Facebook y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-historial-visualizacion-facebook-1357424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-historial-visualizacion-facebook-deberias-hacerlo-ahora-mismo-3262140.jpg?tf=1200x' alt='Cómo borrar tu historial de visualización en Facebook y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cae-mayores-redes-iptv-paginas-ver-futbol-gratis-1359151'>Cae una de las mayores redes de IPTV y páginas para ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cae-mayores-redes-iptv-paginas-ver-futbol-gratis-1359151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Cae una de las mayores redes de IPTV y páginas para ver el fútbol gratis' />
+    <h4><a href='https://computerhoy.com/apple/playlists-colaborativas-ya-estan-disponibles-apple-music-1359202'>Apple Music va a por Spotify con la llegada de las playlists colaborativas</a></h4>
+    <a href='https://computerhoy.com/apple/playlists-colaborativas-ya-estan-disponibles-apple-music-1359202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/listas-colaborativas-apple-music-3264898.jpg?tf=1200x' alt='Apple Music va a por Spotify con la llegada de las playlists colaborativas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-1352897'>Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2024</a></h4>
-    <a href='https://computerhoy.com/ciencia/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-1352897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fenomenos-atmosfericos-alucinantes-tendran-lugar-2024-3254458.jpg?tf=1200x' alt='Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2024' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-antidepresivos-podrian-combatir-cancer-1359129'>Lucha contra el cáncer: descubren que los antidepresivos podrían ser una nueva arma para combatir la enfermedad</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-antidepresivos-podrian-combatir-cancer-1359129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lucha-cancer-cientificos-descubren-antidepresivos-podrian-ser-nueva-arma-combatir-enfermedad-3264713.jpg?tf=1200x' alt='Lucha contra el cáncer: descubren que los antidepresivos podrían ser una nueva arma para combatir la enfermedad' />
     </a>
 </div>
 
