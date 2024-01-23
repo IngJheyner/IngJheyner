@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323'>¿El menú inicio en Windows 11 no funciona? No desesperes, prueba alguna de estas soluciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/hacer-no-funciona-menu-inicio-windows-11-1000323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ordenador-menu-inicio-windows-11-3264756.jpg?tf=1200x' alt='¿El menú inicio en Windows 11 no funciona? No desesperes, prueba alguna de estas soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014'>¿Por qué el inglés no es el idioma oficial de Estados Unidos?</a></h4>
     <a href='https://computerhoy.com/life/ingles-no-idioma-oficial-estados-unidos-1359014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estados-unidos-bandera-3264581.jpg?tf=1200x' alt='¿Por qué el inglés no es el idioma oficial de Estados Unidos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982'>Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-no-reemplazara-mayoria-trabajos-corto-plazo-mit-1358982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-trabajo-humano-3264537.jpg?tf=1200x' alt='Un estudio del MIT confirma que la IA es demasiado cara para reemplazar a los humanos en la mayoría de trabajos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699'>Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-revienta-precio-pixel-7a-moviles-baratos-google-hacen-magia-camara-1358699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/google-pixel-7a-analisis-opinion-3029780.jpg?tf=1200x' alt='Amazon revienta el precio de los Pixel 7a, los móviles baratos de Google que hacen magia con la cámara' />
     </a>
 </div>
 
