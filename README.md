@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921'>Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-a79-5g-aterriza-espana-precio-especificaciones-disponibilidad-1358921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oppo-a79-5g-aterriza-espana-bateria-5000-mah-resistencia-agua-diseno-nivel-moviles-gama-alta-3264430.jpg?tf=1200x' alt='Oppo A79 5G aterriza en España: batería de 5.000 mAh, resistencia al agua y un diseño al nivel de los móviles de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/excavadora-autonoma-construye-muro-inteligencia-artificial-1358922'>Esta excavadora autónoma construye un muro sin intervención humana, usando IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/excavadora-autonoma-construye-muro-inteligencia-artificial-1358922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1705954627272-3264387.jpg?tf=1200x' alt='Esta excavadora autónoma construye un muro sin intervención humana, usando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-atasque-sea-mucho-lento-1358881'>El error con la conexión WiFi que hace que tu Amazon Fire TV se atasque y sea mucho más lento</a></h4>
     <a href='https://computerhoy.com/internet/error-conexion-wifi-hace-amazon-fire-tv-atasque-sea-mucho-lento-1358881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-acceder-test-velocidad-oculto-amazon-fire-tv-comprobar-calidad-internet-3249964.jpg?tf=1200x' alt='El error con la conexión WiFi que hace que tu Amazon Fire TV se atasque y sea mucho más lento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pasaria-tierra-quedase-oxigeno-durante-solo-5-segundos-aterrador-1358879'>Esto es lo que le pasaría a la Tierra si se quedase sin oxígeno durante solo 5 segundos, y es aterrador</a></h4>
     <a href='https://computerhoy.com/life/pasaria-tierra-quedase-oxigeno-durante-solo-5-segundos-aterrador-1358879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/final-planeta-tierra-3264365.jpg?tf=1200x' alt='Esto es lo que le pasaría a la Tierra si se quedase sin oxígeno durante solo 5 segundos, y es aterrador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-placa-v12-fv-pueden-circular-150-km-h-1358877'>Esto son los únicos coches que pueden circular a 150 Km/h, y no son policías ni ambulancias</a></h4>
-    <a href='https://computerhoy.com/motor/coches-placa-v12-fv-pueden-circular-150-km-h-1358877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-unicos-coches-pueden-circular-150-km-h-no-son-policias-ni-ambulancias-3264344.jpg?tf=1200x' alt='Esto son los únicos coches que pueden circular a 150 Km/h, y no son policías ni ambulancias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-att-invierten-servicio-satelite-smartphone-1358865'>Starlink ya tiene rival y viene de la mano de Google y AT&T</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-att-invierten-servicio-satelite-smartphone-1358865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tierra-3264351.jpg?tf=1200x' alt='Starlink ya tiene rival y viene de la mano de Google y AT&T' />
     </a>
 </div>
 
