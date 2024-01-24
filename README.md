@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130'>Así puedes comprobar si la seguridad de tu cuenta de correo está comprometida y cómo actuar si ocurre</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-comprobar-correo-ha-filtrado-internet-hacer-proteger-cuenta-3264842.jpg?tf=1200x' alt='Así puedes comprobar si la seguridad de tu cuenta de correo está comprometida y cómo actuar si ocurre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935'>25 acertijos con respuesta para mantener tu mente activa</a></h4>
+    <a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/25-acertijos-respuesta-mantener-mente-activa-3265041.jpg?tf=1200x' alt='25 acertijos con respuesta para mantener tu mente activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364'>Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome</a></h4>
     <a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-ia-chrome-3265179.jpg?tf=1200x' alt='Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346'>La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming</a></h4>
     <a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/carrefour-netflix-3265141.jpg?tf=1200x' alt='La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333'>¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?</a></h4>
-    <a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-fin-mundo-3265119.jpg?tf=1200x' alt='¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356'>Esta es la persona mayor más llamada por teléfono de España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/emilia-jorge-fundador-maximiliana-3265154.jpg?tf=1200x' alt='Esta es la persona mayor más llamada por teléfono de España' />
     </a>
 </div>
 
