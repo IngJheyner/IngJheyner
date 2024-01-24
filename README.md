@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuantas-veces-puede-reutilizar-aceite-cocinar-1358810'>¿Cuántas veces reutilizas el aceite de freír? Es posible que lo estés tirando demasiado pronto</a></h4>
-    <a href='https://computerhoy.com/life/cuantas-veces-puede-reutilizar-aceite-cocinar-1358810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cocinar-fuego-3264855.jpg?tf=1200x' alt='¿Cuántas veces reutilizas el aceite de freír? Es posible que lo estés tirando demasiado pronto' />
+    <h4><a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333'>¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?</a></h4>
+    <a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-fin-mundo-3265119.jpg?tf=1200x' alt='¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/alternativas-raspberry-pi'>Guía con las mejores alternativas a Raspberry Pi que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/guia-compra/alternativas-raspberry-pi' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146606.jpg?tf=1200x' alt='Guía con las mejores alternativas a Raspberry Pi que puedes comprar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356'>Esta es la persona mayor más llamada por teléfono de España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/emilia-jorge-fundador-maximiliana-3265154.jpg?tf=1200x' alt='Esta es la persona mayor más llamada por teléfono de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bing-imessage-edge-podrian-quedarse-fuera-ley-mercados-digitales-1359285'>Microsoft Bing, iMessage de Apple y el navegador Edge no cumplirán la Ley de Mercados Digitales porque... son irrelevantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bing-imessage-edge-podrian-quedarse-fuera-ley-mercados-digitales-1359285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-bing-navegador-edge-imessage-apple-no-cumpliran-ley-mercados-digitales-porque-son-irrelevantes-3265043.jpg?tf=1200x' alt='Microsoft Bing, iMessage de Apple y el navegador Edge no cumplirán la Ley de Mercados Digitales porque... son irrelevantes' />
+    <h4><a href='https://computerhoy.com/apple/apple-car-finalmente-retrasa-2028-vendra-nivel-autonomia-reducido-1359323'>El Apple Car finalmente se retrasa hasta 2028 y vendrá con un nivel de autonomía muy reducido</a></h4>
+    <a href='https://computerhoy.com/apple/apple-car-finalmente-retrasa-2028-vendra-nivel-autonomia-reducido-1359323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-car-recreacion-3265108.jpg?tf=1200x' alt='El Apple Car finalmente se retrasa hasta 2028 y vendrá con un nivel de autonomía muy reducido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pedir-online-borrador-renta-2023-24-1358872'>Cómo y cuándo podrás pedir online el borrador de la Renta 2023/24</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pedir-online-borrador-renta-2023-24-1358872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-pedir-online-borrador-renta-2023-24-3264411.jpg?tf=1200x' alt='Cómo y cuándo podrás pedir online el borrador de la Renta 2023/24' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-celebra-2023-record-pero-eso-podria-ser-muy-mala-noticia-subscriptores-1359304'>Netflix celebra un 2023 de récord, pero eso podría ser una muy mala noticia para sus subscriptores</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-celebra-2023-record-pero-eso-podria-ser-muy-mala-noticia-subscriptores-1359304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Netflix celebra un 2023 de récord, pero eso podría ser una muy mala noticia para sus subscriptores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276'>Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce</a></h4>
-    <a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-3265040.jpg?tf=1200x' alt='Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/torre-gaming-barata-oferta-pccomponentes-windows-11-regalo-1359306'>Esta torre gaming barata de PcComponentes pondrá tu cuenta de Steam al rojo vivo, y ahora con regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/torre-gaming-barata-oferta-pccomponentes-windows-11-regalo-1359306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pccom-lite-3265057.jpg?tf=1200x' alt='Esta torre gaming barata de PcComponentes pondrá tu cuenta de Steam al rojo vivo, y ahora con regalo' />
     </a>
 </div>
 
