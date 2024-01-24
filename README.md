@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364'>Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome</a></h4>
+    <a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-ia-chrome-3265179.jpg?tf=1200x' alt='Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eres-fan-garmin-hijo-tambien-reloj-deportivo-infantil-barato-muy-util-dia-dia-1358943'>Si eres fan de Garmin, tu hijo también: su reloj deportivo infantil es barato y muy útil en el día a día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-fan-garmin-hijo-tambien-reloj-deportivo-infantil-barato-muy-util-dia-dia-1358943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-vivofit-jr-3-3264138.jpg?tf=1200x' alt='Si eres fan de Garmin, tu hijo también: su reloj deportivo infantil es barato y muy útil en el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346'>La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/carrefour-netflix-3265141.jpg?tf=1200x' alt='La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333'>¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?</a></h4>
     <a href='https://computerhoy.com/life/significa-reloj-fin-mundo-cerca-nunca-medianoche-1359333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/reloj-fin-mundo-3265119.jpg?tf=1200x' alt='¿Qué significa que el reloj del fin del mundo esté más cerca que nunca de la medianoche?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356'>Esta es la persona mayor más llamada por teléfono de España</a></h4>
     <a href='https://computerhoy.com/tecnologia/persona-mayor-llamada-telefono-espana-1359356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/emilia-jorge-fundador-maximiliana-3265154.jpg?tf=1200x' alt='Esta es la persona mayor más llamada por teléfono de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-car-finalmente-retrasa-2028-vendra-nivel-autonomia-reducido-1359323'>El Apple Car finalmente se retrasa hasta 2028 y vendrá con un nivel de autonomía muy reducido</a></h4>
-    <a href='https://computerhoy.com/apple/apple-car-finalmente-retrasa-2028-vendra-nivel-autonomia-reducido-1359323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-car-recreacion-3265108.jpg?tf=1200x' alt='El Apple Car finalmente se retrasa hasta 2028 y vendrá con un nivel de autonomía muy reducido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-celebra-2023-record-pero-eso-podria-ser-muy-mala-noticia-subscriptores-1359304'>Netflix celebra un 2023 de récord, pero eso podría ser una muy mala noticia para sus subscriptores</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-celebra-2023-record-pero-eso-podria-ser-muy-mala-noticia-subscriptores-1359304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/netflix-sorpresa-3221580.jpg?tf=1200x' alt='Netflix celebra un 2023 de récord, pero eso podría ser una muy mala noticia para sus subscriptores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/torre-gaming-barata-oferta-pccomponentes-windows-11-regalo-1359306'>Esta torre gaming barata de PcComponentes pondrá tu cuenta de Steam al rojo vivo, y ahora con regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/torre-gaming-barata-oferta-pccomponentes-windows-11-regalo-1359306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pccom-lite-3265057.jpg?tf=1200x' alt='Esta torre gaming barata de PcComponentes pondrá tu cuenta de Steam al rojo vivo, y ahora con regalo' />
     </a>
 </div>
 
