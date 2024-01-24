@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130'>Así puedes comprobar si la seguridad de tu cuenta de correo está comprometida y cómo actuar si ocurre</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-comprobar-correo-ha-filtrado-internet-hacer-proteger-cuenta-3264842.jpg?tf=1200x' alt='Así puedes comprobar si la seguridad de tu cuenta de correo está comprometida y cómo actuar si ocurre' />
+    <h4><a href='https://computerhoy.com/tutoriales/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-1356496'>¿Se ha caído Instagram? Esto es lo que debes hacer si Instagram no funciona</a></h4>
+    <a href='https://computerhoy.com/tutoriales/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-1356496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-3260523.jpg?tf=1200x' alt='¿Se ha caído Instagram? Esto es lo que debes hacer si Instagram no funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935'>25 acertijos con respuesta para mantener tu mente activa</a></h4>
-    <a href='https://computerhoy.com/listas/life/20-acertijos-respuesta-mantener-mente-activa-830935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/25-acertijos-respuesta-mantener-mente-activa-3265041.jpg?tf=1200x' alt='25 acertijos con respuesta para mantener tu mente activa' />
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-utilizar-vistas-explorador-archivos-windows-11-1359157'>Conviértete en un experto de las vistas del Explorador de archivos de Windows 11 con estos trucos y consejos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-utilizar-vistas-explorador-archivos-windows-11-1359157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trucos-consejos-utilizar-vistas-explorador-archivos-windows-11-3264914.jpg?tf=1200x' alt='Conviértete en un experto de las vistas del Explorador de archivos de Windows 11 con estos trucos y consejos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364'>Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome</a></h4>
-    <a href='https://computerhoy.com/google/google-anuncia-llegada-ia-chrome-estas-tres-funciones-1359364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-ia-chrome-3265179.jpg?tf=1200x' alt='Google apuesta todo por la inteligencia artificial y presenta tres funciones que llegarán a Chrome' />
+    <h4><a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407'>Un ingeniero de prompts desvelas las 3 reglas de oro para exprimir al máximo ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Un ingeniero de prompts desvelas las 3 reglas de oro para exprimir al máximo ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-fan-garmin-hijo-tambien-reloj-deportivo-infantil-barato-muy-util-dia-dia-1358943'>Si eres fan de Garmin, tu hijo también: su reloj deportivo infantil es barato y muy útil en el día a día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-fan-garmin-hijo-tambien-reloj-deportivo-infantil-barato-muy-util-dia-dia-1358943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-vivofit-jr-3-3264138.jpg?tf=1200x' alt='Si eres fan de Garmin, tu hijo también: su reloj deportivo infantil es barato y muy útil en el día a día' />
+    <h4><a href='https://computerhoy.com/ciencia/plan-europeo-vivir-luna-1359343'>Barrios residenciales, restaurantes e invernaderos: así es el plan europeo para vivir en la Luna</a></h4>
+    <a href='https://computerhoy.com/ciencia/plan-europeo-vivir-luna-1359343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-ciudad-estados-unidos-3265350.jpg?tf=1200x' alt='Barrios residenciales, restaurantes e invernaderos: así es el plan europeo para vivir en la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346'>La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/extrana-alianza-netflix-carrefour-liderar-mercado-streaming-1359346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/carrefour-netflix-3265141.jpg?tf=1200x' alt='La extraña alianza de Netflix con Carrefour para liderar el mercado del streaming' />
+    <h4><a href='https://computerhoy.com/redes/como-funciona-metodo-ptq-triunfar-entrevistas-trabajo-1359152'>Así es el método PTQ que triunfa en redes para tener éxito en las entrevistas de trabajo</a></h4>
+    <a href='https://computerhoy.com/redes/como-funciona-metodo-ptq-triunfar-entrevistas-trabajo-1359152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-ptq-triunfa-redes-tener-exito-entrevistas-trabajo-3264840.jpg?tf=1200x' alt='Así es el método PTQ que triunfa en redes para tener éxito en las entrevistas de trabajo' />
     </a>
 </div>
 
