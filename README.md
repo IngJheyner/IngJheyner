@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuantas-veces-puede-reutilizar-aceite-cocinar-1358810'>¿Cuántas veces reutilizas el aceite de freír? Es posible que lo estés tirando demasiado pronto</a></h4>
+    <a href='https://computerhoy.com/life/cuantas-veces-puede-reutilizar-aceite-cocinar-1358810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cocinar-fuego-3264855.jpg?tf=1200x' alt='¿Cuántas veces reutilizas el aceite de freír? Es posible que lo estés tirando demasiado pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/alternativas-raspberry-pi'>Guía con las mejores alternativas a Raspberry Pi que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/guia-compra/alternativas-raspberry-pi' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/raspberry-pi-5-3146606.jpg?tf=1200x' alt='Guía con las mejores alternativas a Raspberry Pi que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bing-imessage-edge-podrian-quedarse-fuera-ley-mercados-digitales-1359285'>Microsoft Bing, iMessage de Apple y el navegador Edge no cumplirán la Ley de Mercados Digitales porque... son irrelevantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bing-imessage-edge-podrian-quedarse-fuera-ley-mercados-digitales-1359285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-bing-navegador-edge-imessage-apple-no-cumpliran-ley-mercados-digitales-porque-son-irrelevantes-3265043.jpg?tf=1200x' alt='Microsoft Bing, iMessage de Apple y el navegador Edge no cumplirán la Ley de Mercados Digitales porque... son irrelevantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-pedir-online-borrador-renta-2023-24-1358872'>Cómo y cuándo podrás pedir online el borrador de la Renta 2023/24</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pedir-online-borrador-renta-2023-24-1358872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-pedir-online-borrador-renta-2023-24-3264411.jpg?tf=1200x' alt='Cómo y cuándo podrás pedir online el borrador de la Renta 2023/24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276'>Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce</a></h4>
     <a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-3265040.jpg?tf=1200x' alt='Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-encargado-fichajes-sevilla-fc-watsonx-inteligencia-artificial-ibm-1359281'>El nuevo encargado de los fichajes del Sevilla FC se llama Watsonx, y es una IA generativa de IBM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-encargado-fichajes-sevilla-fc-watsonx-inteligencia-artificial-ibm-1359281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-encargado-fichajes-sevilla-fc-llama-watsonx-ia-ib-3264958.jpg?tf=1200x' alt='El nuevo encargado de los fichajes del Sevilla FC se llama Watsonx, y es una IA generativa de IBM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266'>Usos ocultos (y oscuros) de Flipper Zero que no encontrarás en su manual de instrucciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='Usos ocultos (y oscuros) de Flipper Zero que no encontrarás en su manual de instrucciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-iphone-15-precio-locura-aliexpress-plaza-1359080'>Es mucho más barato que en Amazon: el iPhone 15, a precio de locura en AliExpress Plaza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-iphone-15-precio-locura-aliexpress-plaza-1359080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Es mucho más barato que en Amazon: el iPhone 15, a precio de locura en AliExpress Plaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242'>Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-3264977.jpg?tf=1200x' alt='Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"' />
     </a>
 </div>
 
