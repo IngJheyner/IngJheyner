@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-1356496'>¿Se ha caído Instagram? Esto es lo que debes hacer si Instagram no funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-1356496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/instagram-caido-como-saber-instagram-no-funciona-posibles-soluciones-3260523.jpg?tf=1200x' alt='¿Se ha caído Instagram? Esto es lo que debes hacer si Instagram no funciona' />
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716'>AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-utilizar-vistas-explorador-archivos-windows-11-1359157'>Conviértete en un experto de las vistas del Explorador de archivos de Windows 11 con estos trucos y consejos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-utilizar-vistas-explorador-archivos-windows-11-1359157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/trucos-consejos-utilizar-vistas-explorador-archivos-windows-11-3264914.jpg?tf=1200x' alt='Conviértete en un experto de las vistas del Explorador de archivos de Windows 11 con estos trucos y consejos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578'>Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-3265548.jpg?tf=1200x' alt='Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407'>Un ingeniero de prompts desvelas las 3 reglas de oro para exprimir al máximo ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Un ingeniero de prompts desvelas las 3 reglas de oro para exprimir al máximo ChatGPT' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591'>Hackers consiguen espiar usando el sensor de luz del móvil </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hackers-consiguen-espiar-usando-sensor-luz-movil-3265471.jpg?tf=1200x' alt='Hackers consiguen espiar usando el sensor de luz del móvil ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/plan-europeo-vivir-luna-1359343'>Barrios residenciales, restaurantes e invernaderos: así es el plan europeo para vivir en la Luna</a></h4>
-    <a href='https://computerhoy.com/ciencia/plan-europeo-vivir-luna-1359343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/luna-ciudad-estados-unidos-3265350.jpg?tf=1200x' alt='Barrios residenciales, restaurantes e invernaderos: así es el plan europeo para vivir en la Luna' />
+    <h4><a href='https://computerhoy.com/tutoriales/numero-telefono-virtual-gratis-1359205'>Números virtuales o cómo tener un número de teléfono de cualquier país del mundo sin moverte de casa</a></h4>
+    <a href='https://computerhoy.com/tutoriales/numero-telefono-virtual-gratis-1359205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/numero-virtual-gratis-son-sirven-como-conseguir-telefono-virtual-3264976.jpg?tf=1200x' alt='Números virtuales o cómo tener un número de teléfono de cualquier país del mundo sin moverte de casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-funciona-metodo-ptq-triunfar-entrevistas-trabajo-1359152'>Así es el método PTQ que triunfa en redes para tener éxito en las entrevistas de trabajo</a></h4>
-    <a href='https://computerhoy.com/redes/como-funciona-metodo-ptq-triunfar-entrevistas-trabajo-1359152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-ptq-triunfa-redes-tener-exito-entrevistas-trabajo-3264840.jpg?tf=1200x' alt='Así es el método PTQ que triunfa en redes para tener éxito en las entrevistas de trabajo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiene-android-pero-error-iphone-casi-arruina-vida-1359580'>Tiene un Android, pero un error en iPhone casi le arruina la vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiene-android-pero-error-iphone-casi-arruina-vida-1359580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/error-apple-maps-3265522.jpg?tf=1200x' alt='Tiene un Android, pero un error en iPhone casi le arruina la vida' />
     </a>
 </div>
 
