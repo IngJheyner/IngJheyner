@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276'>Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce</a></h4>
+    <a href='https://computerhoy.com/apps/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-1359276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/app-gratis-android-auto-mezcla-mejor-google-maps-waze-casi-nadie-conoce-3265040.jpg?tf=1200x' alt='Esta app gratis para Android Auto mezcla lo mejor de Google Maps y Waze y casi nadie la conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-encargado-fichajes-sevilla-fc-watsonx-inteligencia-artificial-ibm-1359281'>El nuevo encargado de los fichajes del Sevilla FC se llama Watsonx, y es una IA generativa de IBM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-encargado-fichajes-sevilla-fc-watsonx-inteligencia-artificial-ibm-1359281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-encargado-fichajes-sevilla-fc-llama-watsonx-ia-ib-3264958.jpg?tf=1200x' alt='El nuevo encargado de los fichajes del Sevilla FC se llama Watsonx, y es una IA generativa de IBM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266'>Usos ocultos (y oscuros) de Flipper Zero que no encontrarás en su manual de instrucciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='Usos ocultos (y oscuros) de Flipper Zero que no encontrarás en su manual de instrucciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-iphone-15-precio-locura-aliexpress-plaza-1359080'>Es mucho más barato que en Amazon: el iPhone 15, a precio de locura en AliExpress Plaza</a></h4>
     <a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-iphone-15-precio-locura-aliexpress-plaza-1359080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Es mucho más barato que en Amazon: el iPhone 15, a precio de locura en AliExpress Plaza' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242'>Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"</a></h4>
     <a href='https://computerhoy.com/tecnologia/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-1359242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/idea-sistema-casero-enfriar-pc-gaming-redes-alucinan-nunca-habia-visto-algo-tan-estupido-3264977.jpg?tf=1200x' alt='Idea un sistema casero para enfriar su PC gaming y las redes alucinan: "Nunca había visto algo tan estúpido"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ensena-primeras-muestras-bennu-admite-ellos-tambien-son-humanos-1359239'>La NASA enseña las primeras muestras de Bennu y admite que ellos también son humanos</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ensena-primeras-muestras-bennu-admite-ellos-tambien-son-humanos-1359239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/nave-osiris-rex-nasa-alcanza-asteroide-bennu_0.jpg?tf=1200x' alt='La NASA enseña las primeras muestras de Bennu y admite que ellos también son humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-visualizacion-facebook-1357424'>Cómo borrar tu historial de visualización en Facebook y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-historial-visualizacion-facebook-1357424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-historial-visualizacion-facebook-deberias-hacerlo-ahora-mismo-3262140.jpg?tf=1200x' alt='Cómo borrar tu historial de visualización en Facebook y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/playlists-colaborativas-ya-estan-disponibles-apple-music-1359202'>Apple Music va a por Spotify con la llegada de las playlists colaborativas</a></h4>
-    <a href='https://computerhoy.com/apple/playlists-colaborativas-ya-estan-disponibles-apple-music-1359202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/listas-colaborativas-apple-music-3264898.jpg?tf=1200x' alt='Apple Music va a por Spotify con la llegada de las playlists colaborativas' />
     </a>
 </div>
 
