@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estos-son-mejores-lugares-ligar-1359361'>Estos son los mejores lugares para ligar, según la ciencia, y sorpresa, no es Tinder</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-mejores-lugares-ligar-1359361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dibujo-gato-corazon-flecha-3265428.jpg?tf=1200x' alt='Estos son los mejores lugares para ligar, según la ciencia, y sorpresa, no es Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560'>He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media</a></h4>
     <a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-analisis-opinion-3265378.jpg?tf=1200x' alt='He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/secreto-tardigrados-animales-resistentes-mundo-1359489'>Este animal tan horrible es real, es el más resistente de la Tierra y podría sobrevivir al fin del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/secreto-tardigrados-animales-resistentes-mundo-1359489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/secreto-tardigrados-animales-resistentes-planeta-podrian-sobrevivir-fin-mundo-3265387.jpg?tf=1200x' alt='Este animal tan horrible es real, es el más resistente de la Tierra y podría sobrevivir al fin del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-1359023'>Cómo detectar las estafas románticas en Facebook y otras redes sociales</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-1359023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-3264584.jpg?tf=1200x' alt='Cómo detectar las estafas románticas en Facebook y otras redes sociales' />
     </a>
 </div>
 
