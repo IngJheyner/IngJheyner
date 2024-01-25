@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/sencillo-truco-soluciona-problemas-conexion-amazon-fire-tv-1359898'>Este sencillo truco soluciona los problemas de conexión en tu Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/sencillo-truco-soluciona-problemas-conexion-amazon-fire-tv-1359898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sencillo-truco-soluciona-problemas-conexion-amazon-fire-tv-3266139.jpg?tf=1200x' alt='Este sencillo truco soluciona los problemas de conexión en tu Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-pixel-8-pro-oferta-descuentazo-amazon-1359344'>Amazon va a agotar el móvil top de Google que hace frente al iPhone 15 Pro: lo ha dejado más barato que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-pixel-8-pro-oferta-descuentazo-amazon-1359344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191830.jpg?tf=1200x' alt='Amazon va a agotar el móvil top de Google que hace frente al iPhone 15 Pro: lo ha dejado más barato que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-1359865'>Piracy Shield salva su último escollo: ver el fútbol gratis por IPTV será casi imposible</a></h4>
     <a href='https://computerhoy.com/internet/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-1359865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266111.jpg?tf=1200x' alt='Piracy Shield salva su último escollo: ver el fútbol gratis por IPTV será casi imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasajero-evita-despegue-avion-ultimo-segundo-detectar-faltaban-tornillos-ala-1359891'>Un pasajero evita el despegue de su avión en el último segundo al detectar que faltaban tornillos en un ala</a></h4>
-    <a href='https://computerhoy.com/life/pasajero-evita-despegue-avion-ultimo-segundo-detectar-faltaban-tornillos-ala-1359891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ala-avion-3266108.jpg?tf=1200x' alt='Un pasajero evita el despegue de su avión en el último segundo al detectar que faltaban tornillos en un ala' />
     </a>
 </div>
 
