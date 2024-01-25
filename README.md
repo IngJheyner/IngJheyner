@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-dividida-android-auto-conducir-seguro-1359719'>Desde que uso la pantalla dividida de Android Auto ha cambiado mi forma de conducir, me siento más seguro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-dividida-android-auto-conducir-seguro-1359719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-auto-fernando-alonso-3266026.jpg?tf=1200x' alt='Desde que uso la pantalla dividida de Android Auto ha cambiado mi forma de conducir, me siento más seguro' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-8-pro-oferta-descuentazo-amazon-1359344'>Amazon va a agotar el móvil top de Google que hace frente al iPhone 15 Pro: lo ha dejado más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-8-pro-oferta-descuentazo-amazon-1359344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191830.jpg?tf=1200x' alt='Amazon va a agotar el móvil top de Google que hace frente al iPhone 15 Pro: lo ha dejado más barato que nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/significa-vivir-modo-surf-metodo-ser-feliz-1359673'>Activa el modo surf para ser más feliz en el día a día, el método que arrasa en redes sociales </a></h4>
-    <a href='https://computerhoy.com/life/significa-vivir-modo-surf-metodo-ser-feliz-1359673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significa-vivir-modo-surf-metodo-moda-ser-feliz-dia-dia-3265704.jpg?tf=1200x' alt='Activa el modo surf para ser más feliz en el día a día, el método que arrasa en redes sociales ' />
+    <h4><a href='https://computerhoy.com/apps/fuente-aptos-llega-microsoft-office-asi-puedes-cambiarla-1359908'>La fuente Aptos llega a Microsoft Office: si no te gusta, así puedes cambiarla</a></h4>
+    <a href='https://computerhoy.com/apps/fuente-aptos-llega-microsoft-office-asi-puedes-cambiarla-1359908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fuente-aptos-llega-microsoft-office-no-te-gusta-puedes-cambiarla-3266128.jpg?tf=1200x' alt='La fuente Aptos llega a Microsoft Office: si no te gusta, así puedes cambiarla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-pagina-word-google-docs-1359241'>Así es cómo se elimina una página en Microsoft Word y Google Docs</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-pagina-word-google-docs-1359241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-eliminar-pagina-word-google-docs-3265019.jpg?tf=1200x' alt='Así es cómo se elimina una página en Microsoft Word y Google Docs' />
+    <h4><a href='https://computerhoy.com/life/como-calcular-numero-vida-cual-significado-1359631'>¿Sabes que todos tenemos un número de vida? Descubre cómo se calcula y cuál es su significado</a></h4>
+    <a href='https://computerhoy.com/life/como-calcular-numero-vida-cual-significado-1359631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-calcular-numero-vida-cual-significado-3265633.jpg?tf=1200x' alt='¿Sabes que todos tenemos un número de vida? Descubre cómo se calcula y cuál es su significado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-brutal-16000-opiniones-robot-aspirador-rompe-amazon-1359324'>Precio brutal y 16.000 opiniones: este robot aspirador rompe Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-brutal-16000-opiniones-robot-aspirador-rompe-amazon-1359324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Precio brutal y 16.000 opiniones: este robot aspirador rompe Amazon' />
+    <h4><a href='https://computerhoy.com/internet/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-1359865'>Piracy Shield salva su último escollo: ver el fútbol gratis por IPTV será casi imposible</a></h4>
+    <a href='https://computerhoy.com/internet/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-1359865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266111.jpg?tf=1200x' alt='Piracy Shield salva su último escollo: ver el fútbol gratis por IPTV será casi imposible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-1359848'>Olvídate del apagón TDT: más de 3.000 canales gratis en tu Smart TV, móvil o tablet sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-1359848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-instalar-nada-3266061.jpg?tf=1200x' alt='Olvídate del apagón TDT: más de 3.000 canales gratis en tu Smart TV, móvil o tablet sin instalar nada' />
+    <h4><a href='https://computerhoy.com/life/pasajero-evita-despegue-avion-ultimo-segundo-detectar-faltaban-tornillos-ala-1359891'>Un pasajero evita el despegue de su avión en el último segundo al detectar que faltaban tornillos en un ala</a></h4>
+    <a href='https://computerhoy.com/life/pasajero-evita-despegue-avion-ultimo-segundo-detectar-faltaban-tornillos-ala-1359891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ala-avion-3266108.jpg?tf=1200x' alt='Un pasajero evita el despegue de su avión en el último segundo al detectar que faltaban tornillos en un ala' />
     </a>
 </div>
 
