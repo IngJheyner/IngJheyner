@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fobia-social-tiempos-internet-sintomas-1349464'>Fobia social en tiempos de Internet: estos son sus principales síntomas</a></h4>
-    <a href='https://computerhoy.com/life/fobia-social-tiempos-internet-sintomas-1349464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/fobia-social-tiempos-internet-estos-son-principales-sintomas-3248273.jpg?tf=1200x' alt='Fobia social en tiempos de Internet: estos son sus principales síntomas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-dividida-android-auto-conducir-seguro-1359719'>Desde que uso la pantalla dividida de Android Auto ha cambiado mi forma de conducir, me siento más seguro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-pantalla-dividida-android-auto-conducir-seguro-1359719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-auto-fernando-alonso-3266026.jpg?tf=1200x' alt='Desde que uso la pantalla dividida de Android Auto ha cambiado mi forma de conducir, me siento más seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660'>Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones</a></h4>
-    <a href='https://computerhoy.com/internet/guia-photopea-alternativa-gratis-photoshop-todas-funciones-1276660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/guia-photopea-alternativa-gratis-photoshop-todas-funciones-3265640.jpg?tf=1200x' alt='Guía de Photopea, la alternativa gratis a Photoshop, y todas sus funciones' />
+    <h4><a href='https://computerhoy.com/life/significa-vivir-modo-surf-metodo-ser-feliz-1359673'>Activa el modo surf para ser más feliz en el día a día, el método que arrasa en redes sociales </a></h4>
+    <a href='https://computerhoy.com/life/significa-vivir-modo-surf-metodo-ser-feliz-1359673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/significa-vivir-modo-surf-metodo-moda-ser-feliz-dia-dia-3265704.jpg?tf=1200x' alt='Activa el modo surf para ser más feliz en el día a día, el método que arrasa en redes sociales ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/quieres-desintoxicarte-redes-sociales-tecnologia-movil-solucion-1359746'>¿Quieres desintoxicarte de las redes sociales y la tecnología? Este "móvil" es la solución</a></h4>
-    <a href='https://computerhoy.com/moviles/quieres-desintoxicarte-redes-sociales-tecnologia-movil-solucion-1359746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/minimal-phone-3265875.jpg?tf=1200x' alt='¿Quieres desintoxicarte de las redes sociales y la tecnología? Este "móvil" es la solución' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-pagina-word-google-docs-1359241'>Así es cómo se elimina una página en Microsoft Word y Google Docs</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-pagina-word-google-docs-1359241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-eliminar-pagina-word-google-docs-3265019.jpg?tf=1200x' alt='Así es cómo se elimina una página en Microsoft Word y Google Docs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/todo-ya-puedes-ver-gratis-dazn-laliga-premier-league-documentales-1359757'>Esto es todo lo que ya puedes ver gratis en DAZN: LaLiga, Premier League, documentales y más</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/todo-ya-puedes-ver-gratis-dazn-laliga-premier-league-documentales-1359757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dazn-deportes-3265907.jpg?tf=1200x' alt='Esto es todo lo que ya puedes ver gratis en DAZN: LaLiga, Premier League, documentales y más' />
+    <h4><a href='https://computerhoy.com/tecnologia/precio-brutal-16000-opiniones-robot-aspirador-rompe-amazon-1359324'>Precio brutal y 16.000 opiniones: este robot aspirador rompe Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-brutal-16000-opiniones-robot-aspirador-rompe-amazon-1359324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lefant-m210-2635959.jpg?tf=1200x' alt='Precio brutal y 16.000 opiniones: este robot aspirador rompe Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-sera-tan-potente-podria-ser-bautizada-microsoft-como-windows-12-1359714'>La actualización de Windows 11 en septiembre será tan potente que podría ser bautizada por Microsoft como Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-sera-tan-potente-podria-ser-bautizada-microsoft-como-windows-12-1359714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-microsoft-3265808.jpg?tf=1200x' alt='La actualización de Windows 11 en septiembre será tan potente que podría ser bautizada por Microsoft como Windows 12' />
+    <h4><a href='https://computerhoy.com/tutoriales/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-1359848'>Olvídate del apagón TDT: más de 3.000 canales gratis en tu Smart TV, móvil o tablet sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-1359848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/olvidate-apagon-tdt-3000-canales-gratis-smart-tv-movil-tablet-instalar-nada-3266061.jpg?tf=1200x' alt='Olvídate del apagón TDT: más de 3.000 canales gratis en tu Smart TV, móvil o tablet sin instalar nada' />
     </a>
 </div>
 
