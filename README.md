@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/moviles-pixel-8-estrenan-ia-generativa-rodea-buscar-1359633'>Los móviles Pixel 8 y Pixel 8 Pro estrenan la IA generativa con Rodea para buscar, y otras funciones</a></h4>
-    <a href='https://computerhoy.com/google/moviles-pixel-8-estrenan-ia-generativa-rodea-buscar-1359633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-pixel-8-pixel-8-pro-estrenan-ia-generativa-rodea-buscar-otras-funciones-3265629.jpg?tf=1200x' alt='Los móviles Pixel 8 y Pixel 8 Pro estrenan la IA generativa con Rodea para buscar, y otras funciones' />
+    <h4><a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560'>He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-analisis-opinion-3265378.jpg?tf=1200x' alt='He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630'>Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-dark-web-madre-todas-filtraciones-26000-millones-cuentas-hackeadas-3265571.jpg?tf=1200x' alt='Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/encuesta-samsung-revela-piensan-espanoles-inteligencia-artificial-1359640'>Una amplia encuesta de Samsung nos revela qué piensan los españoles de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/encuesta-samsung-revela-piensan-espanoles-inteligencia-artificial-1359640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amplia-encuesta-samsung-nos-revela-piensan-espanoles-inteligencia-artificial-3265636.jpg?tf=1200x' alt='Una amplia encuesta de Samsung nos revela qué piensan los españoles de la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-1359614'>La acción que todo el mundo deberá realizar el 14 de febrero si quiere seguir viendo la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-1359614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-3265612.jpg?tf=1200x' alt='La acción que todo el mundo deberá realizar el 14 de febrero si quiere seguir viendo la TDT' />
+    <h4><a href='https://computerhoy.com/ciencia/secreto-tardigrados-animales-resistentes-mundo-1359489'>Este animal tan horrible es real, es el más resistente de la Tierra y podría sobrevivir al fin del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/secreto-tardigrados-animales-resistentes-mundo-1359489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/secreto-tardigrados-animales-resistentes-planeta-podrian-sobrevivir-fin-mundo-3265387.jpg?tf=1200x' alt='Este animal tan horrible es real, es el más resistente de la Tierra y podría sobrevivir al fin del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716'>AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578'>Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-3265548.jpg?tf=1200x' alt='Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-1359023'>Cómo detectar las estafas románticas en Facebook y otras redes sociales</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-1359023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-estafas-romanticas-facebook-otras-redes-sociales-3264584.jpg?tf=1200x' alt='Cómo detectar las estafas románticas en Facebook y otras redes sociales' />
     </a>
 </div>
 
