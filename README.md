@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mitad-precio-soporte-firestick-proyector-pone-amazon-patas-arriba-1359662'>A mitad de precio y con soporte para Firestick: este proyector pone Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mitad-precio-soporte-firestick-proyector-pone-amazon-patas-arriba-1359662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proyector-wimius-s26-3265662.jpg?tf=1200x' alt='A mitad de precio y con soporte para Firestick: este proyector pone Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscas-google-maps-probable-te-encuentres-misteriosa-isla-hueca-1359663'>Si buscas en Google Maps te encontrarás esta misteriosa isla hueca: ¿Qué es lo que realmente esconde?</a></h4>
+    <a href='https://computerhoy.com/google/buscas-google-maps-probable-te-encuentres-misteriosa-isla-hueca-1359663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/isla-google-maps-3265718.jpg?tf=1200x' alt='Si buscas en Google Maps te encontrarás esta misteriosa isla hueca: ¿Qué es lo que realmente esconde?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/astrofisico-arregla-famosa-teoria-relatividad-einstein-mejora-1359659'>Un astrofísico "arregla" la famosa teoría de la relatividad de Einstein y la mejora</a></h4>
     <a href='https://computerhoy.com/ciencia/astrofisico-arregla-famosa-teoria-relatividad-einstein-mejora-1359659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/albert-einstein-universo-3265666.jpg?tf=1200x' alt='Un astrofísico "arregla" la famosa teoría de la relatividad de Einstein y la mejora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560'>He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-x6-pro-analisis-opinion-1358560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-analisis-opinion-3265378.jpg?tf=1200x' alt='He probado el POCO X6 Pro y creo que tiene un rendimiento asombroso que pone la guinda a uno de los mejores móviles en la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/encuesta-samsung-revela-piensan-espanoles-inteligencia-artificial-1359640'>Una amplia encuesta de Samsung nos revela qué piensan los españoles de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/encuesta-samsung-revela-piensan-espanoles-inteligencia-artificial-1359640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amplia-encuesta-samsung-nos-revela-piensan-espanoles-inteligencia-artificial-3265636.jpg?tf=1200x' alt='Una amplia encuesta de Samsung nos revela qué piensan los españoles de la inteligencia artificial' />
     </a>
 </div>
 
