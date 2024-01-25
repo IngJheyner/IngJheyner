@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630'>Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-dark-web-madre-todas-filtraciones-26000-millones-cuentas-hackeadas-3265571.jpg?tf=1200x' alt='Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-1359614'>La acción que todo el mundo deberá realizar el 14 de febrero si quiere seguir viendo la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-1359614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/accion-todo-mundo-debera-realizar-14-febrero-quiere-seguir-viendo-tdt-3265612.jpg?tf=1200x' alt='La acción que todo el mundo deberá realizar el 14 de febrero si quiere seguir viendo la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716'>AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-portatil-windows-11-pro-precio-dificil-creer-1356716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f16-plus-3260853.jpg?tf=1200x' alt='AliExpress revienta el precio de un portátil con Windows 11 Pro a precio difícil de creer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591'>Hackers consiguen espiar usando el sensor de luz del móvil </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hackers-consiguen-espiar-usando-sensor-luz-movil-3265471.jpg?tf=1200x' alt='Hackers consiguen espiar usando el sensor de luz del móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/numero-telefono-virtual-gratis-1359205'>Números virtuales o cómo tener un número de teléfono de cualquier país del mundo sin moverte de casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/numero-telefono-virtual-gratis-1359205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/numero-virtual-gratis-son-sirven-como-conseguir-telefono-virtual-3264976.jpg?tf=1200x' alt='Números virtuales o cómo tener un número de teléfono de cualquier país del mundo sin moverte de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiene-android-pero-error-iphone-casi-arruina-vida-1359580'>Tiene un Android, pero un error en iPhone casi le arruina la vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiene-android-pero-error-iphone-casi-arruina-vida-1359580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/error-apple-maps-3265522.jpg?tf=1200x' alt='Tiene un Android, pero un error en iPhone casi le arruina la vida' />
     </a>
 </div>
 
