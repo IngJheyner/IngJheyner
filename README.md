@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mitad-precio-soporte-firestick-proyector-pone-amazon-patas-arriba-1359662'>A mitad de precio y con soporte para Firestick: este proyector pone Amazon patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mitad-precio-soporte-firestick-proyector-pone-amazon-patas-arriba-1359662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proyector-wimius-s26-3265662.jpg?tf=1200x' alt='A mitad de precio y con soporte para Firestick: este proyector pone Amazon patas arriba' />
+    <h4><a href='https://computerhoy.com/entretenimiento/todo-ya-puedes-ver-gratis-dazn-laliga-premier-league-documentales-1359757'>Esto es todo lo que ya puedes ver gratis en DAZN: LaLiga, Premier League, documentales y más</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/todo-ya-puedes-ver-gratis-dazn-laliga-premier-league-documentales-1359757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dazn-deportes-3265907.jpg?tf=1200x' alt='Esto es todo lo que ya puedes ver gratis en DAZN: LaLiga, Premier League, documentales y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscas-google-maps-probable-te-encuentres-misteriosa-isla-hueca-1359663'>Si buscas en Google Maps te encontrarás esta misteriosa isla hueca: ¿Qué es lo que realmente esconde?</a></h4>
-    <a href='https://computerhoy.com/google/buscas-google-maps-probable-te-encuentres-misteriosa-isla-hueca-1359663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/isla-google-maps-3265718.jpg?tf=1200x' alt='Si buscas en Google Maps te encontrarás esta misteriosa isla hueca: ¿Qué es lo que realmente esconde?' />
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-sera-tan-potente-podria-ser-bautizada-microsoft-como-windows-12-1359714'>La actualización de Windows 11 en septiembre será tan potente que podría ser bautizada por Microsoft como Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-sera-tan-potente-podria-ser-bautizada-microsoft-como-windows-12-1359714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-microsoft-3265808.jpg?tf=1200x' alt='La actualización de Windows 11 en septiembre será tan potente que podría ser bautizada por Microsoft como Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/astrofisico-arregla-famosa-teoria-relatividad-einstein-mejora-1359659'>Un astrofísico "arregla" la famosa teoría de la relatividad de Einstein y la mejora</a></h4>
-    <a href='https://computerhoy.com/ciencia/astrofisico-arregla-famosa-teoria-relatividad-einstein-mejora-1359659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/albert-einstein-universo-3265666.jpg?tf=1200x' alt='Un astrofísico "arregla" la famosa teoría de la relatividad de Einstein y la mejora' />
+    <h4><a href='https://computerhoy.com/tv/estos-son-todos-canales-tdt-dejaras-ver-siempre-partir-14-febrero-1359693'>Estos son todos los canales de la TDT que dejarás de ver para siempre a partir del 14 de febrero</a></h4>
+    <a href='https://computerhoy.com/tv/estos-son-todos-canales-tdt-dejaras-ver-siempre-partir-14-febrero-1359693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/canales-tdt-3265783.jpg?tf=1200x' alt='Estos son todos los canales de la TDT que dejarás de ver para siempre a partir del 14 de febrero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-mejores-lugares-ligar-1359361'>Estos son los mejores lugares para ligar, según la ciencia, y sorpresa, no es Tinder</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-mejores-lugares-ligar-1359361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dibujo-gato-corazon-flecha-3265428.jpg?tf=1200x' alt='Estos son los mejores lugares para ligar, según la ciencia, y sorpresa, no es Tinder' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-garmin-carga-solar-rebajadisimo-amazon-menos-300-euros-1316684'>Este Garmin tiene un arma secreta: 28 días de batería con carga solar y a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-garmin-carga-solar-rebajadisimo-amazon-menos-300-euros-1316684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/garmin-instinct-solar-2064131.jpg?tf=1200x' alt='Este Garmin tiene un arma secreta: 28 días de batería con carga solar y a precio de saldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635'>Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-xiaomi-amazfit-810635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes de Xiaomi que puedes comprar' />
+    <h4><a href='https://computerhoy.com/apple/apple-estrenara-iphone-17-nuevos-potentes-chips-2-nm-tsmc-1359689'>Apple estrenará en el iPhone 17 y en exclusiva los nuevos y potentes chips de 2 nm de TSMC en 2025</a></h4>
+    <a href='https://computerhoy.com/apple/apple-estrenara-iphone-17-nuevos-potentes-chips-2-nm-tsmc-1359689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tsmc-apple-3265741.jpg?tf=1200x' alt='Apple estrenará en el iPhone 17 y en exclusiva los nuevos y potentes chips de 2 nm de TSMC en 2025' />
     </a>
 </div>
 
