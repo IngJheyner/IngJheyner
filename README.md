@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/moviles-pixel-8-estrenan-ia-generativa-rodea-buscar-1359633'>Los móviles Pixel 8 y Pixel 8 Pro estrenan la IA generativa con Rodea para buscar, y otras funciones</a></h4>
+    <a href='https://computerhoy.com/google/moviles-pixel-8-estrenan-ia-generativa-rodea-buscar-1359633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-pixel-8-pixel-8-pro-estrenan-ia-generativa-rodea-buscar-otras-funciones-3265629.jpg?tf=1200x' alt='Los móviles Pixel 8 y Pixel 8 Pro estrenan la IA generativa con Rodea para buscar, y otras funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630'>Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubren-dark-web-26000-millones-cuentas-hackeadas-1359630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubren-dark-web-madre-todas-filtraciones-26000-millones-cuentas-hackeadas-3265571.jpg?tf=1200x' alt='Descubren en la Dark Web la madre de todas las filtraciones: 26.000 millones de cuentas hackeadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578'>Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-1359578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-alguno-estos-comportamientos-raros-movil-cuidado-podrian-estar-accediendo-cuenta-bancaria-3265548.jpg?tf=1200x' alt='Si notas alguno de estos comportamientos raros en tu móvil, cuidado, podrían estar accediendo a tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591'>Hackers consiguen espiar usando el sensor de luz del móvil </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-espiar-usando-sensor-luz-movil-1359591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hackers-consiguen-espiar-usando-sensor-luz-movil-3265471.jpg?tf=1200x' alt='Hackers consiguen espiar usando el sensor de luz del móvil ' />
     </a>
 </div>
 
