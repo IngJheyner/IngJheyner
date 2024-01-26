@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ingenuity-helicoptero-marte-ha-estrellado-nasa-rinde-tributo-1359928'>Ingenuity, el helicóptero de Marte, se ha estrellado: la NASA le rinde tributo</a></h4>
+    <a href='https://computerhoy.com/espacio/ingenuity-helicoptero-marte-ha-estrellado-nasa-rinde-tributo-1359928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ingenuity-helicoptero-marte-ha-estrellado-nasa-rinde-tributo-3266153.jpg?tf=1200x' alt='Ingenuity, el helicóptero de Marte, se ha estrellado: la NASA le rinde tributo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/adios-monopolio-app-store-apple-anuncia-revolucion-1359923'>Adiós al monopolio de la App Store: Apple anuncia los mayores cambios desde que lanzó el primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/adios-monopolio-app-store-apple-anuncia-revolucion-1359923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/tim-cook-2938648.jpg?tf=1200x' alt='Adiós al monopolio de la App Store: Apple anuncia los mayores cambios desde que lanzó el primer iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/fuente-aptos-llega-microsoft-office-asi-puedes-cambiarla-1359908'>La fuente Aptos se estrena por defecto en Microsoft Office: si no te gusta, así puedes cambiarla</a></h4>
     <a href='https://computerhoy.com/apps/fuente-aptos-llega-microsoft-office-asi-puedes-cambiarla-1359908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fuente-aptos-llega-microsoft-office-no-te-gusta-puedes-cambiarla-3266128.jpg?tf=1200x' alt='La fuente Aptos se estrena por defecto en Microsoft Office: si no te gusta, así puedes cambiarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-calcular-numero-vida-cual-significado-1359631'>¿Sabes que todos tenemos un número de vida? Descubre cómo se calcula y cuál es su significado</a></h4>
-    <a href='https://computerhoy.com/life/como-calcular-numero-vida-cual-significado-1359631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-calcular-numero-vida-cual-significado-3265633.jpg?tf=1200x' alt='¿Sabes que todos tenemos un número de vida? Descubre cómo se calcula y cuál es su significado' />
     </a>
 </div>
 
