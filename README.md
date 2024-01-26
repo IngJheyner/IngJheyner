@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010'>Fortnite listo para su regreso triunfal a los iPhones gracias a la Ley de Mercados Digitales de la UE</a></h4>
+    <a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fortnite-apple-3266278.jpg?tf=1200x' alt='Fortnite listo para su regreso triunfal a los iPhones gracias a la Ley de Mercados Digitales de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-rebajados-amazon-150-euros-descuento-1359942'>C. Tangana usa estos cascos en su versión anterior, pero la nueva es mejor y tiene un ofertón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-rebajados-amazon-150-euros-descuento-1359942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700571.jpg?tf=1200x' alt='C. Tangana usa estos cascos en su versión anterior, pero la nueva es mejor y tiene un ofertón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999'>Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-ciberataques-3266224.jpg?tf=1200x' alt='Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955'>Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones</a></h4>
     <a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-notificaciones-iphone-3266190.jpg?tf=1200x' alt='Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/shinji-aoba-condenado-muerte-japon-1359979'>La brutal historia de Shinji Aoba, el último condenado a muerte en Japón</a></h4>
     <a href='https://computerhoy.com/life/shinji-aoba-condenado-muerte-japon-1359979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/brutal-historia-shinji-aoba-escritor-ha-sido-condenado-muerte-japon-3266168.jpg?tf=1200x' alt='La brutal historia de Shinji Aoba, el último condenado a muerte en Japón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-miravia-precio-nueva-ps5-slim-toca-fondo-hoy-unidades-limitadas-date-prisa-1359959'>Bombazo de Miravia: el precio de la nueva PS5 Slim toca fondo hoy y con unidades limitadas, así que date prisa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-miravia-precio-nueva-ps5-slim-toca-fondo-hoy-unidades-limitadas-date-prisa-1359959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Bombazo de Miravia: el precio de la nueva PS5 Slim toca fondo hoy y con unidades limitadas, así que date prisa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-mejoras-reducira-precios-promete-acabar-pereza-gpt-4-1359946'>OpenAI anuncia mejoras: reducirá precios y promete acabar con la pereza de GPT-4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-anuncia-mejoras-reducira-precios-promete-acabar-pereza-gpt-4-1359946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI anuncia mejoras: reducirá precios y promete acabar con la pereza de GPT-4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiemble-steam-torre-gaming-barata-te-lleva-jugar-ultra-muy-poco-dinero-1359656'>Que tiemble Steam: esta torre gaming barata te lleva a jugar en Ultra por muy poco dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiemble-steam-torre-gaming-barata-te-lleva-jugar-ultra-muy-poco-dinero-1359656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-legion-t5-gen-7-3265654.jpg?tf=1200x' alt='Que tiemble Steam: esta torre gaming barata te lleva a jugar en Ultra por muy poco dinero' />
     </a>
 </div>
 
