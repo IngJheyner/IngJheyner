@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200'>Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buscaban-tumba-cleopatra-encontraron-milagro-geometrico-tierra-3266607.jpg?tf=1200x' alt='Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969'>La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/akaso-brave-7-3266210.jpg?tf=1200x' alt='La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171'>Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos</a></h4>
     <a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/halo-3266548.jpg?tf=1200x' alt='Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920'>Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-3266149.jpg?tf=1200x' alt='Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza' />
     </a>
 </div>
 
