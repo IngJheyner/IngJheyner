@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/senales-indican-ha-llegado-hora-cambiar-mac-1358837'>Estas son las señales que me han dejado claro que llegado la hora de cambiar mi Mac</a></h4>
+    <a href='https://computerhoy.com/apple/senales-indican-ha-llegado-hora-cambiar-mac-1358837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-senales-indican-ha-llegado-hora-cambiar-mac-3264354.jpg?tf=1200x' alt='Estas son las señales que me han dejado claro que llegado la hora de cambiar mi Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877'>El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros</a></h4>
     <a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-v2-3266078.jpg?tf=1200x' alt='El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-3266164.jpg?tf=1200x' alt='10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070'>Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad </a></h4>
-    <a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/einstein-agujeros-negros-3266384.jpg?tf=1200x' alt='Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad ' />
     </a>
 </div>
 
