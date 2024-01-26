@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877'>El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-v2-3266078.jpg?tf=1200x' alt='El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-monstruo-godzilla-tienes-conocer-1359825'>5 películas clásicas de Godzilla que tienes que conocer antes de ver su nueva entrega con Kong</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-monstruo-godzilla-tienes-conocer-1359825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-clasicas-godzilla-tienes-conocer-antes-ver-nueva-entrega-kong-3265963.jpg?tf=1200x' alt='5 películas clásicas de Godzilla que tienes que conocer antes de ver su nueva entrega con Kong' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-magic-v2-mejor-plegable-tipo-libro-fecha-1355561'>He probado el Honor Magic V2, el mejor plegable tipo libro hasta la fecha</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-honor-magic-v2-mejor-plegable-tipo-libro-fecha-1355561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magic-v2-3259871.jpg?tf=1200x' alt='He probado el Honor Magic V2, el mejor plegable tipo libro hasta la fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-3266164.jpg?tf=1200x' alt='10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070'>Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad </a></h4>
     <a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/einstein-agujeros-negros-3266384.jpg?tf=1200x' alt='Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010'>Fortnite listo para su regreso triunfal a los iPhone gracias a la Ley de Mercados Digitales de la UE</a></h4>
-    <a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fortnite-apple-3266278.jpg?tf=1200x' alt='Fortnite listo para su regreso triunfal a los iPhone gracias a la Ley de Mercados Digitales de la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-rebajados-amazon-150-euros-descuento-1359942'>C. Tangana usa estos cascos en su versión anterior, pero la nueva es mejor y tiene un ofertón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-rebajados-amazon-150-euros-descuento-1359942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700571.jpg?tf=1200x' alt='C. Tangana usa estos cascos en su versión anterior, pero la nueva es mejor y tiene un ofertón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999'>Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-ciberataques-3266224.jpg?tf=1200x' alt='Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos' />
     </a>
 </div>
 
