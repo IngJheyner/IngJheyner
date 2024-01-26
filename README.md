@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969'>La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/akaso-brave-7-3266210.jpg?tf=1200x' alt='La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876'>Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-quitar-modo-seguro-movil-android-3259375.jpg?tf=1200x' alt='Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920'>Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza</a></h4>
     <a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-3266149.jpg?tf=1200x' alt='Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115'>El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel</a></h4>
-    <a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/motor-magna-3266480.jpg?tf=1200x' alt='El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel' />
     </a>
 </div>
 
