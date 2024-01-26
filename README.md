@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173'>El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/postre-restaurante-3266554.jpg?tf=1200x' alt='El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171'>Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/halo-3266548.jpg?tf=1200x' alt='Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920'>Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.com/apple/cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-1359920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-3266149.jpg?tf=1200x' alt='Soy un experto en el Apple TV y te desvelo algunas de sus funciones ocultas que casi nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115'>El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel</a></h4>
     <a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/motor-magna-3266480.jpg?tf=1200x' alt='El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116'>Descubren un embalse del siglo XII localizado en la Sierra de Segura</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/embalse-siglo-xii-3266478.jpg?tf=1200x' alt='Descubren un embalse del siglo XII localizado en la Sierra de Segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949'>Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-mover-juegos-programas-instalados-windows-11-otro-disco-duro-ssd-3263046.jpg?tf=1200x' alt='Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-mano-te-ayuda-correr-mejor-oferta-1359358'>Es Garmin, cabe en la mano y te ayuda a correr más y mejor ¡y está en oferta!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-mano-te-ayuda-correr-mejor-oferta-1359358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-sensor-running-dynamics-pod-3265140.jpg?tf=1200x' alt='Es Garmin, cabe en la mano y te ayuda a correr más y mejor ¡y está en oferta!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112'>Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin</a></h4>
-    <a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin' />
     </a>
 </div>
 
