@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876'>Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-quitar-modo-seguro-movil-android-3259375.jpg?tf=1200x' alt='Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173'>El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado</a></h4>
     <a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/postre-restaurante-3266554.jpg?tf=1200x' alt='El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115'>El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel</a></h4>
     <a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/motor-magna-3266480.jpg?tf=1200x' alt='El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116'>Descubren un embalse del siglo XII localizado en la Sierra de Segura</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/embalse-siglo-xii-3266478.jpg?tf=1200x' alt='Descubren un embalse del siglo XII localizado en la Sierra de Segura' />
     </a>
 </div>
 
