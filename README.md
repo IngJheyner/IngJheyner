@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-3266164.jpg?tf=1200x' alt='10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070'>Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad </a></h4>
     <a href='https://computerhoy.com/espacio/vez-einstein-tenia-razon-imagen-agujero-negro-confirma-teoria-relatividad-1360070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/einstein-agujeros-negros-3266384.jpg?tf=1200x' alt='Una vez más, Einstein tenía razón: esta imagen de un agujero negro confirma la teoría de la relatividad ' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010'>Fortnite listo para su regreso triunfal a los iPhones gracias a la Ley de Mercados Digitales de la UE</a></h4>
+    <h4><a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010'>Fortnite listo para su regreso triunfal a los iPhone gracias a la Ley de Mercados Digitales de la UE</a></h4>
     <a href='https://computerhoy.com/apple/fortnite-listo-regreso-triunfal-iphones-gracias-dma-union-europea-1360010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fortnite-apple-3266278.jpg?tf=1200x' alt='Fortnite listo para su regreso triunfal a los iPhones gracias a la Ley de Mercados Digitales de la UE' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/fortnite-apple-3266278.jpg?tf=1200x' alt='Fortnite listo para su regreso triunfal a los iPhone gracias a la Ley de Mercados Digitales de la UE' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999'>Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-convierte-blanco-ataques-parte-ciberdelincuentes-rusos-1359999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-ciberataques-3266224.jpg?tf=1200x' alt='Microsoft se convierte en el blanco de ciberataques por parte de piratas informáticos rusos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955'>Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones</a></h4>
-    <a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-notificaciones-iphone-3266190.jpg?tf=1200x' alt='Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones' />
     </a>
 </div>
 
