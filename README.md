@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115'>El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel</a></h4>
+    <a href='https://computerhoy.com/motor/motor-ultraligero-podria-matar-gasolina-diesel-1360115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/motor-magna-3266480.jpg?tf=1200x' alt='El motor Magna es ultraligero y puede dar sentencia de muerte a los gasolina y diésel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116'>Descubren un embalse del siglo XII localizado en la Sierra de Segura</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-embalse-siglo-xii-localizado-sierra-segura-1360116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/embalse-siglo-xii-3266478.jpg?tf=1200x' alt='Descubren un embalse del siglo XII localizado en la Sierra de Segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949'>Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-mover-juegos-programas-instalados-windows-11-otro-disco-duro-ssd-3263046.jpg?tf=1200x' alt='Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112'>Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin</a></h4>
     <a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-eliminar-numero-telefono-cuenta-google-1357295'>Cómo agregar, cambiar o eliminar el número de teléfono de tu cuenta de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-eliminar-numero-telefono-cuenta-google-1357295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-agregar-cambiar-eliminar-numero-telefono-cuenta-google-3261922.jpg?tf=1200x' alt='Cómo agregar, cambiar o eliminar el número de teléfono de tu cuenta de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-formo-valles-marineries-marte-1360105'>Así es como se formó el Valles Marineris de Marte, el gran cañón más grande del Sistema Solar</a></h4>
-    <a href='https://computerhoy.com/espacio/como-formo-valles-marineries-marte-1360105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-estudio-revela-como-fueron-valles-fluviales-marte-pasado-3262763.jpg?tf=1200x' alt='Así es como se formó el Valles Marineris de Marte, el gran cañón más grande del Sistema Solar' />
     </a>
 </div>
 
