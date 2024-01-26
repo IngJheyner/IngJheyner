@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/senales-indican-ha-llegado-hora-cambiar-mac-1358837'>Estas son las señales que me han dejado claro que llegado la hora de cambiar mi Mac</a></h4>
-    <a href='https://computerhoy.com/apple/senales-indican-ha-llegado-hora-cambiar-mac-1358837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-senales-indican-ha-llegado-hora-cambiar-mac-3264354.jpg?tf=1200x' alt='Estas son las señales que me han dejado claro que llegado la hora de cambiar mi Mac' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949'>Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-programas-juegos-instalados-otro-disco-ssd-windows-11-1357949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-mover-juegos-programas-instalados-windows-11-otro-disco-duro-ssd-3263046.jpg?tf=1200x' alt='Cómo mover juegos o programas instalados en Windows 11 a otro disco duro o SSD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877'>El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-magic-v2-aterriza-espana-1999-euros-1359877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-v2-3266078.jpg?tf=1200x' alt='El Honor Magic V2 aterriza en España como el plegable más fino del mercado por 1.999 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-mano-te-ayuda-correr-mejor-oferta-1359358'>Es Garmin, cabe en la mano y te ayuda a correr más y mejor ¡y está en oferta!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-mano-te-ayuda-correr-mejor-oferta-1359358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-sensor-running-dynamics-pod-3265140.jpg?tf=1200x' alt='Es Garmin, cabe en la mano y te ayuda a correr más y mejor ¡y está en oferta!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-monstruo-godzilla-tienes-conocer-1359825'>5 películas clásicas de Godzilla que tienes que conocer antes de ver su nueva entrega con Kong</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-monstruo-godzilla-tienes-conocer-1359825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-peliculas-clasicas-godzilla-tienes-conocer-antes-ver-nueva-entrega-kong-3265963.jpg?tf=1200x' alt='5 películas clásicas de Godzilla que tienes que conocer antes de ver su nueva entrega con Kong' />
+    <h4><a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112'>Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin</a></h4>
+    <a href='https://computerhoy.com/criptos/desmitifico-anonimato-bitcoin-descifradora-codigo-1360112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-tiene-bitcoins-intentamos-desvelar-secreto-mejor-guardado-2944424.jpg?tf=1200x' alt='Cómo una descifradora de código de 27 años desmitificó el anonimato de Bitcoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-magic-v2-mejor-plegable-tipo-libro-fecha-1355561'>He probado el Honor Magic V2, el mejor plegable tipo libro hasta la fecha</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-honor-magic-v2-mejor-plegable-tipo-libro-fecha-1355561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magic-v2-3259871.jpg?tf=1200x' alt='He probado el Honor Magic V2, el mejor plegable tipo libro hasta la fecha' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-eliminar-numero-telefono-cuenta-google-1357295'>Cómo agregar, cambiar o eliminar el número de teléfono de tu cuenta de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-eliminar-numero-telefono-cuenta-google-1357295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-agregar-cambiar-eliminar-numero-telefono-cuenta-google-3261922.jpg?tf=1200x' alt='Cómo agregar, cambiar o eliminar el número de teléfono de tu cuenta de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101'>10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/7-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-1042101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-aplicaciones-gratis-tienes-instalar-ya-mismo-telefono-android-3266164.jpg?tf=1200x' alt='10 aplicaciones gratis que tienes que instalar ya mismo en tu teléfono Android' />
+    <h4><a href='https://computerhoy.com/espacio/como-formo-valles-marineries-marte-1360105'>Así es como se formó el Valles Marineris de Marte, el gran cañón más grande del Sistema Solar</a></h4>
+    <a href='https://computerhoy.com/espacio/como-formo-valles-marineries-marte-1360105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nuevo-estudio-revela-como-fueron-valles-fluviales-marte-pasado-3262763.jpg?tf=1200x' alt='Así es como se formó el Valles Marineris de Marte, el gran cañón más grande del Sistema Solar' />
     </a>
 </div>
 
