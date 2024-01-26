@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955'>Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones</a></h4>
+    <a href='https://computerhoy.com/apple/facebook-linkedin-x-recopilan-datos-secreto-iphone-cuando-te-envian-notificaciones-investigadores-1359955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-notificaciones-iphone-3266190.jpg?tf=1200x' alt='Facebook, TikTok o X recopilan datos en secreto de tu iPhone cuando te envían notificaciones, según investigaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/shinji-aoba-condenado-muerte-japon-1359979'>La brutal historia de Shinji Aoba, el último condenado a muerte en Japón</a></h4>
+    <a href='https://computerhoy.com/life/shinji-aoba-condenado-muerte-japon-1359979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/brutal-historia-shinji-aoba-escritor-ha-sido-condenado-muerte-japon-3266168.jpg?tf=1200x' alt='La brutal historia de Shinji Aoba, el último condenado a muerte en Japón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-miravia-precio-nueva-ps5-slim-toca-fondo-hoy-unidades-limitadas-date-prisa-1359959'>Bombazo de Miravia: el precio de la nueva PS5 Slim toca fondo hoy y con unidades limitadas, así que date prisa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-miravia-precio-nueva-ps5-slim-toca-fondo-hoy-unidades-limitadas-date-prisa-1359959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='Bombazo de Miravia: el precio de la nueva PS5 Slim toca fondo hoy y con unidades limitadas, así que date prisa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-anuncia-mejoras-reducira-precios-promete-acabar-pereza-gpt-4-1359946'>OpenAI anuncia mejoras: reducirá precios y promete acabar con la pereza de GPT-4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-anuncia-mejoras-reducira-precios-promete-acabar-pereza-gpt-4-1359946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/openai-internet-3103546.jpg?tf=1200x' alt='OpenAI anuncia mejoras: reducirá precios y promete acabar con la pereza de GPT-4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tiemble-steam-torre-gaming-barata-te-lleva-jugar-ultra-muy-poco-dinero-1359656'>Que tiemble Steam: esta torre gaming barata te lleva a jugar en Ultra por muy poco dinero</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiemble-steam-torre-gaming-barata-te-lleva-jugar-ultra-muy-poco-dinero-1359656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-legion-t5-gen-7-3265654.jpg?tf=1200x' alt='Que tiemble Steam: esta torre gaming barata te lleva a jugar en Ultra por muy poco dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/codigo-swift-como-encontrarlo-diferencias-codigo-iban-1355784'>Código Swift: qué es, cómo encontrarlo y diferencias con el código IBAN</a></h4>
-    <a href='https://computerhoy.com/tutoriales/codigo-swift-como-encontrarlo-diferencias-codigo-iban-1355784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/codigo-swift-como-encontrarlo-diferencias-codigo-iban-3259329.jpg?tf=1200x' alt='Código Swift: qué es, cómo encontrarlo y diferencias con el código IBAN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adaptador-usb-c-dos-monitores-macbook-m1-m2-m3-1353989'>Por fin puedo conectar dos monitores a mi Mac que técnicamente no puede: este adaptador USB-C ha sido mi salvación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adaptador-usb-c-dos-monitores-macbook-m1-m2-m3-1353989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/adaptador-usb-c-7-1-linq-3256409.jpg?tf=1200x' alt='Por fin puedo conectar dos monitores a mi Mac que técnicamente no puede: este adaptador USB-C ha sido mi salvación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/nimbo-earth-online-te-permite-ver-como-cambia-tierra-mes-mes-1359682'>He probado Nimbo Earth Online, el gemelo con IA de Google Earth, y es tremendamente adictivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/nimbo-earth-online-te-permite-ver-como-cambia-tierra-mes-mes-1359682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nimbo-earth-online-3265800.jpg?tf=1200x' alt='He probado Nimbo Earth Online, el gemelo con IA de Google Earth, y es tremendamente adictivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-vende-mini-pc-brutalmente-barato-ssd-1359861'>Este brutal Mini PC pone AliExpress patas arriba: hasta 1TB de SSD y 16GB de RAM por 200€</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-vende-mini-pc-brutalmente-barato-ssd-1359861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mini-pc-aliexpress-3266050.jpg?tf=1200x' alt='Este brutal Mini PC pone AliExpress patas arriba: hasta 1TB de SSD y 16GB de RAM por 200€' />
     </a>
 </div>
 
