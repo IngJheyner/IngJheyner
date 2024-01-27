@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979'>Este es mi truco para mantener todos los drivers actualizados en Windows 11 sin hacer nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/como-descargar-instalar-drivers-tu-pc.jpg?tf=1200x' alt='Este es mi truco para mantener todos los drivers actualizados en Windows 11 sin hacer nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-vpn-router-wifi-1359753'>Cómo configurar una VPN para todos tus dispositivos directamente en tu router WiFi</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-vpn-router-wifi-1359753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/vpn-3266201.jpg?tf=1200x' alt='Cómo configurar una VPN para todos tus dispositivos directamente en tu router WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577'>Cómo conseguir trabajo en el sector más demando del mundo, la ciberseguridad, y tener éxito</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-trabajo-3264947.jpg?tf=1200x' alt='Cómo conseguir trabajo en el sector más demando del mundo, la ciberseguridad, y tener éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/uso-disney-plus-2019-6-pros-5-contras-ver-ti-1359582'>Llevo usando Disney Plus desde su lanzamiento y tengo muy claros sus 6 pros y 5 contras: descubre si es para ti</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/uso-disney-plus-2019-6-pros-5-contras-ver-ti-1359582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pros-contras-disney-plus-3266093.jpg?tf=1200x' alt='Llevo usando Disney Plus desde su lanzamiento y tengo muy claros sus 6 pros y 5 contras: descubre si es para ti' />
     </a>
 </div>
 
