@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203'>La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija</a></h4>
+    <a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sorprendente-razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-3266643.jpg?tf=1200x' alt='La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189'>Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876'>Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-quitar-modo-seguro-movil-android-1355876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-quitar-modo-seguro-movil-android-3259375.jpg?tf=1200x' alt='Modo seguro en Android: la función que pocos conocen y que puede sacarte de más de un apuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173'>El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/postre-restaurante-3266554.jpg?tf=1200x' alt='El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado' />
     </a>
 </div>
 
