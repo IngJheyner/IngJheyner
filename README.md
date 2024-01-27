@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298'>El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado</a></h4>
+    <a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282'>Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244'>Google DeepMind crea un médico basado en IA para diagnosticar pacientes</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/medico-robot-3266694.jpg?tf=1200x' alt='Google DeepMind crea un médico basado en IA para diagnosticar pacientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235'>Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-store-3266685.jpg?tf=1200x' alt='Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18' />
     </a>
 </div>
 
