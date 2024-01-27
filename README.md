@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rebaja-maximo-precio-nothing-phone-2-envio-espana-1359367'>AliExpress reta a Amazon y rebaja el móvil más llamativo: el Nothing Phone (2) tumba su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-rebaja-maximo-precio-nothing-phone-2-envio-espana-1359367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='AliExpress reta a Amazon y rebaja el móvil más llamativo: el Nothing Phone (2) tumba su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/600w-energia-cualquier-parte-bateria-portatil-seguro-vida-barata-1356724'>Hasta 600W de energía en cualquier parte: esta batería portátil es un seguro de vida, y barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/600w-energia-cualquier-parte-bateria-portatil-seguro-vida-barata-1356724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Hasta 600W de energía en cualquier parte: esta batería portátil es un seguro de vida, y barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305'>Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/emoji-151-3136666.jpg?tf=1200x' alt='Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303'>Se acabaron las fotos repetidas gracias a Google Fotos</a></h4>
     <a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Se acabaron las fotos repetidas gracias a Google Fotos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985'>Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando</a></h4>
     <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298'>El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado</a></h4>
-    <a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282'>Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279'>Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función</a></h4>
-    <a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robar-telefono-movil-3266738.jpg?tf=1200x' alt='Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función' />
     </a>
 </div>
 
