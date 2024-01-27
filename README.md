@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-detectar-iphone-ha-sido-infectado-pegasus-1360205'>Cómo detectar si tu iPhone ha sido infectado por Pegasus: Con esta herramienta podrás saberlo en segundos</a></h4>
-    <a href='https://computerhoy.com/apple/como-detectar-iphone-ha-sido-infectado-pegasus-1360205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Cómo detectar si tu iPhone ha sido infectado por Pegasus: Con esta herramienta podrás saberlo en segundos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-vpn-router-wifi-1359753'>Cómo configurar una VPN para todos tus dispositivos directamente en tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-vpn-router-wifi-1359753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/vpn-3266201.jpg?tf=1200x' alt='Cómo configurar una VPN para todos tus dispositivos directamente en tu router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mision-don-quijote-destruir-asteroide-sondas-sancho-hidalgo-1360209'>La misión Don Quijote de la ESA, cuando las sondas Sancho e Hidalgo iban a destruir un asteroide para salvar el mundo</a></h4>
-    <a href='https://computerhoy.com/espacio/mision-don-quijote-destruir-asteroide-sondas-sancho-hidalgo-1360209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-don-quijote-esa-cuando-sondas-sancho-hidalgo-iban-destruir-asteroide-salvar-mundo-3266645.jpg?tf=1200x' alt='La misión Don Quijote de la ESA, cuando las sondas Sancho e Hidalgo iban a destruir un asteroide para salvar el mundo' />
+    <h4><a href='https://computerhoy.com/life/historia-muelle-slinky-juguete-millonario-nacio-accidente-1358171'>El muelle Slinky, el famoso juguete que nace por accidente y que hizo millonario a su creador que acabó en una secta</a></h4>
+    <a href='https://computerhoy.com/life/historia-muelle-slinky-juguete-millonario-nacio-accidente-1358171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/muelle-slinky-3263396.jpg?tf=1200x' alt='El muelle Slinky, el famoso juguete que nace por accidente y que hizo millonario a su creador que acabó en una secta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-gps-menos-300-euros-estos-son-mejores-1359997'>Relojes deportivos GPS de menos de 300 euros: estos son los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-gps-menos-300-euros-estos-son-mejores-1359997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/running-3073976.jpg?tf=1200x' alt='Relojes deportivos GPS de menos de 300 euros: estos son los mejores' />
+    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/climatizador-evaporativo-3266386.jpg?tf=1200x' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-1360204'>Así es como los hackers rusos espiaron durante meses a los ejecutivos de Microsoft</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-1360204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-3266641.jpg?tf=1200x' alt='Así es como los hackers rusos espiaron durante meses a los ejecutivos de Microsoft' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577'>Cómo conseguir trabajo en el sector más demando del mundo, la ciberseguridad, y tener éxito</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-conseguir-trabajo-sector-ciberseguridad-1358577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ciberseguridad-trabajo-3264947.jpg?tf=1200x' alt='Cómo conseguir trabajo en el sector más demando del mundo, la ciberseguridad, y tener éxito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203'>La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija</a></h4>
-    <a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sorprendente-razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-3266643.jpg?tf=1200x' alt='La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija' />
+    <h4><a href='https://computerhoy.com/entretenimiento/uso-disney-plus-2019-6-pros-5-contras-ver-ti-1359582'>Llevo usando Disney Plus desde su lanzamiento y tengo muy claros sus 6 pros y 5 contras: descubre si es para ti</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/uso-disney-plus-2019-6-pros-5-contras-ver-ti-1359582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pros-contras-disney-plus-3266093.jpg?tf=1200x' alt='Llevo usando Disney Plus desde su lanzamiento y tengo muy claros sus 6 pros y 5 contras: descubre si es para ti' />
     </a>
 </div>
 
