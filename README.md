@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189'>Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200'>Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buscaban-tumba-cleopatra-encontraron-milagro-geometrico-tierra-3266607.jpg?tf=1200x' alt='Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173'>El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado</a></h4>
     <a href='https://computerhoy.com/alimentacion/sorprendente-costoso-motivo-restaurantes-tienen-carta-postres-separado-1360173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/postre-restaurante-3266554.jpg?tf=1200x' alt='El sorprendente (y costoso) motivo por el que los restaurantes tienen la carta de postres por separado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171'>Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/morpheus-1-inteligencia-artificial-afirma-inducir-suenos-lucidos-1360171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/halo-3266548.jpg?tf=1200x' alt='Morpheus-1, la inteligencia artificial que afirma inducir sueños lúcidos' />
     </a>
 </div>
 
