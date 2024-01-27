@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244'>Google DeepMind crea un médico basado en IA para diagnosticar pacientes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/medico-robot-3266694.jpg?tf=1200x' alt='Google DeepMind crea un médico basado en IA para diagnosticar pacientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235'>Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-store-3266685.jpg?tf=1200x' alt='Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-13-pro-plus-oferta-smartwatch-regalo-1359694'>Viene con smartwatch gratis: el nuevo móvil top de Xiaomi tiene regalo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-13-pro-plus-oferta-smartwatch-regalo-1359694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='Viene con smartwatch gratis: el nuevo móvil top de Xiaomi tiene regalo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-imaginaban-seria-2024-antepasados-hace-50-anos-1359621'>Así es como se imaginaban que sería 2024 nuestros antepasados hace 50 años</a></h4>
-    <a href='https://computerhoy.com/life/como-imaginaban-seria-2024-antepasados-hace-50-anos-1359621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-imaginaban-seria-2024-antepasados-hace-50-anos-3265628.jpg?tf=1200x' alt='Así es como se imaginaban que sería 2024 nuestros antepasados hace 50 años' />
     </a>
 </div>
 
