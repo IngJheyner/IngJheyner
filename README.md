@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251'>Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface</a></h4>
+    <a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voice-clarity-surface-3266701.jpg?tf=1200x' alt='Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244'>Google DeepMind crea un médico basado en IA para diagnosticar pacientes</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/medico-robot-3266694.jpg?tf=1200x' alt='Google DeepMind crea un médico basado en IA para diagnosticar pacientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232'>La interfaz de configuración de Windows cambia por primera vez en más de una década</a></h4>
     <a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La interfaz de configuración de Windows cambia por primera vez en más de una década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-13-pro-plus-oferta-smartwatch-regalo-1359694'>Viene con smartwatch gratis: el nuevo móvil top de Xiaomi tiene regalo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-note-13-pro-plus-oferta-smartwatch-regalo-1359694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-plus-5g-3265705.jpg?tf=1200x' alt='Viene con smartwatch gratis: el nuevo móvil top de Xiaomi tiene regalo en Amazon' />
     </a>
 </div>
 
