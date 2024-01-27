@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-detectar-iphone-ha-sido-infectado-pegasus-1360205'>Cómo detectar si tu iPhone ha sido infectado por Pegasus: Con esta herramienta podrás saberlo en segundos</a></h4>
+    <a href='https://computerhoy.com/apple/como-detectar-iphone-ha-sido-infectado-pegasus-1360205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Cómo detectar si tu iPhone ha sido infectado por Pegasus: Con esta herramienta podrás saberlo en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/mision-don-quijote-destruir-asteroide-sondas-sancho-hidalgo-1360209'>La misión Don Quijote de la ESA, cuando las sondas Sancho e Hidalgo iban a destruir un asteroide para salvar el mundo</a></h4>
+    <a href='https://computerhoy.com/espacio/mision-don-quijote-destruir-asteroide-sondas-sancho-hidalgo-1360209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mision-don-quijote-esa-cuando-sondas-sancho-hidalgo-iban-destruir-asteroide-salvar-mundo-3266645.jpg?tf=1200x' alt='La misión Don Quijote de la ESA, cuando las sondas Sancho e Hidalgo iban a destruir un asteroide para salvar el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-gps-menos-300-euros-estos-son-mejores-1359997'>Relojes deportivos GPS de menos de 300 euros: estos son los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-gps-menos-300-euros-estos-son-mejores-1359997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/running-3073976.jpg?tf=1200x' alt='Relojes deportivos GPS de menos de 300 euros: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-1360204'>Así es como los hackers rusos espiaron durante meses a los ejecutivos de Microsoft</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-1360204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hackers-rusos-espiaron-durante-meses-ejecutivos-microsoft-3266641.jpg?tf=1200x' alt='Así es como los hackers rusos espiaron durante meses a los ejecutivos de Microsoft' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203'>La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija</a></h4>
     <a href='https://computerhoy.com/life/razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-1360203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sorprendente-razon-llevo-steve-jobs-regalar-porsche-vendedor-apple-no-hija-3266643.jpg?tf=1200x' alt='La sorprendente razón que llevó a Steve Jobs a regalar su Porsche a un vendedor de Apple y no a su hija' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189'>Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-configurar-chatgpt-usarlo-como-asistente-movil-1360189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Así puedes configurar ChatGPT para usarlo como tu asistente en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200'>Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/buscaban-tumba-cleopatra-encontraron-secreto-inesperado-tierra-1360200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buscaban-tumba-cleopatra-encontraron-milagro-geometrico-tierra-3266607.jpg?tf=1200x' alt='Buscaban la tumba de Cleopatra, y encontraron un secreto inesperado bajo tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969'>La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-china-gopro-tumba-precio-amazon-casi-mitad-precio-1359969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/akaso-brave-7-3266210.jpg?tf=1200x' alt='La alternativa china a las GoPro tumba su precio en Amazon y está casi a mitad de precio' />
     </a>
 </div>
 
