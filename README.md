@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303'>Se acabaron las fotos repetidas gracias a Google Fotos</a></h4>
+    <a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Se acabaron las fotos repetidas gracias a Google Fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985'>Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298'>El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado</a></h4>
     <a href='https://computerhoy.com/apps/sutil-pero-necesario-cambio-interfaz-android-auto-quizas-no-has-notado-1360298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='El sutil pero necesario cambio en la interfaz de Android Auto que quizás no has notado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279'>Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función</a></h4>
     <a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robar-telefono-movil-3266738.jpg?tf=1200x' alt='Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251'>Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface</a></h4>
-    <a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voice-clarity-surface-3266701.jpg?tf=1200x' alt='Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244'>Google DeepMind crea un médico basado en IA para diagnosticar pacientes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-deepmind-crea-medico-basado-ia-diagnosticar-pacientes-1360244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/medico-robot-3266694.jpg?tf=1200x' alt='Google DeepMind crea un médico basado en IA para diagnosticar pacientes' />
     </a>
 </div>
 
