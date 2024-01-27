@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282'>Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279'>Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función</a></h4>
     <a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robar-telefono-movil-3266738.jpg?tf=1200x' alt='Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235'>Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-store-3266685.jpg?tf=1200x' alt='Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778'>10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/warriors-2457579.jpg?tf=1200x' alt='10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus' />
     </a>
 </div>
 
