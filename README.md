@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279'>Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función</a></h4>
+    <a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robar-telefono-movil-3266738.jpg?tf=1200x' alt='Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251'>Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface</a></h4>
     <a href='https://computerhoy.com/windows/todos-pc-windows-11-aprovecharan-funcion-ia-antes-era-exclusiva-ciertos-surface-1360251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voice-clarity-surface-3266701.jpg?tf=1200x' alt='Todos los PC con Windows 11 se aprovecharán de esta función de IA que antes era exclusiva de ciertos Surface' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778'>10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus</a></h4>
     <a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/warriors-2457579.jpg?tf=1200x' alt='10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232'>La interfaz de configuración de Windows cambia por primera vez en más de una década</a></h4>
-    <a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La interfaz de configuración de Windows cambia por primera vez en más de una década' />
     </a>
 </div>
 
