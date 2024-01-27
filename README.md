@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305'>Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/emoji-151-3136666.jpg?tf=1200x' alt='Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303'>Se acabaron las fotos repetidas gracias a Google Fotos</a></h4>
     <a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Se acabaron las fotos repetidas gracias a Google Fotos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282'>Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-samsung-estarian-trabajando-wear-os-5-basado-android-14-1360282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Google y Samsung estarían trabajando en Wear OS 5 basado en Android 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279'>Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función</a></h4>
-    <a href='https://computerhoy.com/apple/ladron-roba-iphone-envia-mensajes-victima-desactive-funcion-1360279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robar-telefono-movil-3266738.jpg?tf=1200x' alt='Un ladrón roba un iPhone y envía mensajes a la víctima para que desactive esta función' />
     </a>
 </div>
 
