@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235'>Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabaja-potenciar-siri-mensajes-ia-ios-18-1360235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-store-3266685.jpg?tf=1200x' alt='Apple trabaja en potenciar Siri y Mensajes con IA en iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778'>10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/10-peliculas-culto-skyshowtime-no-podras-ver-netflix-hbo-max-prime-video-disney-plus-1359778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/warriors-2457579.jpg?tf=1200x' alt='10 películas de culto en SkyShowtime que no podrás ver en Netflix, HBO Max, Prime Video o Disney Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232'>La interfaz de configuración de Windows cambia por primera vez en más de una década</a></h4>
     <a href='https://computerhoy.com/windows/interfaz-configuracion-windows-cambia-primera-vez-decada-1360232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La interfaz de configuración de Windows cambia por primera vez en más de una década' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-imaginaban-seria-2024-antepasados-hace-50-anos-1359621'>Así es como se imaginaban que sería 2024 nuestros antepasados hace 50 años</a></h4>
     <a href='https://computerhoy.com/life/como-imaginaban-seria-2024-antepasados-hace-50-anos-1359621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-imaginaban-seria-2024-antepasados-hace-50-anos-3265628.jpg?tf=1200x' alt='Así es como se imaginaban que sería 2024 nuestros antepasados hace 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-libros-estuvieron-prohibidos-censura-ahora-son-exito-1358299'>5 libros que estuvieron prohibidos por la censura y ahora son todo un éxito</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-libros-estuvieron-prohibidos-censura-ahora-son-exito-1358299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-libros-estuvieron-prohibidos-censura-ahora-son-todo-exito-3263588.jpg?tf=1200x' alt='5 libros que estuvieron prohibidos por la censura y ahora son todo un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979'>Este es mi truco para mantener todos los drivers actualizados en Windows 11 sin hacer nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/como-descargar-instalar-drivers-tu-pc.jpg?tf=1200x' alt='Este es mi truco para mantener todos los drivers actualizados en Windows 11 sin hacer nada' />
     </a>
 </div>
 
