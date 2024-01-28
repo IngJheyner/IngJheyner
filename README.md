@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944'>Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-codigo-pin-mi-tarjeta-sim-3257080.jpg?tf=1200x' alt='Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660'>No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-inteligencia-artificial-3264031.jpg?tf=1200x' alt='No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300'>Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y virales</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300'>Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y víricos</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/delfines-3266756.jpg?tf=1200x' alt='Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y virales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/matter-casting-alternativa-amazon-airplay-chromecast-1356553'>¿Qué es Matter Casting, la alternativa de Amazon a AirPlay y Chromecast?</a></h4>
-    <a href='https://computerhoy.com/amazon/matter-casting-alternativa-amazon-airplay-chromecast-1356553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706272138816-3266363.jpg?tf=1200x' alt='¿Qué es Matter Casting, la alternativa de Amazon a AirPlay y Chromecast?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/delfines-3266756.jpg?tf=1200x' alt='Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y víricos' />
     </a>
 </div>
 
