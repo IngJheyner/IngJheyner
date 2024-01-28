@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad' />
     </a>
 </div>
 
