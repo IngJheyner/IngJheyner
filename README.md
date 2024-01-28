@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341'>El robot que protege a las aves de los cables eléctricos aéreos</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mini-linefly-3266837.jpg?tf=1200x' alt='El robot que protege a las aves de los cables eléctricos aéreos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330'>Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963'>Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño</a></h4>
-    <a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-consejos-colocar-cama-feng-shui-mejoran-calidad-sueno-3266185.jpg?tf=1200x' alt='Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño' />
     </a>
 </div>
 
