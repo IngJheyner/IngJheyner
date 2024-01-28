@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/lumiere-nueva-ia-google-convierte-texto-fotos-video-1360314'>Lumiere es la nueva IA generativa de Google que convierte texto y fotos a vídeo, y es espectacular</a></h4>
+    <a href='https://computerhoy.com/google/lumiere-nueva-ia-google-convierte-texto-fotos-video-1360314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706394579030-3266803.jpg?tf=1200x' alt='Lumiere es la nueva IA generativa de Google que convierte texto y fotos a vídeo, y es espectacular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rebaja-maximo-precio-nothing-phone-2-envio-espana-1359367'>AliExpress reta a Amazon y rebaja el móvil más llamativo: el Nothing Phone (2) tumba su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-rebaja-maximo-precio-nothing-phone-2-envio-espana-1359367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nothing-phone-2-3083276.jpg?tf=1200x' alt='AliExpress reta a Amazon y rebaja el móvil más llamativo: el Nothing Phone (2) tumba su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303'>Se acabaron las fotos repetidas gracias a Google Fotos</a></h4>
     <a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Se acabaron las fotos repetidas gracias a Google Fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985'>Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-rebajado-amazon-minimo-historico-1359985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Es casi un regalo a este precio: el TicWatch Pro 5 es de los mejores relojes para Android y Amazon lo está liquidando' />
     </a>
 </div>
 
