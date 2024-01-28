@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963'>Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño</a></h4>
+    <a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-consejos-colocar-cama-feng-shui-mejoran-calidad-sueno-3266185.jpg?tf=1200x' alt='Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718'>Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-elements-3254498.jpg?tf=1200x' alt='Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922'>Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-jailbreak-chatgpt-desbloquear-todo-potencial-usar-ia-restricciones-3266157.jpg?tf=1200x' alt='Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944'>Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-codigo-pin-mi-tarjeta-sim-3257080.jpg?tf=1200x' alt='Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660'>No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-inteligencia-artificial-3264031.jpg?tf=1200x' alt='No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-revienta-sector-precio-imbatible-pantalla-oled-1359462'>Este OnePlus revienta el sector: de precio imbatible y con pantalla OLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-revienta-sector-precio-imbatible-pantalla-oled-1359462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oneplus-10r-3265322.jpg?tf=1200x' alt='Este OnePlus revienta el sector: de precio imbatible y con pantalla OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mi-carpeta-ciudadana-prueba-app-puedes-gestionar-todo-1357035'>Mi Carpeta Ciudadana, la app con la que lo puedes gestionar todo, a prueba: ¿están seguros tus datos?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mi-carpeta-ciudadana-prueba-app-puedes-gestionar-todo-1357035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mi-carpeta-ciudadana-3266053.jpg?tf=1200x' alt='Mi Carpeta Ciudadana, la app con la que lo puedes gestionar todo, a prueba: ¿están seguros tus datos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300'>Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y víricos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/delfines-3266756.jpg?tf=1200x' alt='Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y víricos' />
     </a>
 </div>
 
