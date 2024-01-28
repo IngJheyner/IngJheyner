@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400'>El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?</a></h4>
+    <a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-3266908.jpg?tf=1200x' alt='El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013'>No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods </a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-lp2-3266256.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341'>El robot que protege a las aves de los cables eléctricos aéreos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mini-linefly-3266837.jpg?tf=1200x' alt='El robot que protege a las aves de los cables eléctricos aéreos' />
     </a>
 </div>
 
