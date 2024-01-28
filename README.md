@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/dragones-mazmorras-cumple-50-anos-1360413'>Dragones y Mazmorras cumple 50 años, y lo va a celebrar a lo grande</a></h4>
+    <a href='https://computerhoy.com/gaming/dragones-mazmorras-cumple-50-anos-1360413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/dragones-mazmorras-2320875.jpg?tf=1200x' alt='Dragones y Mazmorras cumple 50 años, y lo va a celebrar a lo grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408'>Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M</a></h4>
     <a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/taylor-swift-deepfakes-1360390'>¿Por qué X ha bloqueado las búsquedas de Taylor Swift?</a></h4>
     <a href='https://computerhoy.com/tecnologia/taylor-swift-deepfakes-1360390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/taylor-swift-2716531.jpg?tf=1200x' alt='¿Por qué X ha bloqueado las búsquedas de Taylor Swift?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353'>Fossil abandona el negocio de los relojes inteligentes y así te afecta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544953.jpg?tf=1200x' alt='Fossil abandona el negocio de los relojes inteligentes y así te afecta' />
     </a>
 </div>
 
