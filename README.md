@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523'>Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-ntuserdat-windows-11-donde-encontrarlo-no-debes-eliminarlo-nunca-3265446.jpg?tf=1200x' alt='Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335'>Apple Pencil 3 podría ser el primero en ser compatible con la función Find My</a></h4>
     <a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='Apple Pencil 3 podría ser el primero en ser compatible con la función Find My' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718'>Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-elements-3254498.jpg?tf=1200x' alt='Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922'>Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-jailbreak-chatgpt-desbloquear-todo-potencial-usar-ia-restricciones-3266157.jpg?tf=1200x' alt='Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones' />
     </a>
 </div>
 
