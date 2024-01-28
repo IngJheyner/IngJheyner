@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335'>Apple Pencil 3 podría ser el primero en ser compatible con la función Find My</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='Apple Pencil 3 podría ser el primero en ser compatible con la función Find My' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330'>Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963'>Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño</a></h4>
     <a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-consejos-colocar-cama-feng-shui-mejoran-calidad-sueno-3266185.jpg?tf=1200x' alt='Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922'>Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-jailbreak-chatgpt-desbloquear-todo-potencial-usar-ia-restricciones-3266157.jpg?tf=1200x' alt='Con estos sencillos consejos puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944'>Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-saber-codigo-pin-mi-tarjeta-sim-3257080.jpg?tf=1200x' alt='Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660'>No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-inteligencia-artificial-3264031.jpg?tf=1200x' alt='No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11' />
     </a>
 </div>
 
