@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408'>Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M</a></h4>
+    <a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400'>El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?</a></h4>
     <a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-3266908.jpg?tf=1200x' alt='El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353'>Fossil abandona el negocio de los relojes inteligentes y así te afecta</a></h4>
     <a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544953.jpg?tf=1200x' alt='Fossil abandona el negocio de los relojes inteligentes y así te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará la multitarea en Windows 11 con esta sencilla pero útil novedad' />
     </a>
 </div>
 
