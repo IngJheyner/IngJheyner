@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013'>No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods </a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-lp2-3266256.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/taylor-swift-deepfakes-1360390'>¿Por qué X ha bloqueado las búsquedas de Taylor Swift?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/taylor-swift-deepfakes-1360390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/taylor-swift-2716531.jpg?tf=1200x' alt='¿Por qué X ha bloqueado las búsquedas de Taylor Swift?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353'>Fossil abandona el negocio de los relojes inteligentes y así te afecta</a></h4>
     <a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544953.jpg?tf=1200x' alt='Fossil abandona el negocio de los relojes inteligentes y así te afecta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341'>El robot que protege a las aves de los cables eléctricos aéreos</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mini-linefly-3266837.jpg?tf=1200x' alt='El robot que protege a las aves de los cables eléctricos aéreos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523'>Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca</a></h4>
-    <a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-ntuserdat-windows-11-donde-encontrarlo-no-debes-eliminarlo-nunca-3265446.jpg?tf=1200x' alt='Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335'>Apple Pencil 3 podría ser el primero en ser compatible con la función Find My</a></h4>
-    <a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='Apple Pencil 3 podría ser el primero en ser compatible con la función Find My' />
     </a>
 </div>
 
