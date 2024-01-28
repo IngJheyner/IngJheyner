@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353'>Fossil abandona el negocio de los relojes inteligentes y así te afecta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fossil-abandona-negocio-relojes-inteligentes-te-afecta-1360353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/fossil-gen-6-analisis-opinion-2544953.jpg?tf=1200x' alt='Fossil abandona el negocio de los relojes inteligentes y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348'>Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-te-facilitara-multitarea-windows-11-sencilla-pero-util-novedad-1360348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/snap-layouts-3266844.jpg?tf=1200x' alt='Microsoft te facilitará multitarea en Windows 11 con esta sencilla pero útil novedad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335'>Apple Pencil 3 podría ser el primero en ser compatible con la función Find My</a></h4>
     <a href='https://computerhoy.com/apple/apple-pencil-3-podria-ser-primero-ser-compatible-funcion-find-my-1360335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='Apple Pencil 3 podría ser el primero en ser compatible con la función Find My' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330'>Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/notas-rapidas-van-recibir-mayor-actualizacion-fecha-windows-11-1360330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='Las notas rápidas van recibir su mayor actualización hasta la fecha en Windows 11' />
     </a>
 </div>
 
