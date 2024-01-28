@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660'>No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-musica-inteligencia-artificial-windows-11-1358660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-inteligencia-artificial-3264031.jpg?tf=1200x' alt='No tengo ni idea de música y ya soy autor de varias canciones gracias a la inteligencia artificial de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-revienta-sector-precio-imbatible-pantalla-oled-1359462'>Este OnePlus revienta el sector: de precio imbatible y con pantalla OLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-revienta-sector-precio-imbatible-pantalla-oled-1359462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oneplus-10r-3265322.jpg?tf=1200x' alt='Este OnePlus revienta el sector: de precio imbatible y con pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mi-carpeta-ciudadana-prueba-app-puedes-gestionar-todo-1357035'>Mi Carpeta Ciudadana, la app con la que lo puedes gestionar todo, a prueba: ¿están seguros tus datos?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mi-carpeta-ciudadana-prueba-app-puedes-gestionar-todo-1357035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mi-carpeta-ciudadana-3266053.jpg?tf=1200x' alt='Mi Carpeta Ciudadana, la app con la que lo puedes gestionar todo, a prueba: ¿están seguros tus datos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300'>Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y virales</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-nada-como-delfin-puede-detectar-gran-variedad-contaminantes-quimicos-virales-1360300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/delfines-3266756.jpg?tf=1200x' alt='Este robot nada como un delfín y puede detectar una gran variedad de contaminantes químicos y virales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/matter-casting-alternativa-amazon-airplay-chromecast-1356553'>¿Qué es Matter Casting, la alternativa de Amazon a AirPlay y Chromecast?</a></h4>
     <a href='https://computerhoy.com/amazon/matter-casting-alternativa-amazon-airplay-chromecast-1356553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706272138816-3266363.jpg?tf=1200x' alt='¿Qué es Matter Casting, la alternativa de Amazon a AirPlay y Chromecast?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/punto-metaverso-2024-depara-futuro-1358579'>El metaverso a prueba: ¿en qué punto está en 2024 y qué le depara el futuro? </a></h4>
-    <a href='https://computerhoy.com/tecnologia/punto-metaverso-2024-depara-futuro-1358579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metaverso-3264971.jpg?tf=1200x' alt='El metaverso a prueba: ¿en qué punto está en 2024 y qué le depara el futuro? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/soy-analista-tecnologia-7-recomendaciones-robot-aspirador-1352495'>Soy analista de tecnología y estas son mis 7 recomendaciones para de extender la vida de tu robot aspirador</a></h4>
-    <a href='https://computerhoy.com/hogar/soy-analista-tecnologia-7-recomendaciones-robot-aspirador-1352495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/robot-aspirador-2952136.jpg?tf=1200x' alt='Soy analista de tecnología y estas son mis 7 recomendaciones para de extender la vida de tu robot aspirador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/que-es-escala-turin-asteroides-1360317'>Así funciona la Escala de Turín, que usan los astrónomos para medir la peligrosidad de los asteroides</a></h4>
-    <a href='https://computerhoy.com/espacio/que-es-escala-turin-asteroides-1360317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/funciona-escala-turin-usan-astronomos-medir-peligrosidad-asteroides-3266808.jpg?tf=1200x' alt='Así funciona la Escala de Turín, que usan los astrónomos para medir la peligrosidad de los asteroides' />
     </a>
 </div>
 
