@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/5-routers-wifi-6-muy-baratos-operadora-aun-no-te-ha-instalado-1360292'>5 routers WiFi 6 muy baratos por si tu operadora aún no te ha instalado uno</a></h4>
+    <a href='https://computerhoy.com/redes/5-routers-wifi-6-muy-baratos-operadora-aun-no-te-ha-instalado-1360292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tp-link-router-3266753.jpg?tf=1200x' alt='5 routers WiFi 6 muy baratos por si tu operadora aún no te ha instalado uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/lumiere-nueva-ia-google-convierte-texto-fotos-video-1360314'>Lumiere es la nueva IA generativa de Google que convierte texto y fotos a vídeo, y es espectacular</a></h4>
     <a href='https://computerhoy.com/google/lumiere-nueva-ia-google-convierte-texto-fotos-video-1360314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706394579030-3266803.jpg?tf=1200x' alt='Lumiere es la nueva IA generativa de Google que convierte texto y fotos a vídeo, y es espectacular' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305'>Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/estos-son-todos-nuevos-emojis-llegaran-actualizacion-ios-174-iphone-1360305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/emoji-151-3136666.jpg?tf=1200x' alt='Estos son todos los nuevos emojis que llegarán en la actualización iOS 17.4 para tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303'>Se acabaron las fotos repetidas gracias a Google Fotos</a></h4>
-    <a href='https://computerhoy.com/apps/acabaron-fotos-repetidas-gracias-google-fotos-1360303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Se acabaron las fotos repetidas gracias a Google Fotos' />
     </a>
 </div>
 
