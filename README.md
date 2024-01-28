@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341'>El robot que protege a las aves de los cables eléctricos aéreos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-protege-aves-cables-electricos-aereos-1360341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mini-linefly-3266837.jpg?tf=1200x' alt='El robot que protege a las aves de los cables eléctricos aéreos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523'>Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca</a></h4>
     <a href='https://computerhoy.com/tutoriales/sirve-archivo-ntuserdat-windows-11-1359523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-ntuserdat-windows-11-donde-encontrarlo-no-debes-eliminarlo-nunca-3265446.jpg?tf=1200x' alt='Archivo NTUSER.DAT en Windows 11: qué es, dónde encontrarlo y por qué no debes eliminarlo nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963'>Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño</a></h4>
     <a href='https://computerhoy.com/hogar/consejos-colocar-cama-feng-shui-mejoran-sueno-1359963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-consejos-colocar-cama-feng-shui-mejoran-calidad-sueno-3266185.jpg?tf=1200x' alt='Así debes colocar tu cama con Feng Shui para mejorar tu calidad del sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718'>Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-dropbox-icloud-disco-duro-6tb-pagas-vez-ademas-oferta-1359718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-elements-3254498.jpg?tf=1200x' alt='Olvida Dropbox y iCloud: este disco duro de 6TB lo pagas una vez y además está en oferta' />
     </a>
 </div>
 
