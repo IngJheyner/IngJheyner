@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448'>Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)</a></h4>
+    <a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/astronautas-marte-3267069.jpg?tf=1200x' alt='Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/arranque-infinito-windows-11-1355532'>Cómo solucionar el bucle de arranque infinito de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/arranque-infinito-windows-11-1355532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-bucle-arranque-infinito-windows-11-3258822.jpg?tf=1200x' alt='Cómo solucionar el bucle de arranque infinito de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-cancela-compra-irobot-leyes-antimonopolio-ue-1360626'>Amazon e iRobot no bailan la "roomba": se cancela la compra por las leyes antimonopolio de la UE</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-cancela-compra-irobot-leyes-antimonopolio-ue-1360626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-irobot-no-bailan-rumba-cancela-compra-leyes-antimonopolio-ue-3267322.jpg?tf=1200x' alt='Amazon e iRobot no bailan la "roomba": se cancela la compra por las leyes antimonopolio de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/algunos-ninos-aprenden-hablar-antes-otros-1360479'>Este es el motivo por el que algunos niños aprenden a hablar antes que otros</a></h4>
+    <a href='https://computerhoy.com/ciencia/algunos-ninos-aprenden-hablar-antes-otros-1360479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/desarrollo-lenguaje-ninos-3267068.jpg?tf=1200x' alt='Este es el motivo por el que algunos niños aprenden a hablar antes que otros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-movil-android-altavoz-pc-audiorelay-1358279'>Convierte tu móvil Android en un altavoz inalámbrico para tu PC y despídete del sonido a lata</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-movil-android-altavoz-pc-audiorelay-1358279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-convertir-movil-android-altavoz-externo-pc-windows-3263611.jpg?tf=1200x' alt='Convierte tu móvil Android en un altavoz inalámbrico para tu PC y despídete del sonido a lata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/inventan-tecnologia-elimina-co2-aire-desaliniza-agua-mar-1360599'>Inventan una tecnología que elimina CO2 del aire y desaliniza el agua del mar al mismo tiempo </a></h4>
-    <a href='https://computerhoy.com/energia/inventan-tecnologia-elimina-co2-aire-desaliniza-agua-mar-1360599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inventan-tecnologia-elimina-co2-aire-desaliniza-agua-mar-mismo-tiempo-3267295.jpg?tf=1200x' alt='Inventan una tecnología que elimina CO2 del aire y desaliniza el agua del mar al mismo tiempo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-entrenar-cerebro-sea-capaz-recordar-cualquier-cosa-1357073'>Aprende a entrenar a tu cerebro para que sea capaz de recordar cualquier cosa</a></h4>
-    <a href='https://computerhoy.com/life/como-entrenar-cerebro-sea-capaz-recordar-cualquier-cosa-1357073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aprende-entrenar-cerebro-sea-capaz-recordar-cualquier-cosa-3261511.jpg?tf=1200x' alt='Aprende a entrenar a tu cerebro para que sea capaz de recordar cualquier cosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/nivel-condicion-fisica-cardiovascular-apple-watch-1360174'>Qué es el nivel de condición física cardiovascular en el Apple Watch y por qué deberías configurarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/nivel-condicion-fisica-cardiovascular-apple-watch-1360174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nivel-condicion-fisica-cardiovascular-apple-watch-deberias-configurarlo-ahora-mismo-3266604.jpg?tf=1200x' alt='Qué es el nivel de condición física cardiovascular en el Apple Watch y por qué deberías configurarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-mira-youtube-ya-piensa-incluir-videos-30-minutos-1360089'>TikTok mira a Youtube: ¿son los vídeos de 30 minutos el futuro de la plataforma?</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-mira-youtube-ya-piensa-incluir-videos-30-minutos-1360089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiktok-mira-youtube-son-videos-30-minutos-futuro-plataforma-3266417.jpg?tf=1200x' alt='TikTok mira a Youtube: ¿son los vídeos de 30 minutos el futuro de la plataforma?' />
     </a>
 </div>
 
