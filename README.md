@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiene-16gb-ram-deja-ko-raspberry-pi-alternativa-tiene-stock-sobra-1360433'>Tiene hasta 16GB de RAM y deja KO a las Raspberry Pi: esta alternativa sí tiene stock de sobra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiene-16gb-ram-deja-ko-raspberry-pi-alternativa-tiene-stock-sobra-1360433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-5-plus-3266296.jpg?tf=1200x' alt='Tiene hasta 16GB de RAM y deja KO a las Raspberry Pi: esta alternativa sí tiene stock de sobra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702'>Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/anillos-inteligentes-3266241.jpg?tf=1200x' alt='Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/dragones-mazmorras-cumple-50-anos-1360413'>Dragones y Mazmorras cumple 50 años, y lo va a celebrar a lo grande</a></h4>
     <a href='https://computerhoy.com/gaming/dragones-mazmorras-cumple-50-anos-1360413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/dragones-mazmorras-2320875.jpg?tf=1200x' alt='Dragones y Mazmorras cumple 50 años, y lo va a celebrar a lo grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408'>Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M</a></h4>
-    <a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M' />
     </a>
 </div>
 
