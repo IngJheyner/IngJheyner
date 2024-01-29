@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estos-son-ordenadores-miticos-terrorificos-cine-1359136'>Estos son los ordenadores más míticos (y terroríficos) de la historia del cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estos-son-ordenadores-miticos-terrorificos-cine-1359136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-ordenadores-miticos-terrorificos-historia-cine-3264794.jpg?tf=1200x' alt='Estos son los ordenadores más míticos (y terroríficos) de la historia del cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-basculas-inteligentes-miden-grasa-peso-tienen-bluetooth-wifi-1359873'>Mejores básculas inteligentes: miden la grasa, el peso y tienen Bluetooth o WiFi</a></h4>
+    <a href='https://computerhoy.com/life/mejores-basculas-inteligentes-miden-grasa-peso-tienen-bluetooth-wifi-1359873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bascula-inteligente-2520331.jpg?tf=1200x' alt='Mejores básculas inteligentes: miden la grasa, el peso y tienen Bluetooth o WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448'>Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)</a></h4>
     <a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/astronautas-marte-3267069.jpg?tf=1200x' alt='Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-cancela-compra-irobot-leyes-antimonopolio-ue-1360626'>Amazon e iRobot no bailan la "roomba": se cancela la compra por las leyes antimonopolio de la UE</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-cancela-compra-irobot-leyes-antimonopolio-ue-1360626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-irobot-no-bailan-rumba-cancela-compra-leyes-antimonopolio-ue-3267322.jpg?tf=1200x' alt='Amazon e iRobot no bailan la "roomba": se cancela la compra por las leyes antimonopolio de la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/algunos-ninos-aprenden-hablar-antes-otros-1360479'>Este es el motivo por el que algunos niños aprenden a hablar antes que otros</a></h4>
-    <a href='https://computerhoy.com/ciencia/algunos-ninos-aprenden-hablar-antes-otros-1360479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/desarrollo-lenguaje-ninos-3267068.jpg?tf=1200x' alt='Este es el motivo por el que algunos niños aprenden a hablar antes que otros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-movil-android-altavoz-pc-audiorelay-1358279'>Convierte tu móvil Android en un altavoz inalámbrico para tu PC y despídete del sonido a lata</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-movil-android-altavoz-pc-audiorelay-1358279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-convertir-movil-android-altavoz-externo-pc-windows-3263611.jpg?tf=1200x' alt='Convierte tu móvil Android en un altavoz inalámbrico para tu PC y despídete del sonido a lata' />
     </a>
 </div>
 
