@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844271.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/japon-retira-ley-obligaba-enviar-documentos-oficiales-cd-rom-1360415'>Japón, el país más tradicional, retira una ley que obligaba a enviar documentos al gobierno en un disquete o CD-ROM</a></h4>
     <a href='https://computerhoy.com/tecnologia/japon-retira-ley-obligaba-enviar-documentos-oficiales-cd-rom-1360415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/japon-pais-tradicional-retira-ley-obligaba-enviar-documentos-gobierno-cd-rom-3266938.jpg?tf=1200x' alt='Japón, el país más tradicional, retira una ley que obligaba a enviar documentos al gobierno en un disquete o CD-ROM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400'>El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?</a></h4>
     <a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-3266908.jpg?tf=1200x' alt='El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013'>No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods </a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-vende-5-euros-auriculares-inalambricos-lenovo-1360013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-lp2-3266256.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Lenovo cuestan 5 euros y se parecen a los AirPods ' />
     </a>
 </div>
 
