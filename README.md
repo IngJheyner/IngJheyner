@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/investigan-antiguo-lago-marte-podria-esconder-restos-vida-1360496'>Investigan un antiguo lago de Marte que podría esconder restos de vida</a></h4>
+    <a href='https://computerhoy.com/ciencia/investigan-antiguo-lago-marte-podria-esconder-restos-vida-1360496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/perseverance-marte-3190952.jpg?tf=1200x' alt='Investigan un antiguo lago de Marte que podría esconder restos de vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-ipad-pro-pantalla-oled-chips-m3-listos-lanzarse-marzo-mark-gurman-1360468'>Los nuevos iPad Pro con pantalla OLED y chips M3 listos para lanzarse en marzo, según Mark Gurman</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-ipad-pro-pantalla-oled-chips-m3-listos-lanzarse-marzo-mark-gurman-1360468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Los nuevos iPad Pro con pantalla OLED y chips M3 listos para lanzarse en marzo, según Mark Gurman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/compania-detras-tiktok-lanza-herramienta-ia-imita-voces-alarmas-saltan-riesgo-estafas-1360447'>La compañía detrás de Tiktok lanza una herramienta de IA que imita voces y las alarmas saltan por el riesgo de estafas</a></h4>
     <a href='https://computerhoy.com/tecnologia/compania-detras-tiktok-lanza-herramienta-ia-imita-voces-alarmas-saltan-riesgo-estafas-1360447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/llamadas-ia-3266996.jpg?tf=1200x' alt='La compañía detrás de Tiktok lanza una herramienta de IA que imita voces y las alarmas saltan por el riesgo de estafas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-poco-x6-5g-precio-ridiculo-cupon-aliexpress-plaza-1360439'>Mucho más barato que en Amazon: el POCO X6 5G, a precio ridículo con cupón en AliExpress Plaza</a></h4>
     <a href='https://computerhoy.com/tecnologia/mucho-barato-amazon-poco-x6-5g-precio-ridiculo-cupon-aliexpress-plaza-1360439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-3266980.jpg?tf=1200x' alt='Mucho más barato que en Amazon: el POCO X6 5G, a precio ridículo con cupón en AliExpress Plaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiene-16gb-ram-deja-ko-raspberry-pi-alternativa-tiene-stock-sobra-1360433'>Tiene hasta 16GB de RAM y deja KO a las Raspberry Pi: esta alternativa sí tiene stock de sobra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiene-16gb-ram-deja-ko-raspberry-pi-alternativa-tiene-stock-sobra-1360433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-5-plus-3266296.jpg?tf=1200x' alt='Tiene hasta 16GB de RAM y deja KO a las Raspberry Pi: esta alternativa sí tiene stock de sobra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702'>Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/anillos-inteligentes-3266241.jpg?tf=1200x' alt='Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?' />
     </a>
 </div>
 
