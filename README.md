@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728'>Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706559722395-3267490.jpg?tf=1200x' alt='Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462'>Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390049.jpg?tf=1200x' alt='Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683'>El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?</a></h4>
     <a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sencillo-gesto-cotidiano-puede-mejorar-descanso-completo-3264071.jpg?tf=1200x' alt='El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ikigai-metodo-japones-felicidad-1360511'>Locura en las redes por Ikigai, el método viral japonés para mantenerte activo y ser más feliz</a></h4>
-    <a href='https://computerhoy.com/life/ikigai-metodo-japones-felicidad-1360511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-japones-moda-mantenerte-activo-ser-feliz-3267139.jpg?tf=1200x' alt='Locura en las redes por Ikigai, el método viral japonés para mantenerte activo y ser más feliz' />
     </a>
 </div>
 
