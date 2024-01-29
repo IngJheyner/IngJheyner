@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702'>Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-quiere-acercar-masas-anillos-inteligentes-revolucion-moda-pasajera-1358702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/anillos-inteligentes-3266241.jpg?tf=1200x' alt='Samsung abre camino en la próxima batalla tecnológica, los anillos inteligentes: ¿se viene una revolución o será una moda pasajera?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844271.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408'>Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M</a></h4>
     <a href='https://computerhoy.com/google/chrome-estrena-nueva-plataforma-windows-11-arm-1360408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acer-chromebook-plus-514-3250207.jpg?tf=1200x' alt='Chrome se estrena en una nueva plataforma, para competir con los MacBook con Apple M' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400'>El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?</a></h4>
-    <a href='https://computerhoy.com/espacio/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-1360400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modulo-japones-slim-aterrizo-cabeza-luna-quien-hizo-foto-3266908.jpg?tf=1200x' alt='El módulo japonés SLIM aterrizó de cabeza en la Luna: ¿quién hizo la foto?' />
     </a>
 </div>
 
