@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/nivel-condicion-fisica-cardiovascular-apple-watch-1360174'>Qué es el nivel de condición física cardiovascular en el Apple Watch y por qué deberías configurarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/nivel-condicion-fisica-cardiovascular-apple-watch-1360174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nivel-condicion-fisica-cardiovascular-apple-watch-deberias-configurarlo-ahora-mismo-3266604.jpg?tf=1200x' alt='Qué es el nivel de condición física cardiovascular en el Apple Watch y por qué deberías configurarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tiktok-mira-youtube-ya-piensa-incluir-videos-30-minutos-1360089'>TikTok mira a Youtube: ¿son los vídeos de 30 minutos el futuro de la plataforma?</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-mira-youtube-ya-piensa-incluir-videos-30-minutos-1360089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiktok-mira-youtube-son-videos-30-minutos-futuro-plataforma-3266417.jpg?tf=1200x' alt='TikTok mira a Youtube: ¿son los vídeos de 30 minutos el futuro de la plataforma?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/motorola-lanza-moto-g24-smartphone-premium-precio-asequible-1360540'>Motorola lanza el moto g24, un smartphone premium a precio asequible</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-lanza-moto-g24-smartphone-premium-precio-asequible-1360540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moto-g24-3267240.jpg?tf=1200x' alt='Motorola lanza el moto g24, un smartphone premium a precio asequible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ocurrira-tdt-despues-apagon-14-febrero-1360502'>Qué ocurrirá con la TDT después del apagón del 14 de febrero</a></h4>
     <a href='https://computerhoy.com/tv/ocurrira-tdt-despues-apagon-14-febrero-1360502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-apagon-14-febrero-3267171.jpg?tf=1200x' alt='Qué ocurrirá con la TDT después del apagón del 14 de febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mark-gurman-confirma-ios-18-sera-actualizacion-grande-historia-iphone-1360480'>Mark Gurman confirma que iOS 18 será la actualización más grande en la historia del iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/mark-gurman-confirma-ios-18-sera-actualizacion-grande-historia-iphone-1360480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ios-18-iphone-actualizacion-3267080.jpg?tf=1200x' alt='Mark Gurman confirma que iOS 18 será la actualización más grande en la historia del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/precio-ipad-toca-fondo-oferta-temporal-amazon-1360435'>El precio del iPad toca fondo: Amazon lo deja con 140 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/apple/precio-ipad-toca-fondo-oferta-temporal-amazon-1360435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/apple-ipad-3223416.jpg?tf=1200x' alt='El precio del iPad toca fondo: Amazon lo deja con 140 euros de descuento' />
     </a>
 </div>
 
