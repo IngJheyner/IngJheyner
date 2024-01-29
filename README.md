@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-112-ya-disponible-todos-novedades-como-actualizar-ultima-version-1360713'>Android Auto 11.2 ya disponible para todos: novedades y cómo actualizar a la última versión</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-112-ya-disponible-todos-novedades-como-actualizar-ultima-version-1360713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Android Auto 11.2 ya disponible para todos: novedades y cómo actualizar a la última versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712'>Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683'>El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?</a></h4>
+    <a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sencillo-gesto-cotidiano-puede-mejorar-descanso-completo-3264071.jpg?tf=1200x' alt='El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ikigai-metodo-japones-felicidad-1360511'>Locura en las redes por Ikigai, el método viral japonés para mantenerte activo y ser más feliz</a></h4>
     <a href='https://computerhoy.com/life/ikigai-metodo-japones-felicidad-1360511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/metodo-japones-moda-mantenerte-activo-ser-feliz-3267139.jpg?tf=1200x' alt='Locura en las redes por Ikigai, el método viral japonés para mantenerte activo y ser más feliz' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estos-son-ordenadores-miticos-terrorificos-cine-1359136'>Estos son los ordenadores más míticos (y terroríficos) de la historia del cine</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estos-son-ordenadores-miticos-terrorificos-cine-1359136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-ordenadores-miticos-terrorificos-historia-cine-3264794.jpg?tf=1200x' alt='Estos son los ordenadores más míticos (y terroríficos) de la historia del cine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-basculas-inteligentes-miden-grasa-peso-tienen-bluetooth-wifi-1359873'>Mejores básculas inteligentes: miden la grasa, el peso y tienen Bluetooth o WiFi</a></h4>
-    <a href='https://computerhoy.com/life/mejores-basculas-inteligentes-miden-grasa-peso-tienen-bluetooth-wifi-1359873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/bascula-inteligente-2520331.jpg?tf=1200x' alt='Mejores básculas inteligentes: miden la grasa, el peso y tienen Bluetooth o WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448'>Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)</a></h4>
-    <a href='https://computerhoy.com/ciencia/encontrar-vida-marte-puede-ser-peor-pase-humanidad-1360448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/astronautas-marte-3267069.jpg?tf=1200x' alt='Encontrar vida en Marte puede ser lo peor que le pase a la humanidad (y no porque quieran colonizar la Tierra)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/arranque-infinito-windows-11-1355532'>Cómo solucionar el bucle de arranque infinito de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/arranque-infinito-windows-11-1355532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-bucle-arranque-infinito-windows-11-3258822.jpg?tf=1200x' alt='Cómo solucionar el bucle de arranque infinito de Windows 11' />
     </a>
 </div>
 
