@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ocurrira-tdt-despues-apagon-14-febrero-1360502'>Qué ocurrirá con la TDT después del apagón del 14 de febrero</a></h4>
+    <a href='https://computerhoy.com/tv/ocurrira-tdt-despues-apagon-14-febrero-1360502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-apagon-14-febrero-3267171.jpg?tf=1200x' alt='Qué ocurrirá con la TDT después del apagón del 14 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/mark-gurman-confirma-ios-18-sera-actualizacion-grande-historia-iphone-1360480'>Mark Gurman confirma que iOS 18 será la actualización más grande en la historia del iPhone</a></h4>
     <a href='https://computerhoy.com/apple/mark-gurman-confirma-ios-18-sera-actualizacion-grande-historia-iphone-1360480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ios-18-iphone-actualizacion-3267080.jpg?tf=1200x' alt='Mark Gurman confirma que iOS 18 será la actualización más grande en la historia del iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nuevos-ipad-pro-pantalla-oled-chips-m3-listos-lanzarse-marzo-mark-gurman-1360468'>Los nuevos iPad Pro con pantalla OLED y chips M3 listos para lanzarse en marzo, según Mark Gurman</a></h4>
     <a href='https://computerhoy.com/apple/nuevos-ipad-pro-pantalla-oled-chips-m3-listos-lanzarse-marzo-mark-gurman-1360468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Los nuevos iPad Pro con pantalla OLED y chips M3 listos para lanzarse en marzo, según Mark Gurman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/compania-detras-tiktok-lanza-herramienta-ia-imita-voces-alarmas-saltan-riesgo-estafas-1360447'>La compañía detrás de Tiktok lanza una herramienta de IA que imita voces y las alarmas saltan por el riesgo de estafas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/compania-detras-tiktok-lanza-herramienta-ia-imita-voces-alarmas-saltan-riesgo-estafas-1360447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/llamadas-ia-3266996.jpg?tf=1200x' alt='La compañía detrás de Tiktok lanza una herramienta de IA que imita voces y las alarmas saltan por el riesgo de estafas' />
     </a>
 </div>
 
