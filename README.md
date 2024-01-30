@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742'>Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking</a></h4>
+    <a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-3267544.jpg?tf=1200x' alt='Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738'>Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión</a></h4>
     <a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-3267542.jpg?tf=1200x' alt='Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728'>Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo</a></h4>
     <a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706559722395-3267490.jpg?tf=1200x' alt='Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462'>Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390049.jpg?tf=1200x' alt='Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos' />
     </a>
 </div>
 
