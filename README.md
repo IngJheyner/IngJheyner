@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701699.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tienes-hacer-vida-ser-feliz-harvard-1357457'>Esto es lo que tienes que hacer en tu vida para ser más feliz, según un investigador de Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/tienes-hacer-vida-ser-feliz-harvard-1357457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienes-hacer-vida-ser-feliz-investigador-harvard-3262178.jpg?tf=1200x' alt='Esto es lo que tienes que hacer en tu vida para ser más feliz, según un investigador de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742'>Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking</a></h4>
     <a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-3267544.jpg?tf=1200x' alt='Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741'>Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars </a></h4>
     <a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/armas-rayos-laser-ya-aqui-dragonfire-destruye-dron-estilo-star-wars-3267535.jpg?tf=1200x' alt='Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727'>La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver</a></h4>
-    <a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/conjetura-collatz-problema-matematico-ni-mejores-matematicos-han-conseguido-resolver-3267537.jpg?tf=1200x' alt='La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728'>Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706559722395-3267490.jpg?tf=1200x' alt='Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo' />
     </a>
 </div>
 
