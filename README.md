@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986'>Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-iphone-no-actualiza-ultima-version-ios-3263070.jpg?tf=1200x' alt='Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/va-dyson-potente-aspiradora-tambien-fregona-arrasa-aliexpress-plaza-1360489'>Va a por las Dyson: esta potente aspiradora es también fregona y arrasa en AliExpress Plaza</a></h4>
+    <a href='https://computerhoy.com/tecnologia/va-dyson-potente-aspiradora-tambien-fregona-arrasa-aliexpress-plaza-1360489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-dyad-pro-3267067.jpg?tf=1200x' alt='Va a por las Dyson: esta potente aspiradora es también fregona y arrasa en AliExpress Plaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772'>Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen </a></h4>
     <a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-relajen-3267561.jpg?tf=1200x' alt='Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210'>Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día</a></h4>
     <a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-trucos-efectivos-optimizar-acelerar-mac-funcione-como-primer-dia-3266650.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872'>He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114'>Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-opus-sirve-como-abrirlo-pc-windows-3266490.jpg?tf=1200x' alt='Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows' />
     </a>
 </div>
 
