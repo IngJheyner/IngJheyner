@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-discord-no-reconoce-microfono-windows-11-1358227'>Qué hacer cuando Discord en Windows 11 no reconoce tu micrófono y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-discord-no-reconoce-microfono-windows-11-1358227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-cuando-discord-no-reconoce-microfono-windows-11-como-solucionarlo-3263565.jpg?tf=1200x' alt='Qué hacer cuando Discord en Windows 11 no reconoce tu micrófono y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-apps-preinstaladas-bloatware-android-1360653'>Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el odioso bloatware</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desinstalar-apps-preinstaladas-bloatware-android-1360653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-aplicaciones-preinstaladas-movil-android-necesidad-hacer-root-3267521.jpg?tf=1200x' alt='Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el odioso bloatware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986'>Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-iphone-no-actualiza-ultima-version-ios-3263070.jpg?tf=1200x' alt='Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-cobrara-uso-ia-moviles-partir-2025-1360800'>Samsung cobrará una suscripción al estilo Netflix por usar las opciones de IA avanzada en sus móviles a partir de 2025</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-cobrara-uso-ia-moviles-partir-2025-1360800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/inteligencia-artificial-samsung-3267672.jpg?tf=1200x' alt='Samsung cobrará una suscripción al estilo Netflix por usar las opciones de IA avanzada en sus móviles a partir de 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/va-dyson-potente-aspiradora-tambien-fregona-arrasa-aliexpress-plaza-1360489'>Va a por las Dyson: esta potente aspiradora es también fregona y arrasa en AliExpress Plaza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/va-dyson-potente-aspiradora-tambien-fregona-arrasa-aliexpress-plaza-1360489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-dyad-pro-3267067.jpg?tf=1200x' alt='Va a por las Dyson: esta potente aspiradora es también fregona y arrasa en AliExpress Plaza' />
+    <h4><a href='https://computerhoy.com/entretenimiento/hedy-lamarr-curiosidades-actriz-invento-wifi-1360587'>Hedy Lamarr: la actriz de Hollywood pionera en los desnudos y la cirugía estética en el cine que además inventó el WiFi</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hedy-lamarr-curiosidades-actriz-invento-wifi-1360587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hedy-lamarr-5-curiosidades-no-conocias-actriz-hollywood-invento-wifi-3267302.jpg?tf=1200x' alt='Hedy Lamarr: la actriz de Hollywood pionera en los desnudos y la cirugía estética en el cine que además inventó el WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772'>Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen </a></h4>
-    <a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-relajen-3267561.jpg?tf=1200x' alt='Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen ' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-ryzen-7-1-tb-ssd-precio-ganga-amazon-1360498'>1TB de SSD y pantalla de 144 Hz: un cañón para el gaming que Amazon va a agotar en tiempo récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-ryzen-7-1-tb-ssd-precio-ganga-amazon-1360498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-tuf-gaming-a15-fa507nv-3267083.jpg?tf=1200x' alt='1TB de SSD y pantalla de 144 Hz: un cañón para el gaming que Amazon va a agotar en tiempo récord' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494'>Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-3267575.jpg?tf=1200x' alt='Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo' />
+    <h4><a href='https://computerhoy.com/ciencia/primer-chip-cerebral-neuralink-ya-ha-implantado-paciente-1360781'>Elon Musk ha confirmado que ya se ha instalado el implante cerebral Neuralink en un paciente</a></h4>
+    <a href='https://computerhoy.com/ciencia/primer-chip-cerebral-neuralink-ya-ha-implantado-paciente-1360781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/primer-paciente-neuralink-3267616.jpg?tf=1200x' alt='Elon Musk ha confirmado que ya se ha instalado el implante cerebral Neuralink en un paciente' />
     </a>
 </div>
 
