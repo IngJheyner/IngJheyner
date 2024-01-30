@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917'>Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer</a></h4>
+    <a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/freidora-aire-3267966.jpg?tf=1200x' alt='Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/abre-india-primer-safari-tigres-negros-mundo-1361012'>Abre en la India el primer safari con tigres negros del mundo</a></h4>
+    <a href='https://computerhoy.com/life/abre-india-primer-safari-tigres-negros-mundo-1361012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/abre-india-primer-safari-tigres-negros-mundo-3268016.jpg?tf=1200x' alt='Abre en la India el primer safari con tigres negros del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bono-parque-2024-incluye-fechas-cuanto-vale-merece-pena-1360597'>Bono Parque 2024: qué incluye, fechas y cuánto vale, ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/life/bono-parque-2024-incluye-fechas-cuanto-vale-merece-pena-1360597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bono-parques-2024-3267957.jpg?tf=1200x' alt='Bono Parque 2024: qué incluye, fechas y cuánto vale, ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-novelas-fracasaron-1360668'>No solo Dune: 5 películas de ciencia ficción que se basaron en novelas de éxito y fracasaron</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-novelas-fracasaron-1360668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-solo-dune-5-peliculas-ciencia-ficcion-basaron-novelas-exito-fracasaron-3267441.jpg?tf=1200x' alt='No solo Dune: 5 películas de ciencia ficción que se basaron en novelas de éxito y fracasaron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637'>Qué significan las luces de colores de Alexa en los altavoces Amazon Echo</a></h4>
     <a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-alexa-3267906.jpg?tf=1200x' alt='Qué significan las luces de colores de Alexa en los altavoces Amazon Echo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-1360787'>¿A qué se debe la misteriosa actividad en la luna Europa de Júpiter? </a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-1360787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-3267620.jpg?tf=1200x' alt='¿A qué se debe la misteriosa actividad en la luna Europa de Júpiter? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-ligeras-1360745'>No tires tu viejo PC: estas distribuciones Linux son tan ligeras que pueden funcionar en cualquier ordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-ligeras-1360745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-tires-viejo-pc-distribuciones-linux-ligeras-puedes-instalar-ordenador-3267556.jpg?tf=1200x' alt='No tires tu viejo PC: estas distribuciones Linux son tan ligeras que pueden funcionar en cualquier ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/retrasar-despertador-podria-ser-beneficioso-salud-1358782'>La razón por la que retrasar el despertador podría ser beneficioso para tu salud, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/retrasar-despertador-podria-ser-beneficioso-salud-1358782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/despertador-3267904.jpg?tf=1200x' alt='La razón por la que retrasar el despertador podría ser beneficioso para tu salud, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835'>El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino</a></h4>
-    <a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiburon-blanco-3267732.jpg?tf=1200x' alt='El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino' />
     </a>
 </div>
 
