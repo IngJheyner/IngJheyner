@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835'>El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino</a></h4>
-    <a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiburon-blanco-3267732.jpg?tf=1200x' alt='El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/mitico-wordpad-desaparece-windows-despues-28-anos-1360821'>Microsoft se va a deshacer del WordPad después de 28 años en su sistema operativo, desde Windows 95</a></h4>
     <a href='https://computerhoy.com/windows/mitico-wordpad-desaparece-windows-despues-28-anos-1360821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/wordpad-microsoft-3267702.jpg?tf=1200x' alt='Microsoft se va a deshacer del WordPad después de 28 años en su sistema operativo, desde Windows 95' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/entretenimiento/hedy-lamarr-curiosidades-actriz-invento-wifi-1360587'>Hedy Lamarr: la actriz de Hollywood pionera en los desnudos y la cirugía estética en el cine que además inventó el WiFi</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hedy-lamarr-curiosidades-actriz-invento-wifi-1360587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hedy-lamarr-5-curiosidades-no-conocias-actriz-hollywood-invento-wifi-3267302.jpg?tf=1200x' alt='Hedy Lamarr: la actriz de Hollywood pionera en los desnudos y la cirugía estética en el cine que además inventó el WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-ryzen-7-1-tb-ssd-precio-ganga-amazon-1360498'>1TB de SSD y pantalla de 144 Hz: un cañón para el gaming que Amazon va a agotar en tiempo récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-ryzen-7-1-tb-ssd-precio-ganga-amazon-1360498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-tuf-gaming-a15-fa507nv-3267083.jpg?tf=1200x' alt='1TB de SSD y pantalla de 144 Hz: un cañón para el gaming que Amazon va a agotar en tiempo récord' />
     </a>
 </div>
 
