@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738'>Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión</a></h4>
+    <a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-3267542.jpg?tf=1200x' alt='Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741'>Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars </a></h4>
+    <a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/armas-rayos-laser-ya-aqui-dragonfire-destruye-dron-estilo-star-wars-3267535.jpg?tf=1200x' alt='Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727'>La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver</a></h4>
     <a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/conjetura-collatz-problema-matematico-ni-mejores-matematicos-han-conseguido-resolver-3267537.jpg?tf=1200x' alt='La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462'>Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/imac-m1-oferta-amazon-300-euros-descuento-1360462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/analisis-imac-m1-2021-2390049.jpg?tf=1200x' alt='Sigue siendo un producto top de Apple y ahora mucho más barato: el iMac con M1 es una apuesta segura, y cuesta 300 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-112-ya-disponible-todos-novedades-como-actualizar-ultima-version-1360713'>Android Auto 11.2 ya disponible para todos: novedades y cómo actualizar a la última versión</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-112-ya-disponible-todos-novedades-como-actualizar-ultima-version-1360713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Android Auto 11.2 ya disponible para todos: novedades y cómo actualizar a la última versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712'>Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas' />
     </a>
 </div>
 
