@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637'>Qué significan las luces de colores de Alexa en los altavoces Amazon Echo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-alexa-3267906.jpg?tf=1200x' alt='Qué significan las luces de colores de Alexa en los altavoces Amazon Echo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-1360787'>¿A qué se debe la misteriosa actividad en la luna Europa de Júpiter? </a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-1360787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-3267620.jpg?tf=1200x' alt='¿A qué se debe la misteriosa actividad en la luna Europa de Júpiter? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-ligeras-1360745'>No tires tu viejo PC: estas distribuciones Linux son tan ligeras que pueden funcionar en cualquier ordenador</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-ligeras-1360745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-tires-viejo-pc-distribuciones-linux-ligeras-puedes-instalar-ordenador-3267556.jpg?tf=1200x' alt='No tires tu viejo PC: estas distribuciones Linux son tan ligeras que pueden funcionar en cualquier ordenador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835'>El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino</a></h4>
     <a href='https://computerhoy.com/ciencia/primer-avistamiento-tiburon-blanco-puede-cambiar-ciencia-1360835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiburon-blanco-3267732.jpg?tf=1200x' alt='El avistamiento de un tiburón blanco recién nacido por primera vez puede cambiar la forma de entender el ecosistema marino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/mitico-wordpad-desaparece-windows-despues-28-anos-1360821'>Microsoft se va a deshacer del WordPad después de 28 años en su sistema operativo, desde Windows 95</a></h4>
-    <a href='https://computerhoy.com/windows/mitico-wordpad-desaparece-windows-despues-28-anos-1360821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/wordpad-microsoft-3267702.jpg?tf=1200x' alt='Microsoft se va a deshacer del WordPad después de 28 años en su sistema operativo, desde Windows 95' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desinstalar-apps-preinstaladas-bloatware-android-1360653'>Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el odioso bloatware</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desinstalar-apps-preinstaladas-bloatware-android-1360653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-borrar-aplicaciones-preinstaladas-movil-android-necesidad-hacer-root-3267521.jpg?tf=1200x' alt='Recupera espacio en tu móvil Android eliminando las apps preinstaladas y el odioso bloatware' />
     </a>
 </div>
 
