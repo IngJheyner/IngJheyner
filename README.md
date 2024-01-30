@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727'>La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver</a></h4>
+    <a href='https://computerhoy.com/life/conjetura-collatz-problema-matematico-ni-mentes-brillantes-han-conseguido-resolver-1360727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/conjetura-collatz-problema-matematico-ni-mejores-matematicos-han-conseguido-resolver-3267537.jpg?tf=1200x' alt='La conjetura de Collatz: El problema matemático que ni las mentes más brillantes han conseguido resolver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728'>Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo</a></h4>
     <a href='https://computerhoy.com/tecnologia/moonwalkers-x-patines-ia-trabajar-fabricas-1360728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/verticalimage1706559722395-3267490.jpg?tf=1200x' alt='Todos con patines con IA en las fábricas: Moonwalkers X acelera las tareas, con menos esfuerzo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712'>Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas</a></h4>
     <a href='https://computerhoy.com/tecnologia/iptv-cuerdas-acusaciones-detenidos-miles-pruebas-1360712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/iptv-2875845.jpg?tf=1200x' alt='Las IPTV contra las cuerdas: acusaciones, detenidos y miles de pruebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683'>El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?</a></h4>
-    <a href='https://computerhoy.com/life/puerta-dormitorio-dormir-mejor-cerrada-abierta-1358683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sencillo-gesto-cotidiano-puede-mejorar-descanso-completo-3264071.jpg?tf=1200x' alt='El sencillo gesto cotidiano que puede mejorar tu descanso por completo: la puerta, ¿abierta o cerrada?' />
     </a>
 </div>
 
