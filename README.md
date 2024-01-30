@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772'>Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen </a></h4>
+    <a href='https://computerhoy.com/life/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-1360772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compania-ferroviaria-japonesa-regala-billetes-tren-estudiantes-examenes-relajen-3267561.jpg?tf=1200x' alt='Una compañía ferroviaria japonesa regala billetes de tren a los estudiantes en exámenes, para que se relajen ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494'>Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-3267575.jpg?tf=1200x' alt='Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210'>Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-trucos-efectivos-optimizar-acelerar-mac-funcione-como-primer-dia-3266650.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872'>He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114'>Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-opus-sirve-como-abrirlo-pc-windows-3266490.jpg?tf=1200x' alt='Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701699.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tienes-hacer-vida-ser-feliz-harvard-1357457'>Esto es lo que tienes que hacer en tu vida para ser más feliz, según un investigador de Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/tienes-hacer-vida-ser-feliz-harvard-1357457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tienes-hacer-vida-ser-feliz-investigador-harvard-3262178.jpg?tf=1200x' alt='Esto es lo que tienes que hacer en tu vida para ser más feliz, según un investigador de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742'>Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking</a></h4>
-    <a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-3267544.jpg?tf=1200x' alt='Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking' />
     </a>
 </div>
 
