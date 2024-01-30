@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056'>Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-rebajado-amazon-precio-saldo-forma-temporal-1360516'>Titanio y zafiro: este reloj deportivo Suunto reta a los Garmin con diseño ultraligero y un precio top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-rebajado-amazon-precio-saldo-forma-temporal-1360516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/suunto-9-peak-3267110.jpg?tf=1200x' alt='Titanio y zafiro: este reloj deportivo Suunto reta a los Garmin con diseño ultraligero y un precio top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054'>Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”</a></h4>
+    <a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piramides-guiza-3268135.jpg?tf=1200x' alt='Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/solucion-error-no-puede-ejecutar-aplicacion-equipo-windows-11-1355082'>Cómo solucionar el molesto error "No se puede ejecutar esta aplicación en el equipo" en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/solucion-error-no-puede-ejecutar-aplicacion-equipo-windows-11-1355082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-molesto-error-no-puede-ejecutar-aplicacion-equipo-windows-11-3258100.jpg?tf=1200x' alt='Cómo solucionar el molesto error "No se puede ejecutar esta aplicación en el equipo" en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917'>Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer</a></h4>
     <a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/freidora-aire-3267966.jpg?tf=1200x' alt='Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/abre-india-primer-safari-tigres-negros-mundo-1361012'>Abre en la India el primer safari con tigres negros del mundo</a></h4>
-    <a href='https://computerhoy.com/life/abre-india-primer-safari-tigres-negros-mundo-1361012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/abre-india-primer-safari-tigres-negros-mundo-3268016.jpg?tf=1200x' alt='Abre en la India el primer safari con tigres negros del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bono-parque-2024-incluye-fechas-cuanto-vale-merece-pena-1360597'>Bono Parque 2024: qué incluye, fechas y cuánto vale, ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/life/bono-parque-2024-incluye-fechas-cuanto-vale-merece-pena-1360597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bono-parques-2024-3267957.jpg?tf=1200x' alt='Bono Parque 2024: qué incluye, fechas y cuánto vale, ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-novelas-fracasaron-1360668'>No solo Dune: 5 películas de ciencia ficción que se basaron en novelas de éxito y fracasaron</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-novelas-fracasaron-1360668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-solo-dune-5-peliculas-ciencia-ficcion-basaron-novelas-exito-fracasaron-3267441.jpg?tf=1200x' alt='No solo Dune: 5 películas de ciencia ficción que se basaron en novelas de éxito y fracasaron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637'>Qué significan las luces de colores de Alexa en los altavoces Amazon Echo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significado-luces-alexa-1360637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-alexa-3267906.jpg?tf=1200x' alt='Qué significan las luces de colores de Alexa en los altavoces Amazon Echo' />
     </a>
 </div>
 
