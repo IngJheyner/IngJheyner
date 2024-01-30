@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872'>He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-poco-m6-pro-200-euros-muy-buena-opcion-1359872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='He probado el POCO M6 Pro y su pantalla me ha sorprendido para costar poco más de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114'>Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/archivo-opus-sirve-como-abrirlo-pc-windows-1360114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/archivo-opus-sirve-como-abrirlo-pc-windows-3266490.jpg?tf=1200x' alt='Qué es un archivo OPUS, para qué sirve y como abrirlo en un PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041'>Estos son los mejores móviles baratos de Samsung que puedes comprar</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/estos-son-cinco-mejores-moviles-baratos-samsung-576041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-samsung-galaxy-m33-5g-2701699.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Samsung que puedes comprar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742'>Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking</a></h4>
     <a href='https://computerhoy.com/life/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-1360742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tiene-12-anos-acaba-ingresar-mensa-cociente-intelectual-superior-albert-einstein-stephen-hawking-3267544.jpg?tf=1200x' alt='Tiene 12 años y acaba de ingresar en Mensa con un cociente intelectual superior al de Albert Einstein y Stephen Hawking' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738'>Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión</a></h4>
-    <a href='https://computerhoy.com/motor/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-1360738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/magna-edrive-motor-electrico-potente-ligero-puede-jubilar-motores-combustion-3267542.jpg?tf=1200x' alt='Magna eDrive: El motor eléctrico más potente y ligero que puede jubilar a los motores de combustión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741'>Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars </a></h4>
-    <a href='https://computerhoy.com/tecnologia/dragonfire-rayo-laser-destruye-dron-estilo-star-wars-1360741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/armas-rayos-laser-ya-aqui-dragonfire-destruye-dron-estilo-star-wars-3267535.jpg?tf=1200x' alt='Las armas con rayos láser ya está aquí: DragonFire destruye un dron al estilo Star Wars ' />
     </a>
 </div>
 
