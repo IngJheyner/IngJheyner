@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-discord-no-reconoce-microfono-windows-11-1358227'>Qué hacer cuando Discord en Windows 11 no reconoce tu micrófono y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-discord-no-reconoce-microfono-windows-11-1358227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-cuando-discord-no-reconoce-microfono-windows-11-como-solucionarlo-3263565.jpg?tf=1200x' alt='Qué hacer cuando Discord en Windows 11 no reconoce tu micrófono y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986'>Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacer-iphone-no-actualiza-ultima-version-ios-1357986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/hacer-iphone-no-actualiza-ultima-version-ios-3263070.jpg?tf=1200x' alt='Qué hacer cuando tu iPhone no se actualiza a la última versión de iOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494'>Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo</a></h4>
     <a href='https://computerhoy.com/apple/amazon-liquida-stock-apple-ipad-apple-watch-airpods-mucho-precio-saldo-1360494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-3267575.jpg?tf=1200x' alt='Amazon liquida stock de Apple: iPad, Apple Watch, AirPods y mucho más a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210'>Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-optimizar-acelerar-mac-1360210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-trucos-efectivos-optimizar-acelerar-mac-funcione-como-primer-dia-3266650.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido que mi Mac vuelva a funcionar como el primer día' />
     </a>
 </div>
 
