@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ahora-momento-apple-watch-series-9-hunde-precio-amazon-forma-temporal-1360813'>Ahora es el momento: el Apple Watch Series 9 hunde su precio en Amazon de forma temporal</a></h4>
+    <a href='https://computerhoy.com/apple/ahora-momento-apple-watch-series-9-hunde-precio-amazon-forma-temporal-1360813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187100.jpg?tf=1200x' alt='Ahora es el momento: el Apple Watch Series 9 hunde su precio en Amazon de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123'>Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania</a></h4>
     <a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robots-guerra-3268237.jpg?tf=1200x' alt='Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/samsung-galaxy-a13-mejores-accesorios-exprimir-maximo-movil-1360429'>Samsung Galaxy A13: mejores accesorios para exprimir al máximo tu móvil</a></h4>
     <a href='https://computerhoy.com/android/samsung-galaxy-a13-mejores-accesorios-exprimir-maximo-movil-1360429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3020202.jpg?tf=1200x' alt='Samsung Galaxy A13: mejores accesorios para exprimir al máximo tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-detectar-videollamada-siendo-grabada-1360812'>Estas 3 señales revelan que la videollamada está siendo grabada (aunque te lo quieran ocultar)</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-detectar-videollamada-siendo-grabada-1360812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Estas 3 señales revelan que la videollamada está siendo grabada (aunque te lo quieran ocultar)' />
     </a>
 </div>
 
