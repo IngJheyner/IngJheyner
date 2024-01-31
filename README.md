@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-1361092'>Desde que descubrí esta app para Android Auto no he vuelto a poner la radio FM del coche</a></h4>
+    <a href='https://computerhoy.com/android/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-1361092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Desde que descubrí esta app para Android Auto no he vuelto a poner la radio FM del coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086'>¿Estás obligado a devolver el dinero si recibes un Bizum por error?</a></h4>
     <a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-obligado-devolver-dinero-recibes-bizum-error-3268202.jpg?tf=1200x' alt='¿Estás obligado a devolver el dinero si recibes un Bizum por error?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085'>Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/taylor-swift-2860719.jpg?tf=1200x' alt='Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056'>Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso' />
     </a>
 </div>
 
