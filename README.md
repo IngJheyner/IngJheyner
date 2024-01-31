@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123'>Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robots-guerra-3268237.jpg?tf=1200x' alt='Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641'>He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267377.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-detectar-videollamada-siendo-grabada-1360812'>Estas 3 señales revelan que la videollamada está siendo grabada (aunque te lo quieran ocultar)</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-detectar-videollamada-siendo-grabada-1360812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/videollamada-espia-3267970.jpg?tf=1200x' alt='Estas 3 señales revelan que la videollamada está siendo grabada (aunque te lo quieran ocultar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099'>El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto</a></h4>
-    <a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mosaico-19-galaxias-capturadas-james-webb-como-nunca-has-visto-3268207.jpg?tf=1200x' alt='El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto' />
     </a>
 </div>
 
