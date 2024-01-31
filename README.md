@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/tienes-dudas-amazon-lanza-funcion-consulta-amigo-entorno-elija-ti-1361267'>¿Tienes dudas con tus compras? Amazon lanza 'Consulta a un amigo' para que otros elijan por ti</a></h4>
+    <a href='https://computerhoy.com/amazon/tienes-dudas-amazon-lanza-funcion-consulta-amigo-entorno-elija-ti-1361267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-nueva-funcion-3268515.jpg?tf=1200x' alt='¿Tienes dudas con tus compras? Amazon lanza 'Consulta a un amigo' para que otros elijan por ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chip-simula-corazon-humano-late-como-fuese-real-1361176'>Crean una versión en miniatura de un corazón humano en un chip que late como si fuese real</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chip-simula-corazon-humano-late-como-fuese-real-1361176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chip-corazon-humano-3268320.jpg?tf=1200x' alt='Crean una versión en miniatura de un corazón humano en un chip que late como si fuese real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153'>Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-utilizando-tiktok-movil-3268268.jpg?tf=1200x' alt='Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-ves-aplicacion-palworld-app-store-play-store-datos-podrian-correr-peligro-1361201'>Cuidado si ves una aplicación de PalWorld en la App Store o Play Store, tus datos podrían correr peligro si la descargas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-ves-aplicacion-palworld-app-store-play-store-datos-podrian-correr-peligro-1361201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/palworld-app-3268376.jpg?tf=1200x' alt='Cuidado si ves una aplicación de PalWorld en la App Store o Play Store, tus datos podrían correr peligro si la descargas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-aliexpress-compiten-vender-google-pixel-8-barato-posible-1361109'>Guerra de precios por el Pixel 8: Amazon los rebaja, pero otra tienda le supera por mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-aliexpress-compiten-vender-google-pixel-8-barato-posible-1361109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191822.jpg?tf=1200x' alt='Guerra de precios por el Pixel 8: Amazon los rebaja, pero otra tienda le supera por mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181'>Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletrabajo-programador-3268328.jpg?tf=1200x' alt='Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa' />
     </a>
 </div>
 
