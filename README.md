@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224'>El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%</a></h4>
+    <a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/adultos-uso-movil-3268437.jpg?tf=1200x' alt='El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-ves-aplicacion-palworld-app-store-play-store-datos-podrian-correr-peligro-1361201'>Cuidado si ves una aplicación de PalWorld en la App Store o Play Store, tus datos podrían correr peligro si la descargas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-ves-aplicacion-palworld-app-store-play-store-datos-podrian-correr-peligro-1361201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/palworld-app-3268376.jpg?tf=1200x' alt='Cuidado si ves una aplicación de PalWorld en la App Store o Play Store, tus datos podrían correr peligro si la descargas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126'>Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buzon-casa-3268254.jpg?tf=1200x' alt='Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/nueva-actualizacion-youtube-tv-permite-ver-dos-videos-vez-1361122'>La nueva actualización de YouTube TV apuesta por la vista múltiple copiando a la NBA</a></h4>
-    <a href='https://computerhoy.com/tv/nueva-actualizacion-youtube-tv-permite-ver-dos-videos-vez-1361122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/actualizacion-youtube-3268240.jpg?tf=1200x' alt='La nueva actualización de YouTube TV apuesta por la vista múltiple copiando a la NBA' />
     </a>
 </div>
 
