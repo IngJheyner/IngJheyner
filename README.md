@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099'>El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto</a></h4>
+    <a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mosaico-19-galaxias-capturadas-james-webb-como-nunca-has-visto-3268207.jpg?tf=1200x' alt='El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095'>Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-3268212.jpg?tf=1200x' alt='Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/trenes-alemanes-aun-funcionan-ms-dos-windows-31-1361091'>Una compañía ferroviaria alemana busca experto en MS-DOS y Windows 3.1 para que gestione el software de sus trenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/trenes-alemanes-aun-funcionan-ms-dos-windows-31-1361091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compania-ferroviaria-alemana-busca-experto-ms-dos-windows-31-gestione-software-trenes-3268195.jpg?tf=1200x' alt='Una compañía ferroviaria alemana busca experto en MS-DOS y Windows 3.1 para que gestione el software de sus trenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071'>Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-3268194.jpg?tf=1200x' alt='Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales' />
     </a>
 </div>
 
