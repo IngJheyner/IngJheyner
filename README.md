@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086'>¿Estás obligado a devolver el dinero si recibes un Bizum por error?</a></h4>
+    <a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-obligado-devolver-dinero-recibes-bizum-error-3268202.jpg?tf=1200x' alt='¿Estás obligado a devolver el dinero si recibes un Bizum por error?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trenes-alemanes-aun-funcionan-ms-dos-windows-31-1361091'>Una compañía ferroviaria alemana busca experto en MS-DOS y Windows 3.1 para que gestione el software de sus trenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trenes-alemanes-aun-funcionan-ms-dos-windows-31-1361091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/compania-ferroviaria-alemana-busca-experto-ms-dos-windows-31-gestione-software-trenes-3268195.jpg?tf=1200x' alt='Una compañía ferroviaria alemana busca experto en MS-DOS y Windows 3.1 para que gestione el software de sus trenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071'>Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-3268194.jpg?tf=1200x' alt='Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056'>Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suunto-9-peak-rebajado-amazon-precio-saldo-forma-temporal-1360516'>Titanio y zafiro: este reloj deportivo Suunto reta a los Garmin con diseño ultraligero y un precio top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suunto-9-peak-rebajado-amazon-precio-saldo-forma-temporal-1360516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/suunto-9-peak-3267110.jpg?tf=1200x' alt='Titanio y zafiro: este reloj deportivo Suunto reta a los Garmin con diseño ultraligero y un precio top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054'>Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”</a></h4>
-    <a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piramides-guiza-3268135.jpg?tf=1200x' alt='Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”' />
     </a>
 </div>
 
