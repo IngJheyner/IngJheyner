@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095'>Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-3268212.jpg?tf=1200x' alt='Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-1361092'>Desde que descubrí esta app para Android Auto no he vuelto a poner la radio FM del coche</a></h4>
     <a href='https://computerhoy.com/android/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-1361092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Desde que descubrí esta app para Android Auto no he vuelto a poner la radio FM del coche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071'>Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-3268194.jpg?tf=1200x' alt='Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085'>Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/taylor-swift-2860719.jpg?tf=1200x' alt='Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift' />
     </a>
 </div>
 
