@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-comunes-utilizan-delincuentes-ninos-adolescentes-1361210'>Los estafadores centran ahora su atención en niños y adolescentes: estas son las técnicas más utilizadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-comunes-utilizan-delincuentes-ninos-adolescentes-1361210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-online-menores-3268396.jpg?tf=1200x' alt='Los estafadores centran ahora su atención en niños y adolescentes: estas son las técnicas más utilizadas' />
+    <h4><a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308'>Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta</a></h4>
+    <a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/ciberseguridad/son-smart-rings-cual-utilidad-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
-    <a href='https://computerhoy.com/reportajes/ciberseguridad/son-smart-rings-cual-utilidad-1101877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-windows-11-increiblemente-barato-aliexpress-plaza-1360761'>Windows 11 gratis y precio ridículo: este portátil pone AliExpress patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-windows-11-increiblemente-barato-aliexpress-plaza-1360761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f7-plus-3-3267578.jpg?tf=1200x' alt='Windows 11 gratis y precio ridículo: este portátil pone AliExpress patas arriba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/tienes-dudas-amazon-lanza-funcion-consulta-amigo-entorno-elija-ti-1361267'>¿Tienes dudas con tus compras? Amazon lanza 'Consulta a un amigo' para que otros elijan por ti</a></h4>
-    <a href='https://computerhoy.com/amazon/tienes-dudas-amazon-lanza-funcion-consulta-amigo-entorno-elija-ti-1361267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazon-nueva-funcion-3268515.jpg?tf=1200x' alt='¿Tienes dudas con tus compras? Amazon lanza 'Consulta a un amigo' para que otros elijan por ti' />
+    <h4><a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982'>Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla</a></h4>
+    <a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-valores-minimos-maximos-excel-forma-rapida-sencilla-3268079.jpg?tf=1200x' alt='Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chip-simula-corazon-humano-late-como-fuese-real-1361176'>Crean una versión en miniatura de un corazón humano en un chip que late como si fuese real</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chip-simula-corazon-humano-late-como-fuese-real-1361176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chip-corazon-humano-3268320.jpg?tf=1200x' alt='Crean una versión en miniatura de un corazón humano en un chip que late como si fuese real' />
+    <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-caracteristica-cambiara-forma-usar-movil-1360069'>He probado por adelantado esta nueva característica de Google que va a hacer que cambies la forma en la que usas el móvil (y te va a encantar)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rodea-buscar-caracteristica-cambiara-forma-usar-movil-1360069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rodea-buscar-google-pixel-3268605.jpg?tf=1200x' alt='He probado por adelantado esta nueva característica de Google que va a hacer que cambies la forma en la que usas el móvil (y te va a encantar)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153'>Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-utilizando-tiktok-movil-3268268.jpg?tf=1200x' alt='Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-google-maps-zoom-1006351'>Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/truco-google-maps-zoom-1006351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sale-luz-viejo-truco-google-maps-sorprendentemente-poca-gente-conoce-3267557.jpg?tf=1200x' alt='Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce' />
     </a>
 </div>
 
