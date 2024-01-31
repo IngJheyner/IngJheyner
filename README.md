@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354'>Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-3268681.jpg?tf=1200x' alt='Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias</a></h4>
+    <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3268147.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352'>Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo</a></h4>
     <a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/multimillonario-3268677.jpg?tf=1200x' alt='Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308'>Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-windows-11-increiblemente-barato-aliexpress-plaza-1360761'>Windows 11 gratis y precio ridículo: este portátil pone AliExpress patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-windows-11-increiblemente-barato-aliexpress-plaza-1360761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teclast-f7-plus-3-3267578.jpg?tf=1200x' alt='Windows 11 gratis y precio ridículo: este portátil pone AliExpress patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982'>Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla</a></h4>
-    <a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-valores-minimos-maximos-excel-forma-rapida-sencilla-3268079.jpg?tf=1200x' alt='Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla' />
     </a>
 </div>
 
