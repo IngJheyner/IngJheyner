@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181'>Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletrabajo-programador-3268328.jpg?tf=1200x' alt='Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126'>Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buzon-casa-3268254.jpg?tf=1200x' alt='Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/nueva-actualizacion-youtube-tv-permite-ver-dos-videos-vez-1361122'>La nueva actualización de YouTube TV apuesta por la vista múltiple copiando a la NBA</a></h4>
+    <a href='https://computerhoy.com/tv/nueva-actualizacion-youtube-tv-permite-ver-dos-videos-vez-1361122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/actualizacion-youtube-3268240.jpg?tf=1200x' alt='La nueva actualización de YouTube TV apuesta por la vista múltiple copiando a la NBA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ahora-momento-apple-watch-series-9-hunde-precio-amazon-forma-temporal-1360813'>Ahora es el momento: el Apple Watch Series 9 hunde su precio en Amazon de forma temporal</a></h4>
     <a href='https://computerhoy.com/apple/ahora-momento-apple-watch-series-9-hunde-precio-amazon-forma-temporal-1360813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187100.jpg?tf=1200x' alt='Ahora es el momento: el Apple Watch Series 9 hunde su precio en Amazon de forma temporal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123'>Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania</a></h4>
     <a href='https://computerhoy.com/tecnologia/robots-terrestres-entran-combate-nueva-fase-guerra-rusia-ucrania-1361123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/robots-guerra-3268237.jpg?tf=1200x' alt='Robots terrestres entran al combate: la nueva fase de la guerra entre Rusia y Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641'>He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267377.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-activar-pip-smart-tv-1352556'>Cómo activar PiP en tu Smart TV y por qué es la función que no sabías que necesitabas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-activar-pip-smart-tv-1352556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-pip-smart-tv-funcion-no-sabias-necesitabas-3253709.jpg?tf=1200x' alt='Cómo activar PiP en tu Smart TV y por qué es la función que no sabías que necesitabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-a13-mejores-accesorios-exprimir-maximo-movil-1360429'>Samsung Galaxy A13: mejores accesorios para exprimir al máximo tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-a13-mejores-accesorios-exprimir-maximo-movil-1360429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/samsung-galaxy-a13-3020202.jpg?tf=1200x' alt='Samsung Galaxy A13: mejores accesorios para exprimir al máximo tu móvil' />
     </a>
 </div>
 
