@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-comunes-utilizan-delincuentes-ninos-adolescentes-1361210'>Los estafadores centran ahora su atención en niños y adolescentes: estas son las técnicas más utilizadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-comunes-utilizan-delincuentes-ninos-adolescentes-1361210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estafa-online-menores-3268396.jpg?tf=1200x' alt='Los estafadores centran ahora su atención en niños y adolescentes: estas son las técnicas más utilizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/ciberseguridad/son-smart-rings-cual-utilidad-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
     <a href='https://computerhoy.com/reportajes/ciberseguridad/son-smart-rings-cual-utilidad-1101877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153'>Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-utilizando-tiktok-movil-3268268.jpg?tf=1200x' alt='Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224'>El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%</a></h4>
-    <a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/adultos-uso-movil-3268437.jpg?tf=1200x' alt='El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%' />
     </a>
 </div>
 
