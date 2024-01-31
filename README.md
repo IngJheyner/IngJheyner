@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641'>He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-s24-ultra-analisis-opinion-1360641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267377.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S24 Ultra a fondo y sí, este es el móvil con IA que es verdaderamente útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-activar-pip-smart-tv-1352556'>Cómo activar PiP en tu Smart TV y por qué es la función que no sabías que necesitabas</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-activar-pip-smart-tv-1352556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-pip-smart-tv-funcion-no-sabias-necesitabas-3253709.jpg?tf=1200x' alt='Cómo activar PiP en tu Smart TV y por qué es la función que no sabías que necesitabas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099'>El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto</a></h4>
     <a href='https://computerhoy.com/espacio/espectacular-mosaico-19-galaxias-telescopio-james-webb-1361099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mosaico-19-galaxias-capturadas-james-webb-como-nunca-has-visto-3268207.jpg?tf=1200x' alt='El increíble mosaico de 19 galaxias capturadas por el telescopio James Webb, como nunca las has visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095'>Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-1361095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientificos-afirman-haber-encontrado-evidencia-tiempo-reversible-vidrio-3268212.jpg?tf=1200x' alt='Científicos afirman haber encontrado evidencia de que el tiempo es reversible en el vidrio' />
     </a>
 </div>
 
