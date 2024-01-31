@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153'>Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-algoritmo-tiktok-recomendar-videos-raros-1361153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nino-utilizando-tiktok-movil-3268268.jpg?tf=1200x' alt='Así funciona el algoritmo de TikTok para recomendar vídeos muy extraños: tiene preferencia por el drama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224'>El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%</a></h4>
     <a href='https://computerhoy.com/moviles/tdah-ahora-tambien-adultos-usar-movil-dos-horas-dia-aumenta-riesgo-10-1361224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/adultos-uso-movil-3268437.jpg?tf=1200x' alt='El TDAH ahora también en adultos: usar el móvil dos horas al día aumenta el riesgo en un 10%' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181'>Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-puestos-demandados-espana-teletrabajo-sueldos-3500-euros-1361181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/teletrabajo-programador-3268328.jpg?tf=1200x' alt='Estos son los puestos más demandados en España: teletrabajo y sueldos de hasta 3.500 euros sin demasiada experiencia previa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126'>Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-encuentras-smartwatch-auriculares-buzon-no-uses-1361126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/buzon-casa-3268254.jpg?tf=1200x' alt='Alerta por estafa: si te encuentras un smartwatch o auriculares en tu buzón, NO lo uses' />
     </a>
 </div>
 
