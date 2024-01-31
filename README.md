@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149'>80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moma-ebike-20-3261615.jpg?tf=1200x' alt='80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-1361336'>Cómo funciona Rabbit R1, el "móvil" con IA sin aplicaciones que preocupa a Google y Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-1361336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-3268702.jpg?tf=1200x' alt='Cómo funciona Rabbit R1, el "móvil" con IA sin aplicaciones que preocupa a Google y Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139'>Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-convertir-movil-android-iphone-microfono-windows-3266537.jpg?tf=1200x' alt='Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354'>Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-3268681.jpg?tf=1200x' alt='Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias</a></h4>
     <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3268147.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352'>Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo</a></h4>
-    <a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/multimillonario-3268677.jpg?tf=1200x' alt='Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nasa-consigue-captar-18-agujeros-negros-devorando-estrellas-cercanas-1361145'>James Webb de la NASA consigue capturar a 18 agujeros negros devorando estrellas cercanas</a></h4>
-    <a href='https://computerhoy.com/ciencia/nasa-consigue-captar-18-agujeros-negros-devorando-estrellas-cercanas-1361145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-detecta-18-agujeros-negros-devorando-estrellas-cercanas-tierra-3268258.jpg?tf=1200x' alt='James Webb de la NASA consigue capturar a 18 agujeros negros devorando estrellas cercanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308'>Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta</a></h4>
-    <a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta' />
     </a>
 </div>
 
