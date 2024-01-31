@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071'>Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-1361071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/google-podria-entrenar-ia-costa-violar-privacidad-leer-mensajes-personales-3268194.jpg?tf=1200x' alt='Google podría entrenar su IA a costa de violar tu privacidad y leer tus mensajes más personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085'>Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-tapa-agujero-ia-generativa-designer-deepfakes-taylor-swift-1361085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/taylor-swift-2860719.jpg?tf=1200x' alt='Microsoft tapa el agujero que permitía usar su IA generativa para "pornografiar" a Taylor Swift' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056'>Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-edge-podria-estar-robando-datos-chrome-permiso-1361056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='Microsoft Edge podría estar "robando" tus datos de Chrome sin tu permiso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054'>Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”</a></h4>
     <a href='https://computerhoy.com/life/polemica-restauracion-piramides-guiza-como-querer-enderezar-torre-pisa-1361054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piramides-guiza-3268135.jpg?tf=1200x' alt='Polémica por la restauración de las pirámides de Guiza: "Es como querer enderezar la Torre de Pisa”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/solucion-error-no-puede-ejecutar-aplicacion-equipo-windows-11-1355082'>Cómo solucionar el molesto error "No se puede ejecutar esta aplicación en el equipo" en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/solucion-error-no-puede-ejecutar-aplicacion-equipo-windows-11-1355082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-molesto-error-no-puede-ejecutar-aplicacion-equipo-windows-11-3258100.jpg?tf=1200x' alt='Cómo solucionar el molesto error "No se puede ejecutar esta aplicación en el equipo" en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917'>Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer</a></h4>
-    <a href='https://computerhoy.com/alimentacion/inconvenientes-freidoras-aire-1360917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/freidora-aire-3267966.jpg?tf=1200x' alt='Inconvenientes de las freidoras de aire que nadie comenta y que tienes que conocer' />
     </a>
 </div>
 
