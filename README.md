@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352'>Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo</a></h4>
+    <a href='https://computerhoy.com/life/tiempo-tardaras-hacerte-millonario-empiezas-hoy-mismo-1361352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/multimillonario-3268677.jpg?tf=1200x' alt='Este es el tiempo que tardarás en hacerte millonario si empiezas hoy mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nasa-consigue-captar-18-agujeros-negros-devorando-estrellas-cercanas-1361145'>James Webb de la NASA consigue capturar a 18 agujeros negros devorando estrellas cercanas</a></h4>
+    <a href='https://computerhoy.com/ciencia/nasa-consigue-captar-18-agujeros-negros-devorando-estrellas-cercanas-1361145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-detecta-18-agujeros-negros-devorando-estrellas-cercanas-tierra-3268258.jpg?tf=1200x' alt='James Webb de la NASA consigue capturar a 18 agujeros negros devorando estrellas cercanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308'>Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.com/windows/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-1361308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Es posible que ya hayamos visto Windows 12 y nadie se ha dado cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982'>Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla</a></h4>
     <a href='https://computerhoy.com/apps/como-encontrar-valores-minimos-maximos-excel-1360982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-valores-minimos-maximos-excel-forma-rapida-sencilla-3268079.jpg?tf=1200x' alt='Cómo encontrar valores mínimos y máximos en Excel de forma rápida y sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rodea-buscar-caracteristica-cambiara-forma-usar-movil-1360069'>He probado por adelantado esta nueva característica de Google que va a hacer que cambies la forma en la que usas el móvil (y te va a encantar)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rodea-buscar-caracteristica-cambiara-forma-usar-movil-1360069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rodea-buscar-google-pixel-3268605.jpg?tf=1200x' alt='He probado por adelantado esta nueva característica de Google que va a hacer que cambies la forma en la que usas el móvil (y te va a encantar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/truco-google-maps-zoom-1006351'>Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/truco-google-maps-zoom-1006351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sale-luz-viejo-truco-google-maps-sorprendentemente-poca-gente-conoce-3267557.jpg?tf=1200x' alt='Sale a la luz un viejo truco de Google Maps que sorprendentemente poca gente conoce' />
     </a>
 </div>
 
