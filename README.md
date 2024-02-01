@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283'>Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/flipper-zero-otras-6-herramientas-hacking-aparentemente-inofensivas-pueden-ser-muy-peligrosas-3268610.jpg?tf=1200x' alt='Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680'>Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135'>Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wd-my-book-2244389.jpg?tf=1200x' alt='Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644'>Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-3269232.jpg?tf=1200x' alt='Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental' />
     </a>
 </div>
 
