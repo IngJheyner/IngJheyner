@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-1361603'>Este error de configuración de los Amazon Fire TV desactiva una de sus funciones más útiles</a></h4>
-    <a href='https://computerhoy.com/amazon/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-1361603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-3269199.jpg?tf=1200x' alt='Este error de configuración de los Amazon Fire TV desactiva una de sus funciones más útiles' />
+    <h4><a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506'>Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-frente-television-3268998.jpg?tf=1200x' alt='Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-webs-pirateria-iptv-torrent-peligrosas-mundo-1361535'>Desvelan la lista de webs de piratería, IPTV y Torrent más peligrosas del mundo</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-webs-pirateria-iptv-torrent-peligrosas-mundo-1361535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pirateria-3269142.jpg?tf=1200x' alt='Desvelan la lista de webs de piratería, IPTV y Torrent más peligrosas del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/optimus-gen-2-robot-humanoide-elon-musk-ya-camina-como-persona-1361464'>El robot humanoide de Elon Musk ya camina, y las respuestas no se han hecho esperar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/optimus-gen-2-robot-humanoide-elon-musk-ya-camina-como-persona-1361464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='El robot humanoide de Elon Musk ya camina, y las respuestas no se han hecho esperar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563'>Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible </a></h4>
-    <a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-bard-3269092.jpg?tf=1200x' alt='Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible ' />
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135'>Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wd-my-book-2244389.jpg?tf=1200x' alt='Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estos-son-trabajos-deseados-mundo-espana-google-1360581'>Estos son los trabajos más deseados en el mundo, según Google: no te podrás creer el de España</a></h4>
-    <a href='https://computerhoy.com/life/estos-son-trabajos-deseados-mundo-espana-google-1360581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/trabajo-sonado-3269135.jpg?tf=1200x' alt='Estos son los trabajos más deseados en el mundo, según Google: no te podrás creer el de España' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644'>Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-3269232.jpg?tf=1200x' alt='Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768'>Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aigostar-white-cube-3267581.jpg?tf=1200x' alt='Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?' />
+    <h4><a href='https://computerhoy.com/life/estudio-desvela-dos-paises-sobrevivirian-guerra-nuclear-1361549'>Solo estos dos países se salvarían si estallara una guerra nuclear, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/estudio-desvela-dos-paises-sobrevivirian-guerra-nuclear-1361549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-nuclear-3269124.jpg?tf=1200x' alt='Solo estos dos países se salvarían si estallara una guerra nuclear, según un estudio' />
     </a>
 </div>
 
