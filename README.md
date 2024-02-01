@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473'>Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-edge-3268909.jpg?tf=1200x' alt='Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491'>El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet</a></h4>
     <a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vigilancia-inteligencia-artificial-3269021.jpg?tf=1200x' alt='El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472'>La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone</a></h4>
     <a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/produccion-chips-3268933.jpg?tf=1200x' alt='La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443'>Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas</a></h4>
-    <a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-lightning-3268866.jpg?tf=1200x' alt='Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas' />
     </a>
 </div>
 
