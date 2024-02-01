@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710'>Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/contrasena-router-3269289.jpg?tf=1200x' alt='Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/secuelas-peliculas-cine-1361265'>No solo Gladiator: secuelas que han tardado más de 20 años en ver la luz (y aún así han triunfado)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/secuelas-peliculas-cine-1361265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-solo-gladiator-6-secuelas-han-tardado-20-anos-ver-luz-aun-han-triunfado-3268491.jpg?tf=1200x' alt='No solo Gladiator: secuelas que han tardado más de 20 años en ver la luz (y aún así han triunfado)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670'>Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-desvela-cinco-errores-seguridad-cometes-dispositivos-deberias-evitar-no-ser-hackeado-3269277.jpg?tf=1200x' alt='Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283'>Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/flipper-zero-otras-6-herramientas-hacking-aparentemente-inofensivas-pueden-ser-muy-peligrosas-3268610.jpg?tf=1200x' alt='Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680'>Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506'>Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-frente-television-3268998.jpg?tf=1200x' alt='Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/optimus-gen-2-robot-humanoide-elon-musk-ya-camina-como-persona-1361464'>El robot humanoide de Elon Musk ya camina, y las respuestas no se han hecho esperar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/optimus-gen-2-robot-humanoide-elon-musk-ya-camina-como-persona-1361464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='El robot humanoide de Elon Musk ya camina, y las respuestas no se han hecho esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135'>Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-12tb-oferta-olvidarte-nube-siempre-1361135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/wd-my-book-2244389.jpg?tf=1200x' alt='Deja de pagar a Drive y Dropbox: 12 TB para ti y para siempre con un disco duro que ha hundido su precio' />
     </a>
 </div>
 
