@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768'>Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aigostar-white-cube-3267581.jpg?tf=1200x' alt='Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/arqueologos-han-encontrado-texto-cambiara-historia-egipto-1361442'>Los arqueólogos han encontrado un fragmento del Libro de los Muertos en un cementerio de 3.500 años de antigüedad</a></h4>
+    <a href='https://computerhoy.com/ciencia/arqueologos-han-encontrado-texto-cambiara-historia-egipto-1361442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/piramides-egipto-3269140.jpg?tf=1200x' alt='Los arqueólogos han encontrado un fragmento del Libro de los Muertos en un cementerio de 3.500 años de antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473'>Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar</a></h4>
     <a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-edge-3268909.jpg?tf=1200x' alt='Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527'>Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos</a></h4>
     <a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/motorola-moto-g04-movil-3269048.jpg?tf=1200x' alt='Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483'>¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gpt-4-arma-biologica-3268948.jpg?tf=1200x' alt='¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472'>La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/produccion-chips-3268933.jpg?tf=1200x' alt='La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone' />
     </a>
 </div>
 
