@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443'>Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas</a></h4>
+    <a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-lightning-3268866.jpg?tf=1200x' alt='Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-2-rebajado-amazon-menos-300-euros-smartwatch-deportivo-barato-1360806'>Garmin torpedea a Apple: rebaja su smartwatch Venu 2 y pone en apuros a los Watch SE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-venu-2-rebajado-amazon-menos-300-euros-smartwatch-deportivo-barato-1360806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-venu-2-3267621.jpg?tf=1200x' alt='Garmin torpedea a Apple: rebaja su smartwatch Venu 2 y pone en apuros a los Watch SE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450'>Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto</a></h4>
     <a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-audicion-te-dice-30-segundos-edad-oidos-preparate-llevarte-disgusto-3268818.jpg?tf=1200x' alt='Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378'>10 regalos top de San Valentín que te llegan rápido y son acierto seguro</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mielectro-san-valentin-2604069.jpg?tf=1200x' alt='10 regalos top de San Valentín que te llegan rápido y son acierto seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cosas-imprescindibles-hacer-despues-comprar-apple-mac-1355527'>¿Qué hacer después de comprar un Mac de Apple? 10 pasos imprescindibles que debes hacer tras sacarlo de la caja por primera vez</a></h4>
-    <a href='https://computerhoy.com/apple/cosas-imprescindibles-hacer-despues-comprar-apple-mac-1355527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-cosas-imprescindibles-siempre-debes-hacer-despues-comprar-mac-3258820.jpg?tf=1200x' alt='¿Qué hacer después de comprar un Mac de Apple? 10 pasos imprescindibles que debes hacer tras sacarlo de la caja por primera vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353'>El invento que permitirá tener batería infinita sin recargar </a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bateria-movil-carga-3268711.jpg?tf=1200x' alt='El invento que permitirá tener batería infinita sin recargar ' />
     </a>
 </div>
 
