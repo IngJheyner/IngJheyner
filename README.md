@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407'>Netflix no, pero Microsoft sí: las Apple Vision Pro se estrenarán con Microsoft 365 y Copilot</a></h4>
+    <h4><a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412'>Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405'>Los secretos del lago Baikal, el más antiguo y profundo del mundo</a></h4>
+    <a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/secretos-lago-baikal-3268765.jpg?tf=1200x' alt='Los secretos del lago Baikal, el más antiguo y profundo del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407'>Netflix no, pero Microsoft sí: Apple Vision Pro se estrenará con Microsoft 365 y Copilot</a></h4>
     <a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-no-pero-microsoft-apple-vision-pro-estrenaran-microsoft-365-copilot-3268764.jpg?tf=1200x' alt='Netflix no, pero Microsoft sí: las Apple Vision Pro se estrenarán con Microsoft 365 y Copilot' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-no-pero-microsoft-apple-vision-pro-estrenaran-microsoft-365-copilot-3268764.jpg?tf=1200x' alt='Netflix no, pero Microsoft sí: Apple Vision Pro se estrenará con Microsoft 365 y Copilot' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149'>80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada</a></h4>
     <a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moma-ebike-20-3261615.jpg?tf=1200x' alt='80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-1361336'>Cómo funciona Rabbit R1, el "móvil" con IA sin aplicaciones que preocupa a Google y Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-1361336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-funciona-rabbit-r1-movil-ia-aplicaciones-preocupa-google-apple-3268702.jpg?tf=1200x' alt='Cómo funciona Rabbit R1, el "móvil" con IA sin aplicaciones que preocupa a Google y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139'>Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-convertir-movil-android-iphone-microfono-windows-3266537.jpg?tf=1200x' alt='Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows' />
     </a>
 </div>
 
