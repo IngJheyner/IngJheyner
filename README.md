@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353'>El invento que permitirá tener batería infinita sin recargar </a></h4>
+    <a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bateria-movil-carga-3268711.jpg?tf=1200x' alt='El invento que permitirá tener batería infinita sin recargar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-redmi-note-13-pro-redmi-note-13-tengo-ganador-1360293'>He probado el Redmi Note 13 Pro 5G y el Redmi Note 13 al mismo tiempo y tengo un claro ganador: ¿cuál para ti?</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-redmi-note-13-pro-redmi-note-13-tengo-ganador-1360293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/redmi-note-13-vs-redmi-note-13-pro-5g-analisis-opinion-3266918.jpg?tf=1200x' alt='He probado el Redmi Note 13 Pro 5G y el Redmi Note 13 al mismo tiempo y tengo un claro ganador: ¿cuál para ti?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074'>Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo </a></h4>
+    <a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/persona-feliz-trabajo-3268590.jpg?tf=1200x' alt='Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239'>El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!</a></h4>
     <a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gobierno-japones-tiene-obligar-ciudadanos-dejar-usar-disquetes-2024-3268455.jpg?tf=1200x' alt='El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361418'>¿Qué día es hoy 1 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3268784.jpg?tf=1200x' alt='¿Qué día es hoy 1 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411'>Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-3268773.jpg?tf=1200x' alt='Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412'>Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405'>Los secretos del lago Baikal, el más antiguo y profundo del mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/secretos-lago-baikal-3268765.jpg?tf=1200x' alt='Los secretos del lago Baikal, el más antiguo y profundo del mundo' />
     </a>
 </div>
 
