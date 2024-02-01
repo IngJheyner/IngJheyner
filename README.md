@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407'>Netflix no, pero Microsoft sí: las Apple Vision Pro se estrenarán con Microsoft 365 y Copilot</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-no-pero-microsoft-apple-vision-pro-estrenaran-microsoft-365-copilot-3268764.jpg?tf=1200x' alt='Netflix no, pero Microsoft sí: las Apple Vision Pro se estrenarán con Microsoft 365 y Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397'>Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-3268756.jpg?tf=1200x' alt='Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149'>80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada</a></h4>
     <a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moma-ebike-20-3261615.jpg?tf=1200x' alt='80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139'>Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-convertir-movil-microfono-windows-1360139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-convertir-movil-android-iphone-microfono-windows-3266537.jpg?tf=1200x' alt='Así puedes utilizar tu móvil Android o iPhone como micrófono en tu ordenador con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354'>Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detectan-gran-fallo-seguridad-moviles-android-nokia-nothing-otras-marcas-1361354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-3268681.jpg?tf=1200x' alt='Detectan un gran fallo de seguridad en móviles Android de Nokia, Nothing y otras marcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias</a></h4>
-    <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3268147.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de Aliexpress: contacto, seguimiento de pedidos e incidencias' />
     </a>
 </div>
 
