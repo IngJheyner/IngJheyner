@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483'>¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gpt-4-arma-biologica-3268948.jpg?tf=1200x' alt='¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472'>La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone</a></h4>
     <a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/produccion-chips-3268933.jpg?tf=1200x' alt='La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450'>Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto</a></h4>
     <a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-audicion-te-dice-30-segundos-edad-oidos-preparate-llevarte-disgusto-3268818.jpg?tf=1200x' alt='Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438'>Ya es oficial: di adiós al modo conducción del Asistente de Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Ya es oficial: di adiós al modo conducción del Asistente de Google Maps' />
     </a>
 </div>
 
