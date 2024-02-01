@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491'>El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet</a></h4>
+    <a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vigilancia-inteligencia-artificial-3269021.jpg?tf=1200x' alt='El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527'>Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/motorola-moto-g04-movil-3269048.jpg?tf=1200x' alt='Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483'>¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados</a></h4>
     <a href='https://computerhoy.com/tecnologia/gpt-4-puerta-cualquiera-cree-arma-biologica-openai-tranquiliza-resultados-1361483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gpt-4-arma-biologica-3268948.jpg?tf=1200x' alt='¿Es ChatGPT la puerta para que cualquiera cree un arma biológica? OpenAI tranquiliza con resultados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443'>Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas</a></h4>
     <a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-lightning-3268866.jpg?tf=1200x' alt='Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-2-rebajado-amazon-menos-300-euros-smartwatch-deportivo-barato-1360806'>Garmin torpedea a Apple: rebaja su smartwatch Venu 2 y pone en apuros a los Watch SE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-venu-2-rebajado-amazon-menos-300-euros-smartwatch-deportivo-barato-1360806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-venu-2-3267621.jpg?tf=1200x' alt='Garmin torpedea a Apple: rebaja su smartwatch Venu 2 y pone en apuros a los Watch SE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450'>Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto</a></h4>
-    <a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-audicion-te-dice-30-segundos-edad-oidos-preparate-llevarte-disgusto-3268818.jpg?tf=1200x' alt='Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto' />
     </a>
 </div>
 
