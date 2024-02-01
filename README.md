@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450'>Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto</a></h4>
+    <a href='https://computerhoy.com/life/test-audicion-te-dice-30-segundos-edad-oidos-1361450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-audicion-te-dice-30-segundos-edad-oidos-preparate-llevarte-disgusto-3268818.jpg?tf=1200x' alt='Este test de audición te dice en 30 segundos la edad de tus oídos: prepárate para llevarte un disgusto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438'>Ya es oficial: di adiós al modo conducción del Asistente de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Ya es oficial: di adiós al modo conducción del Asistente de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378'>10 regalos top de San Valentín que te llegan rápido y son acierto seguro</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mielectro-san-valentin-2604069.jpg?tf=1200x' alt='10 regalos top de San Valentín que te llegan rápido y son acierto seguro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353'>El invento que permitirá tener batería infinita sin recargar </a></h4>
     <a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bateria-movil-carga-3268711.jpg?tf=1200x' alt='El invento que permitirá tener batería infinita sin recargar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-redmi-note-13-pro-redmi-note-13-tengo-ganador-1360293'>He probado el Redmi Note 13 Pro 5G y el Redmi Note 13 al mismo tiempo y tengo un claro ganador: ¿cuál para ti?</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-redmi-note-13-pro-redmi-note-13-tengo-ganador-1360293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/redmi-note-13-vs-redmi-note-13-pro-5g-analisis-opinion-3266918.jpg?tf=1200x' alt='He probado el Redmi Note 13 Pro 5G y el Redmi Note 13 al mismo tiempo y tengo un claro ganador: ¿cuál para ti?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074'>Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo </a></h4>
-    <a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/persona-feliz-trabajo-3268590.jpg?tf=1200x' alt='Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo ' />
     </a>
 </div>
 
