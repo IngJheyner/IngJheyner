@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680'>Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506'>Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero</a></h4>
     <a href='https://computerhoy.com/entretenimiento/lista-canales-tdt-desapareceran-siempre-14-febrero-1361506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-frente-television-3268998.jpg?tf=1200x' alt='Esta es la lista definitiva de canales de la TDT que desaparecerán para siempre el 14 de febrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644'>Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-1361644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-descubren-estres-financiero-puede-afectar-mucho-salud-mental-3269232.jpg?tf=1200x' alt='Científicos descubren que el estrés financiero puede afectar mucho más que la salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estudio-desvela-dos-paises-sobrevivirian-guerra-nuclear-1361549'>Solo estos dos países se salvarían si estallara una guerra nuclear, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/estudio-desvela-dos-paises-sobrevivirian-guerra-nuclear-1361549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-nuclear-3269124.jpg?tf=1200x' alt='Solo estos dos países se salvarían si estallara una guerra nuclear, según un estudio' />
     </a>
 </div>
 
