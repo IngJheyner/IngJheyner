@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-1361603'>Este error de configuración de los Amazon Fire TV desactiva una de sus funciones más útiles</a></h4>
+    <a href='https://computerhoy.com/amazon/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-1361603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-configuracion-amazon-fire-tv-desactiva-funciones-utiles-3269199.jpg?tf=1200x' alt='Este error de configuración de los Amazon Fire TV desactiva una de sus funciones más útiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estas-son-webs-pirateria-iptv-torrent-peligrosas-mundo-1361535'>Desvelan la lista de webs de piratería, IPTV y Torrent más peligrosas del mundo</a></h4>
+    <a href='https://computerhoy.com/internet/estas-son-webs-pirateria-iptv-torrent-peligrosas-mundo-1361535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pirateria-3269142.jpg?tf=1200x' alt='Desvelan la lista de webs de piratería, IPTV y Torrent más peligrosas del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563'>Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible </a></h4>
     <a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-bard-3269092.jpg?tf=1200x' alt='Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768'>Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?</a></h4>
     <a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aigostar-white-cube-3267581.jpg?tf=1200x' alt='Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/arqueologos-han-encontrado-texto-cambiara-historia-egipto-1361442'>Los arqueólogos han encontrado un fragmento del Libro de los Muertos en un cementerio de 3.500 años de antigüedad</a></h4>
-    <a href='https://computerhoy.com/ciencia/arqueologos-han-encontrado-texto-cambiara-historia-egipto-1361442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/piramides-egipto-3269140.jpg?tf=1200x' alt='Los arqueólogos han encontrado un fragmento del Libro de los Muertos en un cementerio de 3.500 años de antigüedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473'>Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-edge-3268909.jpg?tf=1200x' alt='Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar' />
     </a>
 </div>
 
