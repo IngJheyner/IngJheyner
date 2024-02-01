@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472'>La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/carrera-produccion-chips-2-nm-complica-tsmc-fabricante-apple-futuros-iphone-1361472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/produccion-chips-3268933.jpg?tf=1200x' alt='La carrera por la producción de chips de 2 nm se complica para TSMC, el fabricante de Apple y sus futuros iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443'>Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas</a></h4>
     <a href='https://computerhoy.com/apple/vision-pro-apple-esconden-secretos-lightning-no-estaria-tan-muerto-como-piensas-1361443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-lightning-3268866.jpg?tf=1200x' alt='Las Vision Pro de Apple esconden secretos y el cable Lightning no estaría tan muerto como piensas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438'>Ya es oficial: di adiós al modo conducción del Asistente de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/ya-oficial-di-adios-modo-conduccion-asistente-google-1361438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Ya es oficial: di adiós al modo conducción del Asistente de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378'>10 regalos top de San Valentín que te llegan rápido y son acierto seguro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mielectro-san-valentin-2604069.jpg?tf=1200x' alt='10 regalos top de San Valentín que te llegan rápido y son acierto seguro' />
     </a>
 </div>
 
