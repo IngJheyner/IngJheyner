@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378'>10 regalos top de San Valentín que te llegan rápido y son acierto seguro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-regalos-top-san-valentin-te-llegan-rapido-son-acierto-seguro-1361378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mielectro-san-valentin-2604069.jpg?tf=1200x' alt='10 regalos top de San Valentín que te llegan rápido y son acierto seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cosas-imprescindibles-hacer-despues-comprar-apple-mac-1355527'>¿Qué hacer después de comprar un Mac de Apple? 10 pasos imprescindibles que debes hacer tras sacarlo de la caja por primera vez</a></h4>
+    <a href='https://computerhoy.com/apple/cosas-imprescindibles-hacer-despues-comprar-apple-mac-1355527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-cosas-imprescindibles-siempre-debes-hacer-despues-comprar-mac-3258820.jpg?tf=1200x' alt='¿Qué hacer después de comprar un Mac de Apple? 10 pasos imprescindibles que debes hacer tras sacarlo de la caja por primera vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353'>El invento que permitirá tener batería infinita sin recargar </a></h4>
     <a href='https://computerhoy.com/tecnologia/invento-bateria-infinita-recargar-1361353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/bateria-movil-carga-3268711.jpg?tf=1200x' alt='El invento que permitirá tener batería infinita sin recargar ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074'>Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo </a></h4>
     <a href='https://computerhoy.com/life/experto-harvard-explica-como-ser-feliz-trabajo-solo-dos-pasos-1360074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/persona-feliz-trabajo-3268590.jpg?tf=1200x' alt='Arthur C. Brooks, experto de Harvard, comparte sus dos sencillos pasos para ser feliz en el trabajo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915'>Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-relojes-inteligentes-natacion-720915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/garmin-swim-2-3147086.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes para natación: cuentan metros, calorías y hasta calculan el SWOLF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239'>El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gobierno-japones-tiene-obligar-ciudadanos-dejar-usar-disquetes-2024-3268455.jpg?tf=1200x' alt='El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!' />
     </a>
 </div>
 
