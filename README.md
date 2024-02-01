@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239'>El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/japon-obliga-ciudadanos-dejar-usar-disquetes-pleno-2024-1361239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/gobierno-japones-tiene-obligar-ciudadanos-dejar-usar-disquetes-2024-3268455.jpg?tf=1200x' alt='El gobierno japonés tiene que obligar a sus ciudadanos a dejar de usar disquetes… ¡en 2024!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361418'>¿Qué día es hoy 1 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-1-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3268784.jpg?tf=1200x' alt='¿Qué día es hoy 1 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411'>Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-3268773.jpg?tf=1200x' alt='Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405'>Los secretos del lago Baikal, el más antiguo y profundo del mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/secretos-lago-baikal-antiguo-profundo-mundo-1361405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/secretos-lago-baikal-3268765.jpg?tf=1200x' alt='Los secretos del lago Baikal, el más antiguo y profundo del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407'>Netflix no, pero Microsoft sí: Apple Vision Pro se estrenará con Microsoft 365 y Copilot</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-estrena-microsoft-365-copilot-1361407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-no-pero-microsoft-apple-vision-pro-estrenaran-microsoft-365-copilot-3268764.jpg?tf=1200x' alt='Netflix no, pero Microsoft sí: Apple Vision Pro se estrenará con Microsoft 365 y Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397'>Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-3268756.jpg?tf=1200x' alt='Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador' />
     </a>
 </div>
 
