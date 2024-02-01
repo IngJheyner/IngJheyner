@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489'>Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-watch-2022-3268945.jpg?tf=1200x' alt='Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/consigue-entrar-disney-world-entrada-hace-45-anos-1361711'>Consigue entrar en Disney World con una entrada de hace más de 45 años</a></h4>
+    <a href='https://computerhoy.com/life/consigue-entrar-disney-world-entrada-hace-45-anos-1361711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disney-world-orlando-3269290.jpg?tf=1200x' alt='Consigue entrar en Disney World con una entrada de hace más de 45 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710'>Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi</a></h4>
     <a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/contrasena-router-3269289.jpg?tf=1200x' alt='Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670'>Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-desvela-cinco-errores-seguridad-cometes-dispositivos-deberias-evitar-no-ser-hackeado-3269277.jpg?tf=1200x' alt='Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283'>Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-herramientas-hacking-peligrosas-1361283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/flipper-zero-otras-6-herramientas-hacking-aparentemente-inofensivas-pueden-ser-muy-peligrosas-3268610.jpg?tf=1200x' alt='Flipper Zero y otras 6 herramientas de hacking aparentemente inofensivas que pueden ser muy peligrosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680'>Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-1361680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='Tim Cook aparece por primera vez con las Apple Vision Pro puestas: "Sabía que llegaríamos aquí"' />
     </a>
 </div>
 
