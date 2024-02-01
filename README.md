@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702'>Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce</a></h4>
+    <a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-cerveza-espana-expertos-internacionales-casi-nadie-conoce-3269315.jpg?tf=1200x' alt='Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728'>Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-presenta-rufus-nueva-ia-generativa-te-ayudara-comprar-3269299.jpg?tf=1200x' alt='Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489'>Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-watch-2022-3268945.jpg?tf=1200x' alt='Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710'>Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi</a></h4>
     <a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/contrasena-router-3269289.jpg?tf=1200x' alt='Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/secuelas-peliculas-cine-1361265'>No solo Gladiator: secuelas que han tardado más de 20 años en ver la luz (y aún así han triunfado)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/secuelas-peliculas-cine-1361265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-solo-gladiator-6-secuelas-han-tardado-20-anos-ver-luz-aun-han-triunfado-3268491.jpg?tf=1200x' alt='No solo Gladiator: secuelas que han tardado más de 20 años en ver la luz (y aún así han triunfado)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670'>Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hacker-desvela-cinco-errores-comunes-seguridad-no-debes-cometer-1361670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-desvela-cinco-errores-seguridad-cometes-dispositivos-deberias-evitar-no-ser-hackeado-3269277.jpg?tf=1200x' alt='Un hacker desvela los cinco errores de seguridad que cometes con tus dispositivos y que deberías evitar para no ser hackeado' />
     </a>
 </div>
 
