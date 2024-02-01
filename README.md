@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411'>Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-1361411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-estudio-revela-microbiota-intestinal-podria-estar-relacionada-alzheimer-3268773.jpg?tf=1200x' alt='Un nuevo estudio revela que la microbiota intestinal podría estar relacionada con el Alzheimer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412'>Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-no-recibira-56000-millones-dolares-tesla-1361412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='Mazazo para Elon Musk: no recibirá los 56.000 millones de dólares que le iba a pagar Tesla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397'>Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador</a></h4>
     <a href='https://computerhoy.com/tecnologia/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-1361397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ponen-prueba-varios-metodos-encontrar-camaras-ocultas-encuentran-claro-ganador-3268756.jpg?tf=1200x' alt='Ponen a prueba varios métodos para encontrar cámaras ocultas y encuentran un claro ganador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149'>80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/80-km-bateria-pliega-segundos-amazon-tiene-plegable-moma-bikes-buscada-1357149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moma-ebike-20-3261615.jpg?tf=1200x' alt='80 km de batería y se pliega en segundos: Amazon tiene la plegable Moma Bikes más buscada' />
     </a>
 </div>
 
