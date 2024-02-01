@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563'>Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible </a></h4>
+    <a href='https://computerhoy.com/google/google-va-todas-bard-chatbot-ia-ahora-inteligente-accesible-1361563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-bard-3269092.jpg?tf=1200x' alt='Google va a por todas con Bard, su chatbot de inteligencia artificial, y ahora es más inteligente y accesible ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estos-son-trabajos-deseados-mundo-espana-google-1360581'>Estos son los trabajos más deseados en el mundo, según Google: no te podrás creer el de España</a></h4>
+    <a href='https://computerhoy.com/life/estos-son-trabajos-deseados-mundo-espana-google-1360581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/trabajo-sonado-3269135.jpg?tf=1200x' alt='Estos son los trabajos más deseados en el mundo, según Google: no te podrás creer el de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768'>Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?</a></h4>
     <a href='https://computerhoy.com/tecnologia/aigostar-white-cube-7l-freidora-aire-sorprendentemente-barata-1360768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aigostar-white-cube-3267581.jpg?tf=1200x' alt='Airfryer XXL a precio de derribo: ¿tendrás suficiente con 7 litros de capacidad?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473'>Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar</a></h4>
     <a href='https://computerhoy.com/tecnologia/extensiones-llegaran-fin-microsoft-edge-android-1361473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-edge-3268909.jpg?tf=1200x' alt='Las extensiones llegarán por fin a Microsoft Edge para Android, aunque aún habrá que esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491'>El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet</a></h4>
-    <a href='https://computerhoy.com/internet/conocido-como-sitio-web-inteligencia-artificial-perturbador-encuentra-fotos-existen-ti-todo-internet-1361491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vigilancia-inteligencia-artificial-3269021.jpg?tf=1200x' alt='El conocido como "sitio web de inteligencia artificial más perturbador" encuentra las fotos que existen de ti por todo Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527'>Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-moto-g04-precio-caracteristicas-disponibilidad-1361527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/motorola-moto-g04-movil-3269048.jpg?tf=1200x' alt='Moto g04, el nuevo móvil de Motorola que llega por menos de 130 euros con colores realmente llamativos' />
     </a>
 </div>
 
