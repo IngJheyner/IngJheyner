@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/me-han-hackeado-mi-web-criptomonedas-pasos-seguir-recuperar-control-1361660'>Me hackearon mi web de criptomonedas: estos son los pasos que he seguido para recuperar el control</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/me-han-hackeado-mi-web-criptomonedas-pasos-seguir-recuperar-control-1361660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/jakub-motyka-criptokio-3269235.jpg?tf=1200x' alt='Me hackearon mi web de criptomonedas: estos son los pasos que he seguido para recuperar el control' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/metodos-eliminar-spam-gmail-1361413'>Así puedes eliminar el spam de Gmail y mantener tu bandeja de entrada más limpia y organizada</a></h4>
+    <a href='https://computerhoy.com/google/metodos-eliminar-spam-gmail-1361413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='Así puedes eliminar el spam de Gmail y mantener tu bandeja de entrada más limpia y organizada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361756'>¿Qué día es hoy 2 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3269352.jpg?tf=1200x' alt='¿Qué día es hoy 2 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086'>¿Estás obligado a devolver el dinero si recibes un Bizum por error?</a></h4>
     <a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-obligado-devolver-dinero-recibes-bizum-error-3268202.jpg?tf=1200x' alt='¿Estás obligado a devolver el dinero si recibes un Bizum por error?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-ya-oficial-movil-gama-media-quiere-plantar-cara-pixel-7a-google-1361737'>El Nothing Phone (2a) ya es oficial, el primer móvil de gama media que quiere plantar cara a Google</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-2a-ya-oficial-movil-gama-media-quiere-plantar-cara-pixel-7a-google-1361737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-ya-oficial-primer-movil-gama-media-quiere-plantar-cara-google-3269336.jpg?tf=1200x' alt='El Nothing Phone (2a) ya es oficial, el primer móvil de gama media que quiere plantar cara a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702'>Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce</a></h4>
-    <a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-cerveza-espana-expertos-internacionales-casi-nadie-conoce-3269315.jpg?tf=1200x' alt='Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce' />
     </a>
 </div>
 
