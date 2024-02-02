@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/semaforos-rojo-verde-vez-como-funcionan-1361742'>Por qué en algunos países hay semáforos que están en rojo y verde al mismo tiempo, ¿qué significa?</a></h4>
+    <a href='https://computerhoy.com/motor/semaforos-rojo-verde-vez-como-funcionan-1361742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/algunos-paises-hay-semaforos-ponen-rojo-verde-mismo-tiempo-significa-3269326.jpg?tf=1200x' alt='Por qué en algunos países hay semáforos que están en rojo y verde al mismo tiempo, ¿qué significa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086'>¿Estás obligado a devolver el dinero si recibes un Bizum por error?</a></h4>
+    <a href='https://computerhoy.com/apps/estas-obligado-devolver-dinero-recibes-bizum-error-1361086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-obligado-devolver-dinero-recibes-bizum-error-3268202.jpg?tf=1200x' alt='¿Estás obligado a devolver el dinero si recibes un Bizum por error?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-ya-oficial-movil-gama-media-quiere-plantar-cara-pixel-7a-google-1361737'>El Nothing Phone (2a) ya es oficial, el primer móvil de gama media que quiere plantar cara a Google</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-2a-ya-oficial-movil-gama-media-quiere-plantar-cara-pixel-7a-google-1361737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-ya-oficial-primer-movil-gama-media-quiere-plantar-cara-google-3269336.jpg?tf=1200x' alt='El Nothing Phone (2a) ya es oficial, el primer móvil de gama media que quiere plantar cara a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702'>Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce</a></h4>
     <a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-cerveza-espana-expertos-internacionales-casi-nadie-conoce-3269315.jpg?tf=1200x' alt='Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728'>Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-presenta-rufus-nueva-ia-generativa-te-ayudara-comprar-3269299.jpg?tf=1200x' alt='Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489'>Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-no-son-caros-2023-precio-liquidacion-amazon-1361489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-watch-2022-3268945.jpg?tf=1200x' alt='Los Apple Watch no son caros: el SE 2023 está a precio de liquidación en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/consigue-entrar-disney-world-entrada-hace-45-anos-1361711'>Consigue entrar en Disney World con una entrada de hace más de 45 años</a></h4>
-    <a href='https://computerhoy.com/life/consigue-entrar-disney-world-entrada-hace-45-anos-1361711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disney-world-orlando-3269290.jpg?tf=1200x' alt='Consigue entrar en Disney World con una entrada de hace más de 45 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710'>Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/adios-19216811-conoce-nueva-forma-entrar-router-wifi-1361710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/contrasena-router-3269289.jpg?tf=1200x' alt='Adiós 192.168.1.1: conoce la nueva forma de entrar a tu router WiFi' />
     </a>
 </div>
 
