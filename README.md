@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763'>Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-q5-pro-3269354.jpg?tf=1200x' alt='Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037'>Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV</a></h4>
     <a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706893106728-3269755.jpg?tf=1200x' alt='Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017'>TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820'>Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro</a></h4>
-    <a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-confirman-luna-alejando-tierra-podria-afectarnos-futuro-3269478.jpg?tf=1200x' alt='Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro' />
     </a>
 </div>
 
