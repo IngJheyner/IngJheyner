@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811'>La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook</a></h4>
+    <a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-precio-saldo-1361822'>Este Garmin Forerunner es tan completo como los Fenix pero mucho más barato: Amazon lo deja 120 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-precio-saldo-1361822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-forerunner-745-3269418.jpg?tf=1200x' alt='Este Garmin Forerunner es tan completo como los Fenix pero mucho más barato: Amazon lo deja 120 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795'>Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes</a></h4>
     <a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tim-cook-presentacion-apple-vision-pro-3064302.jpg?tf=1200x' alt='Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793'>Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-conflicto-3269419.jpg?tf=1200x' alt='Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-rebajado-auriculares-freebuds-regalo-1361158'>Con auriculares de regalo: el smartwatch más top de Huawei tiene una rebaja inigualable en varias tiendas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-rebajado-auriculares-freebuds-regalo-1361158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-watch-4-pro-3268263.jpg?tf=1200x' alt='Con auriculares de regalo: el smartwatch más top de Huawei tiene una rebaja inigualable en varias tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/fin-era-google-elimina-oficialmente-enlace-cache-como-afecta-usuarios-1361775'>Fin de una era: Google elimina oficialmente el enlace de caché, ¿cómo afecta a los usuarios?</a></h4>
-    <a href='https://computerhoy.com/google/fin-era-google-elimina-oficialmente-enlace-cache-como-afecta-usuarios-1361775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-busquedas-3269388.jpg?tf=1200x' alt='Fin de una era: Google elimina oficialmente el enlace de caché, ¿cómo afecta a los usuarios?' />
     </a>
 </div>
 
