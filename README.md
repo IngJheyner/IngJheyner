@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803'>Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista</a></h4>
+    <a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nunca-debes-reservar-camarote-ventana-crucero-experta-crucerista-3269384.jpg?tf=1200x' alt='Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793'>Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-conflicto-3269419.jpg?tf=1200x' alt='Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-rebajado-auriculares-freebuds-regalo-1361158'>Con auriculares de regalo: el smartwatch más top de Huawei tiene una rebaja inigualable en varias tiendas</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-rebajado-auriculares-freebuds-regalo-1361158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-watch-4-pro-3268263.jpg?tf=1200x' alt='Con auriculares de regalo: el smartwatch más top de Huawei tiene una rebaja inigualable en varias tiendas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-661-computer-hoy-1359556'>¡Ya está en tu quiosco el número 661 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-661-computer-hoy-1359556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/computer-hoy-661-3267033.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 661 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751'>Las mejores frases para dar los buenos días en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/mejores-frases-dar-buenos-dias-whatsapp-3268216.jpg?tf=1200x' alt='Las mejores frases para dar los buenos días en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/nos-encanto-cuando-probamos-ahora-baja-precio-pixel-watch-2-tiene-todo-arrasar-1361568'>Nos encantó cuando lo probamos y ahora baja de precio: el Pixel Watch 2 lo tiene todo para arrasar</a></h4>
-    <a href='https://computerhoy.com/android/nos-encanto-cuando-probamos-ahora-baja-precio-pixel-watch-2-tiene-todo-arrasar-1361568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3200004.jpg?tf=1200x' alt='Nos encantó cuando lo probamos y ahora baja de precio: el Pixel Watch 2 lo tiene todo para arrasar' />
     </a>
 </div>
 
