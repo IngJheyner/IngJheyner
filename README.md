@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361756'>¿Qué día es hoy 2 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1361756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-2-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3269352.jpg?tf=1200x' alt='¿Qué día es hoy 2 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/semaforos-rojo-verde-vez-como-funcionan-1361742'>Por qué en algunos países hay semáforos que están en rojo y verde al mismo tiempo, ¿qué significa?</a></h4>
     <a href='https://computerhoy.com/motor/semaforos-rojo-verde-vez-como-funcionan-1361742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/algunos-paises-hay-semaforos-ponen-rojo-verde-mismo-tiempo-significa-3269326.jpg?tf=1200x' alt='Por qué en algunos países hay semáforos que están en rojo y verde al mismo tiempo, ¿qué significa?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702'>Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce</a></h4>
     <a href='https://computerhoy.com/life/mejor-cerveza-espana-casi-nadie-conoce-1361702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-cerveza-espana-expertos-internacionales-casi-nadie-conoce-3269315.jpg?tf=1200x' alt='Esta es la mejor cerveza de España para los expertos internacionales y casi nadie la conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728'>Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-presenta-rufus-nueva-inteligencia-artificial-generativa-compras-1361728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-presenta-rufus-nueva-ia-generativa-te-ayudara-comprar-3269299.jpg?tf=1200x' alt='Amazon presenta Rufus, su nueva IA generativa que te ayudará a comprar' />
     </a>
 </div>
 
