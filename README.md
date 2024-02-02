@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-1361930'>Usuarios consiguen solventar un error grave de Android Auto dejando a Google en ridículo</a></h4>
+    <a href='https://computerhoy.com/android/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-1361930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-3269732.jpg?tf=1200x' alt='Usuarios consiguen solventar un error grave de Android Auto dejando a Google en ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-chrome-navegar-rapido-1361813'>Así puedes liberar la memoria RAM con Google Chrome para navegar más rápido en internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-chrome-navegar-rapido-1361813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Así puedes liberar la memoria RAM con Google Chrome para navegar más rápido en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-te-estan-espiando-debes-eliminarlas-inmediato-1361779'>Estas apps de mensajería para Android pueden estar tomando fotos o grabando audio: debes eliminarlas de inmediato</a></h4>
     <a href='https://computerhoy.com/apps/estas-aplicaciones-te-estan-espiando-debes-eliminarlas-inmediato-1361779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-aplicaciones-movil-3269417.jpg?tf=1200x' alt='Estas apps de mensajería para Android pueden estar tomando fotos o grabando audio: debes eliminarlas de inmediato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811'>La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook</a></h4>
     <a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-precio-saldo-1361822'>Este Garmin Forerunner es tan completo como los Fenix pero mucho más barato: Amazon lo deja 120 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-745-oferta-amazon-precio-saldo-1361822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-forerunner-745-3269418.jpg?tf=1200x' alt='Este Garmin Forerunner es tan completo como los Fenix pero mucho más barato: Amazon lo deja 120 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795'>Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes</a></h4>
-    <a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tim-cook-presentacion-apple-vision-pro-3064302.jpg?tf=1200x' alt='Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes' />
     </a>
 </div>
 
