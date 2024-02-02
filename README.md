@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130'>Cómo activar el inicio de sesión como administrador en Windows 11 & 10</a></h4>
+    <a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-activar-inicio-sesion-como-administrador-windows-10-11-3216662.jpg?tf=1200x' alt='Cómo activar el inicio de sesión como administrador en Windows 11 & 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951'>¿Existe la Tierra en el universo de películas y series de Star Wars?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/existe-tierra-universo-peliculas-series-star-wars-3269769.jpg?tf=1200x' alt='¿Existe la Tierra en el universo de películas y series de Star Wars?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840'>Descubren un planeta del tamaño de la Tierra en una “zona habitable”</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/toi-715-b-3269525.jpg?tf=1200x' alt='Descubren un planeta del tamaño de la Tierra en una “zona habitable”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123'>Así puedes consultar las calorías diarias quemadas en tu Apple Watch</a></h4>
     <a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-consultar-calorias-diarias-quemadas-apple-watch-3254962.jpg?tf=1200x' alt='Así puedes consultar las calorías diarias quemadas en tu Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-utilizar-inteligencia-artificial-google-maps-1361858'>La IA entra de lleno en Google Maps: olvida todo lo que sabías hasta ahora, es una locura</a></h4>
-    <a href='https://computerhoy.com/google/como-utilizar-inteligencia-artificial-google-maps-1361858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-inteligencia-artificial-3269588.jpg?tf=1200x' alt='La IA entra de lleno en Google Maps: olvida todo lo que sabías hasta ahora, es una locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cambiar-idioma-teclado-windows-11-1352836'>Así puedes cambiar el idioma de tu teclado en Windows 11 de forma sencilla y rápida</a></h4>
-    <a href='https://computerhoy.com/windows/cambiar-idioma-teclado-windows-11-1352836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-cambiar-idioma-teclado-windows-11-forma-sencilla-rapida-3254253.jpg?tf=1200x' alt='Así puedes cambiar el idioma de tu teclado en Windows 11 de forma sencilla y rápida' />
     </a>
 </div>
 
