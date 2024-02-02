@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023'>Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos</a></h4>
+    <a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017'>TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820'>Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro</a></h4>
+    <a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-confirman-luna-alejando-tierra-podria-afectarnos-futuro-3269478.jpg?tf=1200x' alt='Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130'>Cómo activar el inicio de sesión como administrador en Windows 11 & 10</a></h4>
     <a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-activar-inicio-sesion-como-administrador-windows-10-11-3216662.jpg?tf=1200x' alt='Cómo activar el inicio de sesión como administrador en Windows 11 & 10' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951'>¿Existe la Tierra en el universo de películas y series de Star Wars?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/existe-tierra-universo-peliculas-series-star-wars-3269769.jpg?tf=1200x' alt='¿Existe la Tierra en el universo de películas y series de Star Wars?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840'>Descubren un planeta del tamaño de la Tierra en una “zona habitable”</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/toi-715-b-3269525.jpg?tf=1200x' alt='Descubren un planeta del tamaño de la Tierra en una “zona habitable”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-pantalla-oled-windows-11-oferta-amazon-300eu-descuento-1361175'>Brutal portátil OLED con 16 GB de RAM que ahora es 300 euros más barato en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-pantalla-oled-windows-11-oferta-amazon-300eu-descuento-1361175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-zenbook-14-oled-3268314.jpg?tf=1200x' alt='Brutal portátil OLED con 16 GB de RAM que ahora es 300 euros más barato en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123'>Así puedes consultar las calorías diarias quemadas en tu Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-consultar-calorias-diarias-quemadas-apple-watch-3254962.jpg?tf=1200x' alt='Así puedes consultar las calorías diarias quemadas en tu Apple Watch' />
     </a>
 </div>
 
