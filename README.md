@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-1361930'>Usuarios consiguen solventar un error grave de Android Auto dejando a Google en ridículo</a></h4>
-    <a href='https://computerhoy.com/android/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-1361930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usuarios-consiguen-solventar-error-grave-android-auto-dejando-google-ridiculo-3269732.jpg?tf=1200x' alt='Usuarios consiguen solventar un error grave de Android Auto dejando a Google en ridículo' />
+    <h4><a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840'>Descubren un planeta del tamaño de la Tierra en una “zona habitable”</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-planeta-tamano-tierra-zona-habitable-1361840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/toi-715-b-3269525.jpg?tf=1200x' alt='Descubren un planeta del tamaño de la Tierra en una “zona habitable”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-chrome-navegar-rapido-1361813'>Así puedes liberar la memoria RAM con Google Chrome para navegar más rápido en internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-chrome-navegar-rapido-1361813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Así puedes liberar la memoria RAM con Google Chrome para navegar más rápido en internet' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-pantalla-oled-windows-11-oferta-amazon-300eu-descuento-1361175'>Brutal portátil OLED con 16 GB de RAM que ahora es 300 euros más barato en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-pantalla-oled-windows-11-oferta-amazon-300eu-descuento-1361175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/asus-zenbook-14-oled-3268314.jpg?tf=1200x' alt='Brutal portátil OLED con 16 GB de RAM que ahora es 300 euros más barato en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-aplicaciones-te-estan-espiando-debes-eliminarlas-inmediato-1361779'>Estas apps de mensajería para Android pueden estar tomando fotos o grabando audio: debes eliminarlas de inmediato</a></h4>
-    <a href='https://computerhoy.com/apps/estas-aplicaciones-te-estan-espiando-debes-eliminarlas-inmediato-1361779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-aplicaciones-movil-3269417.jpg?tf=1200x' alt='Estas apps de mensajería para Android pueden estar tomando fotos o grabando audio: debes eliminarlas de inmediato' />
+    <h4><a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123'>Así puedes consultar las calorías diarias quemadas en tu Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/como-ver-calorias-apple-watch-1353123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-consultar-calorias-diarias-quemadas-apple-watch-3254962.jpg?tf=1200x' alt='Así puedes consultar las calorías diarias quemadas en tu Apple Watch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por los que merece la pena (y mucho) comprar un Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-legales-merece-pena-mucho-comprar-flipper-zero-3269345.jpg?tf=1200x' alt='Usos legales por los que merece la pena (y mucho) comprar un Flipper Zero' />
+    <h4><a href='https://computerhoy.com/google/como-utilizar-inteligencia-artificial-google-maps-1361858'>La IA entra de lleno en Google Maps: olvida todo lo que sabías hasta ahora, es una locura</a></h4>
+    <a href='https://computerhoy.com/google/como-utilizar-inteligencia-artificial-google-maps-1361858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-inteligencia-artificial-3269588.jpg?tf=1200x' alt='La IA entra de lleno en Google Maps: olvida todo lo que sabías hasta ahora, es una locura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811'>La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook</a></h4>
-    <a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook' />
+    <h4><a href='https://computerhoy.com/windows/cambiar-idioma-teclado-windows-11-1352836'>Así puedes cambiar el idioma de tu teclado en Windows 11 de forma sencilla y rápida</a></h4>
+    <a href='https://computerhoy.com/windows/cambiar-idioma-teclado-windows-11-1352836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-cambiar-idioma-teclado-windows-11-forma-sencilla-rapida-3254253.jpg?tf=1200x' alt='Así puedes cambiar el idioma de tu teclado en Windows 11 de forma sencilla y rápida' />
     </a>
 </div>
 
