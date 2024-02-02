@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037'>Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706893106728-3269755.jpg?tf=1200x' alt='Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904'>No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cargador-inalambrico-iniu-2892016.jpg?tf=1200x' alt='No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023'>Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos</a></h4>
     <a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820'>Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro</a></h4>
     <a href='https://computerhoy.com/ciencia/luna-alejando-tierra-podria-afectarnos-1361820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-confirman-luna-alejando-tierra-podria-afectarnos-futuro-3269478.jpg?tf=1200x' alt='Científicos lo confirman: la Luna se está alejando de la Tierra, y así podría afectarnos en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130'>Cómo activar el inicio de sesión como administrador en Windows 11 & 10</a></h4>
-    <a href='https://computerhoy.com/windows/como-activar-inicio-sesion-administrador-windows-10-11-1332130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-activar-inicio-sesion-como-administrador-windows-10-11-3216662.jpg?tf=1200x' alt='Cómo activar el inicio de sesión como administrador en Windows 11 & 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951'>¿Existe la Tierra en el universo de películas y series de Star Wars?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/existe-tierra-universo-peliculas-series-star-wars-1361951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/existe-tierra-universo-peliculas-series-star-wars-3269769.jpg?tf=1200x' alt='¿Existe la Tierra en el universo de películas y series de Star Wars?' />
     </a>
 </div>
 
