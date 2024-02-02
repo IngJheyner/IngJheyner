@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>Usos legales por los que merece la pena (y mucho) comprar un Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-legales-merece-pena-mucho-comprar-flipper-zero-3269345.jpg?tf=1200x' alt='Usos legales por los que merece la pena (y mucho) comprar un Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811'>La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook</a></h4>
     <a href='https://computerhoy.com/apple/ia-llegara-todo-ecosistema-apple-iphone-como-protagonista-2024-tim-cook-1361811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='La inteligencia artificial llegará a todo el ecosistema Apple con el iPhone como protagonista en 2024, según Tim Cook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803'>Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista</a></h4>
     <a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nunca-debes-reservar-camarote-ventana-crucero-experta-crucerista-3269384.jpg?tf=1200x' alt='Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793'>Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/pentagono-avisan-probable-produzca-conflicto-ia-ia-1361793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-conflicto-3269419.jpg?tf=1200x' alt='Desde el Pentágono avisan: "Es probable que se produzca un conflicto de IA contra IA"' />
     </a>
 </div>
 
