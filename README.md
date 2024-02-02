@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795'>Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes</a></h4>
+    <a href='https://computerhoy.com/apple/te-preguntas-son-tan-caras-vision-pro-apple-tim-cook-responde-5000-patentes-1361795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/tim-cook-presentacion-apple-vision-pro-3064302.jpg?tf=1200x' alt='Si te preguntas por qué son tan caras las Vision Pro de Apple, Tim Cook responde con sus 5.000 patentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803'>Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista</a></h4>
     <a href='https://computerhoy.com/life/por-que-nunca-debes-reservar-camarote-ventana-crucero-1361803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nunca-debes-reservar-camarote-ventana-crucero-experta-crucerista-3269384.jpg?tf=1200x' alt='Por qué nunca debes reservar un camarote con ventana en un crucero, según una experta crucerista' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/fin-era-google-elimina-oficialmente-enlace-cache-como-afecta-usuarios-1361775'>Fin de una era: Google elimina oficialmente el enlace de caché, ¿cómo afecta a los usuarios?</a></h4>
     <a href='https://computerhoy.com/google/fin-era-google-elimina-oficialmente-enlace-cache-como-afecta-usuarios-1361775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-busquedas-3269388.jpg?tf=1200x' alt='Fin de una era: Google elimina oficialmente el enlace de caché, ¿cómo afecta a los usuarios?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-661-computer-hoy-1359556'>¡Ya está en tu quiosco el número 661 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-661-computer-hoy-1359556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/computer-hoy-661-3267033.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 661 de Computer Hoy!' />
     </a>
 </div>
 
