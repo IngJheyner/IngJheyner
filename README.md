@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148'>Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-3270054.jpg?tf=1200x' alt='Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144'>Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro</a></h4>
     <a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aplicaciones-galeria-android-alternativas-google-photos-1357131'>Estas aplicaciones de galería para móviles Android son mucho mejores que Google Photos</a></h4>
     <a href='https://computerhoy.com/tecnologia/aplicaciones-galeria-android-alternativas-google-photos-1357131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-galeria-android-3261596.jpg?tf=1200x' alt='Estas aplicaciones de galería para móviles Android son mucho mejores que Google Photos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103'>Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer' />
     </a>
 </div>
 
