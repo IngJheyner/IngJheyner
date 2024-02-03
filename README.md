@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/historia-cubo-rubik-1360025'>Un golpe de suerte y una idea destinada a triunfar: esta es la historia del mítico cubo de Rubik que cumple 50 años</a></h4>
+    <a href='https://computerhoy.com/life/historia-cubo-rubik-1360025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cubo-rubik-3266360.jpg?tf=1200x' alt='Un golpe de suerte y una idea destinada a triunfar: esta es la historia del mítico cubo de Rubik que cumple 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-evolucion-tecnologica-sueno-imposible-1358590'>Computación cuántica: ¿la próxima gran revolución tecnológica o un sueño imposible?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-evolucion-tecnologica-sueno-imposible-1358590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Computación cuántica: ¿la próxima gran revolución tecnológica o un sueño imposible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-vpn-estan-rebajas-te-permiten-conectarte-decenas-paises-1361968'>5 VPN que están de rebajas y te permiten conectarte desde decenas de países</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-vpn-estan-rebajas-te-permiten-conectarte-decenas-paises-1361968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nordvpn-3128362.jpg?tf=1200x' alt='5 VPN que están de rebajas y te permiten conectarte desde decenas de países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/semana-tecnologia-posible-desconexion-total-actualidad-1358589'>He pasado una semana sin tecnología y no, no he muerto en el intento ni han sido los peores 7 días de mi vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/semana-tecnologia-posible-desconexion-total-actualidad-1358589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/detox-digital-3266915.jpg?tf=1200x' alt='He pasado una semana sin tecnología y no, no he muerto en el intento ni han sido los peores 7 días de mi vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tres-dias-ansiedad-persiguiendo-airtag-1361128'>Tres días de ansiedad persiguiendo un AirTag</a></h4>
     <a href='https://computerhoy.com/tecnologia/tres-dias-ansiedad-persiguiendo-airtag-1361128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/portada-persiguiendo-airtag-3268245.jpg?tf=1200x' alt='Tres días de ansiedad persiguiendo un AirTag' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-cmf-watch-pro-pantalla-me-ha-enamorado-1359558'>He probado el CMF Watch Pro y me ha dejado sorprendido encontrarme con semejante pantalla por este precio</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-cmf-watch-pro-pantalla-me-ha-enamorado-1359558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cmf-watch-pro-3266331.jpg?tf=1200x' alt='He probado el CMF Watch Pro y me ha dejado sorprendido encontrarme con semejante pantalla por este precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/video-policia-bicicleta-persiguiendo-lamborghini-huracan-1362065'>El vídeo viral del policía en bicicleta persiguiendo a un Lamborghini, para ponerle una multa</a></h4>
-    <a href='https://computerhoy.com/motor/video-policia-bicicleta-persiguiendo-lamborghini-huracan-1362065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/video-viral-policia-bicicleta-persiguiendo-lamborghini-ponerle-multa-3269912.jpg?tf=1200x' alt='El vídeo viral del policía en bicicleta persiguiendo a un Lamborghini, para ponerle una multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-1361965'>Interlingua: el idioma universal que casi todos los europeos entienden sin haberlo estudiado nunca</a></h4>
-    <a href='https://computerhoy.com/life/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-1361965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-3269827.jpg?tf=1200x' alt='Interlingua: el idioma universal que casi todos los europeos entienden sin haberlo estudiado nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/5-moviles-xiaomi-oferta-buscas-nuevo-telefono-barato-1361936'>5 móviles Xiaomi en oferta si buscas un nuevo teléfono barato</a></h4>
-    <a href='https://computerhoy.com/android/5-moviles-xiaomi-oferta-buscas-nuevo-telefono-barato-1361936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-3263984.jpg?tf=1200x' alt='5 móviles Xiaomi en oferta si buscas un nuevo teléfono barato' />
     </a>
 </div>
 
