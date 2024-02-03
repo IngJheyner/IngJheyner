@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-extrana-relacion-alzheimer-vision-1362056'>La sorprendente relación entre el Alzheimer y la visión: algunas afecciones visuales extrañas podrían ser indicadores de la enfermedad</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-extrana-relacion-alzheimer-vision-1362056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-relacion-alzheimer-vision-algunas-afecciones-visuales-extranas-podrian-ser-indicadores-enfermedad-3269888.jpg?tf=1200x' alt='La sorprendente relación entre el Alzheimer y la visión: algunas afecciones visuales extrañas podrían ser indicadores de la enfermedad' />
+    <h4><a href='https://computerhoy.com/tecnologia/tres-dias-ansiedad-persiguiendo-airtag-1361128'>Tres días de ansiedad persiguiendo un AirTag</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-dias-ansiedad-persiguiendo-airtag-1361128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/portada-persiguiendo-airtag-3268245.jpg?tf=1200x' alt='Tres días de ansiedad persiguiendo un AirTag' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-avisa-mark-zuckerberg-practica-actividades-alto-riesgo-podria-morir-1362057'>Meta avisa a sus inversores: "Mark Zuckerberg practica actividades de alto riesgo en las que podría morir"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-avisa-mark-zuckerberg-practica-actividades-alto-riesgo-podria-morir-1362057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Meta avisa a sus inversores: "Mark Zuckerberg practica actividades de alto riesgo en las que podría morir"' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-cmf-watch-pro-pantalla-me-ha-enamorado-1359558'>He probado el CMF Watch Pro y me ha dejado sorprendido encontrarme con semejante pantalla por este precio</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-cmf-watch-pro-pantalla-me-ha-enamorado-1359558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cmf-watch-pro-3266331.jpg?tf=1200x' alt='He probado el CMF Watch Pro y me ha dejado sorprendido encontrarme con semejante pantalla por este precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763'>Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-q5-pro-3269354.jpg?tf=1200x' alt='Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo' />
+    <h4><a href='https://computerhoy.com/motor/video-policia-bicicleta-persiguiendo-lamborghini-huracan-1362065'>El vídeo viral del policía en bicicleta persiguiendo a un Lamborghini, para ponerle una multa</a></h4>
+    <a href='https://computerhoy.com/motor/video-policia-bicicleta-persiguiendo-lamborghini-huracan-1362065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/video-viral-policia-bicicleta-persiguiendo-lamborghini-ponerle-multa-3269912.jpg?tf=1200x' alt='El vídeo viral del policía en bicicleta persiguiendo a un Lamborghini, para ponerle una multa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037'>Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706893106728-3269755.jpg?tf=1200x' alt='Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV' />
+    <h4><a href='https://computerhoy.com/life/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-1361965'>Interlingua: el idioma universal que casi todos los europeos entienden sin haberlo estudiado nunca</a></h4>
+    <a href='https://computerhoy.com/life/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-1361965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/interlingua-idioma-universal-casi-todos-europeos-entienden-haberlo-estudiado-nunca-3269827.jpg?tf=1200x' alt='Interlingua: el idioma universal que casi todos los europeos entienden sin haberlo estudiado nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904'>No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cargador-inalambrico-iniu-2892016.jpg?tf=1200x' alt='No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil' />
+    <h4><a href='https://computerhoy.com/android/5-moviles-xiaomi-oferta-buscas-nuevo-telefono-barato-1361936'>5 móviles Xiaomi en oferta si buscas un nuevo teléfono barato</a></h4>
+    <a href='https://computerhoy.com/android/5-moviles-xiaomi-oferta-buscas-nuevo-telefono-barato-1361936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-3263984.jpg?tf=1200x' alt='5 móviles Xiaomi en oferta si buscas un nuevo teléfono barato' />
     </a>
 </div>
 
