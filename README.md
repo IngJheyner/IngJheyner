@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133'>WhatsApp te permitirá asignar contactos favoritos para las llamadas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3270039.jpg?tf=1200x' alt='WhatsApp te permitirá asignar contactos favoritos para las llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tiktok-tambien-quiere-ser-como-youtube-importante-cambio-1362112'>TikTok también quiere ser como YouTube con este importante cambio</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-tambien-quiere-ser-como-youtube-importante-cambio-1362112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-3269966.jpg?tf=1200x' alt='TikTok también quiere ser como YouTube con este importante cambio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748'>Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos</a></h4>
     <a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-errores-comunes-montar-instalar-televisor-como-evitarlos-3269344.jpg?tf=1200x' alt='Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qled-gigante-alexa-amazon-pone-patas-arriba-tienda-tv-oferta-1361891'>QLED, gigante y con Alexa: Amazon pone patas arriba su tienda con esta TV en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qled-gigante-alexa-amazon-pone-patas-arriba-tienda-tv-oferta-1361891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hisense-65a7kq-qled-3269646.jpg?tf=1200x' alt='QLED, gigante y con Alexa: Amazon pone patas arriba su tienda con esta TV en oferta' />
     </a>
 </div>
 
