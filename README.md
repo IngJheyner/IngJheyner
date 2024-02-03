@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-enviar-resumenes-semanales-fotografias-mejores-amigos-1362169'>Google Fotos te permitirá enviar resúmenes semanales de tus fotografías a tus mejores amigos</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-te-permitira-enviar-resumenes-semanales-fotografias-mejores-amigos-1362169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Fotos te permitirá enviar resúmenes semanales de tus fotografías a tus mejores amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ahora-telegram-te-permite-enviar-mensajes-unicos-voz-video-funcionan-1362167'>Ahora Telegram te permite enviar mensajes únicos de voz y de vídeo y así funcionan</a></h4>
+    <a href='https://computerhoy.com/apps/ahora-telegram-te-permite-enviar-mensajes-unicos-voz-video-funcionan-1362167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telegram-3270101.jpg?tf=1200x' alt='Ahora Telegram te permite enviar mensajes únicos de voz y de vídeo y así funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161'>Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones</a></h4>
     <a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148'>Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio</a></h4>
     <a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-3270054.jpg?tf=1200x' alt='Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144'>Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro</a></h4>
-    <a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133'>WhatsApp te permitirá asignar contactos favoritos para las llamadas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3270039.jpg?tf=1200x' alt='WhatsApp te permitirá asignar contactos favoritos para las llamadas' />
     </a>
 </div>
 
