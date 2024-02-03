@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103'>Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748'>Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-errores-comunes-montar-instalar-televisor-como-evitarlos-3269344.jpg?tf=1200x' alt='Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qled-gigante-alexa-amazon-pone-patas-arriba-tienda-tv-oferta-1361891'>QLED, gigante y con Alexa: Amazon pone patas arriba su tienda con esta TV en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qled-gigante-alexa-amazon-pone-patas-arriba-tienda-tv-oferta-1361891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hisense-65a7kq-qled-3269646.jpg?tf=1200x' alt='QLED, gigante y con Alexa: Amazon pone patas arriba su tienda con esta TV en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-ia-microsoft-copilot-android-iphone-1357477'>Cómo instalar la IA de Microsoft Copilot en Android y iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-ia-microsoft-copilot-android-iphone-1357477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Cómo instalar la IA de Microsoft Copilot en Android y iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/5-sencillos-ejercicios-fisicos-ayudan-mejorar-memoria-1359043'>Los 5 sencillos ejercicios físicos que ayudan a mejorar la memoria</a></h4>
     <a href='https://computerhoy.com/life/5-sencillos-ejercicios-fisicos-ayudan-mejorar-memoria-1359043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-sencillos-ejercicios-fisicos-ayudan-mejorar-memoria-3264627.jpg?tf=1200x' alt='Los 5 sencillos ejercicios físicos que ayudan a mejorar la memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/panza-arriba-modulo-lunar-japones-sigue-haciendo-fotos-luna-1362070'>Panza arriba, el módulo lunar japonés sigue haciendo fotos y experimentos en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/panza-arriba-modulo-lunar-japones-sigue-haciendo-fotos-luna-1362070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cabeza-abajo-modulo-lunar-japones-sigue-haciendo-fotos-experimentos-luna-3269889.jpg?tf=1200x' alt='Panza arriba, el módulo lunar japonés sigue haciendo fotos y experimentos en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/historia-cubo-rubik-1360025'>Un golpe de suerte y una idea destinada a triunfar: esta es la historia del mítico cubo de Rubik que cumple 50 años</a></h4>
-    <a href='https://computerhoy.com/life/historia-cubo-rubik-1360025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cubo-rubik-3266360.jpg?tf=1200x' alt='Un golpe de suerte y una idea destinada a triunfar: esta es la historia del mítico cubo de Rubik que cumple 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/computacion-cuantica-evolucion-tecnologica-sueno-imposible-1358590'>Computación cuántica: ¿la próxima gran revolución tecnológica o un sueño imposible?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/computacion-cuantica-evolucion-tecnologica-sueno-imposible-1358590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Computación cuántica: ¿la próxima gran revolución tecnológica o un sueño imposible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-vpn-estan-rebajas-te-permiten-conectarte-decenas-paises-1361968'>5 VPN que están de rebajas y te permiten conectarte desde decenas de países</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-vpn-estan-rebajas-te-permiten-conectarte-decenas-paises-1361968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nordvpn-3128362.jpg?tf=1200x' alt='5 VPN que están de rebajas y te permiten conectarte desde decenas de países' />
     </a>
 </div>
 
