@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tres-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362064'>¿Qué día es hoy 3 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/tres-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-3-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3269908.jpg?tf=1200x' alt='¿Qué día es hoy 3 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-extrana-relacion-alzheimer-vision-1362056'>La sorprendente relación entre el Alzheimer y la visión: algunas afecciones visuales extrañas podrían ser indicadores de la enfermedad</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-descubren-extrana-relacion-alzheimer-vision-1362056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-relacion-alzheimer-vision-algunas-afecciones-visuales-extranas-podrian-ser-indicadores-enfermedad-3269888.jpg?tf=1200x' alt='La sorprendente relación entre el Alzheimer y la visión: algunas afecciones visuales extrañas podrían ser indicadores de la enfermedad' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037'>Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV</a></h4>
     <a href='https://computerhoy.com/espacio/celestron-origin-telescopio-inteligencia-artificial-envia-imagenes-smart-tv-1362037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706893106728-3269755.jpg?tf=1200x' alt='Este telescopio con IA explora el firmamento por su cuenta y envía las imágenes a tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904'>No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-tener-cuenta-antes-elegir-cargador-movil-1361904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/cargador-inalambrico-iniu-2892016.jpg?tf=1200x' alt='No todos son iguales: esto es lo que debes tener en cuenta antes de elegir el cargador de tu móvil' />
     </a>
 </div>
 
