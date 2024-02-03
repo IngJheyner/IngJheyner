@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144'>Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/apple-valora-comprar-startup-inteligencia-artificial-mejorar-privacidad-vision-pro-1362144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apple-vision-pro-pone-venta-2-febrero-3258075.jpg?tf=1200x' alt='Apple valora comprar esta startup de inteligencia artificial para mejorar la privacidad de las Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133'>WhatsApp te permitirá asignar contactos favoritos para las llamadas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3270039.jpg?tf=1200x' alt='WhatsApp te permitirá asignar contactos favoritos para las llamadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103'>Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-tiene-problemas-android-auto-soluciones-deberias-hacer-1362103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Samsung Galaxy S24 tiene problemas con Android Auto: soluciones y qué deberías hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748'>Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-errores-comunes-montar-instalar-televisor-como-evitarlos-3269344.jpg?tf=1200x' alt='Los 6 errores más comunes al montar o instalar un televisor y cómo evitarlos' />
     </a>
 </div>
 
