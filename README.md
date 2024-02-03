@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-avisa-mark-zuckerberg-practica-actividades-alto-riesgo-podria-morir-1362057'>Meta avisa sus inversores: "Mark Zuckerberg practica actividades de alto riesgo en las que podría morir"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-avisa-mark-zuckerberg-practica-actividades-alto-riesgo-podria-morir-1362057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-salvo-mark-zuckerberg-rompe-no-podra-luchar-ano-3214470.jpg?tf=1200x' alt='Meta avisa sus inversores: "Mark Zuckerberg practica actividades de alto riesgo en las que podría morir"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763'>Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo</a></h4>
     <a href='https://computerhoy.com/tecnologia/roborock-q5-pro-base-autovaciado-precio-saldo-oferta-amazon-1361763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-q5-pro-3269354.jpg?tf=1200x' alt='Jubila tu escoba: este robot con escáner LiDAR se limpia solo y es potentísimo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023'>Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos</a></h4>
     <a href='https://computerhoy.com/windows/usuarios-windows-10-estan-reportando-muchas-aplicaciones-estan-dejando-funcionar-ordenadores-antiguos-1362023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Usuarios de Windows 10 están reportando que muchas aplicaciones están dejando de funcionar en ordenadores antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017'>TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-reacciona-apagon-tdt-dos-nuevos-canales-tv-gratis-1362017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels reacciona al apagón de la TDT con dos nuevos canales de TV gratis' />
     </a>
 </div>
 
