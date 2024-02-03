@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161'>Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones</a></h4>
+    <a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/parece-reloj-batman-pero-no-huawei-ahora-tiene-100-euros-descuento-1361886'>Parece el reloj de Batman, pero no, es de Huawei y ahora tiene más de 100 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/parece-reloj-batman-pero-no-huawei-ahora-tiene-100-euros-descuento-1361886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977638.jpg?tf=1200x' alt='Parece el reloj de Batman, pero no, es de Huawei y ahora tiene más de 100 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133'>WhatsApp te permitirá asignar contactos favoritos para las llamadas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-asignar-contactos-favoritos-llamadas-1362133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3270039.jpg?tf=1200x' alt='WhatsApp te permitirá asignar contactos favoritos para las llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tiktok-tambien-quiere-ser-como-youtube-importante-cambio-1362112'>TikTok también quiere ser como YouTube con este importante cambio</a></h4>
-    <a href='https://computerhoy.com/apps/tiktok-tambien-quiere-ser-como-youtube-importante-cambio-1362112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-3269966.jpg?tf=1200x' alt='TikTok también quiere ser como YouTube con este importante cambio' />
     </a>
 </div>
 
