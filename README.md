@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/roba-tarjeta-microsd-cita-descubre-asesino-serie-1362275'>Una mujer le roba una tarjeta microSD a su cita, y descubre que es un asesino en serie</a></h4>
+    <a href='https://computerhoy.com/life/roba-tarjeta-microsd-cita-descubre-asesino-serie-1362275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-roba-tarjeta-micro-sd-cita-descubre-asesino-serie-3270217.jpg?tf=1200x' alt='Una mujer le roba una tarjeta microSD a su cita, y descubre que es un asesino en serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966'>Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ninja-foodi-7-1-3269733.jpg?tf=1200x' alt='Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543'>Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sanoto-auriculares-3267212.jpg?tf=1200x' alt='Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259'>Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones</a></h4>
-    <a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-rtx-2080-ti-rtx-2080-rtx-2070-nvidia-1109009.jpg?tf=1200x' alt='Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones' />
     </a>
 </div>
 
