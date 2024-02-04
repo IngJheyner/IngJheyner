@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcionan-nuevas-estafas-telefonicas-30-inteligencia-artificial-1360650'>Así funcionan las nuevas estafas telefónicas 3.0: inteligencia artificial al servicio de los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcionan-nuevas-estafas-telefonicas-30-inteligencia-artificial-1360650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='Así funcionan las nuevas estafas telefónicas 3.0: inteligencia artificial al servicio de los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578'>He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura</a></h4>
     <a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3266875.jpg?tf=1200x' alt='He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-robot-puede-ordenar-habitacion-ayuda-humana-1362165'>Crean un robot que puede ordenar una habitación sin ayuda humana</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-robot-puede-ordenar-habitacion-ayuda-humana-1362165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-robot-puede-ordenar-habitacion-ayuda-humana-3270099.jpg?tf=1200x' alt='Crean un robot que puede ordenar una habitación sin ayuda humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526'>Facebook cumple 20 años: así es la historia de Meta, desde los humildes inicios de la red social hasta el gigante que es hoy</a></h4>
-    <a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-facebook-meta-3057290.jpg?tf=1200x' alt='Facebook cumple 20 años: así es la historia de Meta, desde los humildes inicios de la red social hasta el gigante que es hoy' />
     </a>
 </div>
 
