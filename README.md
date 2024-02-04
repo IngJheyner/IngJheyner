@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640'>Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/velocidad-wifi-3269537.jpg?tf=1200x' alt='Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-permitira-cancelar-suscripciones-notificaciones-sitios-web-android-1362201'>Chrome te permitirá cancelar las suscripciones a las notificaciones de sitios web en Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-te-permitira-cancelar-suscripciones-notificaciones-sitios-web-android-1362201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-android-3255332.jpg?tf=1200x' alt='Chrome te permitirá cancelar las suscripciones a las notificaciones de sitios web en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gopro-tienen-rival-ademas-increiblemente-barato-video-4k-57-euros-1361952'>Las GoPro tienen rival y además increíblemente barato: vídeo 4K por 57 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gopro-tienen-rival-ademas-increiblemente-barato-video-4k-57-euros-1361952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sj4000-air-3269659.jpg?tf=1200x' alt='Las GoPro tienen rival y además increíblemente barato: vídeo 4K por 57 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890'>5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/comedias-fantasmas-3267832.jpg?tf=1200x' alt='5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194'>Android 15 te permitiría compartir audio con dispositivos cercanos</a></h4>
     <a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Android 15 te permitiría compartir audio con dispositivos cercanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-firmar-pdf-windows-instalar-nada-1359332'>Cómo firmar un PDF en Windows sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-firmar-pdf-windows-instalar-nada-1359332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/firmar-pdf-windows-3265095.jpg?tf=1200x' alt='Cómo firmar un PDF en Windows sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-solucionar-problemas-movil-android-1361744'>Con estos trucos podrás solucionar prácticamente cualquier problema de rendimiento en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/android/trucos-solucionar-problemas-movil-android-1361744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-trucos-podras-solucionar-practicamente-cualquier-problema-rendimiento-movil-android-3269341.jpg?tf=1200x' alt='Con estos trucos podrás solucionar prácticamente cualquier problema de rendimiento en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcionan-nuevas-estafas-telefonicas-30-inteligencia-artificial-1360650'>Así funcionan las nuevas estafas telefónicas 3.0: inteligencia artificial al servicio de los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcionan-nuevas-estafas-telefonicas-30-inteligencia-artificial-1360650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='Así funcionan las nuevas estafas telefónicas 3.0: inteligencia artificial al servicio de los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578'>He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura</a></h4>
-    <a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3266875.jpg?tf=1200x' alt='He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura' />
     </a>
 </div>
 
