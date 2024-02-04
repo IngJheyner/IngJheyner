@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265'>El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pdf-grande-puedes-crear-ocupa-mitad-alemania-3270201.jpg?tf=1200x' alt='El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543'>Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sanoto-auriculares-3267212.jpg?tf=1200x' alt='Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-cambiara-nombre-bard-gemini-razon-1362217'>Google cambiará el nombre de Bard a Gemini por esta razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-cambiara-nombre-bard-gemini-razon-1362217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google cambiará el nombre de Bard a Gemini por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205'>La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad</a></h4>
-    <a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cronometro-iphone-3270151.jpg?tf=1200x' alt='La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad' />
     </a>
 </div>
 
