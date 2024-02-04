@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-1362168'>Crean la primera anguila cultivada en laboratorio y eso podría ser positivo por esta razón</a></h4>
+    <a href='https://computerhoy.com/life/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-1362168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-3270104.jpg?tf=1200x' alt='Crean la primera anguila cultivada en laboratorio y eso podría ser positivo por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/activitypub-considera-potencial-salvador-internet-1356554'>¿Qué es ActivityPub y por qué se considera el potencial salvador de Internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/activitypub-considera-potencial-salvador-internet-1356554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706882332886-3269683.jpg?tf=1200x' alt='¿Qué es ActivityPub y por qué se considera el potencial salvador de Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288'>Estos son los mejores relojes inteligentes con Wear OS que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-wear-os-1253288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199978.jpg?tf=1200x' alt='Estos son los mejores relojes inteligentes con Wear OS que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/4-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362179'>¿Qué día es hoy 4 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/4-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-4-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270118.jpg?tf=1200x' alt='¿Qué día es hoy 4 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-enviar-resumenes-semanales-fotografias-mejores-amigos-1362169'>Google Fotos te permitirá enviar resúmenes semanales de tus fotografías a tus mejores amigos</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-te-permitira-enviar-resumenes-semanales-fotografias-mejores-amigos-1362169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Fotos te permitirá enviar resúmenes semanales de tus fotografías a tus mejores amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-telegram-te-permite-enviar-mensajes-unicos-voz-video-funcionan-1362167'>Ahora Telegram te permite enviar mensajes únicos de voz y de vídeo y así funcionan</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-telegram-te-permite-enviar-mensajes-unicos-voz-video-funcionan-1362167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telegram-3270101.jpg?tf=1200x' alt='Ahora Telegram te permite enviar mensajes únicos de voz y de vídeo y así funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161'>Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones</a></h4>
-    <a href='https://computerhoy.com/android/android-15-estrenara-esperada-caracteristica-ios-afecta-aplicaciones-1362161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Android 15 estrenará una esperada característica de iOS y que afecta a tus aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-reloj-batman-pero-no-huawei-ahora-tiene-100-euros-descuento-1361886'>Parece el reloj de Batman, pero no, es de Huawei y ahora tiene más de 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-reloj-batman-pero-no-huawei-ahora-tiene-100-euros-descuento-1361886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/huawei-watch-buds-analisis-opinion-2977638.jpg?tf=1200x' alt='Parece el reloj de Batman, pero no, es de Huawei y ahora tiene más de 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148'>Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-gigantesco-escudo-espacio-1362148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-quieren-enfriar-tierra-bloqueando-rayos-sol-3270054.jpg?tf=1200x' alt='Científicos quieren enfriar la Tierra bloqueando los rayos del Sol con un gigantesco escudo en el espacio' />
     </a>
 </div>
 
