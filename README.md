@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194'>Android 15 te permitiría compartir audio con dispositivos cercanos</a></h4>
+    <a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Android 15 te permitiría compartir audio con dispositivos cercanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-firmar-pdf-windows-instalar-nada-1359332'>Cómo firmar un PDF en Windows sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-firmar-pdf-windows-instalar-nada-1359332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/firmar-pdf-windows-3265095.jpg?tf=1200x' alt='Cómo firmar un PDF en Windows sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/trucos-solucionar-problemas-movil-android-1361744'>Con estos trucos podrás solucionar prácticamente cualquier problema de rendimiento en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/android/trucos-solucionar-problemas-movil-android-1361744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-trucos-podras-solucionar-practicamente-cualquier-problema-rendimiento-movil-android-3269341.jpg?tf=1200x' alt='Con estos trucos podrás solucionar prácticamente cualquier problema de rendimiento en tu móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578'>He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura</a></h4>
     <a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3266875.jpg?tf=1200x' alt='He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-lista-ordenadores-potentes-mundo-1358586'>MareNostrum 5: así es el superordenador que coloca a España en la lista de los ordenadores más potentes del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-lista-ordenadores-potentes-mundo-1358586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/marenostrum-5-3266879.jpg?tf=1200x' alt='MareNostrum 5: así es el superordenador que coloca a España en la lista de los ordenadores más potentes del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-legion-go-3248542.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
     </a>
 </div>
 
