@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543'>Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sanoto-auriculares-3267212.jpg?tf=1200x' alt='Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259'>Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones</a></h4>
     <a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-rtx-2080-ti-rtx-2080-rtx-2070-nvidia-1109009.jpg?tf=1200x' alt='Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205'>La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad</a></h4>
     <a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cronometro-iphone-3270151.jpg?tf=1200x' alt='La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640'>Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/velocidad-wifi-3269537.jpg?tf=1200x' alt='Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura' />
     </a>
 </div>
 
