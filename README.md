@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259'>Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones</a></h4>
+    <a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-rtx-2080-ti-rtx-2080-rtx-2070-nvidia-1109009.jpg?tf=1200x' alt='Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-trabaja-nueva-herramienta-ayudarte-compresion-archivos-windows-11-1362218'>Microsoft trabaja en una nueva herramienta para ayudarte con la compresión de archivos en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-trabaja-nueva-herramienta-ayudarte-compresion-archivos-windows-11-1362218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Microsoft trabaja en una nueva herramienta para ayudarte con la compresión de archivos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640'>Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura</a></h4>
     <a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/velocidad-wifi-3269537.jpg?tf=1200x' alt='Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-te-permitira-cancelar-suscripciones-notificaciones-sitios-web-android-1362201'>Chrome te permitirá cancelar las suscripciones a las notificaciones de sitios web en Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-te-permitira-cancelar-suscripciones-notificaciones-sitios-web-android-1362201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/chrome-android-3255332.jpg?tf=1200x' alt='Chrome te permitirá cancelar las suscripciones a las notificaciones de sitios web en Android' />
     </a>
 </div>
 
