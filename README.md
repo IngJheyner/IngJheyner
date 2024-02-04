@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578'>He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura</a></h4>
+    <a href='https://computerhoy.com/internet/paginas-famosas-utiles-dark-web-internet-oscura-1358578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dark-web-3266875.jpg?tf=1200x' alt='He bajado a la Dark Web para visitar sus páginas más útiles como la Wikipedia oculta o la BBC sin censura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-lista-ordenadores-potentes-mundo-1358586'>MareNostrum 5: así es el superordenador que coloca a España en la lista de los ordenadores más potentes del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/marenostrum-5-superordenador-espanol-lista-ordenadores-potentes-mundo-1358586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/marenostrum-5-3266879.jpg?tf=1200x' alt='MareNostrum 5: así es el superordenador que coloca a España en la lista de los ordenadores más potentes del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015'>Estas son las mejores consolas portátiles que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/mejores-consolas-portatiles-ofertas-descuentos-915015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/lenovo-legion-go-3248542.jpg?tf=1200x' alt='Estas son las mejores consolas portátiles que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-robot-puede-ordenar-habitacion-ayuda-humana-1362165'>Crean un robot que puede ordenar una habitación sin ayuda humana</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-robot-puede-ordenar-habitacion-ayuda-humana-1362165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-robot-puede-ordenar-habitacion-ayuda-humana-3270099.jpg?tf=1200x' alt='Crean un robot que puede ordenar una habitación sin ayuda humana' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526'>Facebook cumple 20 años: así es la historia de Meta, desde los humildes inicios de la red social hasta el gigante que es hoy</a></h4>
     <a href='https://computerhoy.com/redes/historia-meta-origen-facebook-metaverso-1237526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/historia-facebook-meta-3057290.jpg?tf=1200x' alt='Facebook cumple 20 años: así es la historia de Meta, desde los humildes inicios de la red social hasta el gigante que es hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/donde-viven-osos-polares-1362175'>¿Los osos polares viven en el Polo Norte o en el Polo Sur?: Los antiguos griegos nos dan la respuesta</a></h4>
-    <a href='https://computerhoy.com/life/donde-viven-osos-polares-1362175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/osos-polares-viven-polo-norte-polo-sur-antiguos-griegos-nos-dan-respuesta-3270112.jpg?tf=1200x' alt='¿Los osos polares viven en el Polo Norte o en el Polo Sur?: Los antiguos griegos nos dan la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-1362168'>Crean la primera anguila cultivada en laboratorio y eso podría ser positivo por esta razón</a></h4>
-    <a href='https://computerhoy.com/life/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-1362168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-primera-anguila-cultivada-laboratorio-eso-podria-ser-positivo-razon-3270104.jpg?tf=1200x' alt='Crean la primera anguila cultivada en laboratorio y eso podría ser positivo por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/activitypub-considera-potencial-salvador-internet-1356554'>¿Qué es ActivityPub y por qué se considera el potencial salvador de Internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/activitypub-considera-potencial-salvador-internet-1356554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1706882332886-3269683.jpg?tf=1200x' alt='¿Qué es ActivityPub y por qué se considera el potencial salvador de Internet?' />
     </a>
 </div>
 
