@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-cambiara-nombre-bard-gemini-razon-1362217'>Google cambiará el nombre de Bard a Gemini por esta razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-cambiara-nombre-bard-gemini-razon-1362217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gemini-nuevo-modelo-ia-google-3239910.jpg?tf=1200x' alt='Google cambiará el nombre de Bard a Gemini por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205'>La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad</a></h4>
     <a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cronometro-iphone-3270151.jpg?tf=1200x' alt='La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gopro-tienen-rival-ademas-increiblemente-barato-video-4k-57-euros-1361952'>Las GoPro tienen rival y además increíblemente barato: vídeo 4K por 57 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/gopro-tienen-rival-ademas-increiblemente-barato-video-4k-57-euros-1361952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sj4000-air-3269659.jpg?tf=1200x' alt='Las GoPro tienen rival y además increíblemente barato: vídeo 4K por 57 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890'>5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/comedias-fantasmas-3267832.jpg?tf=1200x' alt='5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado' />
     </a>
 </div>
 
