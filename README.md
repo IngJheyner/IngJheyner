@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966'>Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ninja-foodi-7-1-3269733.jpg?tf=1200x' alt='Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270'>Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/empresa-pierde-25-millones-euros-porque-deepfake-directivos-ordeno-transferir-dinero-3270206.jpg?tf=1200x' alt='Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259'>Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones</a></h4>
     <a href='https://computerhoy.com/gaming/mod-aumenta-rendimiento-tarjetas-rtx-anteriores-generaciones-1362259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/presentacion-rtx-2080-ti-rtx-2080-rtx-2070-nvidia-1109009.jpg?tf=1200x' alt='Un mod aumenta el rendimiento un 75% en las tarjetas RTX de anteriores generaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-trabaja-nueva-herramienta-ayudarte-compresion-archivos-windows-11-1362218'>Microsoft trabaja en una nueva herramienta para ayudarte con la compresión de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-trabaja-nueva-herramienta-ayudarte-compresion-archivos-windows-11-1362218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/windows-11-3040832.jpg?tf=1200x' alt='Microsoft trabaja en una nueva herramienta para ayudarte con la compresión de archivos en Windows 11' />
     </a>
 </div>
 
