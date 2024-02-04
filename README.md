@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205'>La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad</a></h4>
+    <a href='https://computerhoy.com/apple/aplicacion-cronometro-iphone-actualiza-esperada-funcionalidad-1362205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cronometro-iphone-3270151.jpg?tf=1200x' alt='La aplicación de cronómetro del iPhone se actualiza con esta esperada funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640'>Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura</a></h4>
     <a href='https://computerhoy.com/tecnologia/configurar-repetidor-wifi-mejor-velocidad-cobertura-router-1355640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/velocidad-wifi-3269537.jpg?tf=1200x' alt='Cómo debes configurar correctamente un repetidor WiFi para conseguir la mejor velocidad y cobertura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890'>5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-pelicula-comedia-fantasmas-1360890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/comedias-fantasmas-3267832.jpg?tf=1200x' alt='5 comedias con fantasmas perfectas para esperar el estreno de Cazafantasmas: Imperio helado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194'>Android 15 te permitiría compartir audio con dispositivos cercanos</a></h4>
-    <a href='https://computerhoy.com/android/android-15-te-permitiria-compartir-audio-dispositivos-cercanos-1362194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Android 15 te permitiría compartir audio con dispositivos cercanos' />
     </a>
 </div>
 
