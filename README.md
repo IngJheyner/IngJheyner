@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365'>China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink</a></h4>
+    <a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-3270375.jpg?tf=1200x' alt='China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412'>¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-inteligencia-3270480.jpg?tf=1200x' alt='¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329'>Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales</a></h4>
     <a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mapa-tesoro-iphone-15-3270386.jpg?tf=1200x' alt='Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402'>Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas</a></h4>
     <a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dolor-cuello-rodillas-moviles-3270476.jpg?tf=1200x' alt='Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-descargar-version-beta-android-auto-113-1362393'>Android Auto 11.3 beta ya disponible: cambios y cómo descargar la nueva versión ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/como-descargar-version-beta-android-auto-113-1362393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270449.jpg?tf=1200x' alt='Android Auto 11.3 beta ya disponible: cambios y cómo descargar la nueva versión ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300'>Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aigostar-willie-3270248.jpg?tf=1200x' alt='Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito' />
     </a>
 </div>
 
