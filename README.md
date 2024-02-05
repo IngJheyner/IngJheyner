@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402'>Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas</a></h4>
+    <a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dolor-cuello-rodillas-moviles-3270476.jpg?tf=1200x' alt='Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-descargar-version-beta-android-auto-113-1362393'>Android Auto 11.3 beta ya disponible: cambios y cómo descargar la nueva versión ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/como-descargar-version-beta-android-auto-113-1362393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270449.jpg?tf=1200x' alt='Android Auto 11.3 beta ya disponible: cambios y cómo descargar la nueva versión ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300'>Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aigostar-willie-3270248.jpg?tf=1200x' alt='Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352'>Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-ios-174-3270379.jpg?tf=1200x' alt='Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392'>Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/esconden-vision-pro-interior-pieza-hardware-compleja-apple-momento-1362335'>Esto es lo que esconden las Vision Pro en su interior: "La pieza de hardware más compleja de Apple hasta el momento"</a></h4>
-    <a href='https://computerhoy.com/apple/esconden-vision-pro-interior-pieza-hardware-compleja-apple-momento-1362335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-3270278.jpg?tf=1200x' alt='Esto es lo que esconden las Vision Pro en su interior: "La pieza de hardware más compleja de Apple hasta el momento"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490'>Los móviles de menos de 200 euros están en peligro de extinción en España</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-animales-3267647.jpg?tf=1200x' alt='Los móviles de menos de 200 euros están en peligro de extinción en España' />
     </a>
 </div>
 
