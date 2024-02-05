@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520'>Los auriculares más top de Bose están por fin rebajados </a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-ultra-3270669.jpg?tf=1200x' alt='Los auriculares más top de Bose están por fin rebajados ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587'>Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/cena-perfecta-quieres-estar-sano-forma-harvard-1361162'>¿Cómo es la cena perfecta? Expertos de Harvard descubren el secreto si quieres estar sano y en forma</a></h4>
     <a href='https://computerhoy.com/alimentacion/cena-perfecta-quieres-estar-sano-forma-harvard-1361162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/glotoneria-3270545.jpg?tf=1200x' alt='¿Cómo es la cena perfecta? Expertos de Harvard descubren el secreto si quieres estar sano y en forma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564'>Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-ipad-2023-3243600.jpg?tf=1200x' alt='Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década' />
     </a>
 </div>
 
