@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352'>Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-ios-174-3270379.jpg?tf=1200x' alt='Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392'>Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490'>Los móviles de menos de 200 euros están en peligro de extinción en España</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-animales-3267647.jpg?tf=1200x' alt='Los móviles de menos de 200 euros están en peligro de extinción en España' />
     </a>
 </div>
 
