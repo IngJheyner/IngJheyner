@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490'>Los móviles de menos de 200 euros están en peligro de extinción en España</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-animales-3267647.jpg?tf=1200x' alt='Los móviles de menos de 200 euros están en peligro de extinción en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289'>¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270235.jpg?tf=1200x' alt='¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277'>AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amd-fabrica-propias-patatas-fritas-taiwan-debido-curiosa-supersticion-3270222.jpg?tf=1200x' alt='AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición' />
     </a>
 </div>
 
