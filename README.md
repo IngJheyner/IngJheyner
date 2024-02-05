@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014'>He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas</a></h4>
+    <a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tv-internet-3270559.jpg?tf=1200x' alt='He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320'>Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-cheetah-square-3270261.jpg?tf=1200x' alt='Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365'>China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-3270375.jpg?tf=1200x' alt='China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412'>¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-inteligencia-3270480.jpg?tf=1200x' alt='¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia' />
     </a>
 </div>
 
