@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410'>¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024</a></h4>
+    <a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg?tf=1200x' alt='¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402'>Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas</a></h4>
     <a href='https://computerhoy.com/moviles/cuello-sufre-cuando-usas-movil-anade-nuevo-problema-dolor-rodillas-1362402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dolor-cuello-rodillas-moviles-3270476.jpg?tf=1200x' alt='Si tu cuello o espalda sufre cuando usas el móvil, añade este nuevo problema: el dolor de rodillas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352'>Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios</a></h4>
     <a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-ios-174-3270379.jpg?tf=1200x' alt='Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392'>Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato' />
     </a>
 </div>
 
