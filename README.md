@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564'>Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-ipad-2023-3243600.jpg?tf=1200x' alt='Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisor-smart-tv-escucha-pero-no-ve-soluciones-1362061'>¿Tu Smart TV se escucha, pero no se ve la imagen? Métodos más efectivos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tv/televisor-smart-tv-escucha-pero-no-ve-soluciones-1362061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacer-smart-tv-escucha-pero-no-ve-5-metodos-solucionarlo-3269911.jpg?tf=1200x' alt='¿Tu Smart TV se escucha, pero no se ve la imagen? Métodos más efectivos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014'>He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas</a></h4>
     <a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tv-internet-3270559.jpg?tf=1200x' alt='He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362'>Los cristales del tiempo podrían cambiar la forma de comprender la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cristal-tiempo-3270404.jpg?tf=1200x' alt='Los cristales del tiempo podrían cambiar la forma de comprender la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/investigadores-desvelan-esperanza-vida-ha-aumentado-todo-mundo-1362495'>Investigadores desvelan que la brecha de longevidad entre hombres y mujeres se ha reducido en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciencia/investigadores-desvelan-esperanza-vida-ha-aumentado-todo-mundo-1362495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/investigadores-desvelan-brecha-longevidad-hombres-mujeres-ha-reducido-todo-mundo-3270652.jpg?tf=1200x' alt='Investigadores desvelan que la brecha de longevidad entre hombres y mujeres se ha reducido en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365'>China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink</a></h4>
-    <a href='https://computerhoy.com/tecnologia/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-1362365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/china-declara-competencia-elon-musk-tendra-chips-cerebrales-2025-3270375.jpg?tf=1200x' alt='China ya prepara sus primeros chips cerebrales para competir con Elon Musk y Neuralink' />
     </a>
 </div>
 
