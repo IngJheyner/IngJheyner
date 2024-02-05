@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-watch-call-3270221.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289'>¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270235.jpg?tf=1200x' alt='¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966'>Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/olla-electrica-tambien-air-fryer-aparato-hace-casi-todo-oferta-1361966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ninja-foodi-7-1-3269733.jpg?tf=1200x' alt='Olla eléctrica y también Air Fryer: este aparato lo hace casi todo y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270'>Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/empresa-pierde-25-millones-euros-porque-deepfake-directivos-ordeno-transferir-dinero-3270206.jpg?tf=1200x' alt='Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero' />
     </a>
 </div>
 
