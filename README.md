@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587'>Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-1362534'>8 errores que arruinan tus presentaciones de PowerPoint y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/apps/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-1362534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-3270803.jpg?tf=1200x' alt='8 errores que arruinan tus presentaciones de PowerPoint y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/llega-windows-11-comando-poderoso-linux-macos-1362585'>Llega a Windows 11 el comando más poderoso de Linux y macOS</a></h4>
+    <a href='https://computerhoy.com/windows/llega-windows-11-comando-poderoso-linux-macos-1362585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3270804.jpg?tf=1200x' alt='Llega a Windows 11 el comando más poderoso de Linux y macOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cena-perfecta-quieres-estar-sano-forma-harvard-1361162'>¿Cómo es la cena perfecta? Expertos de Harvard descubren el secreto si quieres estar sano y en forma</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cena-perfecta-quieres-estar-sano-forma-harvard-1361162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/glotoneria-3270545.jpg?tf=1200x' alt='¿Cómo es la cena perfecta? Expertos de Harvard descubren el secreto si quieres estar sano y en forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564'>Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década</a></h4>
     <a href='https://computerhoy.com/tecnologia/ventas-tablets-2023-1362564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/portada-ipad-2023-3243600.jpg?tf=1200x' alt='Las ventas de tablets en 2023 se desploman a su nivel más bajo desde el estreno del primer iPad, hace más de una década' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisor-smart-tv-escucha-pero-no-ve-soluciones-1362061'>¿Tu Smart TV se escucha, pero no se ve la imagen? Métodos más efectivos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tv/televisor-smart-tv-escucha-pero-no-ve-soluciones-1362061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacer-smart-tv-escucha-pero-no-ve-5-metodos-solucionarlo-3269911.jpg?tf=1200x' alt='¿Tu Smart TV se escucha, pero no se ve la imagen? Métodos más efectivos para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014'>He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas</a></h4>
-    <a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tv-internet-3270559.jpg?tf=1200x' alt='He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320'>Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-cheetah-square-3270261.jpg?tf=1200x' alt='Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362'>Los cristales del tiempo podrían cambiar la forma de comprender la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cristal-tiempo-3270404.jpg?tf=1200x' alt='Los cristales del tiempo podrían cambiar la forma de comprender la ciencia' />
     </a>
 </div>
 
