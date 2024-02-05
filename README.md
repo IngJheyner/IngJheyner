@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277'>AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amd-fabrica-propias-patatas-fritas-taiwan-debido-curiosa-supersticion-3270222.jpg?tf=1200x' alt='AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/roba-tarjeta-microsd-cita-descubre-asesino-serie-1362275'>Una mujer le roba una tarjeta microSD a su cita, y descubre que es un asesino en serie</a></h4>
     <a href='https://computerhoy.com/life/roba-tarjeta-microsd-cita-descubre-asesino-serie-1362275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-roba-tarjeta-micro-sd-cita-descubre-asesino-serie-3270217.jpg?tf=1200x' alt='Una mujer le roba una tarjeta microSD a su cita, y descubre que es un asesino en serie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265'>El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo</a></h4>
     <a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pdf-grande-puedes-crear-ocupa-mitad-alemania-3270201.jpg?tf=1200x' alt='El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543'>Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-precio-saldo-amazon-1360543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sanoto-auriculares-3267212.jpg?tf=1200x' alt='Son la moda más fuerte en Amazon y suman adeptos: los cascos de conducción ósea top ventas bajan de precio' />
     </a>
 </div>
 
