@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329'>Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales</a></h4>
+    <a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mapa-tesoro-iphone-15-3270386.jpg?tf=1200x' alt='Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410'>¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024</a></h4>
     <a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg?tf=1200x' alt='¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300'>Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-barata-dyson-amazon-liquidando-tiene-mucho-exito-1362300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aigostar-willie-3270248.jpg?tf=1200x' alt='Esta es la alternativa barata a las Dyson que Amazon está liquidando y tiene mucho éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352'>Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-lanzar-marzo-actualizacion-ios-174-cargada-novedades-1362352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-ios-174-3270379.jpg?tf=1200x' alt='Apple listo para lanzar en marzo la actualización de iOS 17.4 cargada de novedades y cambios' />
     </a>
 </div>
 
