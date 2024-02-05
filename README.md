@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289'>¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270235.jpg?tf=1200x' alt='¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277'>AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición</a></h4>
     <a href='https://computerhoy.com/tecnologia/amd-microsoft-tsmc-fabrican-aperitivos-taiwan-supersticion-1362277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amd-fabrica-propias-patatas-fritas-taiwan-debido-curiosa-supersticion-3270222.jpg?tf=1200x' alt='AMD, Microsoft y TSMC fabrican sus propios aperitivos en Taiwán, debido a una curiosa superstición' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270'>Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/roban-25-millones-euros-empresa-deepfake-directivos-1362270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/empresa-pierde-25-millones-euros-porque-deepfake-directivos-ordeno-transferir-dinero-3270206.jpg?tf=1200x' alt='Roban 25 millones de euros a una empresa porque un deepfake de sus directivos ordenó transferir el dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265'>El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pdf-mas-grande-puedes-crear-ocupa-mitad-alemania-1362265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pdf-grande-puedes-crear-ocupa-mitad-alemania-3270201.jpg?tf=1200x' alt='El PDF más grande que puedes crear ocupa la mitad de Alemania, pero hay un truco para que cubra todo el universo' />
     </a>
 </div>
 
