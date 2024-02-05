@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392'>Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-fitbit-pero-xiaomi-smartwatch-barato-moda-viene-china-muy-barato-1359392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Como las Fitbit pero de Xiaomi: el smartwatch barato de moda viene de China y es muy barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/esconden-vision-pro-interior-pieza-hardware-compleja-apple-momento-1362335'>Esto es lo que esconden las Vision Pro en su interior: "La pieza de hardware más compleja de Apple hasta el momento"</a></h4>
+    <a href='https://computerhoy.com/apple/esconden-vision-pro-interior-pieza-hardware-compleja-apple-momento-1362335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vision-pro-apple-3270278.jpg?tf=1200x' alt='Esto es lo que esconden las Vision Pro en su interior: "La pieza de hardware más compleja de Apple hasta el momento"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531'>Mejores tablets para leer que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-para-leer-1054531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/huawei-matepad-paper-3066750.jpg?tf=1200x' alt='Mejores tablets para leer que puedes comprar ahora mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490'>Los móviles de menos de 200 euros están en peligro de extinción en España</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-menos-200-euros-peligro-extincion-espana-1360490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/moviles-animales-3267647.jpg?tf=1200x' alt='Los móviles de menos de 200 euros están en peligro de extinción en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/mas-me-ha-gustado-samsung-galaxy-s24-ultra-1361204'>Lo que más me ha gustado del Samsung Galaxy S24 Ultra es algo que nunca pensé que me agradaría: la IA</a></h4>
-    <a href='https://computerhoy.com/moviles/mas-me-ha-gustado-samsung-galaxy-s24-ultra-1361204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267393.jpg?tf=1200x' alt='Lo que más me ha gustado del Samsung Galaxy S24 Ultra es algo que nunca pensé que me agradaría: la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263'>Mejores relojes inteligentes con micrófono para responder llamadas</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-relojes-inteligentes-llamadas-1054263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-watch-call-3270221.jpg?tf=1200x' alt='Mejores relojes inteligentes con micrófono para responder llamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289'>¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-5-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270235.jpg?tf=1200x' alt='¿Qué día es hoy 5 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
     </a>
 </div>
 
