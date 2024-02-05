@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320'>Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-running-prediccion-carrera-amazfit-revienta-sector-oferta-1362320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-cheetah-square-3270261.jpg?tf=1200x' alt='Con IA para running y predicción de carrera: Amazfit revienta el sector con esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362'>Los cristales del tiempo podrían cambiar la forma de comprender la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/son-cristales-tiempo-como-pueden-cambiar-ciencia-1362362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cristal-tiempo-3270404.jpg?tf=1200x' alt='Los cristales del tiempo podrían cambiar la forma de comprender la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/investigadores-desvelan-esperanza-vida-ha-aumentado-todo-mundo-1362495'>Investigadores desvelan que la brecha de longevidad entre hombres y mujeres se ha reducido en todo el mundo</a></h4>
     <a href='https://computerhoy.com/ciencia/investigadores-desvelan-esperanza-vida-ha-aumentado-todo-mundo-1362495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/investigadores-desvelan-brecha-longevidad-hombres-mujeres-ha-reducido-todo-mundo-3270652.jpg?tf=1200x' alt='Investigadores desvelan que la brecha de longevidad entre hombres y mujeres se ha reducido en todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412'>¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia</a></h4>
     <a href='https://computerhoy.com/ciencia/sirven-pruebas-coeficiente-intelectual-1362412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-inteligencia-3270480.jpg?tf=1200x' alt='¿Es tan importante el coeficiente intelectual como hacen creer en los colegios? La realidad detrás de las pruebas de inteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329'>Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales</a></h4>
-    <a href='https://computerhoy.com/apple/explicacion-pegatinas-usa-apple-algunos-iphone-1362329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mapa-tesoro-iphone-15-3270386.jpg?tf=1200x' alt='Comienza la búsqueda del tesoro: Apple está colocando pegatinas en algunos iPhone con características especiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410'>¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024</a></h4>
-    <a href='https://computerhoy.com/moviles/smartphone-triple-pantalla-plegable-huawei-podria-lanzarlo-2024-1362410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/huawei-pocket-s-ya-oficial-movil-plegable-barato-huawei-2861213.jpg?tf=1200x' alt='¿Un smartphone con triple pantalla plegable? Huawei podría lanzarlo este 2024' />
     </a>
 </div>
 
