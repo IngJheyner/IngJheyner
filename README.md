@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808'>Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello</a></h4>
+    <a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chat-gpt-3269434.jpg?tf=1200x' alt='Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-ve-tierra-estacion-espacial-internacional-1362682'>La Tierra como nunca antes la habías visto: fotografías asombrosas tomadas por un astronauta desde la ISS</a></h4>
+    <a href='https://computerhoy.com/espacio/como-ve-tierra-estacion-espacial-internacional-1362682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/astronauta-iss-3270966.jpg?tf=1200x' alt='La Tierra como nunca antes la habías visto: fotografías asombrosas tomadas por un astronauta desde la ISS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306'>Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sennheiser-accentum-wireless-3270250.jpg?tf=1200x' alt='Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509'>Cómo borrar el historial de búsqueda en Instagram</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-borrar-historial-busqueda-instagram-3270855.jpg?tf=1200x' alt='Cómo borrar el historial de búsqueda en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905'>Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-3269917.jpg?tf=1200x' alt='Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419'>La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-guerra-3270928.jpg?tf=1200x' alt='La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-poner-icono-equipo-escritorio-windows-1312788'>Cómo poner el icono "Este equipo" en el escritorio en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/windows/como-poner-icono-equipo-escritorio-windows-1312788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-poner-icono-equipo-escritorio-windows-10-11-3148096.jpg?tf=1200x' alt='Cómo poner el icono "Este equipo" en el escritorio en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-inagotable-carga-solar-garmin-reloj-chollo-no-va-durar-mucho-1362638'>Batería inagotable con carga solar de Garmin: este reloj es un chollo que no va a durar mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-inagotable-carga-solar-garmin-reloj-chollo-no-va-durar-mucho-1362638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-instinct-2x-solar-3270876.jpg?tf=1200x' alt='Batería inagotable con carga solar de Garmin: este reloj es un chollo que no va a durar mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-1352534'>Diferencias entre RGB y ARGB: ¿cuál es la mejor opción para iluminar tu PC Gaming?</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-1352534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-3253631.jpg?tf=1200x' alt='Diferencias entre RGB y ARGB: ¿cuál es la mejor opción para iluminar tu PC Gaming?' />
     </a>
 </div>
 
