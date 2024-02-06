@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880'>Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3271294.jpg?tf=1200x' alt='Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878'>Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-7-3271290.jpg?tf=1200x' alt='Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706'>El telescopio James Webb revela cómo quedan los planetas tras morir su estrella</a></h4>
     <a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-james-webb-revela-como-quedan-planetas-morir-estrella-3270986.jpg?tf=1200x' alt='El telescopio James Webb revela cómo quedan los planetas tras morir su estrella' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521'>La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)</a></h4>
     <a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-mejora-higiene-3269002.jpg?tf=1200x' alt='La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719'>Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada</a></h4>
-    <a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-viendo-television-3271017.jpg?tf=1200x' alt='Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790'>Qué significan las luces en el mando a distancia del Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/significan-luces-mando-distancia-amazon-fire-tv-3271138.jpg?tf=1200x' alt='Qué significan las luces en el mando a distancia del Amazon Fire TV' />
     </a>
 </div>
 
