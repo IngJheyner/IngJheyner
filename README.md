@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905'>Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-3269917.jpg?tf=1200x' alt='Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419'>La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-guerra-3270928.jpg?tf=1200x' alt='La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-1352534'>Diferencias entre RGB y ARGB: ¿cuál es la mejor opción para iluminar tu PC Gaming?</a></h4>
     <a href='https://computerhoy.com/pc/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-1352534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/diferencias-rgb-argb-cual-mejor-iluminar-pc-gaming-3253631.jpg?tf=1200x' alt='Diferencias entre RGB y ARGB: ¿cuál es la mejor opción para iluminar tu PC Gaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340'>Soy analista de tecnología: 5 cosas que debes saber para decidirte entre un Amazon Fire TV Stick y un Chromecast</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-stick-4k-max-google-chromecast-google-tv-3238578.jpg?tf=1200x' alt='Soy analista de tecnología: 5 cosas que debes saber para decidirte entre un Amazon Fire TV Stick y un Chromecast' />
     </a>
 </div>
 
