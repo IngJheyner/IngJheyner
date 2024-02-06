@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437'>Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo</a></h4>
+    <a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-consejos-tienes-tener-cuenta-dormir-mejor-viaje-largo-3270543.jpg?tf=1200x' alt='Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sludge-content-tecnica-engancharte-tiktok-1362466'>Qué es el “sludge content”, la técnica que se usa en TikTok para enganchar a los usuarios</a></h4>
+    <a href='https://computerhoy.com/redes/sludge-content-tecnica-engancharte-tiktok-1362466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiktok-actualiza-normativa-planta-cara-deepfakes-2990214.jpg?tf=1200x' alt='Qué es el “sludge content”, la técnica que se usa en TikTok para enganchar a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646'>Premios Computer Hoy 2023: estos han sido todos los ganadores</a></h4>
     <a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/premios-computerhoy-2023-foto-familia-2950498.jpg?tf=1200x' alt='Premios Computer Hoy 2023: estos han sido todos los ganadores' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/premio-computer-hoy-2023-3271135.jpg?tf=1200x' alt='Premios Computer Hoy 2023: estos han sido todos los ganadores' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509'>Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla</a></h4>
     <a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-cambiar-formato-fecha-hora-windows-11-forma-rapida-sencilla-3270712.jpg?tf=1200x' alt='Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666'>No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/no-caigas-nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-3270931.jpg?tf=1200x' alt='No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808'>Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello</a></h4>
-    <a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chat-gpt-3269434.jpg?tf=1200x' alt='Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello' />
     </a>
 </div>
 
