@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646'>Premios Computer Hoy 2023: estos han sido todos los ganadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/premios-computerhoy-2023-foto-familia-2950498.jpg?tf=1200x' alt='Premios Computer Hoy 2023: estos han sido todos los ganadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-hace-pasar-correo-sepe-infectarte-1362685'>Así es el malware que se hace pasar por un correo del SEPE y que debes borrar en el acto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-hace-pasar-correo-sepe-infectarte-1362685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/malware-hace-pasar-correo-sepe-debes-borrar-acto-3270963.jpg?tf=1200x' alt='Así es el malware que se hace pasar por un correo del SEPE y que debes borrar en el acto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509'>Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla</a></h4>
     <a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-cambiar-formato-fecha-hora-windows-11-forma-rapida-sencilla-3270712.jpg?tf=1200x' alt='Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808'>Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello</a></h4>
     <a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chat-gpt-3269434.jpg?tf=1200x' alt='Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-ve-tierra-estacion-espacial-internacional-1362682'>La Tierra como nunca antes la habías visto: fotografías asombrosas tomadas por un astronauta desde la ISS</a></h4>
-    <a href='https://computerhoy.com/espacio/como-ve-tierra-estacion-espacial-internacional-1362682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/astronauta-iss-3270966.jpg?tf=1200x' alt='La Tierra como nunca antes la habías visto: fotografías asombrosas tomadas por un astronauta desde la ISS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306'>Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sennheiser-accentum-wireless-3270250.jpg?tf=1200x' alt='Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible' />
     </a>
 </div>
 
