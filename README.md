@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509'>Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla</a></h4>
+    <a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-cambiar-formato-fecha-hora-windows-11-forma-rapida-sencilla-3270712.jpg?tf=1200x' alt='Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666'>No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/no-caigas-nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-3270931.jpg?tf=1200x' alt='No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306'>Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-sennheiser-presumen-bateria-anc-tienen-precio-muy-asequible-1362306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sennheiser-accentum-wireless-3270250.jpg?tf=1200x' alt='Estos Sennheiser presumen de batería y ANC, y tienen un precio muy asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509'>Cómo borrar el historial de búsqueda en Instagram</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-borrar-historial-busqueda-instagram-3270855.jpg?tf=1200x' alt='Cómo borrar el historial de búsqueda en Instagram' />
     </a>
 </div>
 
