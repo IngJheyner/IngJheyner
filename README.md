@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-oculto-google-maps-deberias-activar-ahora-mismo-1362620'>El truco oculto de Google Maps que te ayudará a no perderte jamás y que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/truco-oculto-google-maps-deberias-activar-ahora-mismo-1362620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-google-maps-te-ayudara-no-perderte-jamas-deberias-activar-ahora-mismo-3270851.jpg?tf=1200x' alt='El truco oculto de Google Maps que te ayudará a no perderte jamás y que deberías activar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-1362617'>Así puedes transformar Windows 11 en Windows 7 con un solo comando y sin instalar nada</a></h4>
     <a href='https://computerhoy.com/windows/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-1362617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-3270849.jpg?tf=1200x' alt='Así puedes transformar Windows 11 en Windows 7 con un solo comando y sin instalar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520'>Los auriculares más top de Bose están por fin rebajados </a></h4>
     <a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-ultra-3270669.jpg?tf=1200x' alt='Los auriculares más top de Bose están por fin rebajados ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587'>Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años' />
     </a>
 </div>
 
