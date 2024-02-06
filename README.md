@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706'>El telescopio James Webb revela cómo quedan los planetas tras morir su estrella</a></h4>
+    <a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-james-webb-revela-como-quedan-planetas-morir-estrella-3270986.jpg?tf=1200x' alt='El telescopio James Webb revela cómo quedan los planetas tras morir su estrella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822'>Liquidación en auriculares: 5 modelos muy top a precios de escándalo</a></h4>
     <a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-quietconfort-ultra-3271140.jpg?tf=1200x' alt='Liquidación en auriculares: 5 modelos muy top a precios de escándalo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790'>Qué significan las luces en el mando a distancia del Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/significan-luces-mando-distancia-amazon-fire-tv-3271138.jpg?tf=1200x' alt='Qué significan las luces en el mando a distancia del Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437'>Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo</a></h4>
-    <a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-consejos-tienes-tener-cuenta-dormir-mejor-viaje-largo-3270543.jpg?tf=1200x' alt='Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo' />
     </a>
 </div>
 
