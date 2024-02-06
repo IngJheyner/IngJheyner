@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719'>Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada</a></h4>
+    <a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-viendo-television-3271017.jpg?tf=1200x' alt='Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790'>Qué significan las luces en el mando a distancia del Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/significan-luces-mando-distancia-amazon-fire-tv-1362790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/significan-luces-mando-distancia-amazon-fire-tv-3271138.jpg?tf=1200x' alt='Qué significan las luces en el mando a distancia del Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437'>Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo</a></h4>
     <a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-consejos-tienes-tener-cuenta-dormir-mejor-viaje-largo-3270543.jpg?tf=1200x' alt='Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646'>Premios Computer Hoy 2023: estos han sido todos los ganadores</a></h4>
     <a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/premio-computer-hoy-2023-3271135.jpg?tf=1200x' alt='Premios Computer Hoy 2023: estos han sido todos los ganadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-hace-pasar-correo-sepe-infectarte-1362685'>Así es el malware que se hace pasar por un correo del SEPE y que debes borrar en el acto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-hace-pasar-correo-sepe-infectarte-1362685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/malware-hace-pasar-correo-sepe-debes-borrar-acto-3270963.jpg?tf=1200x' alt='Así es el malware que se hace pasar por un correo del SEPE y que debes borrar en el acto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509'>Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla</a></h4>
-    <a href='https://computerhoy.com/windows/como-cambiar-formato-fecha-hora-windows-11-1362509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-cambiar-formato-fecha-hora-windows-11-forma-rapida-sencilla-3270712.jpg?tf=1200x' alt='Cómo cambiar el formato de fecha y hora en Windows 11 de forma rápida y sencilla' />
     </a>
 </div>
 
