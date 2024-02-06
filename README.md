@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822'>Liquidación en auriculares: 5 modelos muy top a precios de escándalo</a></h4>
+    <a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-quietconfort-ultra-3271140.jpg?tf=1200x' alt='Liquidación en auriculares: 5 modelos muy top a precios de escándalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521'>La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)</a></h4>
+    <a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-mejora-higiene-3269002.jpg?tf=1200x' alt='La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719'>Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada</a></h4>
     <a href='https://computerhoy.com/tv/cuales-son-canales-rtve-no-veran-madrugada-1362719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-viendo-television-3271017.jpg?tf=1200x' alt='Se adelanta el apagón de la TDT: los canales de RTVE que no podrás ver desde esta madrugada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437'>Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo</a></h4>
     <a href='https://computerhoy.com/life/5-consejos-dormir-mejor-viaje-largo-avion-1362437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-consejos-tienes-tener-cuenta-dormir-mejor-viaje-largo-3270543.jpg?tf=1200x' alt='Los 5 consejos que tienes que tener en cuenta para dormir mejor en un viaje largo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sludge-content-tecnica-engancharte-tiktok-1362466'>Qué es el “sludge content”, la técnica que se usa en TikTok para enganchar a los usuarios</a></h4>
-    <a href='https://computerhoy.com/redes/sludge-content-tecnica-engancharte-tiktok-1362466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/tiktok-actualiza-normativa-planta-cara-deepfakes-2990214.jpg?tf=1200x' alt='Qué es el “sludge content”, la técnica que se usa en TikTok para enganchar a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646'>Premios Computer Hoy 2023: estos han sido todos los ganadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/premios-computer-hoy-2023-estos-han-sido-todos-ganadores-1362646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/premio-computer-hoy-2023-3271135.jpg?tf=1200x' alt='Premios Computer Hoy 2023: estos han sido todos los ganadores' />
     </a>
 </div>
 
