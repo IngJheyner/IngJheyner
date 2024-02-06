@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-1362617'>Así puedes transformar Windows 11 en Windows 7 con un solo comando y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/windows/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-1362617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-transformar-windows-11-windows-7-solo-comando-instalar-nada-3270849.jpg?tf=1200x' alt='Así puedes transformar Windows 11 en Windows 7 con un solo comando y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-1362619'>Los cangrejos ermitaños están cambiando las conchas por residuos plásticos, y eso es un problema</a></h4>
+    <a href='https://computerhoy.com/ciencia/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-1362619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-eso-problema-3270839.jpg?tf=1200x' alt='Los cangrejos ermitaños están cambiando las conchas por residuos plásticos, y eso es un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/startup-gana-80000-euros-dia-reciclaje-basura-electronica-1362602'>La nueva fiebre del oro no está en las minas, sino en la basura: hasta 80.000 euros de ganancia al día</a></h4>
     <a href='https://computerhoy.com/tecnologia/startup-gana-80000-euros-dia-reciclaje-basura-electronica-1362602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/startup-gana-80000-euros-mes-extrayendo-oro-cobre-dispositivos-tiramos-basura-3270798.jpg?tf=1200x' alt='La nueva fiebre del oro no está en las minas, sino en la basura: hasta 80.000 euros de ganancia al día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587'>Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-modificara-elemento-visual-windows-obsoleto-13-anos-1362587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Microsoft modificará un elemento visual de Windows obsoleto tras más de 13 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-1362534'>8 errores que arruinan tus presentaciones de PowerPoint y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/apps/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-1362534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-errores-arruinan-presentaciones-powerpoint-como-evitarlos-3270803.jpg?tf=1200x' alt='8 errores que arruinan tus presentaciones de PowerPoint y cómo evitarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/llega-windows-11-comando-poderoso-linux-macos-1362585'>Llega a Windows 11 el comando más poderoso de Linux y macOS</a></h4>
-    <a href='https://computerhoy.com/windows/llega-windows-11-comando-poderoso-linux-macos-1362585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3270804.jpg?tf=1200x' alt='Llega a Windows 11 el comando más poderoso de Linux y macOS' />
     </a>
 </div>
 
