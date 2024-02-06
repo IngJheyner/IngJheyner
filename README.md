@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666'>No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-1362666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/no-caigas-nueva-estafa-te-promete-regalos-nombre-operadora-telefonica-3270931.jpg?tf=1200x' alt='No caigas: la nueva estafa que te promete regalos en nombre de esta operadora telefónica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808'>Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello</a></h4>
     <a href='https://computerhoy.com/tecnologia/formas-utilizar-gratis-gpt-4-inteligencia-artificial-chatgpt-1361808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chat-gpt-3269434.jpg?tf=1200x' alt='Utilizo todos los días GPT-4, la inteligencia artificial de ChatGPT, pero nunca he gastado un euro por ello' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509'>Cómo borrar el historial de búsqueda en Instagram</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/como-borrar-historial-busqueda-instagram-998509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-borrar-historial-busqueda-instagram-3270855.jpg?tf=1200x' alt='Cómo borrar el historial de búsqueda en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905'>Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-768905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sencillo-truco-podras-averiguar-contrasena-wifi-casa-cualquiera-3269917.jpg?tf=1200x' alt='Con este sencillo truco podrás averiguar la contraseña del WiFi de tu casa… o de cualquiera' />
     </a>
 </div>
 
