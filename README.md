@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-diadema-cuales-son-mejores-puedes-comprar-1362580'>Auriculares de diadema: cuáles son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-diadema-cuales-son-mejores-puedes-comprar-1362580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Auriculares de diadema: cuáles son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/seis-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362625'>¿Qué día es hoy 6 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/seis-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-6-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3270862.jpg?tf=1200x' alt='¿Qué día es hoy 6 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/truco-oculto-google-maps-deberias-activar-ahora-mismo-1362620'>El truco oculto de Google Maps que te ayudará a no perderte jamás y que deberías activar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/truco-oculto-google-maps-deberias-activar-ahora-mismo-1362620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-google-maps-te-ayudara-no-perderte-jamas-deberias-activar-ahora-mismo-3270851.jpg?tf=1200x' alt='El truco oculto de Google Maps que te ayudará a no perderte jamás y que deberías activar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-1362619'>Los cangrejos ermitaños están cambiando las conchas por residuos plásticos, y eso es un problema</a></h4>
     <a href='https://computerhoy.com/ciencia/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-1362619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cangrejos-ermitanos-estan-cambiando-conchas-residuos-plasticos-eso-problema-3270839.jpg?tf=1200x' alt='Los cangrejos ermitaños están cambiando las conchas por residuos plásticos, y eso es un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/startup-gana-80000-euros-dia-reciclaje-basura-electronica-1362602'>La nueva fiebre del oro no está en las minas, sino en la basura: hasta 80.000 euros de ganancia al día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/startup-gana-80000-euros-dia-reciclaje-basura-electronica-1362602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/startup-gana-80000-euros-mes-extrayendo-oro-cobre-dispositivos-tiramos-basura-3270798.jpg?tf=1200x' alt='La nueva fiebre del oro no está en las minas, sino en la basura: hasta 80.000 euros de ganancia al día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520'>Los auriculares más top de Bose están por fin rebajados </a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-top-bose-estan-fin-rebajados-1362520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-ultra-3270669.jpg?tf=1200x' alt='Los auriculares más top de Bose están por fin rebajados ' />
     </a>
 </div>
 
