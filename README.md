@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/cecotec-lia-revienta-sector-bicicletas-electricas-vende-tres-modelos-precio-ganga-1362660'>Cecotec la lía y revienta el sector de las bicicletas eléctricas: vende tres modelos a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/motor/cecotec-lia-revienta-sector-bicicletas-electricas-vende-tres-modelos-precio-ganga-1362660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cecotec-xplore-3270927.jpg?tf=1200x' alt='Cecotec la lía y revienta el sector de las bicicletas eléctricas: vende tres modelos a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880'>Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3271294.jpg?tf=1200x' alt='Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822'>Liquidación en auriculares: 5 modelos muy top a precios de escándalo</a></h4>
     <a href='https://computerhoy.com/audio/liquidacion-auriculares-5-modelos-muy-top-precios-escandalo-1362822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-quietconfort-ultra-3271140.jpg?tf=1200x' alt='Liquidación en auriculares: 5 modelos muy top a precios de escándalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521'>La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)</a></h4>
-    <a href='https://computerhoy.com/life/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-1361521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/costumbre-japonesa-todo-mundo-deberia-hacer-nada-entrar-casa-mejora-higiene-3269002.jpg?tf=1200x' alt='La costumbre japonesa que todo el mundo debería hacer nada más entrar en casa (y mejora la higiene)' />
     </a>
 </div>
 
