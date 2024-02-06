@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419'>La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-decantaria-uso-violencia-caso-guerra-1362419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-guerra-3270928.jpg?tf=1200x' alt='La inteligencia artificial elegiría la vía más violenta en caso de tener que decidir en una guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-poner-icono-equipo-escritorio-windows-1312788'>Cómo poner el icono "Este equipo" en el escritorio en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/windows/como-poner-icono-equipo-escritorio-windows-1312788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/como-poner-icono-equipo-escritorio-windows-10-11-3148096.jpg?tf=1200x' alt='Cómo poner el icono "Este equipo" en el escritorio en Windows 10 y 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340'>Soy analista de tecnología: 5 cosas que debes saber para decidirte entre un Amazon Fire TV Stick y un Chromecast</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-stick-4k-max-google-chromecast-google-tv-3238578.jpg?tf=1200x' alt='Soy analista de tecnología: 5 cosas que debes saber para decidirte entre un Amazon Fire TV Stick y un Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-diadema-cuales-son-mejores-puedes-comprar-1362580'>Auriculares de diadema: cuáles son los mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-diadema-cuales-son-mejores-puedes-comprar-1362580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Auriculares de diadema: cuáles son los mejores que puedes comprar' />
     </a>
 </div>
 
