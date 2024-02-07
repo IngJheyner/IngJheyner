@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884'>¿Por qué los ríos forman meandros en lugar de seguir una línea recta?</a></h4>
+    <a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-razon-arroyos-rios-no-son-rectos-3271316.jpg?tf=1200x' alt='¿Por qué los ríos forman meandros en lugar de seguir una línea recta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798'>Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramienta-plagio-ia-plag-inteligencia-artificial-3250998.jpg?tf=1200x' alt='Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862'>Monitores portátiles: qué tipos hay y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/monitor-portatil-3271328.jpg?tf=1200x' alt='Monitores portátiles: qué tipos hay y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940'>¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-7-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3271420.jpg?tf=1200x' alt='¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932'>OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco</a></h4>
     <a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-malware-1362917'>Primer ataque DDoS usando tres millones de cepillos de dientes inteligentes con malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-malware-1362917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-inteligentes-malware-3271325.jpg?tf=1200x' alt='Primer ataque DDoS usando tres millones de cepillos de dientes inteligentes con malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/cecotec-lia-revienta-sector-bicicletas-electricas-vende-tres-modelos-precio-ganga-1362660'>Cecotec la lía y revienta el sector de las bicicletas eléctricas: vende tres modelos a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/motor/cecotec-lia-revienta-sector-bicicletas-electricas-vende-tres-modelos-precio-ganga-1362660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cecotec-xplore-3270927.jpg?tf=1200x' alt='Cecotec la lía y revienta el sector de las bicicletas eléctricas: vende tres modelos a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880'>Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3271294.jpg?tf=1200x' alt='Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11' />
     </a>
 </div>
 
