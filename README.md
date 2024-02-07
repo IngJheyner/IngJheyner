@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238'>Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca</a></h4>
+    <a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-algunos-mini-pc-venden-amazon-tiene-malware-fabrica-ojo-marca-3271836.jpg?tf=1200x' alt='Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208'>Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas</a></h4>
     <a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/van-cambiar-nombre-152-aves-porque-estan-basados-personas-incluyendo-racistas-esclavistas-3271819.jpg?tf=1200x' alt='Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203'>La IA descifra un mensaje oculto en un pergamino de hace 2.000 años</a></h4>
     <a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pergamino-herculano-3271826.jpg?tf=1200x' alt='La IA descifra un mensaje oculto en un pergamino de hace 2.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202'>La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático</a></h4>
-    <a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/retrovisor-roto-3271822.jpg?tf=1200x' alt='La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático' />
     </a>
 </div>
 
