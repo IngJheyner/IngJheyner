@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820'>Cómo conducir un coche o volar en avión en Google Maps</a></h4>
+    <a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-conducir-coche-volar-avion-google-maps-3271244.jpg?tf=1200x' alt='Cómo conducir un coche o volar en avión en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837'>El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-f5-pro-5g-3267717.jpg?tf=1200x' alt='El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884'>¿Por qué los ríos forman meandros en lugar de seguir una línea recta?</a></h4>
     <a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-razon-arroyos-rios-no-son-rectos-3271316.jpg?tf=1200x' alt='¿Por qué los ríos forman meandros en lugar de seguir una línea recta?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862'>Monitores portátiles: qué tipos hay y cuáles son los mejores</a></h4>
     <a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/monitor-portatil-3271328.jpg?tf=1200x' alt='Monitores portátiles: qué tipos hay y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940'>¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-7-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3271420.jpg?tf=1200x' alt='¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932'>OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco</a></h4>
-    <a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco' />
     </a>
 </div>
 
