@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981'>Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla</a></h4>
+    <a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-revienta-precio-auriculares-top-plateados-sonido-hi-res-1362340'>Huawei revienta el precio de sus auriculares más top: plateados y con sonido Hi-Res</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-revienta-precio-auriculares-top-plateados-sonido-hi-res-1362340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-freebuds-pro-3-3266936.jpg?tf=1200x' alt='Huawei revienta el precio de sus auriculares más top: plateados y con sonido Hi-Res' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966'>Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837'>El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-f5-pro-5g-3267717.jpg?tf=1200x' alt='El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884'>¿Por qué los ríos forman meandros en lugar de seguir una línea recta?</a></h4>
-    <a href='https://computerhoy.com/ciencia/sorprendente-razon-arroyos-rios-no-son-rectos-1362884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-razon-arroyos-rios-no-son-rectos-3271316.jpg?tf=1200x' alt='¿Por qué los ríos forman meandros en lugar de seguir una línea recta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798'>Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramienta-plagio-ia-plag-inteligencia-artificial-3250998.jpg?tf=1200x' alt='Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa' />
     </a>
 </div>
 
