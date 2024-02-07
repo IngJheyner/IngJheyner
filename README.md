@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111'>Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vuelve-actividad-mayores-redes-iptv-futbol-gratis-1363185'>Vuelve a la actividad una de las mayores redes de IPTV y fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vuelve-actividad-mayores-redes-iptv-futbol-gratis-1363185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelve-actividad-mayores-redes-iptv-futbol-gratis-3271857.jpg?tf=1200x' alt='Vuelve a la actividad una de las mayores redes de IPTV y fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238'>Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca</a></h4>
     <a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-algunos-mini-pc-venden-amazon-tiene-malware-fabrica-ojo-marca-3271836.jpg?tf=1200x' alt='Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992'>The Arcade: el juego gratis de Google para aprender inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arcade-conoce-juego-google-aprender-inteligencia-artificial-3271510.jpg?tf=1200x' alt='The Arcade: el juego gratis de Google para aprender inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-1363158'>Sospechan que Flipper Zero podría estar involucrado en el robo de coches de gama alta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-1363158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-3271829.jpg?tf=1200x' alt='Sospechan que Flipper Zero podría estar involucrado en el robo de coches de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203'>La IA descifra un mensaje oculto en un pergamino de hace 2.000 años</a></h4>
-    <a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pergamino-herculano-3271826.jpg?tf=1200x' alt='La IA descifra un mensaje oculto en un pergamino de hace 2.000 años' />
     </a>
 </div>
 
