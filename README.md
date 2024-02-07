@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853'>El Realme C67 llega con cámara, pantalla y precio como principales claves</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/realme-c67-3271255.jpg?tf=1200x' alt='El Realme C67 llega con cámara, pantalla y precio como principales claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/informe-revela-te-pueden-estar-dando-gato-liebre-memorias-usb-tarjetas-microsd-falsas-1363036'>Un informe revela que te pueden estar dando gato por liebre con memorias USB y tarjetas microSD falsas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/informe-revela-te-pueden-estar-dando-gato-liebre-memorias-usb-tarjetas-microsd-falsas-1363036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/memoria-usb-3271593.jpg?tf=1200x' alt='Un informe revela que te pueden estar dando gato por liebre con memorias USB y tarjetas microSD falsas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977'>Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente</a></h4>
     <a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aspirador-led-philips-3271494.jpg?tf=1200x' alt='Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999'>WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-dma-ue-3271538.jpg?tf=1200x' alt='WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/satya-nadella-una-decada-ceo-microsoft-1363004'>Ni Tim Cook ni Elon Musk: el CEO estrella es Satya Nadella, que ha multiplicado por diez el valor de Microsoft</a></h4>
-    <a href='https://computerhoy.com/tecnologia/satya-nadella-una-decada-ceo-microsoft-1363004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ni-tim-cook-ni-elon-musk-ceo-estrella-satya-nadella-ha-multiplicado-10-valor-microsoft-3271410.jpg?tf=1200x' alt='Ni Tim Cook ni Elon Musk: el CEO estrella es Satya Nadella, que ha multiplicado por diez el valor de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981'>Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla</a></h4>
-    <a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla' />
     </a>
 </div>
 
