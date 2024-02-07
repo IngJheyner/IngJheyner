@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932'>OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco</a></h4>
+    <a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-malware-1362917'>Primer ataque DDoS usando tres millones de cepillos de dientes inteligentes con malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-malware-1362917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primer-ataque-ddos-usando-tres-millones-cepillos-dientes-inteligentes-malware-3271325.jpg?tf=1200x' alt='Primer ataque DDoS usando tres millones de cepillos de dientes inteligentes con malware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878'>Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-7-3271290.jpg?tf=1200x' alt='Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706'>El telescopio James Webb revela cómo quedan los planetas tras morir su estrella</a></h4>
-    <a href='https://computerhoy.com/ciencia/james-webb-revela-como-quedan-planetas-morir-estrella-1362706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-james-webb-revela-como-quedan-planetas-morir-estrella-3270986.jpg?tf=1200x' alt='El telescopio James Webb revela cómo quedan los planetas tras morir su estrella' />
     </a>
 </div>
 
