@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940'>¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/siete-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1362940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-7-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3271420.jpg?tf=1200x' alt='¿Qué día es hoy 7 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932'>OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco</a></h4>
     <a href='https://computerhoy.com/moviles/7-anos-actualizaciones-movil-samsung-google-tiene-truco-oneplus-1362932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/oneplus-12-3241804.jpg?tf=1200x' alt='OnePlus explica por qué los 7 años de actualizaciones de Samsung y Google tiene truco' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880'>Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-molesta-usuarios-windows-10-actualicen-ya-mismo-windows-11-1362880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3271294.jpg?tf=1200x' alt='Microsoft "molesta" a los usuarios de Windows 10 para que se actualicen ya mismo a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878'>Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/sencillo-comando-puedes-regresar-tiempos-windows-7-actual-windows-11-1362878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-7-3271290.jpg?tf=1200x' alt='Con este sencillo comando puedes regresar a los tiempos de Windows 7 en tu actual Windows 11' />
     </a>
 </div>
 
