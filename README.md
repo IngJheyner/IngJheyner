@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977'>Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aspirador-led-philips-3271494.jpg?tf=1200x' alt='Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999'>WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-dma-ue-3271538.jpg?tf=1200x' alt='WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/satya-nadella-una-decada-ceo-microsoft-1363004'>Ni Tim Cook ni Elon Musk: el CEO estrella es Satya Nadella, que ha multiplicado por diez el valor de Microsoft</a></h4>
+    <a href='https://computerhoy.com/tecnologia/satya-nadella-una-decada-ceo-microsoft-1363004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ni-tim-cook-ni-elon-musk-ceo-estrella-satya-nadella-ha-multiplicado-10-valor-microsoft-3271410.jpg?tf=1200x' alt='Ni Tim Cook ni Elon Musk: el CEO estrella es Satya Nadella, que ha multiplicado por diez el valor de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981'>Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla</a></h4>
     <a href='https://computerhoy.com/apple/cuidado-olvidas-contrasena-apple-vision-pro-porque-podria-convertirse-pesadilla-1362981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Cuidado si olvidas la contraseña de tus Apple Vision Pro porque podría convertirse en una pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-revienta-precio-auriculares-top-plateados-sonido-hi-res-1362340'>Huawei revienta el precio de sus auriculares más top: plateados y con sonido Hi-Res</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-revienta-precio-auriculares-top-plateados-sonido-hi-res-1362340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huawei-freebuds-pro-3-3266936.jpg?tf=1200x' alt='Huawei revienta el precio de sus auriculares más top: plateados y con sonido Hi-Res' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966'>Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820'>Cómo conducir un coche o volar en avión en Google Maps</a></h4>
-    <a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-conducir-coche-volar-avion-google-maps-3271244.jpg?tf=1200x' alt='Cómo conducir un coche o volar en avión en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837'>El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-canon-poco-hunde-precio-aliexpress-deja-amazon-fuera-juego-rebaja-1360837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-f5-pro-5g-3267717.jpg?tf=1200x' alt='El móvil más cañón de POCO hunde su precio: AliExpress deja a Amazon en fuera de juego con esta rebaja' />
     </a>
 </div>
 
