@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208'>Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas</a></h4>
+    <a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/van-cambiar-nombre-152-aves-porque-estan-basados-personas-incluyendo-racistas-esclavistas-3271819.jpg?tf=1200x' alt='Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992'>The Arcade: el juego gratis de Google para aprender inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arcade-conoce-juego-google-aprender-inteligencia-artificial-3271510.jpg?tf=1200x' alt='The Arcade: el juego gratis de Google para aprender inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-1363158'>Sospechan que Flipper Zero podría estar involucrado en el robo de coches de gama alta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-1363158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sospechan-flipper-zero-podria-estar-involucrado-robo-coches-gama-alta-3271829.jpg?tf=1200x' alt='Sospechan que Flipper Zero podría estar involucrado en el robo de coches de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203'>La IA descifra un mensaje oculto en un pergamino de hace 2.000 años</a></h4>
     <a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pergamino-herculano-3271826.jpg?tf=1200x' alt='La IA descifra un mensaje oculto en un pergamino de hace 2.000 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202'>La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático</a></h4>
     <a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/retrovisor-roto-3271822.jpg?tf=1200x' alt='La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciones-utiles-chatgpt-no-conocias-deberias-usar-1362931'>Funciones sorprendentemente útiles de ChatGPT que quizás no conoces y que deberías usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciones-utiles-chatgpt-no-conocias-deberias-usar-1362931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-funciones-utiles-chatgpt-quizas-no-conoces-deberias-usar-ahora-mismo-3271411.jpg?tf=1200x' alt='Funciones sorprendentemente útiles de ChatGPT que quizás no conoces y que deberías usar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-unite-reloj-deportivo-muy-barato-compite-garmin-1362986'>El reloj deportivo minimalista más barato de Polar, un ataque directo a los Garmin a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-unite-reloj-deportivo-muy-barato-compite-garmin-1362986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/polar-unite-3271499.jpg?tf=1200x' alt='El reloj deportivo minimalista más barato de Polar, un ataque directo a los Garmin a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925'>Así puedes comprobar si el disco SSD de tu ordenador tiene algún problema en Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprobar-estado-ssd-ordenador-windows-11-3271399.jpg?tf=1200x' alt='Así puedes comprobar si el disco SSD de tu ordenador tiene algún problema en Windows 11' />
     </a>
 </div>
 
