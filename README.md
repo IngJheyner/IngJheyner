@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264'>Cómo nos engañan las eléctricas en las facturas</a></h4>
+    <a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-nos-enganan-electricas-facturas-3271412.jpg?tf=1200x' alt='Cómo nos engañan las eléctricas en las facturas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/android-auto-estrena-apps-esperadas-funcionalidad-unica-1363067'>Llega a Android Auto una de las apps más esperadas con una funcionalidad única</a></h4>
     <a href='https://computerhoy.com/motor/android-auto-estrena-apps-esperadas-funcionalidad-unica-1363067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='Llega a Android Auto una de las apps más esperadas con una funcionalidad única' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/te-preocupa-radiacion-emite-movil-entonces-elige-estos-20-smartphones-no-1363062'>¿Te preocupa la radiación que emite tu móvil? Entonces elige uno de estos 20 smartphones, o no</a></h4>
     <a href='https://computerhoy.com/moviles/te-preocupa-radiacion-emite-movil-entonces-elige-estos-20-smartphones-no-1363062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/radiacion-moviles-3271613.jpg?tf=1200x' alt='¿Te preocupa la radiación que emite tu móvil? Entonces elige uno de estos 20 smartphones, o no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853'>El Realme C67 llega con cámara, pantalla y precio como principales claves</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/realme-c67-3271255.jpg?tf=1200x' alt='El Realme C67 llega con cámara, pantalla y precio como principales claves' />
     </a>
 </div>
 
