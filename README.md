@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-anade-importante-mejora-android-ya-existia-iphone-1362971'>Google Maps añade una función para Android que ya disfrutaban los usuarios de iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-anade-importante-mejora-android-ya-existia-iphone-1362971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-google-maps-localizar-rastrear-amigos-familiares-3250508.jpg?tf=1200x' alt='Google Maps añade una función para Android que ya disfrutaban los usuarios de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/te-preocupa-radiacion-emite-movil-entonces-elige-estos-20-smartphones-no-1363062'>¿Te preocupa la radiación que emite tu móvil? Entonces elige uno de estos 20 smartphones, o no</a></h4>
+    <a href='https://computerhoy.com/moviles/te-preocupa-radiacion-emite-movil-entonces-elige-estos-20-smartphones-no-1363062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/radiacion-moviles-3271613.jpg?tf=1200x' alt='¿Te preocupa la radiación que emite tu móvil? Entonces elige uno de estos 20 smartphones, o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853'>El Realme C67 llega con cámara, pantalla y precio como principales claves</a></h4>
     <a href='https://computerhoy.com/moviles/realme-c67-llega-camara-pantalla-precio-como-claves-1362853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/realme-c67-3271255.jpg?tf=1200x' alt='El Realme C67 llega con cámara, pantalla y precio como principales claves' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977'>Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente</a></h4>
     <a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aspirador-led-philips-3271494.jpg?tf=1200x' alt='Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999'>WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-abre-puertas-pronto-permitira-interoperabilidad-otras-apps-como-signal-1362999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-dma-ue-3271538.jpg?tf=1200x' alt='WhatsApp abre sus puertas y permitirá que te aparezcan mensajes de otras apps como Signal' />
     </a>
 </div>
 
