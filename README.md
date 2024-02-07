@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203'>La IA descifra un mensaje oculto en un pergamino de hace 2.000 años</a></h4>
+    <a href='https://computerhoy.com/life/ia-descifra-mensaje-oculto-pergamino-hace-2000-anos-1363203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pergamino-herculano-3271826.jpg?tf=1200x' alt='La IA descifra un mensaje oculto en un pergamino de hace 2.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202'>La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático</a></h4>
+    <a href='https://computerhoy.com/life/policia-advierte-aumento-casos-estafa-retrovisor-cajero-automatico-1363202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/retrovisor-roto-3271822.jpg?tf=1200x' alt='La Policía advierte de un aumento de casos de la estafa del retrovisor y el cajero automático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciones-utiles-chatgpt-no-conocias-deberias-usar-1362931'>Funciones sorprendentemente útiles de ChatGPT que quizás no conoces y que deberías usar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciones-utiles-chatgpt-no-conocias-deberias-usar-1362931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/8-funciones-utiles-chatgpt-quizas-no-conoces-deberias-usar-ahora-mismo-3271411.jpg?tf=1200x' alt='Funciones sorprendentemente útiles de ChatGPT que quizás no conoces y que deberías usar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/polar-unite-reloj-deportivo-muy-barato-compite-garmin-1362986'>El reloj deportivo minimalista más barato de Polar, un ataque directo a los Garmin a precio de derribo</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-unite-reloj-deportivo-muy-barato-compite-garmin-1362986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/polar-unite-3271499.jpg?tf=1200x' alt='El reloj deportivo minimalista más barato de Polar, un ataque directo a los Garmin a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925'>Así puedes comprobar si el disco SSD de tu ordenador tiene algún problema en Windows 11</a></h4>
     <a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprobar-estado-ssd-ordenador-windows-11-3271399.jpg?tf=1200x' alt='Así puedes comprobar si el disco SSD de tu ordenador tiene algún problema en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/activar-proteccion-robo-iphone-1361155'>Qué es y cómo activar la protección en caso de robo de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/activar-proteccion-robo-iphone-1361155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/proteccion-caso-robo-iphone-3268284.jpg?tf=1200x' alt='Qué es y cómo activar la protección en caso de robo de tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264'>Cómo nos engañan las eléctricas en las facturas</a></h4>
-    <a href='https://computerhoy.com/energia/como-nos-enganan-electricas-facturas-1208264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-nos-enganan-electricas-facturas-3271412.jpg?tf=1200x' alt='Cómo nos engañan las eléctricas en las facturas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/android-auto-estrena-apps-esperadas-funcionalidad-unica-1363067'>Llega a Android Auto una de las apps más esperadas con una funcionalidad única</a></h4>
-    <a href='https://computerhoy.com/motor/android-auto-estrena-apps-esperadas-funcionalidad-unica-1363067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='Llega a Android Auto una de las apps más esperadas con una funcionalidad única' />
     </a>
 </div>
 
