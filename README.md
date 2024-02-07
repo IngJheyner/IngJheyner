@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966'>Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-lanza-propia-version-chatgpt-crear-chips-rapido-eficientes-1362966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nvidia-3231818.jpg?tf=1200x' alt='Nvidia lanza su "versión de ChatGPT" para crear GPU y chips mejorados y a la velocidad de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820'>Cómo conducir un coche o volar en avión en Google Maps</a></h4>
     <a href='https://computerhoy.com/internet/como-conducir-coche-volar-avion-google-maps-1362820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-conducir-coche-volar-avion-google-maps-3271244.jpg?tf=1200x' alt='Cómo conducir un coche o volar en avión en Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798'>Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa</a></h4>
     <a href='https://computerhoy.com/tecnologia/pruebo-herramienta-detecta-plagio-chatgpt-mi-experiencia-1349798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/herramienta-plagio-ia-plag-inteligencia-artificial-3250998.jpg?tf=1200x' alt='Pruebo la herramienta que detecta si has plagiado un artículo con ChatGPT, necesaria en la era de la IA generativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862'>Monitores portátiles: qué tipos hay y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/monitores-portatiles-tipos-hay-cuales-son-mejores-1362862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/monitor-portatil-3271328.jpg?tf=1200x' alt='Monitores portátiles: qué tipos hay y cuáles son los mejores' />
     </a>
 </div>
 
