@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diferencia-rabbit-r1-otros-asistentes-ia-1363000'>Qué tiene Rabbit R1para hacer saltar las alarmas en Apple o Google y qué lo hace tan especial frente a otros asistentes con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diferencia-rabbit-r1-otros-asistentes-ia-1363000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3271520.jpg?tf=1200x' alt='Qué tiene Rabbit R1para hacer saltar las alarmas en Apple o Google y qué lo hace tan especial frente a otros asistentes con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-anade-importante-mejora-android-ya-existia-iphone-1362971'>Google Maps añade una función para Android que ya disfrutaban los usuarios de iPhone</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-anade-importante-mejora-android-ya-existia-iphone-1362971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-usar-google-maps-localizar-rastrear-amigos-familiares-3250508.jpg?tf=1200x' alt='Google Maps añade una función para Android que ya disfrutaban los usuarios de iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/informe-revela-te-pueden-estar-dando-gato-liebre-memorias-usb-tarjetas-microsd-falsas-1363036'>Un informe revela que te pueden estar dando gato por liebre con memorias USB y tarjetas microSD falsas</a></h4>
     <a href='https://computerhoy.com/tecnologia/informe-revela-te-pueden-estar-dando-gato-liebre-memorias-usb-tarjetas-microsd-falsas-1363036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/memoria-usb-3271593.jpg?tf=1200x' alt='Un informe revela que te pueden estar dando gato por liebre con memorias USB y tarjetas microSD falsas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977'>Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-tiene-rival-aspirador-philips-luz-sorprendentemente-potente-1362977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aspirador-led-philips-3271494.jpg?tf=1200x' alt='Dyson tiene un rival en este aspirador Philips con luz y sorprendentemente potente' />
     </a>
 </div>
 
