@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023'>Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ingeniero-prompt-consiste-trabajo-futuro-3271561.jpg?tf=1200x' alt='Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-macbook-air-pero-pisa-talones-intel-core-i7-16-gb-ram-precio-locura-1362982'>No es el MacBook Air pero le pisa los talones: Intel Core i7 y 16 GB de RAM a precio de locura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-macbook-air-pero-pisa-talones-intel-core-i7-16-gb-ram-precio-locura-1362982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dell-inspiron-16-5630-3271482.jpg?tf=1200x' alt='No es el MacBook Air pero le pisa los talones: Intel Core i7 y 16 GB de RAM a precio de locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031'>La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio</a></h4>
     <a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-conseguir-cafe-sea-perfecto-electricidad-3254945.jpg?tf=1200x' alt='La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363273'>¿Qué día es hoy 8 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3271915.jpg?tf=1200x' alt='¿Qué día es hoy 8 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tu vida digital a salvo con los mejores gestores de contraseñas</a></h4>
-    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/1password-3017212.jpg?tf=1200x' alt='Mantén tu vida digital a salvo con los mejores gestores de contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263'>Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico</a></h4>
-    <a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rompen-encriptacion-bitlocker-43-segundos-usando-raspberry-pi-pico-3271877.jpg?tf=1200x' alt='Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico' />
     </a>
 </div>
 
