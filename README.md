@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332'>Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disney-plus-3272011.jpg?tf=1200x' alt='Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/pagos-ransomware-disparan-rescates-alcanzan-1100-millones-dolares-2023-1363318'>Récord histórico: los pagos de extorsión por 'ransomware' superan los 1.100 millones de dólares en 2023</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/pagos-ransomware-disparan-rescates-alcanzan-1100-millones-dolares-2023-1363318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ataques-ransomware-3272009.jpg?tf=1200x' alt='Récord histórico: los pagos de extorsión por 'ransomware' superan los 1.100 millones de dólares en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282'>Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huawei-watch-gt-4-verde-3271920.jpg?tf=1200x' alt='Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-music-apple-tv-apple-devices-estaran-disponibles-windows-1363301'>Apple Music, Apple TV y Apple Devices estarán disponibles en Windows: fechas y todo lo que debes saber </a></h4>
     <a href='https://computerhoy.com/apple/apple-music-apple-tv-apple-devices-estaran-disponibles-windows-1363301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-music-windows-3271947.jpg?tf=1200x' alt='Apple Music, Apple TV y Apple Devices estarán disponibles en Windows: fechas y todo lo que debes saber ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317'>Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas</a></h4>
-    <a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/moviles-reparacion-3271975.jpg?tf=1200x' alt='Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211'>Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eufy-3271833.jpg?tf=1200x' alt='Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros' />
     </a>
 </div>
 
