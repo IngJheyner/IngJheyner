@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563'>Este es el aeropuerto que pierde más maletas de toda Europa, y está en España</a></h4>
+    <a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/equipaje-aeropuerto-3272389.jpg?tf=1200x' alt='Este es el aeropuerto que pierde más maletas de toda Europa, y está en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277'>Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418'>5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-terror-80-poco-conocidas-dan-miedo-actuales-3272109.jpg?tf=1200x' alt='5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413'>¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?</a></h4>
     <a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/oceano-3272102.jpg?tf=1200x' alt='¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378'>Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas</a></h4>
-    <a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dinosaurio-plumas-3272066.jpg?tf=1200x' alt='Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940'>¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración</a></h4>
-    <a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/silicon-messiah-cd-15th-anniversary-edition-3269718.jpg?tf=1200x' alt='¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración' />
     </a>
 </div>
 
