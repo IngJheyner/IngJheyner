@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378'>Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas</a></h4>
+    <a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dinosaurio-plumas-3272066.jpg?tf=1200x' alt='Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940'>¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración</a></h4>
     <a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/silicon-messiah-cd-15th-anniversary-edition-3269718.jpg?tf=1200x' alt='¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380'>¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?</a></h4>
     <a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pasara-ayuda-200-euros-personas-vulnerables-2024-3272060.jpg?tf=1200x' alt='¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332'>Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disney-plus-3272011.jpg?tf=1200x' alt='Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano' />
     </a>
 </div>
 
