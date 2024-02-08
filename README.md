@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566'>El error que muchos cometen y que puede romper el Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-fire-tv-stick-2224133.jpg?tf=1200x' alt='El error que muchos cometen y que puede romper el Fire TV Stick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563'>Este es el aeropuerto que pierde más maletas de toda Europa, y está en España</a></h4>
     <a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/equipaje-aeropuerto-3272389.jpg?tf=1200x' alt='Este es el aeropuerto que pierde más maletas de toda Europa, y está en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487'>Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/reves-bizum-ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-3272261.jpg?tf=1200x' alt='Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413'>¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?</a></h4>
-    <a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/oceano-3272102.jpg?tf=1200x' alt='¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?' />
     </a>
 </div>
 
