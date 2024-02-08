@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317'>Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas</a></h4>
+    <a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/moviles-reparacion-3271975.jpg?tf=1200x' alt='Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211'>Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eufy-3271833.jpg?tf=1200x' alt='Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gmail-actualiza-nueva-funcion-puro-estilo-whatsapp-1363296'>Gmail se actualiza con una nueva función al más puro estilo WhatsApp</a></h4>
+    <a href='https://computerhoy.com/google/gmail-actualiza-nueva-funcion-puro-estilo-whatsapp-1363296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gmail-android-3271948.jpg?tf=1200x' alt='Gmail se actualiza con una nueva función al más puro estilo WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-plegable-apple-proximo-gran-reto-sabe-ahora-1363294'>iPhone plegable de Apple, su próximo gran reto: esto es lo que se sabe por ahora</a></h4>
     <a href='https://computerhoy.com/apple/iphone-plegable-apple-proximo-gran-reto-sabe-ahora-1363294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='iPhone plegable de Apple, su próximo gran reto: esto es lo que se sabe por ahora' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023'>Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ingeniero-prompt-consiste-trabajo-futuro-3271561.jpg?tf=1200x' alt='Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-macbook-air-pero-pisa-talones-intel-core-i7-16-gb-ram-precio-locura-1362982'>No es el MacBook Air pero le pisa los talones: Intel Core i7 y 16 GB de RAM a precio de locura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-macbook-air-pero-pisa-talones-intel-core-i7-16-gb-ram-precio-locura-1362982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dell-inspiron-16-5630-3271482.jpg?tf=1200x' alt='No es el MacBook Air pero le pisa los talones: Intel Core i7 y 16 GB de RAM a precio de locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031'>La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio</a></h4>
-    <a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-conseguir-cafe-sea-perfecto-electricidad-3254945.jpg?tf=1200x' alt='La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-asus-zenbook-14-oled-portatil-funciones-nunca-habia-visto-antes-1361369'>He tenido el Asus Zenbook 14 OLED como mi portátil varias semanas y tiene una función en su touchpad que no había visto antes </a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-asus-zenbook-14-oled-portatil-funciones-nunca-habia-visto-antes-1361369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-zenboook-14-oled-analisis-opinion-3271277.jpg?tf=1200x' alt='He tenido el Asus Zenbook 14 OLED como mi portátil varias semanas y tiene una función en su touchpad que no había visto antes ' />
     </a>
 </div>
 
