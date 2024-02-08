@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254'>Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra</a></h4>
+    <a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-software-pone-apuros-voyager-1-sonda-espacial-distante-tierra-3271886.jpg?tf=1200x' alt='Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111'>Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208'>Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas</a></h4>
     <a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/van-cambiar-nombre-152-aves-porque-estan-basados-personas-incluyendo-racistas-esclavistas-3271819.jpg?tf=1200x' alt='Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992'>The Arcade: el juego gratis de Google para aprender inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arcade-juego-google-aprender-inteligencia-artificial-1362992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arcade-conoce-juego-google-aprender-inteligencia-artificial-3271510.jpg?tf=1200x' alt='The Arcade: el juego gratis de Google para aprender inteligencia artificial' />
     </a>
 </div>
 
