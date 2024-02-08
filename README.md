@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282'>Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huawei-watch-gt-4-verde-3271920.jpg?tf=1200x' alt='Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/filtra-existencia-ps5-pro-estas-podrian-ser-caracteristicas-1363321'>¿Se filtra la existencia de PS5 Pro? Estas podrían ser sus características</a></h4>
+    <a href='https://computerhoy.com/gaming/filtra-existencia-ps5-pro-estas-podrian-ser-caracteristicas-1363321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='¿Se filtra la existencia de PS5 Pro? Estas podrían ser sus características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-music-apple-tv-apple-devices-estaran-disponibles-windows-1363301'>Apple Music, Apple TV y Apple Devices estarán disponibles en Windows: fechas y todo lo que debes saber </a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-apple-tv-apple-devices-estaran-disponibles-windows-1363301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-music-windows-3271947.jpg?tf=1200x' alt='Apple Music, Apple TV y Apple Devices estarán disponibles en Windows: fechas y todo lo que debes saber ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317'>Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas</a></h4>
     <a href='https://computerhoy.com/moviles/manos-obra-moviles-lideran-lista-reparaciones-1363317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/moviles-reparacion-3271975.jpg?tf=1200x' alt='Manos a la obra: ¿Qué móviles lideran la lista de reparaciones? Estos son los más populares en búsquedas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211'>Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/apple/clon-airtag-funciona-find-my-ideal-android-cuesta-menos-20-euros-1363211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eufy-3271833.jpg?tf=1200x' alt='Este clon del AirTag funciona con Find My iPhone y es ideal para Android: cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gmail-actualiza-nueva-funcion-puro-estilo-whatsapp-1363296'>Gmail se actualiza con una nueva función al más puro estilo WhatsApp</a></h4>
-    <a href='https://computerhoy.com/google/gmail-actualiza-nueva-funcion-puro-estilo-whatsapp-1363296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gmail-android-3271948.jpg?tf=1200x' alt='Gmail se actualiza con una nueva función al más puro estilo WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-plegable-apple-proximo-gran-reto-sabe-ahora-1363294'>iPhone plegable de Apple, su próximo gran reto: esto es lo que se sabe por ahora</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-plegable-apple-proximo-gran-reto-sabe-ahora-1363294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='iPhone plegable de Apple, su próximo gran reto: esto es lo que se sabe por ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023'>Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ingeniero-prompt-consiste-realmente-trabajo-futuro-1363023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ingeniero-prompt-consiste-trabajo-futuro-3271561.jpg?tf=1200x' alt='Ingeniero de prompts: ¿en qué consiste y cuánto puedes ganar en el trabajo del futuro?' />
     </a>
 </div>
 
