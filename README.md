@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418'>5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-terror-80-poco-conocidas-dan-miedo-actuales-3272109.jpg?tf=1200x' alt='5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487'>Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/reves-bizum-ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-3272261.jpg?tf=1200x' alt='Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940'>¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración</a></h4>
     <a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/silicon-messiah-cd-15th-anniversary-edition-3269718.jpg?tf=1200x' alt='¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400'>Qué significa GPT en ChatGPT: tipos de GPT y diferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Qué significa GPT en ChatGPT: tipos de GPT y diferencias' />
     </a>
 </div>
 
