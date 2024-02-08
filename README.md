@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487'>Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/reves-bizum-ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-3272261.jpg?tf=1200x' alt='Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413'>¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?</a></h4>
+    <a href='https://computerhoy.com/ciencia/color-mares-oceanos-azul-agua-salada-1363413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/oceano-3272102.jpg?tf=1200x' alt='¿Por qué el color de los mares y los océanos es azul? ¿Y por qué tienen el agua salada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378'>Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas</a></h4>
     <a href='https://computerhoy.com/ciencia/algunos-dinosaurios-han-desarrollado-plumas-1363378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dinosaurio-plumas-3272066.jpg?tf=1200x' alt='Un robot a escala de un dinosaurio permite explicar por qué algunas especies desarrollaron plumas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400'>Qué significa GPT en ChatGPT: tipos de GPT y diferencias</a></h4>
     <a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Qué significa GPT en ChatGPT: tipos de GPT y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358'>Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA</a></h4>
-    <a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-novedades-ia-3272059.jpg?tf=1200x' alt='Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380'>¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?</a></h4>
-    <a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pasara-ayuda-200-euros-personas-vulnerables-2024-3272060.jpg?tf=1200x' alt='¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?' />
     </a>
 </div>
 
