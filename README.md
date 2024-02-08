@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031'>La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio</a></h4>
+    <a href='https://computerhoy.com/alimentacion/puede-afectar-cafeina-sangre-salud-1363031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/truco-conseguir-cafe-sea-perfecto-electricidad-3254945.jpg?tf=1200x' alt='La cafeína en sangre puede reducir el riesgo de padecer algunas enfermedades, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-asus-zenbook-14-oled-portatil-funciones-nunca-habia-visto-antes-1361369'>He tenido el Asus Zenbook 14 OLED como mi portátil varias semanas y tiene una función en su touchpad que no había visto antes </a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-asus-zenbook-14-oled-portatil-funciones-nunca-habia-visto-antes-1361369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-zenboook-14-oled-analisis-opinion-3271277.jpg?tf=1200x' alt='He tenido el Asus Zenbook 14 OLED como mi portátil varias semanas y tiene una función en su touchpad que no había visto antes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363273'>¿Qué día es hoy 8 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-8-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3271915.jpg?tf=1200x' alt='¿Qué día es hoy 8 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216'>Mantén tu vida digital a salvo con los mejores gestores de contraseñas</a></h4>
+    <a href='https://computerhoy.com/mejores/gestores-contrasenas-1235216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/1password-3017212.jpg?tf=1200x' alt='Mantén tu vida digital a salvo con los mejores gestores de contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263'>Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico</a></h4>
     <a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rompen-encriptacion-bitlocker-43-segundos-usando-raspberry-pi-pico-3271877.jpg?tf=1200x' alt='Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254'>Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-software-pone-apuros-voyager-1-sonda-espacial-distante-tierra-3271886.jpg?tf=1200x' alt='Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111'>Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/steve-jobs-tenia-problema-otros-no-podian-soportar-eso-fue-relegado-turno-noche-primeros-empleos-1158111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Steve Jobs tenía un problema que otros no podían soportar y por eso fue relegado al turno de noche en uno de sus primeros empleos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vuelve-actividad-mayores-redes-iptv-futbol-gratis-1363185'>Vuelve a la actividad una de las mayores redes de IPTV y fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vuelve-actividad-mayores-redes-iptv-futbol-gratis-1363185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelve-actividad-mayores-redes-iptv-futbol-gratis-3271857.jpg?tf=1200x' alt='Vuelve a la actividad una de las mayores redes de IPTV y fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238'>Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca</a></h4>
-    <a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-algunos-mini-pc-venden-amazon-tiene-malware-fabrica-ojo-marca-3271836.jpg?tf=1200x' alt='Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca' />
     </a>
 </div>
 
