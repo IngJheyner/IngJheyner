@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358'>Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA</a></h4>
+    <a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-novedades-ia-3272059.jpg?tf=1200x' alt='Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380'>¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?</a></h4>
     <a href='https://computerhoy.com/life/pasara-ayuda-200-euros-personas-vulnerables-2024-1363380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pasara-ayuda-200-euros-personas-vulnerables-2024-3272060.jpg?tf=1200x' alt='¿Qué pasará con la ayuda de 200 euros a personas vulnerables en 2024?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282'>Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huawei-watch-gt-4-verde-3271920.jpg?tf=1200x' alt='Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/filtra-existencia-ps5-pro-estas-podrian-ser-caracteristicas-1363321'>¿Se filtra la existencia de PS5 Pro? Estas podrían ser sus características</a></h4>
-    <a href='https://computerhoy.com/gaming/filtra-existencia-ps5-pro-estas-podrian-ser-caracteristicas-1363321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='¿Se filtra la existencia de PS5 Pro? Estas podrían ser sus características' />
     </a>
 </div>
 
