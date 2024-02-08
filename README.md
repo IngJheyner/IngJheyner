@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597'>Ya está a la venta Oppo A18, el móvil barato para el día a día</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ya-venta-oppo-a18-movil-barato-dia-dia-3272427.jpg?tf=1200x' alt='Ya está a la venta Oppo A18, el móvil barato para el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566'>El error que muchos cometen y que puede romper el Fire TV Stick</a></h4>
     <a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-fire-tv-stick-2224133.jpg?tf=1200x' alt='El error que muchos cometen y que puede romper el Fire TV Stick' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418'>5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-terror-80-poco-conocidas-dan-miedo-actuales-3272109.jpg?tf=1200x' alt='5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487'>Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-1363487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/reves-bizum-ue-obliga-bancos-ofrecer-transferencias-gratis-instantaneas-3272261.jpg?tf=1200x' alt='Duro revés para Bizum: la UE obliga a los bancos a ofrecer transferencias gratis e instantáneas' />
     </a>
 </div>
 
