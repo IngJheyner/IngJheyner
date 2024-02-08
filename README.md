@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940'>¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración</a></h4>
+    <a href='https://computerhoy.com/internet/murio-internet-2016-justifica-recurrente-teoria-conspiracion-1361940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/silicon-messiah-cd-15th-anniversary-edition-3269718.jpg?tf=1200x' alt='¿Murió Internet en 2016? Así se justifica esta recurrente teoría de la conspiración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400'>Qué significa GPT en ChatGPT: tipos de GPT y diferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/significa-gpt-chatgpt-tipos-gpt-diferencias-1363400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Qué significa GPT en ChatGPT: tipos de GPT y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358'>Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA</a></h4>
     <a href='https://computerhoy.com/google/google-da-golpe-mesa-anuncia-llega-gemini-advanced-grandes-novedades-ia-1363358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-novedades-ia-3272059.jpg?tf=1200x' alt='Google da un golpe en la mesa y anuncia la llega de Gemini Advanced, el fin de Bard y grandes novedades en IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332'>Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-cambiara-suscripciones-partir-verano-1363332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disney-plus-3272011.jpg?tf=1200x' alt='Disney Plus pondrá aún más difícil compartir una cuenta a partir de este verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/pagos-ransomware-disparan-rescates-alcanzan-1100-millones-dolares-2023-1363318'>Récord histórico: los pagos de extorsión por 'ransomware' superan los 1.100 millones de dólares en 2023</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/pagos-ransomware-disparan-rescates-alcanzan-1100-millones-dolares-2023-1363318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ataques-ransomware-3272009.jpg?tf=1200x' alt='Récord histórico: los pagos de extorsión por 'ransomware' superan los 1.100 millones de dólares en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282'>Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-rebajado-nunca-san-valentin-1363282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huawei-watch-gt-4-verde-3271920.jpg?tf=1200x' alt='Nos encantó en su análisis y ahora Huawei está liquidando stock: el Watch GT 4 presume de batería y de precio' />
     </a>
 </div>
 
