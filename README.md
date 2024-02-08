@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263'>Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico</a></h4>
+    <a href='https://computerhoy.com/windows/rompen-encriptacion-bitlocker-43-segundos-raspberry-pi-pico-1363263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rompen-encriptacion-bitlocker-43-segundos-usando-raspberry-pi-pico-3271877.jpg?tf=1200x' alt='Rompen la encriptación BitLocker de Windows en 43 segundos, usando una Raspberry Pi Pico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254'>Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/error-software-pone-riesgo-voyager-1-sonda-espacial-distante-tierra-1363254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-software-pone-apuros-voyager-1-sonda-espacial-distante-tierra-3271886.jpg?tf=1200x' alt='Un error de software pone en apuros a la Voyager 1, la sonda espacial más distante de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238'>Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca</a></h4>
     <a href='https://computerhoy.com/amazon/mini-pc-venden-amazon-tienen-malware-fabrica-1363238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-algunos-mini-pc-venden-amazon-tiene-malware-fabrica-ojo-marca-3271836.jpg?tf=1200x' alt='Descubren que algunos mini PC que se venden en Amazon tiene malware de fábrica, ojo con esta marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208'>Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas</a></h4>
-    <a href='https://computerhoy.com/life/van-cambiar-nombre-152-aves-porque-estan-basados-personas-1363208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/van-cambiar-nombre-152-aves-porque-estan-basados-personas-incluyendo-racistas-esclavistas-3271819.jpg?tf=1200x' alt='Van a cambiar el nombre a 152 aves porque están basados en personas, incluyendo racistas y esclavistas' />
     </a>
 </div>
 
