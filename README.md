@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719'>Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mal-olor-freidora-aire-3272802.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-guardar-publicaciones-threads-verlas-tarde-1363703'>Threads copia a Instagram y permitirá guardar las publicaciones para verlas más tarde</a></h4>
+    <a href='https://computerhoy.com/apps/como-guardar-publicaciones-threads-verlas-tarde-1363703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-nuevas-funciones-3272647.jpg?tf=1200x' alt='Threads copia a Instagram y permitirá guardar las publicaciones para verlas más tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668'>Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/luna-saturno-3272573.jpg?tf=1200x' alt='Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347'>Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-disney-plus-3139192.jpg?tf=1200x' alt='Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/significado-emoticonos-que-quiere-decir-cada-emoji-284873'>Significado de los emoticonos: qué quiere decir cada emoji</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/significado-emoticonos-que-quiere-decir-cada-emoji-284873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/significado-emoticonos-quiere-decir-cada-emoji-3268785.jpg?tf=1200x' alt='Significado de los emoticonos: qué quiere decir cada emoji' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696'>Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles</a></h4>
-    <a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-software-espia-3272638.jpg?tf=1200x' alt='Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles' />
     </a>
 </div>
 
