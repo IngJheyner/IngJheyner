@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614'>IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot</a></h4>
+    <a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350'>"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-alexa-hotel-nh-3272351.jpg?tf=1200x' alt='"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608'>RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza</a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608'>RTVE es la única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rtve-unica-plataforma-gratuita-mundo-ya-transmite-4k-hdr-dolby-atmos-3272444.jpg?tf=1200x' alt='RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597'>Ya está a la venta Oppo A18, el móvil barato para el día a día</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ya-venta-oppo-a18-movil-barato-dia-dia-3272427.jpg?tf=1200x' alt='Ya está a la venta Oppo A18, el móvil barato para el día a día' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rtve-unica-plataforma-gratuita-mundo-ya-transmite-4k-hdr-dolby-atmos-3272444.jpg?tf=1200x' alt='RTVE es la única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza' />
     </a>
 </div>
 
