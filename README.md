@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668'>Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre</a></h4>
+    <a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/luna-saturno-3272573.jpg?tf=1200x' alt='Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>Aplicaciones que te permiten ganar dinero mientras utilizas el móvil</a></h4>
     <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-apps-ganar-dinero-movil-3272477.jpg?tf=1200x' alt='Aplicaciones que te permiten ganar dinero mientras utilizas el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696'>Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles</a></h4>
     <a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-software-espia-3272638.jpg?tf=1200x' alt='Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276'>Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photoshop-edicion-video-3271917.jpg?tf=1200x' alt='Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo' />
     </a>
 </div>
 
