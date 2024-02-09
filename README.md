@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>Aplicaciones que te permiten ganar dinero mientras utilizas el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-apps-ganar-dinero-movil-3272477.jpg?tf=1200x' alt='Aplicaciones que te permiten ganar dinero mientras utilizas el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347'>Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-disney-plus-3139192.jpg?tf=1200x' alt='Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276'>Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo</a></h4>
     <a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photoshop-edicion-video-3271917.jpg?tf=1200x' alt='Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639'>Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares</a></h4>
-    <a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/avatar-apple-vision-pro-3272541.jpg?tf=1200x' alt='Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares' />
     </a>
 </div>
 
