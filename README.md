@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696'>Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles</a></h4>
+    <a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-software-espia-3272638.jpg?tf=1200x' alt='Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276'>Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adobe-creative-cloud-photoshop-va-rebajas-viene-regalo-1363276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photoshop-edicion-video-3271917.jpg?tf=1200x' alt='Adobe Creative Cloud con Photoshop se va de rebajas, y viene con regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639'>Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares</a></h4>
     <a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/avatar-apple-vision-pro-3272541.jpg?tf=1200x' alt='Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635'>Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hace-380-millones-anos-pez-salia-agua-respirar-aire-fresco-1363627'>Hace 380 millones de años, uno de los primeros peces que podía respirar aire se revela en un fósil completo</a></h4>
-    <a href='https://computerhoy.com/ciencia/hace-380-millones-anos-pez-salia-agua-respirar-aire-fresco-1363627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hace-380-millones-anos-primeros-peces-podia-respirar-aire-revela-fosil-completo-3271928.jpg?tf=1200x' alt='Hace 380 millones de años, uno de los primeros peces que podía respirar aire se revela en un fósil completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465'>¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024</a></h4>
-    <a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quien-nos-interesa-estas-son-100-personas-googleadas-va-2024-3272295.jpg?tf=1200x' alt='¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024' />
     </a>
 </div>
 
