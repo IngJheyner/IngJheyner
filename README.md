@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350'>"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-alexa-hotel-nh-3272351.jpg?tf=1200x' alt='"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363613'>¿Qué día es hoy 9 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3272480.jpg?tf=1200x' alt='¿Qué día es hoy 9 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bici-cecotec-3272237.jpg?tf=1200x' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608'>RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rtve-unica-plataforma-gratuita-mundo-ya-transmite-4k-hdr-dolby-atmos-3272444.jpg?tf=1200x' alt='RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597'>Ya está a la venta Oppo A18, el móvil barato para el día a día</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ya-venta-oppo-a18-movil-barato-dia-dia-3272427.jpg?tf=1200x' alt='Ya está a la venta Oppo A18, el móvil barato para el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566'>El error que muchos cometen y que puede romper el Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/error-muchos-cometen-puede-romper-fire-tv-stick-1363566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/analisis-amazon-fire-tv-stick-2224133.jpg?tf=1200x' alt='El error que muchos cometen y que puede romper el Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563'>Este es el aeropuerto que pierde más maletas de toda Europa, y está en España</a></h4>
-    <a href='https://computerhoy.com/life/aeropuerto-pierde-maletas-toda-europa-espana-1363563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/equipaje-aeropuerto-3272389.jpg?tf=1200x' alt='Este es el aeropuerto que pierde más maletas de toda Europa, y está en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277'>Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday' />
     </a>
 </div>
 
