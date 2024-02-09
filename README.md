@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/significado-emoticonos-que-quiere-decir-cada-emoji-284873'>Significado de los emoticonos: qué quiere decir cada emoji</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/significado-emoticonos-que-quiere-decir-cada-emoji-284873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/significado-emoticonos-quiere-decir-cada-emoji-3268785.jpg?tf=1200x' alt='Significado de los emoticonos: qué quiere decir cada emoji' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696'>Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles</a></h4>
     <a href='https://computerhoy.com/google/google-denuncia-40-empresas-ellas-barcelona-creacion-software-espiar-moviles-1363696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-software-espia-3272638.jpg?tf=1200x' alt='Google denuncia a 40 empresas, una de ellas de Barcelona, por la creación de software para espiar móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyector-portatil-android-oferta-amazon-precio-derribo-1363002'>Funciona hasta con una powerbank y llega a 120": este proyector con Android pone Amazon patas arriba</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyector-portatil-android-oferta-amazon-precio-derribo-1363002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xgimi-mogo-2-pro-3271514.jpg?tf=1200x' alt='Funciona hasta con una powerbank y llega a 120": este proyector con Android pone Amazon patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635'>Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad' />
     </a>
 </div>
 
