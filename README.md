@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639'>Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares</a></h4>
+    <a href='https://computerhoy.com/apple/raras-inquietantes-son-polemicos-avatares-apple-vision-pro-1363639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/avatar-apple-vision-pro-3272541.jpg?tf=1200x' alt='Las Apple Vision Pro tienen una debilidad: los avatares no hacen justicia a un producto de 3.499 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyector-portatil-android-oferta-amazon-precio-derribo-1363002'>Funciona hasta con una powerbank y llega a 120": este proyector con Android pone Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyector-portatil-android-oferta-amazon-precio-derribo-1363002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xgimi-mogo-2-pro-3271514.jpg?tf=1200x' alt='Funciona hasta con una powerbank y llega a 120": este proyector con Android pone Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635'>Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-sorpresa-ios-1731-corregir-fallo-iphone-no-no-seguridad-1363635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='Apple lanza por sorpresa iOS 17.3.1 para corregir un fallo en iPhone y no, no es de seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465'>¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024</a></h4>
     <a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quien-nos-interesa-estas-son-100-personas-googleadas-va-2024-3272295.jpg?tf=1200x' alt='¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-lia-regalando-smartbands-fitbit-auriculares-pixel-8-pro-1362742'>Google la lía y está regalando smartbands de Fitbit o auriculares con el Pixel 8 Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-lia-regalando-smartbands-fitbit-auriculares-pixel-8-pro-1362742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191842.jpg?tf=1200x' alt='Google la lía y está regalando smartbands de Fitbit o auriculares con el Pixel 8 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614'>IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot</a></h4>
-    <a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot' />
     </a>
 </div>
 
