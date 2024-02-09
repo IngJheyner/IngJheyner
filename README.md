@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814'>Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein</a></h4>
+    <a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719'>Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire</a></h4>
     <a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mal-olor-freidora-aire-3272802.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>Aplicaciones que te permiten ganar dinero mientras utilizas el móvil</a></h4>
     <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-apps-ganar-dinero-movil-3272477.jpg?tf=1200x' alt='Aplicaciones que te permiten ganar dinero mientras utilizas el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347'>Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-empieza-restringir-uso-cuentas-compartidas-1363347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-disney-plus-3139192.jpg?tf=1200x' alt='Disney+ copia lo peor de Netflix y empieza a restringir el uso de cuentas compartidas' />
     </a>
 </div>
 
