@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608'>RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rtve-unica-plataforma-gratuita-mundo-ya-transmite-4k-hdr-dolby-atmos-3272444.jpg?tf=1200x' alt='RTVE es única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597'>Ya está a la venta Oppo A18, el móvil barato para el día a día</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-a18-movil-barato-gran-bateria-1363597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ya-venta-oppo-a18-movil-barato-dia-dia-3272427.jpg?tf=1200x' alt='Ya está a la venta Oppo A18, el móvil barato para el día a día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277'>Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-desata-locura-firestick-rebajados-precio-black-friday-1363277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='Amazon desata la locura: sus Firestick, rebajados a precio de Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418'>5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-terror-80-poco-conocidas-dan-miedo-1363418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-terror-80-poco-conocidas-dan-miedo-actuales-3272109.jpg?tf=1200x' alt='5 películas de terror de los 80 poco conocidas que dan más miedo que las actuales' />
     </a>
 </div>
 
