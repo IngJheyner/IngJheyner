@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/adios-iptv-ilegales-operadores-punto-dar-golpe-final-1363800'>Los operadores ya tienen el botón rojo para acabar con las IPTV y solo esperan una orden para pulsarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/adios-iptv-ilegales-operadores-punto-dar-golpe-final-1363800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/operadores-ya-tienen-boton-rojo-acabar-iptv-solo-esperan-orden-pulsarlo-3273009.jpg?tf=1200x' alt='Los operadores ya tienen el botón rojo para acabar con las IPTV y solo esperan una orden para pulsarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/escalofriantes-peliculas-terror-basadas-hechos-reales-1363112'>5 escalofriantes películas de terror que no sabías que estaban basadas en hechos reales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/escalofriantes-peliculas-terror-basadas-hechos-reales-1363112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/psicosis-3266032.jpg?tf=1200x' alt='5 escalofriantes películas de terror que no sabías que estaban basadas en hechos reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700'>Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro</a></h4>
     <a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-pro-3230812.jpg?tf=1200x' alt='Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-1363781'>Desarrollan un firmware alternativo para Flipper Zero que lo hace mucho más peligroso</a></h4>
     <a href='https://computerhoy.com/tecnologia/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-1363781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-3272983.jpg?tf=1200x' alt='Desarrollan un firmware alternativo para Flipper Zero que lo hace mucho más peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/agujero-negro-galaxia-podria-estar-preparado-despertar-1363670'>El agujero negro de nuestra galaxia podría estar preparado para despertar, según la NASA</a></h4>
-    <a href='https://computerhoy.com/ciencia/agujero-negro-galaxia-podria-estar-preparado-despertar-1363670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/agujero-negro-galaxia-podria-estar-preparado-despertar-nasa-3272581.jpg?tf=1200x' alt='El agujero negro de nuestra galaxia podría estar preparado para despertar, según la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814'>Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein</a></h4>
-    <a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein' />
     </a>
 </div>
 
