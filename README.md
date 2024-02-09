@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700'>Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-pro-3230812.jpg?tf=1200x' alt='Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/everest-apesta-literalmente-ya-estan-tomando-medidas-radicales-evitarlo-1363821'>El Everest apesta, literalmente, y ya se están tomando medidas radicales para evitarlo</a></h4>
+    <a href='https://computerhoy.com/life/everest-apesta-literalmente-ya-estan-tomando-medidas-radicales-evitarlo-1363821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/basura-everest-3272976.jpg?tf=1200x' alt='El Everest apesta, literalmente, y ya se están tomando medidas radicales para evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-1363781'>Desarrollan un firmware alternativo para Flipper Zero que lo hace mucho más peligroso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-1363781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/desarrollan-firmware-alternativo-flipper-zero-hace-mucho-peligroso-3272983.jpg?tf=1200x' alt='Desarrollan un firmware alternativo para Flipper Zero que lo hace mucho más peligroso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/agujero-negro-galaxia-podria-estar-preparado-despertar-1363670'>El agujero negro de nuestra galaxia podría estar preparado para despertar, según la NASA</a></h4>
+    <a href='https://computerhoy.com/ciencia/agujero-negro-galaxia-podria-estar-preparado-despertar-1363670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/agujero-negro-galaxia-podria-estar-preparado-despertar-nasa-3272581.jpg?tf=1200x' alt='El agujero negro de nuestra galaxia podría estar preparado para despertar, según la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814'>Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein</a></h4>
     <a href='https://computerhoy.com/tecnologia/entrenan-inteligencia-artificial-como-chatgpt-piense-igual-albert-einstein-1363814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Entrenan una inteligencia artificial como ChatGPT para que piense igual que Albert Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719'>Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire</a></h4>
-    <a href='https://computerhoy.com/hogar/como-quitar-malos-olores-freidora-aire-1363719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mal-olor-freidora-aire-3272802.jpg?tf=1200x' alt='Con estos sencillos trucos he conseguido quitar los malos olores de la freidora de aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-guardar-publicaciones-threads-verlas-tarde-1363703'>Threads copia a Instagram y permitirá guardar las publicaciones para verlas más tarde</a></h4>
-    <a href='https://computerhoy.com/apps/como-guardar-publicaciones-threads-verlas-tarde-1363703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-nuevas-funciones-3272647.jpg?tf=1200x' alt='Threads copia a Instagram y permitirá guardar las publicaciones para verlas más tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668'>Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre</a></h4>
-    <a href='https://computerhoy.com/ciencia/luna-saturno-podria-albergar-vida-extraterrestre-1363668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/luna-saturno-3272573.jpg?tf=1200x' alt='Una luna de Saturno tiene un océano helado de 20 kilómetros de espesor y podría albergar vida extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626'>Aplicaciones que te permiten ganar dinero mientras utilizas el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/10-apps-ganar-dinero-movil-1219626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-apps-ganar-dinero-movil-3272477.jpg?tf=1200x' alt='Aplicaciones que te permiten ganar dinero mientras utilizas el móvil' />
     </a>
 </div>
 
