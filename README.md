@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hace-380-millones-anos-pez-salia-agua-respirar-aire-fresco-1363627'>Hace 380 millones de años, uno de los primeros peces que podía respirar aire se revela en un fósil completo</a></h4>
+    <a href='https://computerhoy.com/ciencia/hace-380-millones-anos-pez-salia-agua-respirar-aire-fresco-1363627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hace-380-millones-anos-primeros-peces-podia-respirar-aire-revela-fosil-completo-3271928.jpg?tf=1200x' alt='Hace 380 millones de años, uno de los primeros peces que podía respirar aire se revela en un fósil completo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465'>¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024</a></h4>
+    <a href='https://computerhoy.com/internet/estas-son-100-personas-googleadas-va-2024-1363465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quien-nos-interesa-estas-son-100-personas-googleadas-va-2024-3272295.jpg?tf=1200x' alt='¿Quién nos interesa más? Estas son las 100 personas más googleadas en lo que va de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-lia-regalando-smartbands-fitbit-auriculares-pixel-8-pro-1362742'>Google la lía y está regalando smartbands de Fitbit o auriculares con el Pixel 8 Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-lia-regalando-smartbands-fitbit-auriculares-pixel-8-pro-1362742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191842.jpg?tf=1200x' alt='Google la lía y está regalando smartbands de Fitbit o auriculares con el Pixel 8 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614'>IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot</a></h4>
     <a href='https://computerhoy.com/windows/bloc-notas-windows-11-ya-integra-copilot-1363614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/bloc-notas-windows-fin-recibe-mejora-muy-esperada-2935320.jpg?tf=1200x' alt='IA en todos los sitios: hasta el Bloc de Notas de Windows 11 ya integra Copilot' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350'>"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-introduce-alexa-habitaciones-hoteles-nh-1363350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-alexa-hotel-nh-3272351.jpg?tf=1200x' alt='"Alexa, necesito una toalla": he probado la primera integración de Alexa en un hotel en España y es una de las formas más sencillas de evitar el contacto humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363613'>¿Qué día es hoy 9 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-9-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3272480.jpg?tf=1200x' alt='¿Qué día es hoy 9 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119'>Mejores bicicletas eléctricas plegables que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/mejores-bicicletas-electricas-plegables-puedes-comprar-1034119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bici-cecotec-3272237.jpg?tf=1200x' alt='Mejores bicicletas eléctricas plegables que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608'>RTVE es la única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/rtve-la-1-4k-hdr-dolby-atmos-1363608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rtve-unica-plataforma-gratuita-mundo-ya-transmite-4k-hdr-dolby-atmos-3272444.jpg?tf=1200x' alt='RTVE es la única plataforma gratuita del mundo que ya transmite a 4K con HDR y Dolby Atmos: así se sintoniza' />
     </a>
 </div>
 
