@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/razon-deberias-quitarte-habito-no-sufrir-dolores-cabeza-1361560'>La razón por la que deberías quitarte este hábito mañanero si no quieres sufrir dolores de cabeza</a></h4>
+    <a href='https://computerhoy.com/moviles/razon-deberias-quitarte-habito-no-sufrir-dolores-cabeza-1361560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-deberias-quitarte-habito-mananero-no-quieres-sufrir-dolores-cabeza-3269062.jpg?tf=1200x' alt='La razón por la que deberías quitarte este hábito mañanero si no quieres sufrir dolores de cabeza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/post-it-idea-nace-accidente-pero-revoluciono-mundo-1361841'>La historia del Post-it: una idea que nace por accidente, pero que revolucionó el mundo</a></h4>
+    <a href='https://computerhoy.com/life/post-it-idea-nace-accidente-pero-revoluciono-mundo-1361841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/post-it-3269550.jpg?tf=1200x' alt='La historia del Post-it: una idea que nace por accidente, pero que revolucionó el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644'>Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafas-romanticas-3269202.jpg?tf=1200x' alt='Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679'>5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón</a></h4>
     <a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-dicho-adios-tiktok-instagram-x-durante-semana-ha-sido-gran-decision-1362516'>He dicho adiós a TikTok, Instagram y X durante una semana y sí, ha sido una gran decisión aunque con matices</a></h4>
-    <a href='https://computerhoy.com/apps/he-dicho-adios-tiktok-instagram-x-durante-semana-ha-sido-gran-decision-1362516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/redes-sociales-3270775.jpg?tf=1200x' alt='He dicho adiós a TikTok, Instagram y X durante una semana y sí, ha sido una gran decisión aunque con matices' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311'>Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prime-video-3268666.jpg?tf=1200x' alt='Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti' />
     </a>
 </div>
 
