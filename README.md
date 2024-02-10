@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937'>Crean unos elegantes pendientes para rastrear la salud</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hermal-earring-3273153.jpg?tf=1200x' alt='Crean unos elegantes pendientes para rastrear la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531'>Cómo filtrar y desactivar contenido explícito en Spotify</a></h4>
+    <a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-filtrar-desactivar-contenido-explicito-spotify-3272408.jpg?tf=1200x' alt='Cómo filtrar y desactivar contenido explícito en Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925'>La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos</a></h4>
     <a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-microfono-windows-11-3273143.jpg?tf=1200x' alt='La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-dice-adios-spam-podras-bloquear-cualquier-numero-sospechoso-abrir-aplicacion-1363913'>WhatsApp dice adiós al spam: podrás bloquear cualquier número sospechoso sin abrir la aplicación</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-dice-adios-spam-podras-bloquear-cualquier-numero-sospechoso-abrir-aplicacion-1363913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bloquear-numero-whatsapp-3273127.jpg?tf=1200x' alt='WhatsApp dice adiós al spam: podrás bloquear cualquier número sospechoso sin abrir la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-futbol-ya-tienes-suscripcion-amazon-prime-video-1363140'>Cómo ver el fútbol si ya tienes una suscripción a Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-futbol-ya-tienes-suscripcion-amazon-prime-video-1363140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-futbol-amazon-prime-video-3272419.jpg?tf=1200x' alt='Cómo ver el fútbol si ya tienes una suscripción a Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-culto-netflix-1361675'>10 películas de culto en Netflix que no podrás ver en HBO Max, Prime Video, Disney Plus o SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-culto-netflix-1361675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/12/547458-scarface-precio-poder-critica-especial-cine-80.jpg?tf=1200x' alt='10 películas de culto en Netflix que no podrás ver en HBO Max, Prime Video, Disney Plus o SkyShowtime' />
     </a>
 </div>
 
