@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841'>La regla del metro que podría mejorar notablemente la velocidad de tu conexión WiFi en casa</a></h4>
+    <a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/regla-metro-podria-mejorar-notablemente-velocidad-conexion-wifi-casa-3271295.jpg?tf=1200x' alt='La regla del metro que podría mejorar notablemente la velocidad de tu conexión WiFi en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/superalimento-coreano-adelgazar-no-puede-faltar-dieta-1361809'>El superalimento coreano para adelgazar que no puede faltar en tu dieta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/superalimento-coreano-adelgazar-no-puede-faltar-dieta-1361809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/superalimento-coreano-adelgazar-no-puede-faltar-dieta-3269439.jpg?tf=1200x' alt='El superalimento coreano para adelgazar que no puede faltar en tu dieta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/razon-deberias-quitarte-habito-no-sufrir-dolores-cabeza-1361560'>La razón por la que deberías quitarte este hábito mañanero si no quieres sufrir dolores de cabeza</a></h4>
     <a href='https://computerhoy.com/moviles/razon-deberias-quitarte-habito-no-sufrir-dolores-cabeza-1361560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-deberias-quitarte-habito-mananero-no-quieres-sufrir-dolores-cabeza-3269062.jpg?tf=1200x' alt='La razón por la que deberías quitarte este hábito mañanero si no quieres sufrir dolores de cabeza' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644'>Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafas-romanticas-3269202.jpg?tf=1200x' alt='Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-1363877'>Los lobos mutantes de Chernóbil han desarrollado genes anticáncer</a></h4>
-    <a href='https://computerhoy.com/life/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-1363877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-3273062.jpg?tf=1200x' alt='Los lobos mutantes de Chernóbil han desarrollado genes anticáncer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679'>5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón</a></h4>
-    <a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón' />
     </a>
 </div>
 
