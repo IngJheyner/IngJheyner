@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869'>Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses</a></h4>
+    <a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-probar-gemini-advanced-ia-avanzada-google-gratis-durante-dos-meses-3273041.jpg?tf=1200x' alt='Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867'>Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil</a></h4>
     <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-3273043.jpg?tf=1200x' alt='Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/usar-movil-android-como-camara-web-ordenador-1362058'>Cómo usar tu móvil Android como cámara web en el ordenador y sin instalar nada</a></h4>
     <a href='https://computerhoy.com/android/usar-movil-android-como-camara-web-ordenador-1362058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-usar-movil-android-como-camara-web-ordenador-instalar-nada-3269901.jpg?tf=1200x' alt='Cómo usar tu móvil Android como cámara web en el ordenador y sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-iptv-ilegales-operadores-punto-dar-golpe-final-1363800'>Los operadores ya tienen el botón rojo para acabar con las IPTV y solo esperan una orden para pulsarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-iptv-ilegales-operadores-punto-dar-golpe-final-1363800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/operadores-ya-tienen-boton-rojo-acabar-iptv-solo-esperan-orden-pulsarlo-3273009.jpg?tf=1200x' alt='Los operadores ya tienen el botón rojo para acabar con las IPTV y solo esperan una orden para pulsarlo' />
     </a>
 </div>
 
