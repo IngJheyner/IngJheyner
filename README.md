@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944'>Windows 11 pronunciará texto usando tu propia voz</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sintetizar-voz-windows-11-3273162.jpg?tf=1200x' alt='Windows 11 pronunciará texto usando tu propia voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937'>Crean unos elegantes pendientes para rastrear la salud</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hermal-earring-3273153.jpg?tf=1200x' alt='Crean unos elegantes pendientes para rastrear la salud' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573'>El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-dice-adios-spam-podras-bloquear-cualquier-numero-sospechoso-abrir-aplicacion-1363913'>WhatsApp dice adiós al spam: podrás bloquear cualquier número sospechoso sin abrir la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-dice-adios-spam-podras-bloquear-cualquier-numero-sospechoso-abrir-aplicacion-1363913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bloquear-numero-whatsapp-3273127.jpg?tf=1200x' alt='WhatsApp dice adiós al spam: podrás bloquear cualquier número sospechoso sin abrir la aplicación' />
     </a>
 </div>
 
