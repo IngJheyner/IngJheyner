@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311'>Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prime-video-3268666.jpg?tf=1200x' alt='Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363876'>¿Qué día es hoy 10 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3273061.jpg?tf=1200x' alt='¿Qué día es hoy 10 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-torres-gigantes-pc-ultracompacto-tiene-16gb-ram-increiblemente-barato-1363328'>Olvida las torres gigantes: este PC ultracompacto tiene 16GB de RAM y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-torres-gigantes-pc-ultracompacto-tiene-16gb-ram-increiblemente-barato-1363328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-n20-3271996.jpg?tf=1200x' alt='Olvida las torres gigantes: este PC ultracompacto tiene 16GB de RAM y es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869'>Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses</a></h4>
     <a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-probar-gemini-advanced-ia-avanzada-google-gratis-durante-dos-meses-3273041.jpg?tf=1200x' alt='Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867'>Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil</a></h4>
     <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-3273043.jpg?tf=1200x' alt='Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-1363829'>Notable People: el Google Maps con las personas más famosas de cada ciudad del mundo</a></h4>
-    <a href='https://computerhoy.com/internet/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-1363829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-3273039.jpg?tf=1200x' alt='Notable People: el Google Maps con las personas más famosas de cada ciudad del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-1363863'>Solo 137 mineros de Bitcoin consumen el 2,3% de la electricidad de Estados Unidos: el gobierno ha dicho "basta"</a></h4>
-    <a href='https://computerhoy.com/criptos/137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-1363863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/solo-137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-gobierno-ha-dicho-basta-3273010.jpg?tf=1200x' alt='Solo 137 mineros de Bitcoin consumen el 2,3% de la electricidad de Estados Unidos: el gobierno ha dicho "basta"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/usar-movil-android-como-camara-web-ordenador-1362058'>Cómo usar tu móvil Android como cámara web en el ordenador y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/android/usar-movil-android-como-camara-web-ordenador-1362058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-usar-movil-android-como-camara-web-ordenador-instalar-nada-3269901.jpg?tf=1200x' alt='Cómo usar tu móvil Android como cámara web en el ordenador y sin instalar nada' />
     </a>
 </div>
 
