@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-1363829'>Notable People: el Google Maps con las personas más famosas de cada ciudad del mundo</a></h4>
+    <a href='https://computerhoy.com/internet/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-1363829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/notable-people-google-maps-personas-famosas-cada-ciudad-mundo-3273039.jpg?tf=1200x' alt='Notable People: el Google Maps con las personas más famosas de cada ciudad del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-1363863'>Solo 137 mineros de Bitcoin consumen el 2,3% de la electricidad de Estados Unidos: el gobierno ha dicho "basta"</a></h4>
     <a href='https://computerhoy.com/criptos/137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-1363863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/solo-137-mineros-bitcoin-consumen-23-electricidad-estados-unidos-gobierno-ha-dicho-basta-3273010.jpg?tf=1200x' alt='Solo 137 mineros de Bitcoin consumen el 2,3% de la electricidad de Estados Unidos: el gobierno ha dicho "basta"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/escalofriantes-peliculas-terror-basadas-hechos-reales-1363112'>5 escalofriantes películas de terror que no sabías que estaban basadas en hechos reales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/escalofriantes-peliculas-terror-basadas-hechos-reales-1363112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/psicosis-3266032.jpg?tf=1200x' alt='5 escalofriantes películas de terror que no sabías que estaban basadas en hechos reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700'>Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elige-color-disfruta-auriculares-pro-google-hunden-precio-casi-mitad-airpods-pro-1362700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/google-pixel-buds-pro-3230812.jpg?tf=1200x' alt='Elige color y disfruta: los auriculares Pro de Google hunden su precio a casi la mitad que los AirPods Pro' />
     </a>
 </div>
 
