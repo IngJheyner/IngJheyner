@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948'>Chrome podría permitir iniciar sitios web como aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Chrome podría permitir iniciar sitios web como aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029'>Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/21-dispositivos-puedes-controlar-alexa-traves-amazon-echo.jpg?tf=1200x' alt='Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947'>Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología</a></h4>
     <a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/configuracion-facil-android-15-3273166.jpg?tf=1200x' alt='Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944'>Windows 11 pronunciará texto usando tu propia voz</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sintetizar-voz-windows-11-3273162.jpg?tf=1200x' alt='Windows 11 pronunciará texto usando tu propia voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937'>Crean unos elegantes pendientes para rastrear la salud</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-elegantes-pendientes-rastrear-salud-1363937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hermal-earring-3273153.jpg?tf=1200x' alt='Crean unos elegantes pendientes para rastrear la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531'>Cómo filtrar y desactivar contenido explícito en Spotify</a></h4>
-    <a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-filtrar-desactivar-contenido-explicito-spotify-3272408.jpg?tf=1200x' alt='Cómo filtrar y desactivar contenido explícito en Spotify' />
     </a>
 </div>
 
