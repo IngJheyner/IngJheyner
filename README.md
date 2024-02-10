@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968'>La actualización de Windows 11 que distorsiona los emojis</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-error-emojis-3273215.jpg?tf=1200x' alt='La actualización de Windows 11 que distorsiona los emojis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953'>La NASA cree que sería “un milagro” arreglar la Voyager 1</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA cree que sería “un milagro” arreglar la Voyager 1' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029'>Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/21-dispositivos-puedes-controlar-alexa-traves-amazon-echo.jpg?tf=1200x' alt='Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947'>Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología</a></h4>
-    <a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/configuracion-facil-android-15-3273166.jpg?tf=1200x' alt='Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología' />
     </a>
 </div>
 
