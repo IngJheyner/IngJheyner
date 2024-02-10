@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947'>Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología</a></h4>
+    <a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/configuracion-facil-android-15-3273166.jpg?tf=1200x' alt='Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-6-mejores-peliculas-han-adelantado-juicio-final-1360103'>Pandemias, meteoritos, IA y hasta extraterrestres: estas son las 5 mejores películas sobre el Juicio Final  </a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estas-son-6-mejores-peliculas-han-adelantado-juicio-final-1360103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pandemias-meteoritos-ia-extraterrestres-estas-son-6-mejores-peliculas-juicio-final-3266431.jpg?tf=1200x' alt='Pandemias, meteoritos, IA y hasta extraterrestres: estas son las 5 mejores películas sobre el Juicio Final  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944'>Windows 11 pronunciará texto usando tu propia voz</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sintetizar-voz-windows-11-3273162.jpg?tf=1200x' alt='Windows 11 pronunciará texto usando tu propia voz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531'>Cómo filtrar y desactivar contenido explícito en Spotify</a></h4>
     <a href='https://computerhoy.com/apps/como-filtrar-desactivar-contenido-explicito-spotify-1363531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-filtrar-desactivar-contenido-explicito-spotify-3272408.jpg?tf=1200x' alt='Cómo filtrar y desactivar contenido explícito en Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925'>La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-microfono-windows-11-3273143.jpg?tf=1200x' alt='La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573'>El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone' />
     </a>
 </div>
 
