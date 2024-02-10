@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925'>La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-herramienta-windows-11-te-ahorrara-mucho-tiempo-hora-configurar-microfonos-1363925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/test-microfono-windows-11-3273143.jpg?tf=1200x' alt='La nueva herramienta para Windows 11 que te ahorrará mucho tiempo a la hora de configurar micrófonos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573'>El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/libera-espacio-iphone-truco-rendimiento-1363573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='El truco para desbloquear almacenamiento adicional y mejorar el rendimiento de tu iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-culto-netflix-1361675'>10 películas de culto en Netflix que no podrás ver en HBO Max, Prime Video, Disney Plus o SkyShowtime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-culto-netflix-1361675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/12/547458-scarface-precio-poder-critica-especial-cine-80.jpg?tf=1200x' alt='10 películas de culto en Netflix que no podrás ver en HBO Max, Prime Video, Disney Plus o SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mindfulness-5-mejores-apps-decir-adios-estres-1342182'>Mindfulness: 5 mejores apps para decir adiós al estrés</a></h4>
-    <a href='https://computerhoy.com/apps/mindfulness-5-mejores-apps-decir-adios-estres-1342182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/estres-movil-2272599.jpg?tf=1200x' alt='Mindfulness: 5 mejores apps para decir adiós al estrés' />
     </a>
 </div>
 
