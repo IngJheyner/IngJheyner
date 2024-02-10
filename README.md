@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644'>Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-romanticas-cuando-victimas-pagan-amor-creces-1360644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafas-romanticas-3269202.jpg?tf=1200x' alt='Estafas románticas: cuando las víctimas pagan el amor con creces y el efecto Halo juega a favor del delincuente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-1363877'>Los lobos mutantes de Chernóbil han desarrollado genes anticáncer</a></h4>
+    <a href='https://computerhoy.com/life/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-1363877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lobos-mutantes-chernobil-han-desarrollado-genes-anticancer-3273062.jpg?tf=1200x' alt='Los lobos mutantes de Chernóbil han desarrollado genes anticáncer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679'>5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón</a></h4>
+    <a href='https://computerhoy.com/tv/5-receptores-tdt-hd-seguir-viendo-todos-canales-apagon-1363679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='5 receptores TDT con HD para seguir viendo todos tus canales tras el apagón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-dicho-adios-tiktok-instagram-x-durante-semana-ha-sido-gran-decision-1362516'>He dicho adiós a TikTok, Instagram y X durante una semana y sí, ha sido una gran decisión aunque con matices</a></h4>
+    <a href='https://computerhoy.com/apps/he-dicho-adios-tiktok-instagram-x-durante-semana-ha-sido-gran-decision-1362516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/redes-sociales-3270775.jpg?tf=1200x' alt='He dicho adiós a TikTok, Instagram y X durante una semana y sí, ha sido una gran decisión aunque con matices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311'>Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti</a></h4>
     <a href='https://computerhoy.com/tecnologia/llevo-usando-prime-video-hace-anos-5-pros-4-contras-1361311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/prime-video-3268666.jpg?tf=1200x' alt='Llevo usando Prime Video desde hace años y tengo claro que tiene 5 pros y 4 contras: descubre si es para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363876'>¿Qué día es hoy 10 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-10-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3273061.jpg?tf=1200x' alt='¿Qué día es hoy 10 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-torres-gigantes-pc-ultracompacto-tiene-16gb-ram-increiblemente-barato-1363328'>Olvida las torres gigantes: este PC ultracompacto tiene 16GB de RAM y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-torres-gigantes-pc-ultracompacto-tiene-16gb-ram-increiblemente-barato-1363328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-n20-3271996.jpg?tf=1200x' alt='Olvida las torres gigantes: este PC ultracompacto tiene 16GB de RAM y es increíblemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869'>Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses</a></h4>
-    <a href='https://computerhoy.com/google/google-gemini-advanced-gratis-durante-dos-meses-1363869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-probar-gemini-advanced-ia-avanzada-google-gratis-durante-dos-meses-3273041.jpg?tf=1200x' alt='Así puedes probar Gemini Advanced, la IA más avanzada de Google, gratis durante dos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867'>Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-1363867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-dura-memoria-ram-como-puedes-prolongar-vida-util-3273043.jpg?tf=1200x' alt='Cuánto tiempo dura una memoria RAM y cómo puedes prolongar su vida útil' />
     </a>
 </div>
 
