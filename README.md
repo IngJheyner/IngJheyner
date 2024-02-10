@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617'>El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968'>La actualización de Windows 11 que distorsiona los emojis</a></h4>
     <a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-error-emojis-3273215.jpg?tf=1200x' alt='La actualización de Windows 11 que distorsiona los emojis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948'>Chrome podría permitir iniciar sitios web como aplicaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Chrome podría permitir iniciar sitios web como aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029'>Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-alexa-wifi-hacer-no-conecta-internet-1355029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/21-dispositivos-puedes-controlar-alexa-traves-amazon-echo.jpg?tf=1200x' alt='Cómo vincular Alexa a la red WiFi y qué hacer si no se conecta a Internet' />
     </a>
 </div>
 
