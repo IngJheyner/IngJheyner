@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953'>La NASA cree que sería “un milagro” arreglar la Voyager 1</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA cree que sería “un milagro” arreglar la Voyager 1' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/mucho-barata-gopro-4k-estabilizacion-dji-lia-amazon-1363885'>Mucho más barata que las GoPro, con 4K y estabilización: esta DJI la lía en Amazon</a></h4>
+    <a href='https://computerhoy.com/tv/mucho-barata-gopro-4k-estabilizacion-dji-lia-amazon-1363885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dji-pocket-2-3086354.jpg?tf=1200x' alt='Mucho más barata que las GoPro, con 4K y estabilización: esta DJI la lía en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948'>Chrome podría permitir iniciar sitios web como aplicaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Chrome podría permitir iniciar sitios web como aplicaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947'>Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología</a></h4>
     <a href='https://computerhoy.com/android/android-15-podria-anadir-modo-facil-aquellas-personas-lleven-mal-tecnologia-1363947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/configuracion-facil-android-15-3273166.jpg?tf=1200x' alt='Android 15 añadirá un modo fácil para aquellas personas que se lleven mal con la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estas-son-6-mejores-peliculas-han-adelantado-juicio-final-1360103'>Pandemias, meteoritos, IA y hasta extraterrestres: estas son las 5 mejores películas sobre el Juicio Final  </a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estas-son-6-mejores-peliculas-han-adelantado-juicio-final-1360103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/pandemias-meteoritos-ia-extraterrestres-estas-son-6-mejores-peliculas-juicio-final-3266431.jpg?tf=1200x' alt='Pandemias, meteoritos, IA y hasta extraterrestres: estas son las 5 mejores películas sobre el Juicio Final  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944'>Windows 11 pronunciará texto usando tu propia voz</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-pronunciara-texto-usando-propia-voz-1363944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sintetizar-voz-windows-11-3273162.jpg?tf=1200x' alt='Windows 11 pronunciará texto usando tu propia voz' />
     </a>
 </div>
 
