@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-crear-compartir-listas-google-maps-forma-facil-rapida-1363243'>Cómo sacar el máximo partido a las listas de Google Maps: así puedes crear y compartir tus lugares favoritos</a></h4>
+    <a href='https://computerhoy.com/google/como-crear-compartir-listas-google-maps-forma-facil-rapida-1363243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/listas-google-maps-3272422.jpg?tf=1200x' alt='Cómo sacar el máximo partido a las listas de Google Maps: así puedes crear y compartir tus lugares favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-simple-emoticono-te-puede-convertir-millonario-historia-smiley-1363654'>Así es como un simple emoticono te puede convertir en millonario: la historia del Smiley y su lucha legal por los derechos</a></h4>
+    <a href='https://computerhoy.com/life/como-simple-emoticono-te-puede-convertir-millonario-historia-smiley-1363654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/smiley-historia-harvey-ball-3272605.jpg?tf=1200x' alt='Así es como un simple emoticono te puede convertir en millonario: la historia del Smiley y su lucha legal por los derechos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517'>Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas</a></h4>
     <a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/conductora-coche-3272653.jpg?tf=1200x' alt='Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966'>Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/industria-doblaje-3273214.jpg?tf=1200x' alt='Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/categoria-6-escala-huracanes-mayor-devastacion-1363990'>Los últimos huracanes son tan devastadores, que se salen de la escala: proponen añadir la Categoría 6</a></h4>
-    <a href='https://computerhoy.com/ciencia/categoria-6-escala-huracanes-mayor-devastacion-1363990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ultimos-huracanes-son-tan-devastadores-salen-escala-proponen-anadir-categoria-6-3273240.jpg?tf=1200x' alt='Los últimos huracanes son tan devastadores, que se salen de la escala: proponen añadir la Categoría 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965'>El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra</a></h4>
-    <a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/invierno-3273212.jpg?tf=1200x' alt='El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra' />
     </a>
 </div>
 
