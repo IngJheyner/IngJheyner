@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071'>Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-habias-olvidado-jar-jar-binks-vuelve-cines-25-aniversario-3273363.jpg?tf=1200x' alt='Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763'>5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-3271094.jpg?tf=1200x' alt='5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-id-apple-2024-no-morir-intento-1356796'>Cómo crear un ID de Apple en 2024 y no morir en el intento</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-id-apple-2024-no-morir-intento-1356796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/id-apple-3260962.jpg?tf=1200x' alt='Cómo crear un ID de Apple en 2024 y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008'>Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona' />
     </a>
 </div>
 
