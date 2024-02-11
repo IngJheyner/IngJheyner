@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517'>Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas</a></h4>
+    <a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/conductora-coche-3272653.jpg?tf=1200x' alt='Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tres-anos-movil-gama-media-me-he-comprado-movil-1300-euros-1358585'>Tras tres años con un móvil de gama media he decidido darlo todo por un smartphone de 1.300 euros: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/moviles/tres-anos-movil-gama-media-me-he-comprado-movil-1300-euros-1358585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='Tras tres años con un móvil de gama media he decidido darlo todo por un smartphone de 1.300 euros: ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966'>Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/industria-doblaje-3273214.jpg?tf=1200x' alt='Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965'>El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra</a></h4>
     <a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/invierno-3273212.jpg?tf=1200x' alt='El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funciones-ocultas-android-llevaran-movil-otro-nivel-1360129'>Soy analista de tecnología: te cuento mis trucos para aprovechar Android al máximo con funciones ocultas y llevar tu móvil a otro nivel</a></h4>
-    <a href='https://computerhoy.com/android/funciones-ocultas-android-llevaran-movil-otro-nivel-1360129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-funciones-ocultas-movil-3268002.jpg?tf=1200x' alt='Soy analista de tecnología: te cuento mis trucos para aprovechar Android al máximo con funciones ocultas y llevar tu móvil a otro nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nit-deberias-tenerlo-cuenta-comprar-movil-ordenador-television-1356555'>¿Qué es nit y por qué deberías tenerlo en cuenta para comprar un móvil, ordenador o televisión?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nit-deberias-tenerlo-cuenta-comprar-movil-ordenador-television-1356555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707478713731-3272663.jpg?tf=1200x' alt='¿Qué es nit y por qué deberías tenerlo en cuenta para comprar un móvil, ordenador o televisión?' />
     </a>
 </div>
 
