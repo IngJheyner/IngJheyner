@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008'>Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/error-cargar-solucionador-problemas-windows-11-1362568'>Error al cargar el solucionador de problemas en Windows 11: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/windows/error-cargar-solucionador-problemas-windows-11-1362568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-cargar-solucionador-problemas-windows-11-significa-como-solucionarlo-3270835.jpg?tf=1200x' alt='Error al cargar el solucionador de problemas en Windows 11: qué significa y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-aseguran-dinero-no-necesario-ser-plenamente-feliz-1364003'>El dinero no compra la felicidad: Científicos aseguran que no es necesario para ser feliz</a></h4>
     <a href='https://computerhoy.com/life/cientificos-aseguran-dinero-no-necesario-ser-plenamente-feliz-1364003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dinero-3273252.jpg?tf=1200x' alt='El dinero no compra la felicidad: Científicos aseguran que no es necesario para ser feliz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-culto-hbo-max-1363136'>10 películas de culto en HBO Max que no podrás ver en Netflix, Prime Video, Disney Plus o SkyShowtime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-culto-hbo-max-1363136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/2001-odisea-espacio-2623075.jpg?tf=1200x' alt='10 películas de culto en HBO Max que no podrás ver en Netflix, Prime Video, Disney Plus o SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-copilot-reine-interfaz-windows-11-1364002'>Microsoft quiere que Copilot reine sobre la interfaz de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-copilot-reine-interfaz-windows-11-1364002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft quiere que Copilot reine sobre la interfaz de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-mejores-alternativas-amazon-descargar-libros-gratis-1348214'>Estas son las mejores alternativas a Amazon para descargar libros gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-mejores-alternativas-amazon-descargar-libros-gratis-1348214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-alternativas-amazon-descargar-libros-gratis-3245928.jpg?tf=1200x' alt='Estas son las mejores alternativas a Amazon para descargar libros gratis' />
     </a>
 </div>
 
