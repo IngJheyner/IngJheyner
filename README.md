@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666'>El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6</a></h4>
+    <a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tp-link-archer-ax58-3272559.jpg?tf=1200x' alt='El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/radio-digital-estreno-rtve-rne-dab-plus-1364083'>La radio digital llega oficialmente a España: RNE se estrena en DAB+ esta semana</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/radio-digital-estreno-rtve-rne-dab-plus-1364083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/radio-digital-llega-oficialmente-espana-rne-estrena-dab-semana-3273371.jpg?tf=1200x' alt='La radio digital llega oficialmente a España: RNE se estrena en DAB+ esta semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-1363060'>Amor y videojuegos: 5 juegos perfectos para jugar con tu pareja en San Valentín</a></h4>
     <a href='https://computerhoy.com/entretenimiento/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-1363060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-3271598.jpg?tf=1200x' alt='Amor y videojuegos: 5 juegos perfectos para jugar con tu pareja en San Valentín' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763'>5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-3271094.jpg?tf=1200x' alt='5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevo-estudio-senala-superaremos-umbral-aumento-2degc-finales-decada-eso-son-malas-noticias-1364018'>Un nuevo estudio señala que superaremos el umbral de aumento de 2°C a finales de esta década, y eso son malas noticias</a></h4>
-    <a href='https://computerhoy.com/life/nuevo-estudio-senala-superaremos-umbral-aumento-2degc-finales-decada-eso-son-malas-noticias-1364018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/calentamiento-global-3273266.jpg?tf=1200x' alt='Un nuevo estudio señala que superaremos el umbral de aumento de 2°C a finales de esta década, y eso son malas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tienda-windows-11-renueva-facilitar-descarga-aplicaciones-disfrute-juegos-1364015'>La tienda de Windows 11 se renueva para facilitar la descarga de aplicaciones y el disfrute de juegos</a></h4>
-    <a href='https://computerhoy.com/windows/tienda-windows-11-renueva-facilitar-descarga-aplicaciones-disfrute-juegos-1364015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tienda-windows-11-3273262.jpg?tf=1200x' alt='La tienda de Windows 11 se renueva para facilitar la descarga de aplicaciones y el disfrute de juegos' />
     </a>
 </div>
 
