@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/tienda-windows-11-renueva-facilitar-descarga-aplicaciones-disfrute-juegos-1364015'>La tienda de Windows 11 se renueva para facilitar la descarga de aplicaciones y el disfrute de juegos</a></h4>
+    <a href='https://computerhoy.com/windows/tienda-windows-11-renueva-facilitar-descarga-aplicaciones-disfrute-juegos-1364015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tienda-windows-11-3273262.jpg?tf=1200x' alt='La tienda de Windows 11 se renueva para facilitar la descarga de aplicaciones y el disfrute de juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-id-apple-2024-no-morir-intento-1356796'>Cómo crear un ID de Apple en 2024 y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-id-apple-2024-no-morir-intento-1356796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/id-apple-3260962.jpg?tf=1200x' alt='Cómo crear un ID de Apple en 2024 y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008'>Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-proteccion-fraude-financiero-google-play-protect-funciona-1364008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/compras-dentro-apps-son-30-caras-app-store-google-play-echan-culpa-privacidad-2813525.jpg?tf=1200x' alt='Esta es la nueva protección contra el fraude financiero de Google Play Protect y así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-aseguran-dinero-no-necesario-ser-plenamente-feliz-1364003'>El dinero no compra la felicidad: Científicos aseguran que no es necesario para ser feliz</a></h4>
     <a href='https://computerhoy.com/life/cientificos-aseguran-dinero-no-necesario-ser-plenamente-feliz-1364003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dinero-3273252.jpg?tf=1200x' alt='El dinero no compra la felicidad: Científicos aseguran que no es necesario para ser feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/3-formas-ejecutar-programa-como-administrador-windows-11-1362614'>3 formas de ejecutar cualquier programa como administrador en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/3-formas-ejecutar-programa-como-administrador-windows-11-1362614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-formas-ejecutar-cualquier-programa-como-administrador-windows-11-3270844.jpg?tf=1200x' alt='3 formas de ejecutar cualquier programa como administrador en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-culto-hbo-max-1363136'>10 películas de culto en HBO Max que no podrás ver en Netflix, Prime Video, Disney Plus o SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-culto-hbo-max-1363136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/2001-odisea-espacio-2623075.jpg?tf=1200x' alt='10 películas de culto en HBO Max que no podrás ver en Netflix, Prime Video, Disney Plus o SkyShowtime' />
     </a>
 </div>
 
