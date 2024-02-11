@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/queman-coche-autonomo-google-san-francisco-video-1364089'>Un vídeo muestra cómo queman un robotaxi de Google en San Francisco, entre aplausos de la multitud</a></h4>
+    <a href='https://computerhoy.com/google/queman-coche-autonomo-google-san-francisco-video-1364089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/destruyen-queman-coche-autonomo-google-plena-calle-aplausos-multitud-video-3273389.jpg?tf=1200x' alt='Un vídeo muestra cómo queman un robotaxi de Google en San Francisco, entre aplausos de la multitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085'>Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ovrdrive-usb-pendrive-autodestruye-calentandose-100-grados-centigrados-3273379.jpg?tf=1200x' alt='Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-1363060'>Amor y videojuegos: 5 juegos perfectos para jugar con tu pareja en San Valentín</a></h4>
     <a href='https://computerhoy.com/entretenimiento/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-1363060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amor-videojuegos-5-juegos-perfectos-jugar-pareja-san-valentin-3271598.jpg?tf=1200x' alt='Amor y videojuegos: 5 juegos perfectos para jugar con tu pareja en San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071'>Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-habias-olvidado-jar-jar-binks-vuelve-cines-25-aniversario-3273363.jpg?tf=1200x' alt='Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma' />
     </a>
 </div>
 
