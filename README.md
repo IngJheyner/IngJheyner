@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085'>Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ovrdrive-usb-pendrive-autodestruye-calentandose-100-grados-centigrados-3273379.jpg?tf=1200x' alt='Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666'>El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6</a></h4>
     <a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tp-link-archer-ax58-3272559.jpg?tf=1200x' alt='El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071'>Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma</a></h4>
     <a href='https://computerhoy.com/entretenimiento/star-wars-amenaza-fastamas-vuelve-cines-25-aniversario-1364071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-habias-olvidado-jar-jar-binks-vuelve-cines-25-aniversario-3273363.jpg?tf=1200x' alt='Por si te habías olvidado de él, Jar Jar Binks vuelve a los cines en el 25 aniversario de La amenaza fantasma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763'>5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-1362763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-peliculas-copiaban-descaradamente-indiana-jones-fueron-exito-3271094.jpg?tf=1200x' alt='5 películas que copiaban descaradamente a Indiana Jones y fueron un éxito' />
     </a>
 </div>
 
