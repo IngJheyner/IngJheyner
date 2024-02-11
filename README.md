@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/como-ahorrar-comprar-supermercado-argentino-vive-espana-1362826'>Un argentino tiene el truco para ahorrar en el supermercado en España, y ya se ha hecho viral</a></h4>
+    <a href='https://computerhoy.com/alimentacion/como-ahorrar-comprar-supermercado-argentino-vive-espana-1362826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprar-barato-supermercado-argentino-3271292.jpg?tf=1200x' alt='Un argentino tiene el truco para ahorrar en el supermercado en España, y ya se ha hecho viral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tv-gratis-vlc-iptv-grabar-series-favoritas-1363110'>Cómo ver la TV gratis con VLC por IPTV y grabar tus series y películas favoritas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tv-gratis-vlc-iptv-grabar-series-favoritas-1363110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-tv-gratis-vlc-iptv-grabar-series-peliculas-favoritas-3271713.jpg?tf=1200x' alt='Cómo ver la TV gratis con VLC por IPTV y grabar tus series y películas favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/como-crear-compartir-listas-google-maps-forma-facil-rapida-1363243'>Cómo sacar el máximo partido a las listas de Google Maps: así puedes crear y compartir tus lugares favoritos</a></h4>
     <a href='https://computerhoy.com/google/como-crear-compartir-listas-google-maps-forma-facil-rapida-1363243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/listas-google-maps-3272422.jpg?tf=1200x' alt='Cómo sacar el máximo partido a las listas de Google Maps: así puedes crear y compartir tus lugares favoritos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517'>Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas</a></h4>
     <a href='https://computerhoy.com/internet/circular-madrid-2024-web-me-ha-ahorrado-varias-multas-1362517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/conductora-coche-3272653.jpg?tf=1200x' alt='Circular en coche por Madrid en 2024: gracias a esta web me he ahorrado varias multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tres-anos-movil-gama-media-me-he-comprado-movil-1300-euros-1358585'>Tras tres años con un móvil de gama media he decidido darlo todo por un smartphone de 1.300 euros: ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/moviles/tres-anos-movil-gama-media-me-he-comprado-movil-1300-euros-1358585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='Tras tres años con un móvil de gama media he decidido darlo todo por un smartphone de 1.300 euros: ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966'>Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/industria-doblaje-3273214.jpg?tf=1200x' alt='Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente' />
     </a>
 </div>
 
