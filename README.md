@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-alternativas-firestick-amazon-son-4k-baratas-1363976'>5 alternativas a los Firestick de Amazon que son 4K y más baratas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-alternativas-firestick-amazon-son-4k-baratas-1363976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='5 alternativas a los Firestick de Amazon que son 4K y más baratas' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966'>Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-revolucionar-industria-doblaje-sorprendente-patente-1363966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/industria-doblaje-3273214.jpg?tf=1200x' alt='Microsoft quiere revolucionar la industria del doblaje con esta sorprendente patente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363988'>¿Qué día es hoy 11 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3273238.jpg?tf=1200x' alt='¿Qué día es hoy 11 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    <h4><a href='https://computerhoy.com/ciencia/categoria-6-escala-huracanes-mayor-devastacion-1363990'>Los últimos huracanes son tan devastadores, que se salen de la escala: proponen añadir la Categoría 6</a></h4>
+    <a href='https://computerhoy.com/ciencia/categoria-6-escala-huracanes-mayor-devastacion-1363990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ultimos-huracanes-son-tan-devastadores-salen-escala-proponen-anadir-categoria-6-3273240.jpg?tf=1200x' alt='Los últimos huracanes son tan devastadores, que se salen de la escala: proponen añadir la Categoría 6' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617'>El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo' />
+    <h4><a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965'>El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra</a></h4>
+    <a href='https://computerhoy.com/life/mes-pasado-ya-oficialmente-enero-caluroso-jamas-registrado-tierra-1363965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/invierno-3273212.jpg?tf=1200x' alt='El mes pasado ya es oficialmente el enero más caluroso jamás registrado en la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968'>La actualización de Windows 11 que distorsiona los emojis</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-11-distorsiona-emojis-1363968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-error-emojis-3273215.jpg?tf=1200x' alt='La actualización de Windows 11 que distorsiona los emojis' />
+    <h4><a href='https://computerhoy.com/android/funciones-ocultas-android-llevaran-movil-otro-nivel-1360129'>Soy analista de tecnología: te cuento mis trucos para aprovechar Android al máximo con funciones ocultas y llevar tu móvil a otro nivel</a></h4>
+    <a href='https://computerhoy.com/android/funciones-ocultas-android-llevaran-movil-otro-nivel-1360129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/android-funciones-ocultas-movil-3268002.jpg?tf=1200x' alt='Soy analista de tecnología: te cuento mis trucos para aprovechar Android al máximo con funciones ocultas y llevar tu móvil a otro nivel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953'>La NASA cree que sería “un milagro” arreglar la Voyager 1</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA cree que sería “un milagro” arreglar la Voyager 1' />
+    <h4><a href='https://computerhoy.com/tecnologia/nit-deberias-tenerlo-cuenta-comprar-movil-ordenador-television-1356555'>¿Qué es nit y por qué deberías tenerlo en cuenta para comprar un móvil, ordenador o televisión?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nit-deberias-tenerlo-cuenta-comprar-movil-ordenador-television-1356555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707478713731-3272663.jpg?tf=1200x' alt='¿Qué es nit y por qué deberías tenerlo en cuenta para comprar un móvil, ordenador o televisión?' />
     </a>
 </div>
 
