@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-alternativas-firestick-amazon-son-4k-baratas-1363976'>5 alternativas a los Firestick de Amazon que son 4K y más baratas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-alternativas-firestick-amazon-son-4k-baratas-1363976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='5 alternativas a los Firestick de Amazon que son 4K y más baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363988'>¿Qué día es hoy 11 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1363988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-11-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3273238.jpg?tf=1200x' alt='¿Qué día es hoy 11 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617'>El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tv-box-s-2nd-gen-rebajadisimo-oferta-aliexpress-1363617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='El gadget Xiaomi que desbloquea el poder de tu televisor y que es más barato que comprar uno nuevo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953'>La NASA cree que sería “un milagro” arreglar la Voyager 1</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-cree-seria-milagro-arreglar-voyager-1-1363953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA cree que sería “un milagro” arreglar la Voyager 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mucho-barata-gopro-4k-estabilizacion-dji-lia-amazon-1363885'>Mucho más barata que las GoPro, con 4K y estabilización: esta DJI la lía en Amazon</a></h4>
-    <a href='https://computerhoy.com/tv/mucho-barata-gopro-4k-estabilizacion-dji-lia-amazon-1363885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dji-pocket-2-3086354.jpg?tf=1200x' alt='Mucho más barata que las GoPro, con 4K y estabilización: esta DJI la lía en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948'>Chrome podría permitir iniciar sitios web como aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-podria-permitir-iniciar-sitios-web-como-aplicaciones-1363948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/chrome-movil-3200446.jpg?tf=1200x' alt='Chrome podría permitir iniciar sitios web como aplicaciones' />
     </a>
 </div>
 
