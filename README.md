@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386'>Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-3273939.jpg?tf=1200x' alt='Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387'>AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-1363707'>5 mejores películas “picantes” de Netflix para ver en pareja en San Valentín</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-1363707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-3272639.jpg?tf=1200x' alt='5 mejores películas “picantes” de Netflix para ver en pareja en San Valentín' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371'>Estos prismáticos con IA identifican 9.000 especies de animales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707757452608-3273792.jpg?tf=1200x' alt='Estos prismáticos con IA identifican 9.000 especies de animales' />
     </a>
 </div>
 
