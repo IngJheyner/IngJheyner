@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224'>Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3273672.jpg?tf=1200x' alt='Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252'>Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-deepfake-estados-unidos-prohibe-llamadas-usan-clonacion-voz-mediante-ia-3273682.jpg?tf=1200x' alt='Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594'>Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión</a></h4>
     <a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/herramienta-capaz-detectar-pruebas-nucleares-subterraneas-99-precision-3272446.jpg?tf=1200x' alt='Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-record-produccion-energia-nuclear-apenas-residuos-toxicos-1364135'>Un nuevo sistema de fusión nuclear consigue un récord de producción de energía sin apenas residuos tóxicos</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-record-produccion-energia-nuclear-apenas-residuos-toxicos-1364135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planta-nuclear-3273484.jpg?tf=1200x' alt='Un nuevo sistema de fusión nuclear consigue un récord de producción de energía sin apenas residuos tóxicos' />
     </a>
 </div>
 
