@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-cada-vez-tienen-menos-camaras-mejor-peor-ti-1361508'>Los móviles cada vez tienen menos cámaras: 3 razones por las que no es una mala noticia y 2 por las que sí</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-cada-vez-tienen-menos-camaras-mejor-peor-ti-1361508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/camaras-multiples-moviles-3269155.jpg?tf=1200x' alt='Los móviles cada vez tienen menos cámaras: 3 razones por las que no es una mala noticia y 2 por las que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dia-hoy-12-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364106'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 12 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/dia-hoy-12-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-12-febrero-2024-3273421.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 12 de febrero de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085'>Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ovrdrive-usb-pendrive-autodestruye-calentandose-100-grados-centigrados-3273379.jpg?tf=1200x' alt='Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666'>El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6</a></h4>
-    <a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tp-link-archer-ax58-3272559.jpg?tf=1200x' alt='El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6' />
     </a>
 </div>
 
