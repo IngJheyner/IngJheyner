@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/sera-nueva-gran-actualizacion-windows-finales-ano-1364157'>Olvídate de Windows 12, al menos para este año</a></h4>
+    <a href='https://computerhoy.com/windows/sera-nueva-gran-actualizacion-windows-finales-ano-1364157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-actualizacion-3273561.jpg?tf=1200x' alt='Olvídate de Windows 12, al menos para este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/revolucion-sexual-digital-ya-ha-comenzado-aplicaciones-juguetes-avanzados-metaverso-1364223'>La revolución sexual digital ha comenzado: aplicaciones, juguetes avanzados y metaverso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/revolucion-sexual-digital-ya-ha-comenzado-aplicaciones-juguetes-avanzados-metaverso-1364223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sexualidad-metaverso-3273653.jpg?tf=1200x' alt='La revolución sexual digital ha comenzado: aplicaciones, juguetes avanzados y metaverso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199'>¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene</a></h4>
     <a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/waze-actualizacion-3273628.jpg?tf=1200x' alt='¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162'>Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/utiliza-chatgpt-ligar-5000-mujeres-tinder-consigue-casarse-1364147'>Utiliza ChatGPT para ligar con más 5.000 mujeres en Tinder y consigue casarse con una</a></h4>
-    <a href='https://computerhoy.com/tecnologia/utiliza-chatgpt-ligar-5000-mujeres-tinder-consigue-casarse-1364147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/citas-ia-humanos-3273562.jpg?tf=1200x' alt='Utiliza ChatGPT para ligar con más 5.000 mujeres en Tinder y consigue casarse con una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/legendario-algoritmo-descifrar-sistemas-seguridad-acaba-mejorarse-30-anos-1364136'>Un legendario algoritmo para poner patas arriba sistemas de seguridad se actualiza y mejora tras 30 años</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/legendario-algoritmo-descifrar-sistemas-seguridad-acaba-mejorarse-30-anos-1364136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descifrar-sistemas-seguridad-3273526.jpg?tf=1200x' alt='Un legendario algoritmo para poner patas arriba sistemas de seguridad se actualiza y mejora tras 30 años' />
     </a>
 </div>
 
