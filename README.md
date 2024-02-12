@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371'>Estos prismáticos con IA identifican 9.000 especies de animales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707757452608-3273792.jpg?tf=1200x' alt='Estos prismáticos con IA identifican 9.000 especies de animales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871'>Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil</a></h4>
+    <a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-crear-firma-personalizada-gmail-ordenador-movil-3273054.jpg?tf=1200x' alt='Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-evitar-google-gemini-guarde-conversaciones-1364149'>Cómo evitar que Google Gemini guarde tus conversaciones por defecto, y por qué no debes compartir información sensible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-evitar-google-gemini-guarde-conversaciones-1364149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-estrena-gemini-nueva-ia-potente-gpt-4-3242798.jpg?tf=1200x' alt='Cómo evitar que Google Gemini guarde tus conversaciones por defecto, y por qué no debes compartir información sensible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224'>Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3273672.jpg?tf=1200x' alt='Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252'>Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-deepfake-estados-unidos-prohibe-llamadas-usan-clonacion-voz-mediante-ia-3273682.jpg?tf=1200x' alt='Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-apple-arrasan-lista-moviles-vendidos-historia-1364204'>Los iPhone de Apple, únicos móviles "modernos" en la lista de los más vendidos de la historia</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-apple-arrasan-lista-moviles-vendidos-historia-1364204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/smartphone-puno-cerrado-3273667.jpg?tf=1200x' alt='Los iPhone de Apple, únicos móviles "modernos" en la lista de los más vendidos de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-echo-pop-vuelve-estar-oferta-black-friday-1364150'>Amazon resucita el Black Friday y vende su altavoz inteligente más barato por menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-echo-pop-vuelve-estar-oferta-black-friday-1364150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Amazon resucita el Black Friday y vende su altavoz inteligente más barato por menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594'>Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión</a></h4>
-    <a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/herramienta-capaz-detectar-pruebas-nucleares-subterraneas-99-precision-3272446.jpg?tf=1200x' alt='Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión' />
     </a>
 </div>
 
