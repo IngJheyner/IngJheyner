@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/sera-nueva-gran-actualizacion-windows-finales-ano-1364157'>Olvídate de Windows 12, al menos para este año</a></h4>
-    <a href='https://computerhoy.com/windows/sera-nueva-gran-actualizacion-windows-finales-ano-1364157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-actualizacion-3273561.jpg?tf=1200x' alt='Olvídate de Windows 12, al menos para este año' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252'>Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-deepfake-estados-unidos-prohibe-llamadas-usan-clonacion-voz-mediante-ia-3273682.jpg?tf=1200x' alt='Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revolucion-sexual-digital-ya-ha-comenzado-aplicaciones-juguetes-avanzados-metaverso-1364223'>La revolución sexual digital ha comenzado: aplicaciones, juguetes avanzados y metaverso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/revolucion-sexual-digital-ya-ha-comenzado-aplicaciones-juguetes-avanzados-metaverso-1364223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sexualidad-metaverso-3273653.jpg?tf=1200x' alt='La revolución sexual digital ha comenzado: aplicaciones, juguetes avanzados y metaverso' />
+    <h4><a href='https://computerhoy.com/moviles/nokia-apple-arrasan-lista-moviles-vendidos-historia-1364204'>Los iPhone de Apple, únicos móviles "modernos" en la lista de los más vendidos de la historia</a></h4>
+    <a href='https://computerhoy.com/moviles/nokia-apple-arrasan-lista-moviles-vendidos-historia-1364204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/smartphone-puno-cerrado-3273667.jpg?tf=1200x' alt='Los iPhone de Apple, únicos móviles "modernos" en la lista de los más vendidos de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199'>¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene</a></h4>
-    <a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/waze-actualizacion-3273628.jpg?tf=1200x' alt='¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene' />
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-echo-pop-vuelve-estar-oferta-black-friday-1364150'>Amazon resucita el Black Friday y vende su altavoz inteligente más barato por menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-echo-pop-vuelve-estar-oferta-black-friday-1364150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/amazon-echo-pop-3074170.jpg?tf=1200x' alt='Amazon resucita el Black Friday y vende su altavoz inteligente más barato por menos de 30 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-oferta-deja-nuevo-redmi-note-13-mucho-barato-codigo-descuento-1363678'>AliExpress supera a Amazon con esta oferta: deja el nuevo Redmi Note 13 mucho más barato con un código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-oferta-deja-nuevo-redmi-note-13-mucho-barato-codigo-descuento-1363678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='AliExpress supera a Amazon con esta oferta: deja el nuevo Redmi Note 13 mucho más barato con un código descuento' />
+    <h4><a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594'>Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión</a></h4>
+    <a href='https://computerhoy.com/tecnologia/herramienta-detecta-pruebas-nucleares-subterraneas-99-precision-1363594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/herramienta-capaz-detectar-pruebas-nucleares-subterraneas-99-precision-3272446.jpg?tf=1200x' alt='Esta herramienta es capaz de detectar pruebas nucleares subterráneas con un 99% de precisión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162'>Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero' />
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-record-produccion-energia-nuclear-apenas-residuos-toxicos-1364135'>Un nuevo sistema de fusión nuclear consigue un récord de producción de energía sin apenas residuos tóxicos</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-record-produccion-energia-nuclear-apenas-residuos-toxicos-1364135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planta-nuclear-3273484.jpg?tf=1200x' alt='Un nuevo sistema de fusión nuclear consigue un récord de producción de energía sin apenas residuos tóxicos' />
     </a>
 </div>
 
