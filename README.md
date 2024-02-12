@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387'>AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371'>Estos prismáticos con IA identifican 9.000 especies de animales</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707757452608-3273792.jpg?tf=1200x' alt='Estos prismáticos con IA identifican 9.000 especies de animales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871'>Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil</a></h4>
-    <a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-crear-firma-personalizada-gmail-ordenador-movil-3273054.jpg?tf=1200x' alt='Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil' />
     </a>
 </div>
 
