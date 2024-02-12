@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dia-san-valentin-cual-origen-celebra-14-febrero-1362479'>Día de San Valentín: ¿cuál es su origen y por qué se celebra el 14 de febrero?</a></h4>
+    <a href='https://computerhoy.com/life/dia-san-valentin-cual-origen-celebra-14-febrero-1362479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-san-valentin-cual-origen-celebra-14-febrero-3270613.jpg?tf=1200x' alt='Día de San Valentín: ¿cuál es su origen y por qué se celebra el 14 de febrero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-smartwatch-barato-cuesta-36-euros-tiene-casi-todo-1362311'>AliExpress la lía con este smartwatch barato: cuesta 36 euros y lo tiene casi todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-smartwatch-barato-cuesta-36-euros-tiene-casi-todo-1362311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/haylou-solar-plus-rt3-3270254.jpg?tf=1200x' alt='AliExpress la lía con este smartwatch barato: cuesta 36 euros y lo tiene casi todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/moviles-cada-vez-tienen-menos-camaras-mejor-peor-ti-1361508'>Los móviles cada vez tienen menos cámaras: 3 razones por las que no es una mala noticia y 2 por las que sí</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-cada-vez-tienen-menos-camaras-mejor-peor-ti-1361508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/camaras-multiples-moviles-3269155.jpg?tf=1200x' alt='Los móviles cada vez tienen menos cámaras: 3 razones por las que no es una mala noticia y 2 por las que sí' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nueva-mision-privada-intentara-posarse-luna-camaras-3d-1364099'>Una nueva misión privada intentará posarse en la Luna este mes, y lo grabará con cámaras 3D</a></h4>
     <a href='https://computerhoy.com/espacio/nueva-mision-privada-intentara-posarse-luna-camaras-3d-1364099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-modulo-aterrizaje-intentara-posarse-luna-mes-grabara-camaras-3d-3273401.jpg?tf=1200x' alt='Una nueva misión privada intentará posarse en la Luna este mes, y lo grabará con cámaras 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/queman-coche-autonomo-google-san-francisco-video-1364089'>Un vídeo muestra cómo queman un robotaxi de Google en San Francisco, entre aplausos de la multitud</a></h4>
-    <a href='https://computerhoy.com/google/queman-coche-autonomo-google-san-francisco-video-1364089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/destruyen-queman-coche-autonomo-google-plena-calle-aplausos-multitud-video-3273389.jpg?tf=1200x' alt='Un vídeo muestra cómo queman un robotaxi de Google en San Francisco, entre aplausos de la multitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085'>Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ovrdrive-usb-pendrive-autodestruye-estilo-james-bond-1364085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ovrdrive-usb-pendrive-autodestruye-calentandose-100-grados-centigrados-3273379.jpg?tf=1200x' alt='Ovrdrive USB, el pendrive que se autodestruye al más puro estilo James Bond' />
     </a>
 </div>
 
