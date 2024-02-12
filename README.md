@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dia-hoy-12-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364106'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 12 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/dia-hoy-12-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-12-febrero-2024-3273421.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 12 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nueva-mision-privada-intentara-posarse-luna-camaras-3d-1364099'>Una nueva misión privada intentará posarse en la Luna este mes, y lo grabará con cámaras 3D</a></h4>
     <a href='https://computerhoy.com/espacio/nueva-mision-privada-intentara-posarse-luna-camaras-3d-1364099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-modulo-aterrizaje-intentara-posarse-luna-mes-grabara-camaras-3d-3273401.jpg?tf=1200x' alt='Una nueva misión privada intentará posarse en la Luna este mes, y lo grabará con cámaras 3D' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666'>El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6</a></h4>
     <a href='https://computerhoy.com/tecnologia/router-va-exprimir-fibra-optica-100-rebajado-precio-tiene-wifi-6-1363666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tp-link-archer-ax58-3272559.jpg?tf=1200x' alt='El router que va a exprimir tu fibra óptica al 100% está rebajado de precio y tiene WiFi 6' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/radio-digital-estreno-rtve-rne-dab-plus-1364083'>La radio digital llega oficialmente a España: RNE se estrena en DAB+ esta semana</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/radio-digital-estreno-rtve-rne-dab-plus-1364083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/radio-digital-llega-oficialmente-espana-rne-estrena-dab-semana-3273371.jpg?tf=1200x' alt='La radio digital llega oficialmente a España: RNE se estrena en DAB+ esta semana' />
     </a>
 </div>
 
