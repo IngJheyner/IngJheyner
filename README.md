@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199'>¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene</a></h4>
+    <a href='https://computerhoy.com/apps/vienen-curvas-waze-actualiza-funcion-seguridad-unica-google-maps-no-tiene-1364199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/waze-actualizacion-3273628.jpg?tf=1200x' alt='¡Qué vienen curvas! Waze se actualiza con una función de seguridad única que Google Maps no tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-oferta-deja-nuevo-redmi-note-13-mucho-barato-codigo-descuento-1363678'>AliExpress supera a Amazon con esta oferta: deja el nuevo Redmi Note 13 mucho más barato con un código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-supera-amazon-oferta-deja-nuevo-redmi-note-13-mucho-barato-codigo-descuento-1363678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='AliExpress supera a Amazon con esta oferta: deja el nuevo Redmi Note 13 mucho más barato con un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162'>Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-copiara-mejores-funciones-ps5-te-ahorrara-mucho-dinero-1364162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3272297.jpg?tf=1200x' alt='Nintendo Switch 2 copiará una de las mejores funciones de PS5 y te ahorrará mucho dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/utiliza-chatgpt-ligar-5000-mujeres-tinder-consigue-casarse-1364147'>Utiliza ChatGPT para ligar con más 5.000 mujeres en Tinder y consigue casarse con una</a></h4>
     <a href='https://computerhoy.com/tecnologia/utiliza-chatgpt-ligar-5000-mujeres-tinder-consigue-casarse-1364147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/citas-ia-humanos-3273562.jpg?tf=1200x' alt='Utiliza ChatGPT para ligar con más 5.000 mujeres en Tinder y consigue casarse con una' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/legendario-algoritmo-descifrar-sistemas-seguridad-acaba-mejorarse-30-anos-1364136'>Un legendario algoritmo para poner patas arriba sistemas de seguridad se actualiza y mejora tras 30 años</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/legendario-algoritmo-descifrar-sistemas-seguridad-acaba-mejorarse-30-anos-1364136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descifrar-sistemas-seguridad-3273526.jpg?tf=1200x' alt='Un legendario algoritmo para poner patas arriba sistemas de seguridad se actualiza y mejora tras 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-692-oferta-precio-historico-amazon-1364119'>Alexa, manda a Roomba a limpiar: el modelo más barato de iRobot está ahora aún más rebajado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-692-oferta-precio-historico-amazon-1364119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roomba-692-3273452.jpg?tf=1200x' alt='Alexa, manda a Roomba a limpiar: el modelo más barato de iRobot está ahora aún más rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-san-valentin-cual-origen-celebra-14-febrero-1362479'>Día de San Valentín: ¿cuál es su origen y por qué se celebra el 14 de febrero?</a></h4>
-    <a href='https://computerhoy.com/life/dia-san-valentin-cual-origen-celebra-14-febrero-1362479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-san-valentin-cual-origen-celebra-14-febrero-3270613.jpg?tf=1200x' alt='Día de San Valentín: ¿cuál es su origen y por qué se celebra el 14 de febrero?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-smartwatch-barato-cuesta-36-euros-tiene-casi-todo-1362311'>AliExpress la lía con este smartwatch barato: cuesta 36 euros y lo tiene casi todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-smartwatch-barato-cuesta-36-euros-tiene-casi-todo-1362311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/haylou-solar-plus-rt3-3270254.jpg?tf=1200x' alt='AliExpress la lía con este smartwatch barato: cuesta 36 euros y lo tiene casi todo' />
     </a>
 </div>
 
