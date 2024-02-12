@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-declara-guerra-saltan-requisitos-minimos-windows-11-pc-antiguos-1364385'>Microsoft declara la guerra a los que se saltan los requisitos mínimos de Windows 11 en PC antiguos</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-declara-guerra-saltan-requisitos-minimos-windows-11-pc-antiguos-1364385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Microsoft declara la guerra a los que se saltan los requisitos mínimos de Windows 11 en PC antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-1363707'>5 mejores películas “picantes” de Netflix para ver en pareja en San Valentín</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-1363707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-mejores-peliculas-picantes-netflix-ver-pareja-san-valentin-3272639.jpg?tf=1200x' alt='5 mejores películas “picantes” de Netflix para ver en pareja en San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371'>Estos prismáticos con IA identifican 9.000 especies de animales</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-prismaticos-inteligencia-artificial-identifican-9000-especies-animales-1364371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707757452608-3273792.jpg?tf=1200x' alt='Estos prismáticos con IA identifican 9.000 especies de animales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871'>Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil</a></h4>
     <a href='https://computerhoy.com/internet/como-crear-firma-personalizada-gmail-1363871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-crear-firma-personalizada-gmail-ordenador-movil-3273054.jpg?tf=1200x' alt='Cómo crear una firma personalizada en Gmail desde tu ordenador o móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-evitar-google-gemini-guarde-conversaciones-1364149'>Cómo evitar que Google Gemini guarde tus conversaciones por defecto, y por qué no debes compartir información sensible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-evitar-google-gemini-guarde-conversaciones-1364149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/google-estrena-gemini-nueva-ia-potente-gpt-4-3242798.jpg?tf=1200x' alt='Cómo evitar que Google Gemini guarde tus conversaciones por defecto, y por qué no debes compartir información sensible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224'>Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-prohibido-hackers-robar-coches-1364224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3273672.jpg?tf=1200x' alt='Primer país del mundo en prohibir la venta, uso e importación de Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252'>Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estados-unidos-prohibe-llamadas-usan-clonacion-voz-ia-1364252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guerra-deepfake-estados-unidos-prohibe-llamadas-usan-clonacion-voz-mediante-ia-3273682.jpg?tf=1200x' alt='Guerra al “deepfake”: Estados Unidos prohíbe las llamadas que usan clonación de voz mediante IA' />
     </a>
 </div>
 
