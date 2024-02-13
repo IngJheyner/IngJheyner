@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915'>10 cosas que haces mal y están dañando la batería de tu ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-haces-mal-estan-danando-bateria-ordenador-portatil-3271353.jpg?tf=1200x' alt='10 cosas que haces mal y están dañando la batería de tu ordenador portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580'>La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios</a></h4>
     <a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-3274221.jpg?tf=1200x' alt='La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456'>La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa</a></h4>
     <a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516'>Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-nas-3274150.jpg?tf=1200x' alt='Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad' />
     </a>
 </div>
 
