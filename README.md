@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412'>Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro</a></h4>
+    <a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-3273950.jpg?tf=1200x' alt='Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413'>Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-integra-reescalado-ia-windows-11-apps-juegos-veran-mucho-mejor-3273943.jpg?tf=1200x' alt='Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387'>AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
     </a>
 </div>
 
