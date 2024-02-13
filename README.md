@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737'>NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707859623063-3274464.jpg?tf=1200x' alt='NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-oferta-pone-aprietos-garmin-baratos-1364445'>El reloj con 14 días de batería y 150 deportes que pone en apuros a Garmin está agotándose gracias a una gran rebaja</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-oferta-pone-aprietos-garmin-baratos-1364445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940010.jpg?tf=1200x' alt='El reloj con 14 días de batería y 150 deportes que pone en apuros a Garmin está agotándose gracias a una gran rebaja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561'>Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden</a></h4>
     <a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iron-maiden-3274312.jpg?tf=1200x' alt='Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702'>Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido' />
     </a>
 </div>
 
