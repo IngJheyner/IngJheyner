@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628'>Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472'>El error de Excel que le ha costado a los noruegos más de 85 millones de euros </a></h4>
+    <a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bandera-noruega-logo-excel-3274110.jpg?tf=1200x' alt='El error de Excel que le ha costado a los noruegos más de 85 millones de euros ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915'>10 cosas que haces mal y están dañando la batería de tu ordenador portátil</a></h4>
     <a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-haces-mal-estan-danando-bateria-ordenador-portatil-3271353.jpg?tf=1200x' alt='10 cosas que haces mal y están dañando la batería de tu ordenador portátil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438'>Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-ojos-azules-3273976.jpg?tf=1200x' alt='Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540'>¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos</a></h4>
-    <a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alexa-112-3274219.jpg?tf=1200x' alt='¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456'>La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa</a></h4>
-    <a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa' />
     </a>
 </div>
 
