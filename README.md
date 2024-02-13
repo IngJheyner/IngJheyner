@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580'>La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios</a></h4>
+    <a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-3274221.jpg?tf=1200x' alt='La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438'>Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-ojos-azules-3273976.jpg?tf=1200x' alt='Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540'>¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos</a></h4>
     <a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alexa-112-3274219.jpg?tf=1200x' alt='¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516'>Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-nas-3274150.jpg?tf=1200x' alt='Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466'>Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros</a></h4>
-    <a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monsieur-cuisine-smart-2888196.jpg?tf=1200x' alt='Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200'>Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680723.jpg?tf=1200x' alt='Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal' />
     </a>
 </div>
 
