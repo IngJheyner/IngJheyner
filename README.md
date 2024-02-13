@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660'>Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-3274381.jpg?tf=1200x' alt='Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709'>Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561'>Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden</a></h4>
+    <a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iron-maiden-3274312.jpg?tf=1200x' alt='Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702'>Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267'>Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb</a></h4>
     <a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-extremadamente-grande-buscara-vida-espacio-hace-palidecer-james-webb-3273707.jpg?tf=1200x' alt='Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670'>El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares</a></h4>
-    <a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/perseverance-graba-video-eclipses-lunas-fobos-deimos-marte-son-espectaculares-3274275.jpg?tf=1200x' alt='El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-1364462'>¿Pueden los terraplanistas tener razón? Un nuevo estudio científico opina que sí, pero llegan tarde</a></h4>
-    <a href='https://computerhoy.com/ciencia/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-1364462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-3274021.jpg?tf=1200x' alt='¿Pueden los terraplanistas tener razón? Un nuevo estudio científico opina que sí, pero llegan tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505'>Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado</a></h4>
-    <a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/coche-segundamano-3274132.jpg?tf=1200x' alt='Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado' />
     </a>
 </div>
 
