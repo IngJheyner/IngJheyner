@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670'>El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares</a></h4>
+    <a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/perseverance-graba-video-eclipses-lunas-fobos-deimos-marte-son-espectaculares-3274275.jpg?tf=1200x' alt='El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-1364462'>¿Pueden los terraplanistas tener razón? Un nuevo estudio científico opina que sí, pero llegan tarde</a></h4>
+    <a href='https://computerhoy.com/ciencia/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-1364462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pudo-tierra-haber-sido-plana-nuevo-estudio-cientifico-opina-3274021.jpg?tf=1200x' alt='¿Pueden los terraplanistas tener razón? Un nuevo estudio científico opina que sí, pero llegan tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505'>Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado</a></h4>
     <a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/coche-segundamano-3274132.jpg?tf=1200x' alt='Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472'>El error de Excel que le ha costado a los noruegos más de 85 millones de euros </a></h4>
     <a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bandera-noruega-logo-excel-3274110.jpg?tf=1200x' alt='El error de Excel que le ha costado a los noruegos más de 85 millones de euros ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915'>10 cosas que haces mal y están dañando la batería de tu ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/pc/10-cosas-haces-mal-estan-danando-bateria-portatil-1362915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-cosas-haces-mal-estan-danando-bateria-ordenador-portatil-3271353.jpg?tf=1200x' alt='10 cosas que haces mal y están dañando la batería de tu ordenador portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580'>La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios</a></h4>
-    <a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-3274221.jpg?tf=1200x' alt='La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios' />
     </a>
 </div>
 
