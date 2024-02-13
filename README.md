@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2023-1363825'>Xiaomi resiste como la marca de móviles más vendida en España en 2023 por delante de Samsung y pese al empuje del iPhone</a></h4>
+    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2023-1363825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/marcas-smartphones-vendidas-2023-3273670.jpg?tf=1200x' alt='Xiaomi resiste como la marca de móviles más vendida en España en 2023 por delante de Samsung y pese al empuje del iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772'>Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-3272941.jpg?tf=1200x' alt='Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-13-febrero-2024-3273949.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416'>Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?</a></h4>
     <a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-3273953.jpg?tf=1200x' alt='Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412'>Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro</a></h4>
-    <a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-3273950.jpg?tf=1200x' alt='Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413'>Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-integra-reescalado-ia-windows-11-apps-juegos-veran-mucho-mejor-3273943.jpg?tf=1200x' alt='Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor' />
     </a>
 </div>
 
