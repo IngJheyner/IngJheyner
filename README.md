@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540'>¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos</a></h4>
+    <a href='https://computerhoy.com/amazon/puede-alexa-llamar-112-como-te-ayuda-comunicarte-momentos-criticos-1364540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alexa-112-3274219.jpg?tf=1200x' alt='¿Puede Alexa llamar al 112? Así es como te ayuda a comunicarte en momentos críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456'>La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa</a></h4>
+    <a href='https://computerhoy.com/tv/triste-novedad-amazon-prime-video-anuncios-1364456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='La nueva suscripción con anuncios de Amazon Prime Video oculta una desagradable sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516'>Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-nas-3274150.jpg?tf=1200x' alt='Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200'>Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680723.jpg?tf=1200x' alt='Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158'>Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento</a></h4>
-    <a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg?tf=1200x' alt='Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455'>WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-privacidad-3202248.jpg?tf=1200x' alt='WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva' />
     </a>
 </div>
 
