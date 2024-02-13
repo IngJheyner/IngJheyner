@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505'>Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado</a></h4>
+    <a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/coche-segundamano-3274132.jpg?tf=1200x' alt='Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628'>Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580'>La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios</a></h4>
     <a href='https://computerhoy.com/apple/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-1364580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-actualizacion-vision-pro-soluciona-mayor-pesadilla-usuarios-3274221.jpg?tf=1200x' alt='La primera actualización de las Vision Pro soluciona la mayor pesadilla de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438'>Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-influye-tono-ojos-salud-personas-1364438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-ojos-azules-3273976.jpg?tf=1200x' alt='Así puede influir el tono de los ojos en la capacidad para leer de una persona, según un estudio' />
     </a>
 </div>
 
