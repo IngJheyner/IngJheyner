@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158'>Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento</a></h4>
+    <a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg?tf=1200x' alt='Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455'>WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-privacidad-3202248.jpg?tf=1200x' alt='WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446'>¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad</a></h4>
     <a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-novedades-3274008.jpg?tf=1200x' alt='¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-enviar-correos-modo-confidencial-gmail-1363868'>Cómo usar el modo confidencial de Gmail para enviar y abrir correos que se autodestruyen</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-enviar-correos-modo-confidencial-gmail-1363868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-usar-modo-confidencial-gmail-enviar-abrir-correos-autodestruyen-3273051.jpg?tf=1200x' alt='Cómo usar el modo confidencial de Gmail para enviar y abrir correos que se autodestruyen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2023-1363825'>Xiaomi resiste como la marca de móviles más vendida en España en 2023 por delante de Samsung y pese al empuje del iPhone</a></h4>
-    <a href='https://computerhoy.com/moviles/marcas-moviles-vendidas-espana-2023-1363825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/marcas-smartphones-vendidas-2023-3273670.jpg?tf=1200x' alt='Xiaomi resiste como la marca de móviles más vendida en España en 2023 por delante de Samsung y pese al empuje del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772'>Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-3272941.jpg?tf=1200x' alt='Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android' />
     </a>
 </div>
 
