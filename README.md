@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446'>¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad</a></h4>
+    <a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-novedades-3274008.jpg?tf=1200x' alt='¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-potente-inteligente-ahora-tiene-200-euros-descuento-1364161'>Esta Dyson es potente, inteligente y ahora tiene 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-potente-inteligente-ahora-tiene-200-euros-descuento-1364161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dyson-v15-detect-fluffy-3273549.jpg?tf=1200x' alt='Esta Dyson es potente, inteligente y ahora tiene 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772'>Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android</a></h4>
     <a href='https://computerhoy.com/apps/metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-1363772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-metodos-compartir-ubicacion-tiempo-real-amigos-familiares-movil-android-3272941.jpg?tf=1200x' alt='Google Maps y otros métodos para compartir tu ubicación en tiempo real con amigos y familiares desde tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-13-febrero-2024-3273949.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024' />
     </a>
 </div>
 
