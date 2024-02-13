@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466'>Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros</a></h4>
+    <a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monsieur-cuisine-smart-2888196.jpg?tf=1200x' alt='Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200'>Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-10-pro-5g-oferta-casi-mitad-precio-amazon-1364200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680723.jpg?tf=1200x' alt='Este gama alta de OnePlus tiene un precio de locos y te lleva directo a la carga rápida más brutal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158'>Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento</a></h4>
     <a href='https://computerhoy.com/apple/todo-sabemos-ipad-pro-apple-pantallas-oled-calidad-precio-lanzamiento-1340158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875589.jpg?tf=1200x' alt='Todo lo que sabemos de los iPad Air y Pro de Apple y sus futuras pantallas OLED: calidad, precio y lanzamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446'>¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad</a></h4>
     <a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-novedades-3274008.jpg?tf=1200x' alt='¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-potente-inteligente-ahora-tiene-200-euros-descuento-1364161'>Esta Dyson es potente, inteligente y ahora tiene 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-potente-inteligente-ahora-tiene-200-euros-descuento-1364161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dyson-v15-detect-fluffy-3273549.jpg?tf=1200x' alt='Esta Dyson es potente, inteligente y ahora tiene 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-enviar-correos-modo-confidencial-gmail-1363868'>Cómo usar el modo confidencial de Gmail para enviar y abrir correos que se autodestruyen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-enviar-correos-modo-confidencial-gmail-1363868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-usar-modo-confidencial-gmail-enviar-abrir-correos-autodestruyen-3273051.jpg?tf=1200x' alt='Cómo usar el modo confidencial de Gmail para enviar y abrir correos que se autodestruyen' />
     </a>
 </div>
 
