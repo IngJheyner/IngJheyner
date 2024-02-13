@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416'>Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-3273953.jpg?tf=1200x' alt='Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412'>Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro</a></h4>
     <a href='https://computerhoy.com/tv/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-1364412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apagon-tdt-14-febrero-resolvemos-todas-dudas-no-te-quedes-negro-3273950.jpg?tf=1200x' alt='Apagón de la TDT del 14 de febrero: resolvemos todas las dudas para que no te quedes en negro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386'>Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-3273939.jpg?tf=1200x' alt='Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387'>AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-revienta-precio-gadget-xiaomi-muy-util-resucitar-vieja-tv-1363387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-4k-3272018.jpg?tf=1200x' alt='AliExpress revienta el precio de un gadget Xiaomi muy útil para resucitar tu vieja TV' />
     </a>
 </div>
 
