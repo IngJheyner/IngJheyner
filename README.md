@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/13-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-13-febrero-2024-3273949.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 13 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-lento-televisor-android-tv-box-13-euros-pone-tv-volar-1362301'>Di adiós a tu lento televisor: esta Android TV Box de 13 euros pone tu TV a volar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-lento-televisor-android-tv-box-13-euros-pone-tv-volar-1362301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/android-tv-box-mxq-pro-5g-4k-3237256.jpg?tf=1200x' alt='Di adiós a tu lento televisor: esta Android TV Box de 13 euros pone tu TV a volar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416'>Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?</a></h4>
     <a href='https://computerhoy.com/life/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-1364416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-desvelo-vez-secreto-mejor-guardado-significaba-i-iphone-3273953.jpg?tf=1200x' alt='Steve Jobs desveló una vez su secreto mejor guardado: ¿qué significaba para él la "i" de iPhone?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413'>Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-windows-11-super-resolucion-automatica-reescalado-inteligencia-artificial-1364413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-integra-reescalado-ia-windows-11-apps-juegos-veran-mucho-mejor-3273943.jpg?tf=1200x' alt='Microsoft integra el reescalado por IA en Windows 11: apps y juegos se verán mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/dispositivo-arruinando-senal-router-wifi-1364410'>Este dispositivo está arruinando la señal de tu router WiFi: desconectarlo mejorará tu conexión</a></h4>
-    <a href='https://computerhoy.com/redes/dispositivo-arruinando-senal-router-wifi-1364410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dispositivo-arruinando-senal-router-wifi-desconectarlo-mejorara-conexion-3273946.jpg?tf=1200x' alt='Este dispositivo está arruinando la señal de tu router WiFi: desconectarlo mejorará tu conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386'>Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-1364386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-turquia-2024-acabo-chollo-netflix-barato-cuentas-turcas-nigerianas-3273939.jpg?tf=1200x' alt='Netflix Turquía 2024: se acabó el chollo del Netflix barato con cuentas turcas o nigerianas' />
     </a>
 </div>
 
