@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702'>Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267'>Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb</a></h4>
+    <a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-extremadamente-grande-buscara-vida-espacio-hace-palidecer-james-webb-3273707.jpg?tf=1200x' alt='Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670'>El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares</a></h4>
     <a href='https://computerhoy.com/espacio/perseverance-graba-eclipses-lunas-fobos-deimos-marte-1364670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/perseverance-graba-video-eclipses-lunas-fobos-deimos-marte-son-espectaculares-3274275.jpg?tf=1200x' alt='El rover Perseverance graba en video los eclipses de las lunas Fobos y Deimos en Marte, y son espectaculares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505'>Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado</a></h4>
     <a href='https://computerhoy.com/motor/kilometros-partir-cae-picado-valor-coche-1364505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/coche-segundamano-3274132.jpg?tf=1200x' alt='Esta es la cifra de kilómetros maldita en la que el precio de tu coche cae en picado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628'>Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/querias-ipad-momento-ahora-acaba-tocar-fondo-amazon-casi-150-euros-descuento-1364628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897862.jpg?tf=1200x' alt='Si querías el iPad, el momento es ahora: acaba de tocar fondo en Amazon con casi 150 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472'>El error de Excel que le ha costado a los noruegos más de 85 millones de euros </a></h4>
-    <a href='https://computerhoy.com/tecnologia/minusculo-error-excel-ha-costado-noruega-85-millones-euros-1364472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bandera-noruega-logo-excel-3274110.jpg?tf=1200x' alt='El error de Excel que le ha costado a los noruegos más de 85 millones de euros ' />
     </a>
 </div>
 
