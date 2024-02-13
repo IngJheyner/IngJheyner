@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516'>Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carcasa-convierte-cualquier-raspberry-pi-nas-10-tb-capacidad-1364516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-nas-3274150.jpg?tf=1200x' alt='Esta carcasa convierte cualquier Raspberry Pi en un NAS con hasta 10 TB de capacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466'>Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros</a></h4>
     <a href='https://computerhoy.com/life/locura-lidl-monsieur-cuisine-smart-thermomix-barata-avanzada-solo-200-euros-1364466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/monsieur-cuisine-smart-2888196.jpg?tf=1200x' alt='Locura Lidl: Monsieur Cuisine Smart, la Thermomix barata más avanzada, por solo 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455'>WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-progresa-funcion-seguridad-muy-necesaria-pero-casi-olvidada-sigue-muy-viva-1364455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/whatsapp-privacidad-3202248.jpg?tf=1200x' alt='WhatsApp progresa y una función de seguridad muy necesaria, pero casi olvidada, sigue muy viva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446'>¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad</a></h4>
-    <a href='https://computerhoy.com/apps/quieres-enterarte-cuales-son-temas-candentes-threads-te-pone-bandeja-novedad-1364446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/threads-novedades-3274008.jpg?tf=1200x' alt='¿Quieres enterarte de cuáles son los temas más candentes? Threads te lo pone en bandeja con esta novedad' />
     </a>
 </div>
 
