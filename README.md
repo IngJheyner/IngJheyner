@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-oferta-pone-aprietos-garmin-baratos-1364445'>El reloj con 14 días de batería y 150 deportes que pone en apuros a Garmin está agotándose gracias a una gran rebaja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-oferta-pone-aprietos-garmin-baratos-1364445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940010.jpg?tf=1200x' alt='El reloj con 14 días de batería y 150 deportes que pone en apuros a Garmin está agotándose gracias a una gran rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660'>Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT</a></h4>
     <a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-3274381.jpg?tf=1200x' alt='Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702'>Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-cree-gpt-5-podria-descifrar-idioma-3000-anos-nunca-ha-entendido-1364702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3274436.jpg?tf=1200x' alt='Microsoft cree que GPT-5 podría descifrar un idioma de 3.000 años que nunca se ha entendido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267'>Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb</a></h4>
-    <a href='https://computerhoy.com/ciencia/extremadamente-grande-telescopio-palidecer-james-webb-1364267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/telescopio-extremadamente-grande-buscara-vida-espacio-hace-palidecer-james-webb-3273707.jpg?tf=1200x' alt='Así es el Telescopio Extremadamente Grande (sí, es su nombre) que buscará vida en el espacio y hace palidecer al James Webb' />
     </a>
 </div>
 
