@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817'>Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mark-zuckerberg-tim-cook-3274640.jpg?tf=1200x' alt='Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-securitas-alarma-inteligente-paga-vez-tiene-precio-locos-1364558'>Amazon va a por Securitas: su alarma inteligente se paga una vez y tiene precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-securitas-alarma-inteligente-paga-vez-tiene-precio-locos-1364558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/kit-ring-alarm-s-amazon-3274202.jpg?tf=1200x' alt='Amazon va a por Securitas: su alarma inteligente se paga una vez y tiene precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769'>Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274569.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452'>Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-crear-rutinas-personalizadas-alexa-1354207'>Personaliza a tu imagen y semejanza Amazon Alexa creando tus propias rutinas personalizadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-crear-rutinas-personalizadas-alexa-1354207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-alexa-2661513.jpg?tf=1200x' alt='Personaliza a tu imagen y semejanza Amazon Alexa creando tus propias rutinas personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058'>He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272670.jpg?tf=1200x' alt='He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?' />
     </a>
 </div>
 
