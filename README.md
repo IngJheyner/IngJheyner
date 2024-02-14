@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858'>Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830'>ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769'>Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274569.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773'>No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón</a></h4>
-    <a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón' />
     </a>
 </div>
 
