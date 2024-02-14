@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452'>Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-crear-rutinas-personalizadas-alexa-1354207'>Personaliza a tu imagen y semejanza Amazon Alexa creando tus propias rutinas personalizadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-crear-rutinas-personalizadas-alexa-1354207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/amazon-alexa-2661513.jpg?tf=1200x' alt='Personaliza a tu imagen y semejanza Amazon Alexa creando tus propias rutinas personalizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058'>He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272670.jpg?tf=1200x' alt='He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-14-febrero-2024-3274502.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-mini-pc-potente-barato-16gb-ram-115-euros-1364443'>AliExpress rompe su web con un Mini PC potente y barato: con 16GB de RAM desde 115 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-mini-pc-potente-barato-16gb-ram-115-euros-1364443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-n100-3274001.jpg?tf=1200x' alt='AliExpress rompe su web con un Mini PC potente y barato: con 16GB de RAM desde 115 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746'>Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea</a></h4>
-    <a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/astronomos-descubren-objeto-extrano-forma-sandwich-profundo-lactea-3274492.jpg?tf=1200x' alt='Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea' />
     </a>
 </div>
 
