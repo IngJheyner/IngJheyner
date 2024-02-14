@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ocultar-fotos-ex-movil-android-1364742'>Los mejores métodos para ocultar las fotos de tu ex en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/life/ocultar-fotos-ex-movil-android-1364742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-metodos-ocultar-fotos-ex-movil-android-3274489.jpg?tf=1200x' alt='Los mejores métodos para ocultar las fotos de tu ex en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/salva-viejo-televisor-quema-tdt-preparando-receptor-hd-nokia-acaba-desplomar-precio-1357850'>Salva tu viejo televisor de la quema que la TDT está preparando: este receptor HD de Nokia acaba de desplomar su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/salva-viejo-televisor-quema-tdt-preparando-receptor-hd-nokia-acaba-desplomar-precio-1357850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nokia-receptor-dvb-t-dvb-t2-hd-3262858.jpg?tf=1200x' alt='Salva tu viejo televisor de la quema que la TDT está preparando: este receptor HD de Nokia acaba de desplomar su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-12-12-practica-moda-decir-adios-estres-1364659'>Método 12 en 12: la práctica de moda para decir adiós al estrés sin perder tiempo</a></h4>
+    <a href='https://computerhoy.com/life/metodo-12-12-practica-moda-decir-adios-estres-1364659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodo-12-12-practica-moda-decir-adios-estres-perder-tiempo-3274370.jpg?tf=1200x' alt='Método 12 en 12: la práctica de moda para decir adiós al estrés sin perder tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702'>Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-3274494.jpg?tf=1200x' alt='Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-encuentran-presencia-moleculas-agua-asteroides-1364805'>Científicos encuentran moléculas de agua en asteroides: ¿un avance para la búsqueda de vida extraterrestre?</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-encuentran-presencia-moleculas-agua-asteroides-1364805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-encuentran-moleculas-agua-asteroides-avance-busqueda-vida-extraterrestre-3274585.jpg?tf=1200x' alt='Científicos encuentran moléculas de agua en asteroides: ¿un avance para la búsqueda de vida extraterrestre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866'>¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo</a></h4>
-    <a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dibujo-cerebro-3274710.jpg?tf=1200x' alt='¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/debilidades-microsoft-word-excel-utilizan-hackers-1364799'>Los hackers han descubierto tres debilidades de Microsoft Word y Excel para propagar malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/debilidades-microsoft-word-excel-utilizan-hackers-1364799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/malware-word-excel-3274587.jpg?tf=1200x' alt='Los hackers han descubierto tres debilidades de Microsoft Word y Excel para propagar malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867'>¿Pagar por navegar? Google Chrome se prepara para los micropagos</a></h4>
-    <a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-micropagos-3274721.jpg?tf=1200x' alt='¿Pagar por navegar? Google Chrome se prepara para los micropagos' />
     </a>
 </div>
 
