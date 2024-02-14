@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-14-febrero-2024-3274502.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-mini-pc-potente-barato-16gb-ram-115-euros-1364443'>AliExpress rompe su web con un Mini PC potente y barato: con 16GB de RAM desde 115 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-web-mini-pc-potente-barato-16gb-ram-115-euros-1364443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-n100-3274001.jpg?tf=1200x' alt='AliExpress rompe su web con un Mini PC potente y barato: con 16GB de RAM desde 115 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746'>Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea</a></h4>
     <a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/astronomos-descubren-objeto-extrano-forma-sandwich-profundo-lactea-3274492.jpg?tf=1200x' alt='Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740'>Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor</a></h4>
     <a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-3274479.jpg?tf=1200x' alt='Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691'>¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy</a></h4>
-    <a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-3274476.jpg?tf=1200x' alt='¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737'>NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707859623063-3274464.jpg?tf=1200x' alt='NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis' />
     </a>
 </div>
 
