@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866'>¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo</a></h4>
+    <a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dibujo-cerebro-3274710.jpg?tf=1200x' alt='¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/debilidades-microsoft-word-excel-utilizan-hackers-1364799'>Los hackers han descubierto tres debilidades de Microsoft Word y Excel para propagar malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/debilidades-microsoft-word-excel-utilizan-hackers-1364799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/malware-word-excel-3274587.jpg?tf=1200x' alt='Los hackers han descubierto tres debilidades de Microsoft Word y Excel para propagar malware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858'>Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830'>ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria' />
     </a>
 </div>
 
