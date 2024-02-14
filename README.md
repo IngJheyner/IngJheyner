@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773'>No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón</a></h4>
+    <a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452'>Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313'>10 formas de restablecer o reparar una fórmula de Microsoft Excel</a></h4>
     <a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-formas-restablecer-reparar-formula-microsoft-excel-3273830.jpg?tf=1200x' alt='10 formas de restablecer o reparar una fórmula de Microsoft Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-14-febrero-2024-3274502.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024' />
     </a>
 </div>
 
