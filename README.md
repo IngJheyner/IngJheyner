@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830'>ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-convierte-asesino-serie-pelicula-ya-sabe-hiciste-ultimo-verano-1364830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='ChatGPT se convierte en un "asesino en serie de películas" y ya sabe lo que hiciste el último verano: por fin tiene memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817'>Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mark-zuckerberg-tim-cook-3274640.jpg?tf=1200x' alt='Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773'>No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón</a></h4>
     <a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452'>Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pepino-poco-12gb-ram-acaba-estrenar-ya-cae-picado-precio-1364452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Este pepino de POCO con 12GB de RAM se acaba de estrenar y ya cae en picado de precio' />
     </a>
 </div>
 
