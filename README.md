@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-peliculas-guerra-belicas-puedes-ver-netflix-3271911.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963'>Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería</a></h4>
     <a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-3274975.jpg?tf=1200x' alt='Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926'>El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi</a></h4>
     <a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/triangulo-bermudas-wifi-dos-lugares-donde-nunca-deberias-colocar-router-wifi-3273056.jpg?tf=1200x' alt='El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-jugar-barato-amazon-rompe-tienda-rtx-grafica-16gb-ram-1364501'>El portátil para jugar más barato de Amazon rompe la tienda: RTX de gráfica y 16GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-jugar-barato-amazon-rompe-tienda-rtx-grafica-16gb-ram-1364501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-tuf-gaming-f15-fx506hf-3274077.jpg?tf=1200x' alt='El portátil para jugar más barato de Amazon rompe la tienda: RTX de gráfica y 16GB de RAM' />
     </a>
 </div>
 
