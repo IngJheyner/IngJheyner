@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867'>¿Pagar por navegar? Google Chrome se prepara para los micropagos</a></h4>
+    <a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-micropagos-3274721.jpg?tf=1200x' alt='¿Pagar por navegar? Google Chrome se prepara para los micropagos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ceo-openai-ha-comparado-chatgpt-movil-poco-util-1364821'>Sam Altman, CEO de OpenAI, ha comparado ChatGPT con un móvil poco útil</a></h4>
+    <a href='https://computerhoy.com/apps/ceo-openai-ha-comparado-chatgpt-movil-poco-util-1364821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274626.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, ha comparado ChatGPT con un móvil poco útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858'>Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817'>Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/mark-zuckerberg-opina-vision-pro-apple-califica-como-caras-inferiores-meta-quest-1364817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mark-zuckerberg-tim-cook-3274640.jpg?tf=1200x' alt='Meta Quest vs. Vision Pro: Mark Zuckerberg opina de las gafas de Apple y lo tiene claro, no hay competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-securitas-alarma-inteligente-paga-vez-tiene-precio-locos-1364558'>Amazon va a por Securitas: su alarma inteligente se paga una vez y tiene precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-va-securitas-alarma-inteligente-paga-vez-tiene-precio-locos-1364558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/kit-ring-alarm-s-amazon-3274202.jpg?tf=1200x' alt='Amazon va a por Securitas: su alarma inteligente se paga una vez y tiene precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769'>Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274569.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo' />
     </a>
 </div>
 
