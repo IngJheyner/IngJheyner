@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702'>Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-1247702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-toda-tdt-cientos-canales-television-gratis-instalar-nada-tvguia-3274494.jpg?tf=1200x' alt='Cómo ver toda la TDT y cientos de canales de televisión gratis sin instalar nada con TVguia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-encuentran-presencia-moleculas-agua-asteroides-1364805'>Científicos encuentran moléculas de agua en asteroides: ¿un avance para la búsqueda de vida extraterrestre?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-encuentran-presencia-moleculas-agua-asteroides-1364805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-encuentran-moleculas-agua-asteroides-avance-busqueda-vida-extraterrestre-3274585.jpg?tf=1200x' alt='Científicos encuentran moléculas de agua en asteroides: ¿un avance para la búsqueda de vida extraterrestre?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866'>¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo</a></h4>
     <a href='https://computerhoy.com/tv/speed-watching-como-podria-estar-afectando-cerebro-1364866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dibujo-cerebro-3274710.jpg?tf=1200x' alt='¿Ves los vídeos a doble velocidad? Practicas speed watching y estás volviendo a tu cerebro más primitivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867'>¿Pagar por navegar? Google Chrome se prepara para los micropagos</a></h4>
     <a href='https://computerhoy.com/google/pagar-navegar-google-chrome-prepara-micropagos-1364867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-micropagos-3274721.jpg?tf=1200x' alt='¿Pagar por navegar? Google Chrome se prepara para los micropagos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ceo-openai-ha-comparado-chatgpt-movil-poco-util-1364821'>Sam Altman, CEO de OpenAI, ha comparado ChatGPT con un móvil poco útil</a></h4>
-    <a href='https://computerhoy.com/apps/ceo-openai-ha-comparado-chatgpt-movil-poco-util-1364821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274626.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, ha comparado ChatGPT con un móvil poco útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858'>Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigadores-logran-avance-clave-futuro-tecnologia-ordenadores-cuanticos-1364858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3274675.jpg?tf=1200x' alt='Investigadores logran un avance clave para el futuro de la tecnología y ordenadores cuánticos' />
     </a>
 </div>
 
