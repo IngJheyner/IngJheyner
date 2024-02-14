@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047'>XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos</a></h4>
+    <a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xloader-peligroso-malware-android-activa-solo-disfraza-chrome-robar-datos-3275054.jpg?tf=1200x' alt='XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-peliculas-guerra-belicas-puedes-ver-netflix-3271911.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017'>El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926'>El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/triangulo-bermudas-wifi-dos-lugares-donde-nunca-deberias-colocar-router-wifi-3273056.jpg?tf=1200x' alt='El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi' />
     </a>
 </div>
 
