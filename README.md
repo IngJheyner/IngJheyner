@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769'>Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-ceo-openai-confiesa-hay-algo-no-deja-dormir-no-no-conquista-robot-mundo-1364769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3274569.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI confiesa que hay algo que no le deja dormir y no, no es una conquista robot del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773'>No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón</a></h4>
     <a href='https://computerhoy.com/tv/canales-tdt-han-dejado-emitir-siempre-apagon-1364773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ver-tdt-3274549.jpg?tf=1200x' alt='No los busques: canales de la TDT que han dejado de emitir para siempre tras el apagón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058'>He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272670.jpg?tf=1200x' alt='He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313'>10 formas de restablecer o reparar una fórmula de Microsoft Excel</a></h4>
-    <a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-formas-restablecer-reparar-formula-microsoft-excel-3273830.jpg?tf=1200x' alt='10 formas de restablecer o reparar una fórmula de Microsoft Excel' />
     </a>
 </div>
 
