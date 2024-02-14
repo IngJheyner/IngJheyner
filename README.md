@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740'>Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-3274479.jpg?tf=1200x' alt='Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691'>¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy</a></h4>
     <a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-3274476.jpg?tf=1200x' alt='¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660'>Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT</a></h4>
     <a href='https://computerhoy.com/life/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-1364660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprende-pareja-san-valentin-poema-amor-personalizado-chatgpt-3274381.jpg?tf=1200x' alt='Sorprende a tu pareja en San Valentín con un poema de amor personalizado con ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709'>Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos' />
     </a>
 </div>
 
