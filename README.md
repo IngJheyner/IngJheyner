@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691'>¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy</a></h4>
+    <a href='https://computerhoy.com/tv/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-1364691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/canales-negro-debes-hacer-quieres-seguir-viendo-tdt-gratis-partir-hoy-3274476.jpg?tf=1200x' alt='¿Canales en negro? Lo que debes hacer si quieres seguir viendo la TDT gratis a partir de hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737'>NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/chat-with-rtx-nvidia-alternativa-chatgpt-1364737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1707859623063-3274464.jpg?tf=1200x' alt='NVIDIA presenta Chat with RTX, su alternativa a ChatGPT que no usa la nube: así puedes descargarla gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709'>Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos</a></h4>
     <a href='https://computerhoy.com/tecnologia/vuelve-video-comunitario-ayuntamiento-aprueba-iptv-pirata-todos-vecinos-1364709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Vuelve el vídeo comunitario: Un ayuntamiento aprueba una IPTV pirata para todos los vecinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561'>Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden</a></h4>
-    <a href='https://computerhoy.com/ciencia/ponen-nombre-cantante-iron-maiden-nuevo-tipo-lagarto-1364561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iron-maiden-3274312.jpg?tf=1200x' alt='Descubren un nuevo tipo de lagarto en Perú, y la ponen el nombre del cantante de Iron Maiden' />
     </a>
 </div>
 
