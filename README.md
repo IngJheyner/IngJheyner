@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058'>He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-samsung-galaxy-s24-galaxy-s24-cual-ti-1363058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272670.jpg?tf=1200x' alt='He probado el Samsung Galaxy S24 y el Samsung Galaxy S24+ y ambos son excelentes, sobre todo en funciones de IA, pero, ¿cuál es para ti?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313'>10 formas de restablecer o reparar una fórmula de Microsoft Excel</a></h4>
+    <a href='https://computerhoy.com/apps/formas-reparar-formula-microsoft-excel-1364313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-formas-restablecer-reparar-formula-microsoft-excel-3273830.jpg?tf=1200x' alt='10 formas de restablecer o reparar una fórmula de Microsoft Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/14-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1364755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-14-febrero-2024-3274502.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 14 de febrero de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746'>Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea</a></h4>
     <a href='https://computerhoy.com/espacio/astronomos-encuentran-objeto-forma-sandwich-lactea-1364746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/astronomos-descubren-objeto-extrano-forma-sandwich-profundo-lactea-3274492.jpg?tf=1200x' alt='Astrónomos descubren un objeto extraño con forma de sándwich en lo más profundo de la Vía Láctea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ahora-tiene-memoria-acuerda-ti-gustos-1364747'>ChatGPT se vuelve más "humano": ahora tiene memoria, se acuerda de ti y de tus gustos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-ahora-tiene-memoria-acuerda-ti-gustos-1364747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-vuelve-humano-ahora-tiene-memoria-acuerda-ti-gustos-3274481.jpg?tf=1200x' alt='ChatGPT se vuelve más "humano": ahora tiene memoria, se acuerda de ti y de tus gustos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740'>Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-1364740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/consiguen-convertir-flipper-zero-consola-videojuegos-compatible-cualquier-televisor-3274479.jpg?tf=1200x' alt='Consiguen convertir el Flipper Zero en una consola de videojuegos compatible con cualquier televisor' />
     </a>
 </div>
 
