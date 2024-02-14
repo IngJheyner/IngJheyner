@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963'>Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-3274975.jpg?tf=1200x' alt='Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018'>Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño</a></h4>
+    <a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017'>El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926'>El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/estos-son-dos-lugares-donde-nunca-deberias-colocar-router-wifi-casa-1267926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/triangulo-bermudas-wifi-dos-lugares-donde-nunca-deberias-colocar-router-wifi-3273056.jpg?tf=1200x' alt='El Triángulo de la Bermudas del WiFi: lugares donde nunca deberías colocar el router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-jugar-barato-amazon-rompe-tienda-rtx-grafica-16gb-ram-1364501'>El portátil para jugar más barato de Amazon rompe la tienda: RTX de gráfica y 16GB de RAM</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-jugar-barato-amazon-rompe-tienda-rtx-grafica-16gb-ram-1364501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-tuf-gaming-f15-fx506hf-3274077.jpg?tf=1200x' alt='El portátil para jugar más barato de Amazon rompe la tienda: RTX de gráfica y 16GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/icloud-apple-music-apple-tv-reinventan-windows-1365010'>iCloud, Apple Music y Apple TV se reinventan en Windows, añadiendo todas las funciones de los dispositivos Apple</a></h4>
-    <a href='https://computerhoy.com/apple/icloud-apple-music-apple-tv-reinventan-windows-1365010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cloud-apple-music-apple-tv-reinventan-windows-anadiendo-todas-funciones-dispositivos-apple-3274902.jpg?tf=1200x' alt='iCloud, Apple Music y Apple TV se reinventan en Windows, añadiendo todas las funciones de los dispositivos Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fue-john-von-neumann-padre-informatica-moderna-ia-1364894'>En la mente de John von Neumann, el padre de la informática moderna y la IA</a></h4>
-    <a href='https://computerhoy.com/ciencia/fue-john-von-neumann-padre-informatica-moderna-ia-1364894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fue-john-von-neumann-padre-informatica-moderna-3274745.jpg?tf=1200x' alt='En la mente de John von Neumann, el padre de la informática moderna y la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocultar-fotos-ex-movil-android-1364742'>Los mejores métodos para ocultar las fotos de tu ex en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/life/ocultar-fotos-ex-movil-android-1364742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-metodos-ocultar-fotos-ex-movil-android-3274489.jpg?tf=1200x' alt='Los mejores métodos para ocultar las fotos de tu ex en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/salva-viejo-televisor-quema-tdt-preparando-receptor-hd-nokia-acaba-desplomar-precio-1357850'>Salva tu viejo televisor de la quema que la TDT está preparando: este receptor HD de Nokia acaba de desplomar su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/salva-viejo-televisor-quema-tdt-preparando-receptor-hd-nokia-acaba-desplomar-precio-1357850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nokia-receptor-dvb-t-dvb-t2-hd-3262858.jpg?tf=1200x' alt='Salva tu viejo televisor de la quema que la TDT está preparando: este receptor HD de Nokia acaba de desplomar su precio' />
     </a>
 </div>
 
