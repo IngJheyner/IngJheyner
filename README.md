@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382'>Google acelera: una semana después de Gemini, llega Gemini 1.5</a></h4>
+    <a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-acelera-semana-despues-gemini-llega-gemini-15-3275593.jpg?tf=1200x' alt='Google acelera: una semana después de Gemini, llega Gemini 1.5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360'>Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya</a></h4>
     <a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3275607.jpg?tf=1200x' alt='Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112'>Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar</a></h4>
     <a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rucking-ejercicio-moda-estar-forma-ganar-fuerza-3275159.jpg?tf=1200x' alt='Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/aplicacion-citas-solo-hay-perfil-1365189'>Flirt With Los: el Tinder en la que solo hay un perfil para aceptar o rechazar</a></h4>
-    <a href='https://computerhoy.com/apps/aplicacion-citas-solo-hay-perfil-1365189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dos-personas-enamoradas-3275491.jpg?tf=1200x' alt='Flirt With Los: el Tinder en la que solo hay un perfil para aceptar o rechazar' />
     </a>
 </div>
 
