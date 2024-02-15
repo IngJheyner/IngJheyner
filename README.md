@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236'>Estos son los modelos de móviles más vendidos en España en 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-moviles-vendidos-3273781.jpg?tf=1200x' alt='Estos son los modelos de móviles más vendidos en España en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446'>He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado</a></h4>
+    <a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272293.jpg?tf=1200x' alt='He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/son-pendientes-inteligentes-permitiran-medir-estres-1364774'>Del anillo a los pendientes inteligentes que permitirán medir el estrés</a></h4>
+    <a href='https://computerhoy.com/ciencia/son-pendientes-inteligentes-permitiran-medir-estres-1364774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-pendientes-inteligentes-permitiran-medir-estres-3274520.jpg?tf=1200x' alt='Del anillo a los pendientes inteligentes que permitirán medir el estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-15-febrero-2024-3275085.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517'>La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/akaso-ek7000-3274101.jpg?tf=1200x' alt='La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061'>Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril</a></h4>
-    <a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acabo-invierno-bitcoin-supera-48000-euros-espera-otro-tiron-abril-3275056.jpg?tf=1200x' alt='Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047'>XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos</a></h4>
-    <a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xloader-peligroso-malware-android-activa-solo-disfraza-chrome-robar-datos-3275054.jpg?tf=1200x' alt='XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-peliculas-guerra-belicas-puedes-ver-netflix-3271911.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
     </a>
 </div>
 
