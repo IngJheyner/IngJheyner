@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852'>5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-alimentos-tienes-introducir-dieta-quieres-decir-adios-estres-3267767.jpg?tf=1200x' alt='5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099'>Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-vida-extraterrestre-3275126.jpg?tf=1200x' alt='Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117'>La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/buena-vida-3274108.jpg?tf=1200x' alt='La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103'>Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU</a></h4>
-    <a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU' />
     </a>
 </div>
 
