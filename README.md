@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091'>El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 </a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-inteligencia-artificial-3275119.jpg?tf=1200x' alt='El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086'>La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ue-confirma-servicio-apple-no-entrara-ley-mercados-digitales-google-no-gusta-3275087.jpg?tf=1200x' alt='La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236'>Estos son los modelos de móviles más vendidos en España en 2023</a></h4>
     <a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-moviles-vendidos-3273781.jpg?tf=1200x' alt='Estos son los modelos de móviles más vendidos en España en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446'>He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado</a></h4>
-    <a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272293.jpg?tf=1200x' alt='He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado' />
     </a>
 </div>
 
