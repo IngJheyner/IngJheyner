@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103'>Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU</a></h4>
+    <a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091'>El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 </a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-inteligencia-artificial-3275119.jpg?tf=1200x' alt='El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2024 (lista actualizada)</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-secretos-netflix-2024-lista-actualizada-3273962.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2024 (lista actualizada)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236'>Estos son los modelos de móviles más vendidos en España en 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-moviles-vendidos-3273781.jpg?tf=1200x' alt='Estos son los modelos de móviles más vendidos en España en 2023' />
     </a>
 </div>
 
