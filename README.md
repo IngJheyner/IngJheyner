@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/encontrar-email-cualquier-persona-internet-1365058'>Con estas herramientas es posible encontrar el email de casi cualquier persona en Internet</a></h4>
+    <a href='https://computerhoy.com/internet/encontrar-email-cualquier-persona-internet-1365058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodos-infalibles-encontrar-email-casi-cualquier-persona-internet-3275075.jpg?tf=1200x' alt='Con estas herramientas es posible encontrar el email de casi cualquier persona en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fue-einstein-realmente-fisico-importante-historia-1364957'>¿Fue realmente Albert Einstein el físico más grande de la historia? </a></h4>
+    <a href='https://computerhoy.com/ciencia/fue-einstein-realmente-fisico-importante-historia-1364957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3062950.jpg?tf=1200x' alt='¿Fue realmente Albert Einstein el físico más grande de la historia? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128'>Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando </a></h4>
     <a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copiar-pegar-windows-3275343.jpg?tf=1200x' alt='Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099'>Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre</a></h4>
     <a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-vida-extraterrestre-3275126.jpg?tf=1200x' alt='Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083'>Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords' />
     </a>
 </div>
 
