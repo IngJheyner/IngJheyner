@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061'>Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril</a></h4>
+    <a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acabo-invierno-bitcoin-supera-48000-euros-espera-otro-tiron-abril-3275056.jpg?tf=1200x' alt='Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047'>XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos</a></h4>
     <a href='https://computerhoy.com/android/xloader-malware-suplanta-google-chrome-robar-datos-1365047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xloader-peligroso-malware-android-activa-solo-disfraza-chrome-robar-datos-3275054.jpg?tf=1200x' alt='XLoader: vuelve el peligroso malware de Android que se activa solo y se disfraza de Chrome para robar tus datos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018'>Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño</a></h4>
     <a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017'>El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/timo-codigo-guardia-civil-alerta-peligrosa-estafa-secuestra-cuentas-whatsapp-1365017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='El timo del código: Guardia Civil alerta de esta peligrosa estafa que secuestra cuentas de WhatsApp' />
     </a>
 </div>
 
