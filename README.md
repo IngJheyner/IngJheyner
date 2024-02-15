@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517'>La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/akaso-ek7000-3274101.jpg?tf=1200x' alt='La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061'>Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril</a></h4>
     <a href='https://computerhoy.com/criptos/-bitcoin-supera-48000-euros-espera-otra-subida-abril-1365061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acabo-invierno-bitcoin-supera-48000-euros-espera-otro-tiron-abril-3275056.jpg?tf=1200x' alt='Se acabó el invierno: el Bitcoin supera los 48.000 euros y se espera otra subida en abril' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963'>Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería</a></h4>
     <a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-3274975.jpg?tf=1200x' alt='Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018'>Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño</a></h4>
-    <a href='https://computerhoy.com/life/dinosaurios-dominaron-tierra-forma-caminar-no-tamano-1365018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mapa-te-permite-ver-donde-estaba-casa-epoca-dinosaurios-3024004.jpg?tf=1200x' alt='Los dinosaurios dominaron la Tierra por su forma de caminar, no por su tamaño' />
     </a>
 </div>
 
