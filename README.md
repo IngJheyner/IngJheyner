@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/encontrar-email-cualquier-persona-internet-1365058'>Con estas herramientas es posible encontrar el email de casi cualquier persona en Internet</a></h4>
-    <a href='https://computerhoy.com/internet/encontrar-email-cualquier-persona-internet-1365058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodos-infalibles-encontrar-email-casi-cualquier-persona-internet-3275075.jpg?tf=1200x' alt='Con estas herramientas es posible encontrar el email de casi cualquier persona en Internet' />
+    <h4><a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360'>Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya</a></h4>
+    <a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3275607.jpg?tf=1200x' alt='Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fue-einstein-realmente-fisico-importante-historia-1364957'>¿Fue realmente Albert Einstein el físico más grande de la historia? </a></h4>
-    <a href='https://computerhoy.com/ciencia/fue-einstein-realmente-fisico-importante-historia-1364957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/albert-einstein-3062950.jpg?tf=1200x' alt='¿Fue realmente Albert Einstein el físico más grande de la historia? ' />
+    <h4><a href='https://computerhoy.com/windows/google-ofrece-como-solucion-aquellos-queden-windows-10-1365353'>Google se ofrece como solución para aquellos que se queden sin Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/google-ofrece-como-solucion-aquellos-queden-windows-10-1365353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chromeos-flex-3275596.jpg?tf=1200x' alt='Google se ofrece como solución para aquellos que se queden sin Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128'>Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando </a></h4>
-    <a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copiar-pegar-windows-3275343.jpg?tf=1200x' alt='Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando ' />
+    <h4><a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337'>Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-android-auto-moviles-como-puedes-activarlo-ahora-mismo-3275594.jpg?tf=1200x' alt='Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852'>5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-alimentos-tienes-introducir-dieta-quieres-decir-adios-estres-3267767.jpg?tf=1200x' alt='5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés' />
+    <h4><a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112'>Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar</a></h4>
+    <a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rucking-ejercicio-moda-estar-forma-ganar-fuerza-3275159.jpg?tf=1200x' alt='Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099'>Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre</a></h4>
-    <a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-vida-extraterrestre-3275126.jpg?tf=1200x' alt='Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre' />
+    <h4><a href='https://computerhoy.com/apps/aplicacion-citas-solo-hay-perfil-1365189'>Flirt With Los: el Tinder en la que solo hay un perfil para aceptar o rechazar</a></h4>
+    <a href='https://computerhoy.com/apps/aplicacion-citas-solo-hay-perfil-1365189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dos-personas-enamoradas-3275491.jpg?tf=1200x' alt='Flirt With Los: el Tinder en la que solo hay un perfil para aceptar o rechazar' />
     </a>
 </div>
 
