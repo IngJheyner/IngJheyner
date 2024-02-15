@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-15-febrero-2024-3275085.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517'>La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/akaso-ek7000-3274101.jpg?tf=1200x' alt='La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125'>Las mejores películas de guerra (bélicas) que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/mejores-peliculas-guerra-belicas-puedes-ver-netflix-393125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-peliculas-guerra-belicas-puedes-ver-netflix-3271911.jpg?tf=1200x' alt='Las mejores películas de guerra (bélicas) que puedes ver en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963'>Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-1364963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/usos-flipper-zero-utiles-dia-dia-nada-tienen-ver-robo-pirateria-3274975.jpg?tf=1200x' alt='Usos de Flipper Zero útiles para el día a día que nada tienen que ver con el robo o la piratería' />
     </a>
 </div>
 
