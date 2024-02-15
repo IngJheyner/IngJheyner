@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083'>Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords</a></h4>
     <a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091'>El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 </a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-inteligencia-artificial-3275119.jpg?tf=1200x' alt='El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086'>La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ue-confirma-servicio-apple-no-entrara-ley-mercados-digitales-google-no-gusta-3275087.jpg?tf=1200x' alt='La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta' />
     </a>
 </div>
 
