@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086'>La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ue-confirma-servicio-apple-no-entrara-ley-mercados-digitales-google-no-gusta-3275087.jpg?tf=1200x' alt='La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-ryzen-7-brutal-amazon-pccomponentes-rebajan-nunca-1364663'>Guerra de precios por el Ryzen 7 más brutal: Amazon y PcComponentes lo rebajan más que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guerra-precios-ryzen-7-brutal-amazon-pccomponentes-rebajan-nunca-1364663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Guerra de precios por el Ryzen 7 más brutal: Amazon y PcComponentes lo rebajan más que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2024 (lista actualizada)</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-secretos-netflix-2024-lista-actualizada-3273962.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2024 (lista actualizada)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236'>Estos son los modelos de móviles más vendidos en España en 2023</a></h4>
     <a href='https://computerhoy.com/moviles/estos-son-moviles-vendidos-espana-2023-1364236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-moviles-vendidos-3273781.jpg?tf=1200x' alt='Estos son los modelos de móviles más vendidos en España en 2023' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446'>He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado</a></h4>
     <a href='https://computerhoy.com/analisis/he-tenido-varias-semanas-xiaomi-redmi-watch-diseno-me-ha-enamorado-1363446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272293.jpg?tf=1200x' alt='He tenido el Xiaomi Redmi Watch 4 varias semanas y solo lo he cargado una vez, pero su diseño es lo que de verdad me ha enamorado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/son-pendientes-inteligentes-permitiran-medir-estres-1364774'>Del anillo a los pendientes inteligentes que permitirán medir el estrés</a></h4>
-    <a href='https://computerhoy.com/ciencia/son-pendientes-inteligentes-permitiran-medir-estres-1364774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-pendientes-inteligentes-permitiran-medir-estres-3274520.jpg?tf=1200x' alt='Del anillo a los pendientes inteligentes que permitirán medir el estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/15-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-15-febrero-2024-3275085.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 15 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517'>La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-gopro-top-ventas-amazon-hunde-precio-cuesta-cinco-veces-menos-1364517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/akaso-ek7000-3274101.jpg?tf=1200x' alt='La alternativa a GoPro top ventas en Amazon hunde su precio y cuesta cinco veces menos' />
     </a>
 </div>
 
