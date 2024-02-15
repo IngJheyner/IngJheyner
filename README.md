@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099'>Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre</a></h4>
+    <a href='https://computerhoy.com/ciencia/nueva-tecnica-ayudara-encontrar-vida-extraterrestre-1365099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-vida-extraterrestre-3275126.jpg?tf=1200x' alt='Descubren una forma de delimitar el espacio que puede agilizar la búsqueda de vida extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570'>Cómo instalar TDTChannels y añadir listas de canales gratis</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-tdtchannels-anadir-listas-canales-gratis-1231570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-instalar-tdtchannels-anadir-listas-canales-gratis-3275078.jpg?tf=1200x' alt='Cómo instalar TDTChannels y añadir listas de canales gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103'>Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU</a></h4>
     <a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091'>El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 </a></h4>
-    <a href='https://computerhoy.com/apple/iphone-16-listo-inteligencia-artificial-lleno-ios-18-procesadores-a18-1365091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-inteligencia-artificial-3275119.jpg?tf=1200x' alt='El iPhone 16 listo para que la inteligencia artificial entre de lleno con iOS 18 y sus procesadores A18 ' />
     </a>
 </div>
 
