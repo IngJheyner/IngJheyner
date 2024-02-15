@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128'>Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando </a></h4>
+    <a href='https://computerhoy.com/windows/ya-no-tendras-adivinar-estas-copiando-cortando-pegando-windows-1365128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copiar-pegar-windows-3275343.jpg?tf=1200x' alt='Adiós a uno de sus fallos más insufribles de Windows: ya no tendrás que adivinar si estás copiando, cortando o pegando ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852'>5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés</a></h4>
     <a href='https://computerhoy.com/alimentacion/alimentos-antiestres-1360852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-alimentos-tienes-introducir-dieta-quieres-decir-adios-estres-3267767.jpg?tf=1200x' alt='5 alimentos que tienes que introducir en tu dieta si quieres decir adiós al estrés' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083'>Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords</a></h4>
     <a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117'>La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/buena-vida-3274108.jpg?tf=1200x' alt='La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios' />
     </a>
 </div>
 
