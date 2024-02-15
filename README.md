@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083'>Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suma-sigue-pixel-8-vuelve-bajar-precio-rompe-todos-records-1365083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Suma y sigue: el Pixel 8 vuelve a bajar de precio y rompe todos sus récords' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117'>La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/1-emite-famosa-peli-siesta-aleman-redes-sociales-llenan-memes-1365117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/buena-vida-3274108.jpg?tf=1200x' alt='La 1 emite su famosa "peli de la siesta" en alemán y las redes sociales se llenan de memes y comentarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103'>Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU</a></h4>
     <a href='https://computerhoy.com/windows/windows-24h2-grandes-novedades-inteligencia-artificial-nuevo-requisito-cpu-1365103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Windows 24H2: grandes novedades en inteligencia artificial y un nuevo requisito de CPU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086'>La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta</a></h4>
     <a href='https://computerhoy.com/tecnologia/ue-confirma-imessage-no-entrara-ley-mercados-digitales-1365086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ue-confirma-servicio-apple-no-entrara-ley-mercados-digitales-google-no-gusta-3275087.jpg?tf=1200x' alt='La UE confirma que un servicio de Apple no entrará en la Ley de Mercados Digitales, y a Google no le gusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guerra-precios-ryzen-7-brutal-amazon-pccomponentes-rebajan-nunca-1364663'>Guerra de precios por el Ryzen 7 más brutal: Amazon y PcComponentes lo rebajan más que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guerra-precios-ryzen-7-brutal-amazon-pccomponentes-rebajan-nunca-1364663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Guerra de precios por el Ryzen 7 más brutal: Amazon y PcComponentes lo rebajan más que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2024 (lista actualizada)</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-secretos-netflix-2024-lista-actualizada-3273962.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2024 (lista actualizada)' />
     </a>
 </div>
 
