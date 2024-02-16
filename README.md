@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672'>La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución </a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aerolinea-air-canada-tendra-pagar-cliente-porque-ia-invento-politica-devolucion-3276170.jpg?tf=1200x' alt='La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651'>¿Por qué la mayoría de las placas de circuitos impresos son de color verde?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mayoria-placas-circuitos-impresos-son-color-verde-3276180.jpg?tf=1200x' alt='¿Por qué la mayoría de las placas de circuitos impresos son de color verde?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445'>Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos</a></h4>
     <a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-qrevo-3275785.jpg?tf=1200x' alt='Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661'>Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-electrico-2922460.jpg?tf=1200x' alt='Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/deberias-activar-escala-grises-iphone-1365281'>La razón por la que deberías activar la escala de grises en tu iPhone ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apple/deberias-activar-escala-grises-iphone-1365281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-deberias-activar-escala-grises-iphone-ahora-mismo-3275530.jpg?tf=1200x' alt='La razón por la que deberías activar la escala de grises en tu iPhone ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342'>Así es la filosofía japonesa para enfadarte menos y ser más feliz</a></h4>
-    <a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/filosofia-japonesa-enfadarte-menos-ser-feliz-3270281.jpg?tf=1200x' alt='Así es la filosofía japonesa para enfadarte menos y ser más feliz' />
     </a>
 </div>
 
