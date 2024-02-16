@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378'>Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-hacking-mitad-precio-3275654.jpg?tf=1200x' alt='Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382'>Google acelera: una semana después de Gemini, llega Gemini 1.5</a></h4>
     <a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-acelera-semana-despues-gemini-llega-gemini-15-3275593.jpg?tf=1200x' alt='Google acelera: una semana después de Gemini, llega Gemini 1.5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337'>Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-android-auto-moviles-como-puedes-activarlo-ahora-mismo-3275594.jpg?tf=1200x' alt='Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112'>Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar</a></h4>
-    <a href='https://computerhoy.com/life/rucking-ejercicio-moda-estar-forma-ganar-fuerza-1365112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rucking-ejercicio-moda-estar-forma-ganar-fuerza-3275159.jpg?tf=1200x' alt='Rucking: el ejercicio de moda para estar en forma, ganar fuerza, quemar calorías y adelgazar' />
     </a>
 </div>
 
