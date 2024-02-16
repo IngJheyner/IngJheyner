@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241'>Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-quitar-dieta-tener-huesos-fuertes-3273671.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-1365611'>SkyShowtime anuncia su nuevo plan con anuncios, y una subida de precio del 33% en España</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-1365611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-3276088.jpg?tf=1200x' alt='SkyShowtime anuncia su nuevo plan con anuncios, y una subida de precio del 33% en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219'>El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera</a></h4>
     <a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tinder-millonarios-app-citas-mide-finanzas-3275390.jpg?tf=1200x' alt='El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-tienes-inteligencia-superdotado-1365481'>Estos tres signos indican que tienes la inteligencia de un superdotado</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-tienes-inteligencia-superdotado-1365481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nino-superdotado-3275869.jpg?tf=1200x' alt='Estos tres signos indican que tienes la inteligencia de un superdotado' />
     </a>
 </div>
 
