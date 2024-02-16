@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219'>El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera</a></h4>
+    <a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tinder-millonarios-app-citas-mide-finanzas-3275390.jpg?tf=1200x' alt='El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-saber-tienes-inteligencia-superdotado-1365481'>Estos tres signos indican que tienes la inteligencia de un superdotado</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-tienes-inteligencia-superdotado-1365481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nino-superdotado-3275869.jpg?tf=1200x' alt='Estos tres signos indican que tienes la inteligencia de un superdotado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555'>Estas son las herramientas que puedes utilizar para saber qué amigos no te sigue en Instagram</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-saber-quien-no-te-sigue-instagram-3275666.jpg?tf=1200x' alt='Estas son las herramientas que puedes utilizar para saber qué amigos no te sigue en Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422'>Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI</a></h4>
     <a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475'>Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/magnetismo-imanes-3275864.jpg?tf=1200x' alt='Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449'>Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-estafa-movil-3275895.jpg?tf=1200x' alt='Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp' />
     </a>
 </div>
 
