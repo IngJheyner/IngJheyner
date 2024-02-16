@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/detienen-camionera-poner-rastreadores-gps-6-coches-policia-1365408'>Detienen a una camionera por poner rastreadores GPS a 6 coches de policía, para poder esquivarlos</a></h4>
+    <a href='https://computerhoy.com/motor/detienen-camionera-poner-rastreadores-gps-6-coches-policia-1365408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/detienene-camionera-poner-rastreadores-gps-6-coches-policia-poder-esquivarlos-3275539.jpg?tf=1200x' alt='Detienen a una camionera por poner rastreadores GPS a 6 coches de policía, para poder esquivarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143'>Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-1364922'>192.168.1.1: todo lo que debes saber de la dirección IP más importante de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-1364922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-3274856.jpg?tf=1200x' alt='192.168.1.1: todo lo que debes saber de la dirección IP más importante de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/he-probado-apple-vision-pro-futuro-entretenimiento-1365162'>He probado las Apple Vision Pro y sí, este es el futuro del entretenimiento personal, pero también es una primera generación que le queda por mejorar</a></h4>
     <a href='https://computerhoy.com/apple/he-probado-apple-vision-pro-futuro-entretenimiento-1365162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275544.jpg?tf=1200x' alt='He probado las Apple Vision Pro y sí, este es el futuro del entretenimiento personal, pero también es una primera generación que le queda por mejorar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dolor-cabeza-paracetamol-ibuprofeno-1364954'>Qué es mejor para el dolor de cabeza: paracetamol o ibuprofeno</a></h4>
     <a href='https://computerhoy.com/life/dolor-cabeza-paracetamol-ibuprofeno-1364954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-dolor-cabeza-paracetamol-ibuprofeno-3274886.jpg?tf=1200x' alt='Qué es mejor para el dolor de cabeza: paracetamol o ibuprofeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/16-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365401'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 16 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/16-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-16-febrero-2024-3275674.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 16 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/precio-top-pero-acaba-pronto-nordvpn-rebaja-63-plan-ultra-1361185'>Precio top, pero acaba pronto: NordVPN rebaja un 63% su plan Ultra</a></h4>
-    <a href='https://computerhoy.com/tecnologia/precio-top-pero-acaba-pronto-nordvpn-rebaja-63-plan-ultra-1361185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Precio top, pero acaba pronto: NordVPN rebaja un 63% su plan Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395'>Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/juegos-xbox-playstation-microsoft-moja-pies-pero-no-tira-rio-3275648.jpg?tf=1200x' alt='Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río' />
     </a>
 </div>
 
