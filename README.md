@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456'>Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán</a></h4>
+    <a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aplicacion-navegacion-coche-3275837.jpg?tf=1200x' alt='Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761'>Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-my-book-duo-3274505.jpg?tf=1200x' alt='Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429'>Cosas que serán prohibidas en los próximos años (aunque no quieras)</a></h4>
     <a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/prohibiciones-ley-jueves-3275821.jpg?tf=1200x' alt='Cosas que serán prohibidas en los próximos años (aunque no quieras)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-662-computer-hoy-1363207'>¡Ya está en tu quiosco el número 662 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-662-computer-hoy-1363207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-662-3272570.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 662 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/detienen-camionera-poner-rastreadores-gps-6-coches-policia-1365408'>Detienen a una camionera por poner rastreadores GPS a 6 coches de policía, para poder esquivarlos</a></h4>
-    <a href='https://computerhoy.com/motor/detienen-camionera-poner-rastreadores-gps-6-coches-policia-1365408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/detienene-camionera-poner-rastreadores-gps-6-coches-policia-poder-esquivarlos-3275539.jpg?tf=1200x' alt='Detienen a una camionera por poner rastreadores GPS a 6 coches de policía, para poder esquivarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143'>Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento' />
     </a>
 </div>
 
