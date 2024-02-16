@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475'>Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/magnetismo-imanes-3275864.jpg?tf=1200x' alt='Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449'>Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-estafa-movil-3275895.jpg?tf=1200x' alt='Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456'>Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán</a></h4>
     <a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aplicacion-navegacion-coche-3275837.jpg?tf=1200x' alt='Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429'>Cosas que serán prohibidas en los próximos años (aunque no quieras)</a></h4>
     <a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/prohibiciones-ley-jueves-3275821.jpg?tf=1200x' alt='Cosas que serán prohibidas en los próximos años (aunque no quieras)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-reta-microsoft-nueva-herramienta-ia-desarrolladores-1365425'>Apple reta a Microsoft y su GitHub Copilot con una nueva herramienta de IA para desarrolladores</a></h4>
-    <a href='https://computerhoy.com/apple/apple-reta-microsoft-nueva-herramienta-ia-desarrolladores-1365425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-mac-github-copilot-3275729.jpg?tf=1200x' alt='Apple reta a Microsoft y su GitHub Copilot con una nueva herramienta de IA para desarrolladores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-662-computer-hoy-1363207'>¡Ya está en tu quiosco el número 662 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-662-computer-hoy-1363207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-662-3272570.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 662 de Computer Hoy!' />
     </a>
 </div>
 
