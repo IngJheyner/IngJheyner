@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445'>Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-qrevo-3275785.jpg?tf=1200x' alt='Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662'>Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias</a></h4>
+    <a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661'>Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-electrico-2922460.jpg?tf=1200x' alt='Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/deberias-activar-escala-grises-iphone-1365281'>La razón por la que deberías activar la escala de grises en tu iPhone ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apple/deberias-activar-escala-grises-iphone-1365281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-deberias-activar-escala-grises-iphone-ahora-mismo-3275530.jpg?tf=1200x' alt='La razón por la que deberías activar la escala de grises en tu iPhone ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342'>Así es la filosofía japonesa para enfadarte menos y ser más feliz</a></h4>
     <a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/filosofia-japonesa-enfadarte-menos-ser-feliz-3270281.jpg?tf=1200x' alt='Así es la filosofía japonesa para enfadarte menos y ser más feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241'>Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-quitar-dieta-tener-huesos-fuertes-3273671.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-1365611'>SkyShowtime anuncia su nuevo plan con anuncios, y una subida de precio del 33% en España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-1365611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/skyshowtime-anuncia-nuevo-plan-anuncios-subida-precio-espana-3276088.jpg?tf=1200x' alt='SkyShowtime anuncia su nuevo plan con anuncios, y una subida de precio del 33% en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-te-llega-oferta-trabajo-estafa-1365453'>La Guardia Civil advierte: si te llega esta oferta de trabajo no te lo creas, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-te-llega-oferta-trabajo-estafa-1365453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guardia-civil-advierte-te-llega-oferta-trabajo-no-te-creas-estafa-3275824.jpg?tf=1200x' alt='La Guardia Civil advierte: si te llega esta oferta de trabajo no te lo creas, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/puedes-reemplazar-google-assistant-gemini-movil-android-1365565'>Así puedes reemplazar Google Assistant por Gemini en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/apps/puedes-reemplazar-google-assistant-gemini-movil-android-1365565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-reemplazar-google-assistant-gemini-movil-android-3276081.jpg?tf=1200x' alt='Así puedes reemplazar Google Assistant por Gemini en tu móvil Android' />
     </a>
 </div>
 
