@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342'>Así es la filosofía japonesa para enfadarte menos y ser más feliz</a></h4>
+    <a href='https://computerhoy.com/life/filosofia-japonesa-enfadarte-menos-ser-feliz-1362342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/filosofia-japonesa-enfadarte-menos-ser-feliz-3270281.jpg?tf=1200x' alt='Así es la filosofía japonesa para enfadarte menos y ser más feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241'>Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes</a></h4>
     <a href='https://computerhoy.com/alimentacion/alimentos-debes-quitar-dieta-tener-huesos-fuertes-1364241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-quitar-dieta-tener-huesos-fuertes-3273671.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes quitar de tu dieta para tener unos huesos fuertes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/puedes-reemplazar-google-assistant-gemini-movil-android-1365565'>Así puedes reemplazar Google Assistant por Gemini en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/apps/puedes-reemplazar-google-assistant-gemini-movil-android-1365565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-reemplazar-google-assistant-gemini-movil-android-3276081.jpg?tf=1200x' alt='Así puedes reemplazar Google Assistant por Gemini en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219'>El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera</a></h4>
-    <a href='https://computerhoy.com/apps/score-tinder-millonarios-app-citas-mide-finanzas-1365219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tinder-millonarios-app-citas-mide-finanzas-3275390.jpg?tf=1200x' alt='El Tinder para millonarios existe: se llama Score y mide la afinidad en función de la cartera' />
     </a>
 </div>
 
