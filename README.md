@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555'>Estas son las herramientas que puedes utilizar para saber qué amigos no te sigue en Instagram</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-no-te-sigue-instagram-1052555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-saber-quien-no-te-sigue-instagram-3275666.jpg?tf=1200x' alt='Estas son las herramientas que puedes utilizar para saber qué amigos no te sigue en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuando-te-compensa-poner-horno-lugar-freidora-aire-1365489'>Cuándo te compensa poner el horno en lugar de la freidora de aire</a></h4>
+    <a href='https://computerhoy.com/life/cuando-te-compensa-poner-horno-lugar-freidora-aire-1365489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/horno-freidora-aire-3275884.jpg?tf=1200x' alt='Cuándo te compensa poner el horno en lugar de la freidora de aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422'>Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI</a></h4>
     <a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449'>Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-funciona-codigo-familiar-evitar-estafas-telefonicas-whatsapp-1365449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-estafa-movil-3275895.jpg?tf=1200x' alt='Código familiar: el efectivo método para evitar caer en muchas estafas telefónicas y de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456'>Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán</a></h4>
-    <a href='https://computerhoy.com/apps/gran-alternativa-google-maps-anade-funcion-muchos-agradeceran-1365456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aplicacion-navegacion-coche-3275837.jpg?tf=1200x' alt='Esta gran alternativa a Google Maps o Waze añade una función que muchos agradecerán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761'>Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-my-book-duo-3274505.jpg?tf=1200x' alt='Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez' />
     </a>
 </div>
 
