@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395'>Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/juegos-xbox-playstation-microsoft-moja-pies-pero-no-tira-rio-3275648.jpg?tf=1200x' alt='Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sirven-exactamente-puertos-usb-smart-tv-1365390'>¿Para qué sirven exactamente los puertos USB de tu Smart TV?</a></h4>
+    <a href='https://computerhoy.com/tv/sirven-exactamente-puertos-usb-smart-tv-1365390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sirven-exactamente-puertos-usb-smart-tv-3275656.jpg?tf=1200x' alt='¿Para qué sirven exactamente los puertos USB de tu Smart TV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378'>Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-hacking-mitad-precio-3275654.jpg?tf=1200x' alt='Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360'>Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya</a></h4>
     <a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3275607.jpg?tf=1200x' alt='Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/google-ofrece-como-solucion-aquellos-queden-windows-10-1365353'>Google se ofrece como solución para aquellos que se queden sin Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/google-ofrece-como-solucion-aquellos-queden-windows-10-1365353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chromeos-flex-3275596.jpg?tf=1200x' alt='Google se ofrece como solución para aquellos que se queden sin Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337'>Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-android-auto-moviles-como-puedes-activarlo-1365337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-android-auto-moviles-como-puedes-activarlo-ahora-mismo-3275594.jpg?tf=1200x' alt='Así es el nuevo Android Auto para móviles y cómo puedes activarlo ahora mismo' />
     </a>
 </div>
 
