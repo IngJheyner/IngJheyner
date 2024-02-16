@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/he-probado-apple-vision-pro-futuro-entretenimiento-1365162'>He probado las Apple Vision Pro y sí, este es el futuro del entretenimiento personal, pero también es una primera generación que le queda por mejorar</a></h4>
+    <a href='https://computerhoy.com/apple/he-probado-apple-vision-pro-futuro-entretenimiento-1365162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275544.jpg?tf=1200x' alt='He probado las Apple Vision Pro y sí, este es el futuro del entretenimiento personal, pero también es una primera generación que le queda por mejorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dolor-cabeza-paracetamol-ibuprofeno-1364954'>Qué es mejor para el dolor de cabeza: paracetamol o ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/life/dolor-cabeza-paracetamol-ibuprofeno-1364954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-dolor-cabeza-paracetamol-ibuprofeno-3274886.jpg?tf=1200x' alt='Qué es mejor para el dolor de cabeza: paracetamol o ibuprofeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/16-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365401'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 16 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/16-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-16-febrero-2024-3275674.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 16 de febrero de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395'>Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río</a></h4>
     <a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/juegos-xbox-playstation-microsoft-moja-pies-pero-no-tira-rio-3275648.jpg?tf=1200x' alt='Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/sirven-exactamente-puertos-usb-smart-tv-1365390'>¿Para qué sirven exactamente los puertos USB de tu Smart TV?</a></h4>
-    <a href='https://computerhoy.com/tv/sirven-exactamente-puertos-usb-smart-tv-1365390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sirven-exactamente-puertos-usb-smart-tv-3275656.jpg?tf=1200x' alt='¿Para qué sirven exactamente los puertos USB de tu Smart TV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378'>Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-mitad-precio-1365378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-tiene-nuevo-rival-llama-m1-ofrece-mismas-funciones-hacking-mitad-precio-3275654.jpg?tf=1200x' alt='Flipper Zero tiene un nuevo rival, se llama M1, y ofrece las mismas funciones de hacking por la mitad de precio' />
     </a>
 </div>
 
