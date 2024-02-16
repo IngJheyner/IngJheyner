@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429'>Cosas que serán prohibidas en los próximos años (aunque no quieras)</a></h4>
+    <a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/prohibiciones-ley-jueves-3275821.jpg?tf=1200x' alt='Cosas que serán prohibidas en los próximos años (aunque no quieras)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-reta-microsoft-nueva-herramienta-ia-desarrolladores-1365425'>Apple reta a Microsoft y su GitHub Copilot con una nueva herramienta de IA para desarrolladores</a></h4>
     <a href='https://computerhoy.com/apple/apple-reta-microsoft-nueva-herramienta-ia-desarrolladores-1365425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-mac-github-copilot-3275729.jpg?tf=1200x' alt='Apple reta a Microsoft y su GitHub Copilot con una nueva herramienta de IA para desarrolladores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143'>Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-aprieta-apple-alternativa-ipad-air-tiene-100eu-descuento-1365143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Samsung aprieta a Apple: su alternativa al iPad Air tiene más de 100€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-1364922'>192.168.1.1: todo lo que debes saber de la dirección IP más importante de tu router WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-1364922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/19216811-todo-debes-saber-direccion-ip-importante-router-wifi-3274856.jpg?tf=1200x' alt='192.168.1.1: todo lo que debes saber de la dirección IP más importante de tu router WiFi' />
     </a>
 </div>
 
