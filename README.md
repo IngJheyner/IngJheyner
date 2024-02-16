@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669'>La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone</a></h4>
+    <a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosa-historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-3276188.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672'>La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución </a></h4>
     <a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aerolinea-air-canada-tendra-pagar-cliente-porque-ia-invento-politica-devolucion-3276170.jpg?tf=1200x' alt='La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662'>Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias</a></h4>
     <a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661'>Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubren-gel-podria-alargar-autonomia-coches-electricos-1000-kilometros-1365661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/coche-electrico-2922460.jpg?tf=1200x' alt='Descubren un gel que podría alargar la autonomía de los coches eléctricos hasta los 1.000 kilómetros' />
     </a>
 </div>
 
