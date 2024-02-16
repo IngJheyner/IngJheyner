@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422'>Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI</a></h4>
+    <a href='https://computerhoy.com/apps/sam-altman-muestra-x-asombrosa-nueva-ia-chatgpt-videos-1365422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Sam Altman ha pedido a sus seguidores de X que le den ideas para vídeos generados con IA: los creará con la próxima aplicación de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475'>Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-nuevo-tipo-magnetismo-podria-marcar-antes-despues-ordenadores-futuro-1365475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/magnetismo-imanes-3275864.jpg?tf=1200x' alt='Descubren un nuevo tipo de magnetismo que podría marcar un antes y un después en los ordenadores del futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761'>Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez</a></h4>
     <a href='https://computerhoy.com/tecnologia/disco-duro-28tb-oferta-despedirte-nube-google-siempre-1364761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-my-book-duo-3274505.jpg?tf=1200x' alt='Di adiós a la nube de pago: este disco duro de 28TB es perfecto para independizarte de Google, y lo pagarás una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429'>Cosas que serán prohibidas en los próximos años (aunque no quieras)</a></h4>
-    <a href='https://computerhoy.com/life/cosas-seran-prohibidas-proximos-anos-aunque-no-quieras-1365429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/prohibiciones-ley-jueves-3275821.jpg?tf=1200x' alt='Cosas que serán prohibidas en los próximos años (aunque no quieras)' />
     </a>
 </div>
 
