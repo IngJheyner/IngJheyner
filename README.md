@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/precio-top-pero-acaba-pronto-nordvpn-rebaja-63-plan-ultra-1361185'>Precio top, pero acaba pronto: NordVPN rebaja un 63% su plan Ultra</a></h4>
+    <a href='https://computerhoy.com/tecnologia/precio-top-pero-acaba-pronto-nordvpn-rebaja-63-plan-ultra-1361185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Precio top, pero acaba pronto: NordVPN rebaja un 63% su plan Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395'>Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río</a></h4>
     <a href='https://computerhoy.com/gaming/juegos-exclusivos-xbox-playstation-5-nintendo-switch-1365395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/juegos-xbox-playstation-microsoft-moja-pies-pero-no-tira-rio-3275648.jpg?tf=1200x' alt='Juegos de Xbox en PlayStation: Microsoft se moja los pies, pero no se tira al río' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382'>Google acelera: una semana después de Gemini, llega Gemini 1.5</a></h4>
     <a href='https://computerhoy.com/google/google-presenta-gemini-1-5-1365382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-acelera-semana-despues-gemini-llega-gemini-15-3275593.jpg?tf=1200x' alt='Google acelera: una semana después de Gemini, llega Gemini 1.5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360'>Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya</a></h4>
-    <a href='https://computerhoy.com/tecnologia/investigador-respaldado-elon-musk-afirma-ia-incontrolable-deberia-pararse-ya-1365360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3275607.jpg?tf=1200x' alt='Investigador respaldado por Elon Musk afirma que la IA es incontrolable y que debería pararse ya' />
     </a>
 </div>
 
