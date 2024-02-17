@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673'>Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre</a></h4>
+    <a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-15-ya-disponible-ataca-punto-fuerte-ios-1365679'>Android 15 ya está disponible, ataca el punto fuerte de iOS</a></h4>
+    <a href='https://computerhoy.com/google/android-15-ya-disponible-ataca-punto-fuerte-ios-1365679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Android 15 ya está disponible, ataca el punto fuerte de iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669'>La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone</a></h4>
     <a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosa-historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-3276188.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672'>La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución </a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672'>La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución</a></h4>
     <a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aerolinea-air-canada-tendra-pagar-cliente-porque-ia-invento-politica-devolucion-3276170.jpg?tf=1200x' alt='La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aerolinea-air-canada-tendra-pagar-cliente-porque-ia-invento-politica-devolucion-3276170.jpg?tf=1200x' alt='La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651'>¿Por qué la mayoría de las placas de circuitos impresos son de color verde?</a></h4>
     <a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mayoria-placas-circuitos-impresos-son-color-verde-3276180.jpg?tf=1200x' alt='¿Por qué la mayoría de las placas de circuitos impresos son de color verde?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445'>Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roborock-vende-robot-casi-perfecto-limpia-seca-solo-usa-ia-evitar-obstaculos-1365445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/roborock-qrevo-3275785.jpg?tf=1200x' alt='Roborock vende el robot casi perfecto: se limpia y seca solo y usa IA para evitar obstáculos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662'>Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias</a></h4>
-    <a href='https://computerhoy.com/apple/detectan-primer-troyano-iphone-capaz-robar-datos-face-id-acceder-cuentas-bancarias-1365662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Detectan el primer troyano para iPhone capaz de robar los datos de Face ID para acceder a cuentas bancarias' />
     </a>
 </div>
 
