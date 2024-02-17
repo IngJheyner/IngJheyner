@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-formatear-disco-duro-ssd-windows-11-1353647'>Cómo formatear correctamente un disco duro o SSD en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/como-formatear-disco-duro-ssd-windows-11-1353647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/formatear-3255714.jpg?tf=1200x' alt='Cómo formatear correctamente un disco duro o SSD en Windows 11' />
+    <h4><a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732'>La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/notas-rapidas-windows-11-3276261.jpg?tf=1200x' alt='La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995'>Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-son-ventajas-ser-ordenado-tiene-salud-mental-ciencia-3266212.jpg?tf=1200x' alt='Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921'>Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alla-dune-6-peliculas-clasicas-space-opera-no-debes-perderte-3274786.jpg?tf=1200x' alt='Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245'>¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?</a></h4>
-    <a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/diferencia-hay-latencia-ancho-banda-rendimiento-conexion-internet-como-influyen-velocidad-3275474.jpg?tf=1200x' alt='¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?' />
+    <h4><a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792'>60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-bip-pro-3274516.jpg?tf=1200x' alt='60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razones-20-anos-windows-me-he-pasado-mac-1364781'>Más de 20 años con Windows y ahora me he pasado a Mac: estas son las razones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razones-20-anos-windows-me-he-pasado-mac-1364781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936062.jpg?tf=1200x' alt='Más de 20 años con Windows y ahora me he pasado a Mac: estas son las razones' />
+    <h4><a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717'>Android 15 te permitirá luchar contra las molestas notificaciones</a></h4>
+    <a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 te permitirá luchar contra las molestas notificaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciones-ocultas-waze-deberias-activar-ahora-mismo-1364640'>Funciones ocultas de Waze que seguramente no conocías y que debes usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/funciones-ocultas-waze-deberias-activar-ahora-mismo-1364640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Funciones ocultas de Waze que seguramente no conocías y que debes usar ahora mismo' />
+    <h4><a href='https://computerhoy.com/windows/cambiar-forma-tamano-color-puntero-raton-windows-11-1343836'>Cómo cambiar la forma, tamaño y color del puntero del ratón en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/cambiar-forma-tamano-color-puntero-raton-windows-11-1343836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puntero-raton-windows-11-3237290.jpg?tf=1200x' alt='Cómo cambiar la forma, tamaño y color del puntero del ratón en Windows 11' />
     </a>
 </div>
 
