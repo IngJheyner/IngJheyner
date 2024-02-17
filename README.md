@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-crea-nuevo-algoritmo-luchar-resenas-falsas-google-maps-funciona-1365762'>Google crea un nuevo algoritmo para luchar contra las reseñas falsas en Google Maps, y así funciona</a></h4>
+    <a href='https://computerhoy.com/google/google-crea-nuevo-algoritmo-luchar-resenas-falsas-google-maps-funciona-1365762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-resenas-3276342.jpg?tf=1200x' alt='Google crea un nuevo algoritmo para luchar contra las reseñas falsas en Google Maps, y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761'>Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-3276341.jpg?tf=1200x' alt='Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732'>La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas</a></h4>
     <a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/notas-rapidas-windows-11-3276261.jpg?tf=1200x' alt='La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921'>Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alla-dune-6-peliculas-clasicas-space-opera-no-debes-perderte-3274786.jpg?tf=1200x' alt='Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte' />
     </a>
 </div>
 
