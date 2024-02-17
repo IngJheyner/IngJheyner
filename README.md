@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995'>Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-son-ventajas-ser-ordenado-tiene-salud-mental-ciencia-3266212.jpg?tf=1200x' alt='Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245'>¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?</a></h4>
     <a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/diferencia-hay-latencia-ancho-banda-rendimiento-conexion-internet-como-influyen-velocidad-3275474.jpg?tf=1200x' alt='¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-2-rebajado-barato-fenix-amazo-1365501'>Este Garmin es más barato que los Fenix y bastante desconocido, pero tiene todo lo que necesitas para el running</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-epix-2-rebajado-barato-fenix-amazo-1365501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este Garmin es más barato que los Fenix y bastante desconocido, pero tiene todo lo que necesitas para el running' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/opinion-gemini-advanced-1364342'>No me convence, pero pagaría por él: mi opinión tras una semana probando Gemini Advanced, el chatbot más potente de Google </a></h4>
-    <a href='https://computerhoy.com/google/opinion-gemini-advanced-1364342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-advanced-3275582.jpg?tf=1200x' alt='No me convence, pero pagaría por él: mi opinión tras una semana probando Gemini Advanced, el chatbot más potente de Google ' />
     </a>
 </div>
 
