@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785'>Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-3276373.jpg?tf=1200x' alt='Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dron-bolsillo-graba-4k-pone-amazon-patas-arriba-descuentazo-1364806'>El dron que cabe en un bolsillo y graba en 4K pone Amazon patas arriba con un descuentazo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dron-bolsillo-graba-4k-pone-amazon-patas-arriba-descuentazo-1364806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-mini-3-pro-3274576.jpg?tf=1200x' alt='El dron que cabe en un bolsillo y graba en 4K pone Amazon patas arriba con un descuentazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779'>Windows 11 estrenará una nueva página de administración de color y en esto consiste</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Windows 11 estrenará una nueva página de administración de color y en esto consiste' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761'>Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-3276341.jpg?tf=1200x' alt='Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756'>Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema</a></h4>
-    <a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/imagen-render-iphone-plegable-1861117.jpg?tf=1200x' alt='Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743'>El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte' />
     </a>
 </div>
 
