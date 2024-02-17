@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/17-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365686'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 17 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/17-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-17-febrero-2024-3276204.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 17 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hace-ko-amazon-oneplus-gama-alta-cuesta-casi-mitad-1365455'>AliExpress le hace un KO a Amazon: vende un de gama alta prácticamente a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-hace-ko-amazon-oneplus-gama-alta-cuesta-casi-mitad-1365455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='AliExpress le hace un KO a Amazon: vende un de gama alta prácticamente a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673'>Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre</a></h4>
     <a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669'>La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone</a></h4>
     <a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosa-historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-3276188.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672'>La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-canada-indemnizara-cliente-inteligencia-artificial-invento-politica-devolucion-1365672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aerolinea-air-canada-tendra-pagar-cliente-porque-ia-invento-politica-devolucion-3276170.jpg?tf=1200x' alt='La aerolínea Air Canada tendrá que pagar a un cliente porque su IA se inventó la política de devolución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651'>¿Por qué la mayoría de las placas de circuitos impresos son de color verde?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/placas-circuitos-impresos-son-color-verde-1365651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mayoria-placas-circuitos-impresos-son-color-verde-3276180.jpg?tf=1200x' alt='¿Por qué la mayoría de las placas de circuitos impresos son de color verde?' />
     </a>
 </div>
 
