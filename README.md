@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761'>Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-3276341.jpg?tf=1200x' alt='Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756'>Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema</a></h4>
     <a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/imagen-render-iphone-plegable-1861117.jpg?tf=1200x' alt='Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921'>Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-space-opera-1364921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alla-dune-6-peliculas-clasicas-space-opera-no-debes-perderte-3274786.jpg?tf=1200x' alt='Más allá de Dune: 6 películas clásicas “space opera” que no debes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792'>60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-bip-pro-3274516.jpg?tf=1200x' alt='60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress' />
     </a>
 </div>
 
