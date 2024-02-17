@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756'>Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema</a></h4>
+    <a href='https://computerhoy.com/apple/apple-habria-suspendido-temporalmente-desarrollo-esperado-iphone-plegable-problema-1365756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/imagen-render-iphone-plegable-1861117.jpg?tf=1200x' alt='Apple habría suspendido temporalmente el desarrollo del esperado iPhone plegable por este problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743'>El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte</a></h4>
     <a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792'>60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/60-deportes-bateria-rato-smartwatch-amazfit-increiblemente-barato-incluso-aliexpress-1364792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-bip-pro-3274516.jpg?tf=1200x' alt='60 deportes y batería para rato: este smartwatch de Amazfit es increíblemente barato incluso para AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717'>Android 15 te permitirá luchar contra las molestas notificaciones</a></h4>
-    <a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 te permitirá luchar contra las molestas notificaciones' />
     </a>
 </div>
 
