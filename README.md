@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-huevo-intacto-epoca-romana-aun-conserva-liquido-1365687'>Descubren un huevo intacto de la época romana que aún conserva la yema en su interior, 1700 años después</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-huevo-intacto-epoca-romana-aun-conserva-liquido-1365687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/despues-huevo-intacto-epoca-romana-aun-conserva-liquido-interior-1700-anos-despues-3276205.jpg?tf=1200x' alt='Descubren un huevo intacto de la época romana que aún conserva la yema en su interior, 1700 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-destrozando-mi-menique-millennial-1364612'>Este móvil está destrozando mi meñique millennial</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-destrozando-mi-menique-millennial-1364612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/movil-sujetado-dedo-menique-3274272.jpg?tf=1200x' alt='Este móvil está destrozando mi meñique millennial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-movistar-plus-hace-anos-5-pros-4-contras-servicio-1361309'>Tengo Movistar Plus desde hace años y puedo decirte si es para ti: las 5 ventajas y 4 desventajas de la plataforma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-movistar-plus-hace-anos-5-pros-4-contras-servicio-1361309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/movistar-plus-3268667.jpg?tf=1200x' alt='Tengo Movistar Plus desde hace años y puedo decirte si es para ti: las 5 ventajas y 4 desventajas de la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/17-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365686'>Fase lunar, santoral, día mundial, efemérides y curiosidades del 17 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/17-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-santoral-dia-mundial-efemerides-curiosidades-17-febrero-2024-3276204.jpg?tf=1200x' alt='Fase lunar, santoral, día mundial, efemérides y curiosidades del 17 de febrero de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-hace-ko-amazon-oneplus-gama-alta-cuesta-casi-mitad-1365455'>AliExpress le hace un KO a Amazon: vende un de gama alta prácticamente a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-hace-ko-amazon-oneplus-gama-alta-cuesta-casi-mitad-1365455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952394.jpg?tf=1200x' alt='AliExpress le hace un KO a Amazon: vende un de gama alta prácticamente a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673'>Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre</a></h4>
-    <a href='https://computerhoy.com/internet/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-1365673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Activan Piracy Shield, la solución "definitiva" contra las IPTV, y resulta ser un desastre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-15-ya-disponible-ataca-punto-fuerte-ios-1365679'>Android 15 ya está disponible, ataca el punto fuerte de iOS</a></h4>
-    <a href='https://computerhoy.com/google/android-15-ya-disponible-ataca-punto-fuerte-ios-1365679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Android 15 ya está disponible, ataca el punto fuerte de iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669'>La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone</a></h4>
-    <a href='https://computerhoy.com/life/historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-1365669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosa-historia-cuando-steve-jobs-llamo-google-corrigiera-logo-iphone-3276188.jpg?tf=1200x' alt='La curiosa historia de cuándo Steve Jobs llamó a Google para que corrigiera su logo en el iPhone' />
     </a>
 </div>
 
