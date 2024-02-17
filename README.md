@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245'>¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?</a></h4>
+    <a href='https://computerhoy.com/redes/diferencia-hay-latencia-ancho-banda-rendimiento-1365245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/diferencia-hay-latencia-ancho-banda-rendimiento-conexion-internet-como-influyen-velocidad-3275474.jpg?tf=1200x' alt='¿Qué diferencia hay entre latencia, ancho de banda y velocidad en una conexión de internet y cómo influyen en tu velocidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/razones-20-anos-windows-me-he-pasado-mac-1364781'>Más de 20 años con Windows y ahora me he pasado a Mac: estas son las razones</a></h4>
     <a href='https://computerhoy.com/tecnologia/razones-20-anos-windows-me-he-pasado-mac-1364781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-mac-mini-m2-pro-2936062.jpg?tf=1200x' alt='Más de 20 años con Windows y ahora me he pasado a Mac: estas son las razones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/opinion-gemini-advanced-1364342'>No me convence, pero pagaría por él: mi opinión tras una semana probando Gemini Advanced, el chatbot más potente de Google </a></h4>
     <a href='https://computerhoy.com/google/opinion-gemini-advanced-1364342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-advanced-3275582.jpg?tf=1200x' alt='No me convence, pero pagaría por él: mi opinión tras una semana probando Gemini Advanced, el chatbot más potente de Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-huevo-intacto-epoca-romana-aun-conserva-liquido-1365687'>Descubren un huevo intacto de la época romana que aún conserva la yema en su interior, 1700 años después</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-huevo-intacto-epoca-romana-aun-conserva-liquido-1365687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/despues-huevo-intacto-epoca-romana-aun-conserva-liquido-interior-1700-anos-despues-3276205.jpg?tf=1200x' alt='Descubren un huevo intacto de la época romana que aún conserva la yema en su interior, 1700 años después' />
     </a>
 </div>
 
