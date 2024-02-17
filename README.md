@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743'>El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navegador-edge-ya-no-te-robara-pestanas-datos-chrome-microsoft-lanza-actualizacion-debes-instalarte-1365743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-edge-3268138.jpg?tf=1200x' alt='El navegador Edge ya no te “robará” las pestañas y datos de Chrome: Microsoft lanza una actualización que debes instalarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732'>La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas</a></h4>
     <a href='https://computerhoy.com/windows/nueva-aplicacion-notas-rapidas-windows-11-te-permite-usar-capturas-pantalla-como-notas-1365732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/notas-rapidas-windows-11-3276261.jpg?tf=1200x' alt='La nueva aplicación de notas rápidas para Windows 11 te permite usar capturas de pantalla como notas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717'>Android 15 te permitirá luchar contra las molestas notificaciones</a></h4>
     <a href='https://computerhoy.com/android/android-15-te-permitira-luchar-molestas-notificaciones-1365717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 te permitirá luchar contra las molestas notificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/cambiar-forma-tamano-color-puntero-raton-windows-11-1343836'>Cómo cambiar la forma, tamaño y color del puntero del ratón en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/cambiar-forma-tamano-color-puntero-raton-windows-11-1343836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/puntero-raton-windows-11-3237290.jpg?tf=1200x' alt='Cómo cambiar la forma, tamaño y color del puntero del ratón en Windows 11' />
     </a>
 </div>
 
