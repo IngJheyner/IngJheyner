@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-formatear-disco-duro-ssd-windows-11-1353647'>Cómo formatear correctamente un disco duro o SSD en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-formatear-disco-duro-ssd-windows-11-1353647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/formatear-3255714.jpg?tf=1200x' alt='Cómo formatear correctamente un disco duro o SSD en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995'>Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/estas-son-ventajas-ser-ordenado-tiene-salud-mental-1359995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estas-son-ventajas-ser-ordenado-tiene-salud-mental-ciencia-3266212.jpg?tf=1200x' alt='Estas son las ventajas que ser ordenado tiene para tu salud mental, según la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funciones-ocultas-waze-deberias-activar-ahora-mismo-1364640'>Funciones ocultas de Waze que seguramente no conocías y que debes usar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/funciones-ocultas-waze-deberias-activar-ahora-mismo-1364640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Funciones ocultas de Waze que seguramente no conocías y que debes usar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-2-rebajado-barato-fenix-amazo-1365501'>Este Garmin es más barato que los Fenix y bastante desconocido, pero tiene todo lo que necesitas para el running</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-epix-2-rebajado-barato-fenix-amazo-1365501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este Garmin es más barato que los Fenix y bastante desconocido, pero tiene todo lo que necesitas para el running' />
     </a>
 </div>
 
