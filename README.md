@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324'>6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología</a></h4>
+    <a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-trabajos-ia-creando-te-ayudaran-ganar-dinero-ser-experto-tecnologia-3275568.jpg?tf=1200x' alt='6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ubuntu-vs-fedora-cual-mejor-distro-linux-2024-1365393'>Ubuntu vs. Fedora: ¿Cuál es la dis͏tro L͏inux͏ más rápida, segura y fácil de usar en 2024?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ubuntu-vs-fedora-cual-mejor-distro-linux-2024-1365393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ubuntu-vs-fedora-cual-distro-linux-rapida-segura-facil-usar-2024-3275660.jpg?tf=1200x' alt='Ubuntu vs. Fedora: ¿Cuál es la dis͏tro L͏inux͏ más rápida, segura y fácil de usar en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688'>AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082046.jpg?tf=1200x' alt='AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784'>La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED</a></h4>
     <a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asb-glassfloor-3276372.jpg?tf=1200x' alt='La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799'>Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos</a></h4>
     <a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expulsan-corredor-maraton-correr-40-kilometros-fumando-cigarrillos-3276392.jpg?tf=1200x' alt='Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/edge-ai-como-revolucionando-mercado-moviles-1362078'>¿Qué es Edge AI y cómo está revolucionando el mercado de los móviles?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/edge-ai-como-revolucionando-mercado-moviles-1362078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708086452463-3275938.jpg?tf=1200x' alt='¿Qué es Edge AI y cómo está revolucionando el mercado de los móviles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estudiantes-crean-robot-humanoide-pequeno-mundo-1365783'>Estudiantes crean el robot humanoide más pequeño del mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estudiantes-crean-robot-humanoide-pequeno-mundo-1365783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudiantes-crean-robot-humanoide-pequeno-mundo-3276369.jpg?tf=1200x' alt='Estudiantes crean el robot humanoide más pequeño del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-spotube-alternativa-gratuita-spotify-youtube-1355666'>He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-spotube-alternativa-gratuita-spotify-youtube-1355666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spotube-alternativa-gratis-spotify-youtube-pueba-3259272.jpg?tf=1200x' alt='He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar' />
     </a>
 </div>
 
