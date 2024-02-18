@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hija-mark-zuckerberg-piensa-padre-ranchero-1365894'>Por qué la hija de Mark Zuckerberg piensa que su padre trabaja como ranchero</a></h4>
+    <h4><a href='https://computerhoy.com/life/hija-mark-zuckerberg-piensa-padre-ranchero-1365894'>Por qué la hija de Mark Zuckerberg piensa que su padre trabaja de ranchero</a></h4>
     <a href='https://computerhoy.com/life/hija-mark-zuckerberg-piensa-padre-ranchero-1365894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hija-mark-zuckerberg-piensa-padre-ranchero-3276545.jpg?tf=1200x' alt='Por qué la hija de Mark Zuckerberg piensa que su padre trabaja como ranchero' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hija-mark-zuckerberg-piensa-padre-ranchero-3276545.jpg?tf=1200x' alt='Por qué la hija de Mark Zuckerberg piensa que su padre trabaja de ranchero' />
     </a>
 </div>
 
