@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/consiguen-instalar-windows-10-solo-104-segundos-1365888'>Consiguen instalar Windows 10 en solo 104 segundos</a></h4>
+    <a href='https://computerhoy.com/windows/consiguen-instalar-windows-10-solo-104-segundos-1365888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/consiguen-instalar-windows-10-solo-100-segundos-3276539.jpg?tf=1200x' alt='Consiguen instalar Windows 10 en solo 104 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855'>Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881'>Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708277458366-3276529.jpg?tf=1200x' alt='Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-emparejar-cualquier-dispositivo-bluetooth-1365843'>Windows 11 hará mucho más fácil emparejar cualquier dispositivo Bluetooth</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-emparejar-cualquier-dispositivo-bluetooth-1365843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 hará mucho más fácil emparejar cualquier dispositivo Bluetooth' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-arregla-gemini-tiempo-record-todas-estas-soluciones-1365837'>Google “arregla” Gemini en tiempo récord con todas estas soluciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-arregla-gemini-tiempo-record-todas-estas-soluciones-1365837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-reemplazar-google-assistant-gemini-movil-android-3276081.jpg?tf=1200x' alt='Google “arregla” Gemini en tiempo récord con todas estas soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829'>Windows 10 estrena una función de Windows 11 que muchos estaban esperando</a></h4>
-    <a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-configurar-windows-11-vea-como-windows-10-perder-funcionalidades-3250280.jpg?tf=1200x' alt='Windows 10 estrena una función de Windows 11 que muchos estaban esperando' />
     </a>
 </div>
 
