@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053'>Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad</a></h4>
+    <a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/4-formas-anadir-archivo-pdf-google-docs-perder-formato-ni-calidad-3275070.jpg?tf=1200x' alt='Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324'>6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología</a></h4>
     <a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-trabajos-ia-creando-te-ayudaran-ganar-dinero-ser-experto-tecnologia-3275568.jpg?tf=1200x' alt='6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784'>La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED</a></h4>
     <a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asb-glassfloor-3276372.jpg?tf=1200x' alt='La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799'>Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos</a></h4>
-    <a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expulsan-corredor-maraton-correr-40-kilometros-fumando-cigarrillos-3276392.jpg?tf=1200x' alt='Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos' />
     </a>
 </div>
 
