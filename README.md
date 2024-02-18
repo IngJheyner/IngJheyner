@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282'>Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuando-jurassic-world-juego-ninos-5-peliculas-dinosaurios-dan-miedo-verdad-3275473.jpg?tf=1200x' alt='Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053'>Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad</a></h4>
     <a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/4-formas-anadir-archivo-pdf-google-docs-perder-formato-ni-calidad-3275070.jpg?tf=1200x' alt='Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688'>AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082046.jpg?tf=1200x' alt='AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784'>La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asb-glassfloor-3276372.jpg?tf=1200x' alt='La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED' />
     </a>
 </div>
 
