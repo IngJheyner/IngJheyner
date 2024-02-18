@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510'>¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robar-coche-flipper-zero-3275974.jpg?tf=1200x' alt='¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/subete-moda-cascos-conduccion-osea-precio-record-lenovo-x7-estan-precio-imbatible-1365093'>Súbete a la moda de los cascos de conducción ósea a precio récord: los Lenovo X7 están a precio imbatible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/subete-moda-cascos-conduccion-osea-precio-record-lenovo-x7-estan-precio-imbatible-1365093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x7-3274716.jpg?tf=1200x' alt='Súbete a la moda de los cascos de conducción ósea a precio récord: los Lenovo X7 están a precio imbatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/lejos-puedes-llevar-diseno-puntero-raton-nueva-funcionalidad-windows-11-1365822'>Así de lejos puedes llevar el diseño del puntero del ratón con esta nueva funcionalidad para Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/lejos-puedes-llevar-diseno-puntero-raton-nueva-funcionalidad-windows-11-1365822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-nos-permitira-editar-puntero-raton-mejorar-visibilidad-3276418.jpg?tf=1200x' alt='Así de lejos puedes llevar el diseño del puntero del ratón con esta nueva funcionalidad para Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458'>Qué hacer si la unidad C en Windows se llena sin motivo alguno</a></h4>
+    <a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disco-duro-3275838.jpg?tf=1200x' alt='Qué hacer si la unidad C en Windows se llena sin motivo alguno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814'>Google prepara la llegada de Gemini a la barra de direcciones de Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-chrome-3276414.jpg?tf=1200x' alt='Google prepara la llegada de Gemini a la barra de direcciones de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-ingles-android-1282234'>Las mejores aplicaciones para aprender inglés en Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-ingles-android-1282234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aprender-ingles-movil-3275867.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender inglés en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282'>Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuando-jurassic-world-juego-ninos-5-peliculas-dinosaurios-dan-miedo-verdad-3275473.jpg?tf=1200x' alt='Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053'>Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad</a></h4>
-    <a href='https://computerhoy.com/apps/como-anadir-pdf-google-docs-perder-formato-ni-calidad-1365053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/4-formas-anadir-archivo-pdf-google-docs-perder-formato-ni-calidad-3275070.jpg?tf=1200x' alt='Cómo añadir un archivo PDF a un documento de Google Docs sin perder el formato ni la calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324'>6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología</a></h4>
-    <a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-trabajos-ia-creando-te-ayudaran-ganar-dinero-ser-experto-tecnologia-3275568.jpg?tf=1200x' alt='6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología' />
     </a>
 </div>
 
