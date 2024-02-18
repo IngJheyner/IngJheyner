@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829'>Windows 10 estrena una función de Windows 11 que muchos estaban esperando</a></h4>
+    <a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-configurar-windows-11-vea-como-windows-10-perder-funcionalidades-3250280.jpg?tf=1200x' alt='Windows 10 estrena una función de Windows 11 que muchos estaban esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510'>¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robar-coche-flipper-zero-3275974.jpg?tf=1200x' alt='¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458'>Qué hacer si la unidad C en Windows se llena sin motivo alguno</a></h4>
     <a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disco-duro-3275838.jpg?tf=1200x' alt='Qué hacer si la unidad C en Windows se llena sin motivo alguno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814'>Google prepara la llegada de Gemini a la barra de direcciones de Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-chrome-3276414.jpg?tf=1200x' alt='Google prepara la llegada de Gemini a la barra de direcciones de Chrome' />
     </a>
 </div>
 
