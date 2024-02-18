@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-comedero-xiaomi-gatos-no-me-arrepiento-1365491'>Era reticente, pero desde que compré el comedero de Xiaomi para mis gatos vivo mucho más tranquilo</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-comedero-xiaomi-gatos-no-me-arrepiento-1365491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-pet-food-feeder-3275879.jpg?tf=1200x' alt='Era reticente, pero desde que compré el comedero de Xiaomi para mis gatos vivo mucho más tranquilo' />
+    <h4><a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784'>La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nba-estrenara-cancha-vanguardista-baloncesto-ultima-tecnologia-led-1365784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asb-glassfloor-3276372.jpg?tf=1200x' alt='La NBA estrenará esta cancha vanguardista de baloncesto con la última tecnología LED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoy-18-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365797'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 18 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/hoy-18-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-18-febrero-2024-3276390.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 18 de febrero de 2024' />
+    <h4><a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799'>Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos</a></h4>
+    <a href='https://computerhoy.com/life/expulsan-corredor-maraton-correr-fumando-cigarrillos-1365799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expulsan-corredor-maraton-correr-40-kilometros-fumando-cigarrillos-3276392.jpg?tf=1200x' alt='Expulsan a un corredor de una maratón por correr 42 kilómetros fumando cigarrillos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785'>Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-3276373.jpg?tf=1200x' alt='Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce' />
+    <h4><a href='https://computerhoy.com/tecnologia/edge-ai-como-revolucionando-mercado-moviles-1362078'>¿Qué es Edge AI y cómo está revolucionando el mercado de los móviles?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/edge-ai-como-revolucionando-mercado-moviles-1362078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708086452463-3275938.jpg?tf=1200x' alt='¿Qué es Edge AI y cómo está revolucionando el mercado de los móviles?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dron-bolsillo-graba-4k-pone-amazon-patas-arriba-descuentazo-1364806'>El dron que cabe en un bolsillo y graba en 4K pone Amazon patas arriba con un descuentazo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dron-bolsillo-graba-4k-pone-amazon-patas-arriba-descuentazo-1364806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-mini-3-pro-3274576.jpg?tf=1200x' alt='El dron que cabe en un bolsillo y graba en 4K pone Amazon patas arriba con un descuentazo' />
+    <h4><a href='https://computerhoy.com/tecnologia/estudiantes-crean-robot-humanoide-pequeno-mundo-1365783'>Estudiantes crean el robot humanoide más pequeño del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estudiantes-crean-robot-humanoide-pequeno-mundo-1365783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudiantes-crean-robot-humanoide-pequeno-mundo-3276369.jpg?tf=1200x' alt='Estudiantes crean el robot humanoide más pequeño del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779'>Windows 11 estrenará una nueva página de administración de color y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Windows 11 estrenará una nueva página de administración de color y en esto consiste' />
+    <h4><a href='https://computerhoy.com/apps/he-probado-spotube-alternativa-gratuita-spotify-youtube-1355666'>He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-spotube-alternativa-gratuita-spotify-youtube-1355666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spotube-alternativa-gratis-spotify-youtube-pueba-3259272.jpg?tf=1200x' alt='He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar' />
     </a>
 </div>
 
