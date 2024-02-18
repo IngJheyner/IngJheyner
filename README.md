@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/gafas-vision-pro-apple-no-gustan-mostachos-barbas-1365872'>A las gafas Vision Pro de Apple no le gustan los mostachos ni las barbas espesas</a></h4>
+    <a href='https://computerhoy.com/apple/gafas-vision-pro-apple-no-gustan-mostachos-barbas-1365872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gafas-vision-pro-apple-no-gustan-mostachos-ni-barbas-espesas-3276521.jpg?tf=1200x' alt='A las gafas Vision Pro de Apple no le gustan los mostachos ni las barbas espesas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-emparejar-cualquier-dispositivo-bluetooth-1365843'>Windows 11 hará mucho más fácil emparejar cualquier dispositivo Bluetooth</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-hara-mucho-facil-emparejar-cualquier-dispositivo-bluetooth-1365843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 hará mucho más fácil emparejar cualquier dispositivo Bluetooth' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510'>¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robar-coche-flipper-zero-3275974.jpg?tf=1200x' alt='¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/subete-moda-cascos-conduccion-osea-precio-record-lenovo-x7-estan-precio-imbatible-1365093'>Súbete a la moda de los cascos de conducción ósea a precio récord: los Lenovo X7 están a precio imbatible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/subete-moda-cascos-conduccion-osea-precio-record-lenovo-x7-estan-precio-imbatible-1365093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x7-3274716.jpg?tf=1200x' alt='Súbete a la moda de los cascos de conducción ósea a precio récord: los Lenovo X7 están a precio imbatible' />
     </a>
 </div>
 
