@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-arregla-gemini-tiempo-record-todas-estas-soluciones-1365837'>Google “arregla” Gemini en tiempo récord con todas estas soluciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-arregla-gemini-tiempo-record-todas-estas-soluciones-1365837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puedes-reemplazar-google-assistant-gemini-movil-android-3276081.jpg?tf=1200x' alt='Google “arregla” Gemini en tiempo récord con todas estas soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829'>Windows 10 estrena una función de Windows 11 que muchos estaban esperando</a></h4>
     <a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-configurar-windows-11-vea-como-windows-10-perder-funcionalidades-3250280.jpg?tf=1200x' alt='Windows 10 estrena una función de Windows 11 que muchos estaban esperando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/lejos-puedes-llevar-diseno-puntero-raton-nueva-funcionalidad-windows-11-1365822'>Así de lejos puedes llevar el diseño del puntero del ratón con esta nueva funcionalidad para Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/lejos-puedes-llevar-diseno-puntero-raton-nueva-funcionalidad-windows-11-1365822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-nos-permitira-editar-puntero-raton-mejorar-visibilidad-3276418.jpg?tf=1200x' alt='Así de lejos puedes llevar el diseño del puntero del ratón con esta nueva funcionalidad para Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458'>Qué hacer si la unidad C en Windows se llena sin motivo alguno</a></h4>
-    <a href='https://computerhoy.com/windows/solucion-unidad-c-windows-llena-1364458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/disco-duro-3275838.jpg?tf=1200x' alt='Qué hacer si la unidad C en Windows se llena sin motivo alguno' />
     </a>
 </div>
 
