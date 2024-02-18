@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881'>Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708277458366-3276529.jpg?tf=1200x' alt='Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/gafas-vision-pro-apple-no-gustan-mostachos-barbas-1365872'>A las gafas Vision Pro de Apple no le gustan los mostachos ni las barbas espesas</a></h4>
     <a href='https://computerhoy.com/apple/gafas-vision-pro-apple-no-gustan-mostachos-barbas-1365872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gafas-vision-pro-apple-no-gustan-mostachos-ni-barbas-espesas-3276521.jpg?tf=1200x' alt='A las gafas Vision Pro de Apple no le gustan los mostachos ni las barbas espesas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829'>Windows 10 estrena una función de Windows 11 que muchos estaban esperando</a></h4>
     <a href='https://computerhoy.com/windows/windows-10-estrena-funcion-windows-11-muchos-estaban-esperando-1365829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-configurar-windows-11-vea-como-windows-10-perder-funcionalidades-3250280.jpg?tf=1200x' alt='Windows 10 estrena una función de Windows 11 que muchos estaban esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510'>¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puede-flipper-zero-realmente-robar-coche-hackers-opinan-1365510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robar-coche-flipper-zero-3275974.jpg?tf=1200x' alt='¿Puede Flipper Zero realmente robar un coche? Esto es lo que opinan los hackers' />
     </a>
 </div>
 
