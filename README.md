@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-comedero-xiaomi-gatos-no-me-arrepiento-1365491'>Era reticente, pero desde que compré el comedero de Xiaomi para mis gatos vivo mucho más tranquilo</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-comedero-xiaomi-gatos-no-me-arrepiento-1365491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-pet-food-feeder-3275879.jpg?tf=1200x' alt='Era reticente, pero desde que compré el comedero de Xiaomi para mis gatos vivo mucho más tranquilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-18-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365797'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 18 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/hoy-18-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-18-febrero-2024-3276390.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 18 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785'>Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-luce-1365785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-prueba-nueva-experiencia-meteorologica-pantalla-bloqueo-3276373.jpg?tf=1200x' alt='Windows 11 prueba una nueva experiencia meteorológica en la pantalla de bloqueo y así luce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779'>Windows 11 estrenará una nueva página de administración de color y en esto consiste</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-estrenara-nueva-pagina-administracion-color-consiste-1365779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Windows 11 estrenará una nueva página de administración de color y en esto consiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-crea-nuevo-algoritmo-luchar-resenas-falsas-google-maps-funciona-1365762'>Google crea un nuevo algoritmo para luchar contra las reseñas falsas en Google Maps, y así funciona</a></h4>
-    <a href='https://computerhoy.com/google/google-crea-nuevo-algoritmo-luchar-resenas-falsas-google-maps-funciona-1365762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-resenas-3276342.jpg?tf=1200x' alt='Google crea un nuevo algoritmo para luchar contra las reseñas falsas en Google Maps, y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761'>Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-primer-chip-funciona-luz-imposible-hackear-accesible-ordenadores-cuanticos-1365761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-3276341.jpg?tf=1200x' alt='Crean el primer chip que funciona por luz: imposible de hackear y más accesible que los ordenadores cuánticos' />
     </a>
 </div>
 
