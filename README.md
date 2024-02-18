@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814'>Google prepara la llegada de Gemini a la barra de direcciones de Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-prepara-llegada-gemini-barra-direcciones-chrome-1365814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-chrome-3276414.jpg?tf=1200x' alt='Google prepara la llegada de Gemini a la barra de direcciones de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-ingles-android-1282234'>Las mejores aplicaciones para aprender inglés en Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-aprender-ingles-android-1282234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aprender-ingles-movil-3275867.jpg?tf=1200x' alt='Las mejores aplicaciones para aprender inglés en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282'>Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-dinosaurios-miedo-1365282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuando-jurassic-world-juego-ninos-5-peliculas-dinosaurios-dan-miedo-verdad-3275473.jpg?tf=1200x' alt='Cuando Jurassic World es un juego de niños: 5 películas de dinosaurios que dan miedo de verdad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324'>6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología</a></h4>
     <a href='https://computerhoy.com/life/trabajos-ia-ganar-dinero-1365324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-trabajos-ia-creando-te-ayudaran-ganar-dinero-ser-experto-tecnologia-3275568.jpg?tf=1200x' alt='6 trabajos que la IA está creando y que te ayudarán a ganar dinero sin ser un experto en tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ubuntu-vs-fedora-cual-mejor-distro-linux-2024-1365393'>Ubuntu vs. Fedora: ¿Cuál es la dis͏tro L͏inux͏ más rápida, segura y fácil de usar en 2024?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ubuntu-vs-fedora-cual-mejor-distro-linux-2024-1365393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ubuntu-vs-fedora-cual-distro-linux-rapida-segura-facil-usar-2024-3275660.jpg?tf=1200x' alt='Ubuntu vs. Fedora: ¿Cuál es la dis͏tro L͏inux͏ más rápida, segura y fácil de usar en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688'>AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-juega-amazon-deja-tablet-xiaomi-perfecta-jugar-precio-inalcanzable-1364688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xiaomi-pad-6-3082046.jpg?tf=1200x' alt='AliExpress se la juega a Amazon: deja la tablet Xiaomi perfecta para jugar a precio inalcanzable' />
     </a>
 </div>
 
