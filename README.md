@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/freidora-aire-deberias-comprar-elige-cabeza-te-saldra-caro-1366029'>¿Qué freidora de aire deberías comprar? Elige con cabeza o te saldrá caro</a></h4>
+    <a href='https://computerhoy.com/life/freidora-aire-deberias-comprar-elige-cabeza-te-saldra-caro-1366029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='¿Qué freidora de aire deberías comprar? Elige con cabeza o te saldrá caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834'>Esta página web te permite aprender gratis cualquier idioma de la Unión Europea</a></h4>
+    <a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-3276199.jpg?tf=1200x' alt='Esta página web te permite aprender gratis cualquier idioma de la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-localizar-barrios-peligrosos-debes-evitar-cuando-viajas-1366004'>Cómo localizar los barrios más peligrosos que debes evitar cuando viajas</a></h4>
+    <a href='https://computerhoy.com/life/como-localizar-barrios-peligrosos-debes-evitar-cuando-viajas-1366004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/barrios-peligrosos-3276821.jpg?tf=1200x' alt='Cómo localizar los barrios más peligrosos que debes evitar cuando viajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/playstation-5-desata-locura-ofertas-todas-tiendas-mando-extra-gratis-1366012'>PlayStation 5 desata la locura: ofertas por todas las tiendas con mando extra gratis</a></h4>
     <a href='https://computerhoy.com/gaming/playstation-5-desata-locura-ofertas-todas-tiendas-mando-extra-gratis-1366012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/playstation-5-ps5-3276788.jpg?tf=1200x' alt='PlayStation 5 desata la locura: ofertas por todas las tiendas con mando extra gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/preguntas-respuesta-correcta-entrevista-trabajo-1365975'>Preguntas sin respuesta correcta en una entrevista de trabajo</a></h4>
     <a href='https://computerhoy.com/life/preguntas-respuesta-correcta-entrevista-trabajo-1365975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-3276780.jpg?tf=1200x' alt='Preguntas sin respuesta correcta en una entrevista de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3276662.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932'>Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenguaje-programacion-3276603.jpg?tf=1200x' alt='Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-oferta-ya-barata-playstation-5-1365918'>Bombazo para gamers: la ASUS ROG Ally aprieta con una rebaja que la hace más barata que PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-oferta-ya-barata-playstation-5-1365918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-rog-ally-3209148.jpg?tf=1200x' alt='Bombazo para gamers: la ASUS ROG Ally aprieta con una rebaja que la hace más barata que PS5' />
     </a>
 </div>
 
