@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932'>Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenguaje-programacion-3276603.jpg?tf=1200x' alt='Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-oferta-ya-barata-playstation-5-1365918'>Bombazo para gamers: la ASUS ROG Ally aprieta con una rebaja que la hace más barata que PS5</a></h4>
     <a href='https://computerhoy.com/gaming/asus-rog-ally-oferta-ya-barata-playstation-5-1365918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/asus-rog-ally-3209148.jpg?tf=1200x' alt='Bombazo para gamers: la ASUS ROG Ally aprieta con una rebaja que la hace más barata que PS5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958'>He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273833.jpg?tf=1200x' alt='He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864'>Llevo 10 años usando Mac y estas son las 10 primeras aplicaciones que siempre instalo</a></h4>
-    <a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219348.jpg?tf=1200x' alt='Llevo 10 años usando Mac y estas son las 10 primeras aplicaciones que siempre instalo' />
     </a>
 </div>
 
