@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/coreanos-crean-arroz-proteinas-podria-sustituir-carne-1365962'>Científicos coreanos crean el arroz con proteínas que podría sustituir a la carne en el futuro</a></h4>
-    <a href='https://computerhoy.com/ciencia/coreanos-crean-arroz-proteinas-podria-sustituir-carne-1365962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-coreanos-crean-arroz-proteinas-podria-sustituir-carne-futuro-3276665.jpg?tf=1200x' alt='Científicos coreanos crean el arroz con proteínas que podría sustituir a la carne en el futuro' />
+    <h4><a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875'>Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-pacer-pro-3226998.jpg?tf=1200x' alt='Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633'>Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-remapear-cambiar-funcionamiento-tecla-bloq-mayus-windows-11-3276148.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154'>Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/q1-pc-3277032.jpg?tf=1200x' alt='Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002'>Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3276803.jpg?tf=1200x' alt='Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-anatsa-google-play-estas-son-apps-debes-eliminar-ahora-mismo-1366153'>Detectan el peligroso malware Anatsa en la Google Play: estas son las apps que debes eliminar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-anatsa-google-play-estas-son-apps-debes-eliminar-ahora-mismo-1366153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-3268681.jpg?tf=1200x' alt='Detectan el peligroso malware Anatsa en la Google Play: estas son las apps que debes eliminar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-saber-compania-limitando-velocidad-internet-1365970'>Tu compañía de Internet podría estar limitando tu velocidad de conexión y así puedes comprobarlo</a></h4>
-    <a href='https://computerhoy.com/internet/como-saber-compania-limitando-velocidad-internet-1365970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/limite-velocidad-internet-3276789.jpg?tf=1200x' alt='Tu compañía de Internet podría estar limitando tu velocidad de conexión y así puedes comprobarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150'>Microsoft anuncia una inversión de 1.950 millones de euros en IA y servicios en la nube en España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anuncia-inversion-2000-millones-euros-ia-servicios-nube-espana-3277021.jpg?tf=1200x' alt='Microsoft anuncia una inversión de 1.950 millones de euros en IA y servicios en la nube en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944'>Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más</a></h4>
-    <a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tdt-espana-3276782.jpg?tf=1200x' alt='Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-thrillers-90-nadie-recuerda-1365986'>5 thrillers de los 90 que nadie recuerda y tienes que ver sí o sí</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-thrillers-90-nadie-recuerda-1365986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copycat-3276824.jpg?tf=1200x' alt='5 thrillers de los 90 que nadie recuerda y tienes que ver sí o sí' />
     </a>
 </div>
 
