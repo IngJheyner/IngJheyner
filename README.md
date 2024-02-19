@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002'>Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches</a></h4>
+    <a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3276803.jpg?tf=1200x' alt='Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-saber-compania-limitando-velocidad-internet-1365970'>Tu compañía de Internet podría estar limitando tu velocidad de conexión y así puedes comprobarlo</a></h4>
+    <a href='https://computerhoy.com/internet/como-saber-compania-limitando-velocidad-internet-1365970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/limite-velocidad-internet-3276789.jpg?tf=1200x' alt='Tu compañía de Internet podría estar limitando tu velocidad de conexión y así puedes comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944'>Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más</a></h4>
     <a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tdt-espana-3276782.jpg?tf=1200x' alt='Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/alaskapox-nuevo-virus-misterioso-preocupa-medicos-1365928'>Alaskapox es el nuevo virus de origen misterioso que preocupa a los médicos: todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/life/alaskapox-nuevo-virus-misterioso-preocupa-medicos-1365928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alaskapox-3276595.jpg?tf=1200x' alt='Alaskapox es el nuevo virus de origen misterioso que preocupa a los médicos: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/freidora-aire-deberias-comprar-elige-cabeza-te-saldra-caro-1366029'>¿Qué freidora de aire deberías comprar? Elige con cabeza o te saldrá caro</a></h4>
-    <a href='https://computerhoy.com/life/freidora-aire-deberias-comprar-elige-cabeza-te-saldra-caro-1366029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/freidora-aire-toda-familia-philips-tamano-xl-mejores-ofertas-semana-2780243.jpg?tf=1200x' alt='¿Qué freidora de aire deberías comprar? Elige con cabeza o te saldrá caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834'>Esta página web te permite aprender gratis cualquier idioma de la Unión Europea</a></h4>
-    <a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-3276199.jpg?tf=1200x' alt='Esta página web te permite aprender gratis cualquier idioma de la Unión Europea' />
     </a>
 </div>
 
