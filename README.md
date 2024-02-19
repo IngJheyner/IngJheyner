@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643'>Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-legion-go-3274294.jpg?tf=1200x' alt='Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958'>He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273833.jpg?tf=1200x' alt='He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864'>Llevo 10 años usando Mac y estas son las 10 primeras aplicaciones que siempre instalo</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219348.jpg?tf=1200x' alt='Llevo 10 años usando Mac y estas son las 10 primeras aplicaciones que siempre instalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ofertas-vpn-surfshark-descuento-todos-planes-dos-meses-gratis-1365871'>La VPN con antivirus más veloz y también más barata anda de rebajas: Surfshark regala dos meses gratis a nuevos usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/ofertas-vpn-surfshark-descuento-todos-planes-dos-meses-gratis-1365871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='La VPN con antivirus más veloz y también más barata anda de rebajas: Surfshark regala dos meses gratis a nuevos usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899'>La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mision-privada-quiere-aterrizar-luna-envia-unas-fotos-espectaculares-tierra-3276550.jpg?tf=1200x' alt='La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hija-mark-zuckerberg-piensa-padre-ranchero-1365894'>Por qué la hija de Mark Zuckerberg piensa que su padre trabaja de ranchero</a></h4>
-    <a href='https://computerhoy.com/life/hija-mark-zuckerberg-piensa-padre-ranchero-1365894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hija-mark-zuckerberg-piensa-padre-ranchero-3276545.jpg?tf=1200x' alt='Por qué la hija de Mark Zuckerberg piensa que su padre trabaja de ranchero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/consiguen-instalar-windows-10-solo-104-segundos-1365888'>Consiguen instalar Windows 10 en solo 104 segundos</a></h4>
-    <a href='https://computerhoy.com/windows/consiguen-instalar-windows-10-solo-104-segundos-1365888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/consiguen-instalar-windows-10-solo-100-segundos-3276539.jpg?tf=1200x' alt='Consiguen instalar Windows 10 en solo 104 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855'>Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución' />
     </a>
 </div>
 
