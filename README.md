@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899'>La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mision-privada-quiere-aterrizar-luna-envia-unas-fotos-espectaculares-tierra-3276550.jpg?tf=1200x' alt='La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra' />
+    <h4><a href='https://computerhoy.com/life/19-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365909'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 19 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/19-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1365909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-19-febrero-2024-3276573.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 19 de febrero de 2024' />
     </a>
 </div>
 
