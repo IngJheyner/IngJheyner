@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944'>Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más</a></h4>
+    <a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tdt-espana-3276782.jpg?tf=1200x' alt='Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058'>TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-comision-europea-3276869.jpg?tf=1200x' alt='TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834'>Esta página web te permite aprender gratis cualquier idioma de la Unión Europea</a></h4>
     <a href='https://computerhoy.com/internet/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-1255834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pagina-web-te-permite-aprender-gratis-cualquier-idioma-union-europea-3276199.jpg?tf=1200x' alt='Esta página web te permite aprender gratis cualquier idioma de la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-localizar-barrios-peligrosos-debes-evitar-cuando-viajas-1366004'>Cómo localizar los barrios más peligrosos que debes evitar cuando viajas</a></h4>
-    <a href='https://computerhoy.com/life/como-localizar-barrios-peligrosos-debes-evitar-cuando-viajas-1366004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/barrios-peligrosos-3276821.jpg?tf=1200x' alt='Cómo localizar los barrios más peligrosos que debes evitar cuando viajas' />
     </a>
 </div>
 
