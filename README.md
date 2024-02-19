@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/coreanos-crean-arroz-proteinas-podria-sustituir-carne-1365962'>Científicos coreanos crean el arroz con proteínas que podría sustituir a la carne en el futuro</a></h4>
+    <a href='https://computerhoy.com/ciencia/coreanos-crean-arroz-proteinas-podria-sustituir-carne-1365962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-coreanos-crean-arroz-proteinas-podria-sustituir-carne-futuro-3276665.jpg?tf=1200x' alt='Científicos coreanos crean el arroz con proteínas que podría sustituir a la carne en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633'>Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-remapear-cambiar-funcionamiento-tecla-bloq-mayus-windows-11-3276148.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944'>Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más</a></h4>
     <a href='https://computerhoy.com/tv/canales-emiten-espana-hd-4k-despues-apagon-tdt-1365944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tdt-espana-3276782.jpg?tf=1200x' alt='Así queda la TDT en España tras el apagón: canales gratis que siguen emitiendo y todos los que ya no verás nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058'>TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA</a></h4>
-    <a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-comision-europea-3276869.jpg?tf=1200x' alt='TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA' />
     </a>
 </div>
 
