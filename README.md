@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ofertas-vpn-surfshark-descuento-todos-planes-dos-meses-gratis-1365871'>La VPN con antivirus más veloz y también más barata anda de rebajas: Surfshark regala dos meses gratis a nuevos usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ofertas-vpn-surfshark-descuento-todos-planes-dos-meses-gratis-1365871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='La VPN con antivirus más veloz y también más barata anda de rebajas: Surfshark regala dos meses gratis a nuevos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899'>La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/mision-privada-im-1-luna-envia-fotos-espectaculares-1365899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mision-privada-quiere-aterrizar-luna-envia-unas-fotos-espectaculares-tierra-3276550.jpg?tf=1200x' alt='La misión privada que quiere aterrizar en la Luna, envía fotos espectaculares de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855'>Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución</a></h4>
     <a href='https://computerhoy.com/tecnologia/pantalla-android-auto-coche-precio-record-aliexpress-1364855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu viejo coche puede tener Android Auto o CarPlay, y se instala en minutos: AliExpress tiene la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881'>Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-eos-superordenador-inteligencia-artificial-top-10-1365881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708277458366-3276529.jpg?tf=1200x' alt='Así es NVIDIA Eos, el superordenador para IA que entra de cabeza en el Top 10' />
     </a>
 </div>
 
