@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3276662.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932'>Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre</a></h4>
     <a href='https://computerhoy.com/tecnologia/escribir-codigo-nunca-fue-tan-facil-funciona-lenguaje-programacion-no-tiene-nombre-1365932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenguaje-programacion-3276603.jpg?tf=1200x' alt='Escribir código nunca fue "tan fácil": así funciona el lenguaje de programación que no tiene nombre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643'>Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-legion-go-3274294.jpg?tf=1200x' alt='Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958'>He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-xiaomi-redmi-buds-5-pro-sonido-sorprendente-precio-1363958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273833.jpg?tf=1200x' alt='He usado los Xiaomi Redmi Buds 5 Pro en mi día a día y me ha sorprendido encontrar este sonido a su precio' />
     </a>
 </div>
 
