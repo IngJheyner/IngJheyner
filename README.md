@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/preguntas-respuesta-correcta-entrevista-trabajo-1365975'>Preguntas sin respuesta correcta en una entrevista de trabajo</a></h4>
+    <a href='https://computerhoy.com/life/preguntas-respuesta-correcta-entrevista-trabajo-1365975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-3276780.jpg?tf=1200x' alt='Preguntas sin respuesta correcta en una entrevista de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-general-agi-cuando-llegara-vidas-1365946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/inteligencia-artificial-3276662.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643'>Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lenovo-deja-ko-steam-deck-consola-portatil-potente-tiene-windows-11-1364643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-legion-go-3274294.jpg?tf=1200x' alt='Lenovo deja KO a Steam Deck: su consola portátil es más potente y tiene Windows 11' />
     </a>
 </div>
 
