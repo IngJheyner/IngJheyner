@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168'> T Phone, el móvil con IA que no necesita apps</a></h4>
+    <a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/t-phone-movil-ia-no-necesita-apps-3277036.jpg?tf=1200x' alt=' T Phone, el móvil con IA que no necesita apps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875'>Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-pacer-pro-3226998.jpg?tf=1200x' alt='Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150'>Microsoft anuncia una inversión de 1.950 millones de euros en IA y servicios en la nube en España</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150'>Microsoft anuncia una inversión de 1.950 millones de euros en IA y la nube en España, construirá dos centros de datos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anuncia-inversion-2000-millones-euros-ia-servicios-nube-espana-3277021.jpg?tf=1200x' alt='Microsoft anuncia una inversión de 1.950 millones de euros en IA y servicios en la nube en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-thrillers-90-nadie-recuerda-1365986'>5 thrillers de los 90 que nadie recuerda y tienes que ver sí o sí</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-thrillers-90-nadie-recuerda-1365986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copycat-3276824.jpg?tf=1200x' alt='5 thrillers de los 90 que nadie recuerda y tienes que ver sí o sí' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anuncia-inversion-2000-millones-euros-ia-servicios-nube-espana-3277021.jpg?tf=1200x' alt='Microsoft anuncia una inversión de 1.950 millones de euros en IA y la nube en España, construirá dos centros de datos' />
     </a>
 </div>
 
