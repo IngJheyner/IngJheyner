@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633'>Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiar-funcionamiento-tecla-bloq-mayus-windows-11-1365633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-remapear-cambiar-funcionamiento-tecla-bloq-mayus-windows-11-3276148.jpg?tf=1200x' alt='Cómo cambiar el funcionamiento de la tecla Bloq Mayús para que sirva para algo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002'>Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches</a></h4>
     <a href='https://computerhoy.com/tecnologia/curioso-motivo-expertos-no-quieren-prohibir-flipper-zero-1366002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/flipper-zero-3276803.jpg?tf=1200x' alt='Expertos contra la prohibición de Flipper Zero: es una herramienta de seguridad, no para robar coches' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058'>TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-examen-comision-europea-investiga-red-social-presuntas-violaciones-dsa-1366058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-comision-europea-3276869.jpg?tf=1200x' alt='TikTok a examen: la Comisión Europea investiga la red social en busca de posibles violaciones de la DSA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alaskapox-nuevo-virus-misterioso-preocupa-medicos-1365928'>Alaskapox es el nuevo virus de origen misterioso que preocupa a los médicos: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/life/alaskapox-nuevo-virus-misterioso-preocupa-medicos-1365928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alaskapox-3276595.jpg?tf=1200x' alt='Alaskapox es el nuevo virus de origen misterioso que preocupa a los médicos: todo lo que debes saber' />
     </a>
 </div>
 
