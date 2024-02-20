@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213'> ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/movil-plegable-apple-3277106.jpg?tf=1200x' alt=' ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214'>Sí, el sable de luz de Luke Skywalker ha estado en el espacio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espada-laser-luke-skywalker-ha-estado-espacio-3277077.jpg?tf=1200x' alt='Sí, el sable de luz de Luke Skywalker ha estado en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/que-es-hardballing-1365129'>Hardballing: así es la nueva forma de ligar en tiempos de redes sociales</a></h4>
     <a href='https://computerhoy.com/internet/que-es-hardballing-1365129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hardballing-forma-ligar-tiempos-redes-sociales-3275217.jpg?tf=1200x' alt='Hardballing: así es la nueva forma de ligar en tiempos de redes sociales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269'>He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes</a></h4>
     <a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photopea-3276084.jpg?tf=1200x' alt='He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940'>Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-evitar-estafas-deepfakes-3276604.jpg?tf=1200x' alt='Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085'>Éstos son los mejores MP3 con Spotify que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mighty-3-spotify-3276932.jpg?tf=1200x' alt='Éstos son los mejores MP3 con Spotify que puedes comprar' />
     </a>
 </div>
 
