@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-caco-tecnica-adelgazar-coger-musculo-mientras-corres-1365463'>Método CaCo: así es la técnica para adelgazar y coger músculo mientras corres</a></h4>
-    <a href='https://computerhoy.com/life/metodo-caco-tecnica-adelgazar-coger-musculo-mientras-corres-1365463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-corredora-atandose-zapatillas-3277306.jpg?tf=1200x' alt='Método CaCo: así es la técnica para adelgazar y coger músculo mientras corres' />
+    <h4><a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317'>Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?</a></h4>
+    <a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planeta-misterioso-3277356.jpg?tf=1200x' alt='Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314'>10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día</a></h4>
-    <a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día' />
+    <h4><a href='https://computerhoy.com/tecnologia/tiembla-gopro-alternativa-graba-4k-120-fps-ia-lente-leica-1366283'>Tiembla GoPro: esta alternativa graba 4K a 120 FPS, con IA y lente Leica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiembla-gopro-alternativa-graba-4k-120-fps-ia-lente-leica-1366283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/insta360-ace-pro-3277220.jpg?tf=1200x' alt='Tiembla GoPro: esta alternativa graba 4K a 120 FPS, con IA y lente Leica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
-    <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
+    <h4><a href='https://computerhoy.com/noticias/life/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-844859'>El té de clavo de olor tiene beneficios sorprendentes: así puedes prepararlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-844859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-3277057.jpg?tf=1200x' alt='El té de clavo de olor tiene beneficios sorprendentes: así puedes prepararlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950'>El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-balance-3276647.jpg?tf=1200x' alt='El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit' />
+    <h4><a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287'>Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera</a></h4>
+    <a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/euskadi-3277342.jpg?tf=1200x' alt='Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239'>Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente</a></h4>
-    <a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-nervios-3277203.jpg?tf=1200x' alt='Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente' />
+    <h4><a href='https://computerhoy.com/apple/apple-desmiente-forma-oficial-gran-mito-moviles-agua-1366250'>Apple desmiente de forma oficial, tras décadas engañados, el gran mito de los móviles y el agua</a></h4>
+    <a href='https://computerhoy.com/apple/apple-desmiente-forma-oficial-gran-mito-moviles-agua-1366250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-mojado-3277196.jpg?tf=1200x' alt='Apple desmiente de forma oficial, tras décadas engañados, el gran mito de los móviles y el agua' />
     </a>
 </div>
 
