@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-caco-tecnica-adelgazar-coger-musculo-mientras-corres-1365463'>Método CaCo: así es la técnica para adelgazar y coger músculo mientras corres</a></h4>
+    <a href='https://computerhoy.com/life/metodo-caco-tecnica-adelgazar-coger-musculo-mientras-corres-1365463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-corredora-atandose-zapatillas-3277306.jpg?tf=1200x' alt='Método CaCo: así es la técnica para adelgazar y coger músculo mientras corres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314'>10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día</a></h4>
     <a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239'>Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente</a></h4>
     <a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-nervios-3277203.jpg?tf=1200x' alt='Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218'>JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/jpg-png-formatos-imagen-3277189.jpg?tf=1200x' alt='JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso' />
     </a>
 </div>
 
