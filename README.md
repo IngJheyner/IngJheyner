@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
+    <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950'>El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-balance-3276647.jpg?tf=1200x' alt='El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942'>Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/haier-oled-h65s9ug-pro-3276622.jpg?tf=1200x' alt='Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213'> ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/movil-plegable-apple-3277106.jpg?tf=1200x' alt=' ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple' />
     </a>
 </div>
 
