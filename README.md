@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174'>¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield</a></h4>
+    <a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175'>Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas</a></h4>
     <a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-3277046.jpg?tf=1200x' alt='Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875'>Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-pacer-pro-3226998.jpg?tf=1200x' alt='Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154'>Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/q1-pc-3277032.jpg?tf=1200x' alt='Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia' />
     </a>
 </div>
 
