@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449'>Tras el timo de la doble llamada llega la estafa del cambio de router</a></h4>
+    <a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafa-router-internet-3277578.jpg?tf=1200x' alt='Tras el timo de la doble llamada llega la estafa del cambio de router' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317'>Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?</a></h4>
     <a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planeta-misterioso-3277356.jpg?tf=1200x' alt='Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287'>Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera</a></h4>
     <a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/euskadi-3277342.jpg?tf=1200x' alt='Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-desmiente-forma-oficial-gran-mito-moviles-agua-1366250'>Apple desmiente de forma oficial, tras décadas engañados, el gran mito de los móviles y el agua</a></h4>
-    <a href='https://computerhoy.com/apple/apple-desmiente-forma-oficial-gran-mito-moviles-agua-1366250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-mojado-3277196.jpg?tf=1200x' alt='Apple desmiente de forma oficial, tras décadas engañados, el gran mito de los móviles y el agua' />
     </a>
 </div>
 
