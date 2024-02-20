@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950'>El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-ia-te-ayuda-dormir-tiene-150-deportes-pone-serios-apuros-fitbit-1365950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-balance-3276647.jpg?tf=1200x' alt='El reloj con IA que te ayuda a dormir tiene 150 deportes y pone en serios apuros a Fitbit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239'>Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente</a></h4>
     <a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-nervios-3277203.jpg?tf=1200x' alt='Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213'> ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple</a></h4>
     <a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/movil-plegable-apple-3277106.jpg?tf=1200x' alt=' ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214'>Sí, el sable de luz de Luke Skywalker ha estado en el espacio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espada-laser-luke-skywalker-ha-estado-espacio-3277077.jpg?tf=1200x' alt='Sí, el sable de luz de Luke Skywalker ha estado en el espacio' />
     </a>
 </div>
 
