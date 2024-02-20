@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175'>Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas</a></h4>
+    <a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-3277046.jpg?tf=1200x' alt='Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-1366171'>He probado muchas alternativas y puedo afirmar que hay vida después de Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-1366171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-3277052.jpg?tf=1200x' alt='He probado muchas alternativas y puedo afirmar que hay vida después de Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168'> T Phone, el móvil con IA que no necesita apps</a></h4>
     <a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/t-phone-movil-ia-no-necesita-apps-3277036.jpg?tf=1200x' alt=' T Phone, el móvil con IA que no necesita apps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154'>Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubren-limpieza-dos-primeros-casi-unicos-pc-sobremesa-historia-1366154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/q1-pc-3277032.jpg?tf=1200x' alt='Descubren en una limpieza dos de los primeros (y casi únicos) PC de sobremesa de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-anatsa-google-play-estas-son-apps-debes-eliminar-ahora-mismo-1366153'>Detectan el peligroso malware Anatsa en la Google Play: estas son las apps que debes eliminar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detectan-peligroso-malware-anatsa-google-play-estas-son-apps-debes-eliminar-ahora-mismo-1366153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/malware-android-3268681.jpg?tf=1200x' alt='Detectan el peligroso malware Anatsa en la Google Play: estas son las apps que debes eliminar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150'>Microsoft anuncia una inversión de 1.950 millones de euros en IA y la nube en España, construirá dos centros de datos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-inversion-inteligencia-artificial-nube-espana-1366150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anuncia-inversion-2000-millones-euros-ia-servicios-nube-espana-3277021.jpg?tf=1200x' alt='Microsoft anuncia una inversión de 1.950 millones de euros en IA y la nube en España, construirá dos centros de datos' />
     </a>
 </div>
 
