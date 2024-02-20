@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/que-es-hardballing-1365129'>Hardballing: así es la nueva forma de ligar en tiempos de redes sociales</a></h4>
+    <a href='https://computerhoy.com/internet/que-es-hardballing-1365129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hardballing-forma-ligar-tiempos-redes-sociales-3275217.jpg?tf=1200x' alt='Hardballing: así es la nueva forma de ligar en tiempos de redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/purificador-xiaomi-rebajado-aliexpress-envio-espana-gratis-1365882'>La primavera se adelante y las alergias también: este purificador Xiaomi tiene rebaja y promete arreglarlo en minutos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/purificador-xiaomi-rebajado-aliexpress-envio-espana-gratis-1365882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-air-purifier-4-lite-3276525.jpg?tf=1200x' alt='La primavera se adelante y las alergias también: este purificador Xiaomi tiene rebaja y promete arreglarlo en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269'>He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes</a></h4>
     <a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photopea-3276084.jpg?tf=1200x' alt='He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085'>Éstos son los mejores MP3 con Spotify que puedes comprar</a></h4>
     <a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mighty-3-spotify-3276932.jpg?tf=1200x' alt='Éstos son los mejores MP3 con Spotify que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/20-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366186'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 20 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/20-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-20-febrero-2024-3277066.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 20 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174'>¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield</a></h4>
-    <a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield' />
     </a>
 </div>
 
