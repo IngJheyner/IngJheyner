@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239'>Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente</a></h4>
+    <a href='https://computerhoy.com/life/preguntas-trampa-entrevistas-trabajo-como-responder-adecuadamente-1366239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-nervios-3277203.jpg?tf=1200x' alt='Preguntas trampa en entrevistas de trabajo y cómo responder adecuadamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218'>JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso</a></h4>
     <a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/jpg-png-formatos-imagen-3277189.jpg?tf=1200x' alt='JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214'>Sí, el sable de luz de Luke Skywalker ha estado en el espacio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/sable-luz-luke-skywalker-ha-estado-espacio-nasa-1366214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espada-laser-luke-skywalker-ha-estado-espacio-3277077.jpg?tf=1200x' alt='Sí, el sable de luz de Luke Skywalker ha estado en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/que-es-hardballing-1365129'>Hardballing: así es la nueva forma de ligar en tiempos de redes sociales</a></h4>
-    <a href='https://computerhoy.com/internet/que-es-hardballing-1365129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hardballing-forma-ligar-tiempos-redes-sociales-3275217.jpg?tf=1200x' alt='Hardballing: así es la nueva forma de ligar en tiempos de redes sociales' />
     </a>
 </div>
 
