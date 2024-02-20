@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458'>¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/deberias-instalar-antivirus-linux-todo-necesitas-saber-3277652.jpg?tf=1200x' alt='¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753'>Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor</a></h4>
+    <a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dormir-pareja-cama-3277362.jpg?tf=1200x' alt='Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464'>Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente</a></h4>
     <a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-music-actualiza-popular-funcion-replay-estadisticas-2024-3277534.jpg?tf=1200x' alt='Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/freidora-brutal-cosori-hunde-precio-tiene-dos-cestas-sirve-horno-1364765'>La freidora más brutal de Cosori hunde su precio: tiene dos cestas y sirve de horno</a></h4>
     <a href='https://computerhoy.com/tecnologia/freidora-brutal-cosori-hunde-precio-tiene-dos-cestas-sirve-horno-1364765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cosori-dual-basket-3274509.jpg?tf=1200x' alt='La freidora más brutal de Cosori hunde su precio: tiene dos cestas y sirve de horno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/prpblemas-tarjeta-grafica-no-funciona-correctamente-1365596'>Qué hacer si tu tarjeta gráfica no funciona correctamente</a></h4>
-    <a href='https://computerhoy.com/pc/prpblemas-tarjeta-grafica-no-funciona-correctamente-1365596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/geforce-rtx-3080-ti-3277364.jpg?tf=1200x' alt='Qué hacer si tu tarjeta gráfica no funciona correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449'>Tras el timo de la doble llamada llega la estafa del cambio de router</a></h4>
-    <a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafa-router-internet-3277578.jpg?tf=1200x' alt='Tras el timo de la doble llamada llega la estafa del cambio de router' />
     </a>
 </div>
 
