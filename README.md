@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269'>He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photopea-3276084.jpg?tf=1200x' alt='He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940'>Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-evitar-estafas-deepfakes-3276604.jpg?tf=1200x' alt='Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174'>¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield</a></h4>
     <a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175'>Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas</a></h4>
-    <a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-3277046.jpg?tf=1200x' alt='Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas' />
     </a>
 </div>
 
