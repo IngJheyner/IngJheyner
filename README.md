@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218'>JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/jpg-png-formatos-imagen-3277189.jpg?tf=1200x' alt='JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942'>Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/haier-oled-h65s9ug-pro-3276622.jpg?tf=1200x' alt='Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213'> ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple</a></h4>
     <a href='https://computerhoy.com/apple/iflip-ifold-vista-filtra-posible-fecha-lanzamiento-movil-plegable-apple-1366213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/movil-plegable-apple-3277106.jpg?tf=1200x' alt=' ¿iFlip o iFold a la vista?: se filtra una posible fecha de lanzamiento del móvil plegable de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/que-es-hardballing-1365129'>Hardballing: así es la nueva forma de ligar en tiempos de redes sociales</a></h4>
     <a href='https://computerhoy.com/internet/que-es-hardballing-1365129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hardballing-forma-ligar-tiempos-redes-sociales-3275217.jpg?tf=1200x' alt='Hardballing: así es la nueva forma de ligar en tiempos de redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/purificador-xiaomi-rebajado-aliexpress-envio-espana-gratis-1365882'>La primavera se adelante y las alergias también: este purificador Xiaomi tiene rebaja y promete arreglarlo en minutos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/purificador-xiaomi-rebajado-aliexpress-envio-espana-gratis-1365882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-air-purifier-4-lite-3276525.jpg?tf=1200x' alt='La primavera se adelante y las alergias también: este purificador Xiaomi tiene rebaja y promete arreglarlo en minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269'>He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-photopea-photoshop-gratis-edicion-imagenes-1365269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/photopea-3276084.jpg?tf=1200x' alt='He probado Photopea y no tiene casi nada que envidiar a Photoshop para la edición de imágenes' />
     </a>
 </div>
 
