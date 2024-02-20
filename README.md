@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464'>Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-music-actualiza-popular-funcion-replay-estadisticas-2024-3277534.jpg?tf=1200x' alt='Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-humano-chip-neuralink-elon-musk-ya-puede-controlar-pc-mente-1366452'>El primer humano con el chip Neuralink de Elon Musk ya puede controlar un PC con la mente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-humano-chip-neuralink-elon-musk-ya-puede-controlar-pc-mente-1366452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/neuralink-3277590.jpg?tf=1200x' alt='El primer humano con el chip Neuralink de Elon Musk ya puede controlar un PC con la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/freidora-brutal-cosori-hunde-precio-tiene-dos-cestas-sirve-horno-1364765'>La freidora más brutal de Cosori hunde su precio: tiene dos cestas y sirve de horno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/freidora-brutal-cosori-hunde-precio-tiene-dos-cestas-sirve-horno-1364765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cosori-dual-basket-3274509.jpg?tf=1200x' alt='La freidora más brutal de Cosori hunde su precio: tiene dos cestas y sirve de horno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/prpblemas-tarjeta-grafica-no-funciona-correctamente-1365596'>Qué hacer si tu tarjeta gráfica no funciona correctamente</a></h4>
+    <a href='https://computerhoy.com/pc/prpblemas-tarjeta-grafica-no-funciona-correctamente-1365596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/geforce-rtx-3080-ti-3277364.jpg?tf=1200x' alt='Qué hacer si tu tarjeta gráfica no funciona correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449'>Tras el timo de la doble llamada llega la estafa del cambio de router</a></h4>
     <a href='https://computerhoy.com/internet/timo-doble-llamada-llega-estafa-cambio-router-1366449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafa-router-internet-3277578.jpg?tf=1200x' alt='Tras el timo de la doble llamada llega la estafa del cambio de router' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317'>Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?</a></h4>
-    <a href='https://computerhoy.com/ciencia/limitan-area-busqueda-misterioso-planeta-nueve-1366317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planeta-misterioso-3277356.jpg?tf=1200x' alt='Cada vez estamos más cerca de encontrar el misterioso Planeta Nueve: ¿existe realmente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiembla-gopro-alternativa-graba-4k-120-fps-ia-lente-leica-1366283'>Tiembla GoPro: esta alternativa graba 4K a 120 FPS, con IA y lente Leica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiembla-gopro-alternativa-graba-4k-120-fps-ia-lente-leica-1366283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/insta360-ace-pro-3277220.jpg?tf=1200x' alt='Tiembla GoPro: esta alternativa graba 4K a 120 FPS, con IA y lente Leica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-844859'>El té de clavo de olor tiene beneficios sorprendentes: así puedes prepararlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-844859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-clavo-olor-tiene-beneficios-sorprendentes-puedes-prepararlo-3277057.jpg?tf=1200x' alt='El té de clavo de olor tiene beneficios sorprendentes: así puedes prepararlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287'>Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera</a></h4>
-    <a href='https://computerhoy.com/ciencia/origenes-idioma-euskera-1366287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/euskadi-3277342.jpg?tf=1200x' alt='Descubren una escultura de bronce que puede ofrecer pistas sobre los orígenes del euskera' />
     </a>
 </div>
 
