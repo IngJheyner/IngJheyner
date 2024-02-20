@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940'>Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-1365940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/voces-famosos-inundan-facebook-instagram-puedes-detectarlas-evitar-estafas-deepfakes-3276604.jpg?tf=1200x' alt='Las voces de famosos inundan Facebook e Instagram: así puedes detectarlas para evitar las estafas por deepfakes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085'>Éstos son los mejores MP3 con Spotify que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/audio/estos-son-mejores-mp3-spotify-puedes-comprar-1366085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mighty-3-spotify-3276932.jpg?tf=1200x' alt='Éstos son los mejores MP3 con Spotify que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/20-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366186'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 20 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/20-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-20-febrero-2024-3277066.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 20 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174'>¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield</a></h4>
     <a href='https://computerhoy.com/internet/adios-futbol-pirata-iptv-espana-activa-propio-piracy-shield-1366174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='¿Adiós al fútbol pirata por IPTV y AceStream? España activa su propio Piracy Shield' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175'>Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas</a></h4>
     <a href='https://computerhoy.com/ciencia/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-1366175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/analizan-adn-pelo-beethoven-descubren-dos-grandes-sorpresas-3277046.jpg?tf=1200x' alt='Analizan el ADN del pelo de Beethoven y descubren dos grandes sorpresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-1366171'>He probado muchas alternativas y puedo afirmar que hay vida después de Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-1366171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/he-probado-muchas-alternativas-puedo-afirmar-hay-vida-despues-google-maps-waze-3277052.jpg?tf=1200x' alt='He probado muchas alternativas y puedo afirmar que hay vida después de Google Maps y Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168'> T Phone, el móvil con IA que no necesita apps</a></h4>
-    <a href='https://computerhoy.com/moviles/t-phone-movil-inteligencia-artificial-no-necesita-apps-1366168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/t-phone-movil-ia-no-necesita-apps-3277036.jpg?tf=1200x' alt=' T Phone, el móvil con IA que no necesita apps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875'>Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-pacer-pro-oferta-barato-nunca-tumbar-garmin-1365875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/polar-pacer-pro-3226998.jpg?tf=1200x' alt='Polar quiere tumbar a los Garmin Forerunner: deja su Pacer Pro a precio récord' />
     </a>
 </div>
 
