@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314'>10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día</a></h4>
+    <a href='https://computerhoy.com/apple/10-lecciones-liderazgo-steve-jobs-cualquiera-puede-utilizar-dia-dia-1366314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='10 lecciones de liderazgo de Steve Jobs que cualquiera puede utilizar en su día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
     <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218'>JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso</a></h4>
     <a href='https://computerhoy.com/tecnologia/jpg-png-diferencias-formato-imagen-debes-usar-cada-caso-1366218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/jpg-png-formatos-imagen-3277189.jpg?tf=1200x' alt='JPG y PNG: diferencias y qué formato de imagen debes usar en cada caso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942'>Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-va-agotar-tv-oled-65-casi-mitad-precio-forma-temporal-1365942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/haier-oled-h65s9ug-pro-3276622.jpg?tf=1200x' alt='Amazon va a agotar esta TV OLED: de 65" y casi a mitad de precio de forma temporal' />
     </a>
 </div>
 
