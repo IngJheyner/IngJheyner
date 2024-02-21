@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600'>Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-redes-sociales-3277871.jpg?tf=1200x' alt='Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-tarda-cocerse-huevo-3277713.jpg?tf=1200x' alt='Cuánto tiempo tarda en cocerse un huevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594'>CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas</a></h4>
     <a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266'>Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273840.jpg?tf=1200x' alt='Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565'>La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?</a></h4>
-    <a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/electrodomesticos-estropeados-3277801.jpg?tf=1200x' alt='La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550'>Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones' />
     </a>
 </div>
 
