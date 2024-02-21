@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567'>El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación</a></h4>
+    <a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/paneles-solares-3277797.jpg?tf=1200x' alt='El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/amazon-echo-hub-cuadro-mandos-hogar-alexa-1365869'>He probado el nuevo Amazon Echo Hub, un centro de control para los verdaderos fans de Alexa que cae en tierra de nadie</a></h4>
+    <a href='https://computerhoy.com/analisis/amazon-echo-hub-cuadro-mandos-hogar-alexa-1365869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-echo-hub-3276507.jpg?tf=1200x' alt='He probado el nuevo Amazon Echo Hub, un centro de control para los verdaderos fans de Alexa que cae en tierra de nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600'>Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"</a></h4>
     <a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-redes-sociales-3277871.jpg?tf=1200x' alt='Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594'>CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas</a></h4>
     <a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581'>Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?</a></h4>
-    <a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/futbol-pirateria-3277837.jpg?tf=1200x' alt='Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266'>Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273840.jpg?tf=1200x' alt='Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón' />
     </a>
 </div>
 
