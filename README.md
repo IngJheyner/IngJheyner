@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490'>Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra</a></h4>
+    <h4><a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490'>Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra: fragmentos de 50 Kilos podría llegar al suelo</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-tamano-autobus-caera-manana-forma-incontrolada-tierra-3277687.jpg?tf=1200x' alt='Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-tamano-autobus-caera-manana-forma-incontrolada-tierra-3277687.jpg?tf=1200x' alt='Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra: fragmentos de 50 Kilos podría llegar al suelo' />
     </a>
 </div>
 
