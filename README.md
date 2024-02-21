@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519'>Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-forerunner-165-3277723.jpg?tf=1200x' alt='Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572'>¿En qué puesto está España en el uso de inteligencia artificial en el mundo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espana-inteligencia-artificial-3277899.jpg?tf=1200x' alt='¿En qué puesto está España en el uso de inteligencia artificial en el mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721'>WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan</a></h4>
     <a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-estrena-nuevos-formatos-texto-hacer-listas-citas-alineaciones-3278021.jpg?tf=1200x' alt='WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593'>La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica</a></h4>
     <a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3277895.jpg?tf=1200x' alt='La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595'>Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema</a></h4>
-    <a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/privacidad-informacion-aplicaciones-android-3277835.jpg?tf=1200x' alt='Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567'>El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación</a></h4>
-    <a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/paneles-solares-3277797.jpg?tf=1200x' alt='El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación' />
     </a>
 </div>
 
