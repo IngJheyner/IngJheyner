@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957'>Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/apagon-masivo-webs-pirata-adios-200-dominios-tv-peliculas-series-1366528'>Apagón masivo de webs pirata: 200 dominios .tv de películas y series dejan a los usuarios fuera de juego</a></h4>
+    <a href='https://computerhoy.com/tv/apagon-masivo-webs-pirata-adios-200-dominios-tv-peliculas-series-1366528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/webs-piratas-3277753.jpg?tf=1200x' alt='Apagón masivo de webs pirata: 200 dominios .tv de películas y series dejan a los usuarios fuera de juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563'>Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dron-science-4-industry-3267293.jpg?tf=1200x' alt='Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-21-febrero-2024-3277719.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502'>Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-3277709.jpg?tf=1200x' alt='Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497'>Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafador-sentido-humor-compra-online-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-3277696.jpg?tf=1200x' alt='Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados' />
     </a>
 </div>
 
