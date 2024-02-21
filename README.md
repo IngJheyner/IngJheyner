@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334'>La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dgt-3277910.jpg?tf=1200x' alt='La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519'>Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-forerunner-165-3277723.jpg?tf=1200x' alt='Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684'>5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-millonarios-tecnologicos-usan-android-lugar-iphone-estas-son-razones-3278041.jpg?tf=1200x' alt='5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593'>La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica</a></h4>
-    <a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3277895.jpg?tf=1200x' alt='La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica' />
     </a>
 </div>
 
