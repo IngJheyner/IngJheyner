@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595'>Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema</a></h4>
+    <a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/privacidad-informacion-aplicaciones-android-3277835.jpg?tf=1200x' alt='Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567'>El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación</a></h4>
     <a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/paneles-solares-3277797.jpg?tf=1200x' alt='El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-tarda-cocerse-huevo-3277713.jpg?tf=1200x' alt='Cuánto tiempo tarda en cocerse un huevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594'>CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas</a></h4>
-    <a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas' />
     </a>
 </div>
 
