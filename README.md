@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581'>Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?</a></h4>
+    <a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/futbol-pirateria-3277837.jpg?tf=1200x' alt='Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266'>Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-baratos-suenan-brutal-xiaomi-redmi-buds-5-revientan-precio-cupon-1366266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273840.jpg?tf=1200x' alt='Son baratos y suenan brutal: los Xiaomi Redmi Buds 5 revientan su precio con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565'>La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?</a></h4>
     <a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/electrodomesticos-estropeados-3277801.jpg?tf=1200x' alt='La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957'>Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/apagon-masivo-webs-pirata-adios-200-dominios-tv-peliculas-series-1366528'>Apagón masivo de webs pirata: 200 dominios .tv de películas y series dejan a los usuarios fuera de juego</a></h4>
-    <a href='https://computerhoy.com/tv/apagon-masivo-webs-pirata-adios-200-dominios-tv-peliculas-series-1366528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/webs-piratas-3277753.jpg?tf=1200x' alt='Apagón masivo de webs pirata: 200 dominios .tv de películas y series dejan a los usuarios fuera de juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563'>Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dron-science-4-industry-3267293.jpg?tf=1200x' alt='Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial' />
     </a>
 </div>
 
