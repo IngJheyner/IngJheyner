@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781'>Los mejores drones con cámara que puedes comprar calidad precio</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Los mejores drones con cámara que puedes comprar calidad precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-21-febrero-2024-3277719.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502'>Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-3277709.jpg?tf=1200x' alt='Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491'>¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/genial-truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-3217892.jpg?tf=1200x' alt='¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490'>Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra: fragmentos de 50 Kilos podría llegar al suelo</a></h4>
-    <a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-tamano-autobus-caera-manana-forma-incontrolada-tierra-3277687.jpg?tf=1200x' alt='Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra: fragmentos de 50 Kilos podría llegar al suelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458'>¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/deberias-instalar-antivirus-linux-todo-necesitas-saber-3277652.jpg?tf=1200x' alt='¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber' />
     </a>
 </div>
 
