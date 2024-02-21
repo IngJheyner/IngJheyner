@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550'>Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957'>Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781'>Los mejores drones con cámara que puedes comprar calidad precio</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Los mejores drones con cámara que puedes comprar calidad precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024</a></h4>
-    <a href='https://computerhoy.com/life/21-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-21-febrero-2024-3277719.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 21 de febrero de 2024' />
     </a>
 </div>
 
