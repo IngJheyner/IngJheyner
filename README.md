@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563'>Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dron-science-4-industry-3267293.jpg?tf=1200x' alt='Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781'>Los mejores drones con cámara que puedes comprar calidad precio</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Los mejores drones con cámara que puedes comprar calidad precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497'>Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafador-sentido-humor-compra-online-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-3277696.jpg?tf=1200x' alt='Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491'>¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/genial-truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-3217892.jpg?tf=1200x' alt='¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida' />
     </a>
 </div>
 
