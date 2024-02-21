@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565'>La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?</a></h4>
+    <a href='https://computerhoy.com/hogar/vida-util-electrodomesticos-cae-picado-problema-podrias-ser-1366565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/electrodomesticos-estropeados-3277801.jpg?tf=1200x' alt='La vida útil de tus electrodomésticos cae en picado y el problema ¿podrías ser tú?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550'>Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563'>Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/ciencia/dron-espanol-llevara-camaras-ia-rescate-personas-1360563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/dron-science-4-industry-3267293.jpg?tf=1200x' alt='Este dron español podrá realizar labores de rescate en plataformas móviles y contará con el apoyo de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781'>Los mejores drones con cámara que puedes comprar calidad precio</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-drones-camara-que-puedes-comprar-2018-255781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Los mejores drones con cámara que puedes comprar calidad precio' />
     </a>
 </div>
 
