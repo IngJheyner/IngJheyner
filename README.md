@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770'>Microsoft forzará las actualizaciones de tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-maximo-rendimiento-windows-11-3114936.jpg?tf=1200x' alt='Microsoft forzará las actualizaciones de tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/duplican-huellas-dactilares-sonido-dedo-deslizar-pantalla-1366537'>Consiguen duplicar las huellas dactilares por el sonido que producen al deslizar el dedo por la pantalla táctil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/duplican-huellas-dactilares-sonido-dedo-deslizar-pantalla-1366537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huella-dactilar-desbloquear-movil-3277881.jpg?tf=1200x' alt='Consiguen duplicar las huellas dactilares por el sonido que producen al deslizar el dedo por la pantalla táctil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334'>La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dgt-3277910.jpg?tf=1200x' alt='La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572'>¿En qué puesto está España en el uso de inteligencia artificial en el mundo?</a></h4>
     <a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espana-inteligencia-artificial-3277899.jpg?tf=1200x' alt='¿En qué puesto está España en el uso de inteligencia artificial en el mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721'>WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-estrena-nuevos-formatos-texto-hacer-listas-citas-alineaciones-3278021.jpg?tf=1200x' alt='WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684'>5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-millonarios-tecnologicos-usan-android-lugar-iphone-estas-son-razones-3278041.jpg?tf=1200x' alt='5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones' />
     </a>
 </div>
 
