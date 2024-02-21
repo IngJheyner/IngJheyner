@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721'>WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-nuevos-formatos-texto-listas-citas-alineaciones-1366721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-estrena-nuevos-formatos-texto-hacer-listas-citas-alineaciones-3278021.jpg?tf=1200x' alt='WhatsApp estrena nuevos formatos de texto para hacer listas, citas y alineaciones: así se usan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684'>5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-millonarios-tecnologicos-usan-android-lugar-iphone-1366684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-millonarios-tecnologicos-usan-android-lugar-iphone-estas-son-razones-3278041.jpg?tf=1200x' alt='5 millonarios tecnológicos que usan Android en lugar de iPhone, y estas son sus razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593'>La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica</a></h4>
+    <a href='https://computerhoy.com/redes/novedad-whatsapp-cambia-totalmente-privacidad-usuarios-1366593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-3277895.jpg?tf=1200x' alt='La novedad de WhatsApp que cambia totalmente la privacidad de los usuarios, y traerá polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595'>Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema</a></h4>
     <a href='https://computerhoy.com/apps/android-tiene-grave-problema-informacion-personal-1366595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/privacidad-informacion-aplicaciones-android-3277835.jpg?tf=1200x' alt='Estas son las aplicaciones que ponen en riesgo tu información personal: Android tiene un grave problema' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567'>El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación</a></h4>
     <a href='https://computerhoy.com/energia/nuevo-invento-placas-solares-generen-energia-cambiar-nada-1366567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/paneles-solares-3277797.jpg?tf=1200x' alt='El nuevo invento para que tus placas solares generen hasta un 15% más de energía sin cambiar la instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/amazon-echo-hub-cuadro-mandos-hogar-alexa-1365869'>He probado el nuevo Amazon Echo Hub, un centro de control para los verdaderos fans de Alexa que cae en tierra de nadie</a></h4>
-    <a href='https://computerhoy.com/analisis/amazon-echo-hub-cuadro-mandos-hogar-alexa-1365869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-echo-hub-3276507.jpg?tf=1200x' alt='He probado el nuevo Amazon Echo Hub, un centro de control para los verdaderos fans de Alexa que cae en tierra de nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600'>Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/redes-sociales-gemini-excesiva-inclusion-racial-generar-imagenes-1366600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-redes-sociales-3277871.jpg?tf=1200x' alt='Las redes sociales contra Gemini y su excesiva inclusión al crear imágenes: "es, con diferencia, la peor IA con la que he interactuado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775'>Cuánto tiempo tarda en cocerse un huevo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-tiempo-tarda-cocerse-huevo-1125775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuanto-tiempo-tarda-cocerse-huevo-3277713.jpg?tf=1200x' alt='Cuánto tiempo tarda en cocerse un huevo' />
     </a>
 </div>
 
