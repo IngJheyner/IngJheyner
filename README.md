@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497'>Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafador-sentido-humor-compra-online-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-3277696.jpg?tf=1200x' alt='Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491'>¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-fire-tv-va-tan-lento-trucos-acelerarlo-darle-segunda-vida-1366491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/genial-truco-desbloquear-amazon-fire-tv-funciona-lento-atasca-3217892.jpg?tf=1200x' alt='¿Por qué tu Amazon Fire TV va tan lento? Trucos para acelerarlo y darle una segunda vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490'>Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra</a></h4>
     <a href='https://computerhoy.com/espacio/satelite-tan-grande-como-autobus-caera-21-febrero-tierra-1366490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/satelite-tamano-autobus-caera-manana-forma-incontrolada-tierra-3277687.jpg?tf=1200x' alt='Un satélite del tamaño de un autobús caerá el 21 de febrero sobre la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753'>Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor</a></h4>
     <a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dormir-pareja-cama-3277362.jpg?tf=1200x' alt='Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464'>Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-actualiza-replay-estadisticas-2024-1366464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-music-actualiza-popular-funcion-replay-estadisticas-2024-3277534.jpg?tf=1200x' alt='Apple Music actualiza su popular función Replay con tus estadísticas de 2024, podrás consultarlas mensualmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-humano-chip-neuralink-elon-musk-ya-puede-controlar-pc-mente-1366452'>El primer humano con el chip Neuralink de Elon Musk ya puede controlar un PC con la mente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-humano-chip-neuralink-elon-musk-ya-puede-controlar-pc-mente-1366452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/neuralink-3277590.jpg?tf=1200x' alt='El primer humano con el chip Neuralink de Elon Musk ya puede controlar un PC con la mente' />
     </a>
 </div>
 
