@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502'>Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/google/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-3277709.jpg?tf=1200x' alt='Cómo rotar un mapa de Google Maps: el gesto más útil que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497'>Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafa-compra-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-1366497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estafador-sentido-humor-compra-online-tarjeta-rtx-3060-ti-recibe-zapatos-tacon-3277696.jpg?tf=1200x' alt='Un estafador con sentido del humor: compra online una tarjeta RTX 3060 Ti y recibe unos zapatos de tacón usados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458'>¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/tecnologia/deberias-instalar-antivirus-linux-todo-necesitas-saber-1366458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/deberias-instalar-antivirus-linux-todo-necesitas-saber-3277652.jpg?tf=1200x' alt='¿Deberías instalar un antivirus en Linux?: Todo lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753'>Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor</a></h4>
-    <a href='https://computerhoy.com/life/truco-nordico-dormir-pareja-descansar-mejor-1363753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dormir-pareja-cama-3277362.jpg?tf=1200x' alt='Juntos pero no revueltos: el sencillo truco nórdico para dormir en pareja y descansar mejor' />
     </a>
 </div>
 
