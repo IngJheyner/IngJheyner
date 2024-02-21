@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772'>LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/laliga-inside-3278130.jpg?tf=1200x' alt='LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/volcanes-marte-podrian-haber-sido-claves-albergar-vida-1366326'>Los volcanes de Marte podrían haber sido claves para albergar vida, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/volcanes-marte-podrian-haber-sido-claves-albergar-vida-1366326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/volcanes-marte-podrian-haber-sido-claves-albergar-vida-nuevo-estudio-3277360.jpg?tf=1200x' alt='Los volcanes de Marte podrían haber sido claves para albergar vida, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770'>Microsoft forzará las actualizaciones de tu PC con Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-maximo-rendimiento-windows-11-3114936.jpg?tf=1200x' alt='Microsoft forzará las actualizaciones de tu PC con Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334'>La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dgt-3277910.jpg?tf=1200x' alt='La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519'>Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-165-ya-venta-ia-entrenador-personal-1366519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-forerunner-165-3277723.jpg?tf=1200x' alt='Reloj Garmin y entrenador personal: el Forerunner 165 aspira a ser el nuevo mejor amigo de los runners' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572'>¿En qué puesto está España en el uso de inteligencia artificial en el mundo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puesto-espana-uso-inteligencia-artificial-mundo-1366572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/espana-inteligencia-artificial-3277899.jpg?tf=1200x' alt='¿En qué puesto está España en el uso de inteligencia artificial en el mundo?' />
     </a>
 </div>
 
