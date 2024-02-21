@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594'>CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas</a></h4>
+    <a href='https://computerhoy.com/tv/ccaa-ofrecen-subvenciones-500-euros-apagon-tdt-como-solicitarlas-1366594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/debes-hacer-dejas-ver-tdt-proximo-14-febrero-3260515.jpg?tf=1200x' alt='CCAA que ofrecen subvenciones de hasta 500 euros por el apagón de la TDT y cómo solicitarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581'>Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?</a></h4>
     <a href='https://computerhoy.com/tv/ya-no-funciona-acestream-espana-afectara-tambien-iptv-1366581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/futbol-pirateria-3277837.jpg?tf=1200x' alt='Por qué ya no funciona Acestream en España: ¿afectará también a las IPTV?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550'>Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-mejora-copilot-windows-11-automatizacion-pdf-excel-ajustes-configuraciones-1366550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft mejora Copilot en Windows 11: automatización en PDF, Excel y más ajustes de configuraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957'>Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dropbox-drive-tienen-problemas-nas-muy-barato-situa-como-top-ventas-amazon-1365957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/synology-ds120j-3276660.jpg?tf=1200x' alt='Dropbox y Drive tienen problemas: este NAS es muy barato y se sitúa como top ventas en Amazon' />
     </a>
 </div>
 
