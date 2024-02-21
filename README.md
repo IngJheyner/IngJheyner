@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794'>ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708544921121-3278129.jpg?tf=1200x' alt='ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mejor-raton-trabajar-ahora-40-barato-logitech-lia-amazon-1366587'>Es el mejor ratón para trabajar y ahora un 40% más barato: Logitech la lía en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/mejor-raton-trabajar-ahora-40-barato-logitech-lia-amazon-1366587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/logitech-mx-master-3-2026105.jpg?tf=1200x' alt='Es el mejor ratón para trabajar y ahora un 40% más barato: Logitech la lía en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772'>LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/laliga-inside-3278130.jpg?tf=1200x' alt='LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770'>Microsoft forzará las actualizaciones de tu PC con Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-maximo-rendimiento-windows-11-3114936.jpg?tf=1200x' alt='Microsoft forzará las actualizaciones de tu PC con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/duplican-huellas-dactilares-sonido-dedo-deslizar-pantalla-1366537'>Consiguen duplicar las huellas dactilares por el sonido que producen al deslizar el dedo por la pantalla táctil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/duplican-huellas-dactilares-sonido-dedo-deslizar-pantalla-1366537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/huella-dactilar-desbloquear-movil-3277881.jpg?tf=1200x' alt='Consiguen duplicar las huellas dactilares por el sonido que producen al deslizar el dedo por la pantalla táctil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334'>La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-dgt-sms-1366334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dgt-3277910.jpg?tf=1200x' alt='La DGT avisa: no caigas en esta estafa por SMS o podrían robar tus datos bancarios' />
     </a>
 </div>
 
