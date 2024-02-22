@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155'>Midorexia: estos son los síntomas para saber si sufres miedo a envejecer</a></h4>
+    <a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='Midorexia: estos son los síntomas para saber si sufres miedo a envejecer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912'>¿Se acerca el final del formato físico? Esto dice Microsoft al respecto</a></h4>
     <a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131695.jpg?tf=1200x' alt='¿Se acerca el final del formato físico? Esto dice Microsoft al respecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/270-m2-cobertura-velocidad-vertigo-router-exprime-maximo-fibra-1366318'>Hasta 270 m2 de cobertura y velocidad de vértigo: este router exprime al máximo tu fibra</a></h4>
     <a href='https://computerhoy.com/tecnologia/270-m2-cobertura-velocidad-vertigo-router-exprime-maximo-fibra-1366318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tenda-nova-axe5700-mx21-3277295.jpg?tf=1200x' alt='Hasta 270 m2 de cobertura y velocidad de vértigo: este router exprime al máximo tu fibra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924'>¿Pagarías 200 euros por dejar de usar tu teléfono móvil? Miles de personas ya lo hicieron</a></h4>
-    <a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-utilizando-movil-3278391.jpg?tf=1200x' alt='¿Pagarías 200 euros por dejar de usar tu teléfono móvil? Miles de personas ya lo hicieron' />
     </a>
 </div>
 
