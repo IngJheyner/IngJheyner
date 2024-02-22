@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141'>NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nvidia-anuncia-mayor-revolucion-10-anos-software-tarjetas-graficas-3278669.jpg?tf=1200x' alt='NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
     <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069'>Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre</a></h4>
     <a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expertos-advierten-mucho-cuidado-relojes-inteligentes-miden-azucar-sangre-3278627.jpg?tf=1200x' alt='Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089'>Bomba de Sony: PS VR2 será compatible con PC a finales de año</a></h4>
-    <a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bomba-sony-ps-vr2-sera-compatible-pc-finales-ano-3278598.jpg?tf=1200x' alt='Bomba de Sony: PS VR2 será compatible con PC a finales de año' />
     </a>
 </div>
 
