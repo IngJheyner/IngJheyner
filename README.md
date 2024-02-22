@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834'>El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ticwatch-pro-5-3278201.jpg?tf=1200x' alt='El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652'>El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-oolong-3278316.jpg?tf=1200x' alt='El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
     <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845'>Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage</a></h4>
     <a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-apple-3278214.jpg?tf=1200x' alt='Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquinas-ruido-blanco-estas-son-mejores-baratas-puedes-comprar-1366755'>Máquinas de ruido blanco: estas son las mejores y más baratas que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquinas-ruido-blanco-estas-son-mejores-baratas-puedes-comprar-1366755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lectrofan-evo-3278113.jpg?tf=1200x' alt='Máquinas de ruido blanco: estas son las mejores y más baratas que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/planta-podria-alimentar-humanidad-caso-catastrofe-1366646'>Esta planta invasora en España podría alimentar a la humanidad en caso de catástrofe mundial</a></h4>
-    <a href='https://computerhoy.com/ciencia/planta-podria-alimentar-humanidad-caso-catastrofe-1366646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planta-alimentar-humanidad-caso-catastrofe-3277929.jpg?tf=1200x' alt='Esta planta invasora en España podría alimentar a la humanidad en caso de catástrofe mundial' />
     </a>
 </div>
 
