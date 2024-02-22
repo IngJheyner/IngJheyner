@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gemma-google-inteligencia-artificial-tarjeta-rtx-1366808'>Gemma, la nueva IA de Google basada en Gemini, va a ser tu favorita si tienes una tarjeta RTX</a></h4>
+    <a href='https://computerhoy.com/google/gemma-google-inteligencia-artificial-tarjeta-rtx-1366808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-nvidia-alian-gemini-gemma-va-ser-ia-favorita-tienes-tarjeta-rtx-3278155.jpg?tf=1200x' alt='Gemma, la nueva IA de Google basada en Gemini, va a ser tu favorita si tienes una tarjeta RTX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794'>ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos</a></h4>
     <a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708544921121-3278129.jpg?tf=1200x' alt='ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/volcanes-marte-podrian-haber-sido-claves-albergar-vida-1366326'>Los volcanes de Marte podrían haber sido claves para albergar vida, según un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/ciencia/volcanes-marte-podrian-haber-sido-claves-albergar-vida-1366326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/volcanes-marte-podrian-haber-sido-claves-albergar-vida-nuevo-estudio-3277360.jpg?tf=1200x' alt='Los volcanes de Marte podrían haber sido claves para albergar vida, según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770'>Microsoft forzará las actualizaciones de tu PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-forzara-actualizaciones-pc-windows-11-1366770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/modo-maximo-rendimiento-windows-11-3114936.jpg?tf=1200x' alt='Microsoft forzará las actualizaciones de tu PC con Windows 11' />
     </a>
 </div>
 
