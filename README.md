@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020'>¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-enviar-bizum-realmente-pasa-dinero-cuando-destinatario-no-existe-3278563.jpg?tf=1200x' alt='¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657'>Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”</a></h4>
+    <a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/niebla-mental-estas-son-5-costumbres-debes-evitar-no-quedarte-blanco-3277934.jpg?tf=1200x' alt='Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cambiar-router-5g-no-obligatorio-menos-gratis-ocu-1366997'>Cambiar a un router 5G no es obligatorio, y menos gratis: cuidado con esta estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cambiar-router-5g-no-obligatorio-menos-gratis-ocu-1366997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cambiar-router-5g-no-obligatorio-menos-gratis-cuidado-estafa-3278506.jpg?tf=1200x' alt='Cambiar a un router 5G no es obligatorio, y menos gratis: cuidado con esta estafa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912'>¿Se acerca el final del formato físico? Esto dice Microsoft al respecto</a></h4>
     <a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131695.jpg?tf=1200x' alt='¿Se acerca el final del formato físico? Esto dice Microsoft al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/signal-copia-whatsapp-telegram-medida-aumentara-privacidad-1366892'>Signal copia a WhatsApp y Telegram con esta medida que aumentará su privacidad</a></h4>
-    <a href='https://computerhoy.com/apps/signal-copia-whatsapp-telegram-medida-aumentara-privacidad-1366892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/signal-requerira-45-millones-euros-ano-funcionar-2025-cantidad-ridicula-comparacion-whatsapp-telegram-3234680.jpg?tf=1200x' alt='Signal copia a WhatsApp y Telegram con esta medida que aumentará su privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/30000-objetos-basura-espacial-amenazan-impactar-tierra-1366954'>30.000 objetos de basura espacial amenazan con impactar contra la Tierra: "cuando caen actúan como meteoritos"</a></h4>
-    <a href='https://computerhoy.com/espacio/30000-objetos-basura-espacial-amenazan-impactar-tierra-1366954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/basura-espacial-tierra-3278459.jpg?tf=1200x' alt='30.000 objetos de basura espacial amenazan con impactar contra la Tierra: "cuando caen actúan como meteoritos"' />
     </a>
 </div>
 
