@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122'>¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069'>Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre</a></h4>
+    <a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expertos-advierten-mucho-cuidado-relojes-inteligentes-miden-azucar-sangre-3278627.jpg?tf=1200x' alt='Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089'>Bomba de Sony: PS VR2 será compatible con PC a finales de año</a></h4>
     <a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bomba-sony-ps-vr2-sera-compatible-pc-finales-ano-3278598.jpg?tf=1200x' alt='Bomba de Sony: PS VR2 será compatible con PC a finales de año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657'>Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”</a></h4>
     <a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/niebla-mental-estas-son-5-costumbres-debes-evitar-no-quedarte-blanco-3277934.jpg?tf=1200x' alt='Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cambiar-router-5g-no-obligatorio-menos-gratis-ocu-1366997'>Cambiar a un router 5G no es obligatorio, y menos gratis: cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cambiar-router-5g-no-obligatorio-menos-gratis-ocu-1366997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cambiar-router-5g-no-obligatorio-menos-gratis-cuidado-estafa-3278506.jpg?tf=1200x' alt='Cambiar a un router 5G no es obligatorio, y menos gratis: cuidado con esta estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155'>Midorexia: estos son los síntomas para saber si sufres miedo a envejecer</a></h4>
-    <a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='Midorexia: estos son los síntomas para saber si sufres miedo a envejecer' />
     </a>
 </div>
 
