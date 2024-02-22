@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845'>Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage</a></h4>
+    <a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-apple-3278214.jpg?tf=1200x' alt='Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/maquinas-ruido-blanco-estas-son-mejores-baratas-puedes-comprar-1366755'>Máquinas de ruido blanco: estas son las mejores y más baratas que puedes comprar</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquinas-ruido-blanco-estas-son-mejores-baratas-puedes-comprar-1366755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lectrofan-evo-3278113.jpg?tf=1200x' alt='Máquinas de ruido blanco: estas son las mejores y más baratas que puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729'>Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung con IA que vas a ver en 2024</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-s95d-3278040.jpg?tf=1200x' alt='Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung con IA que vas a ver en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-fiebre-paracetamol-ibuprofeno-1366498'>Qué es mejor para la fiebre en adultos o niños: paracetamol o ibuprofeno</a></h4>
-    <a href='https://computerhoy.com/life/mejor-fiebre-paracetamol-ibuprofeno-1366498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-fiebre-paracetamol-ibuprofeno-3277701.jpg?tf=1200x' alt='Qué es mejor para la fiebre en adultos o niños: paracetamol o ibuprofeno' />
     </a>
 </div>
 
