@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tor-alva-torre-blanca-edificio-impreso-3d-mas-alto-mundo-1366821'>Así se construyó La Torre Blanca, el edificio impreso en 3D más alto del mundo</a></h4>
+    <a href='https://computerhoy.com/life/tor-alva-torre-blanca-edificio-impreso-3d-mas-alto-mundo-1366821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708571403253-3278191.jpg?tf=1200x' alt='Así se construyó La Torre Blanca, el edificio impreso en 3D más alto del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729'>Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung de con IA que vas a ver en 2024</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-s95d-3278040.jpg?tf=1200x' alt='Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung de con IA que vas a ver en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-fiebre-paracetamol-ibuprofeno-1366498'>Qué es mejor para la fiebre en adultos o niños: paracetamol o ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/life/mejor-fiebre-paracetamol-ibuprofeno-1366498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-fiebre-paracetamol-ibuprofeno-3277701.jpg?tf=1200x' alt='Qué es mejor para la fiebre en adultos o niños: paracetamol o ibuprofeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire calidad precio que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-2917690.jpg?tf=1200x' alt='Estos son los mejores purificadores de aire calidad precio que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/22-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366517'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 22 de febrero de 2024</a></h4>
     <a href='https://computerhoy.com/life/22-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-22-febrero-2024-3277728.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 22 de febrero de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-tener-android-auto-inalambrico-raspberry-pi-1366814'>Cómo tener Android Auto inalámbrico con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/android/como-tener-android-auto-inalambrico-raspberry-pi-1366814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-tener-android-auto-inalambrico-raspberry-pi-3278186.jpg?tf=1200x' alt='Cómo tener Android Auto inalámbrico con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-1366811'>Gemini Ultra: qué es, cómo tenerlo gratis y qué ventajas tiene sobre ChatGPT 4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-1366811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Gemini Ultra: qué es, cómo tenerlo gratis y qué ventajas tiene sobre ChatGPT 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807'>Por qué sigue existiendo la radio AM si casi nadie la escucha</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sigue-existiendo-radio-am-casi-nadie-escucha-3278182.jpg?tf=1200x' alt='Por qué sigue existiendo la radio AM si casi nadie la escucha' />
     </a>
 </div>
 
