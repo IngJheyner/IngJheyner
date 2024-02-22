@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-1366811'>Gemini Ultra: qué es, cómo tenerlo gratis y qué ventajas tiene sobre ChatGPT 4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-1366811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Gemini Ultra: qué es, cómo tenerlo gratis y qué ventajas tiene sobre ChatGPT 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807'>Por qué sigue existiendo la radio AM si casi nadie la escucha</a></h4>
     <a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sigue-existiendo-radio-am-casi-nadie-escucha-3278182.jpg?tf=1200x' alt='Por qué sigue existiendo la radio AM si casi nadie la escucha' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/mejor-raton-trabajar-ahora-40-barato-logitech-lia-amazon-1366587'>Es el mejor ratón para trabajar y ahora un 40% más barato: Logitech la lía en Amazon</a></h4>
     <a href='https://computerhoy.com/pc/mejor-raton-trabajar-ahora-40-barato-logitech-lia-amazon-1366587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/logitech-mx-master-3-2026105.jpg?tf=1200x' alt='Es el mejor ratón para trabajar y ahora un 40% más barato: Logitech la lía en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772'>LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/laliga-planta-cara-iptv-nuevo-canal-futbol-gratis-1366772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/laliga-inside-3278130.jpg?tf=1200x' alt='LaLiga planta cara a las IPTV con un nuevo canal de fútbol gratis' />
     </a>
 </div>
 
