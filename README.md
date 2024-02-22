@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924'>¿Pagarías 200 euros por dejar de usar tu teléfono móvil? Miles de personas ya lo hicieron</a></h4>
+    <a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-utilizando-movil-3278391.jpg?tf=1200x' alt='¿Pagarías 200 euros por dejar de usar tu teléfono móvil? Miles de personas ya lo hicieron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/era-robots-humanoides-ya-aqui-eve-todoterreno-capaz-aprender-minutos-1366949'>La era de los robots humanoides ya está aquí: EVE es una todoterreno capaz de aprender en minutos </a></h4>
     <a href='https://computerhoy.com/tecnologia/era-robots-humanoides-ya-aqui-eve-todoterreno-capaz-aprender-minutos-1366949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-humanoide-eve-3278431.jpg?tf=1200x' alt='La era de los robots humanoides ya está aquí: EVE es una todoterreno capaz de aprender en minutos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834'>El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas</a></h4>
     <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ticwatch-pro-5-3278201.jpg?tf=1200x' alt='El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652'>El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-oolong-3278316.jpg?tf=1200x' alt='El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia' />
     </a>
 </div>
 
