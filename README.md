@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
+    <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/apple-locura-ocupa-7-primeros-lugares-lista-mundial-10-smartphones-vendidos-1366862'>Lo de Apple es una locura: ocupa los 7 primeros puestos de la lista mundial de los 10 smartphones más vendidos</a></h4>
+    <a href='https://computerhoy.com/moviles/apple-locura-ocupa-7-primeros-lugares-lista-mundial-10-smartphones-vendidos-1366862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ventas-moviles-apple-3278253.jpg?tf=1200x' alt='Lo de Apple es una locura: ocupa los 7 primeros puestos de la lista mundial de los 10 smartphones más vendidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845'>Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage</a></h4>
     <a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-apple-3278214.jpg?tf=1200x' alt='Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/planta-podria-alimentar-humanidad-caso-catastrofe-1366646'>Esta planta invasora en España podría alimentar a la humanidad en caso de catástrofe mundial</a></h4>
     <a href='https://computerhoy.com/ciencia/planta-podria-alimentar-humanidad-caso-catastrofe-1366646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/planta-alimentar-humanidad-caso-catastrofe-3277929.jpg?tf=1200x' alt='Esta planta invasora en España podría alimentar a la humanidad en caso de catástrofe mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tor-alva-torre-blanca-edificio-impreso-3d-mas-alto-mundo-1366821'>Así se construyó La Torre Blanca, el edificio impreso en 3D más alto del mundo</a></h4>
-    <a href='https://computerhoy.com/life/tor-alva-torre-blanca-edificio-impreso-3d-mas-alto-mundo-1366821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708571403253-3278191.jpg?tf=1200x' alt='Así se construyó La Torre Blanca, el edificio impreso en 3D más alto del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729'>Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung con IA que vas a ver en 2024</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-apuesta-ia-smart-tv-aspiradoras-lavadoras-1366729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-s95d-3278040.jpg?tf=1200x' alt='Inteligencia artificial hasta en tu aspiradora: así es el catálogo de productos de Samsung con IA que vas a ver en 2024' />
     </a>
 </div>
 
