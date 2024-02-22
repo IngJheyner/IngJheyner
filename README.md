@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
+    <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124'>WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-hd-3111544.jpg?tf=1200x' alt='WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122'>¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify</a></h4>
     <a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089'>Bomba de Sony: PS VR2 será compatible con PC a finales de año</a></h4>
     <a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bomba-sony-ps-vr2-sera-compatible-pc-finales-ano-3278598.jpg?tf=1200x' alt='Bomba de Sony: PS VR2 será compatible con PC a finales de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020'>¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-enviar-bizum-realmente-pasa-dinero-cuando-destinatario-no-existe-3278563.jpg?tf=1200x' alt='¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657'>Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”</a></h4>
-    <a href='https://computerhoy.com/life/niebla-mental-estas-son-5-costumbres-evitar-no-quedarte-blanco-1366657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/niebla-mental-estas-son-5-costumbres-debes-evitar-no-quedarte-blanco-3277934.jpg?tf=1200x' alt='Niebla mental: estas son las 5 costumbres que debes evitar para no “quedarte en blanco”' />
     </a>
 </div>
 
