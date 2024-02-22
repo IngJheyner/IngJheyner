@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089'>Bomba de Sony: PS VR2 será compatible con PC a finales de año</a></h4>
+    <a href='https://computerhoy.com/gaming/ps-vr2-sera-compatible-pc-finales-2024-1367089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bomba-sony-ps-vr2-sera-compatible-pc-finales-ano-3278598.jpg?tf=1200x' alt='Bomba de Sony: PS VR2 será compatible con PC a finales de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020'>¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe</a></h4>
     <a href='https://computerhoy.com/tecnologia/pasa-haces-bizum-numero-no-existe-1367020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-enviar-bizum-realmente-pasa-dinero-cuando-destinatario-no-existe-3278563.jpg?tf=1200x' alt='¿Error al enviar un Bizum? Esto es lo que realmente pasa con tu dinero cuando el destinatario no existe' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155'>Midorexia: estos son los síntomas para saber si sufres miedo a envejecer</a></h4>
     <a href='https://computerhoy.com/life/midorexia-miedo-envejecer-1365155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/quieres-vivir-envejecer-mejor-buscate-hobby-dice-nuevo-estudio-3255583.jpg?tf=1200x' alt='Midorexia: estos son los síntomas para saber si sufres miedo a envejecer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912'>¿Se acerca el final del formato físico? Esto dice Microsoft al respecto</a></h4>
-    <a href='https://computerhoy.com/gaming/acerca-final-formato-fisico-dice-microsoft-respecto-1366912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/analisis-xbox-series-s-computerhoy-2131695.jpg?tf=1200x' alt='¿Se acerca el final del formato físico? Esto dice Microsoft al respecto' />
     </a>
 </div>
 
