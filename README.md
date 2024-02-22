@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/era-robots-humanoides-ya-aqui-eve-todoterreno-capaz-aprender-minutos-1366949'>La era de los robots humanoides ya está aquí: EVE es una todoterreno capaz de aprender en minutos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/era-robots-humanoides-ya-aqui-eve-todoterreno-capaz-aprender-minutos-1366949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-humanoide-eve-3278431.jpg?tf=1200x' alt='La era de los robots humanoides ya está aquí: EVE es una todoterreno capaz de aprender en minutos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-japones-sentimientos-evitar-soledad-1366694'>Así es el robot japonés con “sentimientos” para evitar la soledad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-japones-sentimientos-evitar-soledad-1366694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-japones-sentimientos-evitar-soledad-3277992.jpg?tf=1200x' alt='Así es el robot japonés con “sentimientos” para evitar la soledad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hombres-mujeres-piensan-diferente-ia-muestra-grandes-diferencias-pensamiento-masculino-femenino-1366888'>¿Hombres y mujeres piensan diferente? La IA muestra grandes diferencias entre el pensamiento masculino y femenino </a></h4>
+    <a href='https://computerhoy.com/ciencia/hombres-mujeres-piensan-diferente-ia-muestra-grandes-diferencias-pensamiento-masculino-femenino-1366888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombres-mujeres-3278398.jpg?tf=1200x' alt='¿Hombres y mujeres piensan diferente? La IA muestra grandes diferencias entre el pensamiento masculino y femenino ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834'>El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas</a></h4>
     <a href='https://computerhoy.com/tecnologia/ticwatch-pro-5-wear-os-rebajadisimo-google-como-motor-1366834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ticwatch-pro-5-3278201.jpg?tf=1200x' alt='El sorprendente reloj Android que revienta su precio en Amazon tiene VO2 Max y dos pantallas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652'>El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia</a></h4>
     <a href='https://computerhoy.com/alimentacion/te-milagroso-te-ayuda-adelgazar-mientras-duermes-avalado-ciencia-1207652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/te-oolong-3278316.jpg?tf=1200x' alt='El milagroso té que te ayuda a adelgazar mientras duermes, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268'>Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso</a></h4>
-    <a href='https://computerhoy.com/life/eficiencia-energetica-detalle-olvidado-hora-comprar-piso-1366268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/eficiencia-energetica-casa-3277228.jpg?tf=1200x' alt='Qué es la eficiencia energética, el detalle olvidado, a la hora de comprar un piso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/apple-locura-ocupa-7-primeros-lugares-lista-mundial-10-smartphones-vendidos-1366862'>Lo de Apple es una locura: ocupa los 7 primeros puestos de la lista mundial de los 10 smartphones más vendidos</a></h4>
-    <a href='https://computerhoy.com/moviles/apple-locura-ocupa-7-primeros-lugares-lista-mundial-10-smartphones-vendidos-1366862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ventas-moviles-apple-3278253.jpg?tf=1200x' alt='Lo de Apple es una locura: ocupa los 7 primeros puestos de la lista mundial de los 10 smartphones más vendidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845'>Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage</a></h4>
-    <a href='https://computerhoy.com/apple/apple-adelanta-ciberataques-cuanticos-lanza-nuevo-sistema-cifrado-imessage-1366845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-apple-3278214.jpg?tf=1200x' alt='Apple se adelanta para un futuro de ciberataques cuánticos y lanza un nuevo sistema de cifrado para iMessage' />
     </a>
 </div>
 
