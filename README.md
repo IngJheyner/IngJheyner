@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034'>El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides</a></h4>
+    <a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gran-abuelo-arbol-viejo-mundo-nacio-antes-egipcios-construyeran-piramides-3021598.jpg?tf=1200x' alt='El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141'>NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nvidia-anuncia-mayor-revolucion-10-anos-software-tarjetas-graficas-3278669.jpg?tf=1200x' alt='NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122'>¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify</a></h4>
     <a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069'>Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre</a></h4>
-    <a href='https://computerhoy.com/life/expertos-advierten-mucho-cuidado-relojes-miden-azucar-sangre-1367069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/expertos-advierten-mucho-cuidado-relojes-inteligentes-miden-azucar-sangre-3278627.jpg?tf=1200x' alt='Los expertos advierten: Mucho cuidado con los relojes inteligentes que miden el azúcar en sangre' />
     </a>
 </div>
 
