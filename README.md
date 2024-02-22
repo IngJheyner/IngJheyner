@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281'>Estos son los mejores purificadores de aire calidad precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-purificadores-aire-baratos-1031281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/no-estara-mucho-tiempo-rebajado-consigue-purificador-dyson-551-euros-2917690.jpg?tf=1200x' alt='Estos son los mejores purificadores de aire calidad precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/22-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366517'>Fase lunar, día mundial, efemérides, santoral y curiosidades del 22 de febrero de 2024</a></h4>
+    <a href='https://computerhoy.com/life/22-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1366517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fase-lunar-dia-mundial-efemerides-santoral-curiosidades-22-febrero-2024-3277728.jpg?tf=1200x' alt='Fase lunar, día mundial, efemérides, santoral y curiosidades del 22 de febrero de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-tener-android-auto-inalambrico-raspberry-pi-1366814'>Cómo tener Android Auto inalámbrico con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/android/como-tener-android-auto-inalambrico-raspberry-pi-1366814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-tener-android-auto-inalambrico-raspberry-pi-3278186.jpg?tf=1200x' alt='Cómo tener Android Auto inalámbrico con una Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807'>Por qué sigue existiendo la radio AM si casi nadie la escucha</a></h4>
     <a href='https://computerhoy.com/tecnologia/sigue-existiendo-radio-am-casi-nadie-escucha-1366807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sigue-existiendo-radio-am-casi-nadie-escucha-3278182.jpg?tf=1200x' alt='Por qué sigue existiendo la radio AM si casi nadie la escucha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemma-google-inteligencia-artificial-tarjeta-rtx-1366808'>Gemma, la nueva IA de Google basada en Gemini, va a ser tu favorita si tienes una tarjeta RTX</a></h4>
-    <a href='https://computerhoy.com/google/gemma-google-inteligencia-artificial-tarjeta-rtx-1366808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-nvidia-alian-gemini-gemma-va-ser-ia-favorita-tienes-tarjeta-rtx-3278155.jpg?tf=1200x' alt='Gemma, la nueva IA de Google basada en Gemini, va a ser tu favorita si tienes una tarjeta RTX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794'>ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elevenlabs-inteligencia-artificial-anadir-efectos-sonido-videos-1366794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708544921121-3278129.jpg?tf=1200x' alt='ElevenLabs presenta una IA para añadir efectos de sonido a los vídeos' />
     </a>
 </div>
 
