@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192'>Un nuevo océano se está formando: así cambiará la geografía mundial</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rotura-africa-3278767.jpg?tf=1200x' alt='Un nuevo océano se está formando: así cambiará la geografía mundial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205'>Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas</a></h4>
     <a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-plegable-3065050.jpg?tf=1200x' alt='Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165'>¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3278714.jpg?tf=1200x' alt='¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153'>¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelven-discos-crean-dvd-100-tb-compatible-lectores-actuales-3278693.jpg?tf=1200x' alt='¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente' />
     </a>
 </div>
 
