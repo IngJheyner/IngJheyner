@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205'>Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas</a></h4>
+    <a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-plegable-3065050.jpg?tf=1200x' alt='Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203'>Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2630149.jpg?tf=1200x' alt='Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
     <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273834.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153'>¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente</a></h4>
     <a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelven-discos-crean-dvd-100-tb-compatible-lectores-actuales-3278693.jpg?tf=1200x' alt='¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034'>El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides</a></h4>
-    <a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gran-abuelo-arbol-viejo-mundo-nacio-antes-egipcios-construyeran-piramides-3021598.jpg?tf=1200x' alt='El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141'>NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nvidia-anuncia-mayor-revolucion-10-anos-software-tarjetas-graficas-3278669.jpg?tf=1200x' alt='NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas' />
     </a>
 </div>
 
