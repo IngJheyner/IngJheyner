@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953'>Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-3054702.jpg?tf=1200x' alt='Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mano-irulegi-misterio-navarro-hace-2000-anos-1367196'>La Mano de Irulegi, el misterio navarro de hace 2.000 años que los expertos no pueden traducir</a></h4>
+    <a href='https://computerhoy.com/ciencia/mano-irulegi-misterio-navarro-hace-2000-anos-1367196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mano-irulegi-misterio-navarro-hace-2000-anos-expertos-no-saben-traducir-3278741.jpg?tf=1200x' alt='La Mano de Irulegi, el misterio navarro de hace 2.000 años que los expertos no pueden traducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496'>5 métodos para recuperar la clave de producto de Windows</a></h4>
     <a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='5 métodos para recuperar la clave de producto de Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248'>Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wearable-pendientes-3278889.jpg?tf=1200x' alt='Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/queda-menos-semana-whatsapp-deje-funcionar-todos-estos-moviles-1367233'>Queda menos de una semana para que WhatsApp deje de funcionar en todos estos móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/queda-menos-semana-whatsapp-deje-funcionar-todos-estos-moviles-1367233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='Queda menos de una semana para que WhatsApp deje de funcionar en todos estos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070'>Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud</a></h4>
-    <a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podria-ser-proximo-gran-hit-apple-enfocado-campo-salud-3278609.jpg?tf=1200x' alt='Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud' />
     </a>
 </div>
 
