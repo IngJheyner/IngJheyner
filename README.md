@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/nueva-arma-secreta-policia-bicicletas-electricas-trucadas-1367418'>Cuidado si tienes una bicicleta eléctrica trucada: la policía posee una nueva arma secreta para pillarlas</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-arma-secreta-policia-bicicletas-electricas-trucadas-1367418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuidado-tienes-bicicleta-electrica-trucada-policia-tiene-nuevo-arma-secreta-pillarlas-3278561.jpg?tf=1200x' alt='Cuidado si tienes una bicicleta eléctrica trucada: la policía posee una nueva arma secreta para pillarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/xmail-posible-alternativa-elon-musk-gmail-1367410'>XMail: esta sería la alternativa de Elon Musk a Gmail</a></h4>
     <a href='https://computerhoy.com/apps/xmail-posible-alternativa-elon-musk-gmail-1367410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/x-antigua-twitter-3279197.jpg?tf=1200x' alt='XMail: esta sería la alternativa de Elon Musk a Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583'>Los 3 sencillos trucos para perder peso cuando sales a caminar</a></h4>
     <a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-sencillos-trucos-perder-peso-cuando-sales-caminar-3274240.jpg?tf=1200x' alt='Los 3 sencillos trucos para perder peso cuando sales a caminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237'>La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis</a></h4>
-    <a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis' />
     </a>
 </div>
 
