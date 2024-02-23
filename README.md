@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estas-son-coordenadas-exactas-donde-choco-titanic-1367254'>¿Dónde chocó el Titanic contra el iceberg? Google Maps revela las coordenadas exactas</a></h4>
+    <a href='https://computerhoy.com/google/estas-son-coordenadas-exactas-donde-choco-titanic-1367254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/titanic-3278898.jpg?tf=1200x' alt='¿Dónde chocó el Titanic contra el iceberg? Google Maps revela las coordenadas exactas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953'>Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-3054702.jpg?tf=1200x' alt='Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496'>5 métodos para recuperar la clave de producto de Windows</a></h4>
     <a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='5 métodos para recuperar la clave de producto de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pierden-google-maps-durante-semana-tienen-caminar-60-km-1367200'>Perdidos durante una semana y obligados a caminar más de 60 km por culpa de un fallo en Google Maps</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pierden-google-maps-durante-semana-tienen-caminar-60-km-1367200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alemanes-perdidos-culpa-google-maps-3278840.jpg?tf=1200x' alt='Perdidos durante una semana y obligados a caminar más de 60 km por culpa de un fallo en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248'>Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wearable-pendientes-3278889.jpg?tf=1200x' alt='Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene' />
     </a>
 </div>
 
