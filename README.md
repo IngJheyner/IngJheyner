@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273834.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165'>¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3278714.jpg?tf=1200x' alt='¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141'>NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-anuncia-mayor-revolucion-software-tarjetas-graficas-1367141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nvidia-anuncia-mayor-revolucion-10-anos-software-tarjetas-graficas-3278669.jpg?tf=1200x' alt='NVIDIA anuncia la mayor revolución en 10 años de su software para tarjetas gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
-    <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
     </a>
 </div>
 
