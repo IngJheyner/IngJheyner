@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165'>¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3278714.jpg?tf=1200x' alt='¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153'>¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente</a></h4>
     <a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelven-discos-crean-dvd-100-tb-compatible-lectores-actuales-3278693.jpg?tf=1200x' alt='¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778'>Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio</a></h4>
     <a href='https://computerhoy.com/life/logras-ver-error-imagen-menos-cinco-segundos-eres-genio-1238778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/desafio-visual-3022832.jpg?tf=1200x' alt='Si logras ver el error en esta imagen en menos de cinco segundos, eres un genio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124'>WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-hd-3111544.jpg?tf=1200x' alt='WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos' />
     </a>
 </div>
 
