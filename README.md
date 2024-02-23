@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248'>Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wearable-pendientes-3278889.jpg?tf=1200x' alt='Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/queda-menos-semana-whatsapp-deje-funcionar-todos-estos-moviles-1367233'>Queda menos de una semana para que WhatsApp deje de funcionar en todos estos móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/queda-menos-semana-whatsapp-deje-funcionar-todos-estos-moviles-1367233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='Queda menos de una semana para que WhatsApp deje de funcionar en todos estos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070'>Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud</a></h4>
     <a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podria-ser-proximo-gran-hit-apple-enfocado-campo-salud-3278609.jpg?tf=1200x' alt='Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224'>Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos</a></h4>
     <a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/aviones-no-vuelan-antartida-disneyland-1367222'>El motivo por el que los aviones no vuelan sobre la Antártida o Disneyland</a></h4>
-    <a href='https://computerhoy.com/life/aviones-no-vuelan-antartida-disneyland-1367222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sociedad-nieve-3278787.jpg?tf=1200x' alt='El motivo por el que los aviones no vuelan sobre la Antártida o Disneyland' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192'>Un nuevo océano se está formando: así cambiará la geografía mundial</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rotura-africa-3278767.jpg?tf=1200x' alt='Un nuevo océano se está formando: así cambiará la geografía mundial' />
     </a>
 </div>
 
