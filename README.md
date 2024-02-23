@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/xmail-posible-alternativa-elon-musk-gmail-1367410'>XMail: esta sería la alternativa de Elon Musk a Gmail</a></h4>
+    <a href='https://computerhoy.com/apps/xmail-posible-alternativa-elon-musk-gmail-1367410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/x-antigua-twitter-3279197.jpg?tf=1200x' alt='XMail: esta sería la alternativa de Elon Musk a Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ha-creado-herramienta-secreta-ia-sirve-1367408'>Apple ha creado una herramienta secreta de IA y para esto sirve</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ha-creado-herramienta-secreta-ia-sirve-1367408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-ia-3279196.jpg?tf=1200x' alt='Apple ha creado una herramienta secreta de IA y para esto sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333'>Bombazo de Xiaomi: su freidora de aire más pro hunde su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-air-fryer-65l-3270268.jpg?tf=1200x' alt='Bombazo de Xiaomi: su freidora de aire más pro hunde su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237'>La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis</a></h4>
     <a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924'>Rabbit R1: el dispositivo que desafía a Google y Apple y podría sustituir a los móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3279135.jpg?tf=1200x' alt='Rabbit R1: el dispositivo que desafía a Google y Apple y podría sustituir a los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
     </a>
 </div>
 
