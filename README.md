@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pierden-google-maps-durante-semana-tienen-caminar-60-km-1367200'>Perdidos durante una semana y obligados a caminar más de 60 km por culpa de un fallo en Google Maps</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pierden-google-maps-durante-semana-tienen-caminar-60-km-1367200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/alemanes-perdidos-culpa-google-maps-3278840.jpg?tf=1200x' alt='Perdidos durante una semana y obligados a caminar más de 60 km por culpa de un fallo en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248'>Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-pulseras-anillos-ahora-pendientes-inteligentes-moda-techie-viene-1367248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wearable-pendientes-3278889.jpg?tf=1200x' alt='Relojes, pulseras, anillos y ahora, pendientes inteligentes: así es la moda 'techie' que viene' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bose-quietcomfort-ultra-rebajadisimos-amazon-mejor-anc-150eu-descuento-1367176'>Los cascos profesionales con mejor cancelación que hemos probado hunden su precio y son 150 euros más baratos</a></h4>
     <a href='https://computerhoy.com/tecnologia/bose-quietcomfort-ultra-rebajadisimos-amazon-mejor-anc-150eu-descuento-1367176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-quietcomfort-ultra-3278464.jpg?tf=1200x' alt='Los cascos profesionales con mejor cancelación que hemos probado hunden su precio y son 150 euros más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224'>Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos' />
     </a>
 </div>
 
