@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153'>¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/discos-dvd-200-tb-compatible-lectores-actuales-1367153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/vuelven-discos-crean-dvd-100-tb-compatible-lectores-actuales-3278693.jpg?tf=1200x' alt='¿Vuelven los discos? Crean un DVD de 200 TB que podría venderse comercialmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034'>El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides</a></h4>
     <a href='https://computerhoy.com/ciencia/gran-abuelo-alerce-arbol-mas-viejo-mundo-1238034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/gran-abuelo-arbol-viejo-mundo-nacio-antes-egipcios-construyeran-piramides-3021598.jpg?tf=1200x' alt='El Gran Abuelo, el árbol más viejo del mundo: nació antes de que los egipcios construyeran las pirámides' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124'>WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-configurar-calidad-predeterminada-hora-compartir-imagenes-videos-1367124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/whatsapp-hd-3111544.jpg?tf=1200x' alt='WhatsApp te permitirá configurar la calidad predeterminada a la hora de compartir imágenes y vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122'>¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cansado-netflix-espera-ver-nuevos-canales-gratuitos-tivify-1367122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tivify-3260478.jpg?tf=1200x' alt='¿Cansado de Netflix? Espera a ver los nuevos canales gratuitos de Tivify' />
     </a>
 </div>
 
