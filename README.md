@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333'>Bombazo de Xiaomi: su freidora de aire más pro hunde su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-air-fryer-65l-3270268.jpg?tf=1200x' alt='Bombazo de Xiaomi: su freidora de aire más pro hunde su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583'>Los 3 sencillos trucos para perder peso cuando sales a caminar</a></h4>
     <a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-sencillos-trucos-perder-peso-cuando-sales-caminar-3274240.jpg?tf=1200x' alt='Los 3 sencillos trucos para perder peso cuando sales a caminar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estas-son-coordenadas-exactas-donde-choco-titanic-1367254'>¿Dónde chocó el Titanic contra el iceberg? Google Maps revela las coordenadas exactas</a></h4>
-    <a href='https://computerhoy.com/google/estas-son-coordenadas-exactas-donde-choco-titanic-1367254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/titanic-3278898.jpg?tf=1200x' alt='¿Dónde chocó el Titanic contra el iceberg? Google Maps revela las coordenadas exactas' />
     </a>
 </div>
 
