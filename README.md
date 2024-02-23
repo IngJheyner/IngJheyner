@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237'>La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis</a></h4>
+    <a href='https://computerhoy.com/android/tablet-barata-xiaomi-baja-aun-precio-ideal-ver-series-pelis-1367237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-redmi-pad-3143356.jpg?tf=1200x' alt='La tablet más barata de Xiaomi baja aún más de precio, y es ideal para ver series y pelis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924'>Rabbit R1: el dispositivo que desafía a Google y Apple y podría sustituir a los móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/rabbit-r1-dispositivo-ia-pretende-acabar-moviles-1366924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3279135.jpg?tf=1200x' alt='Rabbit R1: el dispositivo que desafía a Google y Apple y podría sustituir a los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388'>Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-metodo-permite-pc-tradicionales-superar-ordenadores-cuanticos-1364388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computacion-cuantica-3273916.jpg?tf=1200x' alt='Un nuevo método permite a los PC tradicionales superar a los ordenadores cuánticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953'>Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez</a></h4>
     <a href='https://computerhoy.com/tutoriales/hacer-cuando-movil-android-no-reiniciarse-otra-vez-1365953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/android-3054702.jpg?tf=1200x' alt='Qué hacer cuando tu móvil Android no para de reiniciarse una y otra vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mano-irulegi-misterio-navarro-hace-2000-anos-1367196'>La Mano de Irulegi, el misterio navarro de hace 2.000 años que los expertos no pueden traducir</a></h4>
-    <a href='https://computerhoy.com/ciencia/mano-irulegi-misterio-navarro-hace-2000-anos-1367196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mano-irulegi-misterio-navarro-hace-2000-anos-expertos-no-saben-traducir-3278741.jpg?tf=1200x' alt='La Mano de Irulegi, el misterio navarro de hace 2.000 años que los expertos no pueden traducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496'>5 métodos para recuperar la clave de producto de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/5-metodos-encontrar-clave-producto-windows-1314496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='5 métodos para recuperar la clave de producto de Windows' />
     </a>
 </div>
 
