@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070'>Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud</a></h4>
+    <a href='https://computerhoy.com/apple/podria-ser-proximo-gran-hit-apple-estar-enfocado-salud-1367070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podria-ser-proximo-gran-hit-apple-enfocado-campo-salud-3278609.jpg?tf=1200x' alt='Este podría ser el próximo gran hit de Apple y está enfocado en el campo de la salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bose-quietcomfort-ultra-rebajadisimos-amazon-mejor-anc-150eu-descuento-1367176'>Los cascos profesionales con mejor cancelación que hemos probado hunden su precio y son 150 euros más baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bose-quietcomfort-ultra-rebajadisimos-amazon-mejor-anc-150eu-descuento-1367176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bose-quietcomfort-ultra-3278464.jpg?tf=1200x' alt='Los cascos profesionales con mejor cancelación que hemos probado hunden su precio y son 150 euros más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224'>Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos</a></h4>
     <a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192'>Un nuevo océano se está formando: así cambiará la geografía mundial</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rotura-africa-3278767.jpg?tf=1200x' alt='Un nuevo océano se está formando: así cambiará la geografía mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205'>Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas</a></h4>
-    <a href='https://computerhoy.com/apple/apple-prepara-desembarco-pantallas-plegables-pero-no-forma-esperas-1367205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/pantalla-plegable-3065050.jpg?tf=1200x' alt='Apple prepara su desembarco en las pantallas plegables, pero no de la forma en la que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203'>Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2630149.jpg?tf=1200x' alt='Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más' />
     </a>
 </div>
 
