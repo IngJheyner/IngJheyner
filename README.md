@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224'>Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trae-grandes-noticias-bateria-iphone-aunque-no-todos-modelos-1367224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple trae grandes noticias para la batería de los iPhone aunque no para todos los modelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/aviones-no-vuelan-antartida-disneyland-1367222'>El motivo por el que los aviones no vuelan sobre la Antártida o Disneyland</a></h4>
+    <a href='https://computerhoy.com/life/aviones-no-vuelan-antartida-disneyland-1367222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sociedad-nieve-3278787.jpg?tf=1200x' alt='El motivo por el que los aviones no vuelan sobre la Antártida o Disneyland' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192'>Un nuevo océano se está formando: así cambiará la geografía mundial</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-oceano-formando-cambiara-geografia-mundial-1367192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rotura-africa-3278767.jpg?tf=1200x' alt='Un nuevo océano se está formando: así cambiará la geografía mundial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203'>Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/esperar-mwc-2024-moviles-ia-pc-transparente-mucho-1367203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/mwc-2022-2630149.jpg?tf=1200x' alt='Qué esperar del MWC 2024: móviles con IA, el primer coche de Xiaomi, un ordenador transparente y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858'>Mejores auriculares inalámbricos que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/mejores/auriculares-inalambricos-bluetooth-1182858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-buds-5-pro-3273834.jpg?tf=1200x' alt='Mejores auriculares inalámbricos que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165'>¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-23-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3278714.jpg?tf=1200x' alt='¿Qué día es hoy 23 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
     </a>
 </div>
 
