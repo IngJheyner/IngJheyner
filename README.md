@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133'>10 predicciones de Bill Gates que se hicieron realidad</a></h4>
+    <a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='10 predicciones de Bill Gates que se hicieron realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441'>Cines de la olla caliente: cuando vas al cine a pegarte una comilona</a></h4>
+    <a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-3279249.jpg?tf=1200x' alt='Cines de la olla caliente: cuando vas al cine a pegarte una comilona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681'>Qué es mejor para evitar atascos: Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-evitar-atascos-google-maps-waze-3276196.jpg?tf=1200x' alt='Qué es mejor para evitar atascos: Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134'>¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correo-electronico-ciberseguridad-3277012.jpg?tf=1200x' alt='¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341'>He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?</a></h4>
     <a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-joven-utilizando-movil-inteligencia-artificial-3277205.jpg?tf=1200x' alt='He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>Mejores bombillas WiFi por 10 euros o menos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-inteligente-xiaomi-3279062.jpg?tf=1200x' alt='Mejores bombillas WiFi por 10 euros o menos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estudio-confirma-campanas-antipirateria-consiguen-efecto-contrario-1367438'>Un estudio confirma que las campañas antipiratería consiguen el efecto contrario</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estudio-confirma-campanas-antipirateria-consiguen-efecto-contrario-1367438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudio-confirma-advertencias-antipirateria-consiguen-efecto-contrario-3279242.jpg?tf=1200x' alt='Un estudio confirma que las campañas antipiratería consiguen el efecto contrario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-anos-haciendo-fotografias-he-montado-estudio-casero-barato-1364642'>Llevo varios años haciendo fotografías: así he conseguido montar un estudio en casa sin gastar mucho dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-anos-haciendo-fotografias-he-montado-estudio-casero-barato-1364642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fotografia-profesional-estudio-casa-barato-3274444.jpg?tf=1200x' alt='Llevo varios años haciendo fotografías: así he conseguido montar un estudio en casa sin gastar mucho dinero' />
     </a>
 </div>
 
