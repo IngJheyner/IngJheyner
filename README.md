@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531'>El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529'>Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace</a></h4>
     <a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486'>Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/twitter-x-3279308.jpg?tf=1200x' alt='Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149'>¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ha-desconfigurado-teclado-no-escribe-correctamente-5-metodos-solucionarlo-3277044.jpg?tf=1200x' alt='¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo' />
     </a>
 </div>
 
