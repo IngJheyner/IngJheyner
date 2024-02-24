@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-borrado-generativo-inteligencia artificial-aplicacion-fotos-windows-1367434'>Microsoft añade el Borrado generativo con IA a la aplicación Fotos en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-borrado-generativo-inteligencia artificial-aplicacion-fotos-windows-1367434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anade-borrado-generativo-ia-aplicacion-fotos-windows-10-11-3279237.jpg?tf=1200x' alt='Microsoft añade el Borrado generativo con IA a la aplicación Fotos en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nueva-arma-secreta-policia-bicicletas-electricas-trucadas-1367418'>Cuidado si tienes una bicicleta eléctrica trucada: la policía posee una nueva arma secreta para pillarlas</a></h4>
     <a href='https://computerhoy.com/motor/nueva-arma-secreta-policia-bicicletas-electricas-trucadas-1367418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuidado-tienes-bicicleta-electrica-trucada-policia-tiene-nuevo-arma-secreta-pillarlas-3278561.jpg?tf=1200x' alt='Cuidado si tienes una bicicleta eléctrica trucada: la policía posee una nueva arma secreta para pillarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333'>Bombazo de Xiaomi: su freidora de aire más pro hunde su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-xiaomi-freidora-aire-pro-hunde-precio-1362333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-smart-air-fryer-65l-3270268.jpg?tf=1200x' alt='Bombazo de Xiaomi: su freidora de aire más pro hunde su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583'>Los 3 sencillos trucos para perder peso cuando sales a caminar</a></h4>
-    <a href='https://computerhoy.com/life/3-sencillos-trucos-perder-peso-cuando-sales-caminar-1364583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-sencillos-trucos-perder-peso-cuando-sales-caminar-3274240.jpg?tf=1200x' alt='Los 3 sencillos trucos para perder peso cuando sales a caminar' />
     </a>
 </div>
 
