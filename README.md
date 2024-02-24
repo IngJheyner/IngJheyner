@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551'>No es phishing, es el nuevo diseño de la página de inicio de sesión de Google</a></h4>
+    <a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-diseno-pagina-inicio-sesion-google-3279384.jpg?tf=1200x' alt='No es phishing, es el nuevo diseño de la página de inicio de sesión de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549'>Microsoft quiere acabar con la parte más molesta de actualizar Windows</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft quiere acabar con la parte más molesta de actualizar Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531'>El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día</a></h4>
     <a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529'>Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace' />
     </a>
 </div>
 
