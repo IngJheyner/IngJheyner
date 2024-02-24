@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549'>Microsoft quiere acabar con la parte más molesta de actualizar Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft quiere acabar con la parte más molesta de actualizar Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-cuesta-apenas-160-euros-tiene-1tb-ssd-aliexpress-ha-reventado-precio-1367540'>Este PC cuesta apenas 160 euros y tiene 1TB de SSD: AliExpress ha reventado su precio</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-cuesta-apenas-160-euros-tiene-1tb-ssd-aliexpress-ha-reventado-precio-1367540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/blackview-mp60-3279377.jpg?tf=1200x' alt='Este PC cuesta apenas 160 euros y tiene 1TB de SSD: AliExpress ha reventado su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529'>Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace</a></h4>
     <a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521'>El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-3279359.jpg?tf=1200x' alt='El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492'>Comandos de voz esenciales de Google Maps no funcionan en Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270448.jpg?tf=1200x' alt='Comandos de voz esenciales de Google Maps no funcionan en Android Auto' />
     </a>
 </div>
 
