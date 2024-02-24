@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531'>El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día</a></h4>
     <a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492'>Comandos de voz esenciales de Google Maps no funcionan en Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270448.jpg?tf=1200x' alt='Comandos de voz esenciales de Google Maps no funcionan en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486'>Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/twitter-x-3279308.jpg?tf=1200x' alt='Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X' />
     </a>
 </div>
 
