@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529'>Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vas-poder-desactivar-informacion-interfaz-puede-estar-molestando-ciertos-usuarios-pestanas-chrome-1367529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google ya te deja desactivar la vista previa del uso de memoria en las pestañas de Chrome y así se hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521'>El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus</a></h4>
     <a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-3279359.jpg?tf=1200x' alt='El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149'>¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo</a></h4>
     <a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ha-desconfigurado-teclado-no-escribe-correctamente-5-metodos-solucionarlo-3277044.jpg?tf=1200x' alt='¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793'>Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/power-bank-apple-watch-3260953.jpg?tf=1200x' alt='Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí' />
     </a>
 </div>
 
