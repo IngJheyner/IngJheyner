@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134'>¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correo-electronico-ciberseguridad-3277012.jpg?tf=1200x' alt='¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341'>He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?</a></h4>
+    <a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-joven-utilizando-movil-inteligencia-artificial-3277205.jpg?tf=1200x' alt='He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893'>Mejores bombillas WiFi por 10 euros o menos que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/bombillas-inteligentes-baratas-2-euros-tambien-hay-xiaomi-974893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-inteligente-xiaomi-3279062.jpg?tf=1200x' alt='Mejores bombillas WiFi por 10 euros o menos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estudio-confirma-campanas-antipirateria-consiguen-efecto-contrario-1367438'>Un estudio confirma que las campañas antipiratería consiguen el efecto contrario</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estudio-confirma-campanas-antipirateria-consiguen-efecto-contrario-1367438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estudio-confirma-advertencias-antipirateria-consiguen-efecto-contrario-3279242.jpg?tf=1200x' alt='Un estudio confirma que las campañas antipiratería consiguen el efecto contrario' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/llevo-anos-haciendo-fotografias-he-montado-estudio-casero-barato-1364642'>Llevo varios años haciendo fotografías: así he conseguido montar un estudio en casa sin gastar mucho dinero</a></h4>
     <a href='https://computerhoy.com/tecnologia/llevo-anos-haciendo-fotografias-he-montado-estudio-casero-barato-1364642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fotografia-profesional-estudio-casa-barato-3274444.jpg?tf=1200x' alt='Llevo varios años haciendo fotografías: así he conseguido montar un estudio en casa sin gastar mucho dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/24-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367170'>¿Qué día es hoy 24 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/24-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-24-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3278728.jpg?tf=1200x' alt='¿Qué día es hoy 24 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-borrado-generativo-inteligencia artificial-aplicacion-fotos-windows-1367434'>Microsoft añade el Borrado generativo con IA a la aplicación Fotos en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-borrado-generativo-inteligencia artificial-aplicacion-fotos-windows-1367434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-anade-borrado-generativo-ia-aplicacion-fotos-windows-10-11-3279237.jpg?tf=1200x' alt='Microsoft añade el Borrado generativo con IA a la aplicación Fotos en Windows 10 y 11' />
     </a>
 </div>
 
