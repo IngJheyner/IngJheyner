@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537'>¿Qué sucedería si te movieses a la velocidad de la luz?</a></h4>
+    <a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correr-velocidad-luz-3277230.jpg?tf=1200x' alt='¿Qué sucedería si te movieses a la velocidad de la luz?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133'>10 predicciones de Bill Gates que se hicieron realidad</a></h4>
     <a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='10 predicciones de Bill Gates que se hicieron realidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134'>¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correo-electronico-ciberseguridad-3277012.jpg?tf=1200x' alt='¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341'>He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?</a></h4>
-    <a href='https://computerhoy.com/moviles/prueba-movil-inteligencia-artificial-opinion-1364341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mujer-joven-utilizando-movil-inteligencia-artificial-3277205.jpg?tf=1200x' alt='He estado usando a fondo un móvil con IA por todas partes: ¿sirve para algo o es solo marketing?' />
     </a>
 </div>
 
