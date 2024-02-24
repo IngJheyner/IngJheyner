@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553'>WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551'>No es phishing, es el nuevo diseño de la página de inicio de sesión de Google</a></h4>
     <a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-diseno-pagina-inicio-sesion-google-3279384.jpg?tf=1200x' alt='No es phishing, es el nuevo diseño de la página de inicio de sesión de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531'>El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día</a></h4>
-    <a href='https://computerhoy.com/tecnologia/infalible-truco-fire-tv-stick-funcione-tan-rapido-como-primer-dia-1367531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/revisa-conexion-amazon-fire-tv-seguramente-estas-cometiendo-grave-error-3242328.jpg?tf=1200x' alt='El infalible truco para que tu Fire TV stick funcione tan rápido como el primer día' />
     </a>
 </div>
 
