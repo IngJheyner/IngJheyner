@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149'>¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ha-desconfigurado-teclado-no-escribe-correctamente-5-metodos-solucionarlo-3277044.jpg?tf=1200x' alt='¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793'>Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/power-bank-apple-watch-3260953.jpg?tf=1200x' alt='Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537'>¿Qué sucedería si te movieses a la velocidad de la luz?</a></h4>
     <a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correr-velocidad-luz-3277230.jpg?tf=1200x' alt='¿Qué sucedería si te movieses a la velocidad de la luz?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441'>Cines de la olla caliente: cuando vas al cine a pegarte una comilona</a></h4>
     <a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-3279249.jpg?tf=1200x' alt='Cines de la olla caliente: cuando vas al cine a pegarte una comilona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681'>Qué es mejor para evitar atascos: Google Maps o Waze</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-evitar-atascos-google-maps-waze-3276196.jpg?tf=1200x' alt='Qué es mejor para evitar atascos: Google Maps o Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134'>¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/peligros-dar-cualquiera-correo-electronico-1366134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correo-electronico-ciberseguridad-3277012.jpg?tf=1200x' alt='¿Tenemos la mano muy larga a la hora de dar a cualquiera nuestro correo electrónico? Los expertos afirman que es una bomba de relojería' />
     </a>
 </div>
 
