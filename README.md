@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521'>El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-1367521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mensaje-error-maquina-expendedora-ha-aterrorizado-todo-campus-3279359.jpg?tf=1200x' alt='El mensaje de error de una máquina expendedora que ha aterrorizado a todo un campus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492'>Comandos de voz esenciales de Google Maps no funcionan en Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270448.jpg?tf=1200x' alt='Comandos de voz esenciales de Google Maps no funcionan en Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793'>Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí</a></h4>
     <a href='https://computerhoy.com/tecnologia/tienes-apple-watch-baratisimo-gadget-salvavidas-vas-querer-1356793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/power-bank-apple-watch-3260953.jpg?tf=1200x' alt='Si tienes un Apple Watch, este baratísimo gadget es un salvavidas que vas a querer sí o sí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537'>¿Qué sucedería si te movieses a la velocidad de la luz?</a></h4>
-    <a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correr-velocidad-luz-3277230.jpg?tf=1200x' alt='¿Qué sucedería si te movieses a la velocidad de la luz?' />
     </a>
 </div>
 
