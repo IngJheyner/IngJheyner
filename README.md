@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492'>Comandos de voz esenciales de Google Maps no funcionan en Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/comandos-voz-esenciales-google-maps-no-funcionan-android-auto-1367492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-113-beta-3270448.jpg?tf=1200x' alt='Comandos de voz esenciales de Google Maps no funcionan en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486'>Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponibles-llamadas-audio-video-todos-usuarios-x-1367486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/twitter-x-3279308.jpg?tf=1200x' alt='Ya disponibles las llamadas de audio y vídeo para todos los usuarios en X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149'>¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo</a></h4>
     <a href='https://computerhoy.com/pc/solucion-teclado-desconfigurado-windows-1366149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ha-desconfigurado-teclado-no-escribe-correctamente-5-metodos-solucionarlo-3277044.jpg?tf=1200x' alt='¿Se ha desconfigurado el teclado y no escribe correctamente?: 5 métodos para solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537'>¿Qué sucedería si te movieses a la velocidad de la luz?</a></h4>
     <a href='https://computerhoy.com/ciencia/sucederia-realmente-te-movieses-velocidad-luz-1365537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/correr-velocidad-luz-3277230.jpg?tf=1200x' alt='¿Qué sucedería si te movieses a la velocidad de la luz?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133'>10 predicciones de Bill Gates que se hicieron realidad</a></h4>
-    <a href='https://computerhoy.com/life/10-predicciones-bill-gates-hicieron-realidad-1367133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-predicciones-bill-gates-hicieron-realidad-3278689.jpg?tf=1200x' alt='10 predicciones de Bill Gates que se hicieron realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441'>Cines de la olla caliente: cuando vas al cine a pegarte una comilona</a></h4>
-    <a href='https://computerhoy.com/life/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-1367441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cines-olla-caliente-cuando-vas-cine-pegarte-comilona-3279249.jpg?tf=1200x' alt='Cines de la olla caliente: cuando vas al cine a pegarte una comilona' />
     </a>
 </div>
 
