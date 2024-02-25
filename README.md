@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584'>He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel</a></h4>
+    <a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3278951.jpg?tf=1200x' alt='He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097'>Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3279085.jpg?tf=1200x' alt='Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607'>Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cortadora-cesped-husqvarna-nera-doom-3279451.jpg?tf=1200x' alt='Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812'>¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?</a></h4>
     <a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humanos-hablando-idioma-raro-superficie-marte-3277280.jpg?tf=1200x' alt='¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132'>Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?</a></h4>
     <a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sora-openai-3278994.jpg?tf=1200x' alt='Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/uso-emojis-correos-ayuda-suavizar-impacto-mensajes-negativos-estudio-1367589'>El uso de emojis en los correos ayuda a suavizar el impacto de los mensajes negativos, según este estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/uso-emojis-correos-ayuda-suavizar-impacto-mensajes-negativos-estudio-1367589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creador-emojis-3104004.jpg?tf=1200x' alt='El uso de emojis en los correos ayuda a suavizar el impacto de los mensajes negativos, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puntero-raton-mueve-solo-solucion-windows-1366107'>Qué hacer si el puntero del ratón se mueve solo en Windows 11 y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puntero-raton-mueve-solo-solucion-windows-1366107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/puntero-raton-mueve-solo-como-solucionarlo-3276993.jpg?tf=1200x' alt='Qué hacer si el puntero del ratón se mueve solo en Windows 11 y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585'>Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop</a></h4>
-    <a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop' />
     </a>
 </div>
 
