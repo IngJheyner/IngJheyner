@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/iglesia-cocodrilo-cuelga-techo-hace-500-anos-1367570'>Por qué en esta iglesia italiana un cocodrilo cuelga del techo desde hace 500 años</a></h4>
+    <a href='https://computerhoy.com/life/iglesia-cocodrilo-cuelga-techo-hace-500-anos-1367570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iglesia-italiana-cocodrilo-cuelga-techo-hace-500-anos-3279398.jpg?tf=1200x' alt='Por qué en esta iglesia italiana un cocodrilo cuelga del techo desde hace 500 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367571'>¿Qué día es hoy 25 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3279408.jpg?tf=1200x' alt='¿Qué día es hoy 25 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553'>WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549'>Microsoft quiere acabar con la parte más molesta de actualizar Windows</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft quiere acabar con la parte más molesta de actualizar Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-cuesta-apenas-160-euros-tiene-1tb-ssd-aliexpress-ha-reventado-precio-1367540'>Este PC cuesta apenas 160 euros y tiene 1TB de SSD: AliExpress ha reventado su precio</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-cuesta-apenas-160-euros-tiene-1tb-ssd-aliexpress-ha-reventado-precio-1367540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/blackview-mp60-3279377.jpg?tf=1200x' alt='Este PC cuesta apenas 160 euros y tiene 1TB de SSD: AliExpress ha reventado su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que necesitas saber antes de abandonar Windows y dar el salto a Linux' />
     </a>
 </div>
 
