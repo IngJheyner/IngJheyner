@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660'>La primera misión privada aterriza en Luna... de costado</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669'>Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660'>La primera misión privada aterriza en la Luna... de costado</a></h4>
     <a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-mision-privada-aterriza-luna-lado-3279533.jpg?tf=1200x' alt='La primera misión privada aterriza en Luna... de costado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-mision-privada-aterriza-luna-lado-3279533.jpg?tf=1200x' alt='La primera misión privada aterriza en la Luna... de costado' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956'>Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis</a></h4>
     <a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asteroide-fin-mundo-3278430.jpg?tf=1200x' alt='Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939'>Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada</a></h4>
-    <a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-14-ultra-3278413.jpg?tf=1200x' alt='Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada' />
     </a>
 </div>
 
