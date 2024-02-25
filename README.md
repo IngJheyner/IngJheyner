@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843'>Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x4-3278207.jpg?tf=1200x' alt='Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669'>Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"</a></h4>
     <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651'>El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado</a></h4>
     <a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fundador-google-denunciado-muerte-dos-pilotos-jet-privado-3279523.jpg?tf=1200x' alt='El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956'>Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis</a></h4>
-    <a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asteroide-fin-mundo-3278430.jpg?tf=1200x' alt='Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis' />
     </a>
 </div>
 
