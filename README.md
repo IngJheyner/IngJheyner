@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170'>Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta</a></h4>
+    <a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-gmail-podras-crear-direcciones-correo-infinitas-misma-cuenta-3277049.jpg?tf=1200x' alt='Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/vpn-surfshark-prueba-merece-pena-1366608'>He probado la VPN de Surfshark y merece la pena, sobre todo por algo que no es la VPN</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/vpn-surfshark-prueba-merece-pena-1366608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-android-3278912.jpg?tf=1200x' alt='He probado la VPN de Surfshark y merece la pena, sobre todo por algo que no es la VPN' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000'>¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24</a></h4>
     <a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mwc-2024-3278524.jpg?tf=1200x' alt='¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modulacion-ancho-pulso-pwm-pantallas-1362079'>¿Qué es la modulación de ancho de pulso (PWM) de las pantallas y por qué tu salud visual está en juego?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modulacion-ancho-pulso-pwm-pantallas-1362079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708685525060-3278896.jpg?tf=1200x' alt='¿Qué es la modulación de ancho de pulso (PWM) de las pantallas y por qué tu salud visual está en juego?' />
     </a>
 </div>
 
