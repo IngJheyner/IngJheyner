@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585'>Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop</a></h4>
+    <a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/convertir-word-google-docs-pdf-1366500'>Cómo convertir un documento de Word o Google Docs a PDF</a></h4>
+    <a href='https://computerhoy.com/apps/convertir-word-google-docs-pdf-1366500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-convertir-word-google-docs-pdf-3277704.jpg?tf=1200x' alt='Cómo convertir un documento de Word o Google Docs a PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-band-7-oferta-mitad-precio-amazon-varios-colores-1365990'>Olvida la Xiaomi Mi Band: esta pulsera de Amazfit está dos pasos por delante y además rebajada a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-band-7-oferta-mitad-precio-amazon-varios-colores-1365990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazfit-band-7-3276667.jpg?tf=1200x' alt='Olvida la Xiaomi Mi Band: esta pulsera de Amazfit está dos pasos por delante y además rebajada a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bill-gates-tiene-granja-mosquitos-modificados-razon-1367360'>Esta es la razón por la que Bill Gates tiene una gigantesca granja de mosquitos modificados</a></h4>
     <a href='https://computerhoy.com/life/bill-gates-tiene-granja-mosquitos-modificados-razon-1367360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-bill-gates-tiene-gigantesca-granja-mosquitos-modificados-3279129.jpg?tf=1200x' alt='Esta es la razón por la que Bill Gates tiene una gigantesca granja de mosquitos modificados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170'>Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta</a></h4>
     <a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-gmail-podras-crear-direcciones-correo-infinitas-misma-cuenta-3277049.jpg?tf=1200x' alt='Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/vpn-surfshark-prueba-merece-pena-1366608'>He probado la VPN de Surfshark y merece la pena, sobre todo por algo que no es la VPN</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/vpn-surfshark-prueba-merece-pena-1366608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-android-3278912.jpg?tf=1200x' alt='He probado la VPN de Surfshark y merece la pena, sobre todo por algo que no es la VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/doomscrolling-adictos-noticias-negativas-salud-mental-1364343'>Doomscrolling, adictos a las noticias negativas aunque nos cueste la salud mental: una psicóloga explica los motivos</a></h4>
-    <a href='https://computerhoy.com/life/doomscrolling-adictos-noticias-negativas-salud-mental-1364343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/doomscrolling-noticias-negativas-3275885.jpg?tf=1200x' alt='Doomscrolling, adictos a las noticias negativas aunque nos cueste la salud mental: una psicóloga explica los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557'>El guante inteligente que te enseña nuevas habilidades con solo utilizarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-3279392.jpg?tf=1200x' alt='El guante inteligente que te enseña nuevas habilidades con solo utilizarlo' />
     </a>
 </div>
 
