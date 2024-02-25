@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622'>WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584'>He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel</a></h4>
     <a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3278951.jpg?tf=1200x' alt='He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812'>¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?</a></h4>
     <a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humanos-hablando-idioma-raro-superficie-marte-3277280.jpg?tf=1200x' alt='¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132'>Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sora-openai-3278994.jpg?tf=1200x' alt='Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?' />
     </a>
 </div>
 
