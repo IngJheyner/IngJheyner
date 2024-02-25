@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592'>Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622'>WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607'>Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable</a></h4>
     <a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cortadora-cesped-husqvarna-nera-doom-3279451.jpg?tf=1200x' alt='Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812'>¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?</a></h4>
-    <a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humanos-hablando-idioma-raro-superficie-marte-3277280.jpg?tf=1200x' alt='¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?' />
     </a>
 </div>
 
