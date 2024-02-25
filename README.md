@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812'>¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?</a></h4>
+    <a href='https://computerhoy.com/espacio/idioma-oficial-luna-marte-1365812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humanos-hablando-idioma-raro-superficie-marte-3277280.jpg?tf=1200x' alt='¿Qué idioma se hablaría si el ser humano colonizara la Luna o Marte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132'>Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?</a></h4>
     <a href='https://computerhoy.com/tecnologia/sora-revolucion-mundo-ia-pero-como-distinguiras-ahora-realidad-ficcion-1366132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sora-openai-3278994.jpg?tf=1200x' alt='Sora de OpenAI es una revolución en el mundo de la IA, pero ¿cómo distinguirás ahora la realidad de la ficción?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585'>Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop</a></h4>
     <a href='https://computerhoy.com/windows/paint-resiste-morir-windows-microsoft-prepara-nueva-funcionalidad-acercarlo-photoshop-1367585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Paint se resiste a morir en Windows: Microsoft prepara una nueva funcionalidad para acercarlo a Photoshop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/convertir-word-google-docs-pdf-1366500'>Cómo convertir un documento de Word o Google Docs a PDF</a></h4>
-    <a href='https://computerhoy.com/apps/convertir-word-google-docs-pdf-1366500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-convertir-word-google-docs-pdf-3277704.jpg?tf=1200x' alt='Cómo convertir un documento de Word o Google Docs a PDF' />
     </a>
 </div>
 
