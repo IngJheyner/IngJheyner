@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-tiene-granja-mosquitos-modificados-razon-1367360'>Esta es la razón por la que Bill Gates tiene una gigantesca granja de mosquitos modificados</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-tiene-granja-mosquitos-modificados-razon-1367360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razon-bill-gates-tiene-gigantesca-granja-mosquitos-modificados-3279129.jpg?tf=1200x' alt='Esta es la razón por la que Bill Gates tiene una gigantesca granja de mosquitos modificados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170'>Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta</a></h4>
     <a href='https://computerhoy.com/google/truco-gmail-crear-direcciones-correo-infinitas-1366170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-gmail-podras-crear-direcciones-correo-infinitas-misma-cuenta-3277049.jpg?tf=1200x' alt='Con este truco de Gmail podrás crear direcciones de correo infinitas con una misma cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557'>El guante inteligente que te enseña nuevas habilidades con solo utilizarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-3279392.jpg?tf=1200x' alt='El guante inteligente que te enseña nuevas habilidades con solo utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000'>¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24</a></h4>
-    <a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mwc-2024-3278524.jpg?tf=1200x' alt='¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24' />
     </a>
 </div>
 
