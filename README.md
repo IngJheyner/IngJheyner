@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939'>Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada</a></h4>
+    <a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-14-ultra-3278413.jpg?tf=1200x' alt='Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592'>Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097'>Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3279085.jpg?tf=1200x' alt='Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607'>Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nunca-cortar-cesped-habia-sido-tan-divertido-cortacesped-integra-doom-totalmente-jugable-1367607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cortadora-cesped-husqvarna-nera-doom-3279451.jpg?tf=1200x' alt='Nunca cortar el césped había sido tan divertido: El cortacésped que integra Doom y es totalmente jugable' />
     </a>
 </div>
 
