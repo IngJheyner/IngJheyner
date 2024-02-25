@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557'>El guante inteligente que te enseña nuevas habilidades con solo utilizarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-1367557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/guante-inteligente-te-ensena-nuevas-habilidades-solo-utilizarlo-3279392.jpg?tf=1200x' alt='El guante inteligente que te enseña nuevas habilidades con solo utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000'>¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24</a></h4>
+    <a href='https://computerhoy.com/industria/tecnologias-claves-mwc-24-1367000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mwc-2024-3278524.jpg?tf=1200x' alt='¿IA y coches en un evento de móviles? Estas son las tecnologías claves que vamos a ver en el MWC 24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modulacion-ancho-pulso-pwm-pantallas-1362079'>¿Qué es la modulación de ancho de pulso (PWM) de las pantallas y por qué tu salud visual está en juego?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modulacion-ancho-pulso-pwm-pantallas-1362079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/verticalimage1708685525060-3278896.jpg?tf=1200x' alt='¿Qué es la modulación de ancho de pulso (PWM) de las pantallas y por qué tu salud visual está en juego?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/encuentran-primera-vez-evidencia-agua-superficie-varios-asteroides-1367555'>Encuentran por primera vez evidencia de agua en la superficie de varios asteroides</a></h4>
+    <a href='https://computerhoy.com/espacio/encuentran-primera-vez-evidencia-agua-superficie-varios-asteroides-1367555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asteroides-3279387.jpg?tf=1200x' alt='Encuentran por primera vez evidencia de agua en la superficie de varios asteroides' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/iglesia-cocodrilo-cuelga-techo-hace-500-anos-1367570'>Por qué en esta iglesia italiana un cocodrilo cuelga del techo desde hace 500 años</a></h4>
     <a href='https://computerhoy.com/life/iglesia-cocodrilo-cuelga-techo-hace-500-anos-1367570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iglesia-italiana-cocodrilo-cuelga-techo-hace-500-anos-3279398.jpg?tf=1200x' alt='Por qué en esta iglesia italiana un cocodrilo cuelga del techo desde hace 500 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367571'>¿Qué día es hoy 25 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-25-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3279408.jpg?tf=1200x' alt='¿Qué día es hoy 25 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553'>WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-impedira-tomen-capturas-pantalla-fotos-perfil-1367553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/privacidad-whatsapp-2301975.jpg?tf=1200x' alt='WhatsApp impedirá que se tomen capturas de pantalla de las fotos de perfil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551'>No es phishing, es el nuevo diseño de la página de inicio de sesión de Google</a></h4>
-    <a href='https://computerhoy.com/google/no-phishing-nuevo-diseno-pagina-inicio-sesion-google-1367551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nuevo-diseno-pagina-inicio-sesion-google-3279384.jpg?tf=1200x' alt='No es phishing, es el nuevo diseño de la página de inicio de sesión de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549'>Microsoft quiere acabar con la parte más molesta de actualizar Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-acabar-parte-molesta-actualizar-windows-1367549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/windows-11-3095996.jpg?tf=1200x' alt='Microsoft quiere acabar con la parte más molesta de actualizar Windows' />
     </a>
 </div>
 
