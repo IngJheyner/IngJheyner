@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/potente-barata-raspberry-pi-viene-china-llama-banana-pi-1365887'>Más potente y más barata que Raspberry Pi: viene de China y se llama Banana Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potente-barata-raspberry-pi-viene-china-llama-banana-pi-1365887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Más potente y más barata que Raspberry Pi: viene de China y se llama Banana Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651'>El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado</a></h4>
+    <a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fundador-google-denunciado-muerte-dos-pilotos-jet-privado-3279523.jpg?tf=1200x' alt='El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956'>Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis</a></h4>
+    <a href='https://computerhoy.com/espacio/no-anunciaria-fin-mundo-estrategia-gubernamental-impacto-asteroide-1366956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asteroide-fin-mundo-3278430.jpg?tf=1200x' alt='Los gobiernos no anunciarían el fin del mundo si un asteroide chocase mañana contra la Tierra: así gestionarían la crisis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939'>Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada</a></h4>
     <a href='https://computerhoy.com/moviles/xiaomi-14-xiaomi-14-ultra-espana-primeras-impresiones-caracteristicas-precio-1366939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-14-ultra-3278413.jpg?tf=1200x' alt='Un primer vistazo a la nueva familia Xiaomi 14 que por fin incluye en España el Xiaomi 14 Ultra con cámaras Leica y sensor de una pulgada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592'>Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-protegera-red-domestica-ciberataques-nueva-funcion-1367592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/seguridad-chrome-3124360.jpg?tf=1200x' alt='Google Chrome protegerá tu red doméstica de los ciberataques con esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622'>WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-actualiza-terminos-servicio-politicas-privacidad-europa-te-afecta-1367622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='WhatsApp actualiza sus términos de servicio y políticas de privacidad en Europa, y así te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584'>He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel</a></h4>
-    <a href='https://computerhoy.com/analisis/honor-magic6-pro-analisis-opinion-1366584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3278951.jpg?tf=1200x' alt='He probado el Honor Magic6 Pro y me ha enamorado su cámara y autonomía de primer nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097'>Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/presentacion-honor-magic6-pro-1367097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/honor-magic6-pro-3279085.jpg?tf=1200x' alt='Honor presenta el Magic6 Pro, que busca conquistar la gama premium a golpe de cámara y rendimiento' />
     </a>
 </div>
 
