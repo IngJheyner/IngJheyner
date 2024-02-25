@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679'>Descubren una nueva especie de anaconda, con ayuda de Will Smith</a></h4>
+    <a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-nueva-especie-anaconda-ayuda-will-smith-3279572.jpg?tf=1200x' alt='Descubren una nueva especie de anaconda, con ayuda de Will Smith' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-x-elite-listo-competir-ryzen-intel-core-ultra-1367678'>Los benchmark confirman que el procesador Snapdragon X Elite es tan rápido como los Ryzen y los Intel Core Ultra más potentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/snapdragon-x-elite-listo-competir-ryzen-intel-core-ultra-1367678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/qualcomm-snapdragon-x-elite-chip-ia-portatiles-busca-matar-apple-m2-3204582.jpg?tf=1200x' alt='Los benchmark confirman que el procesador Snapdragon X Elite es tan rápido como los Ryzen y los Intel Core Ultra más potentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843'>Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x4-3278207.jpg?tf=1200x' alt='Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660'>La primera misión privada aterriza en la Luna... de costado</a></h4>
     <a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-mision-privada-aterriza-luna-lado-3279533.jpg?tf=1200x' alt='La primera misión privada aterriza en la Luna... de costado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potente-barata-raspberry-pi-viene-china-llama-banana-pi-1365887'>Más potente y más barata que Raspberry Pi: viene de China y se llama Banana Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potente-barata-raspberry-pi-viene-china-llama-banana-pi-1365887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Más potente y más barata que Raspberry Pi: viene de China y se llama Banana Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651'>El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado</a></h4>
-    <a href='https://computerhoy.com/life/fundador-google-denunciado-muerte-dos-pilotos-avion-privado-1367651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fundador-google-denunciado-muerte-dos-pilotos-jet-privado-3279523.jpg?tf=1200x' alt='El fundador de Google, denunciado por la muerte de dos pilotos de su avión privado' />
     </a>
 </div>
 
