@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656'>Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-thinkpad-mwc-2024-3279538.jpg?tf=1200x' alt='Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641'>He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año</a></h4>
+    <a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-portatil-transparente-mwc-2024-3279516.jpg?tf=1200x' alt='He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679'>Descubren una nueva especie de anaconda, con ayuda de Will Smith</a></h4>
     <a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-nueva-especie-anaconda-ayuda-will-smith-3279572.jpg?tf=1200x' alt='Descubren una nueva especie de anaconda, con ayuda de Will Smith' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843'>Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x4-3278207.jpg?tf=1200x' alt='Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669'>Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-jovenes-no-aprendais-programacion-1367669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Jensen Huang, el CEO de NVIDIA, a los jóvenes: "No aprendáis programación, la IA se encargará de todo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660'>La primera misión privada aterriza en la Luna... de costado</a></h4>
-    <a href='https://computerhoy.com/espacio/primera-mision-privada-aterriza-costado-luna-1367660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/primera-mision-privada-aterriza-luna-lado-3279533.jpg?tf=1200x' alt='La primera misión privada aterriza en la Luna... de costado' />
     </a>
 </div>
 
