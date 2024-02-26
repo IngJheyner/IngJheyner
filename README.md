@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710'>Declaración de la Renta 2023: calendario, novedades y quién debería presentarla</a></h4>
+    <a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Declaración de la Renta 2023: calendario, novedades y quién debería presentarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/novedades-android-14-febrero-android-auto-fitbit-wear-os-1367320'>Android Auto resumirá textos largos con IA, controles para Spotify y más novedades en Android 14 que Google presenta en el MWC 24</a></h4>
+    <a href='https://computerhoy.com/android/novedades-android-14-febrero-android-auto-fitbit-wear-os-1367320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/portada-android-14-3279030.jpg?tf=1200x' alt='Android Auto resumirá textos largos con IA, controles para Spotify y más novedades en Android 14 que Google presenta en el MWC 24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245'>Años bisiestos: ¿por qué existen y qué sucedería sin ellos?</a></h4>
     <a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/anos-bisiestos-existen-sucederia-ellos-3278849.jpg?tf=1200x' alt='Años bisiestos: ¿por qué existen y qué sucedería sin ellos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663'>He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-ring-3279574.jpg?tf=1200x' alt='He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tcl-50-tcl-50-5g-nuevos-moviles-baratos-1367556'>TCL sigue apostando por los móviles más baratos con la familia TCL 50 que costarán por debajo de 170 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/tcl-50-tcl-50-5g-nuevos-moviles-baratos-1367556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tcl-50-3279389.jpg?tf=1200x' alt='TCL sigue apostando por los móviles más baratos con la familia TCL 50 que costarán por debajo de 170 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
     </a>
 </div>
 
