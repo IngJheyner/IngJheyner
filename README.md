@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-material-flexible-capaz-convertir-luz-electricidad-1367369'>Crean un material flexible más delgado que el papel capaz de convertir la luz en electricidad</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-material-flexible-capaz-convertir-luz-electricidad-1367369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-material-flexible-delgado-papel-capaz-convertir-luz-electricidad-3279151.jpg?tf=1200x' alt='Crean un material flexible más delgado que el papel capaz de convertir la luz en electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698'>¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3279601.jpg?tf=1200x' alt='¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656'>Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas</a></h4>
     <a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-thinkpad-mwc-2024-3279538.jpg?tf=1200x' alt='Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641'>He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año</a></h4>
-    <a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-portatil-transparente-mwc-2024-3279516.jpg?tf=1200x' alt='He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año' />
     </a>
 </div>
 
