@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-material-flexible-capaz-convertir-luz-electricidad-1367369'>Crean un material flexible más delgado que el papel capaz de convertir la luz en electricidad</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-material-flexible-capaz-convertir-luz-electricidad-1367369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crean-material-flexible-delgado-papel-capaz-convertir-luz-electricidad-3279151.jpg?tf=1200x' alt='Crean un material flexible más delgado que el papel capaz de convertir la luz en electricidad' />
+    <h4><a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245'>Años bisiestos: ¿por qué existen y qué sucedería sin ellos?</a></h4>
+    <a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/anos-bisiestos-existen-sucederia-ellos-3278849.jpg?tf=1200x' alt='Años bisiestos: ¿por qué existen y qué sucedería sin ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698'>¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3279601.jpg?tf=1200x' alt='¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663'>He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-ring-3279574.jpg?tf=1200x' alt='He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-mwc-2024-ia-conexion-5g-intel-xeon-edge-1367689'>Intel arranca el MWC 2024 con la IA y la monetización 5G para las empresas, como grandes protagonistas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-mwc-2024-ia-conexion-5g-intel-xeon-edge-1367689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-arranca-mwc-2024-ia-conexion-5g-como-grandes-protagonistas-3279585.jpg?tf=1200x' alt='Intel arranca el MWC 2024 con la IA y la monetización 5G para las empresas, como grandes protagonistas' />
+    <h4><a href='https://computerhoy.com/moviles/tcl-50-tcl-50-5g-nuevos-moviles-baratos-1367556'>TCL sigue apostando por los móviles más baratos con la familia TCL 50 que costarán por debajo de 170 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/tcl-50-tcl-50-5g-nuevos-moviles-baratos-1367556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tcl-50-3279389.jpg?tf=1200x' alt='TCL sigue apostando por los móviles más baratos con la familia TCL 50 que costarán por debajo de 170 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656'>Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-thinkpad-mwc-2024-3279538.jpg?tf=1200x' alt='Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/protonvpn-vpn-3279021.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
     </a>
 </div>
 
