@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-optimizar-google-maps-funcione-rapido-movil-android-1367890'>Cómo optimizar Google Maps para que funcione más rápido en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/apps/como-optimizar-google-maps-funcione-rapido-movil-android-1367890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-optimizar-google-maps-funcione-rapido-movil-android-3279989.jpg?tf=1200x' alt='Cómo optimizar Google Maps para que funcione más rápido en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/mezclar-iptv-amazon-fire-tv-puede-ser-peligroso-cuenta-bancaria-1367759'>La Policía advierte: mezclar IPTV y Amazon Fire TV pone en peligroso tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.com/amazon/mezclar-iptv-amazon-fire-tv-puede-ser-peligroso-cuenta-bancaria-1367759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/peligro-amazon-fire-tv-iptv-3279889.jpg?tf=1200x' alt='La Policía advierte: mezclar IPTV y Amazon Fire TV pone en peligroso tu cuenta bancaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869'>Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa</a></h4>
     <a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humane-ai-pin-3279924.jpg?tf=1200x' alt='Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722'>Estas contraseñas te mantendrán a salvo de los hackers en 2024</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-buscando-contrasenas-3279870.jpg?tf=1200x' alt='Estas contraseñas te mantendrán a salvo de los hackers en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-watch-2-precio-caracteristicas-disponibilidad-1367559'>Así es el OnePlus Watch 2, el primer reloj de la compañía que lo apuesta todo a Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-watch-2-precio-caracteristicas-disponibilidad-1367559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/oneplus-watch-2-3279394.jpg?tf=1200x' alt='Así es el OnePlus Watch 2, el primer reloj de la compañía que lo apuesta todo a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798'>¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta</a></h4>
-    <a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/feliz-cumpleanos-3279867.jpg?tf=1200x' alt='¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta' />
     </a>
 </div>
 
