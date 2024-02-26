@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183'>A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño</a></h4>
+    <a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/goolsky-wltoys-xks-144001-rc-coche-3279688.jpg?tf=1200x' alt='A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/elon-musk-microsoft-no-poder-usar-nuevo-portatil-tener-cuenta-windows-11-1367727'>Elon Musk contra Microsoft al no poder usar su nuevo portátil sin tener una cuenta para Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/elon-musk-microsoft-no-poder-usar-nuevo-portatil-tener-cuenta-windows-11-1367727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Elon Musk contra Microsoft al no poder usar su nuevo portátil sin tener una cuenta para Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-4-oferta-precio-brutal-amazon-lte-1367711'>Samsung revienta el precio de su smartwatch barato: mide la grasa corporal y cuesta menos que un Fitbit</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-4-oferta-precio-brutal-amazon-lte-1367711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-watch4-3279610.jpg?tf=1200x' alt='Samsung revienta el precio de su smartwatch barato: mide la grasa corporal y cuesta menos que un Fitbit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710'>Declaración de la Renta 2023: calendario, novedades y quién debería presentarla</a></h4>
     <a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Declaración de la Renta 2023: calendario, novedades y quién debería presentarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/novedades-android-14-febrero-android-auto-fitbit-wear-os-1367320'>Android Auto resumirá textos largos con IA, controles para Spotify y más novedades en Android 14 que Google presenta en el MWC 24</a></h4>
-    <a href='https://computerhoy.com/android/novedades-android-14-febrero-android-auto-fitbit-wear-os-1367320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/portada-android-14-3279030.jpg?tf=1200x' alt='Android Auto resumirá textos largos con IA, controles para Spotify y más novedades en Android 14 que Google presenta en el MWC 24' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245'>Años bisiestos: ¿por qué existen y qué sucedería sin ellos?</a></h4>
-    <a href='https://computerhoy.com/ciencia/anos-bisiestos-existen-sucederia-presencia-1367245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/anos-bisiestos-existen-sucederia-ellos-3278849.jpg?tf=1200x' alt='Años bisiestos: ¿por qué existen y qué sucedería sin ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663'>He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-prototipo-galaxy-ring-sera-clave-monitorizar-salud-1367663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-ring-3279574.jpg?tf=1200x' alt='He probado unos minutos un prototipo del Galaxy Ring y creo que tiene futuro, pero el ecosistema de Samsung será clave para que triunfe' />
     </a>
 </div>
 
