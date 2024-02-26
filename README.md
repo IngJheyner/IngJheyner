@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229'>Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/no-google-no-va-cerrar-gmail-cuidado-bulo-internet-1367735'>No, Google no va a cerrar tu correo de Gmail: cuidado con este bulo</a></h4>
+    <a href='https://computerhoy.com/internet/no-google-no-va-cerrar-gmail-cuidado-bulo-internet-1367735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='No, Google no va a cerrar tu correo de Gmail: cuidado con este bulo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-optimizar-google-maps-funcione-rapido-movil-android-1367890'>Cómo optimizar Google Maps para que funcione más rápido en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/apps/como-optimizar-google-maps-funcione-rapido-movil-android-1367890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-optimizar-google-maps-funcione-rapido-movil-android-3279989.jpg?tf=1200x' alt='Cómo optimizar Google Maps para que funcione más rápido en tu móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/mezclar-iptv-amazon-fire-tv-puede-ser-peligroso-cuenta-bancaria-1367759'>La Policía advierte: mezclar IPTV y Amazon Fire TV pone en peligroso tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.com/amazon/mezclar-iptv-amazon-fire-tv-puede-ser-peligroso-cuenta-bancaria-1367759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/peligro-amazon-fire-tv-iptv-3279889.jpg?tf=1200x' alt='La Policía advierte: mezclar IPTV y Amazon Fire TV pone en peligroso tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869'>Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humane-ai-pin-3279924.jpg?tf=1200x' alt='Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722'>Estas contraseñas te mantendrán a salvo de los hackers en 2024</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-buscando-contrasenas-3279870.jpg?tf=1200x' alt='Estas contraseñas te mantendrán a salvo de los hackers en 2024' />
     </a>
 </div>
 
