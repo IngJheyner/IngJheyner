@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-anunciaria-nasa-fin-mundo-humanidad-1366428'>¿Cómo anunciaría la NASA el fin del mundo a toda la humanidad?</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-anunciaria-nasa-fin-mundo-humanidad-1366428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-anunciaria-nasa-fin-mundo-humanidad-3277517.jpg?tf=1200x' alt='¿Cómo anunciaría la NASA el fin del mundo a toda la humanidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-convertir-audios-whatsapp-texto-cuestion-segundos-1367916'>Con este truco podrás convertir los audios de WhatsApp a texto en cuestión de segundos</a></h4>
     <a href='https://computerhoy.com/apps/como-convertir-audios-whatsapp-texto-cuestion-segundos-1367916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-podras-convertir-audios-whatsapp-texto-cuestion-segundos-3280053.jpg?tf=1200x' alt='Con este truco podrás convertir los audios de WhatsApp a texto en cuestión de segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229'>Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-google-no-va-cerrar-gmail-cuidado-bulo-internet-1367735'>No, Google no va a cerrar tu correo de Gmail: cuidado con este bulo</a></h4>
-    <a href='https://computerhoy.com/internet/no-google-no-va-cerrar-gmail-cuidado-bulo-internet-1367735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/gmail-2912356.jpg?tf=1200x' alt='No, Google no va a cerrar tu correo de Gmail: cuidado con este bulo' />
     </a>
 </div>
 
