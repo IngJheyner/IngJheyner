@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869'>Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-trabaja-version-internacional-1367869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/humane-ai-pin-3279924.jpg?tf=1200x' alt='Humane AI Pin, el dispositivo que quiere poner fin a los móviles, trabaja en su versión internacional para que llegue a Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722'>Estas contraseñas te mantendrán a salvo de los hackers en 2024</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejores-password-contrasenas-2024-1367722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacker-buscando-contrasenas-3279870.jpg?tf=1200x' alt='Estas contraseñas te mantendrán a salvo de los hackers en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-watch-2-precio-caracteristicas-disponibilidad-1367559'>Así es el OnePlus Watch 2, el primer reloj de la compañía que lo apuesta todo a Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-watch-2-precio-caracteristicas-disponibilidad-1367559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/oneplus-watch-2-3279394.jpg?tf=1200x' alt='Así es el OnePlus Watch 2, el primer reloj de la compañía que lo apuesta todo a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798'>¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta</a></h4>
     <a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/feliz-cumpleanos-3279867.jpg?tf=1200x' alt='¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-quiere-ser-reloj-top-ventas-cuesta-menos-20-euros-amazon-1367730'>La pulsera Xiaomi que quiere ser reloj es top ventas y cuesta menos de 20 euros en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-quiere-ser-reloj-top-ventas-cuesta-menos-20-euros-amazon-1367730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-band-8-active-3279617.jpg?tf=1200x' alt='La pulsera Xiaomi que quiere ser reloj es top ventas y cuesta menos de 20 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/software/como-abrir-ventana-cmd-cualquier-version-windows-53368'>Cómo abrir la ventana de cmd en cualquier versión de Windows</a></h4>
-    <a href='https://computerhoy.com/listas/software/como-abrir-ventana-cmd-cualquier-version-windows-53368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Cómo abrir la ventana de cmd en cualquier versión de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813'>Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar</a></h4>
-    <a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/subida-nivel-mar-3279873.jpg?tf=1200x' alt='Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar' />
     </a>
 </div>
 
