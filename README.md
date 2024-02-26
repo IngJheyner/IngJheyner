@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757'>He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad</a></h4>
+    <a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-book-4-pro-360-3279765.jpg?tf=1200x' alt='He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/he-probado-zte-nubia-flip-movil-plegable-tipo-concha-1367683'>He probado ZTE Nubia Flip, un móvil plegable tipo concha que quiere reventar el mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/he-probado-zte-nubia-flip-movil-plegable-tipo-concha-1367683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/zte-balde-flip-3279716.jpg?tf=1200x' alt='He probado ZTE Nubia Flip, un móvil plegable tipo concha que quiere reventar el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/ocurriria-satoshi-nakamoto-vendiese-millon-bitcoins-1367750'>¿Qué ocurriría si Satoshi Nakamoto vendiese todos sus Bitcoin valorados en 51.000 millones de dólares?</a></h4>
+    <a href='https://computerhoy.com/criptos/ocurriria-satoshi-nakamoto-vendiese-millon-bitcoins-1367750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bitcoins-criptomoneda-3279730.jpg?tf=1200x' alt='¿Qué ocurriría si Satoshi Nakamoto vendiese todos sus Bitcoin valorados en 51.000 millones de dólares?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183'>A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño</a></h4>
     <a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/goolsky-wltoys-xks-144001-rc-coche-3279688.jpg?tf=1200x' alt='A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/elon-musk-microsoft-no-poder-usar-nuevo-portatil-tener-cuenta-windows-11-1367727'>Elon Musk contra Microsoft al no poder usar su nuevo portátil sin tener una cuenta para Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/elon-musk-microsoft-no-poder-usar-nuevo-portatil-tener-cuenta-windows-11-1367727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='Elon Musk contra Microsoft al no poder usar su nuevo portátil sin tener una cuenta para Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-4-oferta-precio-brutal-amazon-lte-1367711'>Samsung revienta el precio de su smartwatch barato: mide la grasa corporal y cuesta menos que un Fitbit</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-4-oferta-precio-brutal-amazon-lte-1367711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-watch4-3279610.jpg?tf=1200x' alt='Samsung revienta el precio de su smartwatch barato: mide la grasa corporal y cuesta menos que un Fitbit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710'>Declaración de la Renta 2023: calendario, novedades y quién debería presentarla</a></h4>
-    <a href='https://computerhoy.com/life/declaracion-renta-2023-calendario-novedades-quien-deberia-presentarla-1367710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Declaración de la Renta 2023: calendario, novedades y quién debería presentarla' />
     </a>
 </div>
 
