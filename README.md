@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813'>Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar</a></h4>
+    <a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/subida-nivel-mar-3279873.jpg?tf=1200x' alt='Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>25 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
     <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/25-programas-gratis-windows-no-pueden-faltar-pc-3278704.jpg?tf=1200x' alt='25 programas gratis para Windows que no pueden faltar en tu PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520'>Cómo descargar películas gratis de forma totalmente legal</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-descargar-peliculas-gratis-3278187.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757'>He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-book-4-pro-360-3279765.jpg?tf=1200x' alt='He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad' />
     </a>
 </div>
 
