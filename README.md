@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-anunciaria-nasa-fin-mundo-humanidad-1366428'>¿Cómo anunciaría la NASA el fin del mundo a toda la humanidad?</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-anunciaria-nasa-fin-mundo-humanidad-1366428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-anunciaria-nasa-fin-mundo-humanidad-3277517.jpg?tf=1200x' alt='¿Cómo anunciaría la NASA el fin del mundo a toda la humanidad?' />
+    <h4><a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746'>Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air</a></h4>
+    <a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hp-pavilion-aero-13-be0006ns-3279643.jpg?tf=1200x' alt='Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-convertir-audios-whatsapp-texto-cuestion-segundos-1367916'>Con este truco podrás convertir los audios de WhatsApp a texto en cuestión de segundos</a></h4>
-    <a href='https://computerhoy.com/apps/como-convertir-audios-whatsapp-texto-cuestion-segundos-1367916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-podras-convertir-audios-whatsapp-texto-cuestion-segundos-3280053.jpg?tf=1200x' alt='Con este truco podrás convertir los audios de WhatsApp a texto en cuestión de segundos' />
+    <h4><a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979'>¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg?tf=1200x' alt='¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-pone-restricciones-publicacion-libros-inteligencia-artificial-1367888'>Amazon se cansa de tantas estafas y pone restricciones a la publicación de libros con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-pone-restricciones-publicacion-libros-inteligencia-artificial-1367888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-saturado-publicacion-libros-ia-estas-son-restricciones-3279956.jpg?tf=1200x' alt='Amazon se cansa de tantas estafas y pone restricciones a la publicación de libros con IA' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977'>Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-3280083.jpg?tf=1200x' alt='Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229'>Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/snapdragon-8-gen-2-precio-locos-tablets-android-bestiales-hunde-precio-200-euros-1366229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/galaxy-tab-s9-ultra-funda-teclado-3206620.jpg?tf=1200x' alt='Snapdragon 8 Gen 2 y precio de locos: una de las tablets Android más bestiales hunde su precio en 200 euros' />
+    <h4><a href='https://computerhoy.com/pc/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-1367948'>Milk-V Duo S, el microordenador diez veces más potente que una Raspberry Pi Pico por solo 9 euros</a></h4>
+    <a href='https://computerhoy.com/pc/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-1367948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-3280079.jpg?tf=1200x' alt='Milk-V Duo S, el microordenador diez veces más potente que una Raspberry Pi Pico por solo 9 euros' />
     </a>
 </div>
 
