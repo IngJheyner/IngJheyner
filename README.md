@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xgimi-horizon-ultra-3248631.jpg?tf=1200x' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698'>¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1367698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-26-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3279601.jpg?tf=1200x' alt='¿Qué día es hoy 26 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-mwc-2024-ia-conexion-5g-intel-xeon-edge-1367689'>Intel arranca el MWC 2024 con la IA y la monetización 5G para las empresas, como grandes protagonistas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-mwc-2024-ia-conexion-5g-intel-xeon-edge-1367689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-arranca-mwc-2024-ia-conexion-5g-como-grandes-protagonistas-3279585.jpg?tf=1200x' alt='Intel arranca el MWC 2024 con la IA y la monetización 5G para las empresas, como grandes protagonistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656'>Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas</a></h4>
     <a href='https://computerhoy.com/pc/lenovo-presenta-nuevos-portatiles-ia-empresas-1367656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-thinkpad-mwc-2024-3279538.jpg?tf=1200x' alt='Lenovo presenta sus nuevos portátiles con inteligencia artificial, pensados especialmente para las empresas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641'>He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año</a></h4>
     <a href='https://computerhoy.com/pc/he-pasado-rato-portatil-transparente-lenovo-concepto-muy-original-1367641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-portatil-transparente-mwc-2024-3279516.jpg?tf=1200x' alt='He pasado un rato con el portátil transparente de Lenovo y es de los productos más originales que he visto este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679'>Descubren una nueva especie de anaconda, con ayuda de Will Smith</a></h4>
-    <a href='https://computerhoy.com/life/descubren-nueva-especie-anaconda-ayuda-will-smith-1367679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-nueva-especie-anaconda-ayuda-will-smith-3279572.jpg?tf=1200x' alt='Descubren una nueva especie de anaconda, con ayuda de Will Smith' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/snapdragon-x-elite-listo-competir-ryzen-intel-core-ultra-1367678'>Los benchmark confirman que el procesador Snapdragon X Elite es tan rápido como los Ryzen y los Intel Core Ultra más potentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/snapdragon-x-elite-listo-competir-ryzen-intel-core-ultra-1367678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/qualcomm-snapdragon-x-elite-chip-ia-portatiles-busca-matar-apple-m2-3204582.jpg?tf=1200x' alt='Los benchmark confirman que el procesador Snapdragon X Elite es tan rápido como los Ryzen y los Intel Core Ultra más potentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843'>Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-sorprendentes-cascos-conduccion-osea-marca-top-tienen-precio-locos-1366843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/lenovo-x4-3278207.jpg?tf=1200x' alt='Estos sorprendentes cascos de conducción ósea de una marca top tienen precio de locos' />
     </a>
 </div>
 
