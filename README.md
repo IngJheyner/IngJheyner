@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798'>¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta</a></h4>
+    <a href='https://computerhoy.com/espacio/cual-edad-real-seres-humanos-1367798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/feliz-cumpleanos-3279867.jpg?tf=1200x' alt='¿Cuántos años tienes? Científicos afirman que siempre respondemos mal a esta pregunta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-quiere-ser-reloj-top-ventas-cuesta-menos-20-euros-amazon-1367730'>La pulsera Xiaomi que quiere ser reloj es top ventas y cuesta menos de 20 euros en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pulsera-xiaomi-quiere-ser-reloj-top-ventas-cuesta-menos-20-euros-amazon-1367730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-band-8-active-3279617.jpg?tf=1200x' alt='La pulsera Xiaomi que quiere ser reloj es top ventas y cuesta menos de 20 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/software/como-abrir-ventana-cmd-cualquier-version-windows-53368'>Cómo abrir la ventana de cmd en cualquier versión de Windows</a></h4>
+    <a href='https://computerhoy.com/listas/software/como-abrir-ventana-cmd-cualquier-version-windows-53368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Cómo abrir la ventana de cmd en cualquier versión de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813'>Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar</a></h4>
     <a href='https://computerhoy.com/life/paises-podrian-desaparecer-menos-tiempo-piensas-subida-mar-1367813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/subida-nivel-mar-3279873.jpg?tf=1200x' alt='Países que podrían desaparecer en menos tiempo de lo que piensas por la subida del mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>25 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
-    <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/25-programas-gratis-windows-no-pueden-faltar-pc-3278704.jpg?tf=1200x' alt='25 programas gratis para Windows que no pueden faltar en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-hace-viral-como-nuevo-modo-infiel-1367792'>La última función de WhatsApp se hace viral como el nuevo "modo infiel"</a></h4>
-    <a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-hace-viral-como-nuevo-modo-infiel-1367792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-privacidad-3279840.jpg?tf=1200x' alt='La última función de WhatsApp se hace viral como el nuevo "modo infiel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520'>Cómo descargar películas gratis de forma totalmente legal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-descargar-peliculas-gratis-3278187.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal' />
     </a>
 </div>
 
