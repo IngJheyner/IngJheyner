@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405'>25 programas gratis para Windows que no pueden faltar en tu PC</a></h4>
+    <a href='https://computerhoy.com/noticias/software/15-programas-gratis-windows-que-no-pueden-faltar-tu-pc-73405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/25-programas-gratis-windows-no-pueden-faltar-pc-3278704.jpg?tf=1200x' alt='25 programas gratis para Windows que no pueden faltar en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-hace-viral-como-nuevo-modo-infiel-1367792'>La última función de WhatsApp se hace viral como el nuevo "modo infiel"</a></h4>
+    <a href='https://computerhoy.com/apps/ultima-funcion-whatsapp-hace-viral-como-nuevo-modo-infiel-1367792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/whatsapp-privacidad-3279840.jpg?tf=1200x' alt='La última función de WhatsApp se hace viral como el nuevo "modo infiel"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520'>Cómo descargar películas gratis de forma totalmente legal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-peliculas-gratis-1225520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-descargar-peliculas-gratis-3278187.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757'>He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad</a></h4>
     <a href='https://computerhoy.com/pc/samsung-galaxy-book-4-pro-360-pc-lleno-ia-aumentara-productividad-1367757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-book-4-pro-360-3279765.jpg?tf=1200x' alt='He pasado unos minutos con el Samsung Galaxy Book 4 Pro 360, el PC lleno de IA que aumentará tu productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-zte-nubia-flip-movil-plegable-tipo-concha-1367683'>He probado ZTE Nubia Flip, un móvil plegable tipo concha que quiere reventar el mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-zte-nubia-flip-movil-plegable-tipo-concha-1367683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/zte-balde-flip-3279716.jpg?tf=1200x' alt='He probado ZTE Nubia Flip, un móvil plegable tipo concha que quiere reventar el mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/ocurriria-satoshi-nakamoto-vendiese-millon-bitcoins-1367750'>¿Qué ocurriría si Satoshi Nakamoto vendiese todos sus Bitcoin valorados en 51.000 millones de dólares?</a></h4>
-    <a href='https://computerhoy.com/criptos/ocurriria-satoshi-nakamoto-vendiese-millon-bitcoins-1367750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bitcoins-criptomoneda-3279730.jpg?tf=1200x' alt='¿Qué ocurriría si Satoshi Nakamoto vendiese todos sus Bitcoin valorados en 51.000 millones de dólares?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183'>A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño</a></h4>
-    <a href='https://computerhoy.com/tecnologia/60-km-h-cualquier-terreno-coche-teledirigido-siempre-quisiste-nino-1367183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/goolsky-wltoys-xks-144001-rc-coche-3279688.jpg?tf=1200x' alt='A 60 km/h en cualquier terreno: este coche teledirigido es el que siempre quisiste de niño' />
     </a>
 </div>
 
