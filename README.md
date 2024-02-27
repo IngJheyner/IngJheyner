@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997'>Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel</a></h4>
+    <a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-core-ultra-son-como-funcionan-diferencias-hay-anteriores-procesadores-intel-3280137.jpg?tf=1200x' alt='Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746'>Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air</a></h4>
     <a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hp-pavilion-aero-13-be0006ns-3279643.jpg?tf=1200x' alt='Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977'>Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-3280083.jpg?tf=1200x' alt='Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-1367948'>Milk-V Duo S, el microordenador diez veces más potente que una Raspberry Pi Pico por solo 9 euros</a></h4>
-    <a href='https://computerhoy.com/pc/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-1367948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/milk-v-duo-s-microordenador-diez-veces-potente-raspberry-pi-pico-solo-9-euros-3280079.jpg?tf=1200x' alt='Milk-V Duo S, el microordenador diez veces más potente que una Raspberry Pi Pico por solo 9 euros' />
     </a>
 </div>
 
