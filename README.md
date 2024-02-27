@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dolor-garganta-paracetamol-ibuprofeno-1366736'>Qué es mejor para el dolor de garganta: paracetamol o ibuprofeno</a></h4>
+    <a href='https://computerhoy.com/life/dolor-garganta-paracetamol-ibuprofeno-1366736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-dolor-garganta-paracetamol-ibuprofeno-3278121.jpg?tf=1200x' alt='Qué es mejor para el dolor de garganta: paracetamol o ibuprofeno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007'>Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre</a></h4>
     <a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/passkey-ps5-puedes-configurar-cuenta-olvidarte-contrasenas-siempre-3280132.jpg?tf=1200x' alt='Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746'>Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air</a></h4>
     <a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hp-pavilion-aero-13-be0006ns-3279643.jpg?tf=1200x' alt='Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979'>¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg?tf=1200x' alt='¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas' />
     </a>
 </div>
 
