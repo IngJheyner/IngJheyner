@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265'>Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años</a></h4>
+    <a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-presenta-nuevos-procesadores-intel-core-ultra-ia-profesionales-mayor-salto-40-anos-3280585.jpg?tf=1200x' alt='Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849'>5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-sorprendentes-peliculas-80-fracasaron-taquilla-hoy-dia-son-culto-3279906.jpg?tf=1200x' alt='5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866'>Qué es mejor para conducir por ciudad: Google Maps o Waze</a></h4>
     <a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-conducir-ciudad-google-maps-waze-3279955.jpg?tf=1200x' alt='Qué es mejor para conducir por ciudad: Google Maps o Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-bloquea-aplicaciones-fire-tv-ultima-actualizacion-1368120'>Amazon comienza a bloquear aplicaciones en los Fire TV: HBO Max y las IPTV en peligro</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-bloquea-aplicaciones-fire-tv-ultima-actualizacion-1368120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-fire-tv-stop-3280406.jpg?tf=1200x' alt='Amazon comienza a bloquear aplicaciones en los Fire TV: HBO Max y las IPTV en peligro' />
     </a>
 </div>
 
