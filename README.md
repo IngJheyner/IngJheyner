@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071'>Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056'>Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/discos-almacenamiento-3280245.jpg?tf=1200x' alt='Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029'>Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador</a></h4>
     <a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-arcade-problemas-tiene-olor-muerte-desarrollador-3280152.jpg?tf=1200x' alt='Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748'>Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-esqueleto-dragon-chino-vivio-hace-240-millones-anos-3279662.jpg?tf=1200x' alt='Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años' />
     </a>
 </div>
 
