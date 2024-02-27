@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849'>5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-sorprendentes-peliculas-80-fracasaron-taquilla-hoy-dia-son-culto-3279906.jpg?tf=1200x' alt='5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-inventa-maquina-bloquear-reggaeton-vecino-1368230'>Con ayuda de una Raspberry Pi y un algoritmo de IA, inventa una máquina para bloquear el reggaeton del vecino</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-inventa-maquina-bloquear-reggaeton-vecino-1368230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ayuda-raspberry-pi-algoritmo-ia-inventa-maquina-bloquear-reggaeton-vecino-3280586.jpg?tf=1200x' alt='Con ayuda de una Raspberry Pi y un algoritmo de IA, inventa una máquina para bloquear el reggaeton del vecino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146'>Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio</a></h4>
+    <a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg?tf=1200x' alt='Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866'>Qué es mejor para conducir por ciudad: Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-conducir-ciudad-google-maps-waze-3279955.jpg?tf=1200x' alt='Qué es mejor para conducir por ciudad: Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-bloquea-aplicaciones-fire-tv-ultima-actualizacion-1368120'>Amazon comienza a bloquear aplicaciones en los Fire TV: HBO Max y las IPTV en peligro</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-bloquea-aplicaciones-fire-tv-ultima-actualizacion-1368120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-fire-tv-stop-3280406.jpg?tf=1200x' alt='Amazon comienza a bloquear aplicaciones en los Fire TV: HBO Max y las IPTV en peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-marca-google-maps-cambia-colores-navegador-avisar-1368201'>Waze se marca un Google Maps y cambia los colores del navegador sin avisar</a></h4>
-    <a href='https://computerhoy.com/apps/waze-marca-google-maps-cambia-colores-navegador-avisar-1368201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/waze-marca-google-maps-cambia-colores-navegador-avisar-3280535.jpg?tf=1200x' alt='Waze se marca un Google Maps y cambia los colores del navegador sin avisar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciones-servicios-estan-agotando-bateria-movil-te-des-cuenta-1367068'>Funciones y servicios que están agotando la batería de tu móvil sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciones-servicios-estan-agotando-bateria-movil-te-des-cuenta-1367068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cargar-bateria-movil-3280386.jpg?tf=1200x' alt='Funciones y servicios que están agotando la batería de tu móvil sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tecnica-no-steve-jobs-1368046'>La técnica infalible del NO de Steve Jobs para conseguir a los mejores empleados</a></h4>
-    <a href='https://computerhoy.com/apple/tecnica-no-steve-jobs-1368046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280374.jpg?tf=1200x' alt='La técnica infalible del NO de Steve Jobs para conseguir a los mejores empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074'>Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado</a></h4>
-    <a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modo-avion-movil-3280358.jpg?tf=1200x' alt='Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado' />
     </a>
 </div>
 
