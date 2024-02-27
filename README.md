@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035'>Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/starlink-antena-3280186.jpg?tf=1200x' alt='Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-formula-1-2024-cuanto-vale-puede-ver-f1-gratis-espana-1368044'>Cómo ver la Fórmula 1 2024 y cuánto vale: ¿se puede ver la F1 gratis en España?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-formula-1-2024-cuanto-vale-puede-ver-f1-gratis-espana-1368044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formula-1-3231996.jpg?tf=1200x' alt='Cómo ver la Fórmula 1 2024 y cuánto vale: ¿se puede ver la F1 gratis en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029'>Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador</a></h4>
     <a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-arcade-problemas-tiene-olor-muerte-desarrollador-3280152.jpg?tf=1200x' alt='Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005'>Una feria de móviles, pero todo el mundo quiere la foto de un coche</a></h4>
-    <a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-su7-3280141.jpg?tf=1200x' alt='Una feria de móviles, pero todo el mundo quiere la foto de un coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616'>Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando</a></h4>
-    <a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tarjeta-credito-3278203.jpg?tf=1200x' alt='Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando' />
     </a>
 </div>
 
