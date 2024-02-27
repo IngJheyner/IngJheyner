@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018'>¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3280168.jpg?tf=1200x' alt='¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xgimi-horizon-ultra-3248631.jpg?tf=1200x' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553'>Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-inteligente-rgb-3277759.jpg?tf=1200x' alt='Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007'>Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre</a></h4>
     <a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/passkey-ps5-puedes-configurar-cuenta-olvidarte-contrasenas-siempre-3280132.jpg?tf=1200x' alt='Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997'>Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel</a></h4>
-    <a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-core-ultra-son-como-funcionan-diferencias-hay-anteriores-procesadores-intel-3280137.jpg?tf=1200x' alt='Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746'>Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air</a></h4>
-    <a href='https://computerhoy.com/tecnologia/menos-1-kg-peso-potencia-brutal-hp-hunde-precio-alternativa-macbook-air-1367746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hp-pavilion-aero-13-be0006ns-3279643.jpg?tf=1200x' alt='Amazon está agotando este portátil de menos de 1 kg de peso, el rival Windows 11 del MacBook Air' />
     </a>
 </div>
 
