@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-lanza-android-auto-114-novedades-como-descargarlo-ahora-mismo-1368140'>Google lanza Android Auto 11.4: novedades y cómo descargarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/google-lanza-android-auto-114-novedades-como-descargarlo-ahora-mismo-1368140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-114-google-3280405.jpg?tf=1200x' alt='Google lanza Android Auto 11.4: novedades y cómo descargarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/fetiches-raros-mejor-pagados-onlyfans-1368101'>Los fetiches más raros y mejor pagados de Onlyfans</a></h4>
+    <a href='https://computerhoy.com/apps/fetiches-raros-mejor-pagados-onlyfans-1368101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/onlyfans-fetiches-3280341.jpg?tf=1200x' alt='Los fetiches más raros y mejor pagados de Onlyfans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071'>Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035'>Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/starlink-antena-3280186.jpg?tf=1200x' alt='Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-formula-1-2024-cuanto-vale-puede-ver-f1-gratis-espana-1368044'>Cómo ver la Fórmula 1 2024 y cuánto vale: ¿se puede ver la F1 gratis en España?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-formula-1-2024-cuanto-vale-puede-ver-f1-gratis-espana-1368044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/formula-1-3231996.jpg?tf=1200x' alt='Cómo ver la Fórmula 1 2024 y cuánto vale: ¿se puede ver la F1 gratis en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029'>Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador</a></h4>
-    <a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-arcade-problemas-tiene-olor-muerte-desarrollador-3280152.jpg?tf=1200x' alt='Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador' />
     </a>
 </div>
 
