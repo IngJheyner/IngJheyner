@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297'>Netflix no quiere que pagues su suscripción con tu cuenta de Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-iphone-3280650.jpg?tf=1200x' alt='Netflix no quiere que pagues su suscripción con tu cuenta de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280'>Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa</a></h4>
+    <a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-cancela-proyecto-coche-electrico-equipo-centrara-desarrollo-ia-generativa-3280648.jpg?tf=1200x' alt='Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/apuntan-playstation-5-como-culpables-retraso-2025-nintendo-switch-2-1368296'>Apuntan a PlayStation 5 como uno de los culpables del retraso a 2025 de Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.com/gaming/apuntan-playstation-5-como-culpables-retraso-2025-nintendo-switch-2-1368296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jugando-nintendo-switch-2682063.jpg?tf=1200x' alt='Apuntan a PlayStation 5 como uno de los culpables del retraso a 2025 de Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174'>¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/seguridad-social-no-cobra-estos-servicios-estafa-3280458.jpg?tf=1200x' alt='¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265'>Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-presenta-nuevos-procesadores-intel-core-ultra-ia-profesionales-mayor-salto-40-anos-3280585.jpg?tf=1200x' alt='Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849'>5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-80-fracasaron-hoy-son-culto-1367849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-sorprendentes-peliculas-80-fracasaron-taquilla-hoy-dia-son-culto-3279906.jpg?tf=1200x' alt='5 sorprendentes películas de los 80 que fracasaron en taquilla y hoy en día son de culto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-inventa-maquina-bloquear-reggaeton-vecino-1368230'>Con ayuda de una Raspberry Pi y un algoritmo de IA, inventa una máquina para bloquear el reggaeton del vecino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-inventa-maquina-bloquear-reggaeton-vecino-1368230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ayuda-raspberry-pi-algoritmo-ia-inventa-maquina-bloquear-reggaeton-vecino-3280586.jpg?tf=1200x' alt='Con ayuda de una Raspberry Pi y un algoritmo de IA, inventa una máquina para bloquear el reggaeton del vecino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146'>Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio</a></h4>
-    <a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg?tf=1200x' alt='Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio' />
     </a>
 </div>
 
