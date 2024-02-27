@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tecnica-no-steve-jobs-1368046'>La técnica infalible del NO de Steve Jobs para conseguir a los mejores empleados</a></h4>
+    <a href='https://computerhoy.com/apple/tecnica-no-steve-jobs-1368046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-3280374.jpg?tf=1200x' alt='La técnica infalible del NO de Steve Jobs para conseguir a los mejores empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074'>Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado</a></h4>
     <a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modo-avion-movil-3280358.jpg?tf=1200x' alt='Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/fetiches-raros-mejor-pagados-onlyfans-1368101'>Los fetiches más raros y mejor pagados de Onlyfans</a></h4>
     <a href='https://computerhoy.com/apps/fetiches-raros-mejor-pagados-onlyfans-1368101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/onlyfans-fetiches-3280341.jpg?tf=1200x' alt='Los fetiches más raros y mejor pagados de Onlyfans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071'>Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?' />
     </a>
 </div>
 
