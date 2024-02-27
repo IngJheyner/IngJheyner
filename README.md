@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029'>Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador</a></h4>
+    <a href='https://computerhoy.com/apple/apple-arcade-problemas-tiene-olor-muerte-desarrollador-1368029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-arcade-problemas-tiene-olor-muerte-desarrollador-3280152.jpg?tf=1200x' alt='Apple Arcade en problemas: tiene "el olor de la muerte", según un desarrollador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748'>Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-esqueleto-dragon-chino-vivio-hace-240-millones-anos-3279662.jpg?tf=1200x' alt='Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005'>Una feria de móviles, pero todo el mundo quiere la foto de un coche</a></h4>
     <a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-su7-3280141.jpg?tf=1200x' alt='Una feria de móviles, pero todo el mundo quiere la foto de un coche' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616'>Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando</a></h4>
     <a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tarjeta-credito-3278203.jpg?tf=1200x' alt='Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018'>¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3280168.jpg?tf=1200x' alt='¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845'>Mejores proyectores que puedes comprar: 4K, Full HD y portátiles</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-proyectores-puedes-comprar-4k-full-hd-portatiles-1056845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xgimi-horizon-ultra-3248631.jpg?tf=1200x' alt='Mejores proyectores que puedes comprar: 4K, Full HD y portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553'>Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-inteligente-rgb-3277759.jpg?tf=1200x' alt='Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga' />
     </a>
 </div>
 
