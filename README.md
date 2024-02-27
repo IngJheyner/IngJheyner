@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074'>Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado</a></h4>
+    <a href='https://computerhoy.com/life/hay-seguir-utilizando-modo-avion-vuelos-1368074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modo-avion-movil-3280358.jpg?tf=1200x' alt='Este es el motivo por el que no tienes que utilizar el modo avión en los vuelos, pero mejor que lo dejes activado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/debes-responder-entrevista-trabajo-pregunta-animal-eres-1368126'>Qué debes responder en una entrevista de trabajo a la pregunta: ¿qué animal eres?</a></h4>
+    <a href='https://computerhoy.com/life/debes-responder-entrevista-trabajo-pregunta-animal-eres-1368126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/entrevista-trabajo-3280360.jpg?tf=1200x' alt='Qué debes responder en una entrevista de trabajo a la pregunta: ¿qué animal eres?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-lanza-android-auto-114-novedades-como-descargarlo-ahora-mismo-1368140'>Google lanza Android Auto 11.4: novedades y cómo descargarlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/google/google-lanza-android-auto-114-novedades-como-descargarlo-ahora-mismo-1368140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-auto-114-google-3280405.jpg?tf=1200x' alt='Google lanza Android Auto 11.4: novedades y cómo descargarlo ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071'>Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-como-arma-definitiva-robo-coches-preocupacion-real-exageracion-1368071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='Flipper Zero como arma definitiva para el robo de coches: ¿Preocupación real o exageración?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056'>Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/discos-almacenamiento-3280245.jpg?tf=1200x' alt='Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035'>Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/starlink-antena-3280186.jpg?tf=1200x' alt='Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio' />
     </a>
 </div>
 
