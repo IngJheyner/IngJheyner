@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007'>Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre</a></h4>
+    <a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/passkey-ps5-puedes-configurar-cuenta-olvidarte-contrasenas-siempre-3280132.jpg?tf=1200x' alt='Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997'>Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel</a></h4>
     <a href='https://computerhoy.com/pc/core-ultra-significa-nuevo-nombre-procesadores-intel-1367997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-core-ultra-son-como-funcionan-diferencias-hay-anteriores-procesadores-intel-3280137.jpg?tf=1200x' alt='Intel Core Ultra: qué significa el nuevo nombre y qué diferencias hay con los anteriores procesadores Intel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979'>¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas</a></h4>
     <a href='https://computerhoy.com/life/cuanto-duran-neumaticos-avion-son-alquilados-gastan-antes-imaginas-1367979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/aterrizaje-avion-2768779.jpg?tf=1200x' alt='¿Cuánto duran los neumáticos a un avión? Son alquilados y se gastan antes de lo que imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977'>Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-ya-tendria-fecha-lanzamiento-no-te-va-gustar-nada-1367977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-3280083.jpg?tf=1200x' alt='Nintendo Switch 2 ya tendría fecha de lanzamiento, y no te va a gustar nada' />
     </a>
 </div>
 
