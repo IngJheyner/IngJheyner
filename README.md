@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056'>Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-estan-aqui-discos-futuro-capaz-almacenar-14000-peliculas-4k-1368056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/discos-almacenamiento-3280245.jpg?tf=1200x' alt='Ya están aquí los discos del futuro: mismo tamaño pero capaces de almacenar 14.000 películas en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035'>Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-fibra-starlink-da-bombazo-rebaja-antenas-mitad-precio-1368035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/starlink-antena-3280186.jpg?tf=1200x' alt='Olvida la fibra: Starlink da el bombazo y rebaja sus antenas a mitad de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748'>Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-esqueleto-dragon-chino-hace-240-millones-anos-1367748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/descubren-esqueleto-dragon-chino-vivio-hace-240-millones-anos-3279662.jpg?tf=1200x' alt='Descubren el esqueleto de un “dragón chino” que vivió hace 240 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819'>Los mejores auriculares con cancelación de ruido para volver a la oficina</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-auriculares-cancelacion-ruido-oficina-921819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/auriculares-sony-wh-1000xm5-3260665.jpg?tf=1200x' alt='Los mejores auriculares con cancelación de ruido para volver a la oficina' />
     </a>
 </div>
 
