@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005'>Una feria de móviles, pero todo el mundo quiere la foto de un coche</a></h4>
+    <a href='https://computerhoy.com/tecnologia/feria-moviles-pero-todo-mundo-quiere-foto-coche-1368005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-su7-3280141.jpg?tf=1200x' alt='Una feria de móviles, pero todo el mundo quiere la foto de un coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616'>Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando</a></h4>
+    <a href='https://computerhoy.com/life/primera-tarjeta-credito-mundo-1366616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tarjeta-credito-3278203.jpg?tf=1200x' alt='Esta es la primera tarjeta de crédito del mundo: tiene más de 70 años y se puede seguir utilizando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018'>¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-27-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3280168.jpg?tf=1200x' alt='¿Qué día es hoy 27 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553'>Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuesta-menos-1eu-tiene-cientos-colores-bombilla-wifi-alexa-ganga-1366553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-inteligente-rgb-3277759.jpg?tf=1200x' alt='Cuesta menos de 1€ y tiene cientos de colores: esta bombilla WiFi con Alexa sí que es una ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dolor-garganta-paracetamol-ibuprofeno-1366736'>Qué es mejor para el dolor de garganta: paracetamol o ibuprofeno</a></h4>
-    <a href='https://computerhoy.com/life/dolor-garganta-paracetamol-ibuprofeno-1366736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-dolor-garganta-paracetamol-ibuprofeno-3278121.jpg?tf=1200x' alt='Qué es mejor para el dolor de garganta: paracetamol o ibuprofeno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007'>Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre</a></h4>
-    <a href='https://computerhoy.com/tutoriales/passkey-playstation-configuracion-tutorial-1368007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/passkey-ps5-puedes-configurar-cuenta-olvidarte-contrasenas-siempre-3280132.jpg?tf=1200x' alt='Passkey en PlayStation: así puedes configurar tu cuenta para olvidarte de las contraseñas para siempre' />
     </a>
 </div>
 
