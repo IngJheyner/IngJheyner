@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031'>Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297'>Netflix no quiere que pagues su suscripción con tu cuenta de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-iphone-3280650.jpg?tf=1200x' alt='Netflix no quiere que pagues su suscripción con tu cuenta de Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174'>¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/seguridad-social-no-cobra-estos-servicios-estafa-3280458.jpg?tf=1200x' alt='¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265'>Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años</a></h4>
-    <a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-presenta-nuevos-procesadores-intel-core-ultra-ia-profesionales-mayor-salto-40-anos-3280585.jpg?tf=1200x' alt='Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años' />
     </a>
 </div>
 
