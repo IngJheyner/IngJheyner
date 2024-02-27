@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174'>¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/seguridad-social-no-cobra-estos-servicios-estafa-3280458.jpg?tf=1200x' alt='¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265'>Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años</a></h4>
     <a href='https://computerhoy.com/pc/procesadores-intel-core-ultra-ia-mwc-mayor-salto-40-anos-1368265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/intel-presenta-nuevos-procesadores-intel-core-ultra-ia-profesionales-mayor-salto-40-anos-3280585.jpg?tf=1200x' alt='Intel presenta los nuevos procesadores Intel Core Ultra con IA para profesionales: el mayor salto en 40 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146'>Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio</a></h4>
     <a href='https://computerhoy.com/pc/amazon-pone-patas-arriba-sector-gaming-pc-pantalla-144-hz-ty-rtx-3050-hunde-precio-1368146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/asus-tuf-gaming-f15-fx506hcb-hn200-2644207.jpg?tf=1200x' alt='Amazon pone patas arriba el sector gaming: este PC con pantalla de 144 Hz y RTX 3050 hunde su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866'>Qué es mejor para conducir por ciudad: Google Maps o Waze</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-conducir-ciudad-google-maps-waze-1367866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-conducir-ciudad-google-maps-waze-3279955.jpg?tf=1200x' alt='Qué es mejor para conducir por ciudad: Google Maps o Waze' />
     </a>
 </div>
 
