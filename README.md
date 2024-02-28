@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misterios-punto-nemo-lugar-aislado-tierra-1368006'>Los misterios de Punto Nemo, el lugar más aislado de la Tierra que el ser humano jamás ha pisado</a></h4>
+    <a href='https://computerhoy.com/ciencia/misterios-punto-nemo-lugar-aislado-tierra-1368006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/misterios-desconcertantes-punto-nemo-lugar-lejano-tierra-3280150.jpg?tf=1200x' alt='Los misterios de Punto Nemo, el lugar más aislado de la Tierra que el ser humano jamás ha pisado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368340'>¿Qué día es hoy 28 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3280728.jpg?tf=1200x' alt='¿Qué día es hoy 28 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/telefonos-moviles-libres-carrefour-1368089'>Móviles libres de Carrefour: qué tener en cuenta y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/telefonos-moviles-libres-carrefour-1368089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143602.jpg?tf=1200x' alt='Móviles libres de Carrefour: qué tener en cuenta y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/crear-acceso-directo-administrador-contrasenas-android-1366712'>Cómo crear un acceso directo al Administrador de contraseñas de Google en tu Android</a></h4>
+    <a href='https://computerhoy.com/google/crear-acceso-directo-administrador-contrasenas-android-1366712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-crear-acceso-directo-administrador-contrasenas-google-android-3278078.jpg?tf=1200x' alt='Cómo crear un acceso directo al Administrador de contraseñas de Google en tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330'>Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet </a></h4>
     <a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rebeldes-mar-rojo-comienzan-atacar-cables-submarinos-transmiten-17-internet-3280710.jpg?tf=1200x' alt='Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311'>Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar</a></h4>
-    <a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-reinstalar-3280703.jpg?tf=1200x' alt='Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/escudo-antipirateria-listas-iptv-expulsa-vpn-italia-1368321'>El escudo antipiratería contra las listas IPTV de Italia está haciendo que las VPN se marchen del país</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/escudo-antipirateria-listas-iptv-expulsa-vpn-italia-1368321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/escudo-antipirateria-listas-iptv-italia-haciendo-vpn-marchen-pais-3280666.jpg?tf=1200x' alt='El escudo antipiratería contra las listas IPTV de Italia está haciendo que las VPN se marchen del país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031'>Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297'>Netflix no quiere que pagues su suscripción con tu cuenta de Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-iphone-3280650.jpg?tf=1200x' alt='Netflix no quiere que pagues su suscripción con tu cuenta de Apple' />
     </a>
 </div>
 
