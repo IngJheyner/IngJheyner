@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079'>AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-xiaomi-360-2k-pro-2600015.jpg?tf=1200x' alt='AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/slow-down-como-funciona-ejercicio-desafia-sociedad-actual-1368373'>Método Slow Down, ¿cómo es el ejercicio de moda que desafía a la sociedad actual?</a></h4>
+    <a href='https://computerhoy.com/life/slow-down-como-funciona-ejercicio-desafia-sociedad-actual-1368373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodo-slow-down-como-ejercicio-moda-desafia-sociedad-actual-3280784.jpg?tf=1200x' alt='Método Slow Down, ¿cómo es el ejercicio de moda que desafía a la sociedad actual?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391'>iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo</a></h4>
+    <a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-iphone-antiguos-3280947.jpg?tf=1200x' alt='iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081'>Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extorsion-ciberseguridad-3259295.jpg?tf=1200x' alt='Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360'>ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-google-3280919.jpg?tf=1200x' alt='ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486'>Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego</a></h4>
-    <a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3052026.jpg?tf=1200x' alt='Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-imagenes-instagram-ordenador-movil-879493'>Cómo descargar vídeos e imágenes de Instagram desde el ordenador o el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-imagenes-instagram-ordenador-movil-879493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-descargar-videos-imagenes-instagram-ordenador-movil-3280717.jpg?tf=1200x' alt='Cómo descargar vídeos e imágenes de Instagram desde el ordenador o el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357'>Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda' />
     </a>
 </div>
 
