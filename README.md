@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605'>La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades</a></h4>
+    <a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-chromecast-google-tv-punto-cambiar-estas-son-novedades-3281167.jpg?tf=1200x' alt='La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506'>PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ps5-pro-3281139.jpg?tf=1200x' alt='PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541'>Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"</a></h4>
     <a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/george-zhao-ceo-honor-participa-mwc-2024-3281159.jpg?tf=1200x' alt='Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079'>AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-xiaomi-360-2k-pro-2600015.jpg?tf=1200x' alt='AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/slow-down-como-funciona-ejercicio-desafia-sociedad-actual-1368373'>Método Slow Down, ¿cómo es el ejercicio de moda que desafía a la sociedad actual?</a></h4>
-    <a href='https://computerhoy.com/life/slow-down-como-funciona-ejercicio-desafia-sociedad-actual-1368373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodo-slow-down-como-ejercicio-moda-desafia-sociedad-actual-3280784.jpg?tf=1200x' alt='Método Slow Down, ¿cómo es el ejercicio de moda que desafía a la sociedad actual?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391'>iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo</a></h4>
-    <a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-iphone-antiguos-3280947.jpg?tf=1200x' alt='iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo' />
     </a>
 </div>
 
