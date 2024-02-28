@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639'>¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta  </a></h4>
+    <a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/29-febrero-dia-laboral-3281207.jpg?tf=1200x' alt='¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630'>Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2</a></h4>
     <a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605'>La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades</a></h4>
     <a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-chromecast-google-tv-punto-cambiar-estas-son-novedades-3281167.jpg?tf=1200x' alt='La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506'>PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ps5-pro-3281139.jpg?tf=1200x' alt='PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony' />
     </a>
 </div>
 
