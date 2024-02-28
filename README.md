@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-todas-curiosidades-ha-dejado-mwc-2024-1367785'>Lo más curioso que he visto en el MWC 2024: del rover de SpaceX que viajará a la Luna al robot cirujano que te operará en el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-todas-curiosidades-ha-dejado-mwc-2024-1367785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosidades-mobile-world-congress-mwc-2024-3280560.jpg?tf=1200x' alt='Lo más curioso que he visto en el MWC 2024: del rover de SpaceX que viajará a la Luna al robot cirujano que te operará en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299'>Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas</a></h4>
+    <a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-park-luces-coche-3280651.jpg?tf=1200x' alt='Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/novedad-chatgpt-confirmada-usuarios-android-1368183'>Así es la gran novedad de ChatGPT confirmada para los usuarios de Android</a></h4>
+    <a href='https://computerhoy.com/moviles/novedad-chatgpt-confirmada-usuarios-android-1368183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/novedad-chatgpt-confirmada-usuarios-android-3280477.jpg?tf=1200x' alt='Así es la gran novedad de ChatGPT confirmada para los usuarios de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/misterios-punto-nemo-lugar-aislado-tierra-1368006'>Los misterios de Punto Nemo, el lugar más aislado de la Tierra que el ser humano jamás ha pisado</a></h4>
     <a href='https://computerhoy.com/ciencia/misterios-punto-nemo-lugar-aislado-tierra-1368006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/misterios-desconcertantes-punto-nemo-lugar-lejano-tierra-3280150.jpg?tf=1200x' alt='Los misterios de Punto Nemo, el lugar más aislado de la Tierra que el ser humano jamás ha pisado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368340'>¿Qué día es hoy 28 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-28-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3280728.jpg?tf=1200x' alt='¿Qué día es hoy 28 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/telefonos-moviles-libres-carrefour-1368089'>Móviles libres de Carrefour: qué tener en cuenta y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/telefonos-moviles-libres-carrefour-1368089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-max-3143602.jpg?tf=1200x' alt='Móviles libres de Carrefour: qué tener en cuenta y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/crear-acceso-directo-administrador-contrasenas-android-1366712'>Cómo crear un acceso directo al Administrador de contraseñas de Google en tu Android</a></h4>
-    <a href='https://computerhoy.com/google/crear-acceso-directo-administrador-contrasenas-android-1366712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-crear-acceso-directo-administrador-contrasenas-google-android-3278078.jpg?tf=1200x' alt='Cómo crear un acceso directo al Administrador de contraseñas de Google en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330'>Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet </a></h4>
-    <a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rebeldes-mar-rojo-comienzan-atacar-cables-submarinos-transmiten-17-internet-3280710.jpg?tf=1200x' alt='Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet ' />
     </a>
 </div>
 
