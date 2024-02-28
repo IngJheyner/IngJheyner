@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630'>Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-rompe-nuevo-ordenadores-millones-usuarios-1368622'>La última actualización de Windows 11 rompe de nuevo los ordenadores de millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-rompe-nuevo-ordenadores-millones-usuarios-1368622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='La última actualización de Windows 11 rompe de nuevo los ordenadores de millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058'>Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-sn770-3280206.jpg?tf=1200x' alt='Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605'>La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades</a></h4>
     <a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-chromecast-google-tv-punto-cambiar-estas-son-novedades-3281167.jpg?tf=1200x' alt='La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506'>PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony</a></h4>
     <a href='https://computerhoy.com/gaming/ps5-pro-todos-rumores-nueva-consola-sony-1310506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ps5-pro-3281139.jpg?tf=1200x' alt='PS5 Pro: fecha de salida, diseño, características y todo lo que se sabe sobre la próxima consola de Sony' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541'>Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"</a></h4>
-    <a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/george-zhao-ceo-honor-participa-mwc-2024-3281159.jpg?tf=1200x' alt='Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-viajes-largos-coche-google-maps-waze-1368519'>Qué es mejor para viajes largos en coche: Google Maps o Waze</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-viajes-largos-coche-google-maps-waze-1368519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-viajes-largos-coche-google-maps-waze-3281077.jpg?tf=1200x' alt='Qué es mejor para viajes largos en coche: Google Maps o Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079'>AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-xiaomi-360-2k-pro-2600015.jpg?tf=1200x' alt='AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura' />
     </a>
 </div>
 
