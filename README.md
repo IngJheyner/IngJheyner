@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639'>¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta  </a></h4>
+    <h4><a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650'>Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estrena-china-primera-serie-animacion-creada-completo-ia-3281222.jpg?tf=1200x' alt='Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639'>¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta</a></h4>
     <a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/29-febrero-dia-laboral-3281207.jpg?tf=1200x' alt='¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta  ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/29-febrero-dia-laboral-3281207.jpg?tf=1200x' alt='¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058'>Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-sn770-3280206.jpg?tf=1200x' alt='Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605'>La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades</a></h4>
-    <a href='https://computerhoy.com/google/asi-va-cambiar-pantalla-chromecast-google-tv-1368605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-chromecast-google-tv-punto-cambiar-estas-son-novedades-3281167.jpg?tf=1200x' alt='La pantalla de tu Chromecast y Google TV está a punto de cambiar: estas son las novedades' />
     </a>
 </div>
 
