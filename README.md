@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541'>Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"</a></h4>
+    <a href='https://computerhoy.com/life/honor-tambien-trabaja-anillo-inteligente-como-samsung-1368541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/george-zhao-ceo-honor-participa-mwc-2024-3281159.jpg?tf=1200x' alt='Honor trabaja en un anillo inteligente siguiendo la estela de Samsung: "Queremos que toda la industria avance"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-viajes-largos-coche-google-maps-waze-1368519'>Qué es mejor para viajes largos en coche: Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-viajes-largos-coche-google-maps-waze-1368519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-viajes-largos-coche-google-maps-waze-3281077.jpg?tf=1200x' alt='Qué es mejor para viajes largos en coche: Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079'>AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-lia-camara-xiaomi-2k-tambien-vigilabebes-deja-precio-locura-1368079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/galeria-review-xiaomi-360-2k-pro-2600015.jpg?tf=1200x' alt='AliExpress la lía con la cámara Xiaomi 2K que también es vigilabebés: la deja a precio de locura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391'>iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo</a></h4>
     <a href='https://computerhoy.com/apple/iphones-seran-compatibles-actualizacion-ios-18-1368391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/modelos-iphone-antiguos-3280947.jpg?tf=1200x' alt='iOS 18 podría traer muy buenas noticias si tienes un iPhone antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081'>Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extorsion-ciberseguridad-3259295.jpg?tf=1200x' alt='Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360'>ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-google-3280919.jpg?tf=1200x' alt='ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar' />
     </a>
 </div>
 
