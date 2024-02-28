@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360'>ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-google-3280919.jpg?tf=1200x' alt='ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486'>Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego</a></h4>
     <a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3052026.jpg?tf=1200x' alt='Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429'>Los negocios más bizarros con los que ganar mucho dinero en internet</a></h4>
     <a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/negocios-bizarros-3280959.jpg?tf=1200x' alt='Los negocios más bizarros con los que ganar mucho dinero en internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424'>Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada</a></h4>
-    <a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arnold-schwarzenegger-alimentacion-3280918.jpg?tf=1200x' alt='Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada' />
     </a>
 </div>
 
