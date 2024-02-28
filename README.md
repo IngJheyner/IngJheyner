@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412'>Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-llegada-publicidad-limitada-todo-contenido-1368368'>Amazon Prime Video anuncia la llegada de publicidad a todo su contenido</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-llegada-publicidad-limitada-todo-contenido-1368368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-3274033.jpg?tf=1200x' alt='Amazon Prime Video anuncia la llegada de publicidad a todo su contenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779'>Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/bloquear-app-iphone-face-id-contrasena-1367976'>Cómo bloquear cualquier app del iPhone con Face ID o contraseña</a></h4>
     <a href='https://computerhoy.com/apps/bloquear-app-iphone-face-id-contrasena-1367976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/face-id-iphone-3280531.jpg?tf=1200x' alt='Cómo bloquear cualquier app del iPhone con Face ID o contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-todas-curiosidades-ha-dejado-mwc-2024-1367785'>Lo más curioso que he visto en el MWC 2024: del rover de SpaceX que viajará a la Luna al robot cirujano que te operará en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-todas-curiosidades-ha-dejado-mwc-2024-1367785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/curiosidades-mobile-world-congress-mwc-2024-3280560.jpg?tf=1200x' alt='Lo más curioso que he visto en el MWC 2024: del rover de SpaceX que viajará a la Luna al robot cirujano que te operará en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299'>Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas</a></h4>
-    <a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-park-luces-coche-3280651.jpg?tf=1200x' alt='Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas' />
     </a>
 </div>
 
