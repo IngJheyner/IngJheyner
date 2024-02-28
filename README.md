@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330'>Los rebeldes hutíes del Mar Rojo comienzan a atacar los cables submarinos, que transmiten el 17% de Internet </a></h4>
+    <a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rebeldes-mar-rojo-comienzan-atacar-cables-submarinos-transmiten-17-internet-3280710.jpg?tf=1200x' alt='Los rebeldes hutíes del Mar Rojo comienzan a atacar los cables submarinos, que transmiten el 17% de Internet ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311'>Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar</a></h4>
     <a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-reinstalar-3280703.jpg?tf=1200x' alt='Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297'>Netflix no quiere que pagues su suscripción con tu cuenta de Apple</a></h4>
     <a href='https://computerhoy.com/tecnologia/netflix-no-quiere-pagues-suscripcion-cuenta-apple-1368297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/netflix-iphone-3280650.jpg?tf=1200x' alt='Netflix no quiere que pagues su suscripción con tu cuenta de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280'>Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa</a></h4>
-    <a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-cancela-proyecto-coche-electrico-equipo-centrara-desarrollo-ia-generativa-3280648.jpg?tf=1200x' alt='Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa' />
     </a>
 </div>
 
