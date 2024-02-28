@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486'>Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego</a></h4>
+    <a href='https://computerhoy.com/windows/qualcomm-microsoft-abren-puerta-posible-windows-12-cargado-novedades-1368486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/windows-12-3052026.jpg?tf=1200x' alt='Qualcomm y Microsoft abren la puerta a un posible Windows 12 que cambiará las reglas de juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-imagenes-instagram-ordenador-movil-879493'>Cómo descargar vídeos e imágenes de Instagram desde el ordenador o el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-descargar-videos-imagenes-instagram-ordenador-movil-879493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-descargar-videos-imagenes-instagram-ordenador-movil-3280717.jpg?tf=1200x' alt='Cómo descargar vídeos e imágenes de Instagram desde el ordenador o el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357'>Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424'>Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada</a></h4>
     <a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arnold-schwarzenegger-alimentacion-3280918.jpg?tf=1200x' alt='Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/ni-amazon-tan-barato-poco-x6-pro-tiene-rebajaza-aliexpress-plaza-1368370'>Ni en Amazon está tan barato: el POCO X6 Pro tiene rebajaza en AliExpress Plaza</a></h4>
-    <a href='https://computerhoy.com/android/ni-amazon-tan-barato-poco-x6-pro-tiene-rebajaza-aliexpress-plaza-1368370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Ni en Amazon está tan barato: el POCO X6 Pro tiene rebajaza en AliExpress Plaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412'>Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS' />
     </a>
 </div>
 
