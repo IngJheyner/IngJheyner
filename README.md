@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779'>Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/tarjetas-microsd-fijarte-cuales-son-mejores-modelos-1368274'>Tarjetas microSD: en qué fijarte y cuáles son los mejores modelos</a></h4>
     <a href='https://computerhoy.com/android/tarjetas-microsd-fijarte-cuales-son-mejores-modelos-1368274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjeta-microsd-2675089.jpg?tf=1200x' alt='Tarjetas microSD: en qué fijarte y cuáles son los mejores modelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299'>Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas</a></h4>
     <a href='https://computerhoy.com/motor/apple-tira-toalla-coche-electrico-poder-china-tesla-adelantan-1368299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-park-luces-coche-3280651.jpg?tf=1200x' alt='Apple conoce todo lo necesario sobre los coches eléctricos y aun así ha decidido no entrar al mercado: una década de idas y venidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/novedad-chatgpt-confirmada-usuarios-android-1368183'>Así es la gran novedad de ChatGPT confirmada para los usuarios de Android</a></h4>
-    <a href='https://computerhoy.com/moviles/novedad-chatgpt-confirmada-usuarios-android-1368183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/novedad-chatgpt-confirmada-usuarios-android-3280477.jpg?tf=1200x' alt='Así es la gran novedad de ChatGPT confirmada para los usuarios de Android' />
     </a>
 </div>
 
