@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081'>Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-es-ciberresiliencia-1368081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/extorsion-ciberseguridad-3259295.jpg?tf=1200x' alt='Qué es la ciberresiliencia: el término de moda y cómo aplicarlo correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360'>ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-chatgpt-sustituir-google-como-buscador-futuro-1368360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-google-3280919.jpg?tf=1200x' alt='ChatGPT se convierte en una gran preocupación para Google: cada vez más gente lo usa para buscar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357'>Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429'>Los negocios más bizarros con los que ganar mucho dinero en internet</a></h4>
-    <a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/negocios-bizarros-3280959.jpg?tf=1200x' alt='Los negocios más bizarros con los que ganar mucho dinero en internet' />
     </a>
 </div>
 
