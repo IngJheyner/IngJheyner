@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357'>Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-demanda-otro-emulador-switch-codigo-abierto-1368357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3033700.jpg?tf=1200x' alt='Nintendo declara la guerra a Yuzu, el emulador de Switch de código abierto que filtró Zelda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429'>Los negocios más bizarros con los que ganar mucho dinero en internet</a></h4>
+    <a href='https://computerhoy.com/internet/negocios-bizarros-ganar-mucho-dinero-internet-1368429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/negocios-bizarros-3280959.jpg?tf=1200x' alt='Los negocios más bizarros con los que ganar mucho dinero en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424'>Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada</a></h4>
+    <a href='https://computerhoy.com/life/arnold-schwarzenegger-tiene-claro-famoso-arroz-proteinas-1368424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/arnold-schwarzenegger-alimentacion-3280918.jpg?tf=1200x' alt='Arnold Schwarzenegger lo tiene claro y el viral arroz con carne de laboratorio no sirve para nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/ni-amazon-tan-barato-poco-x6-pro-tiene-rebajaza-aliexpress-plaza-1368370'>Ni en Amazon está tan barato: el POCO X6 Pro tiene rebajaza en AliExpress Plaza</a></h4>
+    <a href='https://computerhoy.com/android/ni-amazon-tan-barato-poco-x6-pro-tiene-rebajaza-aliexpress-plaza-1368370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/poco-x6-pro-3274005.jpg?tf=1200x' alt='Ni en Amazon está tan barato: el POCO X6 Pro tiene rebajaza en AliExpress Plaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412'>Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS</a></h4>
     <a href='https://computerhoy.com/google/google-maps-quiere-viajes-facil-nunca-anade-funcion-android-ios-1368412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-maps-app-3268845.jpg?tf=1200x' alt='Google Maps quiere que viajes más fácil que nunca y añade esta función para Android e iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-llegada-publicidad-limitada-todo-contenido-1368368'>Amazon Prime Video anuncia la llegada de publicidad a todo su contenido</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-prime-video-anuncia-llegada-publicidad-limitada-todo-contenido-1368368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-3274033.jpg?tf=1200x' alt='Amazon Prime Video anuncia la llegada de publicidad a todo su contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779'>Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-ataque-google-rebaja-todas-aplicaciones-regala-1tb-nube-quien-compre-1367779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, al ataque contra Google: rebaja todas sus aplicaciones y regala 1TB en la nube a quien las compre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tarjetas-microsd-fijarte-cuales-son-mejores-modelos-1368274'>Tarjetas microSD: en qué fijarte y cuáles son los mejores modelos</a></h4>
-    <a href='https://computerhoy.com/android/tarjetas-microsd-fijarte-cuales-son-mejores-modelos-1368274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/tarjeta-microsd-2675089.jpg?tf=1200x' alt='Tarjetas microSD: en qué fijarte y cuáles son los mejores modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/bloquear-app-iphone-face-id-contrasena-1367976'>Cómo bloquear cualquier app del iPhone con Face ID o contraseña</a></h4>
-    <a href='https://computerhoy.com/apps/bloquear-app-iphone-face-id-contrasena-1367976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/face-id-iphone-3280531.jpg?tf=1200x' alt='Cómo bloquear cualquier app del iPhone con Face ID o contraseña' />
     </a>
 </div>
 
