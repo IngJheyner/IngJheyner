@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330'>Los rebeldes hutíes del Mar Rojo comienzan a atacar los cables submarinos, que transmiten el 17% de Internet </a></h4>
+    <h4><a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330'>Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet </a></h4>
     <a href='https://computerhoy.com/internet/rebeldes-huties-mar-rojo-estan-atacando-cables-submarinos-1368330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rebeldes-mar-rojo-comienzan-atacar-cables-submarinos-transmiten-17-internet-3280710.jpg?tf=1200x' alt='Los rebeldes hutíes del Mar Rojo comienzan a atacar los cables submarinos, que transmiten el 17% de Internet ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rebeldes-mar-rojo-comienzan-atacar-cables-submarinos-transmiten-17-internet-3280710.jpg?tf=1200x' alt='Los rebeldes hutíes del Mar Rojo han atacado cuatro cables submarinos, que transmiten el 17% de Internet ' />
     </a>
 </div>
 
