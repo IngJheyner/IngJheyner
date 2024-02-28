@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311'>Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar</a></h4>
+    <a href='https://computerhoy.com/windows/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-reinstalar-3280703.jpg?tf=1200x' alt='Qué son CHKDSK, SFC y DISM y cómo activarlos para reparar Windows 11 sin reinstalar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/escudo-antipirateria-listas-iptv-expulsa-vpn-italia-1368321'>El escudo antipiratería contra las listas IPTV de Italia está haciendo que las VPN se marchen del país</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/escudo-antipirateria-listas-iptv-expulsa-vpn-italia-1368321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/escudo-antipirateria-listas-iptv-italia-haciendo-vpn-marchen-pais-3280666.jpg?tf=1200x' alt='El escudo antipiratería contra las listas IPTV de Italia está haciendo que las VPN se marchen del país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031'>Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top</a></h4>
     <a href='https://computerhoy.com/tecnologia/cmf-watch-pro-nothing-rebajadisimo-solo-43-euros-miravia-1368031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/cmf-watch-pro-nothing-3250863.jpg?tf=1200x' alt='Nos sorprendió cuando lo probamos y ahora está a precio de locos: el CMF Watch Pro es el reloj barato más top' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280'>Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa</a></h4>
     <a href='https://computerhoy.com/apple/apple-cancela-proyecto-coche-electrico-centrarse-desarrollo-propia-ia-1368280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-cancela-proyecto-coche-electrico-equipo-centrara-desarrollo-ia-generativa-3280648.jpg?tf=1200x' alt='Apple cancela el proyecto de su coche eléctrico: el equipo se centrará en el desarrollo de la IA generativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/apuntan-playstation-5-como-culpables-retraso-2025-nintendo-switch-2-1368296'>Apuntan a PlayStation 5 como uno de los culpables del retraso a 2025 de Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.com/gaming/apuntan-playstation-5-como-culpables-retraso-2025-nintendo-switch-2-1368296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/jugando-nintendo-switch-2682063.jpg?tf=1200x' alt='Apuntan a PlayStation 5 como uno de los culpables del retraso a 2025 de Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174'>¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/seguridad-social-no-cobra-estos-servicios-estafa-1368174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/seguridad-social-no-cobra-estos-servicios-estafa-3280458.jpg?tf=1200x' alt='¡No piques! La Seguridad Social no cobra por estos servicios, es una estafa' />
     </a>
 </div>
 
