@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejores-equivalencias-perfumes-colonias-mercadona-lidl-zara-aldi-1368255'>Las mejores equivalencias de los perfumes y colonias de Mercadona, Lidl, Zara y Aldi</a></h4>
+    <a href='https://computerhoy.com/life/mejores-equivalencias-perfumes-colonias-mercadona-lidl-zara-aldi-1368255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-equivalencias-perfumes-colonias-mercadona-lidl-zara-aldi-3280626.jpg?tf=1200x' alt='Las mejores equivalencias de los perfumes y colonias de Mercadona, Lidl, Zara y Aldi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-routers-wifi-4g-puedes-comprar-ahora-mismo-591363'>Los mejores routers WiFi 4G que puedes comprar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/listas/tecnologia/estos-son-mejores-routers-wifi-4g-puedes-comprar-ahora-mismo-591363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tp-link-archer-mr550-3281272.jpg?tf=1200x' alt='Los mejores routers WiFi 4G que puedes comprar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/truco-limpiar-freidora-aire-facil-1367391'>El truco viral para limpiar tu freidora de aire y dejarla como nueva sin mover un solo dedo</a></h4>
     <a href='https://computerhoy.com/life/truco-limpiar-freidora-aire-facil-1367391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/limpiar-freidora-aire-3281079.jpg?tf=1200x' alt='El truco viral para limpiar tu freidora de aire y dejarla como nueva sin mover un solo dedo' />
@@ -58,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555'>Adiós MWC 24: cómo ha cambiado de una feria históricamente centrada en producto a una de telecos</a></h4>
+    <h4><a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555'>Adiós MWC 2024: cómo ha pasado de ser una feria que históricamente estaba centrada en producto a una de telecos</a></h4>
     <a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mobile-world-congress-3281128.jpg?tf=1200x' alt='Adiós MWC 24: cómo ha cambiado de una feria históricamente centrada en producto a una de telecos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mobile-world-congress-3281128.jpg?tf=1200x' alt='Adiós MWC 2024: cómo ha pasado de ser una feria que históricamente estaba centrada en producto a una de telecos' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463'>¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio</a></h4>
     <a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-matematicas-3280973.jpg?tf=1200x' alt='¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368669'>¿Qué día es hoy 29 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3281267.jpg?tf=1200x' alt='¿Qué día es hoy 29 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504'>Mejores relojes con llamadas: estos modelos tienen SIM</a></h4>
-    <a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Mejores relojes con llamadas: estos modelos tienen SIM' />
     </a>
 </div>
 
