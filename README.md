@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980'>Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-3281728.jpg?tf=1200x' alt='Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105'>Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acemagic-ad08-3280314.jpg?tf=1200x' alt='Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503'>5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dead-or-alive-3281469.jpg?tf=1200x' alt='5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915'>Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas</a></h4>
-    <a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ea-sports-wrc-3275719.jpg?tf=1200x' alt='Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas' />
     </a>
 </div>
 
