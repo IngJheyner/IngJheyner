@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-saber-precio-piso-alquiler-estafa-no-1368769'>Cómo saber si el precio de tu piso de alquiler es una estafa o no</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-precio-piso-alquiler-estafa-no-1368769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/precios-alquiler-estafas-3281440.jpg?tf=1200x' alt='Cómo saber si el precio de tu piso de alquiler es una estafa o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pierde-millones-fallos-gemini-pero-teoria-conspiracion-afirma-todo-estaba-pactado-1368727'>Google pierde millones por los fallos de Gemini, pero esta teoría de la conspiración afirma que todo estaba pactado</a></h4>
     <a href='https://computerhoy.com/google/google-pierde-millones-fallos-gemini-pero-teoria-conspiracion-afirma-todo-estaba-pactado-1368727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-3281409.jpg?tf=1200x' alt='Google pierde millones por los fallos de Gemini, pero esta teoría de la conspiración afirma que todo estaba pactado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-estaria-preparando-desembarco-120-hz-toda-serie-iphone-17-1368702'>Apple estaría preparando el desembarco de los 120 Hz en toda la serie de iPhone 17</a></h4>
     <a href='https://computerhoy.com/apple/apple-estaria-preparando-desembarco-120-hz-toda-serie-iphone-17-1368702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-iphone-tasa-refresco-3281334.jpg?tf=1200x' alt='Apple estaría preparando el desembarco de los 120 Hz en toda la serie de iPhone 17' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-niveles-nunca-vistos-regala-cuatro-meses-1368094'>Esta VPN la lía y rebaja a 2 euros por mes su suscripción, y te da bastante tiempo para arrepentirte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-niveles-nunca-vistos-regala-cuatro-meses-1368094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cyberghost-3279015.jpg?tf=1200x' alt='Esta VPN la lía y rebaja a 2 euros por mes su suscripción, y te da bastante tiempo para arrepentirte' />
     </a>
 </div>
 
