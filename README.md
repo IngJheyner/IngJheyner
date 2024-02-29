@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463'>¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio</a></h4>
+    <a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-matematicas-3280973.jpg?tf=1200x' alt='¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368669'>¿Qué día es hoy 29 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dia-hoy-29-febrero-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3281267.jpg?tf=1200x' alt='¿Qué día es hoy 29 de febrero de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504'>Mejores relojes con llamadas: estos modelos tienen SIM</a></h4>
+    <a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Mejores relojes con llamadas: estos modelos tienen SIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/muchos-grandes-genios-visten-siempre-misma-ropa-1368422'>Steve Jobs, Albert Einstein o Mark Zuckerberg: ¿por qué muchos grandes genios visten siempre la misma ropa?</a></h4>
+    <a href='https://computerhoy.com/life/muchos-grandes-genios-visten-siempre-misma-ropa-1368422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg?tf=1200x' alt='Steve Jobs, Albert Einstein o Mark Zuckerberg: ¿por qué muchos grandes genios visten siempre la misma ropa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657'>SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-3281258.jpg?tf=1200x' alt='SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658'>Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida</a></h4>
-    <a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/llegan-precios-dinamicos-cambian-hora-cadenas-comida-rapida-3281242.jpg?tf=1200x' alt='Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-1368654'>El truco oculto de Gmail que te permite seguir usando tu correo aunque te quedes sin espacio </a></h4>
-    <a href='https://computerhoy.com/apps/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-1368654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='El truco oculto de Gmail que te permite seguir usando tu correo aunque te quedes sin espacio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649'>5 cosas que debes saber antes de cambiar de distro Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-cosas-debes-saber-antes-cambiar-distro-linux-3281245.jpg?tf=1200x' alt='5 cosas que debes saber antes de cambiar de distro Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610'>Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos</a></h4>
-    <a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hoy-29-febrero-otras-curiosidades-anos-bisiestos-3281227.jpg?tf=1200x' alt='Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos' />
     </a>
 </div>
 
