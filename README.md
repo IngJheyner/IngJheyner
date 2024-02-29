@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957'>Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952'>Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas</a></h4>
+    <a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503'>5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dead-or-alive-3281469.jpg?tf=1200x' alt='5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689'>Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas</a></h4>
     <a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nueva-tecnica-utilizan-ladrones-saber-estas-casa-1368758'>Alerta de la Policía Nacional: la nueva técnica que utilizan los ladrones para saber si estás en casa antes de entrar a robar</a></h4>
-    <a href='https://computerhoy.com/life/nueva-tecnica-utilizan-ladrones-saber-estas-casa-1368758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ladron-entrando-casa-3281414.jpg?tf=1200x' alt='Alerta de la Policía Nacional: la nueva técnica que utilizan los ladrones para saber si estás en casa antes de entrar a robar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bancos-utilizar-compartibles-bizum-1368730'>Listado completo de todos los bancos en España compatibles con Bizum</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bancos-utilizar-compartibles-bizum-1368730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacer-bizum-3281456.jpg?tf=1200x' alt='Listado completo de todos los bancos en España compatibles con Bizum' />
     </a>
 </div>
 
