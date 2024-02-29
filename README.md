@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105'>Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acemagic-ad08-3280314.jpg?tf=1200x' alt='Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957'>Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915'>Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas</a></h4>
     <a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ea-sports-wrc-3275719.jpg?tf=1200x' alt='Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689'>Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas' />
     </a>
 </div>
 
