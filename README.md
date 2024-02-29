@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658'>Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida</a></h4>
+    <a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/llegan-precios-dinamicos-cambian-hora-cadenas-comida-rapida-3281242.jpg?tf=1200x' alt='Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-1368654'>El truco oculto de Gmail que te permite seguir usando tu correo aunque te quedes sin espacio </a></h4>
+    <a href='https://computerhoy.com/apps/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-1368654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='El truco oculto de Gmail que te permite seguir usando tu correo aunque te quedes sin espacio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649'>5 cosas que debes saber antes de cambiar de distro Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-cosas-debes-saber-antes-cambiar-distro-linux-3281245.jpg?tf=1200x' alt='5 cosas que debes saber antes de cambiar de distro Linux' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650'>Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estrena-china-primera-serie-animacion-creada-completo-ia-3281222.jpg?tf=1200x' alt='Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639'>¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta</a></h4>
-    <a href='https://computerhoy.com/life/29-febrero-trabajar-gratis-piden-declararlo-dia-fiesta-1368639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/29-febrero-dia-laboral-3281207.jpg?tf=1200x' alt='¿Por qué hay que trabajar gratis el 29 de febrero?: Piden declararlo día de fiesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630'>Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2' />
     </a>
 </div>
 
