@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649'>5 cosas que debes saber antes de cambiar de distro Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cosas-debes-saber-antes-cambiar-distro-linux-1368649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/5-cosas-debes-saber-antes-cambiar-distro-linux-3281245.jpg?tf=1200x' alt='5 cosas que debes saber antes de cambiar de distro Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610'>Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos</a></h4>
+    <a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hoy-29-febrero-otras-curiosidades-anos-bisiestos-3281227.jpg?tf=1200x' alt='Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650'>Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estrena-china-primera-serie-animacion-creada-completo-ia-3281222.jpg?tf=1200x' alt='Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630'>Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2</a></h4>
     <a href='https://computerhoy.com/windows/crece-lista-ordenadores-no-seran-compatibles-windows-11-24h2-1368630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3276365.jpg?tf=1200x' alt='Crece la lista de ordenadores que no serán compatibles con Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-rompe-nuevo-ordenadores-millones-usuarios-1368622'>La última actualización de Windows 11 rompe de nuevo los ordenadores de millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-rompe-nuevo-ordenadores-millones-usuarios-1368622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='La última actualización de Windows 11 rompe de nuevo los ordenadores de millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058'>Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pone-ordenador-5gb-segundo-hace-windows-11-vuele-menos-100-euros-1368058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/wd-sn770-3280206.jpg?tf=1200x' alt='Pone tu ordenador a 5GB por segundo y hace que Windows 11 vuele por menos de 100 euros' />
     </a>
 </div>
 
