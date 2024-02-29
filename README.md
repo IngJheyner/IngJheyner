@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-limpiar-freidora-aire-facil-1367391'>El truco viral para limpiar tu freidora de aire y dejarla como nueva sin mover un solo dedo</a></h4>
+    <a href='https://computerhoy.com/life/truco-limpiar-freidora-aire-facil-1367391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/limpiar-freidora-aire-3281079.jpg?tf=1200x' alt='El truco viral para limpiar tu freidora de aire y dejarla como nueva sin mover un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555'>Adiós MWC 24: cómo ha cambiado de una feria históricamente centrada en producto a una de telecos</a></h4>
+    <a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mobile-world-congress-3281128.jpg?tf=1200x' alt='Adiós MWC 24: cómo ha cambiado de una feria históricamente centrada en producto a una de telecos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463'>¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio</a></h4>
     <a href='https://computerhoy.com/internet/tecnica-sumar-restar-facil-1368463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-matematicas-3280973.jpg?tf=1200x' alt='¡Aún estás a tiempo! La técnica para sumar y restar mucho más efectiva que la que te enseñaron en el colegio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504'>Mejores relojes con llamadas: estos modelos tienen SIM</a></h4>
     <a href='https://computerhoy.com/android/mejores-relojes-llamadas-estos-modelos-tienen-sim-1368504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='Mejores relojes con llamadas: estos modelos tienen SIM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/muchos-grandes-genios-visten-siempre-misma-ropa-1368422'>Steve Jobs, Albert Einstein o Mark Zuckerberg: ¿por qué muchos grandes genios visten siempre la misma ropa?</a></h4>
-    <a href='https://computerhoy.com/life/muchos-grandes-genios-visten-siempre-misma-ropa-1368422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/steve-jobs-albert-einstein-2873385.jpg?tf=1200x' alt='Steve Jobs, Albert Einstein o Mark Zuckerberg: ¿por qué muchos grandes genios visten siempre la misma ropa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657'>SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-3281258.jpg?tf=1200x' alt='SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?' />
     </a>
 </div>
 
