@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-cierto-cada-cuatro-anos-haya-bisiesto-motivo-matematico-vital-hay-detras-1368784'>No es cierto que cada cuatro años haya uno bisiesto y este es el motivo matemático y vital que hay detrás</a></h4>
+    <a href='https://computerhoy.com/life/no-cierto-cada-cuatro-anos-haya-bisiesto-motivo-matematico-vital-hay-detras-1368784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/calendario-febrero-bisiesto-3281463.jpg?tf=1200x' alt='No es cierto que cada cuatro años haya uno bisiesto y este es el motivo matemático y vital que hay detrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-saber-precio-piso-alquiler-estafa-no-1368769'>Cómo saber si el precio de tu piso de alquiler es una estafa o no</a></h4>
     <a href='https://computerhoy.com/life/como-saber-precio-piso-alquiler-estafa-no-1368769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/precios-alquiler-estafas-3281440.jpg?tf=1200x' alt='Cómo saber si el precio de tu piso de alquiler es una estafa o no' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/adios-coche-electrico-hola-inteligencia-artificial-apple-listo-todas-estas-novedades-2024-1368713'>Adiós al coche eléctrico y hola a la inteligencia artificial: Apple listo para todas estas novedades en 2024</a></h4>
     <a href='https://computerhoy.com/apple/adios-coche-electrico-hola-inteligencia-artificial-apple-listo-todas-estas-novedades-2024-1368713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-inteligencia-artificial-3281369.jpg?tf=1200x' alt='Adiós al coche eléctrico y hola a la inteligencia artificial: Apple listo para todas estas novedades en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-estaria-preparando-desembarco-120-hz-toda-serie-iphone-17-1368702'>Apple estaría preparando el desembarco de los 120 Hz en toda la serie de iPhone 17</a></h4>
-    <a href='https://computerhoy.com/apple/apple-estaria-preparando-desembarco-120-hz-toda-serie-iphone-17-1368702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-iphone-tasa-refresco-3281334.jpg?tf=1200x' alt='Apple estaría preparando el desembarco de los 120 Hz en toda la serie de iPhone 17' />
     </a>
 </div>
 
