@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657'>SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-1368657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/skyshowtime-anuncia-subida-precio-pasa-tienes-oferta-50-siempre-3281258.jpg?tf=1200x' alt='SkyShowtime anuncia subida de precio: ¿qué pasa si tienes la oferta del 50% para siempre?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658'>Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida</a></h4>
     <a href='https://computerhoy.com/alimentacion/llegan-precios-dinamicos-cadenas-comida-rapida-1368658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/llegan-precios-dinamicos-cambian-hora-cadenas-comida-rapida-3281242.jpg?tf=1200x' alt='Llegan los precios dinámicos, que cambian según la hora, a las cadenas de comida rápida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610'>Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos</a></h4>
     <a href='https://computerhoy.com/ciencia/hoy-29-febrero-otras-curiosidades-anos-bisiestos-1368610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hoy-29-febrero-otras-curiosidades-anos-bisiestos-3281227.jpg?tf=1200x' alt='Por qué hoy es 29 de febrero y otras curiosidades sobre los años bisiestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650'>Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/estrena-china-primera-serie-animacion-dibujada-inteligencia-artificial-1368650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estrena-china-primera-serie-animacion-creada-completo-ia-3281222.jpg?tf=1200x' alt='Se estrena en la televisión china la primera serie de animación dibujada por una IA, no te pierdas el vídeo' />
     </a>
 </div>
 
