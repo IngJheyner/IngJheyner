@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503'>5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dead-or-alive-3281469.jpg?tf=1200x' alt='5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915'>Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas</a></h4>
+    <a href='https://computerhoy.com/gaming/juego-ea-sports-wrc-no-funciona-29-febrero-1368915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ea-sports-wrc-3275719.jpg?tf=1200x' alt='Si el juego EA Sports WRC no te funciona, échale la culpa al 29 de febrero: la solución de EA provoca risas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689'>Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/barato-drive-dropbox-nas-18tb-solo-pagas-vez-rebajas-1368689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Más barato que Drive y Dropbox: este NAS de hasta 18TB solo lo pagas una vez y está de rebajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nueva-tecnica-utilizan-ladrones-saber-estas-casa-1368758'>Alerta de la Policía Nacional: la nueva técnica que utilizan los ladrones para saber si estás en casa antes de entrar a robar</a></h4>
+    <a href='https://computerhoy.com/life/nueva-tecnica-utilizan-ladrones-saber-estas-casa-1368758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ladron-entrando-casa-3281414.jpg?tf=1200x' alt='Alerta de la Policía Nacional: la nueva técnica que utilizan los ladrones para saber si estás en casa antes de entrar a robar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bancos-utilizar-compartibles-bizum-1368730'>Listado completo de todos los bancos en España compatibles con Bizum</a></h4>
     <a href='https://computerhoy.com/tecnologia/bancos-utilizar-compartibles-bizum-1368730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacer-bizum-3281456.jpg?tf=1200x' alt='Listado completo de todos los bancos en España compatibles con Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555'>Adiós MWC 2024: cómo ha pasado de ser una feria que históricamente estaba centrada en producto a una de telecos</a></h4>
-    <a href='https://computerhoy.com/industria/como-ha-cambiado-mwc-evento-producto-telecos-1368555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mobile-world-congress-3281128.jpg?tf=1200x' alt='Adiós MWC 2024: cómo ha pasado de ser una feria que históricamente estaba centrada en producto a una de telecos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/teorias-conspiracion-1366881'>Estas son las teorías de la conspiración más aceptadas: de ocultar la cura del cáncer a vacunas con microchips</a></h4>
-    <a href='https://computerhoy.com/ciencia/teorias-conspiracion-1366881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teorias-conspiracion-3278275.jpg?tf=1200x' alt='Estas son las teorías de la conspiración más aceptadas: de ocultar la cura del cáncer a vacunas con microchips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hobby-consolas-celebra-30-aniversario-reconociendo-mejor-industria-1368817'>Los Hobby Premios celebran su 30 aniversario reconociendo lo más destacado de la industria del videojuego y del entretenimiento</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hobby-consolas-celebra-30-aniversario-reconociendo-mejor-industria-1368817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/premios-hobby-consolas-2023-3281508.jpg?tf=1200x' alt='Los Hobby Premios celebran su 30 aniversario reconociendo lo más destacado de la industria del videojuego y del entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-tienes-presentar-renta-2023-2024-1368700'>Cómo saber si estás obligado a presentar la declaración de la Renta 2023-2024</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-tienes-presentar-renta-2023-2024-1368700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/renta-2023-2024-3281450.jpg?tf=1200x' alt='Cómo saber si estás obligado a presentar la declaración de la Renta 2023-2024' />
     </a>
 </div>
 
