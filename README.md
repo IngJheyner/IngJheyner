@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hobby-consolas-celebra-30-aniversario-reconociendo-mejor-industria-1368817'>Los Hobby Premios celebran su 30 aniversario reconociendo lo más destacado de la industria del videojuego y del entretenimiento</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hobby-consolas-celebra-30-aniversario-reconociendo-mejor-industria-1368817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/premios-hobby-consolas-2023-3281508.jpg?tf=1200x' alt='Los Hobby Premios celebran su 30 aniversario reconociendo lo más destacado de la industria del videojuego y del entretenimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-saber-tienes-presentar-renta-2023-2024-1368700'>Cómo saber si estás obligado a presentar la Renta 2023-2024</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-tienes-presentar-renta-2023-2024-1368700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/renta-2023-2024-3281450.jpg?tf=1200x' alt='Cómo saber si estás obligado a presentar la Renta 2023-2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/no-cierto-cada-cuatro-anos-haya-bisiesto-motivo-matematico-vital-hay-detras-1368784'>No es cierto que cada cuatro años haya uno bisiesto y este es el motivo matemático y vital que hay detrás</a></h4>
     <a href='https://computerhoy.com/life/no-cierto-cada-cuatro-anos-haya-bisiesto-motivo-matematico-vital-hay-detras-1368784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/calendario-febrero-bisiesto-3281463.jpg?tf=1200x' alt='No es cierto que cada cuatro años haya uno bisiesto y este es el motivo matemático y vital que hay detrás' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-pierde-millones-fallos-gemini-pero-teoria-conspiracion-afirma-todo-estaba-pactado-1368727'>Google pierde millones por los fallos de Gemini, pero esta teoría de la conspiración afirma que todo estaba pactado</a></h4>
     <a href='https://computerhoy.com/google/google-pierde-millones-fallos-gemini-pero-teoria-conspiracion-afirma-todo-estaba-pactado-1368727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-3281409.jpg?tf=1200x' alt='Google pierde millones por los fallos de Gemini, pero esta teoría de la conspiración afirma que todo estaba pactado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/plancha-segundos-mochila-viajas-gadget-30-euros-imprescindible-1368683'>Plancha en segundos y cabe en una mochila: si viajas, este gadget de 30 euros es imprescindible</a></h4>
-    <a href='https://computerhoy.com/hogar/plancha-segundos-mochila-viajas-gadget-30-euros-imprescindible-1368683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/plancha-vertical-fastfurious-4010-vital-3281305.jpg?tf=1200x' alt='Plancha en segundos y cabe en una mochila: si viajas, este gadget de 30 euros es imprescindible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/adios-coche-electrico-hola-inteligencia-artificial-apple-listo-todas-estas-novedades-2024-1368713'>Adiós al coche eléctrico y hola a la inteligencia artificial: Apple listo para todas estas novedades en 2024</a></h4>
-    <a href='https://computerhoy.com/apple/adios-coche-electrico-hola-inteligencia-artificial-apple-listo-todas-estas-novedades-2024-1368713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-inteligencia-artificial-3281369.jpg?tf=1200x' alt='Adiós al coche eléctrico y hola a la inteligencia artificial: Apple listo para todas estas novedades en 2024' />
     </a>
 </div>
 
