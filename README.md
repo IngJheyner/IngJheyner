@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097'>El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/brave-ia-android-3281976.jpg?tf=1200x' alt='El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815'>Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho</a></h4>
     <a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-tinker-board-3281451.jpg?tf=1200x' alt='Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033'>MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple</a></h4>
     <a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027'>Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible</a></h4>
-    <a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pirateria-dazn-3281827.jpg?tf=1200x' alt='Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible' />
     </a>
 </div>
 
