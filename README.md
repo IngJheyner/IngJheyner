@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103'>Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento</a></h4>
+    <a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-novedades-3281986.jpg?tf=1200x' alt='Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097'>El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/brave-ia-android-3281976.jpg?tf=1200x' alt='El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046'>WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033'>MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple</a></h4>
-    <a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple' />
     </a>
 </div>
 
