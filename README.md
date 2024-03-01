@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815'>Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-tinker-board-3281451.jpg?tf=1200x' alt='Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069'>Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países</a></h4>
+    <a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/facebook-news.jpg?tf=1200x' alt='Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046'>WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033'>MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple</a></h4>
     <a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027'>Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible</a></h4>
     <a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pirateria-dazn-3281827.jpg?tf=1200x' alt='Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-fenix-rebaja-reloj-ultrarresistente-todos-colores-1368768'>Suunto deja KO a los Garmin Fenix: rebaja su reloj ultrarresistente en todos los colores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-fenix-rebaja-reloj-ultrarresistente-todos-colores-1368768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/suunto-9-peak-pro-3281304.jpg?tf=1200x' alt='Suunto deja KO a los Garmin Fenix: rebaja su reloj ultrarresistente en todos los colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024'>Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil</a></h4>
-    <a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-11-novedades-camara-3281825.jpg?tf=1200x' alt='Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738'>¡Ya está en tu quiosco el número 663 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-663-3279939.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 663 de Computer Hoy!' />
     </a>
 </div>
 
