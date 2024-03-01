@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084'>Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199'>Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa</a></h4>
     <a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crea-candado-wifi-10-consejos-red-wifi-segura-casa-3282242.jpg?tf=1200x' alt='Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101'>AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807'>Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental</a></h4>
-    <a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/beneficios-hacer-pereza-cuando-hacer-vago-puede-salvar-salud-mental-3276401.jpg?tf=1200x' alt='Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental' />
     </a>
 </div>
 
