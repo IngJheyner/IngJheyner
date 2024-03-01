@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
+    <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/directsr-superescalado-windows-11-competir-nvidia-intel-amd-1369114'>Microsoft desarrollará su tecnología de superescalado para competir con NVIDIA, Intel y AMD</a></h4>
+    <a href='https://computerhoy.com/windows/directsr-superescalado-windows-11-competir-nvidia-intel-amd-1369114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/superescalado-videojuegos-3282000.jpg?tf=1200x' alt='Microsoft desarrollará su tecnología de superescalado para competir con NVIDIA, Intel y AMD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119'>La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kindle-amazon-color-3282044.jpg?tf=1200x' alt='La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113'>La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno</a></h4>
     <a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ceo-onlyfans-3282005.jpg?tf=1200x' alt='La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103'>Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento</a></h4>
-    <a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-novedades-3281986.jpg?tf=1200x' alt='Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097'>El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/brave-ia-android-3281976.jpg?tf=1200x' alt='El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android' />
     </a>
 </div>
 
