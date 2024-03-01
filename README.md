@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279'>Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón</a></h4>
+    <a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267'>Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pasaria-desatase-guerra-nuclear-terribles-consecuencias-3282275.jpg?tf=1200x' alt='Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197'>Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meta-quest-2-3282187.jpg?tf=1200x' alt='Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269'>Banco Santander confirma que no te han cobrado dos veces, es un error de visualización</a></h4>
     <a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/banco-santander-3282264.jpg?tf=1200x' alt='Banco Santander confirma que no te han cobrado dos veces, es un error de visualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-moneda-curso-legal-levita-video-1369266'>Esta es la primera moneda de curso legal que levita</a></h4>
-    <a href='https://computerhoy.com/life/primera-moneda-curso-legal-levita-video-1369266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709322160305-3282255.jpg?tf=1200x' alt='Esta es la primera moneda de curso legal que levita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268'>DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dazn-3282262.jpg?tf=1200x' alt='DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP' />
     </a>
 </div>
 
