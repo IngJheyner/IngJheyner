@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033'>MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple</a></h4>
+    <a href='https://computerhoy.com/apple/macbook-air-m3-2024-todo-necesita-saber-proxima-generacion-portatiles-apple-1369033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/macbook-air-15-pulgadas-3055844.jpg?tf=1200x' alt='MacBook Air M3 2024: todo lo que necesita saber sobre la próxima generación de portátiles Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027'>Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible</a></h4>
+    <a href='https://computerhoy.com/tv/dazn-mejora-sistemas-seguridad-sera-dificil-piratear-f1-1369027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pirateria-dazn-3281827.jpg?tf=1200x' alt='Piratear los partidos y la F1 de DAZN por IPTV será una misión casi imposible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-fenix-rebaja-reloj-ultrarresistente-todos-colores-1368768'>Suunto deja KO a los Garmin Fenix: rebaja su reloj ultrarresistente en todos los colores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-deja-ko-garmin-fenix-rebaja-reloj-ultrarresistente-todos-colores-1368768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/suunto-9-peak-pro-3281304.jpg?tf=1200x' alt='Suunto deja KO a los Garmin Fenix: rebaja su reloj ultrarresistente en todos los colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024'>Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil</a></h4>
     <a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-11-novedades-camara-3281825.jpg?tf=1200x' alt='Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738'>¡Ya está en tu quiosco el número 663 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-663-3279939.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 663 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/red-campo-futbol-ninos-suspendido-aire-200-metros-altura-1369015'>Una red con forma de campo de fútbol para niños colgando a 200 metros de altura, desata la polémica en China</a></h4>
-    <a href='https://computerhoy.com/life/red-campo-futbol-ninos-suspendido-aire-200-metros-altura-1369015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/red-forma-campo-futbol-ninos-colgando-200-metros-altura-desata-polemica-china-3281778.jpg?tf=1200x' alt='Una red con forma de campo de fútbol para niños colgando a 200 metros de altura, desata la polémica en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-invento-bombilla-1368576'>¿Quién inventó la bombilla? Espera, no respondas tan rápido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-invento-bombilla-1368576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-incandescente-3281504.jpg?tf=1200x' alt='¿Quién inventó la bombilla? Espera, no respondas tan rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529'>Xiaomi TV Stick: cuáles son las mejores alternativas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-3280928.jpg?tf=1200x' alt='Xiaomi TV Stick: cuáles son las mejores alternativas' />
     </a>
 </div>
 
