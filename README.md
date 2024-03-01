@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084'>Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-1255084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Esto es lo que sabemos de Nintendo Switch Pro / Switch 2: características, precio y fecha de lanzamiento' />
+    <h4><a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269'>Banco Santander confirma que no te han cobrado dos veces, es un error de visualización</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/banco-santander-3282264.jpg?tf=1200x' alt='Banco Santander confirma que no te han cobrado dos veces, es un error de visualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199'>Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa</a></h4>
-    <a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crea-candado-wifi-10-consejos-red-wifi-segura-casa-3282242.jpg?tf=1200x' alt='Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa' />
+    <h4><a href='https://computerhoy.com/life/primera-moneda-curso-legal-levita-video-1369266'>Esta es la primera moneda de curso legal que levita</a></h4>
+    <a href='https://computerhoy.com/life/primera-moneda-curso-legal-levita-video-1369266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709322160305-3282255.jpg?tf=1200x' alt='Esta es la primera moneda de curso legal que levita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-denuncia-openai-sam-altman-1369243'>Elon Musk inicia otra guerra: denuncia a Sam Altman y OpenAI por actuar como una filial de Microsoft</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-denuncia-openai-sam-altman-1369243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Elon Musk inicia otra guerra: denuncia a Sam Altman y OpenAI por actuar como una filial de Microsoft' />
+    <h4><a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268'>DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dazn-3282262.jpg?tf=1200x' alt='DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/retro-walking-beneficios-caminar-atras-1367830'>Retro-walking, o los beneficios que caminar hacia atrás puede tener para tu salud</a></h4>
-    <a href='https://computerhoy.com/life/retro-walking-beneficios-caminar-atras-1367830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/retro-walking-beneficios-caminar-atras-puede-tener-salud-3279874.jpg?tf=1200x' alt='Retro-walking, o los beneficios que caminar hacia atrás puede tener para tu salud' />
+    <h4><a href='https://computerhoy.com/apps/truco-google-maps-te-ayudara-ahorrar-dinero-viajes-1369259'>El truco oculto de Google Maps que te ayudará a ahorrar dinero en tus viajes por carretera</a></h4>
+    <a href='https://computerhoy.com/apps/truco-google-maps-te-ayudara-ahorrar-dinero-viajes-1369259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-oculto-google-maps-te-ayudara-ahorrar-dinero-viajes-carretera-3282257.jpg?tf=1200x' alt='El truco oculto de Google Maps que te ayudará a ahorrar dinero en tus viajes por carretera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101'>AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/spotify-como-descargar-musica-tu-movil-283453'>Spotify: cómo descargar música en tu móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/spotify-como-descargar-musica-tu-movil-283453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/spotify-como-descargar-musica-movil-3280154.jpg?tf=1200x' alt='Spotify: cómo descargar música en tu móvil' />
     </a>
 </div>
 
