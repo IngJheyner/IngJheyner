@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101'>AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807'>Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental</a></h4>
+    <a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/beneficios-hacer-pereza-cuando-hacer-vago-puede-salvar-salud-mental-3276401.jpg?tf=1200x' alt='Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-posec-como-puede-ayudarte-dia-dia-1368256'>Qué es y cómo funciona el polémico método POSEC para organizarte: ¿sirve realmente para algo?</a></h4>
+    <a href='https://computerhoy.com/life/metodo-posec-como-puede-ayudarte-dia-dia-1368256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodo-posec-como-puede-ayudarte-dia-dia-3280606.jpg?tf=1200x' alt='Qué es y cómo funciona el polémico método POSEC para organizarte: ¿sirve realmente para algo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124'>El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?</a></h4>
     <a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-grande-mundo-parecio-desaparecer-1916-no-podemos-encontrarlo-3282014.jpg?tf=1200x' alt='El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
     <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/directsr-superescalado-windows-11-competir-nvidia-intel-amd-1369114'>Microsoft desarrollará su tecnología de superescalado para competir con NVIDIA, Intel y AMD</a></h4>
-    <a href='https://computerhoy.com/windows/directsr-superescalado-windows-11-competir-nvidia-intel-amd-1369114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/superescalado-videojuegos-3282000.jpg?tf=1200x' alt='Microsoft desarrollará su tecnología de superescalado para competir con NVIDIA, Intel y AMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119'>La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kindle-amazon-color-3282044.jpg?tf=1200x' alt='La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092'>Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes</a></h4>
-    <a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/renfe-abono-gratuito-3281961.jpg?tf=1200x' alt='Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes' />
     </a>
 </div>
 
