@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368987'>¿Qué día es hoy 1 de marzo de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dia-hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3281761.jpg?tf=1200x' alt='¿Qué día es hoy 1 de marzo de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980'>Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas</a></h4>
     <a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-3281728.jpg?tf=1200x' alt='Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952'>Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas</a></h4>
     <a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503'>5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-basadas-videojuegos-nadie-recuerda-1368503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dead-or-alive-3281469.jpg?tf=1200x' alt='5 películas basadas en videojuegos que nadie recuerda, ¿eran tan malas realmente?' />
     </a>
 </div>
 
