@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-aumentar-vida-util-televisor-smar-tv-1366950'>Trucos muy sencillos y fáciles de aplicar con los que puedes aumentar la vida útil de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-aumentar-vida-util-televisor-smar-tv-1366950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/4-sencillos-trucos-puedes-aumentar-vida-util-televisor-3278418.jpg?tf=1200x' alt='Trucos muy sencillos y fáciles de aplicar con los que puedes aumentar la vida útil de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mapa-vinlandia-falsificacion-1368578'>El mapa de Vinlandia, la falsificación que ha engañado al mundo durante décadas</a></h4>
+    <a href='https://computerhoy.com/ciencia/mapa-vinlandia-falsificacion-1368578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mapa-falso-3281472.jpg?tf=1200x' alt='El mapa de Vinlandia, la falsificación que ha engañado al mundo durante décadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-optimiza-rendimiento-pc-1368908'>La función oculta de Windows 11 que optimiza los gráficos y el rendimiento de tu PC en segundos</a></h4>
     <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-optimiza-rendimiento-pc-1368908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funcion-oculta-windows-11-optimiza-graficos-rendimiento-pc-segundos-3281765.jpg?tf=1200x' alt='La función oculta de Windows 11 que optimiza los gráficos y el rendimiento de tu PC en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980'>Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas</a></h4>
     <a href='https://computerhoy.com/pc/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-1368980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/raspberry-pi-cumple-12-anos-supera-60-millones-unidades-vendidas-3281728.jpg?tf=1200x' alt='Raspberry Pi cumple 12 años y supera los 60 millones de unidades vendidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105'>Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-rompe-amazon-intel-core-i9-16gb-ram-precio-movil-gama-media-1368105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/acemagic-ad08-3280314.jpg?tf=1200x' alt='Este Mini PC rompe Amazon: Intel Core i9 y 16GB de RAM a precio de móvil gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957'>Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10' />
     </a>
 </div>
 
