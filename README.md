@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124'>El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-grande-mundo-parecio-desaparecer-1916-no-podemos-encontrarlo-3282014.jpg?tf=1200x' alt='El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
     <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092'>Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes</a></h4>
     <a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/renfe-abono-gratuito-3281961.jpg?tf=1200x' alt='Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113'>La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno</a></h4>
-    <a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ceo-onlyfans-3282005.jpg?tf=1200x' alt='La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno' />
     </a>
 </div>
 
