@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funcion-oculta-windows-11-optimiza-rendimiento-pc-1368908'>La función oculta de Windows 11 que optimiza los gráficos y el rendimiento de tu PC en segundos</a></h4>
+    <a href='https://computerhoy.com/windows/funcion-oculta-windows-11-optimiza-rendimiento-pc-1368908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funcion-oculta-windows-11-optimiza-graficos-rendimiento-pc-segundos-3281765.jpg?tf=1200x' alt='La función oculta de Windows 11 que optimiza los gráficos y el rendimiento de tu PC en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368987'>¿Qué día es hoy 1 de marzo de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1368987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dia-hoy-1-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3281761.jpg?tf=1200x' alt='¿Qué día es hoy 1 de marzo de 2024? Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957'>Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-amplia-lista-negra-dispositivos-todavia-utilizan-windows-10-1368957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/fin-soporte-windows-10-2369043.jpg?tf=1200x' alt='Microsoft amplía la lista negra de dispositivos que todavía utilizan Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952'>Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas</a></h4>
-    <a href='https://computerhoy.com/internet/mensaje-proximamente-veras-cuando-quieras-entrar-web-iptv-contenidos-piratas-1368952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pirateria-iptv-3193798.jpg?tf=1200x' alt='Este es el mensaje que próximamente verás cuando quieras entrar a una web IPTV o de contenidos piratas' />
     </a>
 </div>
 
