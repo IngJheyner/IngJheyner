@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197'>Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meta-quest-2-3282187.jpg?tf=1200x' alt='Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejorar-rendimiento-xbox-series-x-1366357'>Cómo sacar el máximo partido a tu Xbox Series X: Trucos para mejorar su rendimiento</a></h4>
+    <a href='https://computerhoy.com/gaming/mejorar-rendimiento-xbox-series-x-1366357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-sacar-maximo-partido-xbox-series-x-trucos-mejorar-rendimiento-3277434.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Xbox Series X: Trucos para mejorar su rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269'>Banco Santander confirma que no te han cobrado dos veces, es un error de visualización</a></h4>
     <a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/banco-santander-3282264.jpg?tf=1200x' alt='Banco Santander confirma que no te han cobrado dos veces, es un error de visualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268'>DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP</a></h4>
     <a href='https://computerhoy.com/entretenimiento/dazn-sorprende-bajando-precio-antes-comienzo-f1-mundial-motogp-1369268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dazn-3282262.jpg?tf=1200x' alt='DAZN sorprende bajando de precio antes del comienzo de la F1 y el Mundial de MotoGP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-google-maps-te-ayudara-ahorrar-dinero-viajes-1369259'>El truco oculto de Google Maps que te ayudará a ahorrar dinero en tus viajes por carretera</a></h4>
-    <a href='https://computerhoy.com/apps/truco-google-maps-te-ayudara-ahorrar-dinero-viajes-1369259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-oculto-google-maps-te-ayudara-ahorrar-dinero-viajes-carretera-3282257.jpg?tf=1200x' alt='El truco oculto de Google Maps que te ayudará a ahorrar dinero en tus viajes por carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/spotify-como-descargar-musica-tu-movil-283453'>Spotify: cómo descargar música en tu móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/spotify-como-descargar-musica-tu-movil-283453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/spotify-como-descargar-musica-movil-3280154.jpg?tf=1200x' alt='Spotify: cómo descargar música en tu móvil' />
     </a>
 </div>
 
