@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738'>¡Ya está en tu quiosco el número 663 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-663-3279939.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 663 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/red-campo-futbol-ninos-suspendido-aire-200-metros-altura-1369015'>Una red con forma de campo de fútbol para niños colgando a 200 metros de altura, desata la polémica en China</a></h4>
+    <a href='https://computerhoy.com/life/red-campo-futbol-ninos-suspendido-aire-200-metros-altura-1369015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/red-forma-campo-futbol-ninos-colgando-200-metros-altura-desata-polemica-china-3281778.jpg?tf=1200x' alt='Una red con forma de campo de fútbol para niños colgando a 200 metros de altura, desata la polémica en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quien-invento-bombilla-1368576'>¿Quién inventó la bombilla? Espera, no respondas tan rápido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-invento-bombilla-1368576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bombilla-incandescente-3281504.jpg?tf=1200x' alt='¿Quién inventó la bombilla? Espera, no respondas tan rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529'>Xiaomi TV Stick: cuáles son las mejores alternativas</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-3280928.jpg?tf=1200x' alt='Xiaomi TV Stick: cuáles son las mejores alternativas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/trucos-aumentar-espacio-cuenta-gmail-1368325'>Cómo tener más espacio en tu cuenta de Gmail sin necesidad de pagar nada</a></h4>
     <a href='https://computerhoy.com/google/trucos-aumentar-espacio-cuenta-gmail-1368325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-trucos-tener-espacio-cuenta-gmail-3280709.jpg?tf=1200x' alt='Cómo tener más espacio en tu cuenta de Gmail sin necesidad de pagar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-plegables-baratos-hacen-presencia-mobile-world-congress-1368397'>Buenas noticias para los móviles plegables: ya los fabrican hasta las marcas más baratas</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-plegables-baratos-hacen-presencia-mobile-world-congress-1368397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tecno-phanton-v-fold-5g-3280824.jpg?tf=1200x' alt='Buenas noticias para los móviles plegables: ya los fabrican hasta las marcas más baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-aumentar-vida-util-televisor-smar-tv-1366950'>Trucos muy sencillos y fáciles de aplicar con los que puedes aumentar la vida útil de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-aumentar-vida-util-televisor-smar-tv-1366950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/4-sencillos-trucos-puedes-aumentar-vida-util-televisor-3278418.jpg?tf=1200x' alt='Trucos muy sencillos y fáciles de aplicar con los que puedes aumentar la vida útil de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mapa-vinlandia-falsificacion-1368578'>El mapa de Vinlandia, la falsificación que ha engañado al mundo durante décadas</a></h4>
-    <a href='https://computerhoy.com/ciencia/mapa-vinlandia-falsificacion-1368578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mapa-falso-3281472.jpg?tf=1200x' alt='El mapa de Vinlandia, la falsificación que ha engañado al mundo durante décadas' />
     </a>
 </div>
 
