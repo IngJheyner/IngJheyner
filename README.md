@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113'>La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno</a></h4>
+    <a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ceo-onlyfans-3282005.jpg?tf=1200x' alt='La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103'>Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento</a></h4>
     <a href='https://computerhoy.com/google/estas-tres-nuevas-funciones-google-chrome-te-ayudaran-encontrar-buscas-momento-1369103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-novedades-3281986.jpg?tf=1200x' alt='Estas tres nuevas funciones de Google Chrome te ayudarán a encontrar lo que buscas al momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069'>Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países</a></h4>
     <a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/facebook-news.jpg?tf=1200x' alt='Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046'>WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-anadira-funcion-podria-disparar-spam-estafas-1369046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp abre la puerta a la interoperabilidad entre otras aplicaciones: podría dispararse el spam y las estafas' />
     </a>
 </div>
 
