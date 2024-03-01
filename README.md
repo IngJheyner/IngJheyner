@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024'>Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil</a></h4>
+    <a href='https://computerhoy.com/windows/odias-calidad-webcam-windows-11-te-permitira-usar-movil-1369024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-11-novedades-camara-3281825.jpg?tf=1200x' alt='Si odias la calidad de tu webcam, tranquilo, Windows 11 te permitirá usar tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738'>¡Ya está en tu quiosco el número 663 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-663-computer-hoy-1366738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/computer-hoy-663-3279939.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 663 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529'>Xiaomi TV Stick: cuáles son las mejores alternativas</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tv-stick-cuales-son-mejores-alternativas-1368529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-stick-3280928.jpg?tf=1200x' alt='Xiaomi TV Stick: cuáles son las mejores alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/trucos-aumentar-espacio-cuenta-gmail-1368325'>Cómo tener más espacio en tu cuenta de Gmail sin necesidad de pagar nada</a></h4>
-    <a href='https://computerhoy.com/google/trucos-aumentar-espacio-cuenta-gmail-1368325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-trucos-tener-espacio-cuenta-gmail-3280709.jpg?tf=1200x' alt='Cómo tener más espacio en tu cuenta de Gmail sin necesidad de pagar nada' />
     </a>
 </div>
 
