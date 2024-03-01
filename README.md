@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119'>La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-preparando-kindle-todo-color-2025-1369119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kindle-amazon-color-3282044.jpg?tf=1200x' alt='La espera llega a su fin: Amazon está preparando un Kindle a todo color para 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092'>Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes</a></h4>
+    <a href='https://computerhoy.com/life/funcionan-nuevas-medidas-antifraude-renfe-abonos-avant-1369092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/renfe-abono-gratuito-3281961.jpg?tf=1200x' alt='Estas son las medidas antifraude que aplicará Renfe en los abonos Avant desde este viernes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113'>La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno</a></h4>
     <a href='https://computerhoy.com/internet/ceo-onlyfans-cansada-estigma-plataforma-vea-solo-como-espacio-porno-1369113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ceo-onlyfans-3282005.jpg?tf=1200x' alt='La CEO de OnlyFans cansada del estigma y que su plataforma se vea solo como un espacio porno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097'>El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/navegador-centrado-privacidad-brave-lleva-ia-estilo-chatgpt-dispositivos-android-1369097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/brave-ia-android-3281976.jpg?tf=1200x' alt='El navegador centrado en privacidad Brave lleva su IA estilo ChatGPT a dispositivos Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815'>Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tres-veces-potente-raspberry-pi-mini-pc-asus-8gb-ram-supera-mucho-1368815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/asus-tinker-board-3281451.jpg?tf=1200x' alt='Tres veces más potente que Raspberry Pi: este Mini PC de ASUS con hasta 8GB de RAM la supera por mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069'>Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países</a></h4>
-    <a href='https://computerhoy.com/apps/meta-quiere-acabar-noticias-red-social-anuncia-fin-facebook-news-paises-1369069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/facebook-news.jpg?tf=1200x' alt='Meta quiere acabar con las noticias en su red social y anuncia el fin de Facebook News en más países' />
     </a>
 </div>
 
