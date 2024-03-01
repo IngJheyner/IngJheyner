@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199'>Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa</a></h4>
+    <a href='https://computerhoy.com/redes/crea-candado-wifi-10-consejos-red-wifi-segura-1369199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crea-candado-wifi-10-consejos-red-wifi-segura-casa-3282242.jpg?tf=1200x' alt='Crea un candado para tu WiFi: 10 consejos para una red WiFi más segura en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-denuncia-openai-sam-altman-1369243'>Elon Musk inicia otra guerra: denuncia a Sam Altman y OpenAI por actuar como una filial de Microsoft</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-denuncia-openai-sam-altman-1369243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Elon Musk inicia otra guerra: denuncia a Sam Altman y OpenAI por actuar como una filial de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/retro-walking-beneficios-caminar-atras-1367830'>Retro-walking, o los beneficios que caminar hacia atrás puede tener para tu salud</a></h4>
+    <a href='https://computerhoy.com/life/retro-walking-beneficios-caminar-atras-1367830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/retro-walking-beneficios-caminar-atras-puede-tener-salud-3279874.jpg?tf=1200x' alt='Retro-walking, o los beneficios que caminar hacia atrás puede tener para tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101'>AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-pega-bombazo-choice-day-marzo-cupones-chollos-top-no-puedes-perderte-1369101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='AliExpress pega el bombazo en el Choice Day de marzo: cupones y chollos top que no puedes perderte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807'>Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental</a></h4>
     <a href='https://computerhoy.com/life/demuestran-beneficios-pereza-hacer-vago-ser-productivo-1365807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/beneficios-hacer-pereza-cuando-hacer-vago-puede-salvar-salud-mental-3276401.jpg?tf=1200x' alt='Beneficios de hacer pereza: cuando “hacer el vago” puede salvar tu salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-posec-como-puede-ayudarte-dia-dia-1368256'>Qué es y cómo funciona el polémico método POSEC para organizarte: ¿sirve realmente para algo?</a></h4>
-    <a href='https://computerhoy.com/life/metodo-posec-como-puede-ayudarte-dia-dia-1368256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/metodo-posec-como-puede-ayudarte-dia-dia-3280606.jpg?tf=1200x' alt='Qué es y cómo funciona el polémico método POSEC para organizarte: ¿sirve realmente para algo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124'>El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-meteorito-chinguetti-1369124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-grande-mundo-parecio-desaparecer-1916-no-podemos-encontrarlo-3282014.jpg?tf=1200x' alt='El meteorito más grande del mundo pareció desaparecer en 1916: ¿por qué no podemos encontrarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014'>No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal</a></h4>
-    <a href='https://computerhoy.com/tv/no-todos-hdmi-smart-tv-son-iguales-diferente-estas-utilizando-mal-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='No todos los HDMI de tu Smart TV son iguales, uno de ellos es diferente y seguramente lo estás utilizando mal' />
     </a>
 </div>
 
