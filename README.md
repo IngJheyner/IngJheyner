@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150'>Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches</a></h4>
+    <a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hologramas-3d-sensores-lidar-tecnologia-acabara-siempre-pantallas-coches-3278696.jpg?tf=1200x' alt='Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533'>Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057'>¿Qué sucedería si un astronauta falleciera en el espacio?</a></h4>
     <a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sucederia-astronauta-fallece-espacio-3276864.jpg?tf=1200x' alt='¿Qué sucedería si un astronauta falleciera en el espacio?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260'>Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escaner-iris-3281904.jpg?tf=1200x' alt='Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-fitbit-barato-baja-precio-pone-amazon-patas-arriba-1366544'>El reloj Fitbit más barato baja más de precio y pone Amazon patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-fitbit-barato-baja-precio-pone-amazon-patas-arriba-1366544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fitbit-versa-3-3277754.jpg?tf=1200x' alt='El reloj Fitbit más barato baja más de precio y pone Amazon patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135'>Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra</a></h4>
-    <a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/historial-ubicacion-google-3278109.jpg?tf=1200x' alt='Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra' />
     </a>
 </div>
 
