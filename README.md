@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379'>Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste</a></h4>
+    <a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390'>Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quiere-decir-cada-emoticono-verdadero-significado-emoji-corazon-morado-3279184.jpg?tf=1200x' alt='Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372'>Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927'>6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-peliculas-anos-90-cambiaron-cine-terror-siempre-siguen-dando-miedo-3281666.jpg?tf=1200x' alt='6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357'>Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días</a></h4>
-    <a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551'>Códigos de error de una lavadora LG y su solución</a></h4>
-    <a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-error-lavadora-lg-solucion-3281149.jpg?tf=1200x' alt='Códigos de error de una lavadora LG y su solución' />
     </a>
 </div>
 
