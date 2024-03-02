@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551'>Códigos de error de una lavadora LG y su solución</a></h4>
+    <a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-error-lavadora-lg-solucion-3281149.jpg?tf=1200x' alt='Códigos de error de una lavadora LG y su solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335'>Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/oculus-quest-2-2248535.jpg?tf=1200x' alt='Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-sitios-crear-pagina-web-gratis-1367407'>Los 10 mejores sitios para crear tu propia página web gratis</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-sitios-crear-pagina-web-gratis-1367407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-mejores-sitios-crear-web-gratis-3279223.jpg?tf=1200x' alt='Los 10 mejores sitios para crear tu propia página web gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150'>Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches</a></h4>
     <a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hologramas-3d-sensores-lidar-tecnologia-acabara-siempre-pantallas-coches-3278696.jpg?tf=1200x' alt='Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533'>Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar</a></h4>
     <a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057'>¿Qué sucedería si un astronauta falleciera en el espacio?</a></h4>
-    <a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sucederia-astronauta-fallece-espacio-3276864.jpg?tf=1200x' alt='¿Qué sucedería si un astronauta falleciera en el espacio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081'>¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo</a></h4>
-    <a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/steve-jobs-koumponofobia-3281999.jpg?tf=1200x' alt='¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260'>Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escaner-iris-3281904.jpg?tf=1200x' alt='Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?' />
     </a>
 </div>
 
