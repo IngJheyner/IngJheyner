@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615'>Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adaptador-inalambrico-carlinkit-40-3249526.jpg?tf=1200x' alt='Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403'>El error de Android Auto que congela la pantalla de tu nuevo móvil</a></h4>
     <a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='El error de Android Auto que congela la pantalla de tu nuevo móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273'>La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-t60-3278779.jpg?tf=1200x' alt='La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379'>Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste</a></h4>
-    <a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste' />
     </a>
 </div>
 
