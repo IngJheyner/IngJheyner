@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057'>¿Qué sucedería si un astronauta falleciera en el espacio?</a></h4>
+    <a href='https://computerhoy.com/ciencia/sucederia-astronauta-falleciese-algun-lugar-espacio-1366057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sucederia-astronauta-fallece-espacio-3276864.jpg?tf=1200x' alt='¿Qué sucedería si un astronauta falleciera en el espacio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081'>¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo</a></h4>
     <a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/steve-jobs-koumponofobia-3281999.jpg?tf=1200x' alt='¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135'>Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra</a></h4>
     <a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/historial-ubicacion-google-3278109.jpg?tf=1200x' alt='Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794'>Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto</a></h4>
-    <a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejorar-wifi-casa-consejos-como-analista-3272343.jpg?tf=1200x' alt='Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto' />
     </a>
 </div>
 
