@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291'>Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?</a></h4>
+    <a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/festival-japones-celebra-hace-300-anos-maldice-todo-contempla-te-atreves-ver-video-3282300.jpg?tf=1200x' alt='Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-liquidando-aspiradora-v11-tiene-100eu-descuento-forma-temporal-1369228'>Dyson está liquidando su aspiradora V11: tiene 100€ de descuento de forma temporal</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-liquidando-aspiradora-v11-tiene-100eu-descuento-forma-temporal-1369228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dyson-v11-3282227.jpg?tf=1200x' alt='Dyson está liquidando su aspiradora V11: tiene 100€ de descuento de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283'>El grave error que cometes con Google Maps al entrar en un edificio: apagarlo</a></h4>
     <a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grave-error-cometes-google-maps-entrar-edificio-apagarlo-3282294.jpg?tf=1200x' alt='El grave error que cometes con Google Maps al entrar en un edificio: apagarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/googol-googolplex-cual-numero-grande-existe-1369280'>Googol o Googolplex: ¿Cuál es el número más grande que existe?</a></h4>
     <a href='https://computerhoy.com/internet/googol-googolplex-cual-numero-grande-existe-1369280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/googol-googolplex-cual-numero-grande-existe-3282285.jpg?tf=1200x' alt='Googol o Googolplex: ¿Cuál es el número más grande que existe?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279'>Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón</a></h4>
-    <a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267'>Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pasaria-desatase-guerra-nuclear-terribles-consecuencias-3282275.jpg?tf=1200x' alt='Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias' />
     </a>
 </div>
 
