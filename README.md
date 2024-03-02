@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369'>Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa</a></h4>
+    <a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ingeniero-usa-nuevas-apple-vision-pro-boda-3282393.jpg?tf=1200x' alt='Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927'>6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-peliculas-anos-90-cambiaron-cine-terror-siempre-siguen-dando-miedo-3281666.jpg?tf=1200x' alt='6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357'>Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días</a></h4>
     <a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335'>Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/oculus-quest-2-2248535.jpg?tf=1200x' alt='Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-sitios-crear-pagina-web-gratis-1367407'>Los 10 mejores sitios para crear tu propia página web gratis</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-sitios-crear-pagina-web-gratis-1367407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/10-mejores-sitios-crear-web-gratis-3279223.jpg?tf=1200x' alt='Los 10 mejores sitios para crear tu propia página web gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150'>Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches</a></h4>
-    <a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hologramas-3d-sensores-lidar-tecnologia-acabara-siempre-pantallas-coches-3278696.jpg?tf=1200x' alt='Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches' />
     </a>
 </div>
 
