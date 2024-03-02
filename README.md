@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395'>Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-3282431.jpg?tf=1200x' alt='Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273'>La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-t60-3278779.jpg?tf=1200x' alt='La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379'>Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste</a></h4>
     <a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372'>Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369'>Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa</a></h4>
-    <a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ingeniero-usa-nuevas-apple-vision-pro-boda-3282393.jpg?tf=1200x' alt='Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927'>6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-anos-90-cambiaron-cine-terror-1368927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-peliculas-anos-90-cambiaron-cine-terror-siempre-siguen-dando-miedo-3281666.jpg?tf=1200x' alt='6 películas de los años 90 que cambiaron el cine de terror para siempre (y siguen dando miedo)' />
     </a>
 </div>
 
