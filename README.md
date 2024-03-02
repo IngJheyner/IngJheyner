@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396'>Toyota prueba un coche capaz de absorber CO2 mientras se conduce</a></h4>
+    <a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/toyota-piensa-coche-capaz-absorber-co2-atmosfera-mientras-conduce-3282433.jpg?tf=1200x' alt='Toyota prueba un coche capaz de absorber CO2 mientras se conduce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395'>Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos</a></h4>
     <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-3282431.jpg?tf=1200x' alt='Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390'>Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quiere-decir-cada-emoticono-verdadero-significado-emoji-corazon-morado-3279184.jpg?tf=1200x' alt='Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372'>Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone' />
     </a>
 </div>
 
