@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081'>¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo</a></h4>
+    <a href='https://computerhoy.com/life/koumponofobia-miedo-botones-steve-jobs-1369081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/steve-jobs-koumponofobia-3281999.jpg?tf=1200x' alt='¿Qué es la koumponofobia o miedo a los botones? La extraña manía de Steve Jobs que cambió el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260'>Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escaner-iris-3281904.jpg?tf=1200x' alt='Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794'>Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto</a></h4>
     <a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejorar-wifi-casa-consejos-como-analista-3272343.jpg?tf=1200x' alt='Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291'>Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?</a></h4>
-    <a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/festival-japones-celebra-hace-300-anos-maldice-todo-contempla-te-atreves-ver-video-3282300.jpg?tf=1200x' alt='Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?' />
     </a>
 </div>
 
