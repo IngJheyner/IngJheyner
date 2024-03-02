@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403'>El error de Android Auto que congela la pantalla de tu nuevo móvil</a></h4>
+    <a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='El error de Android Auto que congela la pantalla de tu nuevo móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396'>Toyota prueba un coche capaz de absorber CO2 mientras se conduce</a></h4>
     <a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/toyota-piensa-coche-capaz-absorber-co2-atmosfera-mientras-conduce-3282433.jpg?tf=1200x' alt='Toyota prueba un coche capaz de absorber CO2 mientras se conduce' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379'>Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste</a></h4>
     <a href='https://computerhoy.com/android/google-quiere-hacer-mucho-estable-webview-android-15-consiste-1369379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/persona-usando-movil-android-3270095.jpg?tf=1200x' alt='Google quiere hacer mucho más estable WebView en Android 15 y en esto consiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390'>Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdadero-significado-emoji-corazon-morado-1367390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quiere-decir-cada-emoticono-verdadero-significado-emoji-corazon-morado-3279184.jpg?tf=1200x' alt='Qué quiere decir cada emoticono: el verdadero significado del emoji del corazón morado' />
     </a>
 </div>
 
