@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372'>Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-quiso-copiar-samsung-hora-disenar-primer-iphone-1369372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sorprendente-peticion-steve-jobs-presentar-iphone-hubiera-sido-humillacion-hoy-dia-3235970.jpg?tf=1200x' alt='Steve Jobs quiso "copiar" a Samsung a la hora de diseñar el primer iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369'>Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa</a></h4>
     <a href='https://computerhoy.com/apple/ingeniero-usa-nuevas-apple-vision-pro-boda-disgusto-esposa-1369369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ingeniero-usa-nuevas-apple-vision-pro-boda-3282393.jpg?tf=1200x' alt='Un ingeniero usa sus nuevas Apple Vision Pro en su boda, para disgusto de su esposa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551'>Códigos de error de una lavadora LG y su solución</a></h4>
     <a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-error-lavadora-lg-solucion-3281149.jpg?tf=1200x' alt='Códigos de error de una lavadora LG y su solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335'>Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-eliminara-todas-cuentas-oculus-tan-solo-dias-te-ofrecen-unica-solucion-1369335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/oculus-quest-2-2248535.jpg?tf=1200x' alt='Meta eliminará todas las cuentas de Oculus en tan solo unos días y te ofrecen una única solución' />
     </a>
 </div>
 
