@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260'>Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/worldcoin-datos-biometricos-criptomonedas-1368260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escaner-iris-3281904.jpg?tf=1200x' alt='Miles de jóvenes en España se unen a la locura de Worldcoin: ¿Estás seguro de ceder tus datos biométricos por 100 euros en criptomonedas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-fitbit-barato-baja-precio-pone-amazon-patas-arriba-1366544'>El reloj Fitbit más barato baja más de precio y pone Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-fitbit-barato-baja-precio-pone-amazon-patas-arriba-1366544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fitbit-versa-3-3277754.jpg?tf=1200x' alt='El reloj Fitbit más barato baja más de precio y pone Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135'>Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra</a></h4>
+    <a href='https://computerhoy.com/google/google-sabe-todos-movimientos-mapa-1366135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/historial-ubicacion-google-3278109.jpg?tf=1200x' alt='Me siento perseguida: Google sabe todos mis movimientos y este mapa así lo demuestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794'>Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto</a></h4>
     <a href='https://computerhoy.com/internet/consejos-mejorar-wifi-casa-opciones-como-experto-1362794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejorar-wifi-casa-consejos-como-analista-3272343.jpg?tf=1200x' alt='Consejos para mejorar la señal WiFi de toda tu casa: las opciones que recomiendo como experto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291'>Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?</a></h4>
     <a href='https://computerhoy.com/life/festival-japones-maldice-todo-contempla-te-atreves-ver-video-1369291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/festival-japones-celebra-hace-300-anos-maldice-todo-contempla-te-atreves-ver-video-3282300.jpg?tf=1200x' alt='Un festival japonés que se celebra desde hace 300 años, maldice a todo el que lo contempla: ¿te atreves a ver el vídeo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-liquidando-aspiradora-v11-tiene-100eu-descuento-forma-temporal-1369228'>Dyson está liquidando su aspiradora V11: tiene 100€ de descuento de forma temporal</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-liquidando-aspiradora-v11-tiene-100eu-descuento-forma-temporal-1369228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dyson-v11-3282227.jpg?tf=1200x' alt='Dyson está liquidando su aspiradora V11: tiene 100€ de descuento de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283'>El grave error que cometes con Google Maps al entrar en un edificio: apagarlo</a></h4>
-    <a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grave-error-cometes-google-maps-entrar-edificio-apagarlo-3282294.jpg?tf=1200x' alt='El grave error que cometes con Google Maps al entrar en un edificio: apagarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286'>2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282292.jpg?tf=1200x' alt='2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
     </a>
 </div>
 
