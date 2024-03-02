@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286'>2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282292.jpg?tf=1200x' alt='2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/googol-googolplex-cual-numero-grande-existe-1369280'>Googol o Googolplex: ¿Cuál es el número más grande que existe?</a></h4>
+    <a href='https://computerhoy.com/internet/googol-googolplex-cual-numero-grande-existe-1369280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/googol-googolplex-cual-numero-grande-existe-3282285.jpg?tf=1200x' alt='Googol o Googolplex: ¿Cuál es el número más grande que existe?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279'>Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón</a></h4>
     <a href='https://computerhoy.com/google/google-nuevo-chromecast-2024-mando-misterioso-boton-1369279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/google-da-nueva-vida-tv-chromecast-mando-rebajado-menos-30-euros-2920048.jpg?tf=1200x' alt='Google está trabajando en un nuevo Chromecast para 2024, y podría llevar un misterioso botón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197'>Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meta-quest-2-3282187.jpg?tf=1200x' alt='Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejorar-rendimiento-xbox-series-x-1366357'>Cómo sacar el máximo partido a tu Xbox Series X: Trucos para mejorar su rendimiento</a></h4>
-    <a href='https://computerhoy.com/gaming/mejorar-rendimiento-xbox-series-x-1366357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-sacar-maximo-partido-xbox-series-x-trucos-mejorar-rendimiento-3277434.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Xbox Series X: Trucos para mejorar su rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269'>Banco Santander confirma que no te han cobrado dos veces, es un error de visualización</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banco-santander-confirma-no-te-han-cobrado-dos-veces-error-visualizacion-1369269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/banco-santander-3282264.jpg?tf=1200x' alt='Banco Santander confirma que no te han cobrado dos veces, es un error de visualización' />
     </a>
 </div>
 
