@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357'>Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días</a></h4>
+    <a href='https://computerhoy.com/apple/todo-nuevo-hara-iphone-ios-174-lanza-dias-1369357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-desbloquear-almacenamiento-adicional-mejorar-rendimiento-iphone-3272416.jpg?tf=1200x' alt='Todo lo nuevo que hará tu iPhone con iOS 17.4 que se lanza en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551'>Códigos de error de una lavadora LG y su solución</a></h4>
     <a href='https://computerhoy.com/hogar/codigos-error-lavadora-lg-solucion-1368551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/codigos-error-lavadora-lg-solucion-3281149.jpg?tf=1200x' alt='Códigos de error de una lavadora LG y su solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150'>Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches</a></h4>
     <a href='https://computerhoy.com/motor/tecnologia-acabara-siempre-pantallas-coches-1367150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hologramas-3d-sensores-lidar-tecnologia-acabara-siempre-pantallas-coches-3278696.jpg?tf=1200x' alt='Hologramas 3D y sensores LiDAR, la tecnología que acabará para siempre con las pantallas de los coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533'>Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/datos-800-mb-segundo-ssd-externo-tumba-precio-va-agotar-1366533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='Tus datos a 800 MB por segundo: este SSD externo tumba su precio y se va a agotar' />
     </a>
 </div>
 
