@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283'>El grave error que cometes con Google Maps al entrar en un edificio: apagarlo</a></h4>
+    <a href='https://computerhoy.com/apps/error-cometes-google-maps-entrar-edificio-apagarlo-1369283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grave-error-cometes-google-maps-entrar-edificio-apagarlo-3282294.jpg?tf=1200x' alt='El grave error que cometes con Google Maps al entrar en un edificio: apagarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286'>2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/2-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282292.jpg?tf=1200x' alt='2 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267'>Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias</a></h4>
     <a href='https://computerhoy.com/tecnologia/pasaria-desatase-guerra-nuclear-terribles-consecuencias-1369267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pasaria-desatase-guerra-nuclear-terribles-consecuencias-3282275.jpg?tf=1200x' alt='Qué pasaría si se desatase una guerra nuclear y sus terribles consecuencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197'>Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diez-veces-baratas-apple-vision-pro-meta-quest-2-revientan-precio-1369197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meta-quest-2-3282187.jpg?tf=1200x' alt='Diez veces más baratas que las Apple Vision Pro: las Meta Quest 2 revientan su precio' />
     </a>
 </div>
 
