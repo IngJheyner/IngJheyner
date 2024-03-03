@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327'>Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuellos-botella-cpu-gpu-son-como-identificarlos-ordenador-3280712.jpg?tf=1200x' alt='Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tienes-conexion-wifi-pero-no-internet-solucion-1368860'>Tienes conexión WiFi, pero no Internet: 10 métodos para solucionarlo en Windows 11</a></h4>
+    <a href='https://computerhoy.com/redes/tienes-conexion-wifi-pero-no-internet-solucion-1368860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tienes-conexion-wifi-pero-no-internet-windows-11-10-metodos-solucionarlo-facilmente-3281640.jpg?tf=1200x' alt='Tienes conexión WiFi, pero no Internet: 10 métodos para solucionarlo en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/impresoras-3d-marcas-modelos-destacados-1368886'>Impresoras 3D para principiantes: marcas y modelos destacados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impresoras-3d-marcas-modelos-destacados-1368886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ankermake-m5c-3281612.jpg?tf=1200x' alt='Impresoras 3D para principiantes: marcas y modelos destacados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258'>Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?</a></h4>
+    <a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cursos-online-3280623.jpg?tf=1200x' alt='Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402'>Convierten basura electrónica en oro</a></h4>
     <a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/convierten-basura-electronica-oro-3282439.jpg?tf=1200x' alt='Convierten basura electrónica en oro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/video-monje-congelado-mientras-medita-himalaya-realidad-ia-1369425'>Un vídeo de un yogui congelado mientras medita en el Himalaya, ¿realidad o IA?</a></h4>
-    <a href='https://computerhoy.com/life/video-monje-congelado-mientras-medita-himalaya-realidad-ia-1369425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-yogui-congelado-mientras-medita-himalaya-realidad-inteligencia-artificial-3282472.jpg?tf=1200x' alt='Un vídeo de un yogui congelado mientras medita en el Himalaya, ¿realidad o IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nb-iot-tecnologia-reina-cientos-industrias-1362080'>¿Qué es NB-IoT y por qué esta tecnología es la reina en cientos de industrias?</a></h4>
-    <a href='https://computerhoy.com/internet/nb-iot-tecnologia-reina-cientos-industrias-1362080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709290221525-3281959.jpg?tf=1200x' alt='¿Qué es NB-IoT y por qué esta tecnología es la reina en cientos de industrias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/llevo-mes-fitbit-charge-6-me-ha-enamorado-monitorizacion-1366709'>Llevo un mes con la Fitbit Charge 6 y más allá de su extrema comodidad me ha entusiasmado su completo sistema de monitorización</a></h4>
-    <a href='https://computerhoy.com/analisis/llevo-mes-fitbit-charge-6-me-ha-enamorado-monitorizacion-1366709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fitbit-charge-6-3278967.jpg?tf=1200x' alt='Llevo un mes con la Fitbit Charge 6 y más allá de su extrema comodidad me ha entusiasmado su completo sistema de monitorización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/proponen-plan-secar-estratosfera-combatir-cambio-climatico-1369404'>Proponen un plan para secar la estratosfera y combatir el cambio climático</a></h4>
-    <a href='https://computerhoy.com/life/proponen-plan-secar-estratosfera-combatir-cambio-climatico-1369404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estratosfera-3282440.jpg?tf=1200x' alt='Proponen un plan para secar la estratosfera y combatir el cambio climático' />
     </a>
 </div>
 
