@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507'>OpenAI responde a la denuncia de Elon Musk: se arrepiente de haberse marchado</a></h4>
+    <h4><a href='https://computerhoy.com/apple/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-1369512'>Apple TV+ añade por sorpresa películas de otras productoras, algunas en 3D, y rompe dos de sus reglas sagradas</a></h4>
+    <a href='https://computerhoy.com/apple/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-1369512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-rompe-dos-reglas-3282638.jpg?tf=1200x' alt='Apple TV+ añade por sorpresa películas de otras productoras, algunas en 3D, y rompe dos de sus reglas sagradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507'>OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='OpenAI responde a la denuncia de Elon Musk: se arrepiente de haberse marchado' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-encontrar-movil-perdido-alexa-1367430'>Cómo encontrar tu móvil perdido en casa con Alexa</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-encontrar-movil-perdido-alexa-1367430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-encontrar-movil-perdido-casa-alexa-3279238.jpg?tf=1200x' alt='Cómo encontrar tu móvil perdido en casa con Alexa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450'>Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025' />
     </a>
 </div>
 
