@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917'>La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/existe-vida-extraterrestre-inteligencia-artificial-1368742'>¿Existe vida extraterrestre? Esta es la razón por la que la inteligencia artificial podría tener la respuesta</a></h4>
+    <a href='https://computerhoy.com/ciencia/existe-vida-extraterrestre-inteligencia-artificial-1368742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hay-vida-extraterrestre-razon-inteligencia-artificial-podria-tener-respuesta-3281399.jpg?tf=1200x' alt='¿Existe vida extraterrestre? Esta es la razón por la que la inteligencia artificial podría tener la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441'>Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764'>Las mejores páginas para descargar fondos de pantalla gratis para Android</a></h4>
     <a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-paginas-descargar-fondos-pantalla-gratis-android-3278178.jpg?tf=1200x' alt='Las mejores páginas para descargar fondos de pantalla gratis para Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327'>Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador</a></h4>
     <a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuellos-botella-cpu-gpu-son-como-identificarlos-ordenador-3280712.jpg?tf=1200x' alt='Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tienes-conexion-wifi-pero-no-internet-solucion-1368860'>Tienes conexión WiFi, pero no Internet: 10 métodos para solucionarlo en Windows 11</a></h4>
-    <a href='https://computerhoy.com/redes/tienes-conexion-wifi-pero-no-internet-solucion-1368860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tienes-conexion-wifi-pero-no-internet-windows-11-10-metodos-solucionarlo-facilmente-3281640.jpg?tf=1200x' alt='Tienes conexión WiFi, pero no Internet: 10 métodos para solucionarlo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impresoras-3d-marcas-modelos-destacados-1368886'>Impresoras 3D para principiantes: marcas y modelos destacados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impresoras-3d-marcas-modelos-destacados-1368886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ankermake-m5c-3281612.jpg?tf=1200x' alt='Impresoras 3D para principiantes: marcas y modelos destacados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258'>Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?</a></h4>
-    <a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cursos-online-3280623.jpg?tf=1200x' alt='Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?' />
     </a>
 </div>
 
