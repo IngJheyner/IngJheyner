@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141'>10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pc-windows-11-3281960.jpg?tf=1200x' alt='10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442'>Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca</a></h4>
+    <a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917'>La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441'>Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764'>Las mejores páginas para descargar fondos de pantalla gratis para Android</a></h4>
-    <a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-paginas-descargar-fondos-pantalla-gratis-android-3278178.jpg?tf=1200x' alt='Las mejores páginas para descargar fondos de pantalla gratis para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327'>Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuellos-botella-cpu-gpu-son-como-identificarlos-ordenador-3280712.jpg?tf=1200x' alt='Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador' />
     </a>
 </div>
 
