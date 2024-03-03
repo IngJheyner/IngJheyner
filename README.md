@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dia-hoy-3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369419'>3 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/dia-hoy-3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282467.jpg?tf=1200x' alt='3 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    <h4><a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402'>Convierten basura electrónica en oro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/convierten-basura-electronica-oro-3282439.jpg?tf=1200x' alt='Convierten basura electrónica en oro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615'>Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adaptador-inalambrico-carlinkit-40-3249526.jpg?tf=1200x' alt='Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato' />
+    <h4><a href='https://computerhoy.com/life/video-monje-congelado-mientras-medita-himalaya-realidad-ia-1369425'>Un vídeo de un yogui congelado mientras medita en el Himalaya, ¿realidad o IA?</a></h4>
+    <a href='https://computerhoy.com/life/video-monje-congelado-mientras-medita-himalaya-realidad-ia-1369425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-yogui-congelado-mientras-medita-himalaya-realidad-inteligencia-artificial-3282472.jpg?tf=1200x' alt='Un vídeo de un yogui congelado mientras medita en el Himalaya, ¿realidad o IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403'>El error de Android Auto que congela la pantalla de tu nuevo móvil</a></h4>
-    <a href='https://computerhoy.com/apps/error-android-auto-congela-pantalla-nuevo-movil-1369403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='El error de Android Auto que congela la pantalla de tu nuevo móvil' />
+    <h4><a href='https://computerhoy.com/internet/nb-iot-tecnologia-reina-cientos-industrias-1362080'>¿Qué es NB-IoT y por qué esta tecnología es la reina en cientos de industrias?</a></h4>
+    <a href='https://computerhoy.com/internet/nb-iot-tecnologia-reina-cientos-industrias-1362080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709290221525-3281959.jpg?tf=1200x' alt='¿Qué es NB-IoT y por qué esta tecnología es la reina en cientos de industrias?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396'>Toyota prueba un coche capaz de absorber CO2 mientras se conduce</a></h4>
-    <a href='https://computerhoy.com/motor/toyota-prueba-coche-capaz-absorber-co2-mientras-conduce-1369396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/toyota-piensa-coche-capaz-absorber-co2-atmosfera-mientras-conduce-3282433.jpg?tf=1200x' alt='Toyota prueba un coche capaz de absorber CO2 mientras se conduce' />
+    <h4><a href='https://computerhoy.com/analisis/llevo-mes-fitbit-charge-6-me-ha-enamorado-monitorizacion-1366709'>Llevo un mes con la Fitbit Charge 6 y más allá de su extrema comodidad me ha entusiasmado su completo sistema de monitorización</a></h4>
+    <a href='https://computerhoy.com/analisis/llevo-mes-fitbit-charge-6-me-ha-enamorado-monitorizacion-1366709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/fitbit-charge-6-3278967.jpg?tf=1200x' alt='Llevo un mes con la Fitbit Charge 6 y más allá de su extrema comodidad me ha entusiasmado su completo sistema de monitorización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395'>Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-3282431.jpg?tf=1200x' alt='Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos' />
+    <h4><a href='https://computerhoy.com/life/proponen-plan-secar-estratosfera-combatir-cambio-climatico-1369404'>Proponen un plan para secar la estratosfera y combatir el cambio climático</a></h4>
+    <a href='https://computerhoy.com/life/proponen-plan-secar-estratosfera-combatir-cambio-climatico-1369404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estratosfera-3282440.jpg?tf=1200x' alt='Proponen un plan para secar la estratosfera y combatir el cambio climático' />
     </a>
 </div>
 
