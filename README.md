@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456'>Windows 11 ya admite USB4 a 80 Gbps</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/window-11-usb4-20-3261748.jpg?tf=1200x' alt='Windows 11 ya admite USB4 a 80 Gbps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-encontrar-movil-perdido-alexa-1367430'>Cómo encontrar tu móvil perdido en casa con Alexa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-encontrar-movil-perdido-alexa-1367430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-encontrar-movil-perdido-casa-alexa-3279238.jpg?tf=1200x' alt='Cómo encontrar tu móvil perdido en casa con Alexa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450'>Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141'>10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pc-windows-11-3281960.jpg?tf=1200x' alt='10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442'>Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca</a></h4>
     <a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917'>La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-incluye-drive-privado-barato-google-1368917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='La VPN con Drive más barata que Google está de oferta y te regala tres meses para un amigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/existe-vida-extraterrestre-inteligencia-artificial-1368742'>¿Existe vida extraterrestre? Esta es la razón por la que la inteligencia artificial podría tener la respuesta</a></h4>
-    <a href='https://computerhoy.com/ciencia/existe-vida-extraterrestre-inteligencia-artificial-1368742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hay-vida-extraterrestre-razon-inteligencia-artificial-podria-tener-respuesta-3281399.jpg?tf=1200x' alt='¿Existe vida extraterrestre? Esta es la razón por la que la inteligencia artificial podría tener la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441'>Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-trabaja-capacidad-generar-dibujos-ia-tiempo-real-aplicacion-paint-1369441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Microsoft trabaja en la capacidad de generar dibujos con IA en tiempo real en la aplicación Paint' />
     </a>
 </div>
 
