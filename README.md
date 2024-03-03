@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507'>OpenAI responde a la denuncia de Elon Musk: se arrepiente de haberse marchado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='OpenAI responde a la denuncia de Elon Musk: se arrepiente de haberse marchado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459'>Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tecnologia-rcs-2891232.jpg?tf=1200x' alt='Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450'>Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-integrar-gemini-todos-telefonos-android-partir-2025-1369450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Google quiere integrar Gemini en todos los teléfonos Android a partir de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141'>10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pc-windows-11-3281960.jpg?tf=1200x' alt='10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11' />
     </a>
 </div>
 
