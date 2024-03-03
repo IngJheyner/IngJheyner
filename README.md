@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524'>La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos, que las GPU de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/maquina-tseltin-promete-entrenar-ia-1000-veces-rapido-10000-veces-ecologico-gpu-nvidia-3282652.jpg?tf=1200x' alt='La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos, que las GPU de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025'>El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin</a></h4>
     <a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazfit-t-rex-2-3281816.jpg?tf=1200x' alt='El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507'>OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459'>Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tecnologia-rcs-2891232.jpg?tf=1200x' alt='Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón' />
     </a>
 </div>
 
