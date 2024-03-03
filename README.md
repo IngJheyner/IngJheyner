@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dia-hoy-3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369419'>3 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/dia-hoy-3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/3-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282467.jpg?tf=1200x' alt='3 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615'>Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/android-auto-carplay-cables-gadget-arrasa-aliexpress-increiblemente-barato-1366615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/adaptador-inalambrico-carlinkit-40-3249526.jpg?tf=1200x' alt='Android Auto y CarPlay, sin cables: este gadget arrasa en AliExpress y es increíblemente barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395'>Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos</a></h4>
     <a href='https://computerhoy.com/apps/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-segundos-1369395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-whatsapp-podras-encontrar-cualquier-mensaje-historial-3282431.jpg?tf=1200x' alt='Con esta nueva función para WhatsApp podrás encontrar cualquier mensaje del historial en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273'>La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-16gb-ram-pone-patas-arriba-aliexpress-50-euros-barata-amazon-1367273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-t60-3278779.jpg?tf=1200x' alt='La tablet de 16GB de RAM que pone patas arriba AliExpress es 50 euros más barata que en Amazon' />
     </a>
 </div>
 
