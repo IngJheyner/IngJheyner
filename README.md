@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459'>Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tecnologia-rcs-2891232.jpg?tf=1200x' alt='Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456'>Windows 11 ya admite USB4 a 80 Gbps</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/window-11-usb4-20-3261748.jpg?tf=1200x' alt='Windows 11 ya admite USB4 a 80 Gbps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141'>10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11</a></h4>
     <a href='https://computerhoy.com/tecnologia/herramientas-saber-estado-pc-windows-11-1368141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pc-windows-11-3281960.jpg?tf=1200x' alt='10 herramientas para comprobar el estado de salud de tu ordenador con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442'>Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca</a></h4>
-    <a href='https://computerhoy.com/android/compartir-contrasenas-chrome-android-familiares-sera-facil-nunca-1369442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Compartir contraseñas de Chrome en Android entre familiares será más fácil que nunca' />
     </a>
 </div>
 
