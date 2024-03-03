@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764'>Las mejores páginas para descargar fondos de pantalla gratis para Android</a></h4>
+    <a href='https://computerhoy.com/android/mejores-paginas-descargar-fondos-pantalla-gratis-android-1366764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejores-paginas-descargar-fondos-pantalla-gratis-android-3278178.jpg?tf=1200x' alt='Las mejores páginas para descargar fondos de pantalla gratis para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327'>Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador</a></h4>
     <a href='https://computerhoy.com/pc/cuellos-botella-cpu-gpu-como-identificarlos-pc-1368327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuellos-botella-cpu-gpu-son-como-identificarlos-ordenador-3280712.jpg?tf=1200x' alt='Cuellos de botella en CPU y GPU: qué son y cómo identificarlos en tu ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258'>Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?</a></h4>
     <a href='https://computerhoy.com/life/cursos-online-gratis-pago-1368258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cursos-online-3280623.jpg?tf=1200x' alt='Llevo un año haciendo cursos online sin parar: ¿sirven realmente de algo o he tirado mi dinero?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402'>Convierten basura electrónica en oro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierten-basura-electronica-oro-1369402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/convierten-basura-electronica-oro-3282439.jpg?tf=1200x' alt='Convierten basura electrónica en oro' />
     </a>
 </div>
 
