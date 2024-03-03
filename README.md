@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025'>El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazfit-t-rex-2-3281816.jpg?tf=1200x' alt='El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520'>Se estrena OldNews, un servicio que recopila periódicos publicados en los últimos 250 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estrena-oldnews-servicio-recopila-periodicos-ultimos-200-anos-3282643.jpg?tf=1200x' alt='Se estrena OldNews, un servicio que recopila periódicos publicados en los últimos 250 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459'>Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/mensajes-google-ya-no-ofrece-mensajeria-rcs-estos-moviles-no-trata-error-1369459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/tecnologia-rcs-2891232.jpg?tf=1200x' alt='Google ya no ofrece mensajería RCS a estos móviles, y esta es su razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456'>Windows 11 ya admite USB4 a 80 Gbps</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ya-admite-usb4-80-gbps-1369456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/window-11-usb4-20-3261748.jpg?tf=1200x' alt='Windows 11 ya admite USB4 a 80 Gbps' />
     </a>
 </div>
 
