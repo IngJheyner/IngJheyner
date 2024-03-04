@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433'>Cómo conectar el móvil a tu Smart TV para compartir la pantalla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/enviar-movil-smart-tv-3283048.jpg?tf=1200x' alt='Cómo conectar el móvil a tu Smart TV para compartir la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287'>Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo</a></h4>
     <a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-secretos-whatsapp-web-2024-te-ahorraran-mucho-tiempo-3282297.jpg?tf=1200x' alt='Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675'>Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas que llega con chip M3</a></h4>
     <a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-macbook-air-13-15-pulgadas-chip-m3-precio-caracteristicas-3283052.jpg?tf=1200x' alt='Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas que llega con chip M3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741'>20 aplicaciones para jugar con tu pareja desde el móvil</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lego-super-mario-peach-2640155.jpg?tf=1200x' alt='20 aplicaciones para jugar con tu pareja desde el móvil' />
     </a>
 </div>
 
