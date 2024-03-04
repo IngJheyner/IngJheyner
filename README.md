@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625'>El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-formas-mejorar-memoria-neurocientifico-1369570'>5 formas de mejorar tu memoria, según un neurocientífico</a></h4>
+    <a href='https://computerhoy.com/life/5-formas-mejorar-memoria-neurocientifico-1369570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/memoria-3202264.jpg?tf=1200x' alt='5 formas de mejorar tu memoria, según un neurocientífico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/herramienta-combatir-crimen-podria-volverse-ti-notificaciones-automaticas-movil-1369618'>Una nueva herramienta para combatir el crimen que podría volverse contra ti: las notificaciones automáticas de tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/herramienta-combatir-crimen-podria-volverse-ti-notificaciones-automaticas-movil-1369618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crimen-digital-3282878.jpg?tf=1200x' alt='Una nueva herramienta para combatir el crimen que podría volverse contra ti: las notificaciones automáticas de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593'>Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado</a></h4>
     <a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546'>7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567'>Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grupo-celulas-3282814.jpg?tf=1200x' alt='Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/video-4k-puede-ubuntu-alternativa-comunitaria-raspberry-pi-desconocida-pero-muy-completa-1369012'>Vídeo 4K y puede con Ubuntu: esta alternativa "comunitaria" a la Raspberry Pi es desconocida pero muy completa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/video-4k-puede-ubuntu-alternativa-comunitaria-raspberry-pi-desconocida-pero-muy-completa-1369012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/libre-computer-board-aml-s905x-cc-potato-3281787.jpg?tf=1200x' alt='Vídeo 4K y puede con Ubuntu: esta alternativa "comunitaria" a la Raspberry Pi es desconocida pero muy completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569'>Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia </a></h4>
-    <a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia ' />
     </a>
 </div>
 
