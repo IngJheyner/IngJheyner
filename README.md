@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567'>Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grupo-celulas-3282814.jpg?tf=1200x' alt='Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/video-4k-puede-ubuntu-alternativa-comunitaria-raspberry-pi-desconocida-pero-muy-completa-1369012'>Vídeo 4K y puede con Ubuntu: esta alternativa "comunitaria" a la Raspberry Pi es desconocida pero muy completa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/video-4k-puede-ubuntu-alternativa-comunitaria-raspberry-pi-desconocida-pero-muy-completa-1369012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/libre-computer-board-aml-s905x-cc-potato-3281787.jpg?tf=1200x' alt='Vídeo 4K y puede con Ubuntu: esta alternativa "comunitaria" a la Raspberry Pi es desconocida pero muy completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569'>Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia </a></h4>
+    <a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942'>La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-p30t-3281667.jpg?tf=1200x' alt='La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961'>He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa</a></h4>
     <a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejores-home-cinema-ver-cine-series-futbol-casa-1369410'>Los mejores home cinema para ver cine, series y fútbol en casa</a></h4>
-    <a href='https://computerhoy.com/audio/mejores-home-cinema-ver-cine-series-futbol-casa-1369410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-ht-s40r-2870973.jpg?tf=1200x' alt='Los mejores home cinema para ver cine, series y fútbol en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-dyson-potentisimo-aspirador-limpia-solo-base-mucho-barato-1369062'>Olvida las Dyson: este potentísimo aspirador se limpia solo en su base y es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-dyson-potentisimo-aspirador-limpia-solo-base-mucho-barato-1369062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cecotec-conga-rockstar-10000-nebula-station-3281854.jpg?tf=1200x' alt='Olvida las Dyson: este potentísimo aspirador se limpia solo en su base y es mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536'>La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches</a></h4>
-    <a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-como-mosquito-parabrisas-ayudo-detener-ladron-coches-3282670.jpg?tf=1200x' alt='La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches' />
     </a>
 </div>
 
