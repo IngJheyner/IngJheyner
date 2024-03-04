@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942'>La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-p30t-3281667.jpg?tf=1200x' alt='La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961'>He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa</a></h4>
     <a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536'>La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches</a></h4>
     <a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-como-mosquito-parabrisas-ayudo-detener-ladron-coches-3282670.jpg?tf=1200x' alt='La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530'>4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
-    <a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282669.jpg?tf=1200x' alt='4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
     </a>
 </div>
 
