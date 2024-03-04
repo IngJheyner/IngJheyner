@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524'>La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos, que las GPU de NVIDIA</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524'>La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/maquina-tseltin-promete-entrenar-ia-1000-veces-rapido-10000-veces-ecologico-gpu-nvidia-3282652.jpg?tf=1200x' alt='La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos, que las GPU de NVIDIA' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/maquina-tseltin-promete-entrenar-ia-1000-veces-rapido-10000-veces-ecologico-gpu-nvidia-3282652.jpg?tf=1200x' alt='La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA' />
     </a>
 </div>
 
