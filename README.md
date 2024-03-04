@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-actualiza-ecosistema-pixel-novedades-tambien-pixel-7-pixel-watch-1369670'>Google actualiza su ecosistema Pixel con novedades también para los Pixel 7 y Pixel Watch</a></h4>
+    <a href='https://computerhoy.com/google/google-actualiza-ecosistema-pixel-novedades-tambien-pixel-7-pixel-watch-1369670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914800.jpg?tf=1200x' alt='Google actualiza su ecosistema Pixel con novedades también para los Pixel 7 y Pixel Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754'>Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid</a></h4>
     <a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-3283204.jpg?tf=1200x' alt='Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433'>Cómo conectar el móvil a tu Smart TV para compartir la pantalla</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/enviar-movil-smart-tv-3283048.jpg?tf=1200x' alt='Cómo conectar el móvil a tu Smart TV para compartir la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287'>Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-secretos-whatsapp-web-2024-te-ahorraran-mucho-tiempo-3282297.jpg?tf=1200x' alt='Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo' />
     </a>
 </div>
 
