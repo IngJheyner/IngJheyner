@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961'>He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa</a></h4>
+    <a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/mejores-home-cinema-ver-cine-series-futbol-casa-1369410'>Los mejores home cinema para ver cine, series y fútbol en casa</a></h4>
+    <a href='https://computerhoy.com/audio/mejores-home-cinema-ver-cine-series-futbol-casa-1369410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/sony-ht-s40r-2870973.jpg?tf=1200x' alt='Los mejores home cinema para ver cine, series y fútbol en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-dyson-potentisimo-aspirador-limpia-solo-base-mucho-barato-1369062'>Olvida las Dyson: este potentísimo aspirador se limpia solo en su base y es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-dyson-potentisimo-aspirador-limpia-solo-base-mucho-barato-1369062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cecotec-conga-rockstar-10000-nebula-station-3281854.jpg?tf=1200x' alt='Olvida las Dyson: este potentísimo aspirador se limpia solo en su base y es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536'>La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches</a></h4>
     <a href='https://computerhoy.com/life/mosquito-parabrisas--detener-ladron-coches-1369536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-como-mosquito-parabrisas-ayudo-detener-ladron-coches-3282670.jpg?tf=1200x' alt='La increíble historia de cómo un mosquito ayudó a detener a un ladrón de coches' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530'>4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
     <a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282669.jpg?tf=1200x' alt='4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524'>La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/maquina-tseltin-promete-entrenar-ia-1000-veces-rapido-10000-veces-ecologico-gpu-nvidia-3282652.jpg?tf=1200x' alt='La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025'>El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-casi-indestructible-hunde-precio-24-dias-bateria-barato-garmin-1369025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazfit-t-rex-2-3281816.jpg?tf=1200x' alt='El smartwatch casi indestructible hunde su precio: 24 días de batería y más barato que un Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520'>Se estrena OldNews, un servicio que recopila millones de periódicos publicados en los últimos 250 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estrena-oldnews-servicio-recopila-periodicos-ultimos-200-anos-3282643.jpg?tf=1200x' alt='Se estrena OldNews, un servicio que recopila millones de periódicos publicados en los últimos 250 años' />
     </a>
 </div>
 
