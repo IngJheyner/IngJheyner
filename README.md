@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287'>Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-secretos-whatsapp-web-2024-te-ahorraran-mucho-tiempo-3282297.jpg?tf=1200x' alt='Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-1369582'>La inteligencia artificial podría devolver a Freddy Mercury a los escenarios... ¡casi 40 años después!</a></h4>
     <a href='https://computerhoy.com/entretenimiento/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-1369582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-3282802.jpg?tf=1200x' alt='La inteligencia artificial podría devolver a Freddy Mercury a los escenarios... ¡casi 40 años después!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741'>20 aplicaciones para jugar con tu pareja desde el móvil</a></h4>
     <a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lego-super-mario-peach-2640155.jpg?tf=1200x' alt='20 aplicaciones para jugar con tu pareja desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643'>Cómo ganar dinero en Internet sin tener que mostrar la cara</a></h4>
-    <a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganar-dinero-anonimato-3282921.jpg?tf=1200x' alt='Cómo ganar dinero en Internet sin tener que mostrar la cara' />
     </a>
 </div>
 
