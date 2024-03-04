@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/alergia-plantas-purificar-aire-casa-1369665'>¿Sufres de alergia? Estas plantas no tienen polen y ayudan a purificar el aire de tu hogar</a></h4>
+    <a href='https://computerhoy.com/life/alergia-plantas-purificar-aire-casa-1369665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sufres-alergia-estas-plantas-no-tienen-polen-ayudan-purificar-aire-hogar-3282938.jpg?tf=1200x' alt='¿Sufres de alergia? Estas plantas no tienen polen y ayudan a purificar el aire de tu hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675'>Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas, que ya llega con el chip M3</a></h4>
+    <a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-macbook-air-13-15-pulgadas-chip-m3-precio-caracteristicas-3283052.jpg?tf=1200x' alt='Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas, que ya llega con el chip M3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741'>20 aplicaciones para jugar con tu pareja desde el móvil</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/aplicaciones-jugar-en-pareja-desde-movil-609741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/lego-super-mario-peach-2640155.jpg?tf=1200x' alt='20 aplicaciones para jugar con tu pareja desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643'>Cómo ganar dinero en Internet sin tener que mostrar la cara</a></h4>
     <a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganar-dinero-anonimato-3282921.jpg?tf=1200x' alt='Cómo ganar dinero en Internet sin tener que mostrar la cara' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625'>El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-formas-mejorar-memoria-neurocientifico-1369570'>5 formas de mejorar tu memoria, según un neurocientífico</a></h4>
-    <a href='https://computerhoy.com/life/5-formas-mejorar-memoria-neurocientifico-1369570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/memoria-3202264.jpg?tf=1200x' alt='5 formas de mejorar tu memoria, según un neurocientífico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/herramienta-combatir-crimen-podria-volverse-ti-notificaciones-automaticas-movil-1369618'>Una nueva herramienta para combatir el crimen que podría volverse contra ti: las notificaciones automáticas de tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/herramienta-combatir-crimen-podria-volverse-ti-notificaciones-automaticas-movil-1369618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crimen-digital-3282878.jpg?tf=1200x' alt='Una nueva herramienta para combatir el crimen que podría volverse contra ti: las notificaciones automáticas de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593'>Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado</a></h4>
-    <a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado' />
     </a>
 </div>
 
