@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754'>Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-3283204.jpg?tf=1200x' alt='Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-series-9-precio-outlet-amazon-acaba-rebajar-70-euros-version-vendida-1369720'>Apple Watch Series 9 a precio de outlet: Amazon acaba de rebajar 70 euros la versión más vendida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-series-9-precio-outlet-amazon-acaba-rebajar-70-euros-version-vendida-1369720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='Apple Watch Series 9 a precio de outlet: Amazon acaba de rebajar 70 euros la versión más vendida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/horas-dormir-productividad-elon-musk-1369060'>Estas son las horas que tienes que dormir para ser productivo, según Elon Musk</a></h4>
+    <a href='https://computerhoy.com/ciencia/horas-dormir-productividad-elon-musk-1369060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-3009470.jpg?tf=1200x' alt='Estas son las horas que tienes que dormir para ser productivo, según Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433'>Cómo conectar el móvil a tu Smart TV para compartir la pantalla</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-compartir-pantalla--movil-smart-tv-1367433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/enviar-movil-smart-tv-3283048.jpg?tf=1200x' alt='Cómo conectar el móvil a tu Smart TV para compartir la pantalla' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287'>Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo</a></h4>
     <a href='https://computerhoy.com/apps/codigos-secretos-whatsapp-web-1369287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-secretos-whatsapp-web-2024-te-ahorraran-mucho-tiempo-3282297.jpg?tf=1200x' alt='Códigos secretos de WhatsApp Web en 2024 que te ahorrarán mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-1369582'>La inteligencia artificial podría devolver a Freddy Mercury a los escenarios... ¡casi 40 años después!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-1369582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inteligencia-artificial-podria-devolver-freddy-mercury-escenarios-3282802.jpg?tf=1200x' alt='La inteligencia artificial podría devolver a Freddy Mercury a los escenarios... ¡casi 40 años después!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/alergia-plantas-purificar-aire-casa-1369665'>¿Sufres de alergia? Estas plantas no tienen polen y ayudan a purificar el aire de tu hogar</a></h4>
-    <a href='https://computerhoy.com/life/alergia-plantas-purificar-aire-casa-1369665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sufres-alergia-estas-plantas-no-tienen-polen-ayudan-purificar-aire-hogar-3282938.jpg?tf=1200x' alt='¿Sufres de alergia? Estas plantas no tienen polen y ayudan a purificar el aire de tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675'>Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas que llega con chip M3</a></h4>
-    <a href='https://computerhoy.com/pc/apple-presenta-nuevo-macbook-air-13-15-pulgadas-chip-m3-1369675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-macbook-air-13-15-pulgadas-chip-m3-precio-caracteristicas-3283052.jpg?tf=1200x' alt='Apple presenta el nuevo MacBook Air de 13 y 15 pulgadas que llega con chip M3' />
     </a>
 </div>
 
