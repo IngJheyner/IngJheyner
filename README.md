@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530'>4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades</a></h4>
+    <a href='https://computerhoy.com/life/hoy-4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-1369530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-marzo-2024-fase-lunar-santoral-dia-mundial-efemerides-curiosidades-3282669.jpg?tf=1200x' alt='4 de marzo de 2024: Fase lunar, santoral, día mundial, efemérides y curiosidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524'>La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA</a></h4>
     <a href='https://computerhoy.com/tecnologia/maquina-tseltin-promete-revolucionar-entrenamiento-ia-1369524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/maquina-tseltin-promete-entrenar-ia-1000-veces-rapido-10000-veces-ecologico-gpu-nvidia-3282652.jpg?tf=1200x' alt='La máquina Tseltin promete entrenar a la IA mil veces más rápido, contaminando 10.000 veces menos que las GPU de NVIDIA' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520'>Se estrena OldNews, un servicio que recopila periódicos publicados en los últimos 250 años</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520'>Se estrena OldNews, un servicio que recopila millones de periódicos publicados en los últimos 250 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/oldnews-recopila-periodicos-ultimos-200-anos-1369520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estrena-oldnews-servicio-recopila-periodicos-ultimos-200-anos-3282643.jpg?tf=1200x' alt='Se estrena OldNews, un servicio que recopila periódicos publicados en los últimos 250 años' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estrena-oldnews-servicio-recopila-periodicos-ultimos-200-anos-3282643.jpg?tf=1200x' alt='Se estrena OldNews, un servicio que recopila millones de periódicos publicados en los últimos 250 años' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-1369512'>Apple TV+ añade por sorpresa películas de otras productoras, algunas en 3D, y rompe dos de sus reglas sagradas</a></h4>
     <a href='https://computerhoy.com/apple/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-1369512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-tv-anade-sorpresa-peliculas-otras-productoras-algunas-3d-rompe-dos-reglas-3282638.jpg?tf=1200x' alt='Apple TV+ añade por sorpresa películas de otras productoras, algunas en 3D, y rompe dos de sus reglas sagradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507'>OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-responde-denuncia-elon-musk-1369507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='OpenAI responde a la denuncia de Elon Musk: "Se arrepiente de haberse marchado"' />
     </a>
 </div>
 
