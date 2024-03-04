@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839'>Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa</a></h4>
+    <a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nintendo-sale-emuladores-yuzu-cintra-cierran-pagaran-24-millones-3283269.jpg?tf=1200x' alt='Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838'>El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-3283278.jpg?tf=1200x' alt='El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818'>Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circuito-electronico-3283259.jpg?tf=1200x' alt='Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-1369790'>El truco de Google Chrome que te permite tener hasta 100 pestañas abiertas sin consumir muchos recursos</a></h4>
     <a href='https://computerhoy.com/google/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-1369790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='El truco de Google Chrome que te permite tener hasta 100 pestañas abiertas sin consumir muchos recursos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-actualiza-ecosistema-pixel-novedades-tambien-pixel-7-pixel-watch-1369670'>Google actualiza su ecosistema Pixel con novedades también para los Pixel 7 y Pixel Watch</a></h4>
-    <a href='https://computerhoy.com/google/google-actualiza-ecosistema-pixel-novedades-tambien-pixel-7-pixel-watch-1369670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/analisis-pixel-7-2914800.jpg?tf=1200x' alt='Google actualiza su ecosistema Pixel con novedades también para los Pixel 7 y Pixel Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754'>Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-1369754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-google-maps-waze-app-obligatoria-quieres-evitar-multas-circular-madrid-3283204.jpg?tf=1200x' alt='Ni Google Maps o Waze, esta es la app obligatoria si quieres evitar multas al circular por Madrid' />
     </a>
 </div>
 
