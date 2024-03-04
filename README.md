@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593'>Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546'>7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567'>Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-dan-respuesta-como-empezo-vida-tierra-1369567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grupo-celulas-3282814.jpg?tf=1200x' alt='Un equipo de científicos da con la respuesta de cómo se formaron las primeras células en la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569'>Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia </a></h4>
     <a href='https://computerhoy.com/internet/piracy-shield-azote-iptv-piratas-bloquea-sitios-error-acusado-falta-transparencia-1369569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/activan-piracy-shield-solucion-definitiva-iptv-resulta-ser-desastre-3276195.jpg?tf=1200x' alt='Piracy Shield, el azote de las IPTV piratas, bloquea sitios por error y es acusado de falta de transparencia ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942'>La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-barata-arrasa-aliexpress-baja-precio-80-euros-tiene-android-14-1368942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/teclast-p30t-3281667.jpg?tf=1200x' alt='La tablet barata que arrasa en AliExpress baja más de precio: 80 euros y tiene Android 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961'>He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa</a></h4>
-    <a href='https://computerhoy.com/analisis/probar-razer-blade-16-creo-portatil-gaming-exclusivo-1363961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='He probado un mes el Razer Blade 16 y creo que es el portátil gaming más exclusivo, además de poder ganar la batalla al PC de sobremesa' />
     </a>
 </div>
 
