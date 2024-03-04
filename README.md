@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643'>Cómo ganar dinero en Internet sin tener que mostrar la cara</a></h4>
+    <a href='https://computerhoy.com/internet/como-ganar-dinero-internet-tener-mostrar-cara-1369643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganar-dinero-anonimato-3282921.jpg?tf=1200x' alt='Cómo ganar dinero en Internet sin tener que mostrar la cara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625'>El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cofundador-flipper-zero-desvela-verdadera-funcion-tamagotchi-hackers-1369625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/flipper-zero-3017058.jpg?tf=1200x' alt='El cofundador de Flipper Zero desvela la verdadera función del Tamagotchi para hackers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593'>Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado</a></h4>
     <a href='https://computerhoy.com/google/android-auto-te-dira-aplicaciones-solo-puedes-usar-cuando-coche-aparcado-1369593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-instalar-android-auto-aplicaciones-no-estan-google-play-3253812.jpg?tf=1200x' alt='Android Auto te dirá qué aplicaciones solo puedes usar cuando tu coche esté aparcado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546'>7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-chollos-xiaomi-curiosos-solo-puedes-encontrar-aliexpress-1369546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/tienda-xiaomi-3218508.jpg?tf=1200x' alt='7 chollos Xiaomi curiosos que solo puedes encontrar en AliExpress' />
     </a>
 </div>
 
