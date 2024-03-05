@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-cancela-apps-android-windows-11-1370103'>Microsoft cancela el soporte de apps de Android en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-cancela-apps-android-windows-11-1370103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-deja-dar-soporte-ejecutar-aplicaciones-android-windows-11-3283682.jpg?tf=1200x' alt='Microsoft cancela el soporte de apps de Android en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300'>Cómo crear una unidad USB de arranque de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Cómo crear una unidad USB de arranque de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912'>Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-evitar-pig-butchering-estafa-amorosa-quiere-dejarte-fondos-3283383.jpg?tf=1200x' alt='Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895'>El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi</a></h4>
-    <a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-tiktoker-saber-pareja-infiel-solo-necesitas-wifi-3283352.jpg?tf=1200x' alt='El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi' />
     </a>
 </div>
 
