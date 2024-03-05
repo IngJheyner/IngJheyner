@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803'>Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno</a></h4>
+    <a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/actualizacion-fire-tv-3280348.jpg?tf=1200x' alt='Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tim-cook-jack-dorsey-richard-branson-rutina-comenzar-dia-1367343'>Tim Cook, Jack Dorsey o Richard Branson coinciden en que esta es la rutina perfecta para comenzar el día</a></h4>
+    <a href='https://computerhoy.com/life/tim-cook-jack-dorsey-richard-branson-rutina-comenzar-dia-1367343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-jack-dorsey-richard-branson-coinciden-rutina-perfecta-comenzar-dia-3279083.jpg?tf=1200x' alt='Tim Cook, Jack Dorsey o Richard Branson coinciden en que esta es la rutina perfecta para comenzar el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853'>La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify</a></h4>
+    <a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846'>¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-5-marzo-2024-3283288.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844'>Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo</a></h4>
     <a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/modo-word-whatsapp-sirve-como-activarlo-movil-3283289.jpg?tf=1200x' alt='Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843'>Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-3283287.jpg?tf=1200x' alt='Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839'>Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa</a></h4>
-    <a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nintendo-sale-emuladores-yuzu-cintra-cierran-pagaran-24-millones-3283269.jpg?tf=1200x' alt='Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838'>El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-3283278.jpg?tf=1200x' alt='El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores' />
     </a>
 </div>
 
