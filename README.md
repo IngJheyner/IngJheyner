@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081'>He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copilot-bing-vs-google-gemini-ia-3276979.jpg?tf=1200x' alt='He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168'>Qué es mejor para detectar radares: Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-detectar-radares-google-maps-waze-3282166.jpg?tf=1200x' alt='Qué es mejor para detectar radares: Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803'>Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno</a></h4>
     <a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/actualizacion-fire-tv-3280348.jpg?tf=1200x' alt='Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853'>La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify</a></h4>
     <a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846'>¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-5-marzo-2024-3283288.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844'>Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo</a></h4>
-    <a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/modo-word-whatsapp-sirve-como-activarlo-movil-3283289.jpg?tf=1200x' alt='Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo' />
     </a>
 </div>
 
