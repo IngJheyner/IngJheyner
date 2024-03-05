@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759'>ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-vivobook-16x-3283148.jpg?tf=1200x' alt='ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052'>USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando</a></h4>
+    <a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/usb-3281893.jpg?tf=1200x' alt='USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679'>La ciencia lo tiene claro: este es el alimento más sano del mundo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/berro-3283049.jpg?tf=1200x' alt='La ciencia lo tiene claro: este es el alimento más sano del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081'>He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copilot-bing-vs-google-gemini-ia-3276979.jpg?tf=1200x' alt='He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168'>Qué es mejor para detectar radares: Google Maps o Waze</a></h4>
     <a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-detectar-radares-google-maps-waze-3282166.jpg?tf=1200x' alt='Qué es mejor para detectar radares: Google Maps o Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803'>Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno</a></h4>
-    <a href='https://computerhoy.com/audio/mejores-decodificadores-tv-satelite-fijarte-comprar-1369803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/actualizacion-fire-tv-3280348.jpg?tf=1200x' alt='Mejores decodificadores de TV por satélite: en qué fijarte para comprar uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tim-cook-jack-dorsey-richard-branson-rutina-comenzar-dia-1367343'>Tim Cook, Jack Dorsey o Richard Branson coinciden en que esta es la rutina perfecta para comenzar el día</a></h4>
-    <a href='https://computerhoy.com/life/tim-cook-jack-dorsey-richard-branson-rutina-comenzar-dia-1367343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-jack-dorsey-richard-branson-coinciden-rutina-perfecta-comenzar-dia-3279083.jpg?tf=1200x' alt='Tim Cook, Jack Dorsey o Richard Branson coinciden en que esta es la rutina perfecta para comenzar el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853'>La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify</a></h4>
-    <a href='https://computerhoy.com/apple/union-europea-multa-apple-1800-millones-euros-abuso-poder-1369853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='La Unión Europea multa a Apple con 1.800 millones de euros, tras la denuncia de Spotify' />
     </a>
 </div>
 
