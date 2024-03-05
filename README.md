@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843'>Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-3283287.jpg?tf=1200x' alt='Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839'>Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa</a></h4>
     <a href='https://computerhoy.com/gaming/emulador-yuzu-nintendo-switch-cierra-pagara-millones-nintendo-1369839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nintendo-sale-emuladores-yuzu-cintra-cierran-pagaran-24-millones-3283269.jpg?tf=1200x' alt='Nintendo se sale con la suya: los emuladores Yuzu y Citra cierran, y pagarán 2,4 millones de multa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/formas-conectarte-red-wifi-vecino-conocer-clave-1369817'>Formas de conectarte a la red WiFi de tu vecino sin conocer la clave</a></h4>
     <a href='https://computerhoy.com/internet/formas-conectarte-red-wifi-vecino-conocer-clave-1369817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Formas de conectarte a la red WiFi de tu vecino sin conocer la clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-1369790'>El truco de Google Chrome que te permite tener hasta 100 pestañas abiertas sin consumir muchos recursos</a></h4>
-    <a href='https://computerhoy.com/google/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-1369790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='El truco de Google Chrome que te permite tener hasta 100 pestañas abiertas sin consumir muchos recursos' />
     </a>
 </div>
 
