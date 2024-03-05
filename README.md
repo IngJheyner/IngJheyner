@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846'>¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/que-santo-hoy-santoral-martes-5-marzo-2024-1369846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-5-marzo-2024-3283288.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 5 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844'>Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo</a></h4>
     <a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/modo-word-whatsapp-sirve-como-activarlo-movil-3283289.jpg?tf=1200x' alt='Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838'>El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-1369838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-suplemento-coste-promete-mejorar-memoria-personas-mayores-3283278.jpg?tf=1200x' alt='El nuevo suplemento de bajo coste que promete mejorar la memoria en personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818'>Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circuito-electronico-3283259.jpg?tf=1200x' alt='Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware' />
     </a>
 </div>
 
