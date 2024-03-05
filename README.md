@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728'>Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/doogee-t30-ultra-3283122.jpg?tf=1200x' alt='Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880'>Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-novedades-3283346.jpg?tf=1200x' alt='Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759'>ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar</a></h4>
     <a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-vivobook-16x-3283148.jpg?tf=1200x' alt='ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679'>La ciencia lo tiene claro: este es el alimento más sano del mundo</a></h4>
     <a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/berro-3283049.jpg?tf=1200x' alt='La ciencia lo tiene claro: este es el alimento más sano del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081'>He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pruebo-google-gemini-copilot-tengo-claro-ganador-razon-1366081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/copilot-bing-vs-google-gemini-ia-3276979.jpg?tf=1200x' alt='He probado Gemini y GPT-4 en Copilot: hay una IA que gana por su reconocimiento de imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168'>Qué es mejor para detectar radares: Google Maps o Waze</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-detectar-radares-google-maps-waze-1369168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-detectar-radares-google-maps-waze-3282166.jpg?tf=1200x' alt='Qué es mejor para detectar radares: Google Maps o Waze' />
     </a>
 </div>
 
