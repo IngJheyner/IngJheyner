@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010'>Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alguien-bebiendo-agua-3283578.jpg?tf=1200x' alt='Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/desarrollan-bateria-agua-segura-ecologica-actual-1370009'>Un equipo de científicos desarrolla una "batería de agua" que es más eficiente, segura y ecológica</a></h4>
+    <a href='https://computerhoy.com/ciencia/desarrollan-bateria-agua-segura-ecologica-actual-1370009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bateria-agua-3283568.jpg?tf=1200x' alt='Un equipo de científicos desarrolla una "batería de agua" que es más eficiente, segura y ecológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409'>¿Cuáles son los colores de ojos más extraños que existen?</a></h4>
+    <a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuales-son-colores-ojos-extranos-3279179.jpg?tf=1200x' alt='¿Cuáles son los colores de ojos más extraños que existen?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988'>Cuánto cuesta hacer un búnker en España y todo lo que debes saber</a></h4>
     <a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bunker-3283510.jpg?tf=1200x' alt='Cuánto cuesta hacer un búnker en España y todo lo que debes saber' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969'>¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución</a></h4>
     <a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anthropic-tiene-claro-propuesta-ia-adelanta-derecha-chatgpt-gemini-1369970'>Anthropic lo tiene claro y su propuesta de IA adelanta por la derecha a ChatGPT o Gemini</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anthropic-tiene-claro-propuesta-ia-adelanta-derecha-chatgpt-gemini-1369970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/anthropic-modelos-lenguaje-ia-3283411.jpg?tf=1200x' alt='Anthropic lo tiene claro y su propuesta de IA adelanta por la derecha a ChatGPT o Gemini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856'>Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph</a></h4>
-    <a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281547.jpg?tf=1200x' alt='Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968'>Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa </a></h4>
-    <a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/condena-empresa-iptv-ilegal-3283477.jpg?tf=1200x' alt='Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa ' />
     </a>
 </div>
 
