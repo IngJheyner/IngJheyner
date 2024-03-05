@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891'>Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?</a></h4>
+    <a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ciberataque-windows-3283377.jpg?tf=1200x' alt='Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728'>Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba</a></h4>
     <a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/doogee-t30-ultra-3283122.jpg?tf=1200x' alt='Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052'>USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando</a></h4>
     <a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/usb-3281893.jpg?tf=1200x' alt='USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679'>La ciencia lo tiene claro: este es el alimento más sano del mundo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/alimento-mas-sano-mundo-1369679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/berro-3283049.jpg?tf=1200x' alt='La ciencia lo tiene claro: este es el alimento más sano del mundo' />
     </a>
 </div>
 
