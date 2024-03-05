@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-bate-record-cotizacion-toda-historia-1370130'>El Bitcoin bate el récord de cotización de toda su historia, pero cae en picado en unas horas: ¿Qué está pasando?</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-bate-record-cotizacion-toda-historia-1370130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bitcoin-bate-record-cotizacion-toda-historia-pasando-3283734.jpg?tf=1200x' alt='El Bitcoin bate el récord de cotización de toda su historia, pero cae en picado en unas horas: ¿Qué está pasando?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119'>iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-niega-desbloquear-youtube-android-auto-podria-ser-modo-p-solucion-1370060'>Por qué Google se niega a desbloquear YouTube en Android Auto: ¿podría ser el modo P la solución?</a></h4>
     <a href='https://computerhoy.com/google/google-niega-desbloquear-youtube-android-auto-podria-ser-modo-p-solucion-1370060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-android-auto-3283693.jpg?tf=1200x' alt='Por qué Google se niega a desbloquear YouTube en Android Auto: ¿podría ser el modo P la solución?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/temblad-alexa-siri-openai-anuncia-chatgpt-ya-sabe-hablar-1370110'>Temblad Alexa y Siri: OpenAI anuncia que ChatGPT ya sabe hablar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/temblad-alexa-siri-openai-anuncia-chatgpt-ya-sabe-hablar-1370110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Temblad Alexa y Siri: OpenAI anuncia que ChatGPT ya sabe hablar' />
     </a>
 </div>
 
