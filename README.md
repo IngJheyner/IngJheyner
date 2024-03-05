@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856'>Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph</a></h4>
+    <a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281547.jpg?tf=1200x' alt='Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968'>Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa </a></h4>
+    <a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/condena-empresa-iptv-ilegal-3283477.jpg?tf=1200x' alt='Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743'>Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet</a></h4>
     <a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/msi-katana-15-b12v-3283146.jpg?tf=1200x' alt='Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891'>Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?</a></h4>
     <a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ciberataque-windows-3283377.jpg?tf=1200x' alt='Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728'>Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-2k-32gb-ram-potentisima-tablet-poniendo-amazon-patas-arriba-1369728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/doogee-t30-ultra-3283122.jpg?tf=1200x' alt='Pantalla 2K y 32GB de RAM: esta potentísima tablet está poniendo Amazon patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880'>Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-novedades-3283346.jpg?tf=1200x' alt='Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios' />
     </a>
 </div>
 
