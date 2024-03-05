@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844'>Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo</a></h4>
+    <a href='https://computerhoy.com/apps/modo-word-whatsapp-sirve-como-activarlo-1369844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/modo-word-whatsapp-sirve-como-activarlo-movil-3283289.jpg?tf=1200x' alt='Modo Word en WhatsApp: qué es, para qué sirve y cómo activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843'>Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-1369843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-necesitas-saber-antes-hacer-overclock-raspberry-pi-3283287.jpg?tf=1200x' alt='Todo lo que necesitas saber antes de hacer overclock a tu Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818'>Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/inventan-mecanismo-autodestruccion-puede-inutilizar-cualquier-hardware-1369818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circuito-electronico-3283259.jpg?tf=1200x' alt='Inventan un mecanismo de autodestrucción que puede inutilizar cualquier hardware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/formas-conectarte-red-wifi-vecino-conocer-clave-1369817'>Formas de conectarte a la red WiFi de tu vecino sin conocer la clave</a></h4>
-    <a href='https://computerhoy.com/internet/formas-conectarte-red-wifi-vecino-conocer-clave-1369817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Formas de conectarte a la red WiFi de tu vecino sin conocer la clave' />
     </a>
 </div>
 
