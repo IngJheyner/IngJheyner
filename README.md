@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dji-va-gopro-rebaja-camara-4k-top-precio-locos-1369649'>DJI va a por GoPro: rebaja su cámara 4K más top a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dji-va-gopro-rebaja-camara-4k-top-precio-locos-1369649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='DJI va a por GoPro: rebaja su cámara 4K más top a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-antivirus-gratis-fiables-windows-2024-ocu-1370112'>Estos son los antivirus gratis más fiables para Windows de 2024, según la OCU</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-antivirus-gratis-fiables-windows-2024-ocu-1370112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/antivirus-gratis-3043256.jpg?tf=1200x' alt='Estos son los antivirus gratis más fiables para Windows de 2024, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-niega-desbloquear-youtube-android-auto-podria-ser-modo-p-solucion-1370060'>Por qué Google se niega a desbloquear YouTube en Android Auto: ¿podría ser el modo P la solución?</a></h4>
+    <a href='https://computerhoy.com/google/google-niega-desbloquear-youtube-android-auto-podria-ser-modo-p-solucion-1370060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-android-auto-3283693.jpg?tf=1200x' alt='Por qué Google se niega a desbloquear YouTube en Android Auto: ¿podría ser el modo P la solución?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/temblad-alexa-siri-openai-anuncia-chatgpt-ya-sabe-hablar-1370110'>Temblad Alexa y Siri: OpenAI anuncia que ChatGPT ya sabe hablar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/temblad-alexa-siri-openai-anuncia-chatgpt-ya-sabe-hablar-1370110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-configurar-chatgpt-usarlo-como-asistente-movil-3266640.jpg?tf=1200x' alt='Temblad Alexa y Siri: OpenAI anuncia que ChatGPT ya sabe hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-cancela-apps-android-windows-11-1370103'>Microsoft cancela el soporte de apps de Android en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-cancela-apps-android-windows-11-1370103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-deja-dar-soporte-ejecutar-aplicaciones-android-windows-11-3283682.jpg?tf=1200x' alt='Microsoft cancela el soporte de apps de Android en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300'>Cómo crear una unidad USB de arranque de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Cómo crear una unidad USB de arranque de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/muchos-canales-tdt-siguen-viendo-fatal-pesar-salto-alta-definicion-hd-1370046'>Por qué muchos canales de la TDT se siguen viendo fatal a pesar del salto a la alta definición (HD)</a></h4>
-    <a href='https://computerhoy.com/tv/muchos-canales-tdt-siguen-viendo-fatal-pesar-salto-alta-definicion-hd-1370046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/muchos-canales-tdt-sigue-viendo-fatal-pesar-salto-alta-definicion-hd-3283645.jpg?tf=1200x' alt='Por qué muchos canales de la TDT se siguen viendo fatal a pesar del salto a la alta definición (HD)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/facebook-instagram-google-youtube-x-caidos-internet-no-funciona-1370063'>Facebook, Instagram y Messenger no funcionan: ¿Se ha caído Internet?</a></h4>
-    <a href='https://computerhoy.com/internet/facebook-instagram-google-youtube-x-caidos-internet-no-funciona-1370063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/facebook-instagram-google-youtube-x-no-funcionan-ha-caido-internet-3283618.jpg?tf=1200x' alt='Facebook, Instagram y Messenger no funcionan: ¿Se ha caído Internet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912'>Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-evitar-pig-butchering-estafa-amorosa-quiere-dejarte-fondos-3283383.jpg?tf=1200x' alt='Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos' />
     </a>
 </div>
 
