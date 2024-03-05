@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988'>Cuánto cuesta hacer un búnker en España y todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bunker-3283510.jpg?tf=1200x' alt='Cuánto cuesta hacer un búnker en España y todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969'>¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución</a></h4>
+    <a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anthropic-tiene-claro-propuesta-ia-adelanta-derecha-chatgpt-gemini-1369970'>Anthropic lo tiene claro y su propuesta de IA adelanta por la derecha a ChatGPT o Gemini</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anthropic-tiene-claro-propuesta-ia-adelanta-derecha-chatgpt-gemini-1369970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/anthropic-modelos-lenguaje-ia-3283411.jpg?tf=1200x' alt='Anthropic lo tiene claro y su propuesta de IA adelanta por la derecha a ChatGPT o Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856'>Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph</a></h4>
     <a href='https://computerhoy.com/moviles/nothing-phone-2a-informacion-precios-versiones-1368856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281547.jpg?tf=1200x' alt='Nothing Phone (2a), la apuesta por su móvil barato, ya es oficial sin renunciar a los detalles de diseño como Glyph' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968'>Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa </a></h4>
     <a href='https://computerhoy.com/internet/primera-condena-empresa-espana-vender-servicios-iptv-pirata-670000-euros-multa-1369968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/condena-empresa-iptv-ilegal-3283477.jpg?tf=1200x' alt='Primera condena a una empresa en España por vender servicios de IPTV pirata con 670.000 euros de multa ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743'>Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/msi-katana-15-b12v-3283146.jpg?tf=1200x' alt='Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/europa-pone-seria-fabricantes-como-tesla-volkswagen-exige-menos-pantallas-botones-1369901'>Europa se pone seria con fabricantes como Tesla o Volkswagen y exige menos pantallas y más botones</a></h4>
-    <a href='https://computerhoy.com/motor/europa-pone-seria-fabricantes-como-tesla-volkswagen-exige-menos-pantallas-botones-1369901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/coche-pantallas-volkswagen-3283393.jpg?tf=1200x' alt='Europa se pone seria con fabricantes como Tesla o Volkswagen y exige menos pantallas y más botones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891'>Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?</a></h4>
-    <a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ciberataque-windows-3283377.jpg?tf=1200x' alt='Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?' />
     </a>
 </div>
 
