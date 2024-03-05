@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743'>Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/brutal-portatil-msi-presume-rtx-4060-ssd-inagotable-precio-outlet-1369743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/msi-katana-15-b12v-3283146.jpg?tf=1200x' alt='Este brutal portátil MSI presume de RTX 4060 y de un SSD inagotable a precio de outlet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/europa-pone-seria-fabricantes-como-tesla-volkswagen-exige-menos-pantallas-botones-1369901'>Europa se pone seria con fabricantes como Tesla o Volkswagen y exige menos pantallas y más botones</a></h4>
+    <a href='https://computerhoy.com/motor/europa-pone-seria-fabricantes-como-tesla-volkswagen-exige-menos-pantallas-botones-1369901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/coche-pantallas-volkswagen-3283393.jpg?tf=1200x' alt='Europa se pone seria con fabricantes como Tesla o Volkswagen y exige menos pantallas y más botones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891'>Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?</a></h4>
     <a href='https://computerhoy.com/windows/solucion-ciberataque-llega-seis-meses-microsoft-tardo-tanto-parchear-windows-1369891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ciberataque-windows-3283377.jpg?tf=1200x' alt='Una solución a un ciberataque que llega tras seis meses: ¿Por qué Microsoft tardó tanto en parchear Windows?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880'>Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios</a></h4>
     <a href='https://computerhoy.com/google/google-maps-no-quiere-pierdas-tiempo-incluira-simbolos-sepas-lugar-entrada-edificios-1369880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-novedades-3283346.jpg?tf=1200x' alt='Google Maps no quiere que pierdas el tiempo e incluirá símbolos para que sepas el lugar de entrada a los edificios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759'>ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asus-va-apple-alternativa-macbook-pro-potente-barata-ademas-te-sirve-jugar-1369759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-vivobook-16x-3283148.jpg?tf=1200x' alt='ASUS va a por Apple: su alternativa al MacBook Pro es potente, barata y además sí te sirve para jugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052'>USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando</a></h4>
-    <a href='https://computerhoy.com/tutoriales/usb-20-vs-usb-30-diferencias-como-saber-cual-estas-utilizando-1369052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/usb-3281893.jpg?tf=1200x' alt='USB 2.0 vs. USB 3.0: diferencias y cómo saber cuál estás utilizando' />
     </a>
 </div>
 
