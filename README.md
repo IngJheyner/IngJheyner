@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300'>Cómo crear una unidad USB de arranque de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-crear-unidad-usb-arranque-windows-11-1366300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Cómo crear una unidad USB de arranque de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/muchos-canales-tdt-siguen-viendo-fatal-pesar-salto-alta-definicion-hd-1370046'>Por qué muchos canales de la TDT se siguen viendo fatal a pesar del salto a la alta definición (HD)</a></h4>
+    <a href='https://computerhoy.com/tv/muchos-canales-tdt-siguen-viendo-fatal-pesar-salto-alta-definicion-hd-1370046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/muchos-canales-tdt-sigue-viendo-fatal-pesar-salto-alta-definicion-hd-3283645.jpg?tf=1200x' alt='Por qué muchos canales de la TDT se siguen viendo fatal a pesar del salto a la alta definición (HD)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/facebook-instagram-google-youtube-x-caidos-internet-no-funciona-1370063'>Facebook, Instagram y Messenger no funcionan: ¿Se ha caído Internet?</a></h4>
+    <a href='https://computerhoy.com/internet/facebook-instagram-google-youtube-x-caidos-internet-no-funciona-1370063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/facebook-instagram-google-youtube-x-no-funcionan-ha-caido-internet-3283618.jpg?tf=1200x' alt='Facebook, Instagram y Messenger no funcionan: ¿Se ha caído Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912'>Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-evitar-pig-butchering-estafa-amorosa-quiere-dejarte-fondos-3283383.jpg?tf=1200x' alt='Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895'>El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi</a></h4>
     <a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-tiktoker-saber-pareja-infiel-solo-necesitas-wifi-3283352.jpg?tf=1200x' alt='El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010'>Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alguien-bebiendo-agua-3283578.jpg?tf=1200x' alt='Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/desarrollan-bateria-agua-segura-ecologica-actual-1370009'>Un equipo de científicos desarrolla una "batería de agua" que es más eficiente, segura y ecológica</a></h4>
-    <a href='https://computerhoy.com/ciencia/desarrollan-bateria-agua-segura-ecologica-actual-1370009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bateria-agua-3283568.jpg?tf=1200x' alt='Un equipo de científicos desarrolla una "batería de agua" que es más eficiente, segura y ecológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409'>¿Cuáles son los colores de ojos más extraños que existen?</a></h4>
-    <a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuales-son-colores-ojos-extranos-3279179.jpg?tf=1200x' alt='¿Cuáles son los colores de ojos más extraños que existen?' />
     </a>
 </div>
 
