@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912'>Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-es-pig-butchering-estafa-amorosa-1369912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-evitar-pig-butchering-estafa-amorosa-quiere-dejarte-fondos-3283383.jpg?tf=1200x' alt='Cómo evitar el pig butchering, la estafa amorosa que quiere dejarte sin fondos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895'>El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi</a></h4>
+    <a href='https://computerhoy.com/internet/truco-saber-pareja-infiel-solo-necesitas-wifi-1369895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-tiktoker-saber-pareja-infiel-solo-necesitas-wifi-3283352.jpg?tf=1200x' alt='El sorprendente truco viral para saber si tu pareja es infiel: solo necesitas la conexión WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010'>Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-como-eliminar-microplasticos-agua-potable-casa-1370010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alguien-bebiendo-agua-3283578.jpg?tf=1200x' alt='Científicos descubren la manera más sencilla de eliminar los microplásticos del agua potable y puedes hacerlo en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409'>¿Cuáles son los colores de ojos más extraños que existen?</a></h4>
     <a href='https://computerhoy.com/ciencia/olores-ojos-extranos-1367409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cuales-son-colores-ojos-extranos-3279179.jpg?tf=1200x' alt='¿Cuáles son los colores de ojos más extraños que existen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988'>Cuánto cuesta hacer un búnker en España y todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-cuesta-bunker-espana-1369988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bunker-3283510.jpg?tf=1200x' alt='Cuánto cuesta hacer un búnker en España y todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969'>¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución</a></h4>
-    <a href='https://computerhoy.com/apps/has-liado-md-acabas-mandar-instagram-ahora-pone-solucion-1369969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='¿La has liado con el MD que acabas de mandar? Instagram ahora le pone solución' />
     </a>
 </div>
 
