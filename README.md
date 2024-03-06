@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725'>He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282119.jpg?tf=1200x' alt='He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788'>La Policía advierte: así es el último truco de los ladrones para saber si estás en casa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/policia-advierte-ultimo-truco-ladrones-saber-estas-casa-3281457.jpg?tf=1200x' alt='La Policía advierte: así es el último truco de los ladrones para saber si estás en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286'>Cómo grabar audio en Windows 11 de forma fácil y rápida</a></h4>
     <a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-grabar-audio-windows-11-forma-facil-rapida-3273767.jpg?tf=1200x' alt='Cómo grabar audio en Windows 11 de forma fácil y rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140'>La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-3283766.jpg?tf=1200x' alt='La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV' />
     </a>
 </div>
 
