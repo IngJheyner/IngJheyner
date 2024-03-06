@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163'>HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hbo-max-pronto-sera-max-anuncia-fin-cuentas-compartidas-espana-3283790.jpg?tf=1200x' alt='HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cambio-hora-marzo-1370027'>Esta es la auténtica razón por la que se cambia de horario en marzo en España</a></h4>
+    <a href='https://computerhoy.com/life/cambio-hora-marzo-1370027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/autentica-razon-cambia-horario-marzo-espana-3283573.jpg?tf=1200x' alt='Esta es la auténtica razón por la que se cambia de horario en marzo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774'>Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dyson-v12-3283179.jpg?tf=1200x' alt='Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725'>He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282119.jpg?tf=1200x' alt='He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788'>La Policía advierte: así es el último truco de los ladrones para saber si estás en casa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/policia-advierte-ultimo-truco-ladrones-saber-estas-casa-3281457.jpg?tf=1200x' alt='La Policía advierte: así es el último truco de los ladrones para saber si estás en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/afeitadora-philips-oneblade-2471863.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718'>7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-dispositivos-inteligentes-funcionan-como-camaras-seguridad-ocultas-proteger-hogar-3283169.jpg?tf=1200x' alt='7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286'>Cómo grabar audio en Windows 11 de forma fácil y rápida</a></h4>
-    <a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-grabar-audio-windows-11-forma-facil-rapida-3273767.jpg?tf=1200x' alt='Cómo grabar audio en Windows 11 de forma fácil y rápida' />
     </a>
 </div>
 
