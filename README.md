@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182'>¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189'>Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-2023-3283822.jpg?tf=1200x' alt='Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163'>HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hbo-max-pronto-sera-max-anuncia-fin-cuentas-compartidas-espana-3283790.jpg?tf=1200x' alt='HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774'>Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dyson-v12-3283179.jpg?tf=1200x' alt='Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725'>He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-oneplus-12-me-ha-encantado-diseno-aunque-fotografia-otro-nivel-1366725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282119.jpg?tf=1200x' alt='He probado el OnePlus 12 un mes y creo que es el móvil de alta gama perfecto si buscas buena fotografía en un diseño elegante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788'>La Policía advierte: así es el último truco de los ladrones para saber si estás en casa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/policia-advierte-ultimo-truco-ladrones-saber-estas-casa-3281457.jpg?tf=1200x' alt='La Policía advierte: así es el último truco de los ladrones para saber si estás en casa' />
     </a>
 </div>
 
