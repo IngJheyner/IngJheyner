@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275'>HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/teoria-explica-universo-no-deja-crecer-comiendo-universos-bebes-1370256'>Esta teoría explica por qué el universo no deja de expandirse: se está comiendo universos bebés</a></h4>
+    <a href='https://computerhoy.com/espacio/teoria-explica-universo-no-deja-crecer-comiendo-universos-bebes-1370256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='Esta teoría explica por qué el universo no deja de expandirse: se está comiendo universos bebés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195'>Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más</a></h4>
     <a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227'>¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143'>120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos</a></h4>
-    <a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-6-lite-3255691.jpg?tf=1200x' alt='120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199'>Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bitcoin-oro-3283869.jpg?tf=1200x' alt='Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?' />
     </a>
 </div>
 
