@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435'>Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!</a></h4>
+    <a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-3284290.jpg?tf=1200x' alt='Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166'>El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281551.jpg?tf=1200x' alt='El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423'>Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara</a></h4>
+    <a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421'>¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas</a></h4>
     <a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226'>Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?</a></h4>
     <a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asteroide-3284086.jpg?tf=1200x' alt='Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/moviles-potentes-samsung-hunde-precio-amazon-graba-video-8k-1369879'>Uno de los móviles más potentes de Samsung hunde su precio en Amazon y hasta graba vídeo 8K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/moviles-potentes-samsung-hunde-precio-amazon-graba-video-8k-1369879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s23-fe-3283327.jpg?tf=1200x' alt='Uno de los móviles más potentes de Samsung hunde su precio en Amazon y hasta graba vídeo 8K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/soluciones-problema-error-ram-no-detectada-1369144'>Qué hacer si sufres el error: “RAM no detectada” en tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/soluciones-problema-error-ram-no-detectada-1369144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/memoria-ram-no-funciona-3284081.jpg?tf=1200x' alt='Qué hacer si sufres el error: “RAM no detectada” en tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343'>Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?</a></h4>
-    <a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proteccion-datos-prohibe-worldcoin-escanear-iris-pasa-ya-te-han-escaneado-3284136.jpg?tf=1200x' alt='Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?' />
     </a>
 </div>
 
