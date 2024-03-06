@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195'>Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más</a></h4>
+    <a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-excepcion-ley-cientifica-200-anos-1370194'>Científicos descubren una excepción a una ley científica que lleva en vigor más de 200 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-descubren-excepcion-ley-cientifica-200-anos-1370194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fragmento-pelicula-mente-maravillosa-3284016.jpg?tf=1200x' alt='Científicos descubren una excepción a una ley científica que lleva en vigor más de 200 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227'>¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143'>120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos</a></h4>
     <a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-6-lite-3255691.jpg?tf=1200x' alt='120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199'>Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?</a></h4>
     <a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bitcoin-oro-3283869.jpg?tf=1200x' alt='Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207'>Esta función oculta de tu iPhone podría sacarte de más de un apuro</a></h4>
-    <a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Esta función oculta de tu iPhone podría sacarte de más de un apuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182'>¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189'>Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-2023-3283822.jpg?tf=1200x' alt='Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo' />
     </a>
 </div>
 
