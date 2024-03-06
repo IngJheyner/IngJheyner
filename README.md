@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421'>¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226'>Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?</a></h4>
     <a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asteroide-3284086.jpg?tf=1200x' alt='Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343'>Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?</a></h4>
     <a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proteccion-datos-prohibe-worldcoin-escanear-iris-pasa-ya-te-han-escaneado-3284136.jpg?tf=1200x' alt='Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028'>Qué hacer cuando un archivo o documento de Excel se abre en blanco</a></h4>
-    <a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacer-cuando-archivo-excel-abre-blanco-3283629.jpg?tf=1200x' alt='Qué hacer cuando un archivo o documento de Excel se abre en blanco' />
     </a>
 </div>
 
