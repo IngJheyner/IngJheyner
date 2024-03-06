@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718'>7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-dispositivos-inteligentes-funcionan-como-camaras-seguridad-ocultas-proteger-hogar-3283169.jpg?tf=1200x' alt='7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286'>Cómo grabar audio en Windows 11 de forma fácil y rápida</a></h4>
+    <a href='https://computerhoy.com/windows/como-grabar-audio-windows-11-gratis-1364286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-grabar-audio-windows-11-forma-facil-rapida-3273767.jpg?tf=1200x' alt='Cómo grabar audio en Windows 11 de forma fácil y rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140'>La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-3283766.jpg?tf=1200x' alt='La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/error-estas-cometiendo-freidora-aire-arruina-alimentos-1370129'>El grave error que estás cometiendo con tu freidora de aire que arruina el sabor de los alimentos</a></h4>
     <a href='https://computerhoy.com/hogar/error-estas-cometiendo-freidora-aire-arruina-alimentos-1370129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grave-error-estas-cometiendo-freidora-aire-arruina-sabor-alimentos-3283757.jpg?tf=1200x' alt='El grave error que estás cometiendo con tu freidora de aire que arruina el sabor de los alimentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/bitcoin-bate-record-cotizacion-toda-historia-1370130'>El Bitcoin bate el récord de cotización de toda su historia, pero cae en picado en unas horas: ¿Qué está pasando?</a></h4>
-    <a href='https://computerhoy.com/criptos/bitcoin-bate-record-cotizacion-toda-historia-1370130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bitcoin-bate-record-cotizacion-toda-historia-pasando-3283734.jpg?tf=1200x' alt='El Bitcoin bate el récord de cotización de toda su historia, pero cae en picado en unas horas: ¿Qué está pasando?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119'>iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone' />
     </a>
 </div>
 
