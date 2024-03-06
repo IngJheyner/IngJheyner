@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140'>La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-3283766.jpg?tf=1200x' alt='La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-6-marzo-2024-1370137'>¿Qué santo es hoy? Santoral del miércoles 6 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-6-marzo-2024-1370137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-6-marzo-2024-3283761.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 6 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119'>iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ios-17-4-ya-disponible-mayor-revolucion-europa-primer-iphone-1370119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ios-17-3137496.jpg?tf=1200x' alt='iOS 17.4 ya está disponible, la mayor revolución en Europa desde el primer iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dji-va-gopro-rebaja-camara-4k-top-precio-locos-1369649'>DJI va a por GoPro: rebaja su cámara 4K más top a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dji-va-gopro-rebaja-camara-4k-top-precio-locos-1369649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='DJI va a por GoPro: rebaja su cámara 4K más top a precio de locos' />
     </a>
 </div>
 
