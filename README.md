@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143'>120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos</a></h4>
+    <a href='https://computerhoy.com/moviles/120-hz-5g-bateria-inagotable-menos-300-euros-amazon-vende-mejores-moviles-baratos-1370143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/honor-magic-6-lite-3255691.jpg?tf=1200x' alt='120 Hz, 5G y batería inagotable: por menos de 300 euros Amazon vende uno de los mejores móviles baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199'>Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?</a></h4>
+    <a href='https://computerhoy.com/criptos/bitcoin-oro-alcanzaron-maximos-historicos-mismo-dia-no-buena-noticia-1370199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bitcoin-oro-3283869.jpg?tf=1200x' alt='Bitcoin y el oro alcanzaron máximos históricos el mismo día: ¿por qué no es una buena noticia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207'>Esta función oculta de tu iPhone podría sacarte de más de un apuro</a></h4>
     <a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Esta función oculta de tu iPhone podría sacarte de más de un apuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189'>Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-amazon-deja-watch-cellular-precio-historicamente-1370189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-2023-3283822.jpg?tf=1200x' alt='Bombazo para fans de Apple: Amazon deja el Watch SE Cellular a precio históricamente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163'>HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hbo-max-anuncia-fin-cuentas-compartidas-espana-1370163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hbo-max-pronto-sera-max-anuncia-fin-cuentas-compartidas-espana-3283790.jpg?tf=1200x' alt='HBO Max pronto será Max, anuncia el fin de las cuentas compartidas en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cambio-hora-marzo-1370027'>Esta es la auténtica razón por la que se cambia de horario en marzo en España</a></h4>
-    <a href='https://computerhoy.com/life/cambio-hora-marzo-1370027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/autentica-razon-cambia-horario-marzo-espana-3283573.jpg?tf=1200x' alt='Esta es la auténtica razón por la que se cambia de horario en marzo en España' />
     </a>
 </div>
 
