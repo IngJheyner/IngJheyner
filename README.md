@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843'>Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-aprovechar-maximo-realidad-virtual-trabajo-6-consejos-deberias-seguir-3281550.jpg?tf=1200x' alt='Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782'>Cómo descargar libros en ePub gratis</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-libros-epub-gratis-3283774.jpg?tf=1200x' alt='Cómo descargar libros en ePub gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275'>HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)</a></h4>
     <a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195'>Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más</a></h4>
     <a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-descubren-excepcion-ley-cientifica-200-anos-1370194'>Científicos descubren una excepción a una ley científica que lleva en vigor más de 200 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-descubren-excepcion-ley-cientifica-200-anos-1370194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fragmento-pelicula-mente-maravillosa-3284016.jpg?tf=1200x' alt='Científicos descubren una excepción a una ley científica que lleva en vigor más de 200 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227'>¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/nadie-quiera-abandonar-windows-10-tiene-doble-usuarios-windows-11-1370227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='¿Por qué nadie quiera abandonar Windows 10? Tiene el doble de usuarios que Windows 11' />
     </a>
 </div>
 
