@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788'>La Policía advierte: así es el último truco de los ladrones para saber si estás en casa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/truco-ladrones-casa-1368788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/policia-advierte-ultimo-truco-ladrones-saber-estas-casa-3281457.jpg?tf=1200x' alt='La Policía advierte: así es el último truco de los ladrones para saber si estás en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508'>Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/mejores/afeitadoras-electricas-1181508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/afeitadora-philips-oneblade-2471863.jpg?tf=1200x' alt='Estas son las mejores afeitadoras eléctricas en relación calidad-precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718'>7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar</a></h4>
     <a href='https://computerhoy.com/tecnologia/dispositivos-funcionan-como-camaras-seguridad-ocultas-1369718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-dispositivos-inteligentes-funcionan-como-camaras-seguridad-ocultas-proteger-hogar-3283169.jpg?tf=1200x' alt='7 dispositivos inteligentes que funcionan como cámaras de seguridad ocultas para proteger tu hogar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140'>La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-1370140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-15-secreto-mejorar-conexion-wifi-amazon-fire-tv-3283766.jpg?tf=1200x' alt='La regla del 15: el secreto para mejorar la conexión WiFi en tu Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-6-marzo-2024-1370137'>¿Qué santo es hoy? Santoral del miércoles 6 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-6-marzo-2024-1370137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-6-marzo-2024-3283761.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 6 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/error-estas-cometiendo-freidora-aire-arruina-alimentos-1370129'>El grave error que estás cometiendo con tu freidora de aire que arruina el sabor de los alimentos</a></h4>
-    <a href='https://computerhoy.com/hogar/error-estas-cometiendo-freidora-aire-arruina-alimentos-1370129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/grave-error-estas-cometiendo-freidora-aire-arruina-sabor-alimentos-3283757.jpg?tf=1200x' alt='El grave error que estás cometiendo con tu freidora de aire que arruina el sabor de los alimentos' />
     </a>
 </div>
 
