@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343'>Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?</a></h4>
+    <a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proteccion-datos-prohibe-worldcoin-escanear-iris-pasa-ya-te-han-escaneado-3284136.jpg?tf=1200x' alt='Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028'>Qué hacer cuando un archivo o documento de Excel se abre en blanco</a></h4>
+    <a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacer-cuando-archivo-excel-abre-blanco-3283629.jpg?tf=1200x' alt='Qué hacer cuando un archivo o documento de Excel se abre en blanco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843'>Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-aprovechar-maximo-realidad-virtual-trabajo-6-consejos-deberias-seguir-3281550.jpg?tf=1200x' alt='Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275'>HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)</a></h4>
     <a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/teoria-explica-universo-no-deja-crecer-comiendo-universos-bebes-1370256'>Esta teoría explica por qué el universo no deja de expandirse: se está comiendo universos bebés</a></h4>
-    <a href='https://computerhoy.com/espacio/teoria-explica-universo-no-deja-crecer-comiendo-universos-bebes-1370256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='Esta teoría explica por qué el universo no deja de expandirse: se está comiendo universos bebés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195'>Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más</a></h4>
-    <a href='https://computerhoy.com/apps/waze-incorpora-varias-funciones-clave-mejorar-experiencia-1370195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='Waze incorpora funciones que Google Maps va a querer copiar: avisa de cambios de velocidad, rotondas complicadas y más' />
     </a>
 </div>
 
