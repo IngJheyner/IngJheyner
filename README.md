@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207'>Esta función oculta de tu iPhone podría sacarte de más de un apuro</a></h4>
+    <a href='https://computerhoy.com/apple/funcion-oculta-iphone-podria-hacerte-vida-facil-1370207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Esta función oculta de tu iPhone podría sacarte de más de un apuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182'>¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego</a></h4>
     <a href='https://computerhoy.com/tecnologia/intel-dice-adios-hyper-threading-procesadores-nueva-apuesta-podria-cambiar-reglas-juego-1370182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='¿Intel dice adiós al Hyper-Threading en sus procesadores? Su nueva apuesta podría cambiar las reglas del juego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cambio-hora-marzo-1370027'>Esta es la auténtica razón por la que se cambia de horario en marzo en España</a></h4>
     <a href='https://computerhoy.com/life/cambio-hora-marzo-1370027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/autentica-razon-cambia-horario-marzo-espana-3283573.jpg?tf=1200x' alt='Esta es la auténtica razón por la que se cambia de horario en marzo en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774'>Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-liquida-aspiradora-bateria-inagotable-potentisima-luz-1369774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dyson-v12-3283179.jpg?tf=1200x' alt='Dyson liquida su aspiradora con batería inagotable y potentísima ¡y con luz!' />
     </a>
 </div>
 
