@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226'>Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?</a></h4>
+    <a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asteroide-3284086.jpg?tf=1200x' alt='Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/moviles-potentes-samsung-hunde-precio-amazon-graba-video-8k-1369879'>Uno de los móviles más potentes de Samsung hunde su precio en Amazon y hasta graba vídeo 8K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/moviles-potentes-samsung-hunde-precio-amazon-graba-video-8k-1369879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s23-fe-3283327.jpg?tf=1200x' alt='Uno de los móviles más potentes de Samsung hunde su precio en Amazon y hasta graba vídeo 8K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/soluciones-problema-error-ram-no-detectada-1369144'>Qué hacer si sufres el error: “RAM no detectada” en tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/soluciones-problema-error-ram-no-detectada-1369144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/memoria-ram-no-funciona-3284081.jpg?tf=1200x' alt='Qué hacer si sufres el error: “RAM no detectada” en tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343'>Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?</a></h4>
     <a href='https://computerhoy.com/criptos/prohiben-worldcoin-escanear-iris-espana-que-pasa-ya-te-han-escaneado-1370343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proteccion-datos-prohibe-worldcoin-escanear-iris-pasa-ya-te-han-escaneado-3284136.jpg?tf=1200x' alt='Prohíben a Worldcoin escanear el iris en España: ¿Qué pasa si ya te lo has escaneado?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028'>Qué hacer cuando un archivo o documento de Excel se abre en blanco</a></h4>
     <a href='https://computerhoy.com/apps/archivo-excel-abre-blanco-1370028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacer-cuando-archivo-excel-abre-blanco-3283629.jpg?tf=1200x' alt='Qué hacer cuando un archivo o documento de Excel se abre en blanco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843'>Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-aprovechar-realidad-virtual-puesto-trabajo-1368843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-aprovechar-maximo-realidad-virtual-trabajo-6-consejos-deberias-seguir-3281550.jpg?tf=1200x' alt='Cómo aprovechar al máximo la realidad virtual en tu trabajo: 6 consejos que deberías seguir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782'>Cómo descargar libros en ePub gratis</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-epub-gratis-1224782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-libros-epub-gratis-3283774.jpg?tf=1200x' alt='Cómo descargar libros en ePub gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275'>HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hp-no-quiere-compres-nueva-impresora-prefiere-alquiles-tambien-sabra-utilizas-1370275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/impresora-hp-2548847.jpg?tf=1200x' alt='HP no quiere que compres una nueva impresora, prefiere que la alquiles (así también sabrá para qué la utilizas)' />
     </a>
 </div>
 
