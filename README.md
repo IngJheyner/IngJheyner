@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486'>Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable</a></h4>
+    <a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219352.jpg?tf=1200x' alt='Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-uso-mando-similar-xbox-apple-car-1370483'>Apple reemplazó el volante de su cancelado Apple Car por un mando similar al de Xbox</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-uso-mando-similar-xbox-apple-car-1370483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/06/244542-mando-xbox-retrocompatibilidad-xbox-xbox-one.jpg?tf=1200x' alt='Apple reemplazó el volante de su cancelado Apple Car por un mando similar al de Xbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481'>Catastrófico: así sería la Tierra si todo el hielo se derritiera</a></h4>
     <a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='Catastrófico: así sería la Tierra si todo el hielo se derritiera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480'>¿Sabías que todas las personas con ojos azules descienden de una misma persona?</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pelirrojo-ojos-azules-3039576.jpg?tf=1200x' alt='¿Sabías que todas las personas con ojos azules descienden de una misma persona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410'>Routers WiFi 6E: cuáles son los mejores que puedes comprar ya</a></h4>
-    <a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/amazon-eero-6-analisis-opinion-2436045.jpg?tf=1200x' alt='Routers WiFi 6E: cuáles son los mejores que puedes comprar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457'>¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/memoria-movil-llena-3284094.jpg?tf=1200x' alt='¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada' />
     </a>
 </div>
 
