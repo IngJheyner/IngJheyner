@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392'>Cómo ocultar tu lista de seguidores en Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-lista-seguidores-instagram-3284296.jpg?tf=1200x' alt='Cómo ocultar tu lista de seguidores en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630'>LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas</a></h4>
     <a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-3284681.jpg?tf=1200x' alt='LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490'>Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar</a></h4>
     <a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488'>Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cheque-steve-jobs-3284362.jpg?tf=1200x' alt='Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.' />
     </a>
 </div>
 
