@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410'>Routers WiFi 6E: cuáles son los mejores que puedes comprar ya</a></h4>
+    <a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/amazon-eero-6-analisis-opinion-2436045.jpg?tf=1200x' alt='Routers WiFi 6E: cuáles son los mejores que puedes comprar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457'>¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/memoria-movil-llena-3284094.jpg?tf=1200x' alt='¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849'>He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907'>Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141'>Qué es mejor para el resfriado: ibuprofeno o paracetamol</a></h4>
-    <a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-resfriado-ibuprofeno-paracetamol-3283767.jpg?tf=1200x' alt='Qué es mejor para el resfriado: ibuprofeno o paracetamol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985'>¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos</a></h4>
-    <a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comes-demasiado-rapido-podria-reaccionar-cuerpo-expertos-3283489.jpg?tf=1200x' alt='¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos' />
     </a>
 </div>
 
