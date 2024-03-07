@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487'>El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades</a></h4>
+    <a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-3284533.jpg?tf=1200x' alt='El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906'>Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/smart-tv-rca-raq50un1-3283379.jpg?tf=1200x' alt='Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486'>Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable</a></h4>
     <a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219352.jpg?tf=1200x' alt='Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481'>Catastrófico: así sería la Tierra si todo el hielo se derritiera</a></h4>
     <a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='Catastrófico: así sería la Tierra si todo el hielo se derritiera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-top-triatletas-rompe-barrera-precio-barato-nunca-1370170'>El Garmin Forerunner más top para triatletas rompe su barrera de precio y es más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-top-triatletas-rompe-barrera-precio-barato-nunca-1370170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-forerunner-745-3283803.jpg?tf=1200x' alt='El Garmin Forerunner más top para triatletas rompe su barrera de precio y es más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480'>¿Sabías que todas las personas con ojos azules descienden de una misma persona?</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pelirrojo-ojos-azules-3039576.jpg?tf=1200x' alt='¿Sabías que todas las personas con ojos azules descienden de una misma persona?' />
     </a>
 </div>
 
