@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450'>Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-3284310.jpg?tf=1200x' alt='Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445'>Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux</a></h4>
     <a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/void-linux-tan-diferente-otras-distribuciones-linux-3284309.jpg?tf=1200x' alt='Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166'>El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281551.jpg?tf=1200x' alt='El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423'>Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara</a></h4>
-    <a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara' />
     </a>
 </div>
 
