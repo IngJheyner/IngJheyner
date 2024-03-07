@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849'>He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198'>La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo</a></h4>
+    <a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907'>Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985'>¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos</a></h4>
     <a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comes-demasiado-rapido-podria-reaccionar-cuerpo-expertos-3283489.jpg?tf=1200x' alt='¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450'>Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-3284310.jpg?tf=1200x' alt='Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445'>Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux</a></h4>
-    <a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/void-linux-tan-diferente-otras-distribuciones-linux-3284309.jpg?tf=1200x' alt='Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux' />
     </a>
 </div>
 
