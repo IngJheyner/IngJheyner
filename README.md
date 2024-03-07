@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630'>LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas</a></h4>
+    <a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-3284681.jpg?tf=1200x' alt='LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198'>¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina</a></h4>
+    <a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quieres-conservar-memoria-saca-estas-costumbres-cotidianas-rutina-3280485.jpg?tf=1200x' alt='¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
     <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-funciona-tokyvideo-youtube-espanol-series-peliculas-3284315.jpg?tf=1200x' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488'>Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.</a></h4>
     <a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cheque-steve-jobs-3284362.jpg?tf=1200x' alt='Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487'>El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades</a></h4>
-    <a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-3284533.jpg?tf=1200x' alt='El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906'>Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/smart-tv-rca-raq50un1-3283379.jpg?tf=1200x' alt='Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros' />
     </a>
 </div>
 
