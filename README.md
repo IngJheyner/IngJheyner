@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743'>Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211'>Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/medion-akoya-e15301-3283852.jpg?tf=1200x' alt='Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726'>Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-fire-tv-3011810.jpg?tf=1200x' alt='Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691'>Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España</a></h4>
     <a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/juez-aprueba-multe-usuarios-listas-iptv-apps-consumen-futbol-pirata-espana-3284741.jpg?tf=1200x' alt='Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/james-webb-descubren-antigua-galaxia-muerta-1370491'>Descubren una antigua galaxia “muerta” que desconcierta a los científicos</a></h4>
-    <a href='https://computerhoy.com/ciencia/james-webb-descubren-antigua-galaxia-muerta-1370491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-antigua-galaxia-muerta-desconcierta-cientificos-3284353.jpg?tf=1200x' alt='Descubren una antigua galaxia “muerta” que desconcierta a los científicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242'>El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes' />
     </a>
 </div>
 
