@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691'>Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España</a></h4>
+    <a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/juez-aprueba-multe-usuarios-listas-iptv-apps-consumen-futbol-pirata-espana-3284741.jpg?tf=1200x' alt='Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/james-webb-descubren-antigua-galaxia-muerta-1370491'>Descubren una antigua galaxia “muerta” que desconcierta a los científicos</a></h4>
+    <a href='https://computerhoy.com/ciencia/james-webb-descubren-antigua-galaxia-muerta-1370491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-antigua-galaxia-muerta-desconcierta-cientificos-3284353.jpg?tf=1200x' alt='Descubren una antigua galaxia “muerta” que desconcierta a los científicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242'>El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392'>Cómo ocultar tu lista de seguidores en Instagram</a></h4>
     <a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-lista-seguidores-instagram-3284296.jpg?tf=1200x' alt='Cómo ocultar tu lista de seguidores en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630'>LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas</a></h4>
-    <a href='https://computerhoy.com/espacio/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-1370630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/life-nuevo-mega-telescopio-espacial-encontrar-vida-otros-planetas-3284681.jpg?tf=1200x' alt='LIFE: El nuevo mega telescopio espacial para encontrar vida en otros planetas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198'>¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina</a></h4>
-    <a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quieres-conservar-memoria-saca-estas-costumbres-cotidianas-rutina-3280485.jpg?tf=1200x' alt='¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina' />
     </a>
 </div>
 
