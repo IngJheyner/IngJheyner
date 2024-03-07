@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481'>Catastrófico: así sería la Tierra si todo el hielo se derritiera</a></h4>
+    <a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='Catastrófico: así sería la Tierra si todo el hielo se derritiera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-forerunner-top-triatletas-rompe-barrera-precio-barato-nunca-1370170'>El Garmin Forerunner más top para triatletas rompe su barrera de precio y es más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-forerunner-top-triatletas-rompe-barrera-precio-barato-nunca-1370170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-forerunner-745-3283803.jpg?tf=1200x' alt='El Garmin Forerunner más top para triatletas rompe su barrera de precio y es más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480'>¿Sabías que todas las personas con ojos azules descienden de una misma persona?</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pelirrojo-ojos-azules-3039576.jpg?tf=1200x' alt='¿Sabías que todas las personas con ojos azules descienden de una misma persona?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457'>¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada</a></h4>
     <a href='https://computerhoy.com/android/memoria-android-llena-5-formas-liberar-espacio-desinstalar-nada-1365457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/memoria-movil-llena-3284094.jpg?tf=1200x' alt='¿Memoria de tu Android llena? Formas de liberar espacio sin borrar ni desinstalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849'>He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-14-analisis-opinion-1368849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283520.jpg?tf=1200x' alt='He probado el Xiaomi 14 y aunque no sea un "Pro", su tamaño, cámaras Leica y rendimiento bien lo parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198'>La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo</a></h4>
-    <a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo' />
     </a>
 </div>
 
