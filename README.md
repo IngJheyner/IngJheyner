@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907'>Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141'>Qué es mejor para el resfriado: ibuprofeno o paracetamol</a></h4>
     <a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-resfriado-ibuprofeno-paracetamol-3283767.jpg?tf=1200x' alt='Qué es mejor para el resfriado: ibuprofeno o paracetamol' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445'>Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux</a></h4>
     <a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/void-linux-tan-diferente-otras-distribuciones-linux-3284309.jpg?tf=1200x' alt='Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449'>¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-7-marzo-2024-3284306.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024' />
     </a>
 </div>
 
