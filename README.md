@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985'>¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comes-demasiado-rapido-podria-reaccionar-cuerpo-expertos-3283489.jpg?tf=1200x' alt='¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450'>Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-1370450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-instalar-ia-raspberry-pi-5-desbloquear-todo-potencial-3284310.jpg?tf=1200x' alt='Cómo instalar IA en tu Raspberry Pi 5 para desbloquear todo su potencial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435'>Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!</a></h4>
     <a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-3284290.jpg?tf=1200x' alt='Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166'>El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-barato-nothing-estrena-regalo-roza-300-euros-viene-auriculares-gratis-1370166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nothing-phone-2a-3281551.jpg?tf=1200x' alt='El móvil barato de Nothing se estrena con regalo: roza los 300 euros y viene con auriculares gratis' />
     </a>
 </div>
 
