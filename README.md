@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490'>Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar</a></h4>
+    <a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488'>Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cheque-steve-jobs-pagando-factura-telefono-saldra-subasta-1370488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cheque-steve-jobs-3284362.jpg?tf=1200x' alt='Steve Jobs' histórico cheque para pagar la factura del teléfono de Apple, saldrá a subasta.' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487'>El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades</a></h4>
     <a href='https://computerhoy.com/ciencia/creador-grafeno-descubre-2-materiales-potencial-inmenso-1370487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-3284533.jpg?tf=1200x' alt='El creador del grafeno ha realizado otro descubrimiento que traerá consigo lentes de contacto inteligentes o detección rápida de enfermedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486'>Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable</a></h4>
     <a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219352.jpg?tf=1200x' alt='Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-uso-mando-similar-xbox-apple-car-1370483'>Apple reemplazó el volante de su cancelado Apple Car por un mando similar al de Xbox</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-uso-mando-similar-xbox-apple-car-1370483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2017/06/244542-mando-xbox-retrocompatibilidad-xbox-xbox-one.jpg?tf=1200x' alt='Apple reemplazó el volante de su cancelado Apple Car por un mando similar al de Xbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481'>Catastrófico: así sería la Tierra si todo el hielo se derritiera</a></h4>
-    <a href='https://computerhoy.com/ciencia/catastrofico-seria-tierra-todo-hielo-derritiera-1370481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='Catastrófico: así sería la Tierra si todo el hielo se derritiera' />
     </a>
 </div>
 
