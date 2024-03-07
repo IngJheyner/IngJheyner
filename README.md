@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-funciona-tokyvideo-youtube-espanol-series-peliculas-3284315.jpg?tf=1200x' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490'>Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar</a></h4>
     <a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906'>Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-revienta-sector-tv-qled-50-supera-poco-300-euros-1369906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/smart-tv-rca-raq50un1-3283379.jpg?tf=1200x' alt='Amazon revienta el sector de las TV: esta QLED de 50" supera por poco los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486'>Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable</a></h4>
-    <a href='https://computerhoy.com/apple/todo-apunta-desarrollo-macbook-203-pulgadas-plegable-1370486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219352.jpg?tf=1200x' alt='Apple podría estar desarrollando un MacBook de 20,3 pulgadas plegable' />
     </a>
 </div>
 
