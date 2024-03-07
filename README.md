@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445'>Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux</a></h4>
+    <a href='https://computerhoy.com/pc/void-linux-tan-diferente-otras-distribuciones-linux-1370445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/void-linux-tan-diferente-otras-distribuciones-linux-3284309.jpg?tf=1200x' alt='Qué es Void Linux y por qué es tan diferente a otras distribuciones Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449'>¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-7-marzo-2024-3284306.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435'>Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!</a></h4>
     <a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-3284290.jpg?tf=1200x' alt='Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423'>Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara</a></h4>
     <a href='https://computerhoy.com/life/revisa-regletas-no-tienen-simbolo-riesgo-incendio-dispara-1370423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regleta-electrica-3284279.jpg?tf=1200x' alt='Revisa tus regletas: si no tienen este símbolo el riesgo de incendio se dispara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421'>¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sirve-ordenador-cuantico-google-ofrece-5-millones-dolares-mejores-ideas-1370421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/computacion-cuantica-3251589.jpg?tf=1200x' alt='¿Para qué sirve un ordenador cuántico? Google ofrece 5 millones de dólares a las mejores ideas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226'>Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?</a></h4>
-    <a href='https://computerhoy.com/ciencia/asteroide-apophis-cuanto-acercara-tierra-1370226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asteroide-3284086.jpg?tf=1200x' alt='Asteroide Apophis: ¿cuánto se acercará a la Tierra y por qué preocupa tanto a los astrónomos?' />
     </a>
 </div>
 
