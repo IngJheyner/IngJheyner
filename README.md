@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141'>Qué es mejor para el resfriado: ibuprofeno o paracetamol</a></h4>
+    <a href='https://computerhoy.com/life/mejor-resfriado-ibuprofeno-paracetamol-1370141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-resfriado-ibuprofeno-paracetamol-3283767.jpg?tf=1200x' alt='Qué es mejor para el resfriado: ibuprofeno o paracetamol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985'>¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos</a></h4>
     <a href='https://computerhoy.com/alimentacion/riesgos-comer-rapido-1369985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comes-demasiado-rapido-podria-reaccionar-cuerpo-expertos-3283489.jpg?tf=1200x' alt='¿Comes demasiado rápido? Así podría reaccionar tu cuerpo, según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449'>¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-7-marzo-2024-1370449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-7-marzo-2024-3284306.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 7 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435'>Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!</a></h4>
-    <a href='https://computerhoy.com/motor/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-1370435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-detenido-mundo-intentar-robar-coche-autonomo-marcha-3284290.jpg?tf=1200x' alt='Primer detenido en el mundo por intentar robar un coche autónomo... ¡En marcha!' />
     </a>
 </div>
 
