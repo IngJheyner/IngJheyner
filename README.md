@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744'>Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil</a></h4>
+    <a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-3284821.jpg?tf=1200x' alt='Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743'>Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras</a></h4>
     <a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718'>El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park</a></h4>
     <a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mamut-3284783.jpg?tf=1200x' alt='El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691'>Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España</a></h4>
-    <a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/juez-aprueba-multe-usuarios-listas-iptv-apps-consumen-futbol-pirata-espana-3284741.jpg?tf=1200x' alt='Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España' />
     </a>
 </div>
 
