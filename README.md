@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726'>Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-fire-tv-3011810.jpg?tf=1200x' alt='Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718'>El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park</a></h4>
+    <a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mamut-3284783.jpg?tf=1200x' alt='El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691'>Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España</a></h4>
     <a href='https://computerhoy.com/internet/multas-usuarios-iptv-futbol-pirata-espana-1370691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/juez-aprueba-multe-usuarios-listas-iptv-apps-consumen-futbol-pirata-espana-3284741.jpg?tf=1200x' alt='Un juez aprueba que se multe a los usuarios de IPTV y apps que consumen fútbol pirata en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242'>El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/shogun-miniserie-comparada-juego-tronos-1370318'>Shōgun, la miniserie basada en hechos reales que ya ha sido comparada con Juego de Tronos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/shogun-miniserie-comparada-juego-tronos-1370318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/shogun-3280210.jpg?tf=1200x' alt='Shōgun, la miniserie basada en hechos reales que ya ha sido comparada con Juego de Tronos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392'>Cómo ocultar tu lista de seguidores en Instagram</a></h4>
-    <a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-lista-seguidores-instagram-3284296.jpg?tf=1200x' alt='Cómo ocultar tu lista de seguidores en Instagram' />
     </a>
 </div>
 
