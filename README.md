@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242'>El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-brutal-desata-guerra-precios-dos-tiendas-importantes-1370242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='El Ryzen 7 más brutal desata la guerra de precios entre las dos tiendas más importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/shogun-miniserie-comparada-juego-tronos-1370318'>Shōgun, la miniserie basada en hechos reales que ya ha sido comparada con Juego de Tronos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/shogun-miniserie-comparada-juego-tronos-1370318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/shogun-3280210.jpg?tf=1200x' alt='Shōgun, la miniserie basada en hechos reales que ya ha sido comparada con Juego de Tronos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392'>Cómo ocultar tu lista de seguidores en Instagram</a></h4>
     <a href='https://computerhoy.com/apps/como-ocultar-lista-seguidores-instagram-1370392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-lista-seguidores-instagram-3284296.jpg?tf=1200x' alt='Cómo ocultar tu lista de seguidores en Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198'>¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina</a></h4>
     <a href='https://computerhoy.com/life/costumbres-conservar-memoria-1368198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/quieres-conservar-memoria-saca-estas-costumbres-cotidianas-rutina-3280485.jpg?tf=1200x' alt='¿Quieres conservar tu memoria? Saca estas costumbres cotidianas de tu rutina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065'>Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/que-es-como-funciona-tokyvideo-1049065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-funciona-tokyvideo-youtube-espanol-series-peliculas-3284315.jpg?tf=1200x' alt='Qué es y cómo funciona Tokyvideo: el YouTube español con series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490'>Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-antes-renta-2023-2024-te-saldra-devolver-pagar-1370490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/declaracion-renta-24-3279623.jpg?tf=1200x' alt='Cómo saber antes de hacer borrador si la Renta 2023/2024 te saldrá a devolver o pagar' />
     </a>
 </div>
 
