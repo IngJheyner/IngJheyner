@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480'>¿Sabías que todas las personas con ojos azules descienden de una misma persona?</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-personas-ojos-azules-descienden-misma-persona-1370480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/pelirrojo-ojos-azules-3039576.jpg?tf=1200x' alt='¿Sabías que todas las personas con ojos azules descienden de una misma persona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410'>Routers WiFi 6E: cuáles son los mejores que puedes comprar ya</a></h4>
     <a href='https://computerhoy.com/redes/routers-wifi-6e-cuales-son-mejores-puedes-comprar-ya-1370410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/amazon-eero-6-analisis-opinion-2436045.jpg?tf=1200x' alt='Routers WiFi 6E: cuáles son los mejores que puedes comprar ya' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198'>La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo</a></h4>
     <a href='https://computerhoy.com/apps/accion-whatsapp-podrias-estar-comprometiendo-datos-personales-1370198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='La inocente acción en WhatsApp que podría estar comprometiendo tus datos confidenciales sin saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907'>Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-movil-menos-300-euros-top-camara-200-megapixeles-carga-vertigo-1369907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi vende el móvil de menos de 300 euros más top: cámara de 200 megapixeles y carga de vértigo' />
     </a>
 </div>
 
