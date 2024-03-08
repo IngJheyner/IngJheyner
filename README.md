@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754'>¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-8-marzo-2024-3284830.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750'>Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-suelo-espana-fenomeno-sismico-unico-tierra-3284832.jpg?tf=1200x' alt='Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744'>Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil</a></h4>
     <a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-3284821.jpg?tf=1200x' alt='Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211'>Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento</a></h4>
     <a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/medion-akoya-e15301-3283852.jpg?tf=1200x' alt='Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726'>Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-sustituto-hbo-max-podria-llegar-espana-gran-noticia-tienes-amazon-fire-tv-1370726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hbo-max-fire-tv-3011810.jpg?tf=1200x' alt='Max, el sustituto de HBO Max, podría llegar a España con una gran noticia si tienes un Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718'>El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park</a></h4>
-    <a href='https://computerhoy.com/life/mamut-extinto-hace-4000-anos-podria-volver-vida-puro-estilo-jurassic-park-1370718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mamut-3284783.jpg?tf=1200x' alt='El mamut extinto hace 4.000 años podría volver a la vida al más puro estilo Jurassic Park' />
     </a>
 </div>
 
