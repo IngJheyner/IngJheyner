@@ -50,6 +50,24 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950'>Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros</a></h4>
+    <a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/frontera-pequena-mundo-espana-solo-mide-250-metros-3285276.jpg?tf=1200x' alt='Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-saber-extension-chrome-segura-1369596'>10 formas para asegurarte que tus extensiones de Chrome son totalmente seguras
+</a></h4>
+    <a href='https://computerhoy.com/internet/como-saber-extension-chrome-segura-1369596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-seguridad-3285053.jpg?tf=1200x' alt='10 formas para asegurarte que tus extensiones de Chrome son totalmente seguras
+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795'>El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg?tf=1200x' alt='El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress' />
@@ -69,22 +87,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352'>Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante</a></h4>
     <a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-incluir-dieta-tener-piel-sana-radiante-3277393.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938'>Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante</a></h4>
-    <a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-3285215.jpg?tf=1200x' alt='Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/que-es-phubbing-1368409'>Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea</a></h4>
-    <a href='https://computerhoy.com/moviles/que-es-phubbing-1368409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/phubbing-como-puede-afectar-relaciones-3280862.jpg?tf=1200x' alt='Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea' />
     </a>
 </div>
 
