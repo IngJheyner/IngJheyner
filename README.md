@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897'>Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/roborock-qrevo-3283347.jpg?tf=1200x' alt='Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950'>Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros</a></h4>
     <a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/frontera-pequena-mundo-espana-solo-mide-250-metros-3285276.jpg?tf=1200x' alt='Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros' />
@@ -79,14 +87,6 @@
     <h4><a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961'>Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales</a></h4>
     <a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mapa-google-maps-no-te-funciona-no-encuentras-boton-mapas-no-bug-ley-mercados-digitales-3285214.jpg?tf=1200x' alt='Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352'>Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante</a></h4>
-    <a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-incluir-dieta-tener-piel-sana-radiante-3277393.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante' />
     </a>
 </div>
 
