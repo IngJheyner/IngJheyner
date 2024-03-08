@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117'>SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/silvercrest-marca-esconde-electrodomesticos-lidl-3284837.jpg?tf=1200x' alt='SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873'>Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/worldcoin-escaneo-iris-datos-biometricos-3285121.jpg?tf=1200x' alt='Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855'>Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/avatar-hibernacion-biostasis-3285056.jpg?tf=1200x' alt='Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reina-tablets-baratas-xiaomi-redmi-precio-acaba-hundirse-forma-temporal-1370606'>La reina de las tablets baratas es una Xiaomi Redmi y su precio acaba de hundirse de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reina-tablets-baratas-xiaomi-redmi-precio-acaba-hundirse-forma-temporal-1370606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-pad-3284582.jpg?tf=1200x' alt='La reina de las tablets baratas es una Xiaomi Redmi y su precio acaba de hundirse de forma temporal' />
     </a>
 </div>
 
