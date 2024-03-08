@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873'>Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/worldcoin-escaneo-iris-datos-biometricos-3285121.jpg?tf=1200x' alt='Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789'>Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/macos-sonoma-3274550.jpg?tf=1200x' alt='Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-prepara-lanzamiento-memoria-gddr7-1370787'>Samsung más cerca que nunca de lanzar su memoria GDDR7 para las GPU de próxima generación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-prepara-lanzamiento-memoria-gddr7-1370787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/memoria-ram-2483735.jpg?tf=1200x' alt='Samsung más cerca que nunca de lanzar su memoria GDDR7 para las GPU de próxima generación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855'>Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/avatar-hibernacion-biostasis-3285056.jpg?tf=1200x' alt='Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reina-tablets-baratas-xiaomi-redmi-precio-acaba-hundirse-forma-temporal-1370606'>La reina de las tablets baratas es una Xiaomi Redmi y su precio acaba de hundirse de forma temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/reina-tablets-baratas-xiaomi-redmi-precio-acaba-hundirse-forma-temporal-1370606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-pad-3284582.jpg?tf=1200x' alt='La reina de las tablets baratas es una Xiaomi Redmi y su precio acaba de hundirse de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cierto-te-van-multar-ver-futbol-gratis-iptv-1370783'>¿Te van a multar por ver el futbol gratis por IPTV? No está del todo claro</a></h4>
-    <a href='https://computerhoy.com/internet/cierto-te-van-multar-ver-futbol-gratis-iptv-1370783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjeta-roja-iptv-3285001.jpg?tf=1200x' alt='¿Te van a multar por ver el futbol gratis por IPTV? No está del todo claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detectan-fallos-auriculares-permiten-escuchar-conversaciones-1370788'>Detectan vulnerabilidades en auriculares bluetooth de primeras marcas que permiten escuchar y grabar conversaciones privadas </a></h4>
-    <a href='https://computerhoy.com/tecnologia/detectan-fallos-auriculares-permiten-escuchar-conversaciones-1370788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/unas-manos-auriculares-bluetooth-3284934.jpg?tf=1200x' alt='Detectan vulnerabilidades en auriculares bluetooth de primeras marcas que permiten escuchar y grabar conversaciones privadas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-14-viene-tablet-gratis-oferta-temporal-lanzamiento-1370572'>El Xiaomi 14 es un móvil pegado a una cámara Leica y se estrena con regalo: incluye gratis la tablet Android de referencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-14-viene-tablet-gratis-oferta-temporal-lanzamiento-1370572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3282513.jpg?tf=1200x' alt='El Xiaomi 14 es un móvil pegado a una cámara Leica y se estrena con regalo: incluye gratis la tablet Android de referencia' />
     </a>
 </div>
 
