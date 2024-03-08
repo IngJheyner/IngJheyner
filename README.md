@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/increibles-fotos-estrellas-dando-luz-planetas-captadas-esa-1370770'>La Agencia Espacial Europea desvela increíbles fotos de estrellas dando a luz a planetas</a></h4>
+    <a href='https://computerhoy.com/espacio/increibles-fotos-estrellas-dando-luz-planetas-captadas-esa-1370770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/agencia-espacial-europea-desvela-increibles-fotos-estrellas-dando-luz-planetas-3284848.jpg?tf=1200x' alt='La Agencia Espacial Europea desvela increíbles fotos de estrellas dando a luz a planetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-mac-inmunes-virus-malware-1370623'>Los Mac de Apple no son inmunes a los virus, nunca lo han sido y aquí está la evidencia</a></h4>
     <a href='https://computerhoy.com/apple/apple-mac-inmunes-virus-malware-1370623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/virus-ordenadores-mac-3284680.jpg?tf=1200x' alt='Los Mac de Apple no son inmunes a los virus, nunca lo han sido y aquí está la evidencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/mejor-pais-tierra-1370522'>Cuál es el mejor país de la Tierra, según la ciencia: ¿en qué posición queda España?</a></h4>
     <a href='https://computerhoy.com/ciencia/mejor-pais-tierra-1370522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-pais-mundo-3284660.jpg?tf=1200x' alt='Cuál es el mejor país de la Tierra, según la ciencia: ¿en qué posición queda España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279'>Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-my-cloud-3284004.jpg?tf=1200x' alt='Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez' />
     </a>
 </div>
 
