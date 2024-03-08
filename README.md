@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/nuevo-edificio-alta-tecnologia-google-tiene-conexion-wifi-lamentable-1371016'>El nuevo edificio de alta tecnología de Google tiene una conexión WiFi lamentable</a></h4>
+    <a href='https://computerhoy.com/google/nuevo-edificio-alta-tecnologia-google-tiene-conexion-wifi-lamentable-1371016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bay-view-nuevo-campus-google-3285332.jpg?tf=1200x' alt='El nuevo edificio de alta tecnología de Google tiene una conexión WiFi lamentable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015'>La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-1370987'>Demuestran que es posible robar un Tesla con un Flipper Zero o una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-1370987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-3285312.jpg?tf=1200x' alt='Demuestran que es posible robar un Tesla con un Flipper Zero o una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897'>Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/roborock-qrevo-3283347.jpg?tf=1200x' alt='Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora' />
@@ -61,32 +85,6 @@
     <h4><a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950'>Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros</a></h4>
     <a href='https://computerhoy.com/life/frontera-pequena-mundo-espana-mide-250-metros-1370950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/frontera-pequena-mundo-espana-solo-mide-250-metros-3285276.jpg?tf=1200x' alt='Esta es la frontera más pequeña del mundo: está en España y solo mide 250 metros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-saber-extension-chrome-segura-1369596'>10 formas para asegurarte que tus extensiones de Chrome son totalmente seguras
-</a></h4>
-    <a href='https://computerhoy.com/internet/como-saber-extension-chrome-segura-1369596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-seguridad-3285053.jpg?tf=1200x' alt='10 formas para asegurarte que tus extensiones de Chrome son totalmente seguras
-' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795'>El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg?tf=1200x' alt='El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961'>Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mapa-google-maps-no-te-funciona-no-encuentras-boton-mapas-no-bug-ley-mercados-digitales-3285214.jpg?tf=1200x' alt='Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales' />
     </a>
 </div>
 
