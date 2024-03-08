@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938'>Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante</a></h4>
+    <a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-3285215.jpg?tf=1200x' alt='Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/que-es-phubbing-1368409'>Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea</a></h4>
+    <a href='https://computerhoy.com/moviles/que-es-phubbing-1368409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/phubbing-como-puede-afectar-relaciones-3280862.jpg?tf=1200x' alt='Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
     <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg?tf=1200x' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117'>SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/silvercrest-marca-esconde-electrodomesticos-lidl-3284837.jpg?tf=1200x' alt='SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873'>Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/worldcoin-califica-desafortunada-prohibicion-escanear-iris-1370873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/worldcoin-escaneo-iris-datos-biometricos-3285121.jpg?tf=1200x' alt='Worldcoin califica de "desafortunada" la prohibición de escanear iris de la AEPD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789'>Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/macos-sonoma-3274550.jpg?tf=1200x' alt='Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles' />
     </a>
 </div>
 
