@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-mac-inmunes-virus-malware-1370623'>Los Mac de Apple no son inmunes a los virus, nunca lo han sido y aquí está la evidencia</a></h4>
+    <a href='https://computerhoy.com/apple/apple-mac-inmunes-virus-malware-1370623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/virus-ordenadores-mac-3284680.jpg?tf=1200x' alt='Los Mac de Apple no son inmunes a los virus, nunca lo han sido y aquí está la evidencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-ofertas-insuperables-fiesta-primavera-miravia-estan-precio-locura-1370470'>10 ofertas insuperables de la Fiesta de la Primavera de Miravia que están a precio de locura</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-ofertas-insuperables-fiesta-primavera-miravia-estan-precio-locura-1370470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/miravia-app-2966198.jpg?tf=1200x' alt='10 ofertas insuperables de la Fiesta de la Primavera de Miravia que están a precio de locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/dificil-ascender-puestos-mando-tecnologia-eres-mujer-9-directivas-sector-1369166'>Por qué es difícil ascender a puestos de mando en el mundo de la tecnología si eres mujer, según 9 directivas del sector</a></h4>
+    <a href='https://computerhoy.com/industria/dificil-ascender-puestos-mando-tecnologia-eres-mujer-9-directivas-sector-1369166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dia-mujer-8m-3284732.jpg?tf=1200x' alt='Por qué es difícil ascender a puestos de mando en el mundo de la tecnología si eres mujer, según 9 directivas del sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mejor-pais-tierra-1370522'>Cuál es el mejor país de la Tierra, según la ciencia: ¿en qué posición queda España?</a></h4>
+    <a href='https://computerhoy.com/ciencia/mejor-pais-tierra-1370522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-pais-mundo-3284660.jpg?tf=1200x' alt='Cuál es el mejor país de la Tierra, según la ciencia: ¿en qué posición queda España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279'>Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez</a></h4>
     <a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-my-cloud-3284004.jpg?tf=1200x' alt='Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-resaca-ibuprofeno-paracetamol-1370368'>Qué es mejor para la resaca: ibuprofeno o paracetamol</a></h4>
-    <a href='https://computerhoy.com/life/mejor-resaca-ibuprofeno-paracetamol-1370368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-resaca-ibuprofeno-paracetamol-3284262.jpg?tf=1200x' alt='Qué es mejor para la resaca: ibuprofeno o paracetamol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753'>Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"</a></h4>
-    <a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-3284835.jpg?tf=1200x' alt='Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754'>¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-8-marzo-2024-3284830.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750'>Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-suelo-espana-fenomeno-sismico-unico-tierra-3284832.jpg?tf=1200x' alt='Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra' />
     </a>
 </div>
 
