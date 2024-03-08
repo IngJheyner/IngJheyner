@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795'>El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-tv-box-s-xiaomi-oferta-amazon-precio-historico-1370795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/xiaomi-mi-box-s-2863083.jpg?tf=1200x' alt='El accesorio para TV de Xiaomi que todos quieren en casa, a precio de outlet en Amazon, que lo vende más barato que AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961'>Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-desaparece-buscador-google-cumplir-dma-1370961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mapa-google-maps-no-te-funciona-no-encuentras-boton-mapas-no-bug-ley-mercados-digitales-3285214.jpg?tf=1200x' alt='Si el mapa de Google Maps no te funciona y no encuentras el botón de Mapas, no es bug: es la Ley de Mercados Digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352'>Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante</a></h4>
+    <a href='https://computerhoy.com/alimentacion/mejores-alimentos-piel-radiante-1366352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/estos-son-5-alimentos-debes-incluir-dieta-tener-piel-sana-radiante-3277393.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para tener una piel sana y radiante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938'>Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante</a></h4>
     <a href='https://computerhoy.com/redes/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-1370938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/operadoras-no-quieren-cambies-router-hace-wifi-funcione-rapido-instante-3285215.jpg?tf=1200x' alt='Las operadoras no quieren que cambies esto en el router: hace que el WiFi funcione más rápido al instante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/que-es-phubbing-1368409'>Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea</a></h4>
     <a href='https://computerhoy.com/moviles/que-es-phubbing-1368409' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/phubbing-como-puede-afectar-relaciones-3280862.jpg?tf=1200x' alt='Qué es el phubbing: cuando el móvil es más importante que la gente que te rodea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg?tf=1200x' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/activar-comando-sudo-linux-windows-11-1370651'>Uno de los comandos más importantes de Linux llega a Windows 11: así puedes activar sudo en tu PC</a></h4>
-    <a href='https://computerhoy.com/windows/activar-comando-sudo-linux-windows-11-1370651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comandos-importantes-linux-llega-windows-11-puedes-activarlo-pc-3284731.jpg?tf=1200x' alt='Uno de los comandos más importantes de Linux llega a Windows 11: así puedes activar sudo en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117'>SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/silvercrest-marca-esconde-electrodomesticos-lidl-3284837.jpg?tf=1200x' alt='SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl' />
     </a>
 </div>
 
