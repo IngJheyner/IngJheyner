@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833'>Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/dragon-ball-akira-toriyama-hijo-heredero-sasuke-toriyama-1099833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/dragon-ball-reinado-akira-toriyama-toei-confirma-hijo-heredero-2769965.jpg?tf=1200x' alt='Dragon Ball y el reinado de Akira Toriyama: Toei confirma que su hijo es su heredero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/activar-comando-sudo-linux-windows-11-1370651'>Uno de los comandos más importantes de Linux llega a Windows 11: así puedes activar sudo en tu PC</a></h4>
+    <a href='https://computerhoy.com/windows/activar-comando-sudo-linux-windows-11-1370651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/comandos-importantes-linux-llega-windows-11-puedes-activarlo-pc-3284731.jpg?tf=1200x' alt='Uno de los comandos más importantes de Linux llega a Windows 11: así puedes activar sudo en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117'>SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/quien-fabrica-electrodomesticos-lidl-697117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/silvercrest-marca-esconde-electrodomesticos-lidl-3284837.jpg?tf=1200x' alt='SilverCrest, la marca que se esconde tras los electrodomésticos de Lidl' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789'>Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles</a></h4>
     <a href='https://computerhoy.com/apple/apple-lanza-macos-sonoma-144-watchos-104-todos-detalles-1370789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/macos-sonoma-3274550.jpg?tf=1200x' alt='Apple lanza macOS Sonoma 14.4, watchOS 10.4, tvOS 17.4 y HomePod 17.4: todos los detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-prepara-lanzamiento-memoria-gddr7-1370787'>Samsung más cerca que nunca de lanzar su memoria GDDR7 para las GPU de próxima generación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-prepara-lanzamiento-memoria-gddr7-1370787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/memoria-ram-2483735.jpg?tf=1200x' alt='Samsung más cerca que nunca de lanzar su memoria GDDR7 para las GPU de próxima generación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855'>Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-harvard-crean-farmaco-permite-hibernacion-1370855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/avatar-hibernacion-biostasis-3285056.jpg?tf=1200x' alt='Científicos de Harvard prueban con éxito un fármaco que permite la hibernación, clave para evitar los peligros del espacio' />
     </a>
 </div>
 
