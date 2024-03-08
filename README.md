@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279'>Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-nube-ahorra-disco-duro-internet-guarda-fotos-solo-pagas-vez-1370279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-my-cloud-3284004.jpg?tf=1200x' alt='Di adiós a la nube y ahorra: este disco duro con internet guarda tus fotos y solo lo pagas una vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mejor-resaca-ibuprofeno-paracetamol-1370368'>Qué es mejor para la resaca: ibuprofeno o paracetamol</a></h4>
+    <a href='https://computerhoy.com/life/mejor-resaca-ibuprofeno-paracetamol-1370368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejor-resaca-ibuprofeno-paracetamol-3284262.jpg?tf=1200x' alt='Qué es mejor para la resaca: ibuprofeno o paracetamol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753'>Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"</a></h4>
     <a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-3284835.jpg?tf=1200x' alt='Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750'>Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-suelo-espana-fenomeno-sismico-unico-tierra-1370750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-suelo-espana-fenomeno-sismico-unico-tierra-3284832.jpg?tf=1200x' alt='Descubren bajo el suelo de España un fenómeno sísmico único en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744'>Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil</a></h4>
-    <a href='https://computerhoy.com/apps/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-1370744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-trucos-garantizados-google-maps-no-devore-bateria-movil-3284821.jpg?tf=1200x' alt='Estos son mis trucos garantizados para que Google Maps no devore la batería del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743'>Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras' />
     </a>
 </div>
 
