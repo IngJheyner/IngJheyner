@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753'>Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"</a></h4>
+    <a href='https://computerhoy.com/apps/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-1370753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/illojuan-alucina-app-ver-series-peliculas-gratis-movil-bajarla-ya-hay-todo-3284835.jpg?tf=1200x' alt='Illojuan alucina con esta app para ver series y películas gratis en el móvil: "bajarla ya, hay de todo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754'>¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-8-marzo-2024-1370754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-8-marzo-2024-3284830.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 8 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743'>Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras</a></h4>
     <a href='https://computerhoy.com/tecnologia/ingeniero-microsoft-pide-regulador-bloquee-copilot-designer-1370743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Un ingeniero de Microsoft pide al regulador que bloquee Copilot Designer, porque crea imágenes perturbadoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211'>Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-ssd-precio-chollo-pccomponentes-tiene-portatil-barato-top-momento-1370211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/medion-akoya-e15301-3283852.jpg?tf=1200x' alt='Ryzen 7 y SSD a precio de chollo: PcComponentes tiene el portátil barato más top del momento' />
     </a>
 </div>
 
