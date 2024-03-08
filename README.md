@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/detectan-fallos-auriculares-permiten-escuchar-conversaciones-1370788'>Detectan vulnerabilidades en auriculares bluetooth de primeras marcas que permiten escuchar y grabar conversaciones privadas </a></h4>
+    <a href='https://computerhoy.com/tecnologia/detectan-fallos-auriculares-permiten-escuchar-conversaciones-1370788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/unas-manos-auriculares-bluetooth-3284934.jpg?tf=1200x' alt='Detectan vulnerabilidades en auriculares bluetooth de primeras marcas que permiten escuchar y grabar conversaciones privadas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-14-viene-tablet-gratis-oferta-temporal-lanzamiento-1370572'>El Xiaomi 14 es un móvil pegado a una cámara Leica y se estrena con regalo: incluye gratis la tablet Android de referencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-14-viene-tablet-gratis-oferta-temporal-lanzamiento-1370572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3282513.jpg?tf=1200x' alt='El Xiaomi 14 es un móvil pegado a una cámara Leica y se estrena con regalo: incluye gratis la tablet Android de referencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tiendas-terceros-iphone-dejaran-funcionar-fuera-europa-1370797'>Si sales de Europa, las tiendas de terceros del iPhone dejarán de funcionar, y las apps no se actualizarán</a></h4>
     <a href='https://computerhoy.com/apple/tiendas-terceros-iphone-dejaran-funcionar-fuera-europa-1370797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-3146340.jpg?tf=1200x' alt='Si sales de Europa, las tiendas de terceros del iPhone dejarán de funcionar, y las apps no se actualizarán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/marca-fabrica-coches-nuevos-fiables-1370784'>¿Qué marca fabrica los coches nuevos más fiables?</a></h4>
-    <a href='https://computerhoy.com/motor/marca-fabrica-coches-nuevos-fiables-1370784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/lexus-desarrollando-cambio-marchas-manual-coches-electricos-porque-atractivo-conducir-2898342.jpg?tf=1200x' alt='¿Qué marca fabrica los coches nuevos más fiables?' />
     </a>
 </div>
 
