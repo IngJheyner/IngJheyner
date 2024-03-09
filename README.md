@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888'>Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/poco-x5-5g-3253564.jpg?tf=1200x' alt='Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-apagar-amazon-fire-tv-correctamente-1370673'>¿Lo estás haciendo mal? Cómo apagar un Amazon Fire TV correctamente</a></h4>
+    <a href='https://computerhoy.com/amazon/como-apagar-amazon-fire-tv-correctamente-1370673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-apagar-amazon-fire-tv-correctamente-3284766.jpg?tf=1200x' alt='¿Lo estás haciendo mal? Cómo apagar un Amazon Fire TV correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/regla-10-anos-ser-feliz-1369599'>La regla de los 10 años, o cómo mirar al futuro para ser más feliz</a></h4>
     <a href='https://computerhoy.com/life/regla-10-anos-ser-feliz-1369599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mirar-futuro-3284961.jpg?tf=1200x' alt='La regla de los 10 años, o cómo mirar al futuro para ser más feliz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709'>RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador</a></h4>
     <a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raid-discos-duros-sirve-todos-beneficios-ofrece-ordenador-3284792.jpg?tf=1200x' alt='RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/piracy-shield-iptv-ilegales-1368259'>Piracy Shield quiere acabar con las IPTV ilegales pero no termina de convencer: ¿Nuevo intento fallido contra la piratería?</a></h4>
-    <a href='https://computerhoy.com/internet/piracy-shield-iptv-ilegales-1368259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pirateria-3283637.jpg?tf=1200x' alt='Piracy Shield quiere acabar con las IPTV ilegales pero no termina de convencer: ¿Nuevo intento fallido contra la piratería?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
     </a>
 </div>
 
