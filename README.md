@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-mejores-peliculas-nominadas-oscar-2024-1370074'>Netflix, HBO Max, Prime Video, Movistar+… ¿Dónde ver las mejores películas nominadas a los Óscar 2024?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-ver-mejores-peliculas-nominadas-oscar-2024-1370074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/netflix-hbo-max-prime-video-movistar-donde-ver-mejores-peliculas-nominadas-oscar-2024-3283765.jpg?tf=1200x' alt='Netflix, HBO Max, Prime Video, Movistar+… ¿Dónde ver las mejores películas nominadas a los Óscar 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709'>RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador</a></h4>
     <a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raid-discos-duros-sirve-todos-beneficios-ofrece-ordenador-3284792.jpg?tf=1200x' alt='RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169'>Mi reloj me avisa de cuándo estoy enfermo antes de que lo note</a></h4>
     <a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-series-9-3283818.jpg?tf=1200x' alt='Mi reloj me avisa de cuándo estoy enfermo antes de que lo note' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062'>He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-app-edicion-videos-gratis-3285177.jpg?tf=1200x' alt='He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema' />
     </a>
 </div>
 
