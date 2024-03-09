@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141'>Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles</a></h4>
+    <a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140'>Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108'>Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095'>Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa' />
     </a>
 </div>
 
