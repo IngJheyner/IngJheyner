@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709'>RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/raid-beneficios-pc-1370709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raid-discos-duros-sirve-todos-beneficios-ofrece-ordenador-3284792.jpg?tf=1200x' alt='RAID de discos duros: qué es, para qué sirve y todos los beneficios que ofrece a tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/piracy-shield-iptv-ilegales-1368259'>Piracy Shield quiere acabar con las IPTV ilegales pero no termina de convencer: ¿Nuevo intento fallido contra la piratería?</a></h4>
+    <a href='https://computerhoy.com/internet/piracy-shield-iptv-ilegales-1368259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pirateria-3283637.jpg?tf=1200x' alt='Piracy Shield quiere acabar con las IPTV ilegales pero no termina de convencer: ¿Nuevo intento fallido contra la piratería?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169'>Mi reloj me avisa de cuándo estoy enfermo antes de que lo note</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-series-9-3283818.jpg?tf=1200x' alt='Mi reloj me avisa de cuándo estoy enfermo antes de que lo note' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062'>He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema</a></h4>
     <a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-app-edicion-videos-gratis-3285177.jpg?tf=1200x' alt='He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reparte-paga-extra-china-puedas-contar-minuto-1371040'>Así se reparte la paga extra en China: 13 millones de euros, lo que puedas contar en un minuto</a></h4>
-    <a href='https://computerhoy.com/life/reparte-paga-extra-china-puedas-contar-minuto-1371040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/reparte-paga-extra-china-14-millones-euros-puedas-contar-minuto-3285371.jpg?tf=1200x' alt='Así se reparte la paga extra en China: 13 millones de euros, lo que puedas contar en un minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773'>Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285094.jpg?tf=1200x' alt='Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/tener-televisor-dormitorio-no-buena-idea-motivo-1370307'>Quizá tener un televisor en el dormitorio no sea buena idea, y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/hogar/tener-televisor-dormitorio-no-buena-idea-motivo-1370307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/quiza-tener-televisor-dormitorio-no-sea-buena-idea-motivo-3284090.jpg?tf=1200x' alt='Quizá tener un televisor en el dormitorio no sea buena idea, y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034'>¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-9-marzo-2024-3285358.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024' />
     </a>
 </div>
 
