@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034'>¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-9-marzo-2024-3285358.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-1371011'>OTEC: el nuevo dispositivo flotante que aprovecha el agua del mar para generar electricidad ilimitada</a></h4>
+    <a href='https://computerhoy.com/energia/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-1371011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-3285357.jpg?tf=1200x' alt='OTEC: el nuevo dispositivo flotante que aprovecha el agua del mar para generar electricidad ilimitada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026'>Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-estan-usandolo-atacarla-3285309.jpg?tf=1200x' alt='Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015'>La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-1370987'>Demuestran que es posible robar un Tesla con un Flipper Zero o una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-1370987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/demuestran-posible-robar-tesla-flipper-zero-raspberry-pi-3285312.jpg?tf=1200x' alt='Demuestran que es posible robar un Tesla con un Flipper Zero o una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897'>Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-escoba-fregona-robot-aspirador-tiene-ia-secadora-1369897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/roborock-qrevo-3283347.jpg?tf=1200x' alt='Olvida la escoba y la fregona: este robot aspirador tiene IA y hasta secadora' />
     </a>
 </div>
 
