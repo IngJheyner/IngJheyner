@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921'>Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/allpowers-r600-3283410.jpg?tf=1200x' alt='Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141'>Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles</a></h4>
     <a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117'>La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108'>Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad' />
     </a>
 </div>
 
