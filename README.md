@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062'>He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-youtube-create-app-gratis-editar-videos-promete-1370062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-app-edicion-videos-gratis-3285177.jpg?tf=1200x' alt='He probado YouTube Create y es la app gratis perfecta para editar vídeos en el móvil, aunque esto también supone un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reparte-paga-extra-china-puedas-contar-minuto-1371040'>Así se reparte la paga extra en China: 13 millones de euros, lo que puedas contar en un minuto</a></h4>
+    <a href='https://computerhoy.com/life/reparte-paga-extra-china-puedas-contar-minuto-1371040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/reparte-paga-extra-china-14-millones-euros-puedas-contar-minuto-3285371.jpg?tf=1200x' alt='Así se reparte la paga extra en China: 13 millones de euros, lo que puedas contar en un minuto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773'>Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285094.jpg?tf=1200x' alt='Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034'>¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-9-marzo-2024-3285358.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-1371011'>OTEC: el nuevo dispositivo flotante que aprovecha el agua del mar para generar electricidad ilimitada</a></h4>
-    <a href='https://computerhoy.com/energia/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-1371011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/otec-nuevo-dispositivo-flotante-aprovecha-agua-mar-generar-electricidad-ilimitada-3285357.jpg?tf=1200x' alt='OTEC: el nuevo dispositivo flotante que aprovecha el agua del mar para generar electricidad ilimitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026'>Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-estan-usandolo-atacarla-3285309.jpg?tf=1200x' alt='Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla' />
     </a>
 </div>
 
