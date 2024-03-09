@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108'>Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095'>Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa</a></h4>
     <a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-1371066'>Microsoft sorprende con un misterioso código QR en la pantalla de bloqueo de Windows 11 y esto es lo que esconde</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-1371066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-3285402.jpg?tf=1200x' alt='Microsoft sorprende con un misterioso código QR en la pantalla de bloqueo de Windows 11 y esto es lo que esconde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-marte-historia-1369545'>Cine marciano: estas son las 5 mejores películas ambientadas en Marte de todos los tiempos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-marte-historia-1369545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cine-marciano-estas-son-5-mejores-peliculas-ambientadas-marte-todos-tiempos-3282685.jpg?tf=1200x' alt='Cine marciano: estas son las 5 mejores películas ambientadas en Marte de todos los tiempos' />
     </a>
 </div>
 
