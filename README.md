@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140'>Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652'>El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-smart-projector-2-2694953.jpg?tf=1200x' alt='El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117'>La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095'>Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa</a></h4>
     <a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089'>Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-x-smarttv-3285428.jpg?tf=1200x' alt='Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085'>WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/buscador-stickers-whatsapp-2031513.jpg?tf=1200x' alt='WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina' />
     </a>
 </div>
 
