@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773'>Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-prueba-vpn-merece-pena-opinion-1370773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285094.jpg?tf=1200x' alt='Drive pegado a una VPN: lo he probado y estoy pensando en decir adiós a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/tener-televisor-dormitorio-no-buena-idea-motivo-1370307'>Quizá tener un televisor en el dormitorio no sea buena idea, y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/hogar/tener-televisor-dormitorio-no-buena-idea-motivo-1370307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/quiza-tener-televisor-dormitorio-no-sea-buena-idea-motivo-3284090.jpg?tf=1200x' alt='Quizá tener un televisor en el dormitorio no sea buena idea, y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034'>¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-9-marzo-2024-1371034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-9-marzo-2024-3285358.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 9 de marzo de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026'>Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-1371026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-confirma-hackers-rusos-han-robado-codigo-fuente-estan-usandolo-atacarla-3285309.jpg?tf=1200x' alt='Microsoft confirma que hackers rusos han robado su código fuente, y están usándolo para atacarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nuevo-edificio-alta-tecnologia-google-tiene-conexion-wifi-lamentable-1371016'>El nuevo edificio de alta tecnología de Google tiene una conexión WiFi lamentable</a></h4>
-    <a href='https://computerhoy.com/google/nuevo-edificio-alta-tecnologia-google-tiene-conexion-wifi-lamentable-1371016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bay-view-nuevo-campus-google-3285332.jpg?tf=1200x' alt='El nuevo edificio de alta tecnología de Google tiene una conexión WiFi lamentable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015'>La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ocu-alerta-estafa-wangiri-debes-pensartelo-dos-veces-antes-devolver-llamada-1371015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='La OCU alerta sobre la estafa Wangiri y por qué debes pensártelo dos veces antes de devolver una llamada' />
     </a>
 </div>
 
