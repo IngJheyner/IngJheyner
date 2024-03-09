@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095'>Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-sera-seguro-acceder-cuenta-chatgpt-llega-autenticacion-multifactor-activa-1371095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/nunca-compartas-chatgpt-siguientes-5-datos-personales-3079446.jpg?tf=1200x' alt='Ahora será más seguro acceder a tu cuenta de ChatGPT: llega la autenticación multifactor y así se activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089'>Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-x-smarttv-3285428.jpg?tf=1200x' alt='Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-marte-historia-1369545'>Cine marciano: estas son las 5 mejores películas ambientadas en Marte de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-marte-historia-1369545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cine-marciano-estas-son-5-mejores-peliculas-ambientadas-marte-todos-tiempos-3282685.jpg?tf=1200x' alt='Cine marciano: estas son las 5 mejores películas ambientadas en Marte de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888'>Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/poco-x5-5g-3253564.jpg?tf=1200x' alt='Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio' />
     </a>
 </div>
 
