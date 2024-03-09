@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117'>La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108'>Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-puedes-crear-versiones-personalizadas-copilot-nueva-funcionalidad-1371108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-lanza-copilot-pro-usuarios-domesticos-potencia-ia-todas-apps-office-3261516.jpg?tf=1200x' alt='Ya puedes crear tus versiones personalizadas de Copilot con esta nueva funcionalidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085'>WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/buscador-stickers-whatsapp-2031513.jpg?tf=1200x' alt='WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-1371066'>Microsoft sorprende con un misterioso código QR en la pantalla de bloqueo de Windows 11 y esto es lo que esconde</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-1371066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-sorprende-misterioso-codigo-qr-pantalla-bloqueo-windows-11-esconde-3285402.jpg?tf=1200x' alt='Microsoft sorprende con un misterioso código QR en la pantalla de bloqueo de Windows 11 y esto es lo que esconde' />
     </a>
 </div>
 
