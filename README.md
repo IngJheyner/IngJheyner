@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089'>Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-anuncia-aplicacion-x-estilo-youtube-televisores-inteligentes-1371089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-x-smarttv-3285428.jpg?tf=1200x' alt='Elon Musk anuncia una aplicación de X al estilo YouTube para televisores inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085'>WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-te-permitira-decidir-quien-puede-usar-avatar-como-pegatina-1371085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/buscador-stickers-whatsapp-2031513.jpg?tf=1200x' alt='WhatsApp te permitirá decidir quién puede usar tu avatar como pegatina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888'>Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-liquidando-poco-x5-5g-moviles-vendidos-ahora-mitad-precio-1370888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/poco-x5-5g-3253564.jpg?tf=1200x' alt='Amazon está liquidando el POCO X5 5G, uno de los móviles más vendidos que ahora está a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-apagar-amazon-fire-tv-correctamente-1370673'>¿Lo estás haciendo mal? Cómo apagar un Amazon Fire TV correctamente</a></h4>
-    <a href='https://computerhoy.com/amazon/como-apagar-amazon-fire-tv-correctamente-1370673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-apagar-amazon-fire-tv-correctamente-3284766.jpg?tf=1200x' alt='¿Lo estás haciendo mal? Cómo apagar un Amazon Fire TV correctamente' />
     </a>
 </div>
 
