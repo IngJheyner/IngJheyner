@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/regla-10-anos-ser-feliz-1369599'>La regla de los 10 años, o cómo mirar al futuro para ser más feliz</a></h4>
+    <a href='https://computerhoy.com/life/regla-10-anos-ser-feliz-1369599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mirar-futuro-3284961.jpg?tf=1200x' alt='La regla de los 10 años, o cómo mirar al futuro para ser más feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-mejores-peliculas-nominadas-oscar-2024-1370074'>Netflix, HBO Max, Prime Video, Movistar+… ¿Dónde ver las mejores películas nominadas a los Óscar 2024?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-ver-mejores-peliculas-nominadas-oscar-2024-1370074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/netflix-hbo-max-prime-video-movistar-donde-ver-mejores-peliculas-nominadas-oscar-2024-3283765.jpg?tf=1200x' alt='Netflix, HBO Max, Prime Video, Movistar+… ¿Dónde ver las mejores películas nominadas a los Óscar 2024?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169'>Mi reloj me avisa de cuándo estoy enfermo antes de que lo note</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mi-reloj-me-avisa-cuando-estoy-enfermo-antes-note-1370169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-series-9-3283818.jpg?tf=1200x' alt='Mi reloj me avisa de cuándo estoy enfermo antes de que lo note' />
     </a>
 </div>
 
