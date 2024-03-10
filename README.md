@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142'>Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano</a></h4>
+    <a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sol-oceano-3285483.jpg?tf=1200x' alt='Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772'>He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple</a></h4>
+    <a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-3285036.jpg?tf=1200x' alt='He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-1370917'>Esta joven ha ganado 2 millones de euros vendiendo sus apuntes por Internet</a></h4>
+    <a href='https://computerhoy.com/redes/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-1370917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-3285157.jpg?tf=1200x' alt='Esta joven ha ganado 2 millones de euros vendiendo sus apuntes por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155'>¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-10-marzo-2024-3285500.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921'>Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/allpowers-r600-3283410.jpg?tf=1200x' alt='Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141'>Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles</a></h4>
-    <a href='https://computerhoy.com/apps/funcionan-resumenes-mensajes-basados-ia-android-auto-ya-estan-disponibles-1371141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/android-auto-2922222.jpg?tf=1200x' alt='Así funcionan los resúmenes de mensajes basados en IA en Android Auto y ya están disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140'>Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-puedas-descargarte-forma-simultanea-varias-aplicaciones-android-1371140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Google quiere que puedas descargarte de forma simultánea varias aplicaciones en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652'>El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-smart-projector-2-2694953.jpg?tf=1200x' alt='El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash' />
     </a>
 </div>
 
