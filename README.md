@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155'>¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-10-marzo-2024-3285500.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921'>Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/allpowers-r600-3283410.jpg?tf=1200x' alt='Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652'>El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyector-4k-deseado-hunde-precio-xiaomi-oferta-flash-1370652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/xiaomi-mi-smart-projector-2-2694953.jpg?tf=1200x' alt='El proyector 4K más deseado hunde su precio: de Xiaomi y en oferta flash' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117'>La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-tiene-pocas-esperanzas-voyager-1-sigue-enviando-mensajes-extranos-mientras-queda-plutonio-1371117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/voyager-1-nasa-3247297.jpg?tf=1200x' alt='La NASA tiene pocas esperanzas con la Voyager 1 que sigue enviando mensajes extraños mientras se queda sin plutonio' />
     </a>
 </div>
 
