@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-onedrive-has-estado-utilizando-estos-ultimos-anos-punto-desaparecer-1371187'>La función de OneDrive que has estado utilizando en estos últimos años y que está a punto de desaparecer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-onedrive-has-estado-utilizando-estos-ultimos-anos-punto-desaparecer-1371187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='La función de OneDrive que has estado utilizando en estos últimos años y que está a punto de desaparecer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-remakes-peliculas-1369705'>Dune y otros remakes de películas que dan mil vueltas a las originales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-remakes-peliculas-1369705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dune-otros-remakes-peliculas-dan-mil-vueltas-originales-3283090.jpg?tf=1200x' alt='Dune y otros remakes de películas que dan mil vueltas a las originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180'>Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura</a></h4>
     <a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paisaje-bosque-nieve-sol-fondo-3285524.jpg?tf=1200x' alt='Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/formas-romper-bios-ordenador-1369933'>10 maneras en que se puede dañar la BIOS de tu ordenador sin saberlo</a></h4>
     <a href='https://computerhoy.com/pc/formas-romper-bios-ordenador-1369933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bios-3283317.jpg?tf=1200x' alt='10 maneras en que se puede dañar la BIOS de tu ordenador sin saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179'>Google trabaja en una nueva forma de salir de Chrome en pantalla completa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google trabaja en una nueva forma de salir de Chrome en pantalla completa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348'>Las mejores webs gratis antivirus para escanear archivos sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-webs-gratis-antivirus-escanear-archivos-instalar-nada-3284209.jpg?tf=1200x' alt='Las mejores webs gratis antivirus para escanear archivos sin instalar nada' />
     </a>
 </div>
 
