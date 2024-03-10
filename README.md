@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144'>Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161'>Dónde ver la ceremonia de los premios Oscar 2024 en directo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/donde-ver-ceremonia-oscar-2024-directo-3285508.jpg?tf=1200x' alt='Dónde ver la ceremonia de los premios Oscar 2024 en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/piracy-shield-considera-solucion-definitiva-iptv-ilegales-1367038'>¿Qué es Piracy Shield y por qué se considera la solución definitiva contra las IPTV ilegales?</a></h4>
+    <a href='https://computerhoy.com/internet/piracy-shield-considera-solucion-definitiva-iptv-ilegales-1367038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709911293805-3285193.jpg?tf=1200x' alt='¿Qué es Piracy Shield y por qué se considera la solución definitiva contra las IPTV ilegales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142'>Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano</a></h4>
     <a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sol-oceano-3285483.jpg?tf=1200x' alt='Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772'>He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple</a></h4>
     <a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-3285036.jpg?tf=1200x' alt='He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-1370917'>Esta joven ha ganado 2 millones de euros vendiendo sus apuntes por Internet</a></h4>
-    <a href='https://computerhoy.com/redes/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-1370917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/joven-ha-ganado-2-millones-euros-vendiendo-apuntes-internet-3285157.jpg?tf=1200x' alt='Esta joven ha ganado 2 millones de euros vendiendo sus apuntes por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155'>¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-10-marzo-2024-1371155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-10-marzo-2024-3285500.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 10 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921'>Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-600w-arrasando-rebaja-precio-viene-panel-solar-1369921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/allpowers-r600-3283410.jpg?tf=1200x' alt='Este generador solar de 600W está arrasando: rebaja su precio y viene con panel solar' />
     </a>
 </div>
 
