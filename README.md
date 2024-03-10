@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180'>Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura</a></h4>
+    <a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paisaje-bosque-nieve-sol-fondo-3285524.jpg?tf=1200x' alt='Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-kindle-lector-libros-electronicos-tiene-tambien-audiolibros-1369873'>Di adiós a los Kindle: este lector de libros electrónicos tiene también audiolibros y espacio para 24.000 ebooks</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-kindle-lector-libros-electronicos-tiene-tambien-audiolibros-1369873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kobo-sage-3283319.jpg?tf=1200x' alt='Di adiós a los Kindle: este lector de libros electrónicos tiene también audiolibros y espacio para 24.000 ebooks' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/formas-romper-bios-ordenador-1369933'>10 maneras en que se puede dañar la BIOS de tu ordenador sin saberlo</a></h4>
+    <a href='https://computerhoy.com/pc/formas-romper-bios-ordenador-1369933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bios-3283317.jpg?tf=1200x' alt='10 maneras en que se puede dañar la BIOS de tu ordenador sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179'>Google trabaja en una nueva forma de salir de Chrome en pantalla completa</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google trabaja en una nueva forma de salir de Chrome en pantalla completa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348'>Las mejores webs gratis antivirus para escanear archivos sin instalar nada</a></h4>
     <a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-webs-gratis-antivirus-escanear-archivos-instalar-nada-3284209.jpg?tf=1200x' alt='Las mejores webs gratis antivirus para escanear archivos sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080'>3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-metodos-infalibles-deshabilitar-antivirus-windows-11-3276943.jpg?tf=1200x' alt='3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332'>Los 50 comandos de Linux más útiles que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/50-comandos-linux-utiles-deberias-conocer-3284172.jpg?tf=1200x' alt='Los 50 comandos de Linux más útiles que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845'>Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-distribuciones-linux-principiantes-quieren-abandonar-windows-3283293.jpg?tf=1200x' alt='Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows' />
     </a>
 </div>
 
