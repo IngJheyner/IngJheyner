@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179'>Google trabaja en una nueva forma de salir de Chrome en pantalla completa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-trabaja-nueva-forma-salir-chrome-pantalla-completa-1371179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google trabaja en una nueva forma de salir de Chrome en pantalla completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348'>Las mejores webs gratis antivirus para escanear archivos sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-webs-gratis-antivirus-1370348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-webs-gratis-antivirus-escanear-archivos-instalar-nada-3284209.jpg?tf=1200x' alt='Las mejores webs gratis antivirus para escanear archivos sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080'>3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-metodos-infalibles-deshabilitar-antivirus-windows-11-3276943.jpg?tf=1200x' alt='3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845'>Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-distribuciones-linux-principiantes-quieren-abandonar-windows-3283293.jpg?tf=1200x' alt='Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
-    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144'>Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11' />
     </a>
 </div>
 
