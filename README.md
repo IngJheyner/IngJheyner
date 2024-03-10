@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203'>Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/artico-podria-quedar-casi-libre-hielo-solo-10-anos-1371195'>El Ártico podría quedar casi libre de hielo en solo 10 años</a></h4>
     <a href='https://computerhoy.com/life/artico-podria-quedar-casi-libre-hielo-solo-10-anos-1371195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='El Ártico podría quedar casi libre de hielo en solo 10 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180'>Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura</a></h4>
     <a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paisaje-bosque-nieve-sol-fondo-3285524.jpg?tf=1200x' alt='Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/di-adios-kindle-lector-libros-electronicos-tiene-tambien-audiolibros-1369873'>Di adiós a los Kindle: este lector de libros electrónicos tiene también audiolibros y espacio para 24.000 ebooks</a></h4>
-    <a href='https://computerhoy.com/tecnologia/di-adios-kindle-lector-libros-electronicos-tiene-tambien-audiolibros-1369873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kobo-sage-3283319.jpg?tf=1200x' alt='Di adiós a los Kindle: este lector de libros electrónicos tiene también audiolibros y espacio para 24.000 ebooks' />
     </a>
 </div>
 
