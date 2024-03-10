@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332'>Los 50 comandos de Linux más útiles que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/50-comandos-linux-utiles-deberias-conocer-3284172.jpg?tf=1200x' alt='Los 50 comandos de Linux más útiles que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845'>Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-distribuciones-linux-principiantes-1369845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-distribuciones-linux-principiantes-quieren-abandonar-windows-3283293.jpg?tf=1200x' alt='Las 10 mejores distribuciones de Linux para principiantes que quieren abandonar Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.com/listas/moviles/8-mejores-moviles-xiaomi-rango-precio-55588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-3283519.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144'>Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161'>Dónde ver la ceremonia de los premios Oscar 2024 en directo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/donde-ver-ceremonia-oscar-2024-directo-3285508.jpg?tf=1200x' alt='Dónde ver la ceremonia de los premios Oscar 2024 en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/piracy-shield-considera-solucion-definitiva-iptv-ilegales-1367038'>¿Qué es Piracy Shield y por qué se considera la solución definitiva contra las IPTV ilegales?</a></h4>
-    <a href='https://computerhoy.com/internet/piracy-shield-considera-solucion-definitiva-iptv-ilegales-1367038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1709911293805-3285193.jpg?tf=1200x' alt='¿Qué es Piracy Shield y por qué se considera la solución definitiva contra las IPTV ilegales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142'>Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-muestran-alarmados-rapido-aumento-temperaturas-oceano-1371142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sol-oceano-3285483.jpg?tf=1200x' alt='Científicos se muestran alarmados por el rápido aumento de las temperaturas del océano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772'>He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple</a></h4>
-    <a href='https://computerhoy.com/analisis/garmin-venu-3-merece-pena-prueba-opinion-1370772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-3285036.jpg?tf=1200x' alt='He probado el reloj Garmin que compite con el Apple Watch y lo tiene todo para convencer incluso a los fanáticos de Apple' />
     </a>
 </div>
 
