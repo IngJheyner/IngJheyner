@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080'>3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/deshabilitar-desactivar-antivirus-gratis-windows-11-1366080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-metodos-infalibles-deshabilitar-antivirus-windows-11-3276943.jpg?tf=1200x' alt='3 métodos infalibles para deshabilitar Microsoft Defender, el antivirus de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332'>Los 50 comandos de Linux más útiles que deberías conocer</a></h4>
     <a href='https://computerhoy.com/tecnologia/comandos-linux-utiles-1370332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/50-comandos-linux-utiles-deberias-conocer-3284172.jpg?tf=1200x' alt='Los 50 comandos de Linux más útiles que deberías conocer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144'>Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/funcionara-nuevo-explorador-basado-ia-estrenara-muy-pronto-windows-11-1371144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/inteligencia-artificial-windows-11-3249484.jpg?tf=1200x' alt='Así funcionará el nuevo explorador basado en IA que estrenará muy pronto Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161'>Dónde ver la ceremonia de los premios Oscar 2024 en directo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/donde-ver-premios-oscar-2024-directo-1371161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/donde-ver-ceremonia-oscar-2024-directo-3285508.jpg?tf=1200x' alt='Dónde ver la ceremonia de los premios Oscar 2024 en directo' />
     </a>
 </div>
 
