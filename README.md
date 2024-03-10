@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231'>Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-anos-desarrollo-startup-anuncia-cpu-consume-100-veces-menos-actuales-3285622.jpg?tf=1200x' alt='Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094'>La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon</a></h4>
     <a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/momcozy-maquina-ruido-blanco-3285437.jpg?tf=1200x' alt='La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/artico-podria-quedar-casi-libre-hielo-solo-10-anos-1371195'>El Ártico podría quedar casi libre de hielo en solo 10 años</a></h4>
     <a href='https://computerhoy.com/life/artico-podria-quedar-casi-libre-hielo-solo-10-anos-1371195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/deshielo-artico-2497267.jpg?tf=1200x' alt='El Ártico podría quedar casi libre de hielo en solo 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-onedrive-has-estado-utilizando-estos-ultimos-anos-punto-desaparecer-1371187'>La función de OneDrive que has estado utilizando en estos últimos años y que está a punto de desaparecer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-onedrive-has-estado-utilizando-estos-ultimos-anos-punto-desaparecer-1371187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/onedrive-3285530.jpg?tf=1200x' alt='La función de OneDrive que has estado utilizando en estos últimos años y que está a punto de desaparecer' />
     </a>
 </div>
 
