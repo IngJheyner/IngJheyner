@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-segunda-parte-anuncio-shigeru-miyamoto-1371228'>Shigeru Miyamoto anuncia la segunda parte de Super Mario Bros La Película: primeros detalles y fecha de estreno</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-segunda-parte-anuncio-shigeru-miyamoto-1371228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shigeru-miyamoto-anuncia-segunda-parte-super-mario-bros-pelicula-primeros-detalles-fecha-estreno-3285617.jpg?tf=1200x' alt='Shigeru Miyamoto anuncia la segunda parte de Super Mario Bros La Película: primeros detalles y fecha de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203'>Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-remakes-peliculas-1369705'>Dune y otros remakes de películas que dan mil vueltas a las originales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-remakes-peliculas-1369705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dune-otros-remakes-peliculas-dan-mil-vueltas-originales-3283090.jpg?tf=1200x' alt='Dune y otros remakes de películas que dan mil vueltas a las originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180'>Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura</a></h4>
-    <a href='https://computerhoy.com/life/febrero-nueva-primavera-ha-marcado-nuevo-record-temperatura-1371180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paisaje-bosque-nieve-sol-fondo-3285524.jpg?tf=1200x' alt='Febrero es la nueva primavera: ha marcado un nuevo récord de temperatura' />
     </a>
 </div>
 
