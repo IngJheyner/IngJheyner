@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240'>Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso</a></h4>
+    <a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777'>Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-zero-3-3284855.jpg?tf=1200x' alt='Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233'>La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-explica-como-compartir-dni-internet-comprometer-privacidad-seguridad-3285625.jpg?tf=1200x' alt='La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094'>La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon</a></h4>
     <a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/momcozy-maquina-ruido-blanco-3285437.jpg?tf=1200x' alt='La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-segunda-parte-anuncio-shigeru-miyamoto-1371228'>Shigeru Miyamoto anuncia la segunda parte de Super Mario Bros La Película: primeros detalles y fecha de estreno</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/super-mario-bros-pelicula-segunda-parte-anuncio-shigeru-miyamoto-1371228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shigeru-miyamoto-anuncia-segunda-parte-super-mario-bros-pelicula-primeros-detalles-fecha-estreno-3285617.jpg?tf=1200x' alt='Shigeru Miyamoto anuncia la segunda parte de Super Mario Bros La Película: primeros detalles y fecha de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203'>Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-115-ya-disponible-llegan-todos-resumenes-basados-ia-1371203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/truco-definitivo-android-auto-nunca-pierdas-rumbo-3201816.jpg?tf=1200x' alt='Android Auto 11.5 ya está disponible: llegan para todos los resúmenes basados en IA' />
     </a>
 </div>
 
