@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253'>Un vídeo muestra por primera vez en España un chacal dorado en libertad</a></h4>
+    <a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-muestra-primera-vez-espana-chacal-dorado-libertad-3285640.jpg?tf=1200x' alt='Un vídeo muestra por primera vez en España un chacal dorado en libertad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246'>¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-11-marzo-2024-3285639.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233'>La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-explica-como-compartir-dni-internet-comprometer-privacidad-seguridad-3285625.jpg?tf=1200x' alt='La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231'>Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-anos-desarrollo-startup-anuncia-cpu-consume-100-veces-menos-actuales-3285622.jpg?tf=1200x' alt='Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales' />
     </a>
 </div>
 
