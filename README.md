@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292'>Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-buds-fe-3285682.jpg?tf=1200x' alt='Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286'>Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-ultra-2-3285674.jpg?tf=1200x' alt='Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253'>Un vídeo muestra por primera vez en España un chacal dorado en libertad</a></h4>
     <a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-muestra-primera-vez-espana-chacal-dorado-libertad-3285640.jpg?tf=1200x' alt='Un vídeo muestra por primera vez en España un chacal dorado en libertad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246'>¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-11-marzo-2024-3285639.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024' />
     </a>
 </div>
 
