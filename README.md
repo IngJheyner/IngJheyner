@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293'>LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estan-agrietando-llamado-efecto-kitkat-1371302'>Las Apple Vision Pro se están agrietando por el llamado efecto KitKat</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-estan-agrietando-llamado-efecto-kitkat-1371302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-vision-pro-kitkat-3285723.jpg?tf=1200x' alt='Las Apple Vision Pro se están agrietando por el llamado efecto KitKat' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292'>Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-buds-fe-3285682.jpg?tf=1200x' alt='Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574'>He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien</a></h4>
     <a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283022.jpg?tf=1200x' alt='He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237'>Estas son las mejores VPN para Firestick que tienen aplicación oficial</a></h4>
-    <a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-estrena-funciones-conocidas-netflix-no-perder-control-series-peliculas-favoritas-3251971.jpg?tf=1200x' alt='Estas son las mejores VPN para Firestick que tienen aplicación oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253'>Un vídeo muestra por primera vez en España un chacal dorado en libertad</a></h4>
-    <a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-muestra-primera-vez-espana-chacal-dorado-libertad-3285640.jpg?tf=1200x' alt='Un vídeo muestra por primera vez en España un chacal dorado en libertad' />
     </a>
 </div>
 
