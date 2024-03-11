@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570'>El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/error-estas-cometiendo-amazon-fire-tv-router-wifi-como-solucionarlo-3286140.jpg?tf=1200x' alt='El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/mini-pc-conector-hibrido-hdmi-displayport-1371576'>Descubren un Mini PC de hace 10 años con un conector híbrido HDMI y DisplayPort, que nadie más ha usado</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-conector-hibrido-hdmi-displayport-1371576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-mini-pc-hace-10-anos-tenia-conector-hibrido-hdmi-displayport-nadie-ha-usado-3286115.jpg?tf=1200x' alt='Descubren un Mini PC de hace 10 años con un conector híbrido HDMI y DisplayPort, que nadie más ha usado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550'>La extraña y desconocida advertencia de la OCU sobre el paracetamol</a></h4>
     <a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tomar-medicina-3286116.jpg?tf=1200x' alt='La extraña y desconocida advertencia de la OCU sobre el paracetamol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901'>Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon</a></h4>
-    <a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/muerto-muy-vivo-camaras-kodak-todavia-existen-arrasan-amazon-3285140.jpg?tf=1200x' alt='Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon' />
     </a>
 </div>
 
