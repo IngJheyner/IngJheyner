@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-dyson-arma-secreta-increible-cuesta-1371348'>Xiaomi tiene su Dyson, y con un arma secreta increíble por lo que cuesta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-dyson-arma-secreta-increible-cuesta-1371348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-truclean-w10-pro-wet-3285787.jpg?tf=1200x' alt='Xiaomi tiene su Dyson, y con un arma secreta increíble por lo que cuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553'>Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orientacion-google-maps-3286119.jpg?tf=1200x' alt='Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550'>La extraña y desconocida advertencia de la OCU sobre el paracetamol</a></h4>
+    <a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tomar-medicina-3286116.jpg?tf=1200x' alt='La extraña y desconocida advertencia de la OCU sobre el paracetamol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901'>Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon</a></h4>
     <a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/muerto-muy-vivo-camaras-kodak-todavia-existen-arrasan-amazon-3285140.jpg?tf=1200x' alt='Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-1371487'>Estas son las apps IPTV en el punto de mira de la Unión Europea, cuidado con lo que instalas</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-1371487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-3286077.jpg?tf=1200x' alt='Estas son las apps IPTV en el punto de mira de la Unión Europea, cuidado con lo que instalas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384'>Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano</a></h4>
-    <a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-3285913.jpg?tf=1200x' alt='Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tiktok-photos-nueva-app-tiktok-competir-instagram-1371511'>Se filtra TikTok Photos, la nueva app de TikTok para competir con Instagram</a></h4>
-    <a href='https://computerhoy.com/redes/tiktok-photos-nueva-app-tiktok-competir-instagram-1371511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtra-tiktok-photos-nueva-app-tiktok-competir-instagram-3286041.jpg?tf=1200x' alt='Se filtra TikTok Photos, la nueva app de TikTok para competir con Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299'>Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo</a></h4>
-    <a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redmi-note-12-turbo-3285697.jpg?tf=1200x' alt='Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo' />
     </a>
 </div>
 
