@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300'>WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303'>Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346'>Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a55-3285786.jpg?tf=1200x' alt='Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293'>LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV' />
     </a>
 </div>
 
