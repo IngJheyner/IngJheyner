@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/curioso-mensaje-humanidad-lanzara-lunas-jupiter-1371337'>Este es el curioso mensaje que la humanidad lanzará a una de las lunas de Júpiter</a></h4>
+    <a href='https://computerhoy.com/ciencia/curioso-mensaje-humanidad-lanzara-lunas-jupiter-1371337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jupiter-3285901.jpg?tf=1200x' alt='Este es el curioso mensaje que la humanidad lanzará a una de las lunas de Júpiter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-cualquier-pc-actualizar-hardware-1371452'>Inventan una tecnología que permite duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
     <a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-cualquier-pc-actualizar-hardware-1371452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='Inventan una tecnología que permite duplicar la velocidad de cualquier PC sin actualizar el hardware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304'>En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano</a></h4>
     <a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chico-miedo-3285898.jpg?tf=1200x' alt='En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300'>WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo' />
     </a>
 </div>
 
