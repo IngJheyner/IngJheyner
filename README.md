@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304'>En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano</a></h4>
+    <a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chico-miedo-3285898.jpg?tf=1200x' alt='En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300'>WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo</a></h4>
     <a href='https://computerhoy.com/tecnologia/whatsapp-prueba-modo-mostrar-chat-cifrado-1371300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-escribiendo-whatsapp-3281883.jpg?tf=1200x' alt='WhatsApp está probando mostrar más en detalle que un chat está cifrado de extremo a extremo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314'>Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346'>Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a55-3285786.jpg?tf=1200x' alt='Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves' />
     </a>
 </div>
 
