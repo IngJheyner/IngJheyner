@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574'>He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien</a></h4>
+    <a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283022.jpg?tf=1200x' alt='He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237'>Estas son las mejores VPN para Firestick que tienen aplicación oficial</a></h4>
     <a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-estrena-funciones-conocidas-netflix-no-perder-control-series-peliculas-favoritas-3251971.jpg?tf=1200x' alt='Estas son las mejores VPN para Firestick que tienen aplicación oficial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240'>Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso</a></h4>
     <a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777'>Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-zero-3-3284855.jpg?tf=1200x' alt='Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios' />
     </a>
 </div>
 
