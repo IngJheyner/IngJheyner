@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237'>Estas son las mejores VPN para Firestick que tienen aplicación oficial</a></h4>
+    <a href='https://computerhoy.com/tv/estas-son-mejores-vpn-firestick-tienen-aplicacion-oficial-1371237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-estrena-funciones-conocidas-netflix-no-perder-control-series-peliculas-favoritas-3251971.jpg?tf=1200x' alt='Estas son las mejores VPN para Firestick que tienen aplicación oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253'>Un vídeo muestra por primera vez en España un chacal dorado en libertad</a></h4>
     <a href='https://computerhoy.com/life/avista-primera-vez-espana-chacal-dorado-libertad-1371253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/video-muestra-primera-vez-espana-chacal-dorado-libertad-3285640.jpg?tf=1200x' alt='Un vídeo muestra por primera vez en España un chacal dorado en libertad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777'>Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-tiene-rival-orange-pi-cuesta-menos-30-euros-viene-todos-accesorios-1370777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-zero-3-3284855.jpg?tf=1200x' alt='Raspberry Pi tiene rival: Orange Pi cuesta menos de 30 euros y viene con todos sus accesorios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233'>La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-explica-como-compartir-dni-internet-sin-riesgo-1371233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-explica-como-compartir-dni-internet-comprometer-privacidad-seguridad-3285625.jpg?tf=1200x' alt='La Policía explica cómo compartir tu DNI por Internet, sin comprometer tu privacidad y seguridad' />
     </a>
 </div>
 
