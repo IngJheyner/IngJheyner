@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346'>Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a55-3285786.jpg?tf=1200x' alt='Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293'>LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286'>Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-ultra-2-3285674.jpg?tf=1200x' alt='Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574'>He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien</a></h4>
-    <a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283022.jpg?tf=1200x' alt='He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien' />
     </a>
 </div>
 
