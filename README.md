@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/curioso-mensaje-humanidad-lanzara-lunas-jupiter-1371337'>Este es el curioso mensaje que la humanidad lanzará a una de las lunas de Júpiter</a></h4>
-    <a href='https://computerhoy.com/ciencia/curioso-mensaje-humanidad-lanzara-lunas-jupiter-1371337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jupiter-3285901.jpg?tf=1200x' alt='Este es el curioso mensaje que la humanidad lanzará a una de las lunas de Júpiter' />
+    <h4><a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384'>Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano</a></h4>
+    <a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-3285913.jpg?tf=1200x' alt='Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-cualquier-pc-actualizar-hardware-1371452'>Inventan una tecnología que permite duplicar la velocidad de cualquier PC sin actualizar el hardware</a></h4>
-    <a href='https://computerhoy.com/pc/tecnologia-duplica-velocidad-cualquier-pc-actualizar-hardware-1371452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inventan-tecnologia-permite-duplicar-velocidad-cualquier-pc-actualizar-hardware-3285977.jpg?tf=1200x' alt='Inventan una tecnología que permite duplicar la velocidad de cualquier PC sin actualizar el hardware' />
+    <h4><a href='https://computerhoy.com/redes/tiktok-photos-nueva-app-tiktok-competir-instagram-1371511'>Se filtra TikTok Photos, la nueva app de TikTok para competir con Instagram</a></h4>
+    <a href='https://computerhoy.com/redes/tiktok-photos-nueva-app-tiktok-competir-instagram-1371511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtra-tiktok-photos-nueva-app-tiktok-competir-instagram-3286041.jpg?tf=1200x' alt='Se filtra TikTok Photos, la nueva app de TikTok para competir con Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-sin-oscas-1371401'>5 grandes películas que no tuvieron ningún Óscar (aunque pienses que sí)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-sin-oscas-1371401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/premios-oscars.jpg?tf=1200x' alt='5 grandes películas que no tuvieron ningún Óscar (aunque pienses que sí)' />
+    <h4><a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299'>Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo</a></h4>
+    <a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redmi-note-12-turbo-3285697.jpg?tf=1200x' alt='Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548'>Cómo descargar vídeos de Pinterest</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-videos-pinterest-3285372.jpg?tf=1200x' alt='Cómo descargar vídeos de Pinterest' />
+    <h4><a href='https://computerhoy.com/apple/ios-18-estrenara-nueva-funcion-salud-auditiva-airpods-pro-1371467'>iOS 18 estrenará el "modo audífono", una nueva función de salud auditiva para los AirPods Pro</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-estrenara-nueva-funcion-salud-auditiva-airpods-pro-1371467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ios-18-estrenara-modo-audifono-nueva-funcion-salud-auditiva-airpods-pro-3286012.jpg?tf=1200x' alt='iOS 18 estrenará el "modo audífono", una nueva función de salud auditiva para los AirPods Pro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304'>En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano</a></h4>
-    <a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chico-miedo-3285898.jpg?tf=1200x' alt='En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano' />
+    <h4><a href='https://computerhoy.com/life/sindrome-chica-buena-1370944'>El “síndrome de la chica buena” un patrón de comportamiento bastante malo</a></h4>
+    <a href='https://computerhoy.com/life/sindrome-chica-buena-1370944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-chica-buena-patron-comportamiento-bastante-malo-3285194.jpg?tf=1200x' alt='El “síndrome de la chica buena” un patrón de comportamiento bastante malo' />
     </a>
 </div>
 
