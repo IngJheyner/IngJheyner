@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246'>¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-11-marzo-2024-3285639.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240'>Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso</a></h4>
     <a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231'>Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales</a></h4>
     <a href='https://computerhoy.com/tecnologia/startup-anuncia-cpu-consume-100-veces-menos-actuales-1371231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/7-anos-desarrollo-startup-anuncia-cpu-consume-100-veces-menos-actuales-3285622.jpg?tf=1200x' alt='Tras 7 años de desarrollo, una startup anuncia una CPU que consume 100 veces menos que las actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094'>La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon</a></h4>
-    <a href='https://computerhoy.com/life/maquina-ruido-blanco-vale-peso-oro-dormir-rebajadisima-arrasando-amazon-1371094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/momcozy-maquina-ruido-blanco-3285437.jpg?tf=1200x' alt='La máquina de ruido blanco que vale su peso en oro para dormir, rebajadísima y arrasando en Amazon' />
     </a>
 </div>
 
