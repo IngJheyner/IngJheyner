@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286'>Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-ultra-2-3285674.jpg?tf=1200x' alt='Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574'>He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien</a></h4>
     <a href='https://computerhoy.com/analisis/he-llevado-oneplus-watch-2-como-mi-reloj-google-sienta-muy-bien-1367574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-watch-2-analisis-opinion-3283022.jpg?tf=1200x' alt='He llevado el OnePlus Watch 2 varias semanas y, además de tener una pantalla increíble, creo que Google le sienta muy bien' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246'>¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-11-marzo-2024-1371246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-11-marzo-2024-3285639.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 11 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240'>Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso</a></h4>
-    <a href='https://computerhoy.com/apple/mark-zuckerberg-vuelve-criticar-vision-pro-apple-1371240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276015.jpg?tf=1200x' alt='Mark Zuckerberg vuelve a criticar las Apple Vision Pro: pesan mucho, tienen motion blur, y un control impreciso' />
     </a>
 </div>
 
