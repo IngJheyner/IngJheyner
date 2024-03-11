@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-sin-oscas-1371401'>5 grandes películas que no tuvieron ningún Óscar (aunque pienses que sí)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-sin-oscas-1371401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/premios-oscars.jpg?tf=1200x' alt='5 grandes películas que no tuvieron ningún Óscar (aunque pienses que sí)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548'>Cómo descargar vídeos de Pinterest</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-pinterest-paso-paso-1285548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descargar-videos-pinterest-3285372.jpg?tf=1200x' alt='Cómo descargar vídeos de Pinterest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304'>En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano</a></h4>
     <a href='https://computerhoy.com/internet/consiste-teoria-internet-muerto-1371304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chico-miedo-3285898.jpg?tf=1200x' alt='En esto consiste la teoría conspiranoica del Internet Muerto que asegura que nada en la red es humano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303'>Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-volvernos-tontos-nuevo-estudio-1371294'>La IA podría volvernos tontos, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-podria-volvernos-tontos-nuevo-estudio-1371294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cerebro-3285778.jpg?tf=1200x' alt='La IA podría volvernos tontos, según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314'>Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG' />
     </a>
 </div>
 
