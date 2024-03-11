@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303'>Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-empieza-bloquear-terminos-copilot-imagenes-violentas-1371303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/microsoft-copilot-como-sacarle-partido-chat-inteligencia-artificial-3256422.jpg?tf=1200x' alt='Microsoft comienza a bloquear términos de Copilot después de haber generado imágenes de carácter sexual y violento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-podria-volvernos-tontos-nuevo-estudio-1371294'>La IA podría volvernos tontos, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-podria-volvernos-tontos-nuevo-estudio-1371294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cerebro-3285778.jpg?tf=1200x' alt='La IA podría volvernos tontos, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314'>Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-deja-ko-garmin-fenix-rebaja-vantage-v3-tiene-ecg-1371314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-vantage-v3-3285696.jpg?tf=1200x' alt='Polar deja KO a los Garmin Fenix: rebaja el Vantage V3, que hasta tiene ECG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346'>Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-presenta-galaxy-a55-a35-5g-asaltar-gama-media-1371346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a55-3285786.jpg?tf=1200x' alt='Samsung presenta el Galaxy A55 y el A35 con pantalla, diseño y cámara como principales claves' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293'>LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/laliga-aclara-como-seran-multas-ver-futbol-gratis-iptv-1371293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/adios-futbol-pirata-iptv-acestream-espana-activa-propio-piracy-shield-3277053.jpg?tf=1200x' alt='LaLiga aclara cómo serán las multas y quiénes serán multados por ver el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-estan-agrietando-llamado-efecto-kitkat-1371302'>Las Apple Vision Pro se están agrietando por el llamado efecto KitKat</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-estan-agrietando-llamado-efecto-kitkat-1371302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-vision-pro-kitkat-3285723.jpg?tf=1200x' alt='Las Apple Vision Pro se están agrietando por el llamado efecto KitKat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292'>Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-samsung-baratos-pero-tienen-anc-suenan-brutal-solo-69-euros-1371292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-buds-fe-3285682.jpg?tf=1200x' alt='Son de Samsung y baratos, pero tienen ANC y suenan brutal por solo 69 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286'>Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-fans-apple-150-euros-descuento-watch-ultra-2-correa-buscada-1371286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-ultra-2-3285674.jpg?tf=1200x' alt='Bombazo para fans de Apple: más de 150 euros de descuento en el Watch Ultra 2 con la correa más buscada' />
     </a>
 </div>
 
