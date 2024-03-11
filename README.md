@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901'>Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/camaras-kodak-amazon-1370901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/muerto-muy-vivo-camaras-kodak-todavia-existen-arrasan-amazon-3285140.jpg?tf=1200x' alt='Este muerto está muy vivo: Las cámaras de Kodak todavía existen y arrasan en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-1371487'>Estas son las apps IPTV en el punto de mira de la Unión Europea, cuidado con lo que instalas</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-1371487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-apps-iptv-punto-mira-union-europea-cuidado-instalas-3286077.jpg?tf=1200x' alt='Estas son las apps IPTV en el punto de mira de la Unión Europea, cuidado con lo que instalas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384'>Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano</a></h4>
     <a href='https://computerhoy.com/ciencia/ni-meteoritos-ni-extraterrestres-senal-2014-provoco-camion-1371384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/meteorito-3285913.jpg?tf=1200x' alt='Ni meteoritos ni extraterrestres, la extraña señal investigada en 2014 la provocó un objeto de lo más mundano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299'>Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo</a></h4>
     <a href='https://computerhoy.com/android/pepino-xiaomi-tiene-16gb-ram-precio-increiblemente-1371299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redmi-note-12-turbo-3285697.jpg?tf=1200x' alt='Este pepino de Xiaomi tiene hasta 16GB de RAM y su precio es increíblemente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-estrenara-nueva-funcion-salud-auditiva-airpods-pro-1371467'>iOS 18 estrenará el "modo audífono", una nueva función de salud auditiva para los AirPods Pro</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-estrenara-nueva-funcion-salud-auditiva-airpods-pro-1371467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ios-18-estrenara-modo-audifono-nueva-funcion-salud-auditiva-airpods-pro-3286012.jpg?tf=1200x' alt='iOS 18 estrenará el "modo audífono", una nueva función de salud auditiva para los AirPods Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/sindrome-chica-buena-1370944'>El “síndrome de la chica buena” un patrón de comportamiento bastante malo</a></h4>
-    <a href='https://computerhoy.com/life/sindrome-chica-buena-1370944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-chica-buena-patron-comportamiento-bastante-malo-3285194.jpg?tf=1200x' alt='El “síndrome de la chica buena” un patrón de comportamiento bastante malo' />
     </a>
 </div>
 
