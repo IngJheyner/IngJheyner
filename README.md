@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hay-nuevas-multas-ver-futbol-pirateado-gratis-1371674'>Ni IPTV o AceStream: este es el objetivo de las multas por ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hay-nuevas-multas-ver-futbol-pirateado-gratis-1371674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-pirateria-futbol-3286325.jpg?tf=1200x' alt='Ni IPTV o AceStream: este es el objetivo de las multas por ver el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671'>Escalan la fachada del instituto para hacer trampas en los exámenes</a></h4>
     <a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escalan-edificio-fachada-hacer-trampas-examenes-3286235.jpg?tf=1200x' alt='Escalan la fachada del instituto para hacer trampas en los exámenes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617'>Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet</a></h4>
     <a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesador-3d-3286236.jpg?tf=1200x' alt='Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ssd-hara-pc-arranque-segundos-ahora-increiblemente-barato-1371606'>Este SSD hará que tu PC arranque en segundos, y ahora es increíblemente barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ssd-hara-pc-arranque-segundos-ahora-increiblemente-barato-1371606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kioxia-exceria-g2-3286209.jpg?tf=1200x' alt='Este SSD hará que tu PC arranque en segundos, y ahora es increíblemente barato' />
     </a>
 </div>
 
