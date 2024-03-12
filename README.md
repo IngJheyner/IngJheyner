@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720'>YouTube se “vacía”: el sorprendente cambio que nadie esperaba</a></h4>
+    <a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3286472.jpg?tf=1200x' alt='YouTube se “vacía”: el sorprendente cambio que nadie esperaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583'>El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso</a></h4>
     <a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-3286178.jpg?tf=1200x' alt='El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759'>Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-grafica-3201276.jpg?tf=1200x' alt='Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750'>Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3279135.jpg?tf=1200x' alt='Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento' />
     </a>
 </div>
 
