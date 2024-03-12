@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865'>Un cometa mayor que el Everest será visible a simple vista en unas semanas</a></h4>
+    <a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/05/166496-cometa-cola.jpg?tf=1200x' alt='Un cometa mayor que el Everest será visible a simple vista en unas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622'>Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-eero-6-3286234.jpg?tf=1200x' alt='Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-confirma-fecha-fin-soporte-windows-10-21h2-1371864'>Microsoft confirma la fecha para el fin del soporte de Windows 10 21H2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-confirma-fecha-fin-soporte-windows-10-21h2-1371864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/actualizacion-windows-10-2344573.jpg?tf=1200x' alt='Microsoft confirma la fecha para el fin del soporte de Windows 10 21H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857'>Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android</a></h4>
     <a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/te-vas-poder-descargar-aplicaciones-ios-directamente-web-como-android-3286560.jpg?tf=1200x' alt='Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822'>Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo</a></h4>
     <a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-3286602.jpg?tf=1200x' alt='Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/que-es-paperclipping-1371703'>Paperclipping: cómo detectar que una relación por Internet es tóxica</a></h4>
-    <a href='https://computerhoy.com/redes/que-es-paperclipping-1371703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paperclipping-como-detectar-relacion-internet-toxica-3286349.jpg?tf=1200x' alt='Paperclipping: cómo detectar que una relación por Internet es tóxica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784'>Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga</a></h4>
-    <a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-3286569.jpg?tf=1200x' alt='Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720'>YouTube se “vacía”: el sorprendente cambio que nadie esperaba</a></h4>
-    <a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3286472.jpg?tf=1200x' alt='YouTube se “vacía”: el sorprendente cambio que nadie esperaba' />
     </a>
 </div>
 
