@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/muy-pronto-vas-poder-dejar-dni-casa-siempre-1371881'>Muy pronto vas a poder dejar el DNI en casa, para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muy-pronto-vas-poder-dejar-dni-casa-siempre-1371881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dni-2788691.jpg?tf=1200x' alt='Muy pronto vas a poder dejar el DNI en casa, para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865'>Un cometa mayor que el Everest será visible a simple vista en unas semanas</a></h4>
     <a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/05/166496-cometa-cola.jpg?tf=1200x' alt='Un cometa mayor que el Everest será visible a simple vista en unas semanas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857'>Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android</a></h4>
     <a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/te-vas-poder-descargar-aplicaciones-ios-directamente-web-como-android-3286560.jpg?tf=1200x' alt='Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822'>Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo</a></h4>
-    <a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-3286602.jpg?tf=1200x' alt='Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo' />
     </a>
 </div>
 
