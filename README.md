@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/pone-venta-cybertruck-tesla-cancela-otras-reservas-1371608'>Pone a la venta su Cybertruck y a los pocos minutos Tesla le cancela sus otras reservas: ya no podrá comprar otro Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/pone-venta-cybertruck-tesla-cancela-otras-reservas-1371608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pone-venta-cybertruck-pocos-minutos-tesla-cancela-otras-dos-reservas-3286163.jpg?tf=1200x' alt='Pone a la venta su Cybertruck y a los pocos minutos Tesla le cancela sus otras reservas: ya no podrá comprar otro Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324'>Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros</a></h4>
+    <a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x96q-3285815.jpg?tf=1200x' alt='Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-5s-orden-japon-1365954'>El sorprendente método japonés de las 5s que aumenta el bienestar mediante el orden</a></h4>
+    <a href='https://computerhoy.com/life/metodo-5s-orden-japon-1365954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-metodo-japones-aumenta-bienestar-teniendo-orden-casa-3276650.jpg?tf=1200x' alt='El sorprendente método japonés de las 5s que aumenta el bienestar mediante el orden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-stremio-semanas-ha-convertido-app-indispensable-1369074'>Llevo usando Stremio durante unas semanas y esta app unificadora de plataformas de streaming se ha convertido en algo indispensable en mi día a día</a></h4>
     <a href='https://computerhoy.com/tecnologia/llevo-usando-stremio-semanas-ha-convertido-app-indispensable-1369074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/stremio-3281935.jpg?tf=1200x' alt='Llevo usando Stremio durante unas semanas y esta app unificadora de plataformas de streaming se ha convertido en algo indispensable en mi día a día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/como-evitar-ejecuten-aplicaciones-segundo-plano-android-1368066'>Cómo evitar que se ejecuten aplicaciones en segundo plano en Android</a></h4>
     <a href='https://computerhoy.com/android/como-evitar-ejecuten-aplicaciones-segundo-plano-android-1368066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-movil-3085092.jpg?tf=1200x' alt='Cómo evitar que se ejecuten aplicaciones en segundo plano en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282113.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-poseidon-1371032'>Equivalencias de los perfumes y colonias de Poseidon</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-poseidon-1371032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-poseidon-3285360.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Poseidon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581'>¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-12-marzo-2024-3286149.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024' />
     </a>
 </div>
 
