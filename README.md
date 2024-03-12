@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784'>Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga</a></h4>
+    <a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-3286569.jpg?tf=1200x' alt='Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720'>YouTube se “vacía”: el sorprendente cambio que nadie esperaba</a></h4>
     <a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3286472.jpg?tf=1200x' alt='YouTube se “vacía”: el sorprendente cambio que nadie esperaba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/temas-prohibidos-redes-sociales-1370808'>Te traerán problemas: estos son los temas que nunca debes publicar en redes sociales</a></h4>
     <a href='https://computerhoy.com/redes/temas-prohibidos-redes-sociales-1370808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redes-sociales-3286398.jpg?tf=1200x' alt='Te traerán problemas: estos son los temas que nunca debes publicar en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759'>Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-grafica-3201276.jpg?tf=1200x' alt='Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo' />
     </a>
 </div>
 
