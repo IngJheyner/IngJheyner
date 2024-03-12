@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-stremio-semanas-ha-convertido-app-indispensable-1369074'>Llevo usando Stremio durante unas semanas y esta app unificadora de plataformas de streaming se ha convertido en algo indispensable en mi día a día</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevo-usando-stremio-semanas-ha-convertido-app-indispensable-1369074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/stremio-3281935.jpg?tf=1200x' alt='Llevo usando Stremio durante unas semanas y esta app unificadora de plataformas de streaming se ha convertido en algo indispensable en mi día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-evitar-ejecuten-aplicaciones-segundo-plano-android-1368066'>Cómo evitar que se ejecuten aplicaciones en segundo plano en Android</a></h4>
+    <a href='https://computerhoy.com/android/como-evitar-ejecuten-aplicaciones-segundo-plano-android-1368066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-movil-3085092.jpg?tf=1200x' alt='Cómo evitar que se ejecuten aplicaciones en segundo plano en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282113.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581'>¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-12-marzo-2024-3286149.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570'>El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/error-estas-cometiendo-amazon-fire-tv-router-wifi-como-solucionarlo-3286140.jpg?tf=1200x' alt='El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-conector-hibrido-hdmi-displayport-1371576'>Descubren un Mini PC de hace 10 años con un conector híbrido HDMI y DisplayPort, que nadie más ha usado</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-conector-hibrido-hdmi-displayport-1371576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-mini-pc-hace-10-anos-tenia-conector-hibrido-hdmi-displayport-nadie-ha-usado-3286115.jpg?tf=1200x' alt='Descubren un Mini PC de hace 10 años con un conector híbrido HDMI y DisplayPort, que nadie más ha usado' />
     </a>
 </div>
 
