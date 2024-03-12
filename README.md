@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647'>Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vender-wallapop-3286281.jpg?tf=1200x' alt='Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617'>Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet</a></h4>
     <a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesador-3d-3286236.jpg?tf=1200x' alt='Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324'>Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros</a></h4>
     <a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x96q-3285815.jpg?tf=1200x' alt='Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-5s-orden-japon-1365954'>El sorprendente método japonés de las 5s que aumenta el bienestar mediante el orden</a></h4>
-    <a href='https://computerhoy.com/life/metodo-5s-orden-japon-1365954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sorprendente-metodo-japones-aumenta-bienestar-teniendo-orden-casa-3276650.jpg?tf=1200x' alt='El sorprendente método japonés de las 5s que aumenta el bienestar mediante el orden' />
     </a>
 </div>
 
