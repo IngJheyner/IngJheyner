@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759'>Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tarjetas-graficas-antiguas-nvidia-reciben-superactualizacion-1371759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/tarjeta-grafica-3201276.jpg?tf=1200x' alt='Las tarjetas gráficas antiguas de NVIDIA reciben una superactualización que debes instalar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750'>Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3279135.jpg?tf=1200x' alt='Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/crean-pegamento-cierra-heridas-instante-dolor-1371706'>Crean un pegamento que cierra heridas al instante sin dolor que puede acabar con los puntos de sutura</a></h4>
+    <a href='https://computerhoy.com/ciencia/crean-pegamento-cierra-heridas-instante-dolor-1371706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pegamento-3286382.jpg?tf=1200x' alt='Crean un pegamento que cierra heridas al instante sin dolor que puede acabar con los puntos de sutura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hay-nuevas-multas-ver-futbol-pirateado-gratis-1371674'>Ni IPTV o AceStream: este es el objetivo de las multas por ver el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hay-nuevas-multas-ver-futbol-pirateado-gratis-1371674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-pirateria-futbol-3286325.jpg?tf=1200x' alt='Ni IPTV o AceStream: este es el objetivo de las multas por ver el fútbol gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671'>Escalan la fachada del instituto para hacer trampas en los exámenes</a></h4>
     <a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escalan-edificio-fachada-hacer-trampas-examenes-3286235.jpg?tf=1200x' alt='Escalan la fachada del instituto para hacer trampas en los exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-limpia-seca-solo-precio-escandalosamente-cupon-1371415'>El robot aspirador que se limpia y seca solo, a precio escandalosamente bajo con un cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-aspirador-limpia-seca-solo-precio-escandalosamente-cupon-1371415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conga-11090-spin-revolution-homewash-3285889.jpg?tf=1200x' alt='El robot aspirador que se limpia y seca solo, a precio escandalosamente bajo con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647'>Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vender-wallapop-3286281.jpg?tf=1200x' alt='Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617'>Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet</a></h4>
-    <a href='https://computerhoy.com/internet/dispositivo-solucionara-problemas-velocidad-internet-1371617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesador-3d-3286236.jpg?tf=1200x' alt='Los procesadores 3D podrían solucionar los problemas con la velocidad de Internet' />
     </a>
 </div>
 
