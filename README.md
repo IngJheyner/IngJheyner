@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581'>¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-12-marzo-2024-3286149.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570'>El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/amazon/error-estas-cometiendo-amazon-fire-tv-como-solucionarlo-1371570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/error-estas-cometiendo-amazon-fire-tv-router-wifi-como-solucionarlo-3286140.jpg?tf=1200x' alt='El error que estás cometiendo con tu Amazon Fire TV y el router WiFi, y cómo solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553'>Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orientacion-google-maps-3286119.jpg?tf=1200x' alt='Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550'>La extraña y desconocida advertencia de la OCU sobre el paracetamol</a></h4>
-    <a href='https://computerhoy.com/life/extrana-desconocida-advertencia-ocu-paracetamol-1371550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tomar-medicina-3286116.jpg?tf=1200x' alt='La extraña y desconocida advertencia de la OCU sobre el paracetamol' />
     </a>
 </div>
 
