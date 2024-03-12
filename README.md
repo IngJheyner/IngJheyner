@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-poseidon-1371032'>Equivalencias de los perfumes y colonias de Poseidon</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-poseidon-1371032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-poseidon-3285360.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Poseidon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581'>¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-12-marzo-2024-1371581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-12-marzo-2024-3286149.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 12 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-dyson-arma-secreta-increible-cuesta-1371348'>Xiaomi tiene su Dyson, y con un arma secreta increíble por lo que cuesta</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-dyson-arma-secreta-increible-cuesta-1371348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-truclean-w10-pro-wet-3285787.jpg?tf=1200x' alt='Xiaomi tiene su Dyson, y con un arma secreta increíble por lo que cuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553'>Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-corregira-error-molesto-cuando-utilizas-movil-android-1371553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orientacion-google-maps-3286119.jpg?tf=1200x' alt='Google Maps corregirá el error más molesto cuando lo utilizas en un móvil Android' />
     </a>
 </div>
 
