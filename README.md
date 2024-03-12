@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583'>El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso</a></h4>
+    <a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-3286178.jpg?tf=1200x' alt='El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/chrome-firefox-edge-safari-cual-navegador-seguro-1371580'>Chrome, Firefox, Edge o Safari: ¿cuál es el navegador más seguro?</a></h4>
     <a href='https://computerhoy.com/apps/chrome-firefox-edge-safari-cual-navegador-seguro-1371580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chrome-firefox-edge-safari-cual-navegador-seguro-3286164.jpg?tf=1200x' alt='Chrome, Firefox, Edge o Safari: ¿cuál es el navegador más seguro?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750'>Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/acusan-creadores-rabbit-r1-falsear-demo-dispositivo-1371750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/rabbit-r1-3279135.jpg?tf=1200x' alt='Acusan a los creadores del Rabbit R1 de falsear una demo del dispositivo a meses de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/crean-pegamento-cierra-heridas-instante-dolor-1371706'>Crean un pegamento que cierra heridas al instante sin dolor que puede acabar con los puntos de sutura</a></h4>
-    <a href='https://computerhoy.com/ciencia/crean-pegamento-cierra-heridas-instante-dolor-1371706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pegamento-3286382.jpg?tf=1200x' alt='Crean un pegamento que cierra heridas al instante sin dolor que puede acabar con los puntos de sutura' />
     </a>
 </div>
 
