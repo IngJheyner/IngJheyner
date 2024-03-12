@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857'>Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android</a></h4>
+    <a href='https://computerhoy.com/apple/apple-permite-descargar-apps-ios-directamente-web-1371857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/te-vas-poder-descargar-aplicaciones-ios-directamente-web-como-android-3286560.jpg?tf=1200x' alt='Vas a poder descargar aplicaciones en iOS directamente desde una web, como en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822'>Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-1371822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-dinero-necesitas-estar-1-millonarios-cada-pais-mundo-3286602.jpg?tf=1200x' alt='Cuánto dinero necesitas para estar entre el 1% de los millonarios de cada país del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/que-es-paperclipping-1371703'>Paperclipping: cómo detectar que una relación por Internet es tóxica</a></h4>
+    <a href='https://computerhoy.com/redes/que-es-paperclipping-1371703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/paperclipping-como-detectar-relacion-internet-toxica-3286349.jpg?tf=1200x' alt='Paperclipping: cómo detectar que una relación por Internet es tóxica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784'>Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga</a></h4>
     <a href='https://computerhoy.com/internet/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-1371784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cardsharing-como-funciona-alternativa-iptv-ver-futbol-gratis-persigue-laliga-3286569.jpg?tf=1200x' alt='Qué es cardsharing y cómo funciona la alternativa a IPTV para ver el fútbol gratis que persigue LaLiga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720'>YouTube se “vacía”: el sorprendente cambio que nadie esperaba</a></h4>
     <a href='https://computerhoy.com/redes/sorprendente-cambio-youtube-nadie-esperaba-1371720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3286472.jpg?tf=1200x' alt='YouTube se “vacía”: el sorprendente cambio que nadie esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583'>El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso</a></h4>
-    <a href='https://computerhoy.com/windows/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-1371583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gran-error-microsoft-windows-12-podria-llevarlo-fracaso-3286178.jpg?tf=1200x' alt='El gran error de Microsoft con Windows 12 que podría llevarlo al fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chrome-firefox-edge-safari-cual-navegador-seguro-1371580'>Chrome, Firefox, Edge o Safari: ¿cuál es el navegador más seguro?</a></h4>
-    <a href='https://computerhoy.com/apps/chrome-firefox-edge-safari-cual-navegador-seguro-1371580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chrome-firefox-edge-safari-cual-navegador-seguro-3286164.jpg?tf=1200x' alt='Chrome, Firefox, Edge o Safari: ¿cuál es el navegador más seguro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/temas-prohibidos-redes-sociales-1370808'>Te traerán problemas: estos son los temas que nunca debes publicar en redes sociales</a></h4>
-    <a href='https://computerhoy.com/redes/temas-prohibidos-redes-sociales-1370808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redes-sociales-3286398.jpg?tf=1200x' alt='Te traerán problemas: estos son los temas que nunca debes publicar en redes sociales' />
     </a>
 </div>
 
