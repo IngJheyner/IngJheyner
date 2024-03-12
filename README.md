@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671'>Escalan la fachada del instituto para hacer trampas en los exámenes</a></h4>
+    <a href='https://computerhoy.com/life/escalan-fachada-instituto-hacer-trampas-examenes-1371671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/escalan-edificio-fachada-hacer-trampas-examenes-3286235.jpg?tf=1200x' alt='Escalan la fachada del instituto para hacer trampas en los exámenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-limpia-seca-solo-precio-escandalosamente-cupon-1371415'>El robot aspirador que se limpia y seca solo, a precio escandalosamente bajo con un cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-aspirador-limpia-seca-solo-precio-escandalosamente-cupon-1371415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conga-11090-spin-revolution-homewash-3285889.jpg?tf=1200x' alt='El robot aspirador que se limpia y seca solo, a precio escandalosamente bajo con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647'>Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-personas-tendran-declarar-ventas-wallapop-1371647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vender-wallapop-3286281.jpg?tf=1200x' alt='Wallapop aclara cuándo tendrás que pagar impuestos por tus ventas ante la gran confusión entre sus usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ssd-hara-pc-arranque-segundos-ahora-increiblemente-barato-1371606'>Este SSD hará que tu PC arranque en segundos, y ahora es increíblemente barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/ssd-hara-pc-arranque-segundos-ahora-increiblemente-barato-1371606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/kioxia-exceria-g2-3286209.jpg?tf=1200x' alt='Este SSD hará que tu PC arranque en segundos, y ahora es increíblemente barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pone-venta-cybertruck-tesla-cancela-otras-reservas-1371608'>Pone a la venta su Cybertruck y a los pocos minutos Tesla le cancela sus otras reservas: ya no podrá comprar otro Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/pone-venta-cybertruck-tesla-cancela-otras-reservas-1371608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pone-venta-cybertruck-pocos-minutos-tesla-cancela-otras-dos-reservas-3286163.jpg?tf=1200x' alt='Pone a la venta su Cybertruck y a los pocos minutos Tesla le cancela sus otras reservas: ya no podrá comprar otro Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324'>Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros</a></h4>
-    <a href='https://computerhoy.com/android/olvida-tdt-aparato-pone-android-tv-cuesta-apenas-15-euros-1371324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x96q-3285815.jpg?tf=1200x' alt='Olvida la TDT: este aparato pone Android a tu TV y cuesta apenas 15 euros' />
     </a>
 </div>
 
