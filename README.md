@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944'>Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-cambiar-numero-pin-tarjeta-sim-movil-movil-android-iphone-3286181.jpg?tf=1200x' alt='Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/chip-snapdragon-x-elite-arm-qualcomm-m3-apple-1372041'>El chip Snapdragon X Elite Arm de Qualcomm prometen ser un dolor de muelas para los M3 de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/chip-snapdragon-x-elite-arm-qualcomm-m3-apple-1372041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg?tf=1200x' alt='El chip Snapdragon X Elite Arm de Qualcomm prometen ser un dolor de muelas para los M3 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012'>Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad</a></h4>
     <a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-escribiendo-3286922.jpg?tf=1200x' alt='Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633'>Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-leer-mensaje-completo-whatsapp-abrir-aplicacion-1371940'>El truco de WhatsApp que te permite leer el mensaje completo en Android sin tener que abrirlo</a></h4>
-    <a href='https://computerhoy.com/apps/como-leer-mensaje-completo-whatsapp-abrir-aplicacion-1371940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El truco de WhatsApp que te permite leer el mensaje completo en Android sin tener que abrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939'>Un nuevo malware desconocido pone en jaque la seguridad de Linux</a></h4>
-    <a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/malware-virus-linux-3286808.jpg?tf=1200x' alt='Un nuevo malware desconocido pone en jaque la seguridad de Linux' />
     </a>
 </div>
 
