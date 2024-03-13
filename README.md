@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640'>16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg?tf=1200x' alt='16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147'>Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios</a></h4>
     <a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filmin-2616077.jpg?tf=1200x' alt='Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049'>Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo</a></h4>
     <a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuatro-reglas-japonesas-vivir-100-anos-originales-okinawa-3287026.jpg?tf=1200x' alt='Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejor-pelicula-inteligencia-artificial-1372079'>Ni Her ni Terminator: la película sobre la IA más polémica está en Amazon Prime Video… ¡y hasta aparece Superman!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejor-pelicula-inteligencia-artificial-1372079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/robot-compania-3287141.jpg?tf=1200x' alt='Ni Her ni Terminator: la película sobre la IA más polémica está en Amazon Prime Video… ¡y hasta aparece Superman!' />
     </a>
 </div>
 
