@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cual-esperando-vida-media-memoria-usb-pendrive-1371986'>¿Es seguro guardar tus datos a largo plazo en una memoria USB o pendrive? Piénsatelo antes de hacerlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-esperando-vida-media-memoria-usb-pendrive-1371986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pendrive-peligro-3286912.jpg?tf=1200x' alt='¿Es seguro guardar tus datos a largo plazo en una memoria USB o pendrive? Piénsatelo antes de hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633'>Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959'>Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-solicita-patente-dispositivo-plegable-1371944'>Microsoft solicita una patente que deja entrever la llegada de la Surface Duo 3</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-solicita-patente-dispositivo-plegable-1371944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/surface-duo-2-3286794.jpg?tf=1200x' alt='Microsoft solicita una patente que deja entrever la llegada de la Surface Duo 3' />
     </a>
 </div>
 
