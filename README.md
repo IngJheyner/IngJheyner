@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896'>La razón por la que nunca encontrarás la fila 13 en algunos aviones</a></h4>
+    <a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nunca-encontraras-fila-13-algunos-aviones-3286712.jpg?tf=1200x' alt='La razón por la que nunca encontrarás la fila 13 en algunos aviones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-13-marzo-2024-1371892'>¿Qué santo es hoy? Santoral del miércoles 13 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-13-marzo-2024-1371892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-13-marzo-2024-3286685.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 13 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622'>Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-eero-6-3286234.jpg?tf=1200x' alt='Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-confirma-fecha-fin-soporte-windows-10-21h2-1371864'>Microsoft confirma la fecha para el fin del soporte de Windows 10 21H2</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-confirma-fecha-fin-soporte-windows-10-21h2-1371864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/actualizacion-windows-10-2344573.jpg?tf=1200x' alt='Microsoft confirma la fecha para el fin del soporte de Windows 10 21H2' />
     </a>
 </div>
 
