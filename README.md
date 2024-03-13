@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912'>Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/despues-reganar-alumnos-usar-chatgpt-deberes-ahora-profesores-usan-corregir-examenes-3286223.jpg?tf=1200x' alt='Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vuelve-raspberry-pi-5-amazon-tiene-stock-liquida-primera-rebaja-meses-1371425'>Vuelve la Raspberry Pi 5: Amazon tiene stock y la liquida con la primera rebaja en meses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vuelve-raspberry-pi-5-amazon-tiene-stock-liquida-primera-rebaja-meses-1371425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raspberry-pi-3285915.jpg?tf=1200x' alt='Vuelve la Raspberry Pi 5: Amazon tiene stock y la liquida con la primera rebaja en meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505'>Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente</a></h4>
     <a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-malos-habitos-estan-destruyendo-memoria-medida-envejeces-3284399.jpg?tf=1200x' alt='Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432'>Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganchillo-3286477.jpg?tf=1200x' alt='Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
-    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/panasonic-tv-fire-tv-3258729.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035'>Equivalencias de los perfumes y colonias de Gilca</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-gilca-3285363.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Gilca' />
     </a>
 </div>
 
