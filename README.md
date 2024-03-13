@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633'>Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-polar-resiste-casi-todo-presume-40-horas-gps-pero-mejor-ahora-precio-1371633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Este reloj Polar lo resiste casi todo y presume de 40 horas de GPS, pero lo mejor ahora es su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-leer-mensaje-completo-whatsapp-abrir-aplicacion-1371940'>El truco de WhatsApp que te permite leer el mensaje completo en Android sin tener que abrirlo</a></h4>
+    <a href='https://computerhoy.com/apps/como-leer-mensaje-completo-whatsapp-abrir-aplicacion-1371940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3286852.jpg?tf=1200x' alt='El truco de WhatsApp que te permite leer el mensaje completo en Android sin tener que abrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939'>Un nuevo malware desconocido pone en jaque la seguridad de Linux</a></h4>
+    <a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/malware-virus-linux-3286808.jpg?tf=1200x' alt='Un nuevo malware desconocido pone en jaque la seguridad de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959'>Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-solicita-patente-dispositivo-plegable-1371944'>Microsoft solicita una patente que deja entrever la llegada de la Surface Duo 3</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-solicita-patente-dispositivo-plegable-1371944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/surface-duo-2-3286794.jpg?tf=1200x' alt='Microsoft solicita una patente que deja entrever la llegada de la Surface Duo 3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/outlet-apple-precio-saldo-watch-ultra-2-iphone-15-chollos-oferta-flash-1371929'>Outlet de Apple a precio de saldo: Watch Ultra 2, iPhone 15 y más chollos en oferta flash</a></h4>
-    <a href='https://computerhoy.com/tecnologia/outlet-apple-precio-saldo-watch-ultra-2-iphone-15-chollos-oferta-flash-1371929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-store-3286773.jpg?tf=1200x' alt='Outlet de Apple a precio de saldo: Watch Ultra 2, iPhone 15 y más chollos en oferta flash' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/encuentran-primer-telefono-historia-espanol-1371914'>Encuentran el primer teléfono de la historia: era español, tiene más de 900 años, y se actualizaba con el paso del tiempo</a></h4>
-    <a href='https://computerhoy.com/moviles/encuentran-primer-telefono-historia-espanol-1371914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/astrolabio-3286778.jpg?tf=1200x' alt='Encuentran el primer teléfono de la historia: era español, tiene más de 900 años, y se actualizaba con el paso del tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912'>Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/despues-reganar-alumnos-usar-chatgpt-deberes-ahora-profesores-usan-corregir-examenes-3286223.jpg?tf=1200x' alt='Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes' />
     </a>
 </div>
 
