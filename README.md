@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/outlet-apple-precio-saldo-watch-ultra-2-iphone-15-chollos-oferta-flash-1371929'>Outlet de Apple a precio de saldo: Watch Ultra 2, iPhone 15 y más chollos en oferta flash</a></h4>
+    <a href='https://computerhoy.com/tecnologia/outlet-apple-precio-saldo-watch-ultra-2-iphone-15-chollos-oferta-flash-1371929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-store-3286773.jpg?tf=1200x' alt='Outlet de Apple a precio de saldo: Watch Ultra 2, iPhone 15 y más chollos en oferta flash' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/encuentran-primer-telefono-historia-espanol-1371914'>Encuentran el primer teléfono de la historia: era español, tiene más de 900 años, y se actualizaba con el paso del tiempo</a></h4>
+    <a href='https://computerhoy.com/moviles/encuentran-primer-telefono-historia-espanol-1371914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/astrolabio-3286778.jpg?tf=1200x' alt='Encuentran el primer teléfono de la historia: era español, tiene más de 900 años, y se actualizaba con el paso del tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912'>Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/muchos-profesores-estan-usando-chatgpt-corregir-examenes-trabajos-1371912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/despues-reganar-alumnos-usar-chatgpt-deberes-ahora-profesores-usan-corregir-examenes-3286223.jpg?tf=1200x' alt='Después de regañar a los alumnos por usar ChatGPT con los deberes, ahora los profesores lo usan para corregir exámenes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505'>Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente</a></h4>
     <a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-malos-habitos-estan-destruyendo-memoria-medida-envejeces-3284399.jpg?tf=1200x' alt='Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/que-son-como-funcionan-esim-viajes-airalo-holafly-1371667'>Cada vez es más barato tener internet en el móvil en el extranjero con las eSIM y a las operadoras no les importa (por ahora)</a></h4>
-    <a href='https://computerhoy.com/internet/que-son-como-funcionan-esim-viajes-airalo-holafly-1371667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-esperando-aeropuerto-montaje-tarjeta-sim-3286400.jpg?tf=1200x' alt='Cada vez es más barato tener internet en el móvil en el extranjero con las eSIM y a las operadoras no les importa (por ahora)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432'>Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganchillo-3286477.jpg?tf=1200x' alt='Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia' />
     </a>
 </div>
 
