@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012'>Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad</a></h4>
+    <a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-escribiendo-3286922.jpg?tf=1200x' alt='Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cual-esperando-vida-media-memoria-usb-pendrive-1371986'>¿Es seguro guardar tus datos a largo plazo en una memoria USB o pendrive? Piénsatelo antes de hacerlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/cual-esperando-vida-media-memoria-usb-pendrive-1371986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pendrive-peligro-3286912.jpg?tf=1200x' alt='¿Es seguro guardar tus datos a largo plazo en una memoria USB o pendrive? Piénsatelo antes de hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939'>Un nuevo malware desconocido pone en jaque la seguridad de Linux</a></h4>
     <a href='https://computerhoy.com/nuevo-malware-desconocido-linux-instala-exploits-1-dia-1371939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/malware-virus-linux-3286808.jpg?tf=1200x' alt='Un nuevo malware desconocido pone en jaque la seguridad de Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959'>Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-sera-inteligente-humanidad-5-anos-1371959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/elon-musk-inteligencia-artificial-2969202.jpg?tf=1200x' alt='Elon Musk cree que IA será más inteligente que toda la humanidad en 5 años' />
     </a>
 </div>
 
