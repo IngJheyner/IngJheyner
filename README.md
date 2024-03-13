@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505'>Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente</a></h4>
+    <a href='https://computerhoy.com/life/malos-habitos-destruyendo-memoria-1370505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-malos-habitos-estan-destruyendo-memoria-medida-envejeces-3284399.jpg?tf=1200x' alt='Malos hábitos que están destruyendo tu memoria a medida que envejeces y que puedes evitar fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/que-son-como-funcionan-esim-viajes-airalo-holafly-1371667'>Cada vez es más barato tener internet en el móvil en el extranjero con las eSIM y a las operadoras no les importa (por ahora)</a></h4>
+    <a href='https://computerhoy.com/internet/que-son-como-funcionan-esim-viajes-airalo-holafly-1371667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-esperando-aeropuerto-montaje-tarjeta-sim-3286400.jpg?tf=1200x' alt='Cada vez es más barato tener internet en el móvil en el extranjero con las eSIM y a las operadoras no les importa (por ahora)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432'>Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/mejor-aficion-cuidar-salud-mental-1371432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ganchillo-3286477.jpg?tf=1200x' alt='Tu abuela tenía razón: esta es la mejor afición para cuidar tu salud mental, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182'>Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores</a></h4>
+    <a href='https://computerhoy.com/mejores/televisores-amazon-fire-tv-1197182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/panasonic-tv-fire-tv-3258729.jpg?tf=1200x' alt='Televisores con Fire TV como sistema operativo: por qué merecen la pena y cuáles son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035'>Equivalencias de los perfumes y colonias de Gilca</a></h4>
     <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-gilca-3285363.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Gilca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896'>La razón por la que nunca encontrarás la fila 13 en algunos aviones</a></h4>
-    <a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nunca-encontraras-fila-13-algunos-aviones-3286712.jpg?tf=1200x' alt='La razón por la que nunca encontrarás la fila 13 en algunos aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-13-marzo-2024-1371892'>¿Qué santo es hoy? Santoral del miércoles 13 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-13-marzo-2024-1371892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-13-marzo-2024-3286685.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 13 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/muy-pronto-vas-poder-dejar-dni-casa-siempre-1371881'>Muy pronto vas a poder dejar el DNI en casa, para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/muy-pronto-vas-poder-dejar-dni-casa-siempre-1371881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/dni-2788691.jpg?tf=1200x' alt='Muy pronto vas a poder dejar el DNI en casa, para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865'>Un cometa mayor que el Everest será visible a simple vista en unas semanas</a></h4>
-    <a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/05/166496-cometa-cola.jpg?tf=1200x' alt='Un cometa mayor que el Everest será visible a simple vista en unas semanas' />
     </a>
 </div>
 
