@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-oferta-auriculares-bluetooth-regalo-1371398'>Este smartwatch para mujer viene con regalo y rebaja brutal: es de Huawei y ha desplomado su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-gt-4-oferta-auriculares-bluetooth-regalo-1371398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/huawei-watch-gt-4-3285841.jpg?tf=1200x' alt='Este smartwatch para mujer viene con regalo y rebaja brutal: es de Huawei y ha desplomado su precio' />
+    <h4><a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147'>Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filmin-2616077.jpg?tf=1200x' alt='Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/te-van-multar-ver-futbol-gratis-iptv-carsharing-acestream-1372043'>¿Te van a multar por ver el fútbol gratis por IPTV, Carsharing o Acestream? Todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/tv/te-van-multar-ver-futbol-gratis-iptv-carsharing-acestream-1372043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-iptv-3287077.jpg?tf=1200x' alt='¿Te van a multar por ver el fútbol gratis por IPTV, Carsharing o Acestream? Todo lo que debes saber' />
+    <h4><a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148'>Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero</a></h4>
+    <a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallece-paul-alexander-hombre-llevaba-71-anos-dentro-pulmon-acero-3287189.jpg?tf=1200x' alt='Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/perseverance-fotografia-seta-marte-1372024'>El Perseverance fotografía una “seta” en Marte, y así lo explican los científicos</a></h4>
-    <a href='https://computerhoy.com/ciencia/perseverance-fotografia-seta-marte-1372024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seta-marte-3287073.jpg?tf=1200x' alt='El Perseverance fotografía una “seta” en Marte, y así lo explican los científicos' />
+    <h4><a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143'>Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro</a></h4>
+    <a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/taringa-cierra-despues-20-anos-razon-1372061'>Taringa! echa el cierre después de 20 años, y sus responsables tienen un claro culpable</a></h4>
-    <a href='https://computerhoy.com/redes/taringa-cierra-despues-20-anos-razon-1372061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/taringa-3287072.jpg?tf=1200x' alt='Taringa! echa el cierre después de 20 años, y sus responsables tienen un claro culpable' />
+    <h4><a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049'>Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo</a></h4>
+    <a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuatro-reglas-japonesas-vivir-100-anos-originales-okinawa-3287026.jpg?tf=1200x' alt='Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944'>Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-pin-tarjeta-sim-movil-1355944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-cambiar-numero-pin-tarjeta-sim-movil-movil-android-iphone-3286181.jpg?tf=1200x' alt='Cómo cambiar el número PIN de la tarjeta SIM del móvil en un móvil Android o iPhone' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejor-pelicula-inteligencia-artificial-1372079'>Ni Her ni Terminator: la película sobre la IA más polémica está en Amazon Prime Video… ¡y hasta aparece Superman!</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejor-pelicula-inteligencia-artificial-1372079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/robot-compania-3287141.jpg?tf=1200x' alt='Ni Her ni Terminator: la película sobre la IA más polémica está en Amazon Prime Video… ¡y hasta aparece Superman!' />
     </a>
 </div>
 
