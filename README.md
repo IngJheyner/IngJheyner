@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035'>Equivalencias de los perfumes y colonias de Gilca</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-gilca-1371035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-gilca-3285363.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de Gilca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896'>La razón por la que nunca encontrarás la fila 13 en algunos aviones</a></h4>
     <a href='https://computerhoy.com/life/razon-nunca-encontraras-fila-13-algunos-aviones-1371896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nunca-encontraras-fila-13-algunos-aviones-3286712.jpg?tf=1200x' alt='La razón por la que nunca encontrarás la fila 13 en algunos aviones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865'>Un cometa mayor que el Everest será visible a simple vista en unas semanas</a></h4>
     <a href='https://computerhoy.com/espacio/cometa-mayor-everest-sera-visible-simple-vista-unas-semanas-1371865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/05/166496-cometa-cola.jpg?tf=1200x' alt='Un cometa mayor que el Everest será visible a simple vista en unas semanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622'>Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-soluciona-wifi-pack-dos-potentisimos-routers-gigabit-precio-outlet-1371622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-eero-6-3286234.jpg?tf=1200x' alt='Amazon soluciona lo de tu WiFi: su pack de dos potentísimos routers gigabit, a precio de outlet' />
     </a>
 </div>
 
