@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/te-van-multar-ver-futbol-gratis-iptv-carsharing-acestream-1372043'>¿Te van a multar por ver el fútbol gratis por IPTV, Carsharing o Acestream? Todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.com/tv/te-van-multar-ver-futbol-gratis-iptv-carsharing-acestream-1372043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-iptv-3287077.jpg?tf=1200x' alt='¿Te van a multar por ver el fútbol gratis por IPTV, Carsharing o Acestream? Todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/perseverance-fotografia-seta-marte-1372024'>El Perseverance fotografía una “seta” en Marte, y así lo explican los científicos</a></h4>
     <a href='https://computerhoy.com/ciencia/perseverance-fotografia-seta-marte-1372024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seta-marte-3287073.jpg?tf=1200x' alt='El Perseverance fotografía una “seta” en Marte, y así lo explican los científicos' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/apple/chip-snapdragon-x-elite-arm-qualcomm-m3-apple-1372041'>El chip Snapdragon X Elite Arm de Qualcomm prometen ser un dolor de muelas para los M3 de Apple</a></h4>
     <a href='https://computerhoy.com/apple/chip-snapdragon-x-elite-arm-qualcomm-m3-apple-1372041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/snapdragon-8-gen-2-2828603.jpg?tf=1200x' alt='El chip Snapdragon X Elite Arm de Qualcomm prometen ser un dolor de muelas para los M3 de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012'>Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad</a></h4>
+    <a href='https://computerhoy.com/life/como-detectar-enfermedades-mediante-cambios-forma-escribir-1372012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-escribiendo-3286922.jpg?tf=1200x' alt='Los cambios en tu forma de escribir pueden ser el primer síntoma de esta terrible enfermedad' />
     </a>
 </div>
 
