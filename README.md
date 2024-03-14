@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609'>Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-5-aspectos-debes-conocer-ahorrar-supermercado-3284612.jpg?tf=1200x' alt='Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/asus-zenfone-11-ultra-movil-caracteristicas-precio-informacion-1372394'>Asus no se queda atrás y su móvil Zenfone 11 Ultra incorpora IA, gran pantalla y batería de récord</a></h4>
+    <a href='https://computerhoy.com/moviles/asus-zenfone-11-ultra-movil-caracteristicas-precio-informacion-1372394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-zenfone-11-ultra-3287604.jpg?tf=1200x' alt='Asus no se queda atrás y su móvil Zenfone 11 Ultra incorpora IA, gran pantalla y batería de récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378'>Tras unos minutos con el realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-5g-3287582.jpg?tf=1200x' alt='Tras unos minutos con el realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334'>¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables</a></h4>
+    <a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/coches-segunda-mano-3287522.jpg?tf=1200x' alt='¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350'>Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows</a></h4>
     <a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-windows-2987564.jpg?tf=1200x' alt='Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321'>No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error</a></h4>
-    <a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg?tf=1200x' alt='No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tor-presenta-funcion-webtunnel-capaz-evitar-censura-1372268'>Tor presenta su función WebTunnel que es capaz de evitar la censura</a></h4>
-    <a href='https://computerhoy.com/internet/tor-presenta-funcion-webtunnel-capaz-evitar-censura-1372268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/navegador-tor-3287368.jpg?tf=1200x' alt='Tor presenta su función WebTunnel que es capaz de evitar la censura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/video-4k-fotos-brutales-amazon-tumba-precio-camara-evil-buscada-principiantes-1371677'>Vídeo 4K y fotos brutales: Amazon tumba el precio de la cámara EVIL más buscada por los principiantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/video-4k-fotos-brutales-amazon-tumba-precio-camara-evil-buscada-principiantes-1371677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/panasonic-lumix-g7-3286319.jpg?tf=1200x' alt='Vídeo 4K y fotos brutales: Amazon tumba el precio de la cámara EVIL más buscada por los principiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267'>Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/figure-one-3287365.jpg?tf=1200x' alt='Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración' />
     </a>
 </div>
 
