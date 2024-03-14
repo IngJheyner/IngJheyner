@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257'>Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710397693577-3287329.jpg?tf=1200x' alt='Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253'>Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico competente</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-actualiza-paint-windows-11-ya-editor-grafico-competente-3287330.jpg?tf=1200x' alt='Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico competente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891'>Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido</a></h4>
     <a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-dns-gratis-2024-conexion-internet-funcione-mucho-rapido-3286696.jpg?tf=1200x' alt='Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470'>Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención</a></h4>
     <a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/adobe-apps-alla-photoshop-3287115.jpg?tf=1200x' alt='Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859'>Menús ocultos y códigos secretos de los Smart TV de Samsung</a></h4>
-    <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-samsung-3286684.jpg?tf=1200x' alt='Menús ocultos y códigos secretos de los Smart TV de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644'>Samsung vende los AirTags para Android, y son baratos y vienen en dos colores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-smarttag2-3286267.jpg?tf=1200x' alt='Samsung vende los AirTags para Android, y son baratos y vienen en dos colores' />
     </a>
 </div>
 
