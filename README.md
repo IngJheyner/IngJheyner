@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253'>Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico competente</a></h4>
+    <h4><a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253'>Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-actualiza-paint-windows-11-ya-editor-grafico-competente-3287330.jpg?tf=1200x' alt='Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico competente' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-actualiza-paint-windows-11-ya-editor-grafico-competente-3287330.jpg?tf=1200x' alt='Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente' />
     </a>
 </div>
 
