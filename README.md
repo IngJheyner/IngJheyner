@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226'>¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-14-marzo-2024-3287300.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640'>16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg?tf=1200x' alt='16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143'>Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro</a></h4>
     <a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049'>Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo</a></h4>
-    <a href='https://computerhoy.com/life/reglas-japon-vivir-okinawa-1372049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuatro-reglas-japonesas-vivir-100-anos-originales-okinawa-3287026.jpg?tf=1200x' alt='Las cuatro reglas japonesas para vivir 100 años de Okinawa, la ciudad más longeva del mundo' />
     </a>
 </div>
 
