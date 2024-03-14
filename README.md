@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502'>Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500'>¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg?tf=1200x' alt='¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descargar-videos-tiktok-movil-1372331'>Cómo descargar videos de TikTok directamente en el móvil sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-videos-tiktok-movil-1372331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-3269966.jpg?tf=1200x' alt='Cómo descargar videos de TikTok directamente en el móvil sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454'>ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-google-translate-cual-mejor-traducir-textos-3287718.jpg?tf=1200x' alt='ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779'>El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte</a></h4>
     <a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-lavadora-ha-vuelto-viral-te-ahorra-tener-ir-tinte-3286468.jpg?tf=1200x' alt='El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275'>Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-grandes-secretos-marte-volcan-9000-metros-altura-3287370.jpg?tf=1200x' alt='Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131'>Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet</a></h4>
-    <a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg?tf=1200x' alt='Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609'>Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-5-aspectos-debes-conocer-ahorrar-supermercado-3284612.jpg?tf=1200x' alt='Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado' />
     </a>
 </div>
 
