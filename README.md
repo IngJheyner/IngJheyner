@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509'>Cuándo debes utilizar Google Maps y cuándo es mejor Waze</a></h4>
+    <a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-debes-utilizar-google-maps-cuando-mejor-waze-3287775.jpg?tf=1200x' alt='Cuándo debes utilizar Google Maps y cuándo es mejor Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525'>La conferencia Google I/O ya tiene fecha: esto es lo que veremos</a></h4>
+    <a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conferencia-google-i-ya-tiene-fecha-veremos-3287760.jpg?tf=1200x' alt='La conferencia Google I/O ya tiene fecha: esto es lo que veremos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511'>Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar</a></h4>
     <a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/starship-spacex-cohete-nos-llevara-luna-despega-exito-pero-pierde-antes-caer-mar-3287740.jpg?tf=1200x' alt='Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500'>¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen</a></h4>
     <a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg?tf=1200x' alt='¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descargar-videos-tiktok-movil-1372331'>Cómo descargar videos de TikTok directamente en el móvil sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/apps/descargar-videos-tiktok-movil-1372331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tiktok-3269966.jpg?tf=1200x' alt='Cómo descargar videos de TikTok directamente en el móvil sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454'>ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-google-translate-cual-mejor-traducir-textos-3287718.jpg?tf=1200x' alt='ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?' />
     </a>
 </div>
 
