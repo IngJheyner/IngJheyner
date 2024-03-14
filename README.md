@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267'>Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/figure-one-3287365.jpg?tf=1200x' alt='Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296'>¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?</a></h4>
+    <a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/james-webb-coincide-ley-hubble-tasa-expansion-universo-3287402.jpg?tf=1200x' alt='¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264'>OpenAI filtra por accidente la nueva gran actualización de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='OpenAI filtra por accidente la nueva gran actualización de ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265'>Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi</a></h4>
     <a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-gtr-2-2074741.jpg?tf=1200x' alt='Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257'>Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710397693577-3287329.jpg?tf=1200x' alt='Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253'>Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-actualiza-paint-windows-11-ya-editor-grafico-competente-3287330.jpg?tf=1200x' alt='Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente' />
     </a>
 </div>
 
