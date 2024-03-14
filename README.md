@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511'>Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar</a></h4>
+    <a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/starship-spacex-cohete-nos-llevara-luna-despega-exito-pero-pierde-antes-caer-mar-3287740.jpg?tf=1200x' alt='Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502'>Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454'>ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?</a></h4>
     <a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-google-translate-cual-mejor-traducir-textos-3287718.jpg?tf=1200x' alt='ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779'>El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte</a></h4>
-    <a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-lavadora-ha-vuelto-viral-te-ahorra-tener-ir-tinte-3286468.jpg?tf=1200x' alt='El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte' />
     </a>
 </div>
 
