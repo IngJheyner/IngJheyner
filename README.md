@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234'>La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris</a></h4>
+    <a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-3287290.jpg?tf=1200x' alt='La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-1372230'>Así he personalizado Android Auto a mi gusto y se lo recomiendo a todo el mundo</a></h4>
+    <a href='https://computerhoy.com/android/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-1372230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Así he personalizado Android Auto a mi gusto y se lo recomiendo a todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228'>Cómo adaptar un móvil Android para personas mayores</a></h4>
     <a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-adaptar-movil-android-personas-mayores-3287308.jpg?tf=1200x' alt='Cómo adaptar un móvil Android para personas mayores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640'>16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/16-gb-ram-windows-11-portatil-huawei-revienta-precio-cupon-1371640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/07/huawei-matebook-d14-2020-2002905.jpg?tf=1200x' alt='16 GB de RAM y Windows 11: este portátil HUAWEI revienta su precio con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147'>Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/filmin-alternativa-espanola-netflix-sube-precio-todos-usuarios-1372147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/filmin-2616077.jpg?tf=1200x' alt='Filmin, la alternativa española a Netflix, sube de precio para todos sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148'>Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero</a></h4>
-    <a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallece-paul-alexander-hombre-llevaba-71-anos-dentro-pulmon-acero-3287189.jpg?tf=1200x' alt='Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero' />
     </a>
 </div>
 
