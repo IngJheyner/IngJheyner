@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891'>Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-dns-gratis-2024-conexion-internet-funcione-mucho-rapido-3286696.jpg?tf=1200x' alt='Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/108tb-nube-personal-cancela-dropbox-gracias-nas-amazon-ha-rebajado-1371661'>Hasta 108TB en tu nube personal: cancela Dropbox gracias a este NAS que Amazon ha rebajado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/108tb-nube-personal-cancela-dropbox-gracias-nas-amazon-ha-rebajado-1371661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/synology-ds223j-3286283.jpg?tf=1200x' alt='Hasta 108TB en tu nube personal: cancela Dropbox gracias a este NAS que Amazon ha rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470'>Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención</a></h4>
+    <a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/adobe-apps-alla-photoshop-3287115.jpg?tf=1200x' alt='Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859'>Menús ocultos y códigos secretos de los Smart TV de Samsung</a></h4>
     <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-samsung-3286684.jpg?tf=1200x' alt='Menús ocultos y códigos secretos de los Smart TV de Samsung' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644'>Samsung vende los AirTags para Android, y son baratos y vienen en dos colores</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-smarttag2-3286267.jpg?tf=1200x' alt='Samsung vende los AirTags para Android, y son baratos y vienen en dos colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-divain-1371036'>Equivalencias de los perfumes y colonias de DIVAIN</a></h4>
-    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-divain-1371036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-divain-3285368.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de DIVAIN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-llama-demonios-pinta-apple-todo-1372231'>¿Por qué Raspberry Pi se llama así y qué demonios pinta Apple en todo esto?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-llama-demonios-pinta-apple-todo-1372231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raspberry-pi-llama-demonios-pinta-apple-todo-3287312.jpg?tf=1200x' alt='¿Por qué Raspberry Pi se llama así y qué demonios pinta Apple en todo esto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234'>La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris</a></h4>
-    <a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-3287290.jpg?tf=1200x' alt='La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris' />
     </a>
 </div>
 
