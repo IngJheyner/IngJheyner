@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321'>No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error</a></h4>
+    <a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg?tf=1200x' alt='No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tor-presenta-funcion-webtunnel-capaz-evitar-censura-1372268'>Tor presenta su función WebTunnel que es capaz de evitar la censura</a></h4>
+    <a href='https://computerhoy.com/internet/tor-presenta-funcion-webtunnel-capaz-evitar-censura-1372268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/navegador-tor-3287368.jpg?tf=1200x' alt='Tor presenta su función WebTunnel que es capaz de evitar la censura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/video-4k-fotos-brutales-amazon-tumba-precio-camara-evil-buscada-principiantes-1371677'>Vídeo 4K y fotos brutales: Amazon tumba el precio de la cámara EVIL más buscada por los principiantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/video-4k-fotos-brutales-amazon-tumba-precio-camara-evil-buscada-principiantes-1371677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/panasonic-lumix-g7-3286319.jpg?tf=1200x' alt='Vídeo 4K y fotos brutales: Amazon tumba el precio de la cámara EVIL más buscada por los principiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267'>Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/figure-one-3287365.jpg?tf=1200x' alt='Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296'>¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?</a></h4>
     <a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/james-webb-coincide-ley-hubble-tasa-expansion-universo-3287402.jpg?tf=1200x' alt='¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264'>OpenAI filtra por accidente la nueva gran actualización de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='OpenAI filtra por accidente la nueva gran actualización de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/sera-ultima-actualizacion-google-maps-empresas-1372269'>Google Maps y Google Search planean una gran actualización para perfiles seleccionados</a></h4>
-    <a href='https://computerhoy.com/apps/sera-ultima-actualizacion-google-maps-empresas-1372269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-utilizando-google-maps-3287367.jpg?tf=1200x' alt='Google Maps y Google Search planean una gran actualización para perfiles seleccionados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265'>Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-gtr-2-2074741.jpg?tf=1200x' alt='Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi' />
     </a>
 </div>
 
