@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131'>Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet</a></h4>
+    <a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg?tf=1200x' alt='Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609'>Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado</a></h4>
     <a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-5-aspectos-debes-conocer-ahorrar-supermercado-3284612.jpg?tf=1200x' alt='Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334'>¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables</a></h4>
     <a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/coches-segunda-mano-3287522.jpg?tf=1200x' alt='¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350'>Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows</a></h4>
-    <a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-windows-2987564.jpg?tf=1200x' alt='Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows' />
     </a>
 </div>
 
