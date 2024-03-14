@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228'>Cómo adaptar un móvil Android para personas mayores</a></h4>
+    <a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-adaptar-movil-android-personas-mayores-3287308.jpg?tf=1200x' alt='Cómo adaptar un móvil Android para personas mayores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226'>¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-14-marzo-2024-3287300.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148'>Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero</a></h4>
     <a href='https://computerhoy.com/life/fallece-paul-alexander-hombre-71-anos-dentro-pulmon-acero-1372148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallece-paul-alexander-hombre-llevaba-71-anos-dentro-pulmon-acero-3287189.jpg?tf=1200x' alt='Fallece Paul Alexander, el hombre que llevaba 71 años dentro de un pulmón de acero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143'>Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro</a></h4>
-    <a href='https://computerhoy.com/internet/tim-berners-lee-inventor-internet-comparte-sorprendentes-predicciones-futuro-1372143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tim-berners-lee-2962230.jpg?tf=1200x' alt='Tim Berners-Lee, el inventor de Internet, comparte sus sorprendentes predicciones para el futuro' />
     </a>
 </div>
 
