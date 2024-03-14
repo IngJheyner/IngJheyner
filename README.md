@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378'>Tras unos minutos con el realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante</a></h4>
+    <h4><a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378'>Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante</a></h4>
     <a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-5g-3287582.jpg?tf=1200x' alt='Tras unos minutos con el realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-5g-3287582.jpg?tf=1200x' alt='Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante' />
     </a>
 </div>
 
