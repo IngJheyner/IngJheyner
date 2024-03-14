@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275'>Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-grandes-secretos-marte-volcan-9000-metros-altura-3287370.jpg?tf=1200x' alt='Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131'>Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet</a></h4>
     <a href='https://computerhoy.com/life/gana-200000-euros-vendiendo-plantillas-excel-google-sheets-1372131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/portatil-hoja-calculo-excel-pantalla-2646439.jpg?tf=1200x' alt='Una joven gana en menos de 2 años más de 200.000 euros vendiendo plantillas de Excel por Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378'>Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante</a></h4>
     <a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-5g-3287582.jpg?tf=1200x' alt='Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334'>¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables</a></h4>
-    <a href='https://computerhoy.com/motor/coches-segunda-mano-mas-fiables-1372334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/coches-segunda-mano-3287522.jpg?tf=1200x' alt='¿Quieres comprar un coche de segunda mano? Estos son los modelos y marcas más fiables' />
     </a>
 </div>
 
