@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264'>OpenAI filtra por accidente la nueva gran actualización de ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-filtra-accidente-nueva-gran-actualizacion-chatgpt-1372264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='OpenAI filtra por accidente la nueva gran actualización de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sera-ultima-actualizacion-google-maps-empresas-1372269'>Google Maps y Google Search planean una gran actualización para perfiles seleccionados</a></h4>
+    <a href='https://computerhoy.com/apps/sera-ultima-actualizacion-google-maps-empresas-1372269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-utilizando-google-maps-3287367.jpg?tf=1200x' alt='Google Maps y Google Search planean una gran actualización para perfiles seleccionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265'>Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-llamadas-gps-reloj-amazfit-ahora-barato-xiaomi-1372265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/amazfit-gtr-2-2074741.jpg?tf=1200x' alt='Alexa, llamadas y GPS: este reloj de Amazfit es ahora más barato que un Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257'>Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/miniatura-ferrari-roma-spider-cuesta-coche-verdad-1372257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710397693577-3287329.jpg?tf=1200x' alt='Esta miniatura del Ferrari Roma Spider cuesta más que un coche de verdad (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253'>Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-actualiza-paint-windows-11-pinceles-capas-1372253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-actualiza-paint-windows-11-ya-editor-grafico-competente-3287330.jpg?tf=1200x' alt='Microsoft actualiza Paint en Windows 11, y ya es un editor gráfico bastante competente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891'>Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-dns-gratis-1371891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-dns-gratis-2024-conexion-internet-funcione-mucho-rapido-3286696.jpg?tf=1200x' alt='Los mejores DNS gratis de 2024 para que tu conexión a internet funcione mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/108tb-nube-personal-cancela-dropbox-gracias-nas-amazon-ha-rebajado-1371661'>Hasta 108TB en tu nube personal: cancela Dropbox gracias a este NAS que Amazon ha rebajado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/108tb-nube-personal-cancela-dropbox-gracias-nas-amazon-ha-rebajado-1371661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/synology-ds223j-3286283.jpg?tf=1200x' alt='Hasta 108TB en tu nube personal: cancela Dropbox gracias a este NAS que Amazon ha rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470'>Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención</a></h4>
-    <a href='https://computerhoy.com/apps/adobe-mucho-photoshop-apps-he-utilizado-1371470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/adobe-apps-alla-photoshop-3287115.jpg?tf=1200x' alt='Adobe es mucho más que Photoshop: estas son las aplicaciones que más me han llamado la atención' />
     </a>
 </div>
 
