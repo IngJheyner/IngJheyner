@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454'>ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-traducir-textos-mejor-google-translate-1372454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-google-translate-cual-mejor-traducir-textos-3287718.jpg?tf=1200x' alt='ChatGPT o Google Translate: ¿Cuál es mejor para traducir textos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779'>El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte</a></h4>
+    <a href='https://computerhoy.com/hogar/truco-lavadora-viral-lavado-seco-1371779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-lavadora-ha-vuelto-viral-te-ahorra-tener-ir-tinte-3286468.jpg?tf=1200x' alt='El truco para tu lavadora que se ha vuelto viral y te ahorra tener que ir al tinte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275'>Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-marte-volcan-9000-metros-altura-1372275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubren-grandes-secretos-marte-volcan-9000-metros-altura-3287370.jpg?tf=1200x' alt='Descubren un "enorme" secreto de Marte: un volcán de más de 9.000 metros de altura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609'>Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado</a></h4>
     <a href='https://computerhoy.com/alimentacion/claves-ahorrar-supermercado-1370609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-5-aspectos-debes-conocer-ahorrar-supermercado-3284612.jpg?tf=1200x' alt='Que no te engañen: 5 aspectos que debes conocer para ahorrar en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/asus-zenfone-11-ultra-movil-caracteristicas-precio-informacion-1372394'>Asus no se queda atrás y su móvil Zenfone 11 Ultra incorpora IA, gran pantalla y batería de récord</a></h4>
-    <a href='https://computerhoy.com/moviles/asus-zenfone-11-ultra-movil-caracteristicas-precio-informacion-1372394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-zenfone-11-ultra-3287604.jpg?tf=1200x' alt='Asus no se queda atrás y su móvil Zenfone 11 Ultra incorpora IA, gran pantalla y batería de récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378'>Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-12-pro-plus-5g-caracteristicas-precio-informacion-1372378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-5g-3287582.jpg?tf=1200x' alt='Tras unos minutos con el Realme 12 Pro+ 5G, creo que es un gama media al que envidiar, y no solo por su diseño elegante' />
     </a>
 </div>
 
