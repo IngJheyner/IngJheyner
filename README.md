@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859'>Menús ocultos y códigos secretos de los Smart TV de Samsung</a></h4>
+    <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-samsung-1371859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-samsung-3286684.jpg?tf=1200x' alt='Menús ocultos y códigos secretos de los Smart TV de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644'>Samsung vende los AirTags para Android, y son baratos y vienen en dos colores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-vende-airtags-android-son-baratos-vienen-dos-colores-1371644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-smarttag2-3286267.jpg?tf=1200x' alt='Samsung vende los AirTags para Android, y son baratos y vienen en dos colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-divain-1371036'>Equivalencias de los perfumes y colonias de DIVAIN</a></h4>
+    <a href='https://computerhoy.com/life/equivalencias-perfumes-colonias-divain-1371036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/equivalencias-perfumes-colonias-divain-3285368.jpg?tf=1200x' alt='Equivalencias de los perfumes y colonias de DIVAIN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-llama-demonios-pinta-apple-todo-1372231'>¿Por qué Raspberry Pi se llama así y qué demonios pinta Apple en todo esto?</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-llama-demonios-pinta-apple-todo-1372231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/raspberry-pi-llama-demonios-pinta-apple-todo-3287312.jpg?tf=1200x' alt='¿Por qué Raspberry Pi se llama así y qué demonios pinta Apple en todo esto?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234'>La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris</a></h4>
     <a href='https://computerhoy.com/criptos/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-1372234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audiencia-nacional-dicta-sentencia-worldcoin-escaneo-iris-3287290.jpg?tf=1200x' alt='La Audiencia Nacional dicta sentencia sobre Worldcoin y su escaneo de iris' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-1372230'>Así he personalizado Android Auto a mi gusto y se lo recomiendo a todo el mundo</a></h4>
-    <a href='https://computerhoy.com/android/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-1372230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Así he personalizado Android Auto a mi gusto y se lo recomiendo a todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228'>Cómo adaptar un móvil Android para personas mayores</a></h4>
-    <a href='https://computerhoy.com/moviles/como-adaptar-movil-android-personas-mayores-1372228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-adaptar-movil-android-personas-mayores-3287308.jpg?tf=1200x' alt='Cómo adaptar un móvil Android para personas mayores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226'>¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-14-marzo-2024-1372226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-14-marzo-2024-3287300.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 14 de marzo de 2024' />
     </a>
 </div>
 
