@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350'>Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows</a></h4>
+    <a href='https://computerhoy.com/windows/linux-gana-usuarios-gracias-ayuda-windows-microsoft-1372350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/linux-windows-2987564.jpg?tf=1200x' alt='Linux podría estar ganando usuarios gracias a un insólito y sorprendente aliado... Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321'>No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error</a></h4>
     <a href='https://computerhoy.com/internet/no-no-te-van-robar-datos-bancarios-recibes-bizum-error-1372321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/como-recuperar-dinero-cuando-has-enviado-bizum-equivocado-2692583.jpg?tf=1200x' alt='No, no te van a robar los datos bancarios ni tienes que denunciar si recibes un Bizum por error' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267'>Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-humanoide-deja-panales-optimus-robot-elon-musk-1372267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/figure-one-3287365.jpg?tf=1200x' alt='Este robot humanoide deja en pañales a Optimus, el robot de Elon Musk, en un vídeo de demostración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296'>¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?</a></h4>
-    <a href='https://computerhoy.com/ciencia/james-webb-coincide-ley-hubble-tasa-expansion-universo-1372296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/james-webb-coincide-ley-hubble-tasa-expansion-universo-3287402.jpg?tf=1200x' alt='¿Por qué el James Webb es el único que cree en la Ley de Hubble en la tasa de expansión del universo?' />
     </a>
 </div>
 
