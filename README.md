@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/velocidad-google-maps-waze-diferente-coche-1372533'>Por qué la velocidad de Google Maps y Waze es diferente a la del coche: ¿a cuál debes hacerle caso?</a></h4>
+    <a href='https://computerhoy.com/motor/velocidad-google-maps-waze-diferente-coche-1372533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Por qué la velocidad de Google Maps y Waze es diferente a la del coche: ¿a cuál debes hacerle caso?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-15-marzo-2024-1372534'>¿Qué santo es hoy? Santoral del viernes 15 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-15-marzo-2024-1372534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-15-marzo-2024-3287786.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 15 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509'>Cuándo debes utilizar Google Maps y cuándo es mejor Waze</a></h4>
     <a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-debes-utilizar-google-maps-cuando-mejor-waze-3287775.jpg?tf=1200x' alt='Cuándo debes utilizar Google Maps y cuándo es mejor Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525'>La conferencia Google I/O ya tiene fecha: esto es lo que veremos</a></h4>
-    <a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conferencia-google-i-ya-tiene-fecha-veremos-3287760.jpg?tf=1200x' alt='La conferencia Google I/O ya tiene fecha: esto es lo que veremos' />
     </a>
 </div>
 
