@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761'>Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica</a></h4>
+    <a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nominados-2024-salon-fama-videojuegos-vuelven-crear-polemica-3288224.jpg?tf=1200x' alt='Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752'>Encuentran una versión perdida de OS/2, el Windows que nunca existió</a></h4>
     <a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/os-2-3288231.jpg?tf=1200x' alt='Encuentran una versión perdida de OS/2, el Windows que nunca existió' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469'>5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera</a></h4>
     <a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-consejos-experimentado-ingeniero-software-quienes-quieren-avanzar-carrera-3287702.jpg?tf=1200x' alt='5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734'>El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo</a></h4>
-    <a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perfil-instagram-deja-dinero-gratis-escondido-pistas-encontrarlo-3288193.jpg?tf=1200x' alt='El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo' />
     </a>
 </div>
 
