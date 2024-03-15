@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469'>5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-consejos-experimentado-ingeniero-software-quienes-quieren-avanzar-carrera-3287702.jpg?tf=1200x' alt='5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734'>El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo</a></h4>
+    <a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perfil-instagram-deja-dinero-gratis-escondido-pistas-encontrarlo-3288193.jpg?tf=1200x' alt='El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-pedir-numero-referencia-hacer-renta-1372647'>Cómo pedir tu número de referencia para la Renta 2023/24 (el que tienes ya no vale)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pedir-numero-referencia-hacer-renta-1372647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/agencia-tributaria-3288065.jpg?tf=1200x' alt='Cómo pedir tu número de referencia para la Renta 2023/24 (el que tienes ya no vale)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702'>Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología</a></h4>
     <a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-3288170.jpg?tf=1200x' alt='Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893'>Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores</a></h4>
     <a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-arranque-limpio-windows-11-solucionar-posibles-errores-3286705.jpg?tf=1200x' alt='Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372'>La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-metaverso-reto-colegios-espanoles-luchar-analfabetismo-digital-3287562.jpg?tf=1200x' alt='La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-sigue-manteniendo-supercomputadoras-obsoletas-1372622'>La NASA envejece: mantiene supercomputadoras obsoletas que provocan retrasos en sus misiones</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-sigue-manteniendo-supercomputadoras-obsoletas-1372622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-envejece-mantiene-supercomputadoras-obsoletas-provocan-retrasos-misiones-3288022.jpg?tf=1200x' alt='La NASA envejece: mantiene supercomputadoras obsoletas que provocan retrasos en sus misiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623'>Apple recibirá una nueva función de seguridad de Chrome antes que Android</a></h4>
-    <a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seguridad-apple-chrome-3288023.jpg?tf=1200x' alt='Apple recibirá una nueva función de seguridad de Chrome antes que Android' />
     </a>
 </div>
 
