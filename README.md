@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341'>¡Ya está en tu quiosco el número 664 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/computer-hoy-664-3284610.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 664 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/funciones-ocultas-google-maps-1372404'>Funciones ocultas de Google Maps que seguramente has pasado por alto</a></h4>
     <a href='https://computerhoy.com/google/funciones-ocultas-google-maps-1372404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-oculto-google-maps-te-ayudara-ahorrar-dinero-viajes-carretera-3282257.jpg?tf=1200x' alt='Funciones ocultas de Google Maps que seguramente has pasado por alto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/nothing-phone-2a-analisis-opinion-1371758'>He probado el Phone (2a), un móvil diferente y barato que quiere poner a Nothing en el mapa</a></h4>
     <a href='https://computerhoy.com/analisis/nothing-phone-2a-analisis-opinion-1371758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286418.jpg?tf=1200x' alt='He probado el Phone (2a), un móvil diferente y barato que quiere poner a Nothing en el mapa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408'>España ya tiene donde mirarse: hasta 5.000 euros de multa por el fútbol por IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='España ya tiene donde mirarse: hasta 5.000 euros de multa por el fútbol por IPTV' />
     </a>
 </div>
 
