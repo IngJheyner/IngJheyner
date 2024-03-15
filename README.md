@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570'>Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización </a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-editando-paint-3287842.jpg?tf=1200x' alt='Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ps5-oferta-todas-versiones-vuelve-precio-meses-te-llega-manana-1372620'>La PS5 está en oferta en todas sus versiones: vuelve al precio más bajo en meses y te llega mañana</a></h4>
+    <a href='https://computerhoy.com/gaming/ps5-oferta-todas-versiones-vuelve-precio-meses-te-llega-manana-1372620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='La PS5 está en oferta en todas sus versiones: vuelve al precio más bajo en meses y te llega mañana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353'>Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV</a></h4>
+    <a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/personas-viendo-futbol-3287810.jpg?tf=1200x' alt='Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586'>La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo</a></h4>
     <a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-adam-rainer-unico-ser-humano-ha-padecido-enanismo-gigantismo-3287826.jpg?tf=1200x' alt='La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408'>España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341'>¡Ya está en tu quiosco el número 664 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/computer-hoy-664-3284610.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 664 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funciones-ocultas-google-maps-1372404'>Funciones ocultas de Google Maps que seguramente has pasado por alto</a></h4>
-    <a href='https://computerhoy.com/google/funciones-ocultas-google-maps-1372404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-oculto-google-maps-te-ayudara-ahorrar-dinero-viajes-carretera-3282257.jpg?tf=1200x' alt='Funciones ocultas de Google Maps que seguramente has pasado por alto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-va-xiaomi-deja-pixel-7a-precio-movil-chino-1372126'>Google va a por Xiaomi: deja el Pixel 7a a precio de móvil chino</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-va-xiaomi-deja-pixel-7a-precio-movil-chino-1372126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Google va a por Xiaomi: deja el Pixel 7a a precio de móvil chino' />
     </a>
 </div>
 
