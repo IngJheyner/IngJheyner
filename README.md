@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509'>Cuándo debes utilizar Google Maps y cuándo es mejor Waze</a></h4>
     <a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-debes-utilizar-google-maps-cuando-mejor-waze-3287775.jpg?tf=1200x' alt='Cuándo debes utilizar Google Maps y cuándo es mejor Waze' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502'>Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500'>¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problema-inminente-mineros-bitcoin-estan-comprando-todas-cpu-amd-ryzen-1372500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mineria-bitcoin-2208427.jpg?tf=1200x' alt='¡Problema inminente! Los mineros de Bitcoin están comprando todas las CPU AMD Ryzen' />
     </a>
 </div>
 
