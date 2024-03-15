@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893'>Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores</a></h4>
+    <a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-arranque-limpio-windows-11-solucionar-posibles-errores-3286705.jpg?tf=1200x' alt='Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372'>La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-metaverso-reto-colegios-espanoles-luchar-analfabetismo-digital-3287562.jpg?tf=1200x' alt='La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632'>Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/anillo-3288028.jpg?tf=1200x' alt='Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602'>La edad maldita a partir de la que serás una persona "vieja" para la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-madura-3287999.jpg?tf=1200x' alt='La edad maldita a partir de la que serás una persona "vieja" para la ciencia' />
     </a>
 </div>
 
