@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-lg-1372122'>Menús ocultos y códigos secretos de los Smart TV de LG</a></h4>
+    <a href='https://computerhoy.com/tv/menus-ocultos-codigos-secretos-smart-tv-lg-1372122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/menus-ocultos-codigos-secretos-smart-tv-lg-3287183.jpg?tf=1200x' alt='Menús ocultos y códigos secretos de los Smart TV de LG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/velocidad-google-maps-waze-diferente-coche-1372533'>Por qué la velocidad de Google Maps y Waze es diferente a la del coche: ¿a cuál debes hacerle caso?</a></h4>
     <a href='https://computerhoy.com/motor/velocidad-google-maps-waze-diferente-coche-1372533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/velocidad-google-maps-waze-diferente-coche-cual-debes-hacerle-caso-3287788.jpg?tf=1200x' alt='Por qué la velocidad de Google Maps y Waze es diferente a la del coche: ¿a cuál debes hacerle caso?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509'>Cuándo debes utilizar Google Maps y cuándo es mejor Waze</a></h4>
-    <a href='https://computerhoy.com/apps/cuando-debes-utilizar-google-maps-cuando-mejor-waze-1372509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-debes-utilizar-google-maps-cuando-mejor-waze-3287775.jpg?tf=1200x' alt='Cuándo debes utilizar Google Maps y cuándo es mejor Waze' />
     </a>
 </div>
 
