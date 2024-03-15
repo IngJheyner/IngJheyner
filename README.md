@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602'>La edad maldita a partir de la que serás una persona "vieja" para la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-madura-3287999.jpg?tf=1200x' alt='La edad maldita a partir de la que serás una persona "vieja" para la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-creara-propia-version-gemini-nano-google-1372601'>Apple quiere crear su propia versión de Gemini Nano y ha comprado una startup de IA para conseguirlo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-creara-propia-version-gemini-nano-google-1372601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-apple-3287975.jpg?tf=1200x' alt='Apple quiere crear su propia versión de Gemini Nano y ha comprado una startup de IA para conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570'>Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización </a></h4>
     <a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-editando-paint-3287842.jpg?tf=1200x' alt='Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353'>Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV</a></h4>
     <a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/personas-viendo-futbol-3287810.jpg?tf=1200x' alt='Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586'>La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo</a></h4>
-    <a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-adam-rainer-unico-ser-humano-ha-padecido-enanismo-gigantismo-3287826.jpg?tf=1200x' alt='La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408'>España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV' />
     </a>
 </div>
 
