@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-15-marzo-2024-1372534'>¿Qué santo es hoy? Santoral del viernes 15 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-15-marzo-2024-1372534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-15-marzo-2024-3287786.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 15 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-android-auto-olvidate-interferencias-1372532'>Cómo escuchar la radio FM en Android Auto y olvídate de interferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-android-auto-olvidate-interferencias-1372532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-escuchar-radio-fm-android-auto-olvidate-interferencias-3287787.jpg?tf=1200x' alt='Cómo escuchar la radio FM en Android Auto y olvídate de interferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-1372531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo puedes calcular su vida útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525'>La conferencia Google I/O ya tiene fecha: esto es lo que veremos</a></h4>
     <a href='https://computerhoy.com/conferencia-google-i-o-2024-fecha-1372525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conferencia-google-i-ya-tiene-fecha-veremos-3287760.jpg?tf=1200x' alt='La conferencia Google I/O ya tiene fecha: esto es lo que veremos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511'>Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar</a></h4>
-    <a href='https://computerhoy.com/espacio/starship-spacex-cohete-despega-exito-1372511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/starship-spacex-cohete-nos-llevara-luna-despega-exito-pero-pierde-antes-caer-mar-3287740.jpg?tf=1200x' alt='Starship de SpaceX, el cohete que nos llevará a la Luna, despega con éxito pero se pierde antes de caer al mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502'>Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-acceder-gratis-gpt-4-turbo-nueva-version-ultra-potente-chatgpt-1372502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tecla-copilot-windows-11-3256719.jpg?tf=1200x' alt='Cómo acceder gratis a GPT-4 Turbo, la nueva versión ultra potente de ChatGPT' />
     </a>
 </div>
 
