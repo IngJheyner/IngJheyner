@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372'>La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-metaverso-reto-colegios-analfabetismo-digital-1372372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-metaverso-reto-colegios-espanoles-luchar-analfabetismo-digital-3287562.jpg?tf=1200x' alt='La IA y el metaverso, así es el reto de los colegios españoles para luchar contra el analfabetismo digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-sigue-manteniendo-supercomputadoras-obsoletas-1372622'>La NASA envejece: mantiene supercomputadoras obsoletas que provocan retrasos en sus misiones</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-sigue-manteniendo-supercomputadoras-obsoletas-1372622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-envejece-mantiene-supercomputadoras-obsoletas-provocan-retrasos-misiones-3288022.jpg?tf=1200x' alt='La NASA envejece: mantiene supercomputadoras obsoletas que provocan retrasos en sus misiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623'>Apple recibirá una nueva función de seguridad de Chrome antes que Android</a></h4>
     <a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seguridad-apple-chrome-3288023.jpg?tf=1200x' alt='Apple recibirá una nueva función de seguridad de Chrome antes que Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602'>La edad maldita a partir de la que serás una persona "vieja" para la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-madura-3287999.jpg?tf=1200x' alt='La edad maldita a partir de la que serás una persona "vieja" para la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-creara-propia-version-gemini-nano-google-1372601'>Apple quiere crear su propia versión de Gemini Nano y ha comprado una startup de IA para conseguirlo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-creara-propia-version-gemini-nano-google-1372601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-apple-3287975.jpg?tf=1200x' alt='Apple quiere crear su propia versión de Gemini Nano y ha comprado una startup de IA para conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570'>Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización </a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-editando-paint-3287842.jpg?tf=1200x' alt='Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización ' />
     </a>
 </div>
 
