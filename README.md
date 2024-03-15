@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702'>Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología</a></h4>
+    <a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-3288170.jpg?tf=1200x' alt='Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893'>Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores</a></h4>
     <a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-arranque-limpio-windows-11-solucionar-posibles-errores-3286705.jpg?tf=1200x' alt='Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623'>Apple recibirá una nueva función de seguridad de Chrome antes que Android</a></h4>
     <a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seguridad-apple-chrome-3288023.jpg?tf=1200x' alt='Apple recibirá una nueva función de seguridad de Chrome antes que Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632'>Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/anillo-3288028.jpg?tf=1200x' alt='Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
     </a>
 </div>
 
