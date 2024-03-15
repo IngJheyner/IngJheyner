@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586'>La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo</a></h4>
+    <a href='https://computerhoy.com/life/adam-rainer-unico-ser-humano-enanismo-gigantismo-1372586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/increible-historia-adam-rainer-unico-ser-humano-ha-padecido-enanismo-gigantismo-3287826.jpg?tf=1200x' alt='La increíble historia de Adam Rainer, el único ser humano que ha padecido enanismo y gigantismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408'>España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5000-euros-multa-futbol-iptv-1372408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='España ya tiene donde mirarse: hasta 5.000 euros de multa por ver el fútbol por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341'>¡Ya está en tu quiosco el número 664 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-664-computer-hoy-1370341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/computer-hoy-664-3284610.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 664 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-va-xiaomi-deja-pixel-7a-precio-movil-chino-1372126'>Google va a por Xiaomi: deja el Pixel 7a a precio de móvil chino</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-va-xiaomi-deja-pixel-7a-precio-movil-chino-1372126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Google va a por Xiaomi: deja el Pixel 7a a precio de móvil chino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/colegio-chino-te-pillan-movil-clase-destruyen-martillazos-1372548'>En este colegio chino si te pillan usando el móvil en clase, lo destruyen a martillazos</a></h4>
-    <a href='https://computerhoy.com/moviles/colegio-chino-te-pillan-movil-clase-destruyen-martillazos-1372548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/colegio-chino-te-pillan-movil-clase-destruyen-martillazos-3287784.jpg?tf=1200x' alt='En este colegio chino si te pillan usando el móvil en clase, lo destruyen a martillazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nothing-phone-2a-analisis-opinion-1371758'>He probado el Phone (2a), un móvil diferente y barato que quiere poner a Nothing en el mapa</a></h4>
-    <a href='https://computerhoy.com/analisis/nothing-phone-2a-analisis-opinion-1371758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286418.jpg?tf=1200x' alt='He probado el Phone (2a), un móvil diferente y barato que quiere poner a Nothing en el mapa' />
     </a>
 </div>
 
