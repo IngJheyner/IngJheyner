@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623'>Apple recibirá una nueva función de seguridad de Chrome antes que Android</a></h4>
+    <a href='https://computerhoy.com/google/sera-nueva-funcion-seguridad-chrome-apple-1372623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seguridad-apple-chrome-3288023.jpg?tf=1200x' alt='Apple recibirá una nueva función de seguridad de Chrome antes que Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632'>Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ring-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1372632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/anillo-3288028.jpg?tf=1200x' alt='Apple Ring: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602'>La edad maldita a partir de la que serás una persona "vieja" para la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/edad-te-conviertes-persona-mayor-ciencia-1372602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/persona-madura-3287999.jpg?tf=1200x' alt='La edad maldita a partir de la que serás una persona "vieja" para la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570'>Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización </a></h4>
     <a href='https://computerhoy.com/windows/microsoft-quiere-competir-photoshop-gran-actualizacion-paint-1372570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-editando-paint-3287842.jpg?tf=1200x' alt='Paint se propone competir con Photoshop y traerá mejores herramientas de edición en la próxima actualización ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ps5-oferta-todas-versiones-vuelve-precio-meses-te-llega-manana-1372620'>La PS5 está en oferta en todas sus versiones: vuelve al precio más bajo en meses y te llega mañana</a></h4>
-    <a href='https://computerhoy.com/gaming/ps5-oferta-todas-versiones-vuelve-precio-meses-te-llega-manana-1372620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='La PS5 está en oferta en todas sus versiones: vuelve al precio más bajo en meses y te llega mañana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353'>Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV</a></h4>
-    <a href='https://computerhoy.com/tv/quienes-multaran-ver-futbol-pirata-iptv-1372353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/personas-viendo-futbol-3287810.jpg?tf=1200x' alt='Diferencias entre usuarios y cardsharers: quiénes serán multados por ver el fútbol pirata con IPTV' />
     </a>
 </div>
 
