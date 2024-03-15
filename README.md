@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752'>Encuentran una versión perdida de OS/2, el Windows que nunca existió</a></h4>
+    <a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/os-2-3288231.jpg?tf=1200x' alt='Encuentran una versión perdida de OS/2, el Windows que nunca existió' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750'>Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sera-ano-ia-finalmente-superara-capacidad-humana-1372405'>Los expertos lo tienen claro: este será el año en la que la inteligencia artificial superará la capacidad humana</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sera-ano-ia-finalmente-superara-capacidad-humana-1372405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/expertos-tienen-claro-sera-ano-inteligencia-artificial-superara-capacidad-humana-3287592.jpg?tf=1200x' alt='Los expertos lo tienen claro: este será el año en la que la inteligencia artificial superará la capacidad humana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469'>5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera</a></h4>
     <a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-consejos-experimentado-ingeniero-software-quienes-quieren-avanzar-carrera-3287702.jpg?tf=1200x' alt='5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734'>El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo</a></h4>
     <a href='https://computerhoy.com/redes/perfil-instagram-esconde-dinero-gratis-encontrar-1372734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perfil-instagram-deja-dinero-gratis-escondido-pistas-encontrarlo-3288193.jpg?tf=1200x' alt='El perfil de Instagram que esconde dinero gratis y pistas para encontrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pedir-numero-referencia-hacer-renta-1372647'>Cómo pedir tu número de referencia para la Renta 2023/24 (el que tienes ya no vale)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pedir-numero-referencia-hacer-renta-1372647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/agencia-tributaria-3288065.jpg?tf=1200x' alt='Cómo pedir tu número de referencia para la Renta 2023/24 (el que tienes ya no vale)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702'>Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología</a></h4>
-    <a href='https://computerhoy.com/ciencia/encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-1372702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-encuentran-primer-mineral-superconductor-natural-podria-revolucionar-tecnologia-3288170.jpg?tf=1200x' alt='Científicos encuentran el primer mineral superconductor natural que podría revolucionar la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893'>Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores</a></h4>
-    <a href='https://computerhoy.com/windows/como-hacer-arranque-limpio-windows-11-1371893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-arranque-limpio-windows-11-solucionar-posibles-errores-3286705.jpg?tf=1200x' alt='Cómo hacer un arranque limpio en Windows 11 para solucionar posibles errores' />
     </a>
 </div>
 
