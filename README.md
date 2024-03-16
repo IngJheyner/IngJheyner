@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787'>Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-vuelve-usar-ventanas-emergentes-windows-uses-bing-gente-piensa-malware-3288268.jpg?tf=1200x' alt='Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/tipo-amigo-eres-usas-telefono-movil-1371322'>Este es el tipo de amigo que eres, según usas tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/tipo-amigo-eres-usas-telefono-movil-1371322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tipo-amigo-eres-usas-telefono-movil-3285724.jpg?tf=1200x' alt='Este es el tipo de amigo que eres, según usas tu teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613'>Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?</a></h4>
     <a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/antivirus-smart-tv-3288047.jpg?tf=1200x' alt='Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444'>Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-aspirador-aspiradora-mano-3280955.jpg?tf=1200x' alt='Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tira-pared-casa-encuentra-iglesia-hace-700-anos-1372776'>Tira una pared de su casa para hacer reformas, y encuentra una iglesia de hace 700 años</a></h4>
-    <a href='https://computerhoy.com/life/tira-pared-casa-encuentra-iglesia-hace-700-anos-1372776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tira-pared-casa-hacer-reformas-encuentra-iglesia-hace-700-anos-3288264.jpg?tf=1200x' alt='Tira una pared de su casa para hacer reformas, y encuentra una iglesia de hace 700 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549'>He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre</a></h4>
-    <a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-index-s2-3287488.jpg?tf=1200x' alt='He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre' />
     </a>
 </div>
 
