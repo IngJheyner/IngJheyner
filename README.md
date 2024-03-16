@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418'>Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820'>YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3288330.jpg?tf=1200x' alt='YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808'>La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806'>La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio</a></h4>
     <a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg?tf=1200x' alt='La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799'>Google Drive facilitará la búsqueda y organización de archivos con esta nueva función</a></h4>
-    <a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-drive-3288306.jpg?tf=1200x' alt='Google Drive facilitará la búsqueda y organización de archivos con esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080'>Las mejores aplicaciones de radares para Android</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-radares-pra-android-3093082.jpg?tf=1200x' alt='Las mejores aplicaciones de radares para Android' />
     </a>
 </div>
 
