@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766'>¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-16-marzo-2024-3288249.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759'>Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-usar-funcion-detectar-idioma-google-traductor-sacarle-maximo-partido-3288243.jpg?tf=1200x' alt='Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761'>Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica</a></h4>
     <a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nominados-2024-salon-fama-videojuegos-vuelven-crear-polemica-3288224.jpg?tf=1200x' alt='Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750'>Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa</a></h4>
     <a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sera-ano-ia-finalmente-superara-capacidad-humana-1372405'>Los expertos lo tienen claro: este será el año en la que la inteligencia artificial superará la capacidad humana</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sera-ano-ia-finalmente-superara-capacidad-humana-1372405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/expertos-tienen-claro-sera-ano-inteligencia-artificial-superara-capacidad-humana-3287592.jpg?tf=1200x' alt='Los expertos lo tienen claro: este será el año en la que la inteligencia artificial superará la capacidad humana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469'>5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consejos-ingeniero-software-quienes-quieren-avanzar-1372469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-consejos-experimentado-ingeniero-software-quienes-quieren-avanzar-carrera-3287702.jpg?tf=1200x' alt='5 consejos de un experimentado ingeniero de software para quienes quieren avanzar en su carrera' />
     </a>
 </div>
 
