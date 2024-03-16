@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786'>Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio</a></h4>
+    <a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-13c-3288283.jpg?tf=1200x' alt='Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-escribir-varios-idiomas-mismo-documento-word-1372078'>Cómo escribir en varios idiomas en un mismo documento de Word</a></h4>
+    <a href='https://computerhoy.com/apps/como-escribir-varios-idiomas-mismo-documento-word-1372078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-escribir-varios-idiomas-mismo-documento-word-3287143.jpg?tf=1200x' alt='Cómo escribir en varios idiomas en un mismo documento de Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787'>Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-vuelve-usar-ventanas-emergentes-windows-uses-bing-gente-piensa-malware-3288268.jpg?tf=1200x' alt='Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613'>Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?</a></h4>
     <a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/antivirus-smart-tv-3288047.jpg?tf=1200x' alt='Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262'>Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pine64-3287341.jpg?tf=1200x' alt='Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444'>Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-aspirador-aspiradora-mano-3280955.jpg?tf=1200x' alt='Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener' />
     </a>
 </div>
 
