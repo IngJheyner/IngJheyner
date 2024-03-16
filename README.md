@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828'>La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/television-digital-3288340.jpg?tf=1200x' alt='La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418'>Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación</a></h4>
     <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807'>Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806'>La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio</a></h4>
-    <a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg?tf=1200x' alt='La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio' />
     </a>
 </div>
 
