@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764'>Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas</a></h4>
+    <a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-modo-verbatim-google-mejorar-busquedas-3288251.jpg?tf=1200x' alt='Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766'>¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-16-marzo-2024-3288249.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752'>Encuentran una versión perdida de OS/2, el Windows que nunca existió</a></h4>
     <a href='https://computerhoy.com/tecnologia/encuentran-version-perdida-os-2-windows-nunca-existio-1372752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/os-2-3288231.jpg?tf=1200x' alt='Encuentran una versión perdida de OS/2, el Windows que nunca existió' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750'>Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-mejores-posturas-dormir-hay-debes-evitar-toda-costa-1372750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/dormir-3084512.jpg?tf=1200x' alt='Estas son las mejores posturas para dormir: hay una que debes evitar a toda costa' />
     </a>
 </div>
 
