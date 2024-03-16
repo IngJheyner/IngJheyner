@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771'>Así puedes activar las opciones de desarrollador en tu Amazon Fire TV</a></h4>
+    <a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-activar-opciones-desarrollador-amazon-fire-tv-3288257.jpg?tf=1200x' alt='Así puedes activar las opciones de desarrollador en tu Amazon Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-1372767'>La regla del cuadrado para la que no necesitas Android Auto que puede salvarte la vida</a></h4>
     <a href='https://computerhoy.com/life/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-1372767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-3288252.jpg?tf=1200x' alt='La regla del cuadrado para la que no necesitas Android Auto que puede salvarte la vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759'>Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido</a></h4>
     <a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-usar-funcion-detectar-idioma-google-traductor-sacarle-maximo-partido-3288243.jpg?tf=1200x' alt='Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761'>Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica</a></h4>
-    <a href='https://computerhoy.com/gaming/polemica-candidatos-2024-salon-fama-videojuegos-1372761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nominados-2024-salon-fama-videojuegos-vuelven-crear-polemica-3288224.jpg?tf=1200x' alt='Los nominados de 2024 al Salón de la Fama de los videojuegos, vuelven a crear polémica' />
     </a>
 </div>
 
