@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807'>Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806'>La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio</a></h4>
+    <a href='https://computerhoy.com/espacio/basura-espacial-podria-debilitar-campo-magnetico-tierra-controvertido-estudio-1372806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/basura-espacial-2857381.jpg?tf=1200x' alt='La basura espacial podría debilitar el campo magnético de la Tierra, según este controvertido estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799'>Google Drive facilitará la búsqueda y organización de archivos con esta nueva función</a></h4>
     <a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-drive-3288306.jpg?tf=1200x' alt='Google Drive facilitará la búsqueda y organización de archivos con esta nueva función' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786'>Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio</a></h4>
     <a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-13c-3288283.jpg?tf=1200x' alt='Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-escribir-varios-idiomas-mismo-documento-word-1372078'>Cómo escribir en varios idiomas en un mismo documento de Word</a></h4>
-    <a href='https://computerhoy.com/apps/como-escribir-varios-idiomas-mismo-documento-word-1372078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-escribir-varios-idiomas-mismo-documento-word-3287143.jpg?tf=1200x' alt='Cómo escribir en varios idiomas en un mismo documento de Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787'>Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-vuelve-usar-ventanas-emergentes-windows-uses-bing-gente-piensa-malware-3288268.jpg?tf=1200x' alt='Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware' />
     </a>
 </div>
 
