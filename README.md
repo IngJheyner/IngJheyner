@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613'>Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?</a></h4>
+    <a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/antivirus-smart-tv-3288047.jpg?tf=1200x' alt='Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262'>Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pine64-3287341.jpg?tf=1200x' alt='Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549'>He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre</a></h4>
     <a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-index-s2-3287488.jpg?tf=1200x' alt='He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482'>Cómo convertir cualquier PDF en un chatbot</a></h4>
-    <a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-cualquier-pdf-chatbot-3287746.jpg?tf=1200x' alt='Cómo convertir cualquier PDF en un chatbot' />
     </a>
 </div>
 
