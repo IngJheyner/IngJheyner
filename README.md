@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829'>La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot</a></h4>
+    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828'>La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas</a></h4>
     <a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/television-digital-3288340.jpg?tf=1200x' alt='La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808'>La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807'>Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10' />
     </a>
 </div>
 
