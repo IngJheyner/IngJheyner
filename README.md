@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549'>He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre</a></h4>
+    <a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-index-s2-3287488.jpg?tf=1200x' alt='He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482'>Cómo convertir cualquier PDF en un chatbot</a></h4>
+    <a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-cualquier-pdf-chatbot-3287746.jpg?tf=1200x' alt='Cómo convertir cualquier PDF en un chatbot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771'>Así puedes activar las opciones de desarrollador en tu Amazon Fire TV</a></h4>
     <a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-activar-opciones-desarrollador-amazon-fire-tv-3288257.jpg?tf=1200x' alt='Así puedes activar las opciones de desarrollador en tu Amazon Fire TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764'>Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas</a></h4>
     <a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-modo-verbatim-google-mejorar-busquedas-3288251.jpg?tf=1200x' alt='Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766'>¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-16-marzo-2024-1372766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-16-marzo-2024-3288249.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 16 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759'>Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/google/como-usar-funcion-detectar-idioma-google-traductor-1372759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-usar-funcion-detectar-idioma-google-traductor-sacarle-maximo-partido-3288243.jpg?tf=1200x' alt='Cómo usar la función Detectar idioma de Google Traductor y sacarle el máximo partido' />
     </a>
 </div>
 
