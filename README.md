@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262'>Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-pine64-deja-ko-raspberry-vende-amazon-mucho-barato-soporta-android-1372262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pine64-3287341.jpg?tf=1200x' alt='Este PC de Pine64 deja KO a las Raspberry: lo vende Amazon mucho más barato y soporta Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444'>Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-aspirador-aspiradora-mano-inteligente-son-compatibles-1368444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/robot-aspirador-aspiradora-mano-3280955.jpg?tf=1200x' alt='Tengo en casa un robot aspirador y una aspiradora de mano inteligente, y es lo mejor que puedes tener' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tira-pared-casa-encuentra-iglesia-hace-700-anos-1372776'>Tira una pared de su casa para hacer reformas, y encuentra una iglesia de hace 700 años</a></h4>
+    <a href='https://computerhoy.com/life/tira-pared-casa-encuentra-iglesia-hace-700-anos-1372776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tira-pared-casa-hacer-reformas-encuentra-iglesia-hace-700-anos-3288264.jpg?tf=1200x' alt='Tira una pared de su casa para hacer reformas, y encuentra una iglesia de hace 700 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549'>He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre</a></h4>
     <a href='https://computerhoy.com/analisis/garmin-index-s2-opinion-1372549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-index-s2-3287488.jpg?tf=1200x' alt='He probado la báscula inteligente de Garmin y ahora creo que estaré atado a la marca para siempre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482'>Cómo convertir cualquier PDF en un chatbot</a></h4>
     <a href='https://computerhoy.com/internet/como-convertir-cualquier-pdf-chatbot-1372482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-cualquier-pdf-chatbot-3287746.jpg?tf=1200x' alt='Cómo convertir cualquier PDF en un chatbot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771'>Así puedes activar las opciones de desarrollador en tu Amazon Fire TV</a></h4>
-    <a href='https://computerhoy.com/amazon/puedes-activar-opciones-desarrollador-amazon-fire-tv-1372771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-activar-opciones-desarrollador-amazon-fire-tv-3288257.jpg?tf=1200x' alt='Así puedes activar las opciones de desarrollador en tu Amazon Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-1372767'>La regla del cuadrado para la que no necesitas Android Auto que puede salvarte la vida</a></h4>
-    <a href='https://computerhoy.com/life/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-1372767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-cuadrado-no-necesitas-android-auto-puede-salvarte-vida-3288252.jpg?tf=1200x' alt='La regla del cuadrado para la que no necesitas Android Auto que puede salvarte la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764'>Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas</a></h4>
-    <a href='https://computerhoy.com/google/como-activar-modo-verbatim-google-mejorar-busquedas-1372764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-modo-verbatim-google-mejorar-busquedas-3288251.jpg?tf=1200x' alt='Qué es y cómo activar el modo Verbatim de Google para mejorar las búsquedas' />
     </a>
 </div>
 
