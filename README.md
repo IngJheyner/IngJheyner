@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808'>La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807'>Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-quiere-momento-elimines-copilot-windows-10-1372807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft no quiere, de momento, que elimines Copilot de tu Windows 10' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080'>Las mejores aplicaciones de radares para Android</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-radares-pra-android-3093082.jpg?tf=1200x' alt='Las mejores aplicaciones de radares para Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786'>Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio</a></h4>
-    <a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-13c-3288283.jpg?tf=1200x' alt='Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio' />
     </a>
 </div>
 
