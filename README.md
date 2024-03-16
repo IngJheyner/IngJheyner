@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799'>Google Drive facilitará la búsqueda y organización de archivos con esta nueva función</a></h4>
+    <a href='https://computerhoy.com/apps/google-drive-facilitara-busqueda-organizacion-archivos-nueva-funcion-1372799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-drive-3288306.jpg?tf=1200x' alt='Google Drive facilitará la búsqueda y organización de archivos con esta nueva función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080'>Las mejores aplicaciones de radares para Android</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-aplicaciones-radares-android-1281080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/aplicaciones-radares-pra-android-3093082.jpg?tf=1200x' alt='Las mejores aplicaciones de radares para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786'>Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio</a></h4>
     <a href='https://computerhoy.com/android/superventas-barato-xiaomi-aliexpress-acaba-reventar-precio-1372786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-13c-3288283.jpg?tf=1200x' alt='Es el superventas barato de Xiaomi y Miravia acaba de reventar su precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787'>Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-popups-bing-chrome-windows-11-1372787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-vuelve-usar-ventanas-emergentes-windows-uses-bing-gente-piensa-malware-3288268.jpg?tf=1200x' alt='Microsoft vuelve a molestar con popups en Windows para que uses Bing, y la gente piensa que es malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tipo-amigo-eres-usas-telefono-movil-1371322'>Este es el tipo de amigo que eres, según usas tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/tipo-amigo-eres-usas-telefono-movil-1371322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tipo-amigo-eres-usas-telefono-movil-3285724.jpg?tf=1200x' alt='Este es el tipo de amigo que eres, según usas tu teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613'>Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?</a></h4>
-    <a href='https://computerhoy.com/tv/instalar-antivirus-smart-tv-1372613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/antivirus-smart-tv-3288047.jpg?tf=1200x' alt='Instalar un antivirus en tu Smart TV: ¿obligación o pérdida de tiempo?' />
     </a>
 </div>
 
