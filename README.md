@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993'>Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dq08-rk3528-smart-tv-box-3212070.jpg?tf=1200x' alt='Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917'>13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos</a></h4>
     <a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-3288464.jpg?tf=1200x' alt='13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-prueba-barra-inferior-chrome-android-funcionaria-1372853'>Google prueba una barra inferior para Chrome en Android y así funcionaría</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-prueba-barra-inferior-chrome-android-funcionaria-1372853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google prueba una barra inferior para Chrome en Android y así funcionaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-adelantaron-inteligencia-artificial-1371752'>Cuando Hollywood vio el futuro: 5 películas que adelantaron qué sucedería con la IA</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-adelantaron-inteligencia-artificial-1371752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-hollywood-vio-futuro-5-peliculas-adelantaron-sucederia-ia-3286402.jpg?tf=1200x' alt='Cuando Hollywood vio el futuro: 5 películas que adelantaron qué sucedería con la IA' />
     </a>
 </div>
 
