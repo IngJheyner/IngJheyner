@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-14-aniversario-mejores-ofertas-1372919'>AliExpress desata la locura: 10 productos a precios nunca vistos por su aniversario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-14-aniversario-mejores-ofertas-1372919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='AliExpress desata la locura: 10 productos a precios nunca vistos por su aniversario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923'>La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/biblioteca-britanica-secuestrada-ataque-ransomware-ha-decidido-no-pagar-rescate-3288472.jpg?tf=1200x' alt='La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922'>Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR</a></h4>
     <a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-fechas-lanzamiento-moviles-plegables-apple-iphone-se4-gafas-ar-3288471.jpg?tf=1200x' alt='Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993'>Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dq08-rk3528-smart-tv-box-3212070.jpg?tf=1200x' alt='Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917'>13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos</a></h4>
-    <a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-3288464.jpg?tf=1200x' alt='13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860'>OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-3288380.jpg?tf=1200x' alt='OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia' />
     </a>
 </div>
 
