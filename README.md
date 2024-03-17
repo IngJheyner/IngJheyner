@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-ya-permite-editar-imagen-tomada-android-usando-herramienta-recortes-windows-11-1372846'>Microsoft ya permite editar una imagen tomada en Android usando la herramienta de recortes en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ya-permite-editar-imagen-tomada-android-usando-herramienta-recortes-windows-11-1372846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='Microsoft ya permite editar una imagen tomada en Android usando la herramienta de recortes en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/significado-codigos-router-wifi-1371767'>Qué significan todos los códigos de la etiqueta de tu router WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/significado-codigos-router-wifi-1371767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/significan-todos-codigos-etiqueta-router-wifi-3286504.jpg?tf=1200x' alt='Qué significan todos los códigos de la etiqueta de tu router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223'>Acceso denegado: 10 formas de solucionar este error de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/acceso-denegado-wn-windows-11-3284430.jpg?tf=1200x' alt='Acceso denegado: 10 formas de solucionar este error de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973'>Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/atlasvpn-3283442.jpg?tf=1200x' alt='Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822'>Windows 11 prepara filtros de IA para tu webcam</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Windows 11 prepara filtros de IA para tu webcam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838'>Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva</a></h4>
-    <a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tabula-peutingeriana-unico-mapa-carreteras-imperio-romano-3288355.jpg?tf=1200x' alt='Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva' />
     </a>
 </div>
 
