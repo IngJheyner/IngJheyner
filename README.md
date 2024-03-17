@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920'>SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spacex-podria-estar-construyendo-red-satelites-espia-gobierno-estados-unidos-3288469.jpg?tf=1200x' alt='SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993'>Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/aparato-android-resucita-vieja-tv-cuesta-menos-20-euros-1371993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/dq08-rk3528-smart-tv-box-3212070.jpg?tf=1200x' alt='Este aparato con Android resucita tu vieja TV y cuesta menos de 20 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855'>La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-3267620.jpg?tf=1200x' alt='La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-prueba-barra-inferior-chrome-android-funcionaria-1372853'>Google prueba una barra inferior para Chrome en Android y así funcionaría</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-prueba-barra-inferior-chrome-android-funcionaria-1372853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google prueba una barra inferior para Chrome en Android y así funcionaría' />
     </a>
 </div>
 
