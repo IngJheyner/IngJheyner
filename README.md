@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922'>Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR</a></h4>
+    <a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-fechas-lanzamiento-moviles-plegables-apple-iphone-se4-gafas-ar-3288471.jpg?tf=1200x' alt='Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920'>SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spacex-podria-estar-construyendo-red-satelites-espia-gobierno-estados-unidos-3288469.jpg?tf=1200x' alt='SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860'>OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-3288380.jpg?tf=1200x' alt='OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855'>La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-3267620.jpg?tf=1200x' alt='La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba' />
     </a>
 </div>
 
