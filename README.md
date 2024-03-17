@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852'>LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-minijuegos-3288370.jpg?tf=1200x' alt='LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/canon-oneplus-tiene-precio-gama-media-carga-brutal-150w-1372277'>Este cañón de OnePlus tiene precio de gama media y carga brutal a 150W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canon-oneplus-tiene-precio-gama-media-carga-brutal-150w-1372277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-ace-2-pro-5g-3287366.jpg?tf=1200x' alt='Este cañón de OnePlus tiene precio de gama media y carga brutal a 150W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-revertir-actualizacion-windows-11-1372222'>Cómo revertir y desinstalar una actualización problemática en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-revertir-actualizacion-windows-11-1372222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-revertir-actualizacion-windows-11-3287302.jpg?tf=1200x' alt='Cómo revertir y desinstalar una actualización problemática en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-ya-permite-editar-imagen-tomada-android-usando-herramienta-recortes-windows-11-1372846'>Microsoft ya permite editar una imagen tomada en Android usando la herramienta de recortes en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-ya-permite-editar-imagen-tomada-android-usando-herramienta-recortes-windows-11-1372846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='Microsoft ya permite editar una imagen tomada en Android usando la herramienta de recortes en Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/significado-codigos-router-wifi-1371767'>Qué significan todos los códigos de la etiqueta de tu router WiFi</a></h4>
     <a href='https://computerhoy.com/redes/significado-codigos-router-wifi-1371767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/significan-todos-codigos-etiqueta-router-wifi-3286504.jpg?tf=1200x' alt='Qué significan todos los códigos de la etiqueta de tu router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223'>Acceso denegado: 10 formas de solucionar este error de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/acceso-denegado-wn-windows-11-3284430.jpg?tf=1200x' alt='Acceso denegado: 10 formas de solucionar este error de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/funciones-smart-tv-deberias-activar-ahora-mismo-1371531'>5 funciones de tu Smart TV que deberías activar ahora mismo para sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tv/funciones-smart-tv-deberias-activar-ahora-mismo-1371531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-smart-tv-deberias-activar-ahora-mismo-sacarle-maximo-partido-3286118.jpg?tf=1200x' alt='5 funciones de tu Smart TV que deberías activar ahora mismo para sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973'>Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/atlasvpn-3283442.jpg?tf=1200x' alt='Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick' />
     </a>
 </div>
 
