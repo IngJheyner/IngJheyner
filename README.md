@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917'>13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos</a></h4>
+    <a href='https://computerhoy.com/internet/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-1372917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/13-paises-sufren-cortes-internet-fallos-ataques-cables-submarinos-3288464.jpg?tf=1200x' alt='13 países sufren cortes de Internet, por fallos o ataques a los cables submarinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860'>OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-3288380.jpg?tf=1200x' alt='OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-adelantaron-inteligencia-artificial-1371752'>Cuando Hollywood vio el futuro: 5 películas que adelantaron qué sucedería con la IA</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-adelantaron-inteligencia-artificial-1371752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-hollywood-vio-futuro-5-peliculas-adelantaron-sucederia-ia-3286402.jpg?tf=1200x' alt='Cuando Hollywood vio el futuro: 5 películas que adelantaron qué sucedería con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852'>LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-minijuegos-3288370.jpg?tf=1200x' alt='LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo' />
     </a>
 </div>
 
