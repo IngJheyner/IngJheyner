@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-san-patricio-santoral-domingo-17-marzo-2024-1372833'>¿Qué santo es hoy? Santoral del domingo 17 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-san-patricio-santoral-domingo-17-marzo-2024-1372833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-17-marzo-2024-3288350.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 17 de marzo de 2024' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822'>Windows 11 prepara filtros de IA para tu webcam</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Windows 11 prepara filtros de IA para tu webcam' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829'>La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot</a></h4>
-    <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot' />
+    <h4><a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838'>Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva</a></h4>
+    <a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tabula-peutingeriana-unico-mapa-carreteras-imperio-romano-3288355.jpg?tf=1200x' alt='Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828'>La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pequena-pero-importante-nueva-funcion-anadida-google-tv-aciertes-siempre-peliculas-1372828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/television-digital-3288340.jpg?tf=1200x' alt='La pequeña pero importante nueva función añadida a Google TV para que aciertes siempre con las películas' />
+    <h4><a href='https://computerhoy.com/tv/ips-deberias-conocer-tecnologia-quieres-comprarte-monitor-tv-1367039'>¿Qué es IPS y por qué deberías conocer esta tecnología si quieres comprarte un monitor o TV?</a></h4>
+    <a href='https://computerhoy.com/tv/ips-deberias-conocer-tecnologia-quieres-comprarte-monitor-tv-1367039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710511019743-3288125.jpg?tf=1200x' alt='¿Qué es IPS y por qué deberías conocer esta tecnología si quieres comprarte un monitor o TV?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418'>Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-todoterreno-sorprenden-son-baratos-sirven-natacion-1371418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/lenovo-x5-3260066.jpg?tf=1200x' alt='Los auriculares de conducción ósea todoterreno sorprenden: son baratos y sirven para natación' />
+    <h4><a href='https://computerhoy.com/analisis/gopro-hero-12-black-analisis-opinion-1369338'>He probado la GoPro Hero 12 Black y me parece que no revoluciona, pero es cada vez mejor</a></h4>
+    <a href='https://computerhoy.com/analisis/gopro-hero-12-black-analisis-opinion-1369338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='He probado la GoPro Hero 12 Black y me parece que no revoluciona, pero es cada vez mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820'>YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3288330.jpg?tf=1200x' alt='YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios' />
+    <h4><a href='https://computerhoy.com/espacio/voyager-1-vuelve-cordura-muestra-senales-vida-1372824'>La Voyager 1 vuelve a la cordura y muestra señales de vida</a></h4>
+    <a href='https://computerhoy.com/espacio/voyager-1-vuelve-cordura-muestra-senales-vida-1372824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='La Voyager 1 vuelve a la cordura y muestra señales de vida' />
     </a>
 </div>
 
