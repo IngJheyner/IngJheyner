@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223'>Acceso denegado: 10 formas de solucionar este error de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/acceso-denegado-solucionar-error-windows-11-1370223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/acceso-denegado-wn-windows-11-3284430.jpg?tf=1200x' alt='Acceso denegado: 10 formas de solucionar este error de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/funciones-smart-tv-deberias-activar-ahora-mismo-1371531'>5 funciones de tu Smart TV que deberías activar ahora mismo para sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tv/funciones-smart-tv-deberias-activar-ahora-mismo-1371531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-smart-tv-deberias-activar-ahora-mismo-sacarle-maximo-partido-3286118.jpg?tf=1200x' alt='5 funciones de tu Smart TV que deberías activar ahora mismo para sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973'>Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-cuesta-5-centimos-dia-firestick-1369973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/atlasvpn-3283442.jpg?tf=1200x' alt='Esta VPN cuesta 5 céntimos al día y hasta está en los Firestick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822'>Windows 11 prepara filtros de IA para tu webcam</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-prepara-filtros-ia-webcam-1372822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Windows 11 prepara filtros de IA para tu webcam' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838'>Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva</a></h4>
     <a href='https://computerhoy.com/ciencia/tabula-peutingeriana-mapa-carreteras-imperio-romano-1372838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tabula-peutingeriana-unico-mapa-carreteras-imperio-romano-3288355.jpg?tf=1200x' alt='Tabula Peutingeriana, el único mapa de carreteras del Imperio Romano que se conserva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ips-deberias-conocer-tecnologia-quieres-comprarte-monitor-tv-1367039'>¿Qué es IPS y por qué deberías conocer esta tecnología si quieres comprarte un monitor o TV?</a></h4>
-    <a href='https://computerhoy.com/tv/ips-deberias-conocer-tecnologia-quieres-comprarte-monitor-tv-1367039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710511019743-3288125.jpg?tf=1200x' alt='¿Qué es IPS y por qué deberías conocer esta tecnología si quieres comprarte un monitor o TV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/gopro-hero-12-black-analisis-opinion-1369338'>He probado la GoPro Hero 12 Black y me parece que no revoluciona, pero es cada vez mejor</a></h4>
-    <a href='https://computerhoy.com/analisis/gopro-hero-12-black-analisis-opinion-1369338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='He probado la GoPro Hero 12 Black y me parece que no revoluciona, pero es cada vez mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/voyager-1-vuelve-cordura-muestra-senales-vida-1372824'>La Voyager 1 vuelve a la cordura y muestra señales de vida</a></h4>
-    <a href='https://computerhoy.com/espacio/voyager-1-vuelve-cordura-muestra-senales-vida-1372824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='La Voyager 1 vuelve a la cordura y muestra señales de vida' />
     </a>
 </div>
 
