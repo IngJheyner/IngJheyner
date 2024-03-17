@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860'>OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-quiere-fabricar-propio-hardware-inteligencia-artificial-no-depender-nvidia-1372860' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-3288380.jpg?tf=1200x' alt='OpenAI quiere fabricar su propio hardware de inteligencia artificial para no depender de Nvidia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855'>La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-cerca-descartar-europa-luna-jupiter-albergue-vida-como-pensaba-1372855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nasa-investiga-misteriosa-actividad-luna-europa-jupiter-3267620.jpg?tf=1200x' alt='La NASA cerca de descartar que Europa, la luna de Júpiter, albergue vida como se pensaba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852'>LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/linkedin-va-agregar-juegos-plataforma-te-pases-mejor-buscando-trabajo-1372852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-minijuegos-3288370.jpg?tf=1200x' alt='LinkedIn va a agregar juegos a su plataforma para que te lo pases mejor buscando trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canon-oneplus-tiene-precio-gama-media-carga-brutal-150w-1372277'>Este cañón de OnePlus tiene precio de gama media y carga brutal a 150W</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canon-oneplus-tiene-precio-gama-media-carga-brutal-150w-1372277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-ace-2-pro-5g-3287366.jpg?tf=1200x' alt='Este cañón de OnePlus tiene precio de gama media y carga brutal a 150W' />
     </a>
 </div>
 
