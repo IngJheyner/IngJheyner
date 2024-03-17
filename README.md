@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-san-patricio-santoral-domingo-17-marzo-2024-1372833'>¿Qué santo es hoy? Santoral del domingo 17 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-san-patricio-santoral-domingo-17-marzo-2024-1372833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-17-marzo-2024-3288350.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 17 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829'>La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot</a></h4>
     <a href='https://computerhoy.com/windows/ultima-actualizacion-windows-11-cambia-barra-progreso-ofrece-nueva-experiencia-unica-copilot-1372829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/windows-11-2870243.jpg?tf=1200x' alt='La última actualización para Windows 11 cambia esta barra de progreso y ofrece una nueva experiencia única para Copilot' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820'>YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios</a></h4>
     <a href='https://computerhoy.com/apps/youtube-cambiando-aplicacion-television-mejorar-interaccion-usuarios-1372820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-3288330.jpg?tf=1200x' alt='YouTube está cambiando su aplicación para televisión para mejorar la interacción de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808'>La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-version-chrome-te-traducira-tiempo-real-todo-veas-escuches-1372808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/chrome-pc-2352025.jpg?tf=1200x' alt='La nueva versión de Chrome te traducirá en tiempo real todo lo que veas y escuches' />
     </a>
 </div>
 
