@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705'>Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos</a></h4>
+    <a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/motivo-siempre-debes-cambiar-neumaticos-coche-dos-dos-3288156.jpg?tf=1200x' alt='Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327'>El Hombre de Vitruvio: significado y secretos del hombre perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-vitruvio-significado-secretos-hombre-perfecto-3287789.jpg?tf=1200x' alt='El Hombre de Vitruvio: significado y secretos del hombre perfecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2024</a></h4>
     <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-geolocalizar-direccion-ip-2024-3287314.jpg?tf=1200x' alt='Cómo geolocalizar una dirección IP en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981'>Europa ya tiene su primer tren de levitación magnética</a></h4>
-    <a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-tren-levitacion-magnetica-europa-ya-realidad-3288560.jpg?tf=1200x' alt='Europa ya tiene su primer tren de levitación magnética' />
     </a>
 </div>
 
