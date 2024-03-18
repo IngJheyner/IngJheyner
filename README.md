@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291'>Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931'>Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/qualcomm-snapdragon-8s-gen-3-3287154.jpg?tf=1200x' alt='Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925'>¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-18-marzo-2024-3288475.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924'>Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros</a></h4>
-    <a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubre-truco-llenar-deposito-gratis-gasta-28000-litros-gasolina-siete-meses-3288474.jpg?tf=1200x' alt='Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros' />
     </a>
 </div>
 
