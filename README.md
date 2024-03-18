@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999'>AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato</a></h4>
+    <a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gmktec-k2-3286282.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659'>Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia</a></h4>
     <a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-forma-usar-raton-puede-decir-ti-ciencia-3288068.jpg?tf=1200x' alt='Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327'>El Hombre de Vitruvio: significado y secretos del hombre perfecto</a></h4>
     <a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-vitruvio-significado-secretos-hombre-perfecto-3287789.jpg?tf=1200x' alt='El Hombre de Vitruvio: significado y secretos del hombre perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971'>Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?</a></h4>
-    <a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ps5-pro.jpg?tf=1200x' alt='Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?' />
     </a>
 </div>
 
