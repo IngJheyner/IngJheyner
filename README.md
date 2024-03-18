@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931'>Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/qualcomm-snapdragon-8s-gen-3-3287154.jpg?tf=1200x' alt='Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466'>He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carina-3287153.jpg?tf=1200x' alt='He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326'>Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/zeblade-stratos-3-3287448.jpg?tf=1200x' alt='Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924'>Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros</a></h4>
     <a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubre-truco-llenar-deposito-gratis-gasta-28000-litros-gasolina-siete-meses-3288474.jpg?tf=1200x' alt='Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-14-aniversario-mejores-ofertas-1372919'>AliExpress desata la locura: 10 productos a precios nunca vistos por su aniversario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-14-aniversario-mejores-ofertas-1372919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='AliExpress desata la locura: 10 productos a precios nunca vistos por su aniversario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923'>La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/biblioteca-britanica-secuestrada-ataque-ransomware-ha-decidido-no-pagar-rescate-3288472.jpg?tf=1200x' alt='La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate' />
     </a>
 </div>
 
