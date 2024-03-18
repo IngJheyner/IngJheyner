@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tienes-alguno-estos-apellidos-comunes-espana-enhorabuena-desciendes-nobleza-1373246'>Si tienes alguno de estos apellidos comunes en España, enhorabuena, desciendes de la nobleza</a></h4>
+    <a href='https://computerhoy.com/life/tienes-alguno-estos-apellidos-comunes-espana-enhorabuena-desciendes-nobleza-1373246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nobleza-3288902.jpg?tf=1200x' alt='Si tienes alguno de estos apellidos comunes en España, enhorabuena, desciendes de la nobleza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/grok-chatgpt-gratis-elon-musk-ya-disponible-todos-1373245'>Grok, el ChatGPT gratis de Elon Musk, ya está disponible para todos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grok-chatgpt-gratis-elon-musk-ya-disponible-todos-1373245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, el ChatGPT gratis de Elon Musk, ya está disponible para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188'>Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz</a></h4>
     <a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-3288891.jpg?tf=1200x' alt='Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/como-genera-miedo-cerebro-evitar-produzca-1372997'>Los científicos han descubierto cómo se genera el miedo en el cerebro y la forma de desactivarlo</a></h4>
     <a href='https://computerhoy.com/ciencia/como-genera-miedo-cerebro-evitar-produzca-1372997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-miedo-3288575.jpg?tf=1200x' alt='Los científicos han descubierto cómo se genera el miedo en el cerebro y la forma de desactivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999'>AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato</a></h4>
-    <a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gmktec-k2-3286282.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659'>Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-forma-usar-raton-puede-decir-ti-ciencia-3288068.jpg?tf=1200x' alt='Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia' />
     </a>
 </div>
 
