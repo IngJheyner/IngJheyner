@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326'>Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/zeblade-stratos-3-3287448.jpg?tf=1200x' alt='Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925'>¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-18-marzo-2024-3288475.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923'>La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/biblioteca-britanica-ha-decidido-no-pagar-rescate-ramsonware-1372923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/biblioteca-britanica-secuestrada-ataque-ransomware-ha-decidido-no-pagar-rescate-3288472.jpg?tf=1200x' alt='La Biblioteca Británica, secuestrada por un ataque ransomware: ha decidido no pagar el rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922'>Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR</a></h4>
-    <a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-fechas-lanzamiento-moviles-plegables-apple-iphone-se4-gafas-ar-3288471.jpg?tf=1200x' alt='Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR' />
     </a>
 </div>
 
