@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925'>¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-18-marzo-2024-3288475.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924'>Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros</a></h4>
     <a href='https://computerhoy.com/motor/descubre-como-llenar-deposito-coche-gratis-lleva-28000-litros-1372924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/descubre-truco-llenar-deposito-gratis-gasta-28000-litros-gasolina-siete-meses-3288474.jpg?tf=1200x' alt='Descubre un truco para llenar el depósito de su coche gratis, y se lleva 28.000 litros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922'>Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR</a></h4>
     <a href='https://computerhoy.com/apple/filtran-fechas-lanzamiento-moviles-plegables-apple-1372922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-fechas-lanzamiento-moviles-plegables-apple-iphone-se4-gafas-ar-3288471.jpg?tf=1200x' alt='Se filtran las fechas de lanzamiento de los móviles plegables de Apple, el iPhone SE4, y sus gafas AR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920'>SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/spacex-podria-estar-construyendo-red-satelites-espia-estados-unidos-1372920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spacex-podria-estar-construyendo-red-satelites-espia-gobierno-estados-unidos-3288469.jpg?tf=1200x' alt='SpaceX podría estar construyendo una red de cientos de satélites espía para el gobierno de Estados Unidos' />
     </a>
 </div>
 
