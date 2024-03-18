@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659'>Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-forma-usar-raton-puede-decir-ti-ciencia-3288068.jpg?tf=1200x' alt='Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045'>Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-beneficios-inconvenientes-speedwatching-mente-ciencia-3288660.jpg?tf=1200x' alt='Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705'>Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos</a></h4>
     <a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/motivo-siempre-debes-cambiar-neumaticos-coche-dos-dos-3288156.jpg?tf=1200x' alt='Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971'>Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?</a></h4>
     <a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ps5-pro.jpg?tf=1200x' alt='Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pone-web-patas-arriba-movil-brutal-xiaomi-desploma-precio-cupon-1372950'>AliExpress pone su web patas arriba: el móvil más brutal de Xiaomi desploma su precio con cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-pone-web-patas-arriba-movil-brutal-xiaomi-desploma-precio-cupon-1372950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-13t-pro-3206028.jpg?tf=1200x' alt='AliExpress pone su web patas arriba: el móvil más brutal de Xiaomi desploma su precio con cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2024</a></h4>
-    <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-geolocalizar-direccion-ip-2024-3287314.jpg?tf=1200x' alt='Cómo geolocalizar una dirección IP en 2024' />
     </a>
 </div>
 
