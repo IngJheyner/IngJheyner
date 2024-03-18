@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966'>Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/canales-tdt-3265783.jpg?tf=1200x' alt='Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/demuestran-campanas-pirateria-no-sirven-nada-1372958'>Las campañas contra la piratería pueden estar teniendo el efecto contrario, según un estudio</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/demuestran-campanas-pirateria-no-sirven-nada-1372958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/campanas-pirateria-3288524.jpg?tf=1200x' alt='Las campañas contra la piratería pueden estar teniendo el efecto contrario, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-pone-firme-apple-google-precio-locos-tiene-casi-400-euros-descuento-1372944'>El OnePlus que pone firme a Apple y Google, a precio de locos: tiene casi 400 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-pone-firme-apple-google-precio-locos-tiene-casi-400-euros-descuento-1372944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282109.jpg?tf=1200x' alt='El OnePlus que pone firme a Apple y Google, a precio de locos: tiene casi 400 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964'>Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898'>AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/iphone-3288410.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291'>Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931'>Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qualcomm-snapdragon-8s-gen-3-procesador-inteligencia-artificial-gama-media-1371931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/qualcomm-snapdragon-8s-gen-3-3287154.jpg?tf=1200x' alt='Qualcomm lanza el procesador Snapdragon 8s Gen 3 para que móviles de gama media tengan IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466'>He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carina-3287153.jpg?tf=1200x' alt='He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado' />
     </a>
 </div>
 
