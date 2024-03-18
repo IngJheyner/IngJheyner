@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327'>El Hombre de Vitruvio: significado y secretos del hombre perfecto</a></h4>
+    <a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-vitruvio-significado-secretos-hombre-perfecto-3287789.jpg?tf=1200x' alt='El Hombre de Vitruvio: significado y secretos del hombre perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971'>Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?</a></h4>
+    <a href='https://computerhoy.com/gaming/novedades-ps5-pro-sony-1372971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/ps5-pro.jpg?tf=1200x' alt='Sony perfila el lanzamiento de PS5 Pro para finales de 2024 con varias mejoras: ¿merecerá la pena el cambio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-pone-web-patas-arriba-movil-brutal-xiaomi-desploma-precio-cupon-1372950'>AliExpress pone su web patas arriba: el móvil más brutal de Xiaomi desploma su precio con cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-pone-web-patas-arriba-movil-brutal-xiaomi-desploma-precio-cupon-1372950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-13t-pro-3206028.jpg?tf=1200x' alt='AliExpress pone su web patas arriba: el móvil más brutal de Xiaomi desploma su precio con cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-geolocalizar-direccion-ip-2024-3287314.jpg?tf=1200x' alt='Cómo geolocalizar una dirección IP en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981'>Europa ya tiene su primer tren de levitación magnética</a></h4>
     <a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-tren-levitacion-magnetica-europa-ya-realidad-3288560.jpg?tf=1200x' alt='Europa ya tiene su primer tren de levitación magnética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/edicion-exclusiva-honor-magic-v2-porsche-1373048'>HONOR se une a Porsche para lanzar un móvil con un diseño exclusivo: precio y cuándo sale a la venta</a></h4>
-    <a href='https://computerhoy.com/moviles/edicion-exclusiva-honor-magic-v2-porsche-1373048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/porsche-honor-3288653.jpg?tf=1200x' alt='HONOR se une a Porsche para lanzar un móvil con un diseño exclusivo: precio y cuándo sale a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509'>¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sirven-pequenos-agujeros-ventanas-aviones-3286713.jpg?tf=1200x' alt='¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-precio-liquidacion-amazon-1372931'>Los Sony WH1000XM5, a precio de liquidación en Amazon: tienen la cancelación más top y ahora cuestan menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-wh1000xm5-precio-liquidacion-amazon-1372931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700573.jpg?tf=1200x' alt='Los Sony WH1000XM5, a precio de liquidación en Amazon: tienen la cancelación más top y ahora cuestan menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996'>Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás</a></h4>
-    <a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-marketing-3288596.jpg?tf=1200x' alt='Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás' />
     </a>
 </div>
 
