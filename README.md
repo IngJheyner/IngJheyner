@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996'>Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás</a></h4>
+    <a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-marketing-3288596.jpg?tf=1200x' alt='Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966'>Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/canales-tdt-3265783.jpg?tf=1200x' alt='Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964'>Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898'>AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/iphone-3288410.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades' />
     </a>
 </div>
 
