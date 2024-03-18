@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981'>Europa ya tiene su primer tren de levitación magnética</a></h4>
+    <a href='https://computerhoy.com/energia/primer-tren-levitacion-magnetica-europa-ya-realidad-1372981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primer-tren-levitacion-magnetica-europa-ya-realidad-3288560.jpg?tf=1200x' alt='Europa ya tiene su primer tren de levitación magnética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/edicion-exclusiva-honor-magic-v2-porsche-1373048'>HONOR se une a Porsche para lanzar un móvil con un diseño exclusivo: precio y cuándo sale a la venta</a></h4>
+    <a href='https://computerhoy.com/moviles/edicion-exclusiva-honor-magic-v2-porsche-1373048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/porsche-honor-3288653.jpg?tf=1200x' alt='HONOR se une a Porsche para lanzar un móvil con un diseño exclusivo: precio y cuándo sale a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509'>¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?</a></h4>
     <a href='https://computerhoy.com/noticias/life/sirven-pequenos-agujeros-ventanas-aviones-1054509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sirven-pequenos-agujeros-ventanas-aviones-3286713.jpg?tf=1200x' alt='¿Para qué sirven los pequeños agujeros de las ventanas de los aviones?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996'>Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás</a></h4>
     <a href='https://computerhoy.com/apple/apple-no-usa-exclamaciones-promocionar-productos-motivo-esconde-detras-1372996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-marketing-3288596.jpg?tf=1200x' alt='Apple no usa exclamaciones para promocionar sus productos y este es el motivo que se esconde detrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966'>Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tv/vuelve-world-tv-mobile-3000-canales-tdt-gratis-instalar-nada-1372966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/canales-tdt-3265783.jpg?tf=1200x' alt='Vuelve World TV Mobile: 3.000 canales de TDT gratis sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/demuestran-campanas-pirateria-no-sirven-nada-1372958'>Las campañas contra la piratería pueden estar teniendo el efecto contrario, según un estudio</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/demuestran-campanas-pirateria-no-sirven-nada-1372958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/campanas-pirateria-3288524.jpg?tf=1200x' alt='Las campañas contra la piratería pueden estar teniendo el efecto contrario, según un estudio' />
     </a>
 </div>
 
