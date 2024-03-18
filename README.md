@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-1372726'>Cuál es la diferencia entre duplicar la pantalla y transmitir la pantalla a un Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-1372726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cual-diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-3288205.jpg?tf=1200x' alt='Cuál es la diferencia entre duplicar la pantalla y transmitir la pantalla a un Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-genera-miedo-cerebro-evitar-produzca-1372997'>Los científicos han descubierto cómo se genera el miedo en el cerebro y la forma de desactivarlo</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-genera-miedo-cerebro-evitar-produzca-1372997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mujer-miedo-3288575.jpg?tf=1200x' alt='Los científicos han descubierto cómo se genera el miedo en el cerebro y la forma de desactivarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999'>AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato</a></h4>
     <a href='https://computerhoy.com/pc/aliexpress-vuelve-hacer-mejor-mini-pc-jugar-precio-portatil-barato-1372999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gmktec-k2-3286282.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: el mejor mini PC para jugar, a precio de portátil barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045'>Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-beneficios-inconvenientes-speedwatching-mente-ciencia-3288660.jpg?tf=1200x' alt='Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705'>Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos</a></h4>
-    <a href='https://computerhoy.com/motor/siempre-debes-cambiar-neumaticos-coche-dos-dos-1372705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/motivo-siempre-debes-cambiar-neumaticos-coche-dos-dos-3288156.jpg?tf=1200x' alt='Este es el motivo por el que siempre debes cambiar los neumáticos del coche de dos en dos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327'>El Hombre de Vitruvio: significado y secretos del hombre perfecto</a></h4>
-    <a href='https://computerhoy.com/noticias/life/hombre-vitruvio-significado-secretos-del-hombre-perfecto-77327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hombre-vitruvio-significado-secretos-hombre-perfecto-3287789.jpg?tf=1200x' alt='El Hombre de Vitruvio: significado y secretos del hombre perfecto' />
     </a>
 </div>
 
