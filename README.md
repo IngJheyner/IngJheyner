@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188'>Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-3288891.jpg?tf=1200x' alt='Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-1372726'>Cuál es la diferencia entre duplicar la pantalla y transmitir la pantalla a un Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-1372726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cual-diferencia-duplicar-pantalla-transmitir-pantalla-smart-tv-3288205.jpg?tf=1200x' alt='Cuál es la diferencia entre duplicar la pantalla y transmitir la pantalla a un Smart TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659'>Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia</a></h4>
     <a href='https://computerhoy.com/life/dime-como-utilizar-raton-ordenador-te-dire-como-eres-1372659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todo-forma-usar-raton-puede-decir-ti-ciencia-3288068.jpg?tf=1200x' alt='Esto es lo que tu forma de utilizar el ratón del ordenador puede decir sobre ti, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045'>Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/beneficios-inconvenientes-speedwatching-1373045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-beneficios-inconvenientes-speedwatching-mente-ciencia-3288660.jpg?tf=1200x' alt='Estos son los beneficios e inconvenientes de ver los vídeos acelerados para tu mente, según la ciencia' />
     </a>
 </div>
 
