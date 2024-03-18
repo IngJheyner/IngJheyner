@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964'>Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pone-serio-planea-integrar-inteligencia-artificial-google-iphone-1372964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='Apple se pone serio y planea integrar la inteligencia artificial de Google en el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898'>AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-deja-ko-amazon-vende-iphone-15-200-euros-menos-pero-hay-pocas-unidades-1372898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/iphone-3288410.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: vende el iPhone 15 por 200 euros menos, pero hay pocas unidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291'>Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática</a></h4>
     <a href='https://computerhoy.com/tecnologia/orange-pi-zero-3-increiblemente-barato-hace-sombra-raspberry-pi-menos-30-euros-1372291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Tiene 4GB de RAM, cuesta menos de 30 euros y es un Mini PC que te dará horas de cacharreo si te gusta la informática' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466'>He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado</a></h4>
     <a href='https://computerhoy.com/tecnologia/he-usado-carina-ia-whatsapp-me-ha-conquistado-1368466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carina-3287153.jpg?tf=1200x' alt='He usado Carina durante semanas y esta IA que puedes tener como contacto de WhatsApp me ha enamorado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326'>Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arrasando-aliexpress-mide-oxigeno-tiene-gps-pantallon-amoled-solo-39-euros-1372326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/zeblade-stratos-3-3287448.jpg?tf=1200x' alt='Está arrasando en AliExpress: mide el oxígeno, tiene GPS y pantallón AMOLED por solo 39 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925'>¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-18-marzo-2024-1372925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-18-marzo-2024-3288475.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 18 de marzo de 2024' />
     </a>
 </div>
 
