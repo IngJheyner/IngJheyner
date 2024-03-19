@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estas-salvo-multas-ver-futbol-gratis-iptv-vpn-1373471'>¿Estás a salvo de las multas por ver el fútbol gratis por IPTV utilizando una VPN?</a></h4>
+    <a href='https://computerhoy.com/internet/estas-salvo-multas-ver-futbol-gratis-iptv-vpn-1373471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-salvo-multas-ver-futbol-gratis-iptv-utilizando-vpn-3289332.jpg?tf=1200x' alt='¿Estás a salvo de las multas por ver el fútbol gratis por IPTV utilizando una VPN?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/edicion-lujo-s24-ultra-inspirada-tesla-cybertruck-1373426'>¿Quién necesita un Cybertruck? Esta funda convierte tu móvil en el camión de Tesla y solo cuesta 9.000 dólares</a></h4>
+    <a href='https://computerhoy.com/moviles/edicion-lujo-s24-ultra-inspirada-tesla-cybertruck-1373426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funda-s24-ultra-tesla-3289212.jpg?tf=1200x' alt='¿Quién necesita un Cybertruck? Esta funda convierte tu móvil en el camión de Tesla y solo cuesta 9.000 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/aumentan-fraudes-inversion-vinculados-criptomonedas-1373393'>Se disparan los fraudes de inversión relacionados con las criptomonedas</a></h4>
+    <a href='https://computerhoy.com/criptos/aumentan-fraudes-inversion-vinculados-criptomonedas-1373393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estafas-bitcoin-3289223.jpg?tf=1200x' alt='Se disparan los fraudes de inversión relacionados con las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/no-limpies-robot-aspirador-barato-xiaomi-desploma-aun-precio-1373365'>No limpies más: el robot aspirador más barato de Xiaomi desploma aún más su precio</a></h4>
+    <a href='https://computerhoy.com/hogar/no-limpies-robot-aspirador-barato-xiaomi-desploma-aun-precio-1373365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-robot-vacuum-s12-3228972.jpg?tf=1200x' alt='No limpies más: el robot aspirador más barato de Xiaomi desploma aún más su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-1373458'>Científicos descubren electrones moviéndose a la velocidad de la luz en cuatro dimensiones</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-1373458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-3289303.jpg?tf=1200x' alt='Científicos descubren electrones moviéndose a la velocidad de la luz en cuatro dimensiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/bill-gates-confiesa-compra-extravagante-1373360'>Bill Gates confiesa el capricho más extravagante que se ha comprado en su vida</a></h4>
-    <a href='https://computerhoy.com/hogar/bill-gates-confiesa-compra-extravagante-1373360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bill-gates-3289181.jpg?tf=1200x' alt='Bill Gates confiesa el capricho más extravagante que se ha comprado en su vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-no-estas-casa-1371712'>Del cargador del móvil a la nevera: ¿qué debes desenchufar cuando no estás en casa?</a></h4>
-    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-no-estas-casa-1371712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/enchufe-color-verde-3289201.jpg?tf=1200x' alt='Del cargador del móvil a la nevera: ¿qué debes desenchufar cuando no estás en casa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/lecciones-liderazgo-jeff-bezos-1373137'>10 lecciones de liderazgo de Jeff Bezos que cualquiera puede utilizar en su día a día</a></h4>
-    <a href='https://computerhoy.com/amazon/lecciones-liderazgo-jeff-bezos-1373137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jeff-bezos-3289146.jpg?tf=1200x' alt='10 lecciones de liderazgo de Jeff Bezos que cualquiera puede utilizar en su día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059'>Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-ignite-3-3288669.jpg?tf=1200x' alt='Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales' />
     </a>
 </div>
 
