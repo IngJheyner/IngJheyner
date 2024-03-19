@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099'>Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés</a></h4>
+    <a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazo-echo-3288837.jpg?tf=1200x' alt='Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978'>AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-3288532.jpg?tf=1200x' alt='AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019'>He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo</a></h4>
     <a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288614.jpg?tf=1200x' alt='He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937'>Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cable-ethernet-ugreen-3288519.jpg?tf=1200x' alt='Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/unica-solucion-problema-matematico-viral-internet-1373057'>Esta es la única solución, y no otra, del problema matemático más viral de Internet</a></h4>
-    <a href='https://computerhoy.com/ciencia/unica-solucion-problema-matematico-viral-internet-1373057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-viral-3288769.jpg?tf=1200x' alt='Esta es la única solución, y no otra, del problema matemático más viral de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276'>Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/100-mejores-frases-felicitar-dia-padre-2024-whatsapp-3288993.jpg?tf=1200x' alt='Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp' />
     </a>
 </div>
 
