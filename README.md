@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/multa-hacienda-pagos-bizum-renta-2023-2024-1373416'>Hacienda te puede multar hasta 150.000 euros si no se declaran los pagos por Bizum en la Renta 2023-2024</a></h4>
+    <a href='https://computerhoy.com/internet/multa-hacienda-pagos-bizum-renta-2023-2024-1373416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacienda-te-puede-multar-150000-euros-no-declaran-pagos-bizum-renta-2023-2024-3289208.jpg?tf=1200x' alt='Hacienda te puede multar hasta 150.000 euros si no se declaran los pagos por Bizum en la Renta 2023-2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/estas-salvo-multas-ver-futbol-gratis-iptv-vpn-1373471'>¿Estás a salvo de las multas por ver el fútbol gratis por IPTV utilizando una VPN?</a></h4>
     <a href='https://computerhoy.com/internet/estas-salvo-multas-ver-futbol-gratis-iptv-vpn-1373471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-salvo-multas-ver-futbol-gratis-iptv-utilizando-vpn-3289332.jpg?tf=1200x' alt='¿Estás a salvo de las multas por ver el fútbol gratis por IPTV utilizando una VPN?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/no-limpies-robot-aspirador-barato-xiaomi-desploma-aun-precio-1373365'>No limpies más: el robot aspirador más barato de Xiaomi desploma aún más su precio</a></h4>
     <a href='https://computerhoy.com/hogar/no-limpies-robot-aspirador-barato-xiaomi-desploma-aun-precio-1373365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-robot-vacuum-s12-3228972.jpg?tf=1200x' alt='No limpies más: el robot aspirador más barato de Xiaomi desploma aún más su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-1373458'>Científicos descubren electrones moviéndose a la velocidad de la luz en cuatro dimensiones</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-1373458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-descubren-electrones-moviendose-velocidad-luz-cuatro-dimensiones-3289303.jpg?tf=1200x' alt='Científicos descubren electrones moviéndose a la velocidad de la luz en cuatro dimensiones' />
     </a>
 </div>
 
