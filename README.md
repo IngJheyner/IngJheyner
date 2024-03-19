@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019'>He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288614.jpg?tf=1200x' alt='He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078'>La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ocu-tiene-claro-debes-actuar-no-caer-estafa-llamada-perdida-3288698.jpg?tf=1200x' alt='La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276'>Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/100-mejores-frases-felicitar-dia-padre-2024-whatsapp-3288993.jpg?tf=1200x' alt='Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280'>Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16</a></h4>
-    <a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16' />
     </a>
 </div>
 
