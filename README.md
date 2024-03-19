@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078'>La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ocu-tiene-claro-debes-actuar-no-caer-estafa-llamada-perdida-3288698.jpg?tf=1200x' alt='La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937'>Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cable-ethernet-ugreen-3288519.jpg?tf=1200x' alt='Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/unica-solucion-problema-matematico-viral-internet-1373057'>Esta es la única solución, y no otra, del problema matemático más viral de Internet</a></h4>
+    <a href='https://computerhoy.com/ciencia/unica-solucion-problema-matematico-viral-internet-1373057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-viral-3288769.jpg?tf=1200x' alt='Esta es la única solución, y no otra, del problema matemático más viral de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276'>Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp</a></h4>
     <a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/100-mejores-frases-felicitar-dia-padre-2024-whatsapp-3288993.jpg?tf=1200x' alt='Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280'>Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/nasa-transmitio-video-gato-millones-kilometros-distancia-espacio-1373270'>Esta es la razón por la que la NASA transmitió un vídeo de un gato a más de 30 millones de kilómetros en el espacio</a></h4>
-    <a href='https://computerhoy.com/nasa-transmitio-video-gato-millones-kilometros-distancia-espacio-1373270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nasa-transmitio-video-gato-30-millones-kilometros-espacio-3288985.jpg?tf=1200x' alt='Esta es la razón por la que la NASA transmitió un vídeo de un gato a más de 30 millones de kilómetros en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249'>¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-19-marzo-2024-3288896.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266'>Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-configurar-navegacion-segura-google-chrome-protegerte-hackers-3288980.jpg?tf=1200x' alt='Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers' />
     </a>
 </div>
 
