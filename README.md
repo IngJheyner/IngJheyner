@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tdtchannels-actualiza-nuevos-canales-radio-television-ver-tdt-movil-1373399'>TDTChannels se actualiza con nuevos canales de radio y televisión para ver la TDT en tu móvil</a></h4>
+    <a href='https://computerhoy.com/tv/tdtchannels-actualiza-nuevos-canales-radio-television-ver-tdt-movil-1373399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de radio y televisión para ver la TDT en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-tecnica-fabricar-diamantes-aun-resistentes-1373373'>Los diamantes pueden ser hasta un 30% más resistentes gracias a una nueva técnica de fabricación</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-tecnica-fabricar-diamantes-aun-resistentes-1373373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/diamantes-laboratorio-3289130.jpg?tf=1200x' alt='Los diamantes pueden ser hasta un 30% más resistentes gracias a una nueva técnica de fabricación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fuerte-plastico-resistente-vidrio-madera-transparente-1373398'>Más fuerte que el plástico y más resistente que el vidrio, así es la madera transparente</a></h4>
+    <a href='https://computerhoy.com/ciencia/fuerte-plastico-resistente-vidrio-madera-transparente-1373398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/madera-transparente-3289077.jpg?tf=1200x' alt='Más fuerte que el plástico y más resistente que el vidrio, así es la madera transparente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344'>Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis</a></h4>
     <a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-mcdonalds-chatgpt-3289081.jpg?tf=1200x' alt='Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682'>Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera</a></h4>
     <a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aigostar-lava-pro-3286328.jpg?tf=1200x' alt='Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332'>Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador</a></h4>
-    <a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667679.jpg?tf=1200x' alt='Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/propietarios-seriesyonkis-volveran-juicio-despues-16-anos-1373318'>El Constitucional reabre el caso de SeriesYonkis después de 16 años del juicio por copyright más famoso de España</a></h4>
-    <a href='https://computerhoy.com/tv/propietarios-seriesyonkis-volveran-juicio-despues-16-anos-1373318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seriesyonkis-3289047.jpg?tf=1200x' alt='El Constitucional reabre el caso de SeriesYonkis después de 16 años del juicio por copyright más famoso de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320'>¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?</a></h4>
-    <a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3289018.jpg?tf=1200x' alt='¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?' />
     </a>
 </div>
 
