@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059'>Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-ignite-3-3288669.jpg?tf=1200x' alt='Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tdtchannels-actualiza-nuevos-canales-radio-television-ver-tdt-movil-1373399'>TDTChannels se actualiza con nuevos canales de radio y televisión para ver la TDT en tu móvil</a></h4>
     <a href='https://computerhoy.com/tv/tdtchannels-actualiza-nuevos-canales-radio-television-ver-tdt-movil-1373399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de radio y televisión para ver la TDT en tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344'>Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis</a></h4>
     <a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-mcdonalds-chatgpt-3289081.jpg?tf=1200x' alt='Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682'>Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aigostar-lava-pro-3286328.jpg?tf=1200x' alt='Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera' />
     </a>
 </div>
 
