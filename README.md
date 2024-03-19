@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344'>Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-mcdonalds-chatgpt-3289081.jpg?tf=1200x' alt='Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682'>Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carbon-humos-barbacoa-electrica-puede-ser-aliada-primavera-1371682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aigostar-lava-pro-3286328.jpg?tf=1200x' alt='Sin carbón y sin humos: esta barbacoa eléctrica puede ser tu aliada esta primavera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332'>Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador</a></h4>
     <a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667679.jpg?tf=1200x' alt='Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320'>¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?</a></h4>
     <a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3289018.jpg?tf=1200x' alt='¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313'>¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024</a></h4>
-    <a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg?tf=1200x' alt='¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248'>Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suunto-wing-3287169.jpg?tf=1200x' alt='Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología' />
     </a>
 </div>
 
