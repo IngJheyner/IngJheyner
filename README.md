@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280'>Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16</a></h4>
+    <a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/nasa-transmitio-video-gato-millones-kilometros-distancia-espacio-1373270'>Esta es la razón por la que la NASA transmitió un vídeo de un gato a más de 30 millones de kilómetros en el espacio</a></h4>
+    <a href='https://computerhoy.com/nasa-transmitio-video-gato-millones-kilometros-distancia-espacio-1373270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nasa-transmitio-video-gato-30-millones-kilometros-espacio-3288985.jpg?tf=1200x' alt='Esta es la razón por la que la NASA transmitió un vídeo de un gato a más de 30 millones de kilómetros en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249'>¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-19-marzo-2024-3288896.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269'>NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-presenta-nuevo-chip-ia-blackwell-b200-cuatro-veces-potente-h100-25-veces-eficiente-3288939.jpg?tf=1200x' alt='NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-ver-linea-tiempo-google-maps-todos-lugares-has-estado-1373234'>Cómo ver tu línea de tiempo en Google Maps y descubrir todos los lugares en los que has estado</a></h4>
-    <a href='https://computerhoy.com/internet/como-ver-linea-tiempo-google-maps-todos-lugares-has-estado-1373234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-linea-tiempo-google-maps-descubrir-todos-lugares-has-estado-3288950.jpg?tf=1200x' alt='Cómo ver tu línea de tiempo en Google Maps y descubrir todos los lugares en los que has estado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/pantalla-2k-4g-precio-locos-tablet-ipad-chino-buscas-1373098'>Pantalla 2K y 4G a precio de locos: esta tablet es el iPad chino que buscas</a></h4>
-    <a href='https://computerhoy.com/android/pantalla-2k-4g-precio-locos-tablet-ipad-chino-buscas-1373098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-t50-3189134.jpg?tf=1200x' alt='Pantalla 2K y 4G a precio de locos: esta tablet es el iPad chino que buscas' />
     </a>
 </div>
 
