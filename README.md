@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332'>Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador</a></h4>
+    <a href='https://computerhoy.com/apple/apple-dira-adios-version-129-pulgadas-ipad-air-2024-filtrador-1373332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667679.jpg?tf=1200x' alt='Apple dirá adiós a la versión de más grande de su iPad Air en 2024, según este filtrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/propietarios-seriesyonkis-volveran-juicio-despues-16-anos-1373318'>El Constitucional reabre el caso de SeriesYonkis después de 16 años del juicio por copyright más famoso de España</a></h4>
+    <a href='https://computerhoy.com/tv/propietarios-seriesyonkis-volveran-juicio-despues-16-anos-1373318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seriesyonkis-3289047.jpg?tf=1200x' alt='El Constitucional reabre el caso de SeriesYonkis después de 16 años del juicio por copyright más famoso de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320'>¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?</a></h4>
+    <a href='https://computerhoy.com/ciencia/teoria-fisica-esconde-detras-problema-tres-cuerpos-nueva-serie-netflix-1373320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3289018.jpg?tf=1200x' alt='¿Qué teoría física se esconde detrás de El problema de los tres cuerpos, la nueva serie de Netflix?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313'>¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024</a></h4>
     <a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg?tf=1200x' alt='¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248'>Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suunto-wing-3287169.jpg?tf=1200x' alt='Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-ia-openai-comparte-nuevos-videos-sora-imposibles-distinguir-realidad-1373307'>Sí, todo esto es IA: OpenAI comparte nuevos vídeos de Sora imposibles de distinguir de la realidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-ia-openai-comparte-nuevos-videos-sora-imposibles-distinguir-realidad-1373307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-sora-ia-3289030.jpg?tf=1200x' alt='Sí, todo esto es IA: OpenAI comparte nuevos vídeos de Sora imposibles de distinguir de la realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099'>Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés</a></h4>
-    <a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazo-echo-3288837.jpg?tf=1200x' alt='Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978'>AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-3288532.jpg?tf=1200x' alt='AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros' />
     </a>
 </div>
 
