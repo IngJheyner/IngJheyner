@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249'>¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-19-marzo-2024-1373249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-19-marzo-2024-3288896.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 19 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266'>Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-configurar-navegacion-segura-google-chrome-protegerte-hackers-3288980.jpg?tf=1200x' alt='Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269'>NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-presenta-nuevo-chip-ia-blackwell-b200-cuatro-veces-potente-h100-25-veces-eficiente-3288939.jpg?tf=1200x' alt='NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-ver-linea-tiempo-google-maps-todos-lugares-has-estado-1373234'>Cómo ver tu línea de tiempo en Google Maps y descubrir todos los lugares en los que has estado</a></h4>
     <a href='https://computerhoy.com/internet/como-ver-linea-tiempo-google-maps-todos-lugares-has-estado-1373234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-linea-tiempo-google-maps-descubrir-todos-lugares-has-estado-3288950.jpg?tf=1200x' alt='Cómo ver tu línea de tiempo en Google Maps y descubrir todos los lugares en los que has estado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/pantalla-2k-4g-precio-locos-tablet-ipad-chino-buscas-1373098'>Pantalla 2K y 4G a precio de locos: esta tablet es el iPad chino que buscas</a></h4>
     <a href='https://computerhoy.com/android/pantalla-2k-4g-precio-locos-tablet-ipad-chino-buscas-1373098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-t50-3189134.jpg?tf=1200x' alt='Pantalla 2K y 4G a precio de locos: esta tablet es el iPad chino que buscas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tienes-alguno-estos-apellidos-comunes-espana-enhorabuena-desciendes-nobleza-1373246'>Si tienes alguno de estos apellidos comunes en España, enhorabuena, desciendes de la nobleza</a></h4>
-    <a href='https://computerhoy.com/life/tienes-alguno-estos-apellidos-comunes-espana-enhorabuena-desciendes-nobleza-1373246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nobleza-3288902.jpg?tf=1200x' alt='Si tienes alguno de estos apellidos comunes en España, enhorabuena, desciendes de la nobleza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grok-chatgpt-gratis-elon-musk-ya-disponible-todos-1373245'>Grok, el ChatGPT gratis de Elon Musk, ya está disponible para todos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grok-chatgpt-gratis-elon-musk-ya-disponible-todos-1373245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, el ChatGPT gratis de Elon Musk, ya está disponible para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188'>Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-1373188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/algunos-modelos-raspberry-pi-5-pueden-overclockear-314-ghz-3288891.jpg?tf=1200x' alt='Algunos modelos de Raspberry Pi 5 se pueden overclockear hasta 3,14 GHz' />
     </a>
 </div>
 
