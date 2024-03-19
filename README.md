@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276'>Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/100-mejores-frases-felicitar-dia-padre-whatsapp-1373276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/100-mejores-frases-felicitar-dia-padre-2024-whatsapp-3288993.jpg?tf=1200x' alt='Las 100 mejores frases para felicitar el día del padre 2024 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280'>Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16</a></h4>
     <a href='https://computerhoy.com/apple/apple-negocia-llegada-ia-gemini-iphone-16-1373280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Tim Cook y Sundar Pichai negocian la llegada de la IA Gemini al iPhone 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266'>Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-activar-navegacion-segura-google-protegerte-hackers-1373266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-configurar-navegacion-segura-google-chrome-protegerte-hackers-3288980.jpg?tf=1200x' alt='Cómo activar y configurar la navegación segura de Google Chrome para protegerte de los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269'>NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-presenta-nueva-gpu-ia-blackwell-b200-4-potente-h100-1373269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-presenta-nuevo-chip-ia-blackwell-b200-cuatro-veces-potente-h100-25-veces-eficiente-3288939.jpg?tf=1200x' alt='NVIDIA presenta su nueva generación de chips para IA Blackwell B200, cuatro veces más potente que H100 y 25 veces más eficiente' />
     </a>
 </div>
 
