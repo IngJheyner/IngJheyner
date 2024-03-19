@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313'>¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024</a></h4>
+    <a href='https://computerhoy.com/criptos/quieres-invertir-bitcoin-informe-asegura-precio-alcanzara-cifra-historica-2024-1373313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/bitcoin-2607637.jpg?tf=1200x' alt='¿Quieres invertir en Bitcoin? Este informe asegura que su precio alcanzará una cifra histórica en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248'>Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-cascos-controlan-moviendo-cabeza-son-suunto-usan-novedosa-tecnologia-1372248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suunto-wing-3287169.jpg?tf=1200x' alt='Estos cascos se controlan moviendo la cabeza, son de Suunto y usan una novedosa tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-ia-openai-comparte-nuevos-videos-sora-imposibles-distinguir-realidad-1373307'>Sí, todo esto es IA: OpenAI comparte nuevos vídeos de Sora imposibles de distinguir de la realidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-ia-openai-comparte-nuevos-videos-sora-imposibles-distinguir-realidad-1373307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-sora-ia-3289030.jpg?tf=1200x' alt='Sí, todo esto es IA: OpenAI comparte nuevos vídeos de Sora imposibles de distinguir de la realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099'>Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés</a></h4>
     <a href='https://computerhoy.com/hogar/como-activar-asmr-modo-oculto-alexa-1373099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazo-echo-3288837.jpg?tf=1200x' alt='Cómo activar ASMR, el modo oculto de Alexa para reducir el estrés' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978'>AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-rompe-precio-nuevo-xiaomi-redmi-note-13-pro-roza-200-euros-1372978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-3288532.jpg?tf=1200x' alt='AliExpress rompe el precio del nuevo Xiaomi Redmi Note 13 Pro, que roza los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019'>He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-macbook-air-m3-analisis-opinion-1373019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288614.jpg?tf=1200x' alt='He analizado el MacBook Air con chip M3 y sigue siendo el mejor portátil para (casi) todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078'>La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/debes-actuar-no-caer-estafa-llamada-perdida-ocu-1373078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ocu-tiene-claro-debes-actuar-no-caer-estafa-llamada-perdida-3288698.jpg?tf=1200x' alt='La OCU lo tiene claro: así debes actuar para no caer en la estafa de la llamada perdida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937'>Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/deja-tirar-fibra-basura-cable-red-cat-8-pone-internet-40-gb-segundo-1372937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cable-ethernet-ugreen-3288519.jpg?tf=1200x' alt='Deja de tirar tu fibra a la basura: este cable de red CAT 8 pone internet a 40 GB por segundo' />
     </a>
 </div>
 
