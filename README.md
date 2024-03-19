@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-no-estas-casa-1371712'>Del cargador del móvil a la nevera: ¿qué debes desenchufar cuando no estás en casa?</a></h4>
+    <a href='https://computerhoy.com/hogar/electrodomesticos-debes-desenchufar-cuando-no-estas-casa-1371712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/enchufe-color-verde-3289201.jpg?tf=1200x' alt='Del cargador del móvil a la nevera: ¿qué debes desenchufar cuando no estás en casa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/lecciones-liderazgo-jeff-bezos-1373137'>10 lecciones de liderazgo de Jeff Bezos que cualquiera puede utilizar en su día a día</a></h4>
+    <a href='https://computerhoy.com/amazon/lecciones-liderazgo-jeff-bezos-1373137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jeff-bezos-3289146.jpg?tf=1200x' alt='10 lecciones de liderazgo de Jeff Bezos que cualquiera puede utilizar en su día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059'>Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-ignite-3-rebajado-amazon-rozar-200-euros-1373059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-ignite-3-3288669.jpg?tf=1200x' alt='Este Polar es uno de los relojes de fitness más avanzados y su precio supera ya a todos los rivales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-tecnica-fabricar-diamantes-aun-resistentes-1373373'>Los diamantes pueden ser hasta un 30% más resistentes gracias a una nueva técnica de fabricación</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-tecnica-fabricar-diamantes-aun-resistentes-1373373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/diamantes-laboratorio-3289130.jpg?tf=1200x' alt='Los diamantes pueden ser hasta un 30% más resistentes gracias a una nueva técnica de fabricación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fuerte-plastico-resistente-vidrio-madera-transparente-1373398'>Más fuerte que el plástico y más resistente que el vidrio, así es la madera transparente</a></h4>
-    <a href='https://computerhoy.com/ciencia/fuerte-plastico-resistente-vidrio-madera-transparente-1373398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/madera-transparente-3289077.jpg?tf=1200x' alt='Más fuerte que el plástico y más resistente que el vidrio, así es la madera transparente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344'>Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ha-conseguido-comer-gratis-mcdonalds-cliente-usando-chatgpt-1373344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-mcdonalds-chatgpt-3289081.jpg?tf=1200x' alt='Un cliente de McDonald's ha descubierto un truco utilizando ChatGPT con el que conseguir hamburguesas gratis' />
     </a>
 </div>
 
