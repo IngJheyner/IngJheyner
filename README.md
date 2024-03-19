@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536'>Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nace-microsoft-ai-ceo-sera-mustafa-suleyman-fundador-deepmind-google-3289496.jpg?tf=1200x' alt='Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-netflix-deportes-aumenta-numero-partidos-directo-subir-precio-1373532'>Movistar Plus+, el Netflix de los deportes, aumenta el número de partidos en directo sin subir de precio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-netflix-deportes-aumenta-numero-partidos-directo-subir-precio-1373532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/movistar-plus-3289517.jpg?tf=1200x' alt='Movistar Plus+, el Netflix de los deportes, aumenta el número de partidos en directo sin subir de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/hacer-entrevista-trabajo-ex-reclutador-google-1373338'>Esto es lo mejor que puedes hacer en una entrevista de trabajo, según un ex reclutador de Google</a></h4>
     <a href='https://computerhoy.com/life/hacer-entrevista-trabajo-ex-reclutador-google-1373338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/entrevista-trabajo-3289238.jpg?tf=1200x' alt='Esto es lo mejor que puedes hacer en una entrevista de trabajo, según un ex reclutador de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/multa-hacienda-pagos-bizum-renta-2023-2024-1373416'>Hacienda te puede multar hasta 150.000 euros si no se declaran los pagos por Bizum en la Renta 2023-2024</a></h4>
-    <a href='https://computerhoy.com/internet/multa-hacienda-pagos-bizum-renta-2023-2024-1373416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacienda-te-puede-multar-150000-euros-no-declaran-pagos-bizum-renta-2023-2024-3289208.jpg?tf=1200x' alt='Hacienda te puede multar hasta 150.000 euros si no se declaran los pagos por Bizum en la Renta 2023-2024' />
     </a>
 </div>
 
