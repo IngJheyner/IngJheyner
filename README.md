@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/materia-oscura-no-existiese-nueva-teoria-cambiaria-todo-1373619'>¿Y si la materia oscura no existiese? Una nueva teoría cambia la forma de entender el universo</a></h4>
+    <a href='https://computerhoy.com/ciencia/materia-oscura-no-existiese-nueva-teoria-cambiaria-todo-1373619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/materia-oscura-no-existiese-nueva-teoria-cambia-forma-entender-universo-3289649.jpg?tf=1200x' alt='¿Y si la materia oscura no existiese? Una nueva teoría cambia la forma de entender el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428'>Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance</a></h4>
     <a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/ver-historial-navegacion-modo-incognito-como-eliminarlo-1373765'>Cómo ver las páginas web que has visitado en el modo incógnito y cómo eliminar este registro</a></h4>
     <a href='https://computerhoy.com/internet/ver-historial-navegacion-modo-incognito-como-eliminarlo-1373765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-paginas-web-has-visitado-modo-incognito-como-eliminar-registro-3290037.jpg?tf=1200x' alt='Cómo ver las páginas web que has visitado en el modo incógnito y cómo eliminar este registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-tumba-amazon-apple-watch-series-9-100eu-barato-1373730'>AliExpress tumba a Amazon: el Apple Watch Series 9 es 100€ más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-tumba-amazon-apple-watch-series-9-100eu-barato-1373730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='AliExpress tumba a Amazon: el Apple Watch Series 9 es 100€ más barato' />
     </a>
 </div>
 
