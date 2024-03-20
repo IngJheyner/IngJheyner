@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819'>Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-3290256.jpg?tf=1200x' alt='Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666'>Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shokz-openrun-3289739.jpg?tf=1200x' alt='Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847'>Un error informático hizo que los cajeros automáticos regalasen dinero durante horas</a></h4>
     <a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cajero-automatico-3290262.jpg?tf=1200x' alt='Un error informático hizo que los cajeros automáticos regalasen dinero durante horas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844'>Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-1373809'>Así funciona el bloqueo dinámico de Movistar y LaLiga para acabar con las IPTV y el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/internet/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-1373809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-futbol-gratis-3290252.jpg?tf=1200x' alt='Así funciona el bloqueo dinámico de Movistar y LaLiga para acabar con las IPTV y el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838'>Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA</a></h4>
-    <a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevos-portatiles-lenovo-thinkpad-l-x13-procesadores-intel-core-ultra-wifi-7-listos-ia-3290209.jpg?tf=1200x' alt='Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA' />
     </a>
 </div>
 
