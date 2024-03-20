@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669'>Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia</a></h4>
+    <a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/threads-quiere-ser-twitter-ultima-actualizacion-anadira-seccion-temas-tendencia-3289804.jpg?tf=1200x' alt='Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-opina-agi-podria-ser-realidad-5-anos-1373644'>Jensen Huang, CEO de Nvidia, asegura que la inteligencia artificial general llegará en 5 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-opina-agi-podria-ser-realidad-5-anos-1373644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jensen-huang-3289704.jpg?tf=1200x' alt='Jensen Huang, CEO de Nvidia, asegura que la inteligencia artificial general llegará en 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612'>El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/galaxy-ring-nevera-dieta-3289650.jpg?tf=1200x' alt='El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-pc-mochila-mini-pc-causa-sensacion-amazon-1373294'>Ryzen 7 y 16GB de RAM en un PC que cabe en la mochila: este Mini PC causa sensación en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-pc-mochila-mini-pc-causa-sensacion-amazon-1373294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM en un PC que cabe en la mochila: este Mini PC causa sensación en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633'>¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?</a></h4>
     <a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/porque-eclipse-solar-abril-sera-diferente-resto-3289691.jpg?tf=1200x' alt='¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599'>Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-3063922.jpg?tf=1200x' alt='Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-8tb-almacenamiento-precio-locos-fiesta-primavera-amazon-1373221'>Olvida la nube: 8TB de almacenamiento a precio de locos en la Fiesta de la Primavera de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-nube-8tb-almacenamiento-precio-locos-fiesta-primavera-amazon-1373221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seagate-desktop-expansion-3288867.jpg?tf=1200x' alt='Olvida la nube: 8TB de almacenamiento a precio de locos en la Fiesta de la Primavera de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592'>Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316'>Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229702.jpg?tf=1200x' alt='Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo' />
     </a>
 </div>
 
