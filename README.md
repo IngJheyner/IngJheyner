@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316'>Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229702.jpg?tf=1200x' alt='Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308'>¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?</a></h4>
+    <a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/prefijos-pago-3289265.jpg?tf=1200x' alt='¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577'>Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?</a></h4>
     <a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjetas-visita-firmadas-valen-subastas-elon-musk-supera-albert-einstein-3289355.jpg?tf=1200x' alt='Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358'>¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece</a></h4>
     <a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-como-parece-3289093.jpg?tf=1200x' alt='¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-desploman-precio-forma-temporal-1373306'>Alexa está de rebajas: los Amazon Echo desploman su precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-desploman-precio-forma-temporal-1373306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-echo-show-5-3289012.jpg?tf=1200x' alt='Alexa está de rebajas: los Amazon Echo desploman su precio de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135'>Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-mover-apps-memoria-interna-tarjeta-sd-liberar-espacio-movil-android-3288842.jpg?tf=1200x' alt='Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android' />
     </a>
 </div>
 
