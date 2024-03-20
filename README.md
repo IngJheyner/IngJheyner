@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633'>¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?</a></h4>
+    <a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/porque-eclipse-solar-abril-sera-diferente-resto-3289691.jpg?tf=1200x' alt='¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599'>Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-3063922.jpg?tf=1200x' alt='Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316'>Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo</a></h4>
     <a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229702.jpg?tf=1200x' alt='Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308'>¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?</a></h4>
-    <a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/prefijos-pago-3289265.jpg?tf=1200x' alt='¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?' />
     </a>
 </div>
 
