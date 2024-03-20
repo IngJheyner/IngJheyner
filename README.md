@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-apuesta-fitbit-incluira-chatbot-personalizado-mucha-ia-mejorar-salud-1373692'>Google apuesta por Fitbit e incluirá un chatbot personalizado y mucha IA para mejorar tu salud</a></h4>
+    <a href='https://computerhoy.com/google/google-apuesta-fitbit-incluira-chatbot-personalizado-mucha-ia-mejorar-salud-1373692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-fitbit-3289680.jpg?tf=1200x' alt='Google apuesta por Fitbit e incluirá un chatbot personalizado y mucha IA para mejorar tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669'>Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia</a></h4>
     <a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/threads-quiere-ser-twitter-ultima-actualizacion-anadira-seccion-temas-tendencia-3289804.jpg?tf=1200x' alt='Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612'>El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/galaxy-ring-nevera-dieta-3289650.jpg?tf=1200x' alt='El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-pc-mochila-mini-pc-causa-sensacion-amazon-1373294'>Ryzen 7 y 16GB de RAM en un PC que cabe en la mochila: este Mini PC causa sensación en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-16gb-ram-pc-mochila-mini-pc-causa-sensacion-amazon-1373294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM en un PC que cabe en la mochila: este Mini PC causa sensación en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633'>¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?</a></h4>
-    <a href='https://computerhoy.com/espacio/eclipse-solar-8-abril-sera-diferente-resto-estas-son-razones-1373633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/porque-eclipse-solar-abril-sera-diferente-resto-3289691.jpg?tf=1200x' alt='¿Por qué el eclipse solar de abril será uno de los más espectaculares de los últimos años?' />
     </a>
 </div>
 
