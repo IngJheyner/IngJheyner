@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/materia-oscura-no-existiese-nueva-teoria-cambiaria-todo-1373619'>¿Y si la materia oscura no existiese? Una nueva teoría cambia la forma de entender el universo</a></h4>
-    <a href='https://computerhoy.com/ciencia/materia-oscura-no-existiese-nueva-teoria-cambiaria-todo-1373619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/materia-oscura-no-existiese-nueva-teoria-cambia-forma-entender-universo-3289649.jpg?tf=1200x' alt='¿Y si la materia oscura no existiese? Una nueva teoría cambia la forma de entender el universo' />
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844'>Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428'>Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance' />
+    <h4><a href='https://computerhoy.com/internet/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-1373809'>Así funciona el bloqueo dinámico de Movistar y LaLiga para acabar con las IPTV y el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/internet/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-1373809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-bloqueo-dinamico-movistar-laliga-acabar-iptv-futbol-gratis-3290252.jpg?tf=1200x' alt='Así funciona el bloqueo dinámico de Movistar y LaLiga para acabar con las IPTV y el fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-visitar-perfiles-forma-anonima-linkedin-1372121'>Así debes visitar perfiles de forma anónima en LinkedIn sin que te pillen</a></h4>
-    <a href='https://computerhoy.com/internet/como-visitar-perfiles-forma-anonima-linkedin-1372121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/debes-visitar-perfiles-forma-anonima-linkedin-te-pillen-3287550.jpg?tf=1200x' alt='Así debes visitar perfiles de forma anónima en LinkedIn sin que te pillen' />
+    <h4><a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838'>Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA</a></h4>
+    <a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevos-portatiles-lenovo-thinkpad-l-x13-procesadores-intel-core-ultra-wifi-7-listos-ia-3290209.jpg?tf=1200x' alt='Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/piracy-shield-ha-bloqueado-webs-legales-1373607'>Piracy Shield, la esperanza para acabar con las IPTV  y el fútbol gratis, es un auténtico caos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/piracy-shield-ha-bloqueado-webs-legales-1373607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/piracy-shield-italia-3289634.jpg?tf=1200x' alt='Piracy Shield, la esperanza para acabar con las IPTV  y el fútbol gratis, es un auténtico caos' />
+    <h4><a href='https://computerhoy.com/tecnologia/cosori-aduena-rebajas-amazon-freidora-turbo-blaze-6l-tiene-30-euros-descuento-1373450'>COSORI se adueña de las rebajas de Amazon: su freidora Turbo Blaze de 6L tiene 30 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosori-aduena-rebajas-amazon-freidora-turbo-blaze-6l-tiene-30-euros-descuento-1373450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cosori-turbo-blaze-6l-3288786.jpg?tf=1200x' alt='COSORI se adueña de las rebajas de Amazon: su freidora Turbo Blaze de 6L tiene 30 euros de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ver-historial-navegacion-modo-incognito-como-eliminarlo-1373765'>Cómo ver las páginas web que has visitado en el modo incógnito y cómo eliminar este registro</a></h4>
-    <a href='https://computerhoy.com/internet/ver-historial-navegacion-modo-incognito-como-eliminarlo-1373765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-paginas-web-has-visitado-modo-incognito-como-eliminar-registro-3290037.jpg?tf=1200x' alt='Cómo ver las páginas web que has visitado en el modo incógnito y cómo eliminar este registro' />
+    <h4><a href='https://computerhoy.com/tecnologia/codigos-error-lavadora-balay-solucion-1372129'>Códigos de error de una lavadora Balay y su solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/codigos-error-lavadora-balay-solucion-1372129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-error-lavadora-balay-solucion-3287291.jpg?tf=1200x' alt='Códigos de error de una lavadora Balay y su solución' />
     </a>
 </div>
 
