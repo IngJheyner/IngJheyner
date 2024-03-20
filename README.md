@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apertura-tienda-epic-games-store-ios-android-1373866'>Epic anuncia la llegada de Fortnite y la apertura de la tienda Epic Games Store en iOS y Android, solo en Europa</a></h4>
+    <a href='https://computerhoy.com/apps/apertura-tienda-epic-games-store-ios-android-1373866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/epic-anuncia-apertura-tienda-epic-games-store-ios-android-solo-europa-3290281.jpg?tf=1200x' alt='Epic anuncia la llegada de Fortnite y la apertura de la tienda Epic Games Store en iOS y Android, solo en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819'>Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-3290256.jpg?tf=1200x' alt='Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/supergrupos-telegram-1373683'>Qué son los supergrupos de Telegram y cómo crear uno</a></h4>
     <a href='https://computerhoy.com/apps/supergrupos-telegram-1373683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-superman-3290045.jpg?tf=1200x' alt='Qué son los supergrupos de Telegram y cómo crear uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844'>Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades' />
     </a>
 </div>
 
