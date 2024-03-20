@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428'>Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-sony-profesionales-pero-precio-actual-pone-alcance-1373428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/sony-alpha-7-ii-2152745.jpg?tf=1200x' alt='Esta cámara Sony es para profesionales, pero su precio actual la pone a tu alcance' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-visitar-perfiles-forma-anonima-linkedin-1372121'>Así debes visitar perfiles de forma anónima en LinkedIn sin que te pillen</a></h4>
+    <a href='https://computerhoy.com/internet/como-visitar-perfiles-forma-anonima-linkedin-1372121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/debes-visitar-perfiles-forma-anonima-linkedin-te-pillen-3287550.jpg?tf=1200x' alt='Así debes visitar perfiles de forma anónima en LinkedIn sin que te pillen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/piracy-shield-ha-bloqueado-webs-legales-1373607'>Piracy Shield, la esperanza para acabar con las IPTV  y el fútbol gratis, es un auténtico caos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/piracy-shield-ha-bloqueado-webs-legales-1373607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/piracy-shield-italia-3289634.jpg?tf=1200x' alt='Piracy Shield, la esperanza para acabar con las IPTV  y el fútbol gratis, es un auténtico caos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-tumba-amazon-apple-watch-series-9-100eu-barato-1373730'>AliExpress tumba a Amazon: el Apple Watch Series 9 es 100€ más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-tumba-amazon-apple-watch-series-9-100eu-barato-1373730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='AliExpress tumba a Amazon: el Apple Watch Series 9 es 100€ más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-galeria-movil-google-fotos-1372912'>Cómo sincronizar la galería del móvil con Google Fotos para crear una copia de seguridad en la nube</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sincronizar-galeria-movil-google-fotos-1372912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Cómo sincronizar la galería del móvil con Google Fotos para crear una copia de seguridad en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-1373562'>Cuánto tiempo dura la pasta térmica en el procesador y cómo cambiarla antes de que se seque</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-1373562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='Cuánto tiempo dura la pasta térmica en el procesador y cómo cambiarla antes de que se seque' />
     </a>
 </div>
 
