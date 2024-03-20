@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847'>Un error informático hizo que los cajeros automáticos regalasen dinero durante horas</a></h4>
+    <a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cajero-automatico-3290262.jpg?tf=1200x' alt='Un error informático hizo que los cajeros automáticos regalasen dinero durante horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/supergrupos-telegram-1373683'>Qué son los supergrupos de Telegram y cómo crear uno</a></h4>
+    <a href='https://computerhoy.com/apps/supergrupos-telegram-1373683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-superman-3290045.jpg?tf=1200x' alt='Qué son los supergrupos de Telegram y cómo crear uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844'>Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-descargar-android-auto-116-estas-son-todas-novedades-1373844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/descubri-app-android-auto-no-he-vuelto-poner-radio-fm-coche-3268206.jpg?tf=1200x' alt='Ya puedes descargar Android Auto 11.6 y estas son todas sus novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838'>Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA</a></h4>
     <a href='https://computerhoy.com/pc/portatiles-lenovo-thinkpad-l-x13-intel-core-ultra-inteligencia-artificial-1373838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevos-portatiles-lenovo-thinkpad-l-x13-procesadores-intel-core-ultra-wifi-7-listos-ia-3290209.jpg?tf=1200x' alt='Los nuevos portátiles Lenovo ThinkPad L y X13 con procesadores Intel Core Ultra y WiFi 7, listos para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosori-aduena-rebajas-amazon-freidora-turbo-blaze-6l-tiene-30-euros-descuento-1373450'>COSORI se adueña de las rebajas de Amazon: su freidora Turbo Blaze de 6L tiene 30 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosori-aduena-rebajas-amazon-freidora-turbo-blaze-6l-tiene-30-euros-descuento-1373450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cosori-turbo-blaze-6l-3288786.jpg?tf=1200x' alt='COSORI se adueña de las rebajas de Amazon: su freidora Turbo Blaze de 6L tiene 30 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/codigos-error-lavadora-balay-solucion-1372129'>Códigos de error de una lavadora Balay y su solución</a></h4>
-    <a href='https://computerhoy.com/tecnologia/codigos-error-lavadora-balay-solucion-1372129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/codigos-error-lavadora-balay-solucion-3287291.jpg?tf=1200x' alt='Códigos de error de una lavadora Balay y su solución' />
     </a>
 </div>
 
