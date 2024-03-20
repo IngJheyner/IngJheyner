@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566'>¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-20-marzo-2024-3289577.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564'>Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más</a></h4>
     <a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191840.jpg?tf=1200x' alt='Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fiesta-primavera-amazon-ofertas-top-1373141'>La Fiesta de la Primavera de Amazon va de ofertas: estas son las más destacadas de marcas como Garmin, Cosori, Xiaomi y más</a></h4>
     <a href='https://computerhoy.com/tecnologia/fiesta-primavera-amazon-ofertas-top-1373141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fiesta-ofertas-primavera-amazon-3288699.jpg?tf=1200x' alt='La Fiesta de la Primavera de Amazon va de ofertas: estas son las más destacadas de marcas como Garmin, Cosori, Xiaomi y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536'>Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nace-microsoft-ai-ceo-sera-mustafa-suleyman-fundador-deepmind-google-3289496.jpg?tf=1200x' alt='Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google' />
     </a>
 </div>
 
