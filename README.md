@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577'>Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjetas-visita-firmadas-valen-subastas-elon-musk-supera-albert-einstein-3289355.jpg?tf=1200x' alt='Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902'>He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas</a></h4>
+    <a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-comparativa-capcut-edicion-video-app-3286112.jpg?tf=1200x' alt='He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358'>¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece</a></h4>
     <a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-como-parece-3289093.jpg?tf=1200x' alt='¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135'>Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-mover-apps-memoria-interna-tarjeta-sd-liberar-espacio-movil-android-3288842.jpg?tf=1200x' alt='Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566'>¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-20-marzo-2024-3289577.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564'>Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más</a></h4>
-    <a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191840.jpg?tf=1200x' alt='Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más' />
     </a>
 </div>
 
