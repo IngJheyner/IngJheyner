@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-galeria-movil-google-fotos-1372912'>Cómo sincronizar la galería del móvil con Google Fotos para crear una copia de seguridad en la nube</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sincronizar-galeria-movil-google-fotos-1372912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/google-fotos-3086086.jpg?tf=1200x' alt='Cómo sincronizar la galería del móvil con Google Fotos para crear una copia de seguridad en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-1373562'>Cuánto tiempo dura la pasta térmica en el procesador y cómo cambiarla antes de que se seque</a></h4>
+    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-1373562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='Cuánto tiempo dura la pasta térmica en el procesador y cómo cambiarla antes de que se seque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554'>iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.com/apple/iphone-16-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1355554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-16-rumores-3258898.jpg?tf=1200x' alt='iPhone 16: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669'>Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia</a></h4>
     <a href='https://computerhoy.com/apps/threads-quiere-ser-twitter-anade-seccion-tendencias-1373669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/threads-quiere-ser-twitter-ultima-actualizacion-anadira-seccion-temas-tendencia-3289804.jpg?tf=1200x' alt='Threads quiere ser Twitter: la última actualización añade una sección con temas en tendencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-opina-agi-podria-ser-realidad-5-anos-1373644'>Jensen Huang, CEO de Nvidia, asegura que la inteligencia artificial general llegará en 5 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-opina-agi-podria-ser-realidad-5-anos-1373644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/jensen-huang-3289704.jpg?tf=1200x' alt='Jensen Huang, CEO de Nvidia, asegura que la inteligencia artificial general llegará en 5 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612'>El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-ring-convertira-dietista-personal-te-dira-te-falta-nevera-1373612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/galaxy-ring-nevera-dieta-3289650.jpg?tf=1200x' alt='El Samsung Galaxy Ring se convertirá en tu dietista personal y hasta te dirá qué te falta en la nevera' />
     </a>
 </div>
 
