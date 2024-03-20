@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599'>Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/conversaciones-chatgpt-no-son-tan-privadas-como-crees-estos-hackers-consiguen-descifrarlas-1373599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/100000-cuentas-chatgpt-hackeadas-estan-vendiendo-dark-web-3063922.jpg?tf=1200x' alt='Tus conversaciones en ChatGPT no son tan privadas como crees y estos hackers consiguen descifrarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-8tb-almacenamiento-precio-locos-fiesta-primavera-amazon-1373221'>Olvida la nube: 8TB de almacenamiento a precio de locos en la Fiesta de la Primavera de Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-nube-8tb-almacenamiento-precio-locos-fiesta-primavera-amazon-1373221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/seagate-desktop-expansion-3288867.jpg?tf=1200x' alt='Olvida la nube: 8TB de almacenamiento a precio de locos en la Fiesta de la Primavera de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592'>Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo</a></h4>
     <a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308'>¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?</a></h4>
     <a href='https://computerhoy.com/hogar/son-gratis-pago-llamadas-900-901-905-800-1373308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/prefijos-pago-3289265.jpg?tf=1200x' alt='¿Es el 900 gratis? Llamadas a 901, 905, 800 y más: ¿qué prefijos son gratis y cuáles son de pago?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577'>Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tarjetas-comerciales-firmadas-steve-jobs-elon-musk-record-1373577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjetas-visita-firmadas-valen-subastas-elon-musk-supera-albert-einstein-3289355.jpg?tf=1200x' alt='Las tarjetas comerciales firmadas que más valen en las subastas: ¿Elon Musk y Steve Jobs superan a Albert Einstein?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902'>He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas</a></h4>
-    <a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-comparativa-capcut-edicion-video-app-3286112.jpg?tf=1200x' alt='He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas' />
     </a>
 </div>
 
