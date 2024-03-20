@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564'>Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más</a></h4>
+    <a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191840.jpg?tf=1200x' alt='Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-1373561'>Una nueva función de Google Maps podría acabar con los atascos fantasma para siempre</a></h4>
     <a href='https://computerhoy.com/google/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-1373561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-3289572.jpg?tf=1200x' alt='Una nueva función de Google Maps podría acabar con los atascos fantasma para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536'>Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/mustafa-suleyman-ceo-microsoft-ai-deepmind-google-1373536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nace-microsoft-ai-ceo-sera-mustafa-suleyman-fundador-deepmind-google-3289496.jpg?tf=1200x' alt='Nace Microsoft AI, y su CEO será Mustafá Suleyman, el fundador de DeepMind de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-netflix-deportes-aumenta-numero-partidos-directo-subir-precio-1373532'>Movistar Plus+, el Netflix de los deportes, aumenta el número de partidos en directo sin subir de precio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-netflix-deportes-aumenta-numero-partidos-directo-subir-precio-1373532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/movistar-plus-3289517.jpg?tf=1200x' alt='Movistar Plus+, el Netflix de los deportes, aumenta el número de partidos en directo sin subir de precio' />
     </a>
 </div>
 
