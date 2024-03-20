@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592'>Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/life/ya-puedes-acceder-datos-fiscales-renta-2023-24-como-puedes-hacerlo-1373592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/comienza-campana-renta-2022-23-ella-ciberestafas-como-protegerte-expertos-3008590.jpg?tf=1200x' alt='Ya puedes acceder a tus datos fiscales para la Renta 2023/24: así es como puedes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316'>Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo</a></h4>
     <a href='https://computerhoy.com/tecnologia/firestick-suman-rebajas-amazon-deja-dispositivos-vendidos-precio-derribo-1373316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-4k-max-2023-3229702.jpg?tf=1200x' alt='Los Firestick se suman a las rebajas: Amazon deja sus dispositivos más vendidos a precio de derribo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902'>He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas</a></h4>
     <a href='https://computerhoy.com/apps/he-probado-capcut-youtube-create-creo-app-tiktok-sigue-siendo-imbatible-1370902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/youtube-create-comparativa-capcut-edicion-video-app-3286112.jpg?tf=1200x' alt='He probado CapCut y YouTube Create: creo que la app de TikTok sigue siendo imbatible, aunque debe ponerse las pilas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358'>¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-como-parece-3289093.jpg?tf=1200x' alt='¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece' />
     </a>
 </div>
 
