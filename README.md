@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358'>¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-1373358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flirtear-chatgpt-algunos-estudios-revelan-no-tan-extrano-como-parece-3289093.jpg?tf=1200x' alt='¿Ligar con ChatGPT? Algunos estudios revelan que no es tan extraño como parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-desploman-precio-forma-temporal-1373306'>Alexa está de rebajas: los Amazon Echo desploman su precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alexa-rebajas-amazon-echo-desploman-precio-forma-temporal-1373306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-echo-show-5-3289012.jpg?tf=1200x' alt='Alexa está de rebajas: los Amazon Echo desploman su precio de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135'>Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-apps-memoria-interna-tarjeta-sd-android-1373135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-mover-apps-memoria-interna-tarjeta-sd-liberar-espacio-movil-android-3288842.jpg?tf=1200x' alt='Cómo mover apps desde la memoria interna a la tarjeta SD y liberar espacio en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566'>¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-20-marzo-2024-1373566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-20-marzo-2024-3289577.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 20 de marzo de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564'>Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más</a></h4>
     <a href='https://computerhoy.com/google/pixel-8a-especificaciones-completas-tensor-g3-pantalla-120-hz-displayport-1373564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191840.jpg?tf=1200x' alt='Se filtran todas las especificaciones del Pixel 8a: Tensor G3, pantalla a 120 Hz, DisplayPort y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-1373561'>Una nueva función de Google Maps podría acabar con los atascos fantasma para siempre</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-1373561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-funcion-google-maps-podria-acabar-atascos-fantasma-siempre-3289572.jpg?tf=1200x' alt='Una nueva función de Google Maps podría acabar con los atascos fantasma para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-pega-bombazo-fenix-7x-solar-casi-mitad-precio-fiesta-primavera-amazon-1373480'>Garmin pega el bombazo: el Fenix 7X Solar está casi a mitad de precio en la Fiesta de Primavera de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-pega-bombazo-fenix-7x-solar-casi-mitad-precio-fiesta-primavera-amazon-1373480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='Garmin pega el bombazo: el Fenix 7X Solar está casi a mitad de precio en la Fiesta de Primavera de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fiesta-primavera-amazon-ofertas-top-1373141'>La Fiesta de la Primavera de Amazon va de ofertas: estas son las más destacadas de marcas como Garmin, Cosori, Xiaomi y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fiesta-primavera-amazon-ofertas-top-1373141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fiesta-ofertas-primavera-amazon-3288699.jpg?tf=1200x' alt='La Fiesta de la Primavera de Amazon va de ofertas: estas son las más destacadas de marcas como Garmin, Cosori, Xiaomi y más' />
     </a>
 </div>
 
