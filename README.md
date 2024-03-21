@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-varios-archivos-vez-windows-11-1373556'>Así puedes cambiar el nombre de varios archivos a la vez en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-varios-archivos-vez-windows-11-1373556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-cambiar-nombre-varios-archivos-vez-windows-11-3289569.jpg?tf=1200x' alt='Así puedes cambiar el nombre de varios archivos a la vez en Windows 11' />
+    <h4><a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709'>El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad</a></h4>
+    <a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/secreto-dieta-atlantica-razon-puede-aumentar-longevidad-3289912.jpg?tf=1200x' alt='El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/evotrail-carro-carga-autonomo-te-sigue-alto-montana-video-1373879'>Evotrail, el carro de carga autónomo que te sigue hasta la cima de una montaña (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/evotrail-carro-carga-autonomo-te-sigue-alto-montana-video-1373879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710980987326-3290327.jpg?tf=1200x' alt='Evotrail, el carro de carga autónomo que te sigue hasta la cima de una montaña (vídeo)' />
+    <h4><a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693'>Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654'>¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años</a></h4>
-    <a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-hace-2000-anos-1285654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/viajes-tiempo-portatil-puertos-usb-escultura-griega-hace-2000-anos-3289576.jpg?tf=1200x' alt='¿Viajes en el tiempo? Un portátil con puertos USB en una escultura griega de hace 2.000 años' />
+    <h4><a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887'>Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela </a></h4>
+    <a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perro-callejero-llevo-caja-cabeza-durante-ano-consiguieron-quitarsela-3290336.jpg?tf=1200x' alt='Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/molecula-anti-hambre-adelgazar-1373696'>La molécula anti-hambre que podría revolucionar los sistemas de adelgazamiento</a></h4>
-    <a href='https://computerhoy.com/ciencia/molecula-anti-hambre-adelgazar-1373696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/molecula-anti-hambre-podria-revolucionar-sistemas-adelgazamiento-3289881.jpg?tf=1200x' alt='La molécula anti-hambre que podría revolucionar los sistemas de adelgazamiento' />
+    <h4><a href='https://computerhoy.com/pc/ia-hara-pc-dejen-tener-teclado-pronto-lenovo-1373043'>La IA hará que los ordenadores dejen de tener teclado antes de lo que piensas, según este alto directivo de Lenovo </a></h4>
+    <a href='https://computerhoy.com/pc/ia-hara-pc-dejen-tener-teclado-pronto-lenovo-1373043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-device-group-idg-3289316.jpg?tf=1200x' alt='La IA hará que los ordenadores dejen de tener teclado antes de lo que piensas, según este alto directivo de Lenovo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875'>Cómo detectar y expulsar intrusos que están conectados a tu red WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-3290329.jpg?tf=1200x' alt='Cómo detectar y expulsar intrusos que están conectados a tu red WiFi' />
+    <h4><a href='https://computerhoy.com/entretenimiento/impresionante-ilusion-optica-desvela-eres-persona-confiar-1373519'>¿Eres una persona en la que se puede confiar? Depende de lo que veas en esta ilusión óptica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/impresionante-ilusion-optica-desvela-eres-persona-confiar-1373519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/impresionante-ilusion-optica-desvela-eres-persona-confiar-3289463.jpg?tf=1200x' alt='¿Eres una persona en la que se puede confiar? Depende de lo que veas en esta ilusión óptica' />
     </a>
 </div>
 
