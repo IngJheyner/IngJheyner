@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-convierte-semidios-gracias-ia-ahora-puede-predecir-inundaciones-siete-dias-antelacion-1374068'>Google se convierte en semidiós gracias a la IA: ahora puede predecir inundaciones con hasta siete días de antelación</a></h4>
+    <a href='https://computerhoy.com/google/google-convierte-semidios-gracias-ia-ahora-puede-predecir-inundaciones-siete-dias-antelacion-1374068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-uso-inteligencia-artificial-3290666.jpg?tf=1200x' alt='Google se convierte en semidiós gracias a la IA: ahora puede predecir inundaciones con hasta siete días de antelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-samsung-galaxy-s24-plus-hunde-precio-nada-estrenarse-1373915'>La IA por bandera y potencia brutal: el Samsung Galaxy S24+ es 300€ más barato con este código descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-samsung-galaxy-s24-plus-hunde-precio-nada-estrenarse-1373915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='La IA por bandera y potencia brutal: el Samsung Galaxy S24+ es 300€ más barato con este código descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/desgaste-pantallas-oled-podria-ser-cosa-pasado-1373710'>El desgaste de las pantallas y Smart TV con tecnología OLED podría ser cosa del pasado</a></h4>
     <a href='https://computerhoy.com/tv/desgaste-pantallas-oled-podria-ser-cosa-pasado-1373710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fin-desgaste-pantallas-oled-podria-estar-cada-vez-cerca-3289920.jpg?tf=1200x' alt='El desgaste de las pantallas y Smart TV con tecnología OLED podría ser cosa del pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-pesa-solo-6-kg-precio-tiene-compensa-tenerlo-trastero-1373459'>Este generador solar de 600W pesa solo 6 kg y por el precio que tiene compensa tenerlo en el trastero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-solar-600w-pesa-solo-6-kg-precio-tiene-compensa-tenerlo-trastero-1373459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/generador-3289290.jpg?tf=1200x' alt='Este generador solar de 600W pesa solo 6 kg y por el precio que tiene compensa tenerlo en el trastero' />
     </a>
 </div>
 
