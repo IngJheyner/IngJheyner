@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/molecula-anti-hambre-adelgazar-1373696'>La molécula anti-hambre que podría revolucionar los sistemas de adelgazamiento</a></h4>
+    <a href='https://computerhoy.com/ciencia/molecula-anti-hambre-adelgazar-1373696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/molecula-anti-hambre-podria-revolucionar-sistemas-adelgazamiento-3289881.jpg?tf=1200x' alt='La molécula anti-hambre que podría revolucionar los sistemas de adelgazamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875'>Cómo detectar y expulsar intrusos que están conectados a tu red WiFi</a></h4>
     <a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-3290329.jpg?tf=1200x' alt='Cómo detectar y expulsar intrusos que están conectados a tu red WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819'>Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-1373819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/flipper-zero-mofa-responde-forma-contundente-buscan-acabar-3290256.jpg?tf=1200x' alt='Flipper Zero se mofa y responde de forma contundente a los que buscan acabar con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666'>Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shokz-openrun-3289739.jpg?tf=1200x' alt='Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros' />
     </a>
 </div>
 
