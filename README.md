@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-samsung-galaxy-s24-plus-hunde-precio-nada-estrenarse-1373915'>La IA por bandera y potencia brutal: el Samsung Galaxy S24+ es 300€ más barato con este código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-samsung-galaxy-s24-plus-hunde-precio-nada-estrenarse-1373915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='La IA por bandera y potencia brutal: el Samsung Galaxy S24+ es 300€ más barato con este código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/alimentos-contaminados-pesticidas-como-lavarlos-1372393'>Estos son los alimentos más contaminados con pesticidas, y cómo debes lavarlos</a></h4>
+    <a href='https://computerhoy.com/alimentacion/alimentos-contaminados-pesticidas-como-lavarlos-1372393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-alimentos-contaminados-pesticidas-como-debes-lavarlos-3287574.jpg?tf=1200x' alt='Estos son los alimentos más contaminados con pesticidas, y cómo debes lavarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trae-mejora-app-muy-pedida-tiene-mucho-ver-instagram-1373993'>WhatsApp trae una mejora a la app muy pedida y que tiene mucho que ver con Instagram</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trae-mejora-app-muy-pedida-tiene-mucho-ver-instagram-1373993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/novedades-whatsapp-3290644.jpg?tf=1200x' alt='WhatsApp trae una mejora a la app muy pedida y que tiene mucho que ver con Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/desgaste-pantallas-oled-podria-ser-cosa-pasado-1373710'>El desgaste de las pantallas y Smart TV con tecnología OLED podría ser cosa del pasado</a></h4>
+    <a href='https://computerhoy.com/tv/desgaste-pantallas-oled-podria-ser-cosa-pasado-1373710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fin-desgaste-pantallas-oled-podria-estar-cada-vez-cerca-3289920.jpg?tf=1200x' alt='El desgaste de las pantallas y Smart TV con tecnología OLED podría ser cosa del pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generador-solar-600w-pesa-solo-6-kg-precio-tiene-compensa-tenerlo-trastero-1373459'>Este generador solar de 600W pesa solo 6 kg y por el precio que tiene compensa tenerlo en el trastero</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-solar-600w-pesa-solo-6-kg-precio-tiene-compensa-tenerlo-trastero-1373459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/generador-3289290.jpg?tf=1200x' alt='Este generador solar de 600W pesa solo 6 kg y por el precio que tiene compensa tenerlo en el trastero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt-store-openai-ha-llenado-spam-falta-moderacion-1373954'>ChatGPT se ha llenado de spam y muchos modelos de IA estarían incumpliendo los derechos de autor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt-store-openai-ha-llenado-spam-falta-moderacion-1373954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-openai-3290507.jpg?tf=1200x' alt='ChatGPT se ha llenado de spam y muchos modelos de IA estarían incumpliendo los derechos de autor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-18tb-rebajadisimo-amazon-ofertas-primavera-1373909'>Toda tu vida digital cabe aquí: 18TB de almacenamiento tuyos para siempre y por 200 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-18tb-rebajadisimo-amazon-ofertas-primavera-1373909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-elements-3290374.jpg?tf=1200x' alt='Toda tu vida digital cabe aquí: 18TB de almacenamiento tuyos para siempre y por 200 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912'>Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744'>Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-8-pro-3289970.jpg?tf=1200x' alt='Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento' />
     </a>
 </div>
 
