@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111'>Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-3290825.jpg?tf=1200x' alt='Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727'>Cómo descubrir al propietario de un coche por su matrícula</a></h4>
     <a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descubrir-propietario-coche-matricula-3288190.jpg?tf=1200x' alt='Cómo descubrir al propietario de un coche por su matrícula' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994'>Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades</a></h4>
     <a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gemelos-digitales-ia-3290559.jpg?tf=1200x' alt='Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/windows-11-ryzen-7-menos-500-euros-oferta-top-amazon-ahora-mismo-1373966'>Cuesta menos de 500€, tiene Windows 11 y un Ryzen 7: este portátil lo tiene todo para arrasar en las Ofertas de Primavera de Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/windows-11-ryzen-7-menos-500-euros-oferta-top-amazon-ahora-mismo-1373966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/lenovo-idepad-3-gen-6-3290492.jpg?tf=1200x' alt='Cuesta menos de 500€, tiene Windows 11 y un Ryzen 7: este portátil lo tiene todo para arrasar en las Ofertas de Primavera de Amazon' />
     </a>
 </div>
 
