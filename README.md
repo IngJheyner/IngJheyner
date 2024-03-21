@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875'>Cómo detectar y expulsar intrusos que están conectados a tu red WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-3290329.jpg?tf=1200x' alt='Cómo detectar y expulsar intrusos que están conectados a tu red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871'>¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-21-marzo-2024-3290322.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666'>Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/shokz-openrun-auriculares-conduccion-osea-perfectos-correr-oferta-amazon-1373666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shokz-openrun-3289739.jpg?tf=1200x' alt='Shokz está liquidando sus auriculares de conducción ósea para runners, que rozan ya los 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847'>Un error informático hizo que los cajeros automáticos regalasen dinero durante horas</a></h4>
-    <a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cajero-automatico-3290262.jpg?tf=1200x' alt='Un error informático hizo que los cajeros automáticos regalasen dinero durante horas' />
     </a>
 </div>
 
