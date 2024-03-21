@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727'>Cómo descubrir al propietario de un coche por su matrícula</a></h4>
+    <a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descubrir-propietario-coche-matricula-3288190.jpg?tf=1200x' alt='Cómo descubrir al propietario de un coche por su matrícula' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-estados-unidos-denuncia-monopolio-ilegal-1374137'>Siguiendo la estela de Europa, Estados Unidos denuncia a Apple y la acusa de monopolio ilegal</a></h4>
+    <a href='https://computerhoy.com/apple/apple-estados-unidos-denuncia-monopolio-ilegal-1374137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/siguiendo-estela-europa-estados-unidos-denuncia-apple-acusa-monopolio-ilegal-3290819.jpg?tf=1200x' alt='Siguiendo la estela de Europa, Estados Unidos denuncia a Apple y la acusa de monopolio ilegal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292'>La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
+    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994'>Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades</a></h4>
     <a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gemelos-digitales-ia-3290559.jpg?tf=1200x' alt='Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/windows-11-ryzen-7-menos-500-euros-oferta-top-amazon-ahora-mismo-1373966'>Cuesta menos de 500€, tiene Windows 11 y un Ryzen 7: este portátil lo tiene todo para arrasar en las Ofertas de Primavera de Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/windows-11-ryzen-7-menos-500-euros-oferta-top-amazon-ahora-mismo-1373966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/lenovo-idepad-3-gen-6-3290492.jpg?tf=1200x' alt='Cuesta menos de 500€, tiene Windows 11 y un Ryzen 7: este portátil lo tiene todo para arrasar en las Ofertas de Primavera de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nueva-estafa-suplanta-supermercado-1373737'>Cuando tu supermercado de confianza supone un peligro: la Guardia Civil advierte de esta nueva estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-advierte-nueva-estafa-suplanta-supermercado-1373737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/peligro-supermercado-3290506.jpg?tf=1200x' alt='Cuando tu supermercado de confianza supone un peligro: la Guardia Civil advierte de esta nueva estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-calienta-motores-rtx-5090-lanzamiento-precio-1374079'>Nvidia calienta los motores de la RTX 5090: lanzamiento, precio y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-calienta-motores-rtx-5090-lanzamiento-precio-1374079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia calienta los motores de la RTX 5090: lanzamiento, precio y todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-invento-ciberpunk-neuromante-1373921'>La obra maestra que inventó el ciberpunk e inspiró a Matrix o Robocop al fin tendrá serie, 40 años después</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/obra-maestra-invento-ciberpunk-neuromante-1373921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='La obra maestra que inventó el ciberpunk e inspiró a Matrix o Robocop al fin tendrá serie, 40 años después' />
     </a>
 </div>
 
