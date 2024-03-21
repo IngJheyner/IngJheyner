@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374'>Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-air-purifier-4-compact-3289107.jpg?tf=1200x' alt='Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157'>Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual</a></h4>
+    <a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-3290841.jpg?tf=1200x' alt='Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155'>El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows</a></h4>
     <a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727'>Cómo descubrir al propietario de un coche por su matrícula</a></h4>
     <a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descubrir-propietario-coche-matricula-3288190.jpg?tf=1200x' alt='Cómo descubrir al propietario de un coche por su matrícula' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-estados-unidos-denuncia-monopolio-ilegal-1374137'>Siguiendo la estela de Europa, Estados Unidos denuncia a Apple y la acusa de monopolio ilegal</a></h4>
-    <a href='https://computerhoy.com/apple/apple-estados-unidos-denuncia-monopolio-ilegal-1374137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/siguiendo-estela-europa-estados-unidos-denuncia-apple-acusa-monopolio-ilegal-3290819.jpg?tf=1200x' alt='Siguiendo la estela de Europa, Estados Unidos denuncia a Apple y la acusa de monopolio ilegal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292'>La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
-    <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
     </a>
 </div>
 
