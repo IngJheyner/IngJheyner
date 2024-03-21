@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744'>Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-8-pro-3289970.jpg?tf=1200x' alt='Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dificil-pero-no-imposible-como-saber-imagen-video-hecho-inteligencia-artificial-1373899'>Difícil, pero no imposible: cómo saber si una imagen o vídeo está hecho con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dificil-pero-no-imposible-como-saber-imagen-video-hecho-inteligencia-artificial-1373899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/deepfake-mark-zuckerberg-3290386.jpg?tf=1200x' alt='Difícil, pero no imposible: cómo saber si una imagen o vídeo está hecho con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709'>El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad</a></h4>
     <a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/secreto-dieta-atlantica-razon-puede-aumentar-longevidad-3289912.jpg?tf=1200x' alt='El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887'>Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela </a></h4>
     <a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perro-callejero-llevo-caja-cabeza-durante-ano-consiguieron-quitarsela-3290336.jpg?tf=1200x' alt='Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ia-hara-pc-dejen-tener-teclado-pronto-lenovo-1373043'>La IA hará que los ordenadores dejen de tener teclado antes de lo que piensas, según este alto directivo de Lenovo </a></h4>
-    <a href='https://computerhoy.com/pc/ia-hara-pc-dejen-tener-teclado-pronto-lenovo-1373043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-device-group-idg-3289316.jpg?tf=1200x' alt='La IA hará que los ordenadores dejen de tener teclado antes de lo que piensas, según este alto directivo de Lenovo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/impresionante-ilusion-optica-desvela-eres-persona-confiar-1373519'>¿Eres una persona en la que se puede confiar? Depende de lo que veas en esta ilusión óptica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/impresionante-ilusion-optica-desvela-eres-persona-confiar-1373519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/impresionante-ilusion-optica-desvela-eres-persona-confiar-3289463.jpg?tf=1200x' alt='¿Eres una persona en la que se puede confiar? Depende de lo que veas en esta ilusión óptica' />
     </a>
 </div>
 
