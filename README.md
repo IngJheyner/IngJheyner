@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871'>¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-21-marzo-2024-3290322.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/apertura-tienda-epic-games-store-ios-android-1373866'>Epic anuncia la llegada de Fortnite y la apertura de la tienda Epic Games Store en iOS y Android, solo en Europa</a></h4>
     <a href='https://computerhoy.com/apps/apertura-tienda-epic-games-store-ios-android-1373866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/epic-anuncia-apertura-tienda-epic-games-store-ios-android-solo-europa-3290281.jpg?tf=1200x' alt='Epic anuncia la llegada de Fortnite y la apertura de la tienda Epic Games Store en iOS y Android, solo en Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847'>Un error informático hizo que los cajeros automáticos regalasen dinero durante horas</a></h4>
     <a href='https://computerhoy.com/life/error-informatico-hizo-cajeros-automaticos-regalasen-dinero-durante-horas-1373847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cajero-automatico-3290262.jpg?tf=1200x' alt='Un error informático hizo que los cajeros automáticos regalasen dinero durante horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/supergrupos-telegram-1373683'>Qué son los supergrupos de Telegram y cómo crear uno</a></h4>
-    <a href='https://computerhoy.com/apps/supergrupos-telegram-1373683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-superman-3290045.jpg?tf=1200x' alt='Qué son los supergrupos de Telegram y cómo crear uno' />
     </a>
 </div>
 
