@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176'>Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-presenta-nuevos-portatiles-surface-pro-10-surface-laptop-6-copilot-disenados-ia-3290863.jpg?tf=1200x' alt='Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374'>Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-air-purifier-4-compact-3289107.jpg?tf=1200x' alt='Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111'>Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"</a></h4>
     <a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-3290825.jpg?tf=1200x' alt='Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727'>Cómo descubrir al propietario de un coche por su matrícula</a></h4>
-    <a href='https://computerhoy.com/motor/como-descubrir-propietario-coche-matricula-1372727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-descubrir-propietario-coche-matricula-3288190.jpg?tf=1200x' alt='Cómo descubrir al propietario de un coche por su matrícula' />
     </a>
 </div>
 
