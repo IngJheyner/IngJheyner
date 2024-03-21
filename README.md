@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-varios-archivos-vez-windows-11-1373556'>Así puedes cambiar el nombre de varios archivos a la vez en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-varios-archivos-vez-windows-11-1373556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-cambiar-nombre-varios-archivos-vez-windows-11-3289569.jpg?tf=1200x' alt='Así puedes cambiar el nombre de varios archivos a la vez en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/evotrail-carro-carga-autonomo-te-sigue-alto-montana-video-1373879'>Evotrail, el carro de carga autónomo que te sigue hasta la cima de una montaña (vídeo)</a></h4>
     <a href='https://computerhoy.com/tecnologia/evotrail-carro-carga-autonomo-te-sigue-alto-montana-video-1373879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1710980987326-3290327.jpg?tf=1200x' alt='Evotrail, el carro de carga autónomo que te sigue hasta la cima de una montaña (vídeo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875'>Cómo detectar y expulsar intrusos que están conectados a tu red WiFi</a></h4>
     <a href='https://computerhoy.com/redes/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-1373875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-detectar-expulsar-intrusos-estan-conectados-red-wifi-3290329.jpg?tf=1200x' alt='Cómo detectar y expulsar intrusos que están conectados a tu red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871'>¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-21-marzo-2024-1373871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-21-marzo-2024-3290322.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 21 de marzo de 2024' />
     </a>
 </div>
 
