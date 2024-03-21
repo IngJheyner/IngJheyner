@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912'>Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744'>Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-rebaja-pixel-rival-iphone-15-pro-acumula-300-euros-descuento-1373744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-8-pro-3289970.jpg?tf=1200x' alt='Google rebaja sus móviles, y el rival del iPhone 15 Pro acumula 300 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693'>Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre</a></h4>
     <a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887'>Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela </a></h4>
-    <a href='https://computerhoy.com/life/perro-llevo-caja-cabeza-durante-meses-1373887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/perro-callejero-llevo-caja-cabeza-durante-ano-consiguieron-quitarsela-3290336.jpg?tf=1200x' alt='Este perro callejero llevó una caja en la cabeza durante casi un año: así consiguieron quitársela ' />
     </a>
 </div>
 
