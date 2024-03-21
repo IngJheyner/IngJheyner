@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gpt-store-openai-ha-llenado-spam-falta-moderacion-1373954'>ChatGPT se ha llenado de spam y muchos modelos de IA estarían incumpliendo los derechos de autor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gpt-store-openai-ha-llenado-spam-falta-moderacion-1373954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-openai-3290507.jpg?tf=1200x' alt='ChatGPT se ha llenado de spam y muchos modelos de IA estarían incumpliendo los derechos de autor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-18tb-rebajadisimo-amazon-ofertas-primavera-1373909'>Toda tu vida digital cabe aquí: 18TB de almacenamiento tuyos para siempre y por 200 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-18tb-rebajadisimo-amazon-ofertas-primavera-1373909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-elements-3290374.jpg?tf=1200x' alt='Toda tu vida digital cabe aquí: 18TB de almacenamiento tuyos para siempre y por 200 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912'>Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/canada-no-prohibira-flipper-zero-senala-usuarios-1373912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/increible-accesorio-otorga-superpoderes-flipper-zero-3216826.jpg?tf=1200x' alt='Canadá recula con Flipper Zero y ahora echa la culpa a los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dificil-pero-no-imposible-como-saber-imagen-video-hecho-inteligencia-artificial-1373899'>Difícil, pero no imposible: cómo saber si una imagen o vídeo está hecho con inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/dificil-pero-no-imposible-como-saber-imagen-video-hecho-inteligencia-artificial-1373899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/deepfake-mark-zuckerberg-3290386.jpg?tf=1200x' alt='Difícil, pero no imposible: cómo saber si una imagen o vídeo está hecho con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709'>El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad</a></h4>
-    <a href='https://computerhoy.com/alimentacion/dieta-atlantica-mediterranea-1373709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/secreto-dieta-atlantica-razon-puede-aumentar-longevidad-3289912.jpg?tf=1200x' alt='El secreto de la dieta atlántica, la alternativa a la comida mediterránea, con cada vez más adeptos que aumenta la longevidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693'>Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polar-grit-x-pro-titan-mejores-relojes-deportivos-precio-top-amazon-1373693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/polar-grit-x-pro-3190478.jpg?tf=1200x' alt='Cristal de zafiro y batería sin igual: el Polar Grit X Pro Titan es un reloj deportivo ultrarresistente para los que quieren machacarse al aire libre' />
     </a>
 </div>
 
