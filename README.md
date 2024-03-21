@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155'>El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111'>Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"</a></h4>
     <a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-3290825.jpg?tf=1200x' alt='Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292'>La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante</a></h4>
     <a href='https://computerhoy.com/redes/regla-30-centimetros-mejorar-velocidad-wifi-1330292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/regla-30-centimetros-aumentar-velocidad-internet-instante-3290333.jpg?tf=1200x' alt='La regla de los 30 centímetros para aumentar la velocidad de tu Internet al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994'>Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades</a></h4>
-    <a href='https://computerhoy.com/life/son-gemelos-virtuales-utilizaran-medicina-1373994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gemelos-digitales-ia-3290559.jpg?tf=1200x' alt='Una empresa ha creado unos gemelos virtuales ayudados de IA que cambiarán la forma de tratar las enfermedades' />
     </a>
 </div>
 
