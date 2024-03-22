@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473'>Telegram bloqueada en España: la Audiencia Nacional ordena su cierre</a></h4>
+    <a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-3291433.jpg?tf=1200x' alt='Telegram bloqueada en España: la Audiencia Nacional ordena su cierre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293'>Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-surface-pro-5-3291123.jpg?tf=1200x' alt='Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437'>VLC podría añadir canales de televisión gratis FAST dentro de muy poco</a></h4>
     <a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-tv-gratis-vlc-iptv-grabar-series-peliculas-favoritas-3271713.jpg?tf=1200x' alt='VLC podría añadir canales de televisión gratis FAST dentro de muy poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318'>Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates</a></h4>
-    <a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/piedra-almacenar-calor-puede-brillar-tanto-como-sol-ha-llamado-atencion-bill-gates-3291222.jpg?tf=1200x' alt='Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates' />
     </a>
 </div>
 
