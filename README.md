@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/qualcomm-trae-buenas-noticias-portatiles-permitira-compatibilidad-total-juegos-windows-1374241'>Qualcomm trae buenas noticias para portátiles y permitirá compatibilidad total con juegos de Windows</a></h4>
+    <a href='https://computerhoy.com/pc/qualcomm-trae-buenas-noticias-portatiles-permitira-compatibilidad-total-juegos-windows-1374241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/qualcomm-snapdragon-x-elite-chip-portatiles-busca-matar-apple-m2-3204564.jpg?tf=1200x' alt='Qualcomm trae buenas noticias para portátiles y permitirá compatibilidad total con juegos de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-fijar-varios-mensajes-chat-whatsapp-1374225'>WhatsApp mejora la navegación en los chats: ahora podrás fijar varios mensajes</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-fijar-varios-mensajes-chat-whatsapp-1374225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chincheta-whatsapp-3290998.jpg?tf=1200x' alt='WhatsApp mejora la navegación en los chats: ahora podrás fijar varios mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camara-perfecta-iniciarse-fotografia-canon-amazon-acaba-derribar-precio-1373547'>La cámara perfecta para iniciarse en la fotografía es de Canon y Amazon acaba de derribar su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camara-perfecta-iniciarse-fotografia-canon-amazon-acaba-derribar-precio-1373547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/canon-eos-r100-3289530.jpg?tf=1200x' alt='La cámara perfecta para iniciarse en la fotografía es de Canon y Amazon acaba de derribar su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/preguntas-respuestas-ocurriendo-apple-iphone-eeuu-ha-demandado-1374218'>Preguntas y respuestas: ¿Qué está ocurriendo con Apple, los iPhone y por qué EEUU le ha demandado?</a></h4>
     <a href='https://computerhoy.com/apple/preguntas-respuestas-ocurriendo-apple-iphone-eeuu-ha-demandado-1374218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-demanda-eeuu-3290975.jpg?tf=1200x' alt='Preguntas y respuestas: ¿Qué está ocurriendo con Apple, los iPhone y por qué EEUU le ha demandado?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200'>El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo</a></h4>
     <a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/retraso-cohete-ariane-6-obliga-europa-contratar-spacex-poner-orbita-satelites-3290928.jpg?tf=1200x' alt='El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029'>¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inteligencia-artificial-general-cuando-estara-lista-dicen-elon-musk-otros-expertos-3290595.jpg?tf=1200x' alt='¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-reloj-carga-solar-garmin-hunde-precio-1373205'>Este Garmin tiene batería infinita por carga solar y Amazon lo tiene a precio de outlet en sus ofertas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-reloj-carga-solar-garmin-hunde-precio-1373205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin tiene batería infinita por carga solar y Amazon lo tiene a precio de outlet en sus ofertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648'>He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bang-olufsen-beoplay-h95-3290066.jpg?tf=1200x' alt='He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender' />
     </a>
 </div>
 
