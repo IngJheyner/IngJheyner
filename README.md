@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183'>¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?</a></h4>
+    <a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-3290906.jpg?tf=1200x' alt='¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182'>¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-22-marzo-2024-3290897.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374'>Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-air-purifier-4-compact-3289107.jpg?tf=1200x' alt='Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157'>Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual</a></h4>
-    <a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-3290841.jpg?tf=1200x' alt='Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual' />
     </a>
 </div>
 
