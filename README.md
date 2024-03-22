@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040'>Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia</a></h4>
+    <a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circulos-hadas-3291140.jpg?tf=1200x' alt='Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238'>Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pixel-buds-pro-3290954.jpg?tf=1200x' alt='Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/libro-basa-problema-3-cuerpos-netflix-1374070'>¿En qué libro se basa El problema de los 3 cuerpos de Netflix?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/libro-basa-problema-3-cuerpos-netflix-1374070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/libro-basa-problema-tres-cuerpos-netflix-3290664.jpg?tf=1200x' alt='¿En qué libro se basa El problema de los 3 cuerpos de Netflix?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283'>Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones</a></h4>
     <a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjeta-cerradura-hotel-3291136.jpg?tf=1200x' alt='Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/brutal-asus-rog-i9-pantalla-240-hz-protagonista-amazon-tiene-700eu-descuento-1374197'>Este brutal ASUS ROG con i9 y pantalla a 240 Hz es protagonista en Amazon: tiene 700€ de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/brutal-asus-rog-i9-pantalla-240-hz-protagonista-amazon-tiene-700eu-descuento-1374197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-rog-strix-3290934.jpg?tf=1200x' alt='Este brutal ASUS ROG con i9 y pantalla a 240 Hz es protagonista en Amazon: tiene 700€ de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/notepad-anade-funcion-esencial-windows-11-acerca-word-1374250'>Microsoft ha escuchado a los usuarios: Notepad añade una función esencial en Windows 11 que lo acerca a Word </a></h4>
-    <a href='https://computerhoy.com/windows/notepad-anade-funcion-esencial-windows-11-acerca-word-1374250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/notepad-3291124.jpg?tf=1200x' alt='Microsoft ha escuchado a los usuarios: Notepad añade una función esencial en Windows 11 que lo acerca a Word ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/qualcomm-trae-buenas-noticias-portatiles-permitira-compatibilidad-total-juegos-windows-1374241'>Qualcomm trae buenas noticias para portátiles y permitirá compatibilidad total con juegos de Windows</a></h4>
-    <a href='https://computerhoy.com/pc/qualcomm-trae-buenas-noticias-portatiles-permitira-compatibilidad-total-juegos-windows-1374241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/qualcomm-snapdragon-x-elite-chip-portatiles-busca-matar-apple-m2-3204564.jpg?tf=1200x' alt='Qualcomm trae buenas noticias para portátiles y permitirá compatibilidad total con juegos de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-fijar-varios-mensajes-chat-whatsapp-1374225'>WhatsApp mejora la navegación en los chats: ahora podrás fijar varios mensajes</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-fijar-varios-mensajes-chat-whatsapp-1374225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chincheta-whatsapp-3290998.jpg?tf=1200x' alt='WhatsApp mejora la navegación en los chats: ahora podrás fijar varios mensajes' />
     </a>
 </div>
 
