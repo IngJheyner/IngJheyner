@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526'>Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil</a></h4>
+    <a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-metodos-efectivos-aumentar-velocidad-wifi-portatil-3289524.jpg?tf=1200x' alt='Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-darle-nueva-vida-viejo-pc-gastar-fortuna-1374380'>Con este componente puedes darle una nueva vida a tu viejo PC sin gastar una fortuna</a></h4>
+    <a href='https://computerhoy.com/pc/como-darle-nueva-vida-viejo-pc-gastar-fortuna-1374380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/componente-puedes-darle-nueva-vida-viejo-pc-gastar-fortuna-3291337.jpg?tf=1200x' alt='Con este componente puedes darle una nueva vida a tu viejo PC sin gastar una fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785'>Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238'>Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pixel-buds-pro-3290954.jpg?tf=1200x' alt='Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/libro-basa-problema-3-cuerpos-netflix-1374070'>¿En qué libro se basa El problema de los 3 cuerpos de Netflix?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/libro-basa-problema-3-cuerpos-netflix-1374070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/libro-basa-problema-tres-cuerpos-netflix-3290664.jpg?tf=1200x' alt='¿En qué libro se basa El problema de los 3 cuerpos de Netflix?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283'>Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones</a></h4>
-    <a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjeta-cerradura-hotel-3291136.jpg?tf=1200x' alt='Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones' />
     </a>
 </div>
 
