@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293'>Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-surface-pro-5-3291123.jpg?tf=1200x' alt='Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456'>Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa</a></h4>
     <a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/router-fritzbox-cumplen-20-anos-convertidos-referencia-todo-mundo-3291408.jpg?tf=1200x' alt='Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318'>Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates</a></h4>
     <a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/piedra-almacenar-calor-puede-brillar-tanto-como-sol-ha-llamado-atencion-bill-gates-3291222.jpg?tf=1200x' alt='Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
     </a>
 </div>
 
