@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456'>Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa</a></h4>
+    <a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/router-fritzbox-cumplen-20-anos-convertidos-referencia-todo-mundo-3291408.jpg?tf=1200x' alt='Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443'>El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo</a></h4>
     <a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cambio-horario-verano-3291406.jpg?tf=1200x' alt='El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263'>Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680713.jpg?tf=1200x' alt='Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros' />
     </a>
 </div>
 
