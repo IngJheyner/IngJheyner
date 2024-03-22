@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785'>Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040'>Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia</a></h4>
     <a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circulos-hadas-3291140.jpg?tf=1200x' alt='Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283'>Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones</a></h4>
     <a href='https://computerhoy.com/life/tecnica-usan-hackers-clonar-tarjetas-hoteles-1374283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tarjeta-cerradura-hotel-3291136.jpg?tf=1200x' alt='Los hackers descubren una técnica para clonar las tarjetas de los hoteles y entrar en las habitaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brutal-asus-rog-i9-pantalla-240-hz-protagonista-amazon-tiene-700eu-descuento-1374197'>Este brutal ASUS ROG con i9 y pantalla a 240 Hz es protagonista en Amazon: tiene 700€ de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/brutal-asus-rog-i9-pantalla-240-hz-protagonista-amazon-tiene-700eu-descuento-1374197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-rog-strix-3290934.jpg?tf=1200x' alt='Este brutal ASUS ROG con i9 y pantalla a 240 Hz es protagonista en Amazon: tiene 700€ de descuento' />
     </a>
 </div>
 
