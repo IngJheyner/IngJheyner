@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190'>Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711083197614-3290912.jpg?tf=1200x' alt='Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-pide-paso-todo-office-1tb-nube-menos-cuesta-disco-duro-1373988'>Microsoft pide paso: todo Office y 1TB en la nube por menos de lo que cuesta un disco duro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-pide-paso-todo-office-1tb-nube-menos-cuesta-disco-duro-1373988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-microsoft-office-3264967.jpg?tf=1200x' alt='Microsoft pide paso: todo Office y 1TB en la nube por menos de lo que cuesta un disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/significado-pegatina-triangular-aviones-1373967'>Una azafata desvela el significado del pequeño triángulo negro en las paredes del avión</a></h4>
+    <a href='https://computerhoy.com/life/significado-pegatina-triangular-aviones-1373967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/misterio-pegatina-triangular-negra-aviones-sale-luz-3290514.jpg?tf=1200x' alt='Una azafata desvela el significado del pequeño triángulo negro en las paredes del avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/elon-musk-muestra-video-casi-perfecto-chip-cerebral-neuralink-1374004'>Elon Musk muestra en video su "casi perfecto" chip cerebral de Neuralink</a></h4>
+    <a href='https://computerhoy.com/ciencia/elon-musk-muestra-video-casi-perfecto-chip-cerebral-neuralink-1374004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/neuralink-presenta-casi-perfecto-chip-cerebral-nuevo-triunfo-elon-musk-3290566.jpg?tf=1200x' alt='Elon Musk muestra en video su "casi perfecto" chip cerebral de Neuralink' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183'>¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?</a></h4>
     <a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-3290906.jpg?tf=1200x' alt='¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182'>¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-22-marzo-2024-3290897.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dos-metodos-infalibles-usar-mapas-waze-conexion-1374171'>Así puedes usar los mapas de Waze sin conexión a Internet en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/dos-metodos-infalibles-usar-mapas-waze-conexion-1374171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-usar-mapas-waze-conexion-internet-movil-3290895.jpg?tf=1200x' alt='Así puedes usar los mapas de Waze sin conexión a Internet en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176'>Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-presenta-nuevos-portatiles-surface-pro-10-surface-laptop-6-copilot-disenados-ia-3290863.jpg?tf=1200x' alt='Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374'>Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollo-va-ser-aliado-primavera-purificador-aire-antialergias-xiaomi-hunde-precio-1373374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-air-purifier-4-compact-3289107.jpg?tf=1200x' alt='Este chollo va a ser tu aliado esta primavera: el purificador de aire antialergias de Xiaomi hunde su precio' />
     </a>
 </div>
 
