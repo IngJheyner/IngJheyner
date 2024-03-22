@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263'>Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680713.jpg?tf=1200x' alt='Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526'>Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil</a></h4>
     <a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-metodos-efectivos-aumentar-velocidad-wifi-portatil-3289524.jpg?tf=1200x' alt='Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785'>Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040'>Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia</a></h4>
-    <a href='https://computerhoy.com/ciencia/ciencia-explica-origen-misteriosos-circulos-hadas-namibia-1374040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/circulos-hadas-3291140.jpg?tf=1200x' alt='Ni termitas ni extraterrestres: la ciencia al fin explica el origen de los misteriosos “círculos de hadas” de Namibia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238'>Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-pixel-buds-pro-estan-oferta-ponen-apuros-todos-demas-auriculares-1374238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pixel-buds-pro-3290954.jpg?tf=1200x' alt='Una rebaja para dominarlos a todos: los Pixel Buds Pro de Google por 149€ son una apuesta segura, incluso si tienes iPhone' />
     </a>
 </div>
 
