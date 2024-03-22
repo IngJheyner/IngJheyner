@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/preguntas-respuestas-ocurriendo-apple-iphone-eeuu-ha-demandado-1374218'>Preguntas y respuestas: ¿Qué está ocurriendo con Apple, los iPhone y por qué EEUU le ha demandado?</a></h4>
+    <a href='https://computerhoy.com/apple/preguntas-respuestas-ocurriendo-apple-iphone-eeuu-ha-demandado-1374218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-demanda-eeuu-3290975.jpg?tf=1200x' alt='Preguntas y respuestas: ¿Qué está ocurriendo con Apple, los iPhone y por qué EEUU le ha demandado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200'>El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo</a></h4>
     <a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/retraso-cohete-ariane-6-obliga-europa-contratar-spacex-poner-orbita-satelites-3290928.jpg?tf=1200x' alt='El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648'>He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bang-olufsen-beoplay-h95-3290066.jpg?tf=1200x' alt='He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944'>Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable</a></h4>
-    <a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3290401.jpg?tf=1200x' alt='Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable' />
     </a>
 </div>
 
