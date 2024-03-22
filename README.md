@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029'>¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inteligencia-artificial-general-cuando-estara-lista-dicen-elon-musk-otros-expertos-3290595.jpg?tf=1200x' alt='¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-reloj-carga-solar-garmin-hunde-precio-1373205'>Este Garmin tiene batería infinita por carga solar y Amazon lo tiene a precio de outlet en sus ofertas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-reloj-carga-solar-garmin-hunde-precio-1373205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin tiene batería infinita por carga solar y Amazon lo tiene a precio de outlet en sus ofertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648'>He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-bang-olufsen-beoplay-h95-ferrari-edition-1200-euros-merecen-pena-1373648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bang-olufsen-beoplay-h95-3290066.jpg?tf=1200x' alt='He probado los auriculares Bang & Olufsen Beoplay H95 Ferrari Edition de 1.200 euros: suenan increíble, pero estás pagando un extra difícil de defender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944'>Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable</a></h4>
+    <a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3290401.jpg?tf=1200x' alt='Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190'>Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711083197614-3290912.jpg?tf=1200x' alt='Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-pide-paso-todo-office-1tb-nube-menos-cuesta-disco-duro-1373988'>Microsoft pide paso: todo Office y 1TB en la nube por menos de lo que cuesta un disco duro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-pide-paso-todo-office-1tb-nube-menos-cuesta-disco-duro-1373988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aplicaciones-microsoft-office-3264967.jpg?tf=1200x' alt='Microsoft pide paso: todo Office y 1TB en la nube por menos de lo que cuesta un disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/significado-pegatina-triangular-aviones-1373967'>Una azafata desvela el significado del pequeño triángulo negro en las paredes del avión</a></h4>
-    <a href='https://computerhoy.com/life/significado-pegatina-triangular-aviones-1373967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/misterio-pegatina-triangular-negra-aviones-sale-luz-3290514.jpg?tf=1200x' alt='Una azafata desvela el significado del pequeño triángulo negro en las paredes del avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/elon-musk-muestra-video-casi-perfecto-chip-cerebral-neuralink-1374004'>Elon Musk muestra en video su "casi perfecto" chip cerebral de Neuralink</a></h4>
-    <a href='https://computerhoy.com/ciencia/elon-musk-muestra-video-casi-perfecto-chip-cerebral-neuralink-1374004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/neuralink-presenta-casi-perfecto-chip-cerebral-nuevo-triunfo-elon-musk-3290566.jpg?tf=1200x' alt='Elon Musk muestra en video su "casi perfecto" chip cerebral de Neuralink' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183'>¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?</a></h4>
-    <a href='https://computerhoy.com/pc/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-1374183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/16-gb-ram-son-suficientes-pc-debes-dar-salto-32-gb-3290906.jpg?tf=1200x' alt='¿16 GB de RAM son suficientes para tu PC o debes dar el salto a 32 GB?' />
     </a>
 </div>
 
