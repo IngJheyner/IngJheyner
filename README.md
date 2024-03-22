@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200'>El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo</a></h4>
+    <a href='https://computerhoy.com/espacio/europa-contrata-spacex-poner-orbita-satelites-galileo-1374200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/retraso-cohete-ariane-6-obliga-europa-contratar-spacex-poner-orbita-satelites-3290928.jpg?tf=1200x' alt='El retraso del cohete Ariane 6 obliga a Europa a contratar a SpaceX para poner en órbita sus ultrasecretos satélites Galileo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029'>¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuando-estara-lista-inteligencia-artificial-general-1374029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/inteligencia-artificial-general-cuando-estara-lista-dicen-elon-musk-otros-expertos-3290595.jpg?tf=1200x' alt='¿Cuándo estará lista la inteligencia artificial general? Esto dicen Elon Musk y otros expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944'>Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable</a></h4>
     <a href='https://computerhoy.com/ciencia/exactamente-problema-3-cuerpos-serie-netflix-1373944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3290401.jpg?tf=1200x' alt='Qué es exactamente el problema de los 3 cuerpos de la serie de Netflix: la teoría física indescifrable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190'>Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/magic-portal-ia-honor-entiende-intenciones-1374190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711083197614-3290912.jpg?tf=1200x' alt='Así funciona Magic Portal, la IA de Honor que acelera tus tareas con el móvil, y no se parece en nada a ChatGPT' />
     </a>
 </div>
 
