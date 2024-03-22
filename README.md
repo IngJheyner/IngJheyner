@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443'>El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo</a></h4>
+    <a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cambio-horario-verano-3291406.jpg?tf=1200x' alt='El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437'>VLC podría añadir canales de televisión gratis FAST dentro de muy poco</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-tv-gratis-vlc-iptv-grabar-series-peliculas-favoritas-3271713.jpg?tf=1200x' alt='VLC podría añadir canales de televisión gratis FAST dentro de muy poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318'>Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates</a></h4>
+    <a href='https://computerhoy.com/energia/bateria-futuro-ha-encandilado-bill-gates-fabricada-granito-1374318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/piedra-almacenar-calor-puede-brillar-tanto-como-sol-ha-llamado-atencion-bill-gates-3291222.jpg?tf=1200x' alt='Esta es la piedra para almacenar calor que puede brillar tanto como el Sol y que ha llamado la atención de Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246'>Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-tdt-movil-smart-tv-antena-ni-complicaciones-1319246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-todos-canales-tdt-smart-tv-movil-antena-ni-tener-sintonizarlos-3290907.jpg?tf=1200x' alt='Cómo ver todos los canales de la TDT en tu Smart TV o móvil sin antena ni tener que sintonizarlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263'>Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/fin-gama-alta-barato-oneplus-amazon-lleva-rozar-400-euros-1374263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/oneplus-10-pro-analisis-opinion-2680713.jpg?tf=1200x' alt='Por fin un gama alta que sí es barato: es de OnePlus y Amazon lo lleva a rozar los 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526'>Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil</a></h4>
-    <a href='https://computerhoy.com/redes/metodos-efectivos-aumentar-velocidad-wifi-portatil-1373526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-metodos-efectivos-aumentar-velocidad-wifi-portatil-3289524.jpg?tf=1200x' alt='Los métodos más efectivos para aumentar la velocidad del WiFi en tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-darle-nueva-vida-viejo-pc-gastar-fortuna-1374380'>Con este componente puedes darle una nueva vida a tu viejo PC sin gastar una fortuna</a></h4>
-    <a href='https://computerhoy.com/pc/como-darle-nueva-vida-viejo-pc-gastar-fortuna-1374380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/componente-puedes-darle-nueva-vida-viejo-pc-gastar-fortuna-3291337.jpg?tf=1200x' alt='Con este componente puedes darle una nueva vida a tu viejo PC sin gastar una fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785'>Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-1373785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Así puedes ejecutar cualquier archivo o programa como administrador en Windows 11' />
     </a>
 </div>
 
