@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182'>¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-22-marzo-2024-1374182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-22-marzo-2024-3290897.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 22 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dos-metodos-infalibles-usar-mapas-waze-conexion-1374171'>Así puedes usar los mapas de Waze sin conexión a Internet en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/dos-metodos-infalibles-usar-mapas-waze-conexion-1374171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-usar-mapas-waze-conexion-internet-movil-3290895.jpg?tf=1200x' alt='Así puedes usar los mapas de Waze sin conexión a Internet en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176'>Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-surface-pro-10-surface-laptop-6-copilot-intel-core-ultra-1374176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-presenta-nuevos-portatiles-surface-pro-10-surface-laptop-6-copilot-disenados-ia-3290863.jpg?tf=1200x' alt='Microsoft presenta los nuevos portátiles Surface Pro 10 y Surface Laptop 6 con Copilot, diseñados para la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157'>Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual</a></h4>
     <a href='https://computerhoy.com/motor/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-1374157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-cargador-coche-electrico-10-veces-rapido-mejor-cargador-actual-3290841.jpg?tf=1200x' alt='Crean un cargador para coche eléctrico hasta 10 veces más rápido que el mejor cargador actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155'>El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/genial-truco-descubrir-contrasena-red-wifi-pc-windows-1374155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/windows-11-wifi-3226480.jpg?tf=1200x' alt='El genial truco para descubrir la contraseña de la red WiFi desde un PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111'>Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-1374111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bill-gates-confiesa-cualidad-envidiaba-steve-jobs-nunca-lograre-hacer-eso-3290825.jpg?tf=1200x' alt='Bill Gates confiesa la cualidad que más envidiaba de Steve Jobs: "nunca lograré hacer eso"' />
     </a>
 </div>
 
