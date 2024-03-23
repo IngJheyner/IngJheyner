@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572'>Así funciona compartir audio bluetooth con tus amigos en Android 15</a></h4>
+    <a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Así funciona compartir audio bluetooth con tus amigos en Android 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549'>Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa</a></h4>
     <a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proxy-telegram-3291548.jpg?tf=1200x' alt='Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565'>La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas</a></h4>
     <a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559'>Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/outlook-windows-11-3291561.jpg?tf=1200x' alt='Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11' />
     </a>
 </div>
 
