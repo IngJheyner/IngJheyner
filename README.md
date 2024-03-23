@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520'>Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación</a></h4>
+    <a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291519.jpg?tf=1200x' alt='Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/trucos-bateria-movil-dure-mas-1374151'>5 trucos infalibles para que la batería de tu móvil Android no se agote tan rápido y dure más</a></h4>
+    <a href='https://computerhoy.com/android/trucos-bateria-movil-dure-mas-1374151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='5 trucos infalibles para que la batería de tu móvil Android no se agote tan rápido y dure más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276'>Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen</a></h4>
     <a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tv-3291089.jpg?tf=1200x' alt='Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179'>Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-alternativas-chatgpt-puedes-probar-ya-mismo-aumentar-productividad-3290904.jpg?tf=1200x' alt='Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-garmin-fenix-7-vuelve-tocar-fondo-promete-arrasar-1374474'>Ahora es el momento: el Garmin Fenix 7 vuelve a tocar fondo y promete arrasar en Amazon con la última rebaja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-momento-garmin-fenix-7-vuelve-tocar-fondo-promete-arrasar-1374474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Ahora es el momento: el Garmin Fenix 7 vuelve a tocar fondo y promete arrasar en Amazon con la última rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680'>El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo</a></h4>
-    <a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spam-correo-electronico-3291010.jpg?tf=1200x' alt='El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo' />
     </a>
 </div>
 
