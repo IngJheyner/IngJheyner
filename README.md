@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-mi-firestick-no-falta-incluye-cosa-me-encanta-1372252'>Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-mi-firestick-no-falta-incluye-cosa-me-encanta-1372252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3287335.jpg?tf=1200x' alt='Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565'>La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559'>Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/outlook-windows-11-3291561.jpg?tf=1200x' alt='Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/falso-no-solo-espana-paises-dictaduras-han-bloqueado-alguna-vez-acceso-telegram-1374528'>Falso: no solo España y países con dictaduras han bloqueado alguna vez el acceso a Telegram</a></h4>
     <a href='https://computerhoy.com/apps/falso-no-solo-espana-paises-dictaduras-han-bloqueado-alguna-vez-acceso-telegram-1374528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291523.jpg?tf=1200x' alt='Falso: no solo España y países con dictaduras han bloqueado alguna vez el acceso a Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/samsung-galaxy-tab-s9-fe-revienta-precio-140eu-barata-color-llamativo-1374479'>La Samsung Galaxy Tab S9 FE revienta su precio: es 140€ más barata, y en el color más llamativo</a></h4>
-    <a href='https://computerhoy.com/android/samsung-galaxy-tab-s9-fe-revienta-precio-140eu-barata-color-llamativo-1374479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='La Samsung Galaxy Tab S9 FE revienta su precio: es 140€ más barata, y en el color más llamativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864'>Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo' />
     </a>
 </div>
 
