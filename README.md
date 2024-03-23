@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210'>Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alla-oppenheimer-5-peliculas-bomba-atomica-te-dejaran-boca-abierta-3288855.jpg?tf=1200x' alt='Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/falso-no-solo-espana-paises-dictaduras-han-bloqueado-alguna-vez-acceso-telegram-1374528'>Falso: no solo España y países con dictaduras han bloqueado alguna vez el acceso a Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/falso-no-solo-espana-paises-dictaduras-han-bloqueado-alguna-vez-acceso-telegram-1374528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291523.jpg?tf=1200x' alt='Falso: no solo España y países con dictaduras han bloqueado alguna vez el acceso a Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/samsung-galaxy-tab-s9-fe-revienta-precio-140eu-barata-color-llamativo-1374479'>La Samsung Galaxy Tab S9 FE revienta su precio: es 140€ más barata, y en el color más llamativo</a></h4>
+    <a href='https://computerhoy.com/android/samsung-galaxy-tab-s9-fe-revienta-precio-140eu-barata-color-llamativo-1374479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='La Samsung Galaxy Tab S9 FE revienta su precio: es 140€ más barata, y en el color más llamativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864'>Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520'>Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación</a></h4>
     <a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291519.jpg?tf=1200x' alt='Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-bateria-movil-dure-mas-1374151'>5 trucos infalibles para que la batería de tu móvil Android no se agote tan rápido y dure más</a></h4>
-    <a href='https://computerhoy.com/android/trucos-bateria-movil-dure-mas-1374151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='5 trucos infalibles para que la batería de tu móvil Android no se agote tan rápido y dure más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276'>Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tv-3291089.jpg?tf=1200x' alt='Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cual-mejor-hora-irte-cama-1372681'>¿Cuál es la mejor hora para irte a la cama? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/cual-mejor-hora-irte-cama-1372681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cual-mejor-hora-irte-cama-dice-ciencia-3288123.jpg?tf=1200x' alt='¿Cuál es la mejor hora para irte a la cama? Esto dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179'>Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-alternativas-chatgpt-puedes-probar-ya-mismo-aumentar-productividad-3290904.jpg?tf=1200x' alt='Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad' />
     </a>
 </div>
 
