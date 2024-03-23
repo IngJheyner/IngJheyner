@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-android-te-permitira-instalar-cualquier-sitio-web-como-aplicacion-1374602'>Chrome para Android te permitirá instalar cualquier sitio web como una aplicación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-android-te-permitira-instalar-cualquier-sitio-web-como-aplicacion-1374602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3291616.jpg?tf=1200x' alt='Chrome para Android te permitirá instalar cualquier sitio web como una aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-stock-ipad-pro-129-deja-casi-300-euros-barato-cellular-1374309'>Amazon liquida stock del iPad Pro 12,9: lo deja casi 300 euros más barato con Cellular</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquida-stock-ipad-pro-129-deja-casi-300-euros-barato-cellular-1374309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875543.jpg?tf=1200x' alt='Amazon liquida stock del iPad Pro 12,9: lo deja casi 300 euros más barato con Cellular' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572'>Así funciona compartir audio bluetooth con tus amigos en Android 15</a></h4>
     <a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Así funciona compartir audio bluetooth con tus amigos en Android 15' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581'>Las operadoras tienen tres horas para bloquear Telegram en España</a></h4>
     <a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291598.jpg?tf=1200x' alt='Las operadoras tienen tres horas para bloquear Telegram en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-mi-firestick-no-falta-incluye-cosa-me-encanta-1372252'>Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-rapida-he-probado-mi-firestick-no-falta-incluye-cosa-me-encanta-1372252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3287335.jpg?tf=1200x' alt='Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565'>La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-caracteristica-whatsapp-evitar-miradas-indiscretas-adios-vistas-previas-inesperadas-1374565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='La nueva característica de WhatsApp para evitar miradas indiscretas: adiós a las vistas previas inesperadas' />
     </a>
 </div>
 
