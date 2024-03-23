@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276'>Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tv-4k-philips-agotando-50-ambilight-349eu-bien-merecen-1374276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tv-3291089.jpg?tf=1200x' alt='Esta TV 4K de Philips se está agotando: 50" y Ambilight por 349€ bien lo merecen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cual-mejor-hora-irte-cama-1372681'>¿Cuál es la mejor hora para irte a la cama? Esto dice la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/cual-mejor-hora-irte-cama-1372681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cual-mejor-hora-irte-cama-dice-ciencia-3288123.jpg?tf=1200x' alt='¿Cuál es la mejor hora para irte a la cama? Esto dice la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179'>Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-alternativas-chatgpt-1374179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mejores-alternativas-chatgpt-puedes-probar-ya-mismo-aumentar-productividad-3290904.jpg?tf=1200x' alt='Las mejores alternativas a ChatGPT que puedes probar ya mismo para aumentar tu productividad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680'>El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo</a></h4>
     <a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spam-correo-electronico-3291010.jpg?tf=1200x' alt='El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/sigo-creyendo-portatil-hace-4-anos-mejor-opcion-mayoria-1373377'>Sigo creyendo que este portátil de hace 4 años es la mejor opción para la mayoría</a></h4>
-    <a href='https://computerhoy.com/apple/sigo-creyendo-portatil-hace-4-anos-mejor-opcion-mayoria-1373377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-2020-chip-m1-3289132.jpg?tf=1200x' alt='Sigo creyendo que este portátil de hace 4 años es la mejor opción para la mayoría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-oppo-a58-buscas-autonomia-opcion-ideal-1373215'>He probado el Oppo A58: si quieres autonomía a precio de derribo es lo que buscas</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-oppo-a58-buscas-autonomia-opcion-ideal-1373215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oppo-a58-3289934.jpg?tf=1200x' alt='He probado el Oppo A58: si quieres autonomía a precio de derribo es lo que buscas' />
     </a>
 </div>
 
