@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-garmin-fenix-7-vuelve-tocar-fondo-promete-arrasar-1374474'>Ahora es el momento: el Garmin Fenix 7 vuelve a tocar fondo y promete arrasar en Amazon con la última rebaja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-momento-garmin-fenix-7-vuelve-tocar-fondo-promete-arrasar-1374474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Ahora es el momento: el Garmin Fenix 7 vuelve a tocar fondo y promete arrasar en Amazon con la última rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680'>El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo</a></h4>
     <a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spam-correo-electronico-3291010.jpg?tf=1200x' alt='El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491'>¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa </a></h4>
     <a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conoces-frontera-mantequilla-gusto-culinario-divide-europa-3291463.jpg?tf=1200x' alt='¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395'>Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo' />
     </a>
 </div>
 
