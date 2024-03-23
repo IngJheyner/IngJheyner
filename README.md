@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480'>¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-23-marzo-2024-3291449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473'>Telegram bloqueada en España: la Audiencia Nacional ordena su cierre</a></h4>
     <a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-3291433.jpg?tf=1200x' alt='Telegram bloqueada en España: la Audiencia Nacional ordena su cierre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443'>El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo</a></h4>
     <a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cambio-horario-verano-3291406.jpg?tf=1200x' alt='El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437'>VLC podría añadir canales de televisión gratis FAST dentro de muy poco</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vlc-podria-anadir-canales-television-gratis-fast-dentro-muy-poco-1374437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-ver-tv-gratis-vlc-iptv-grabar-series-peliculas-favoritas-3271713.jpg?tf=1200x' alt='VLC podría añadir canales de televisión gratis FAST dentro de muy poco' />
     </a>
 </div>
 
