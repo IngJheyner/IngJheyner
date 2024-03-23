@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491'>¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa </a></h4>
+    <a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conoces-frontera-mantequilla-gusto-culinario-divide-europa-3291463.jpg?tf=1200x' alt='¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395'>Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-apps-movil-android-tener-borrarlas-1374485'>Cómo ocultar apps en un móvil Android sin tener que borrarlas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-apps-movil-android-tener-borrarlas-1374485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-apps-movil-android-tener-borrarlas-3291468.jpg?tf=1200x' alt='Cómo ocultar apps en un móvil Android sin tener que borrarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109'>¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cafe-expreso-filtrado-opcion-sana-ciencia-3290757.jpg?tf=1200x' alt='¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251'>Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años</a></h4>
     <a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gigante-casi-ciego-era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-3291008.jpg?tf=1200x' alt='Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481'>El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/s-pen-samsung-galaxy-s24-ultra-3261344.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-1374438'>Sygic lanza una gran actualización en Android Auto para ponerse a la altura de Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/apps/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-1374438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-3291454.jpg?tf=1200x' alt='Sygic lanza una gran actualización en Android Auto para ponerse a la altura de Google Maps y Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480'>¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-23-marzo-2024-3291449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024' />
     </a>
 </div>
 
