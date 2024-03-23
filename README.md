@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481'>El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/s-pen-samsung-galaxy-s24-ultra-3261344.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-1374438'>Sygic lanza una gran actualización en Android Auto para ponerse a la altura de Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-1374438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sygic-lanza-gran-actualizacion-android-auto-ponerse-altura-google-maps-waze-3291454.jpg?tf=1200x' alt='Sygic lanza una gran actualización en Android Auto para ponerse a la altura de Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480'>¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-23-marzo-2024-3291449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293'>Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-surface-pro-5-3291123.jpg?tf=1200x' alt='Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456'>Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa</a></h4>
-    <a href='https://computerhoy.com/internet/router-fritzbox-cumplen-20-anos-convertidos-referencia-europa-1374456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/router-fritzbox-cumplen-20-anos-convertidos-referencia-todo-mundo-3291408.jpg?tf=1200x' alt='Los router FRITZ!Box cumplen 20 años, convertidos en una referencia en toda Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443'>El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo</a></h4>
-    <a href='https://computerhoy.com/life/curioso-motivo-tobarra-sera-unico-pueblo-espana-no-cambiara-hora-31-marzo-1374443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cambio-horario-verano-3291406.jpg?tf=1200x' alt='El curioso motivo por el que Tobarra será el único pueblo de España que no cambiará la hora el 31 de marzo' />
     </a>
 </div>
 
