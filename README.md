@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109'>¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cafe-expreso-filtrado-opcion-sana-ciencia-3290757.jpg?tf=1200x' alt='¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251'>Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años</a></h4>
+    <a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gigante-casi-ciego-era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-3291008.jpg?tf=1200x' alt='Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481'>El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-galaxy-s24-ultra-lapiz-s-pen-huele-mal-1374481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/s-pen-samsung-galaxy-s24-ultra-3261344.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra tiene un inesperado problema: el lápiz S-Pen huele mal' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480'>¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-23-marzo-2024-1374480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-23-marzo-2024-3291449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 23 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473'>Telegram bloqueada en España: la Audiencia Nacional ordena su cierre</a></h4>
-    <a href='https://computerhoy.com/redes/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-1374473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-bloqueada-espana-audiencia-nacional-ordena-cierre-3291433.jpg?tf=1200x' alt='Telegram bloqueada en España: la Audiencia Nacional ordena su cierre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293'>Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-pienses-nuevo-macbook-alternativa-cuesta-casi-400-euros-menos-1374293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-surface-pro-5-3291123.jpg?tf=1200x' alt='Microsoft quiere que te pienses lo del nuevo MacBook: su alternativa cuesta casi 400 euros menos' />
     </a>
 </div>
 
