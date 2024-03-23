@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549'>Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proxy-telegram-3291548.jpg?tf=1200x' alt='Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581'>Las operadoras tienen tres horas para bloquear Telegram en España</a></h4>
     <a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291598.jpg?tf=1200x' alt='Las operadoras tienen tres horas para bloquear Telegram en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559'>Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/outlook-windows-11-3291561.jpg?tf=1200x' alt='Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210'>Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alla-oppenheimer-5-peliculas-bomba-atomica-te-dejaran-boca-abierta-3288855.jpg?tf=1200x' alt='Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta' />
     </a>
 </div>
 
