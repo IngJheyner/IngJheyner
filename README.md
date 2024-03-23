@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559'>Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-actualizara-fuerza-aplicacion-correo-nueva-app-web-outlook-windows-11-1374559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/outlook-windows-11-3291561.jpg?tf=1200x' alt='Microsoft actualizará "a la fuerza" la aplicación de correo a la nueva app web de Outlook en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210'>Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta</a></h4>
     <a href='https://computerhoy.com/entretenimiento/alla-oppenheimer-5-peliculas-grandes-bomba-atomica-1373210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/alla-oppenheimer-5-peliculas-bomba-atomica-te-dejaran-boca-abierta-3288855.jpg?tf=1200x' alt='Más allá de Oppenheimer: 5 películas sobre la bomba atómica que te dejarán con la boca abierta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864'>Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciones-chatgpt-deberias-usar-ahora-mismo-1373864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-chatgpt-no-estas-aprovechando-todo-deberias-usar-ahora-mismo-3290323.jpg?tf=1200x' alt='Funciones de ChatGPT desconocidas que no estás aprovechando del todo y que deberías usar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520'>Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/cuando-hara-efectivo-bloqueo-telegram-dejaras-poder-entrar-aplicacion-1374520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291519.jpg?tf=1200x' alt='Cuándo se hará efectivo el bloqueo de Telegram y dejarás de poder entrar a la aplicación' />
     </a>
 </div>
 
