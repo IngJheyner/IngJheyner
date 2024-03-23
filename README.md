@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680'>El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo</a></h4>
+    <a href='https://computerhoy.com/google/spam-gmail-me-agota-pero-como-consigo-mantenerlo-raya-1373680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spam-correo-electronico-3291010.jpg?tf=1200x' alt='El spam de Gmail me agota, pero así es como consigo mantenerlo a raya y que no atasque mi correo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/sigo-creyendo-portatil-hace-4-anos-mejor-opcion-mayoria-1373377'>Sigo creyendo que este portátil de hace 4 años es la mejor opción para la mayoría</a></h4>
+    <a href='https://computerhoy.com/apple/sigo-creyendo-portatil-hace-4-anos-mejor-opcion-mayoria-1373377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-2020-chip-m1-3289132.jpg?tf=1200x' alt='Sigo creyendo que este portátil de hace 4 años es la mejor opción para la mayoría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-oppo-a58-buscas-autonomia-opcion-ideal-1373215'>He probado el Oppo A58: si quieres autonomía a precio de derribo es lo que buscas</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-oppo-a58-buscas-autonomia-opcion-ideal-1373215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oppo-a58-3289934.jpg?tf=1200x' alt='He probado el Oppo A58: si quieres autonomía a precio de derribo es lo que buscas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491'>¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa </a></h4>
     <a href='https://computerhoy.com/alimentacion/frontera-mantequilla-aceite-oliva-que-es-1374491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/conoces-frontera-mantequilla-gusto-culinario-divide-europa-3291463.jpg?tf=1200x' alt='¿Conoces la Frontera de la Mantequilla?: El gusto culinario que divide a Europa ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395'>Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo</a></h4>
     <a href='https://computerhoy.com/tecnologia/chollos-1eu-aliexpress-aniversario-estos-son-algunos-gadgets-precio-ridiculo-1374395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/aliexpress-aplicacion-3210416.jpg?tf=1200x' alt='Chollos desde 1€ en AliExpress por su aniversario: estos son algunos gadgets a precio ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-apps-movil-android-tener-borrarlas-1374485'>Cómo ocultar apps en un móvil Android sin tener que borrarlas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-apps-movil-android-tener-borrarlas-1374485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ocultar-apps-movil-android-tener-borrarlas-3291468.jpg?tf=1200x' alt='Cómo ocultar apps en un móvil Android sin tener que borrarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109'>¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/cafe-expreso-filtrado-opcion-sana-ciencia-1374109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cafe-expreso-filtrado-opcion-sana-ciencia-3290757.jpg?tf=1200x' alt='¿Café expreso o filtrado? Esta es la opción más sana, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251'>Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años</a></h4>
-    <a href='https://computerhoy.com/ciencia/era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-1374251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gigante-casi-ciego-era-delfin-gigante-vivia-amazonas-hace-16-millones-anos-3291008.jpg?tf=1200x' alt='Gigante y casi ciego: así era el delfín gigante que vivía en el Amazonas hace 16 millones de años' />
     </a>
 </div>
 
