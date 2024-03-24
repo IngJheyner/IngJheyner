@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725'>Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos </a></h4>
+    <a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/denuvo-presenta-tracemark-games-rastrear-filtran-informacion-videojuegos-3291785.jpg?tf=1200x' alt='Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723'>Llega Ultra Ethernet, la conexión por cable optimizada para la IA</a></h4>
+    <a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/llega-ultra-ethernet-conexion-cable-optimizada-ia-hpc-3291780.jpg?tf=1200x' alt='Llega Ultra Ethernet, la conexión por cable optimizada para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715'>Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-tiene-truco-acelerar-ray-tracing-reducir-uso-mejora-grafica-ayuda-ssd-3291774.jpg?tf=1200x' alt='Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705'>X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube</a></h4>
     <a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x-smart-tv-filtra-video-app-televisores-elon-musk-quiere-competir-youtube-3291765.jpg?tf=1200x' alt='X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-1374697'>Cómo hacer una copia de seguridad de los chats de Telegram antes del bloqueo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-1374697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-3291741.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de los chats de Telegram antes del bloqueo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606'>Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080266.jpg?tf=1200x' alt='Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel' />
     </a>
 </div>
 
