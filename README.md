@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204'>Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-music-unlimited-3290942.jpg?tf=1200x' alt='Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705'>X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube</a></h4>
     <a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x-smart-tv-filtra-video-app-televisores-elon-musk-quiere-competir-youtube-3291765.jpg?tf=1200x' alt='X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680'>Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/vertedero-seguro-mundo-interior-esconden-casi-500-millones-bitcoin-1374674'>Este es el vertedero más seguro del mundo: en su interior se esconden casi 500 millones en Bitcoin</a></h4>
-    <a href='https://computerhoy.com/criptos/vertedero-seguro-mundo-interior-esconden-casi-500-millones-bitcoin-1374674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vertedero-bitcoin-3291707.jpg?tf=1200x' alt='Este es el vertedero más seguro del mundo: en su interior se esconden casi 500 millones en Bitcoin' />
     </a>
 </div>
 
