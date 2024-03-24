@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-24-marzo-2024-1374618'>¿Qué santo es hoy? Santoral del domingo 24 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-24-marzo-2024-1374618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-24-marzo-2024-3291650.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 24 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-android-te-permitira-instalar-cualquier-sitio-web-como-aplicacion-1374602'>Chrome para Android te permitirá instalar cualquier sitio web como una aplicación</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-android-te-permitira-instalar-cualquier-sitio-web-como-aplicacion-1374602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3291616.jpg?tf=1200x' alt='Chrome para Android te permitirá instalar cualquier sitio web como una aplicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549'>Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa</a></h4>
     <a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proxy-telegram-3291548.jpg?tf=1200x' alt='Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581'>Las operadoras tienen tres horas para bloquear Telegram en España</a></h4>
-    <a href='https://computerhoy.com/apps/operadoras-tienen-tres-horas-bloquear-telegram-espana-1374581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291598.jpg?tf=1200x' alt='Las operadoras tienen tres horas para bloquear Telegram en España' />
     </a>
 </div>
 
