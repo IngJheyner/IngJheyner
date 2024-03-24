@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715'>Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-tiene-truco-acelerar-ray-tracing-reducir-uso-mejora-grafica-ayuda-ssd-3291774.jpg?tf=1200x' alt='Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204'>Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-music-unlimited-3290942.jpg?tf=1200x' alt='Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606'>Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080266.jpg?tf=1200x' alt='Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680'>Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes' />
     </a>
 </div>
 
