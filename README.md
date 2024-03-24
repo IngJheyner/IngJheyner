@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-watch-2-rebajado-amazon-forma-temporal-299-euros-1374558'>El reloj de Google es ahora 100 euros más barato: notificaciones, pagos y salud en tu muñeca a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-watch-2-rebajado-amazon-forma-temporal-299-euros-1374558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199974.jpg?tf=1200x' alt='El reloj de Google es ahora 100 euros más barato: notificaciones, pagos y salud en tu muñeca a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-24-marzo-2024-1374618'>¿Qué santo es hoy? Santoral del domingo 24 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-24-marzo-2024-1374618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-24-marzo-2024-3291650.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 24 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572'>Así funciona compartir audio bluetooth con tus amigos en Android 15</a></h4>
     <a href='https://computerhoy.com/android/funciona-compartir-audio-bluetooth-amigos-android-15-1374572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-musica-3270133.jpg?tf=1200x' alt='Así funciona compartir audio bluetooth con tus amigos en Android 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549'>Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-tiene-funcion-proxy-evitar-bloqueos-necesidad-vpn-activa-1374549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proxy-telegram-3291548.jpg?tf=1200x' alt='Telegram tiene una función proxy para evitar los bloqueos sin necesidad de VPN y así se activa' />
     </a>
 </div>
 
