@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/rtve-no-aguanta-saca-artilleria-bbc-posible-plagio-ministerio-tiempo-1374668'>RTVE no aguanta más y saca la artillería contra la BBC por el posible plagio de El ministerio del Tiempo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rtve-no-aguanta-saca-artilleria-bbc-posible-plagio-ministerio-tiempo-1374668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ministerio-tiempo-2496737.jpg?tf=1200x' alt='RTVE no aguanta más y saca la artillería contra la BBC por el posible plagio de El ministerio del Tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698'>Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carpeta-windows-google-drive-3290172.jpg?tf=1200x' alt='Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-crear-administrar-eliminar-passkeys-windows-11-1374072'>Cómo crear, administrar y eliminar passkeys en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/como-crear-administrar-eliminar-passkeys-windows-11-1374072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-crear-administrar-eliminar-passkeys-windows-11-3290747.jpg?tf=1200x' alt='Cómo crear, administrar y eliminar passkeys en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647'>Ya hay fecha para que se ejecute el bloqueo de Telegram en España</a></h4>
-    <a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291681.jpg?tf=1200x' alt='Ya hay fecha para que se ejecute el bloqueo de Telegram en España' />
     </a>
 </div>
 
