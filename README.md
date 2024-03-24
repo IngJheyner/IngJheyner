@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647'>Ya hay fecha para que se ejecute el bloqueo de Telegram en España</a></h4>
+    <a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291681.jpg?tf=1200x' alt='Ya hay fecha para que se ejecute el bloqueo de Telegram en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/como-eliminar-programas-preinstalados-bloatware-windows-11-1374108'>Cómo eliminar el bloatware de Windows 11 para liberar espacio y mejorar el rendimiento de tu PC</a></h4>
     <a href='https://computerhoy.com/windows/como-eliminar-programas-preinstalados-bloatware-windows-11-1374108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-eliminar-bloatware-windows-11-liberar-espacio-mejorar-rendimiento-pc-3290804.jpg?tf=1200x' alt='Cómo eliminar el bloatware de Windows 11 para liberar espacio y mejorar el rendimiento de tu PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-1373448'>Que no te engañen: no hay un plan B por una razón muy sencilla</a></h4>
     <a href='https://computerhoy.com/ciencia/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-1373448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-3289272.jpg?tf=1200x' alt='Que no te engañen: no hay un plan B por una razón muy sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acelerar-ordenador-lento-gastar-euro-1374418'>Esta es mi rutina infalible para recuperar el rendimiento de mi ordenador cuando empieza a funcionar lento</a></h4>
-    <a href='https://computerhoy.com/pc/acelerar-ordenador-lento-gastar-euro-1374418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-sencillos-pasos-acelerar-ordenador-lento-gastar-euro-3291451.jpg?tf=1200x' alt='Esta es mi rutina infalible para recuperar el rendimiento de mi ordenador cuando empieza a funcionar lento' />
     </a>
 </div>
 
