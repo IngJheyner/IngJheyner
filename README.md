@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-volvera-precio-verano-amazon-fire-tv-stick-4k-casi-mitad-precio-1374600'>No volverá a este precio hasta el verano: el Amazon Fire TV Stick 4K, casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-volvera-precio-verano-amazon-fire-tv-stick-4k-casi-mitad-precio-1374600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/analisis-fire-tv-stick-4k-max-2526575.jpg?tf=1200x' alt='No volverá a este precio hasta el verano: el Amazon Fire TV Stick 4K, casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/apagas-wifi-cuando-sales-casa-nunca-habia-hecho-he-conocido-peligros-1373682'>¿Eres de los que nunca apaga el WiFi cuando sale de casa? Nunca lo había hecho hasta que he conocido los peligros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/apagas-wifi-cuando-sales-casa-nunca-habia-hecho-he-conocido-peligros-1373682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/redes-wifi-funcion-seguridad-3290956.jpg?tf=1200x' alt='¿Eres de los que nunca apaga el WiFi cuando sale de casa? Nunca lo había hecho hasta que he conocido los peligros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/seran-casas-futuro-impresas-3d-tiempo-record-baratas-1374598'>Así serán las casas del futuro: impresas en 3D en tiempo récord y más baratas</a></h4>
     <a href='https://computerhoy.com/tecnologia/seran-casas-futuro-impresas-3d-tiempo-record-baratas-1374598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-nuevo-robot-capaz-imprimir-3d-casas-varios-pisos-muy-poco-tiempo-3291611.jpg?tf=1200x' alt='Así serán las casas del futuro: impresas en 3D en tiempo récord y más baratas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/motion-smoothing-tv-sector-cine-odia-1367040'>¿Qué es 'motion smoothing' en las TV y por qué el sector de cine lo odia?</a></h4>
     <a href='https://computerhoy.com/tv/motion-smoothing-tv-sector-cine-odia-1367040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711101873732-3291032.jpg?tf=1200x' alt='¿Qué es 'motion smoothing' en las TV y por qué el sector de cine lo odia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/misterio-sarcofagos-carajia-1374621'>Los sarcófagos estatua de los Guerreros de las Nubes: un misterio de hace 500 años sin resolver</a></h4>
-    <a href='https://computerhoy.com/ciencia/misterio-sarcofagos-carajia-1374621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sarcofagos-estatua-guerreros-nubes-misterio-hace-500-anos-resolver-3291654.jpg?tf=1200x' alt='Los sarcófagos estatua de los Guerreros de las Nubes: un misterio de hace 500 años sin resolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estados-unidos-quiere-establecer-red-ferroviaria-luna-transporte-mercancias-personas-1374570'>Estados Unidos quiere establecer una red ferroviaria en la Luna para el transporte de mercancías y personas</a></h4>
-    <a href='https://computerhoy.com/espacio/estados-unidos-quiere-establecer-red-ferroviaria-luna-transporte-mercancias-personas-1374570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/concepto-tren-futurista-3291583.jpg?tf=1200x' alt='Estados Unidos quiere establecer una red ferroviaria en la Luna para el transporte de mercancías y personas' />
     </a>
 </div>
 
