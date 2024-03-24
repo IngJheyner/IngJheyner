@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680'>Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-anuncia-nuevas-versiones-windows-recibiran-copilot-finales-mes-1374680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Microsoft anuncia las nuevas versiones de Windows que recibirán Copilot a finales de mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/vertedero-seguro-mundo-interior-esconden-casi-500-millones-bitcoin-1374674'>Este es el vertedero más seguro del mundo: en su interior se esconden casi 500 millones en Bitcoin</a></h4>
     <a href='https://computerhoy.com/criptos/vertedero-seguro-mundo-interior-esconden-casi-500-millones-bitcoin-1374674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vertedero-bitcoin-3291707.jpg?tf=1200x' alt='Este es el vertedero más seguro del mundo: en su interior se esconden casi 500 millones en Bitcoin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/pasara-chats-grupos-contactos-telegram-cuando-ejecute-bloqueo-1374649'>¿Qué pasará con tus chats, grupos y contactos de Telegram cuando se ejecute el bloqueo?</a></h4>
     <a href='https://computerhoy.com/apps/pasara-chats-grupos-contactos-telegram-cuando-ejecute-bloqueo-1374649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-3291685.jpg?tf=1200x' alt='¿Qué pasará con tus chats, grupos y contactos de Telegram cuando se ejecute el bloqueo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-externo-mueve-archivos-1-gb-segundo-tienes-videos-4k-sera-mejor-amigo-1374631'>Este SSD externo mueve archivos a 1 GB por segundo y, si tienes vídeos 4K, será tu mejor amigo</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-externo-mueve-archivos-1-gb-segundo-tienes-videos-4k-sera-mejor-amigo-1374631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crucial-x9-3291667.jpg?tf=1200x' alt='Este SSD externo mueve archivos a 1 GB por segundo y, si tienes vídeos 4K, será tu mejor amigo' />
     </a>
 </div>
 
