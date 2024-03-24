@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698'>Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carpeta-windows-google-drive-3290172.jpg?tf=1200x' alt='Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pasara-chats-grupos-contactos-telegram-cuando-ejecute-bloqueo-1374649'>¿Qué pasará con tus chats, grupos y contactos de Telegram cuando se ejecute el bloqueo?</a></h4>
+    <a href='https://computerhoy.com/apps/pasara-chats-grupos-contactos-telegram-cuando-ejecute-bloqueo-1374649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-3291685.jpg?tf=1200x' alt='¿Qué pasará con tus chats, grupos y contactos de Telegram cuando se ejecute el bloqueo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-externo-mueve-archivos-1-gb-segundo-tienes-videos-4k-sera-mejor-amigo-1374631'>Este SSD externo mueve archivos a 1 GB por segundo y, si tienes vídeos 4K, será tu mejor amigo</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-externo-mueve-archivos-1-gb-segundo-tienes-videos-4k-sera-mejor-amigo-1374631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crucial-x9-3291667.jpg?tf=1200x' alt='Este SSD externo mueve archivos a 1 GB por segundo y, si tienes vídeos 4K, será tu mejor amigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-crear-administrar-eliminar-passkeys-windows-11-1374072'>Cómo crear, administrar y eliminar passkeys en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/como-crear-administrar-eliminar-passkeys-windows-11-1374072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-crear-administrar-eliminar-passkeys-windows-11-3290747.jpg?tf=1200x' alt='Cómo crear, administrar y eliminar passkeys en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647'>Ya hay fecha para que se ejecute el bloqueo de Telegram en España</a></h4>
     <a href='https://computerhoy.com/apps/ya-hay-fecha-ejecute-bloqueo-telegram-espana-1374647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bloqueo-telegram-3291681.jpg?tf=1200x' alt='Ya hay fecha para que se ejecute el bloqueo de Telegram en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-eliminar-programas-preinstalados-bloatware-windows-11-1374108'>Cómo eliminar el bloatware de Windows 11 para liberar espacio y mejorar el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/windows/como-eliminar-programas-preinstalados-bloatware-windows-11-1374108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-eliminar-bloatware-windows-11-liberar-espacio-mejorar-rendimiento-pc-3290804.jpg?tf=1200x' alt='Cómo eliminar el bloatware de Windows 11 para liberar espacio y mejorar el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/claves-wifi-7-routers-1374623'>Las claves de WiFi 7, la conexión "abeja"</a></h4>
-    <a href='https://computerhoy.com/internet/claves-wifi-7-routers-1374623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/claves-wifi-7-conexion-abeja-3291658.jpg?tf=1200x' alt='Las claves de WiFi 7, la conexión "abeja"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-roomba-karcher-tiene-robot-aspirador-sorprendentemente-potente-1374334'>Olvida las Roomba: Kärcher tiene robot aspirador y es sorprendentemente potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-roomba-karcher-tiene-robot-aspirador-sorprendentemente-potente-1374334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/karcher-rcv-3-3291221.jpg?tf=1200x' alt='Olvida las Roomba: Kärcher tiene robot aspirador y es sorprendentemente potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-1373448'>Que no te engañen: no hay un plan B por una razón muy sencilla</a></h4>
-    <a href='https://computerhoy.com/ciencia/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-1373448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-no-hay-plan-b-razon-muy-sencilla-3289272.jpg?tf=1200x' alt='Que no te engañen: no hay un plan B por una razón muy sencilla' />
     </a>
 </div>
 
