@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-1374697'>Cómo hacer una copia de seguridad de los chats de Telegram antes del bloqueo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-1374697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copia-chat-telegram-disco-duro-antes-bloqueo-3291741.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de los chats de Telegram antes del bloqueo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606'>Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-nord-3-rebajado-16gb-memoria-ram-envio-espana-1374606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/oneplus-nord-3-3080266.jpg?tf=1200x' alt='Este OnePlus de 16GB de RAM tiene algo que no tienen sus rivales: un precio de locos y Android casi como los Pixel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/rtve-no-aguanta-saca-artilleria-bbc-posible-plagio-ministerio-tiempo-1374668'>RTVE no aguanta más y saca la artillería contra la BBC por el posible plagio de El ministerio del Tiempo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rtve-no-aguanta-saca-artilleria-bbc-posible-plagio-ministerio-tiempo-1374668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ministerio-tiempo-2496737.jpg?tf=1200x' alt='RTVE no aguanta más y saca la artillería contra la BBC por el posible plagio de El ministerio del Tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698'>Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sincronizar-carpeta-google-drive-1373698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/carpeta-windows-google-drive-3290172.jpg?tf=1200x' alt='Cómo sincronizar una carpeta de Windows, iOS o Android con Google Drive' />
     </a>
 </div>
 
