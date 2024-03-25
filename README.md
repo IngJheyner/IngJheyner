@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853'>Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-estas-son-3-mejores-formas-detectar-perfil-falso-redes-sociales-3292001.jpg?tf=1200x' alt='Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/te-produce-ansiedad-cada-vez-suena-movil-dice-ciencia-1374884'>¿Te produce ansiedad cada vez que suena tu móvil? No eres raro, esto dice la ciencia al respecto</a></h4>
+    <a href='https://computerhoy.com/ciencia/te-produce-ansiedad-cada-vez-suena-movil-dice-ciencia-1374884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/te-produce-ansiedad-cada-vez-suena-movil-no-eres-raro-dice-ciencia-respecto-3292051.jpg?tf=1200x' alt='¿Te produce ansiedad cada vez que suena tu móvil? No eres raro, esto dice la ciencia al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762'>La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-nacional-alerta-nuevo-caso-spoofing-cuidado-recibes-llamada-banco-3291833.jpg?tf=1200x' alt='La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897'>Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-truco-revela-rutas-cortes-procesiones-semana-santa-3292059.jpg?tf=1200x' alt='Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821'>El juez suspende el bloqueo de Telegram en España alegando un claro perjuicio a millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='El juez suspende el bloqueo de Telegram en España alegando un claro perjuicio a millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865'>La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía</a></h4>
-    <a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-tecnologia-espanola-recolecta-agua-aire-puede-ser-aliado-sequia-3292023.jpg?tf=1200x' alt='La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía' />
     </a>
 </div>
 
