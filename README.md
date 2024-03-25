@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316'>El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853'>Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-estas-son-3-mejores-formas-detectar-perfil-falso-redes-sociales-3292001.jpg?tf=1200x' alt='Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-tiene-claro-ia-podria-revolucionar-hollywood-1374775'>Sam Altman lo tiene claro: así podría la inteligencia artificial revolucionar Hollywood</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-tiene-claro-ia-podria-revolucionar-hollywood-1374775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-altman-tiene-claro-podria-inteligencia-artificial-revolucionar-hollywood-3291848.jpg?tf=1200x' alt='Sam Altman lo tiene claro: así podría la inteligencia artificial revolucionar Hollywood' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897'>Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-truco-revela-rutas-cortes-procesiones-semana-santa-3292059.jpg?tf=1200x' alt='Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa' />
     </a>
 </div>
 
