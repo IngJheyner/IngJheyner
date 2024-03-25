@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705'>X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube</a></h4>
+    <h4><a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705'>X en los Smart TV: se filtra un vídeo de la app para televisores con la que Elon Musk quiere competir con YouTube</a></h4>
     <a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x-smart-tv-filtra-video-app-televisores-elon-musk-quiere-competir-youtube-3291765.jpg?tf=1200x' alt='X en los Smart TV: se filtra un vídeo con la app para televisores con la que Elon Musk quiere competir con YouTube' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x-smart-tv-filtra-video-app-televisores-elon-musk-quiere-competir-youtube-3291765.jpg?tf=1200x' alt='X en los Smart TV: se filtra un vídeo de la app para televisores con la que Elon Musk quiere competir con YouTube' />
     </a>
 </div>
 
