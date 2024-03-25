@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777'>Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? </a></h4>
+    <a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mac-vs-iphone-3290561.jpg?tf=1200x' alt='Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714'>5 chollos de última hora de AliExpress que no volverán en meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='5 chollos de última hora de AliExpress que no volverán en meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723'>Llega Ultra Ethernet, la conexión por cable optimizada para la IA</a></h4>
     <a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/llega-ultra-ethernet-conexion-cable-optimizada-ia-hpc-3291780.jpg?tf=1200x' alt='Llega Ultra Ethernet, la conexión por cable optimizada para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715'>Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-tiene-truco-acelerar-ray-tracing-ssd-1374715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/microsoft-tiene-truco-acelerar-ray-tracing-reducir-uso-mejora-grafica-ayuda-ssd-3291774.jpg?tf=1200x' alt='Microsoft tiene un truco para acelerar el ray tracing y reducir el uso de la memoria gráfica... con ayuda de un SSD' />
     </a>
 </div>
 
