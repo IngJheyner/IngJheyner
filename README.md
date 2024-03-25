@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269'>Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oppo-reno11f-5g-3291213.jpg?tf=1200x' alt='Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/8gb-ram-infinitas-posibilidades-orange-pi-3b-alternativa-top-raspberry-1374609'>8GB de RAM e infinitas posibilidades: esta Orange Pi 3B es la alternativa más top a las Raspberry</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8gb-ram-infinitas-posibilidades-orange-pi-3b-alternativa-top-raspberry-1374609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='8GB de RAM e infinitas posibilidades: esta Orange Pi 3B es la alternativa más top a las Raspberry' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777'>Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? </a></h4>
     <a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mac-vs-iphone-3290561.jpg?tf=1200x' alt='Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728'>¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-25-marzo-2024-3291788.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725'>Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos </a></h4>
-    <a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/denuvo-presenta-tracemark-games-rastrear-filtran-informacion-videojuegos-3291785.jpg?tf=1200x' alt='Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723'>Llega Ultra Ethernet, la conexión por cable optimizada para la IA</a></h4>
-    <a href='https://computerhoy.com/redes/ultra-ethernet-conexion-cable-optimizada-ia-1374723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/llega-ultra-ethernet-conexion-cable-optimizada-ia-hpc-3291780.jpg?tf=1200x' alt='Llega Ultra Ethernet, la conexión por cable optimizada para la IA' />
     </a>
 </div>
 
