@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016'>Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013'>Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laliga-afirma-falta-solo-paso-ver-futbol-gratis-iptv-sea-casi-imposible-3201728.jpg?tf=1200x' alt='Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000'>¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?</a></h4>
     <a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711389214614-3292217.jpg?tf=1200x' alt='¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853'>Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-estas-son-3-mejores-formas-detectar-perfil-falso-redes-sociales-3292001.jpg?tf=1200x' alt='Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/te-produce-ansiedad-cada-vez-suena-movil-dice-ciencia-1374884'>¿Te produce ansiedad cada vez que suena tu móvil? No eres raro, esto dice la ciencia al respecto</a></h4>
-    <a href='https://computerhoy.com/ciencia/te-produce-ansiedad-cada-vez-suena-movil-dice-ciencia-1374884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/te-produce-ansiedad-cada-vez-suena-movil-no-eres-raro-dice-ciencia-respecto-3292051.jpg?tf=1200x' alt='¿Te produce ansiedad cada vez que suena tu móvil? No eres raro, esto dice la ciencia al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762'>La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-nacional-alerta-nuevo-caso-spoofing-cuidado-recibes-llamada-banco-3291833.jpg?tf=1200x' alt='La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”' />
     </a>
 </div>
 
