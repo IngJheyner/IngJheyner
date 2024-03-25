@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031'>Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes</a></h4>
+    <a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-presto-nuevo-sistema-apple-actualizar-iphone-nuevos-sacarlos-caja-reducir-fraudes-3292272.jpg?tf=1200x' alt='Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788'>Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/teclast-f16-plus-3291822.jpg?tf=1200x' alt='Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000'>¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?</a></h4>
     <a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711389214614-3292217.jpg?tf=1200x' alt='¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316'>El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€' />
     </a>
 </div>
 
