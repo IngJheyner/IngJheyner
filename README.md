@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865'>La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía</a></h4>
+    <a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-tecnologia-espanola-recolecta-agua-aire-puede-ser-aliado-sequia-3292023.jpg?tf=1200x' alt='La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-reloj-deportivo-barato-14-dias-bateria-ahora-oferta-1374746'>14 días de batería y un GPS muy preciso: el Amazfit GTR 4 es de nuestros smartwatches favoritos, y ahora es incluso más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-reloj-deportivo-barato-14-dias-bateria-ahora-oferta-1374746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940016.jpg?tf=1200x' alt='14 días de batería y un GPS muy preciso: el Amazfit GTR 4 es de nuestros smartwatches favoritos, y ahora es incluso más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806'>El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac</a></h4>
     <a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proton-mail-windows-mac-3291991.jpg?tf=1200x' alt='El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-regalando-premium-pero-cambio-enorme-problema-seguridad-1374824'>Telegram está regalando Premium, pero a cambio de un enorme problema de seguridad</a></h4>
     <a href='https://computerhoy.com/apps/telegram-regalando-premium-pero-cambio-enorme-problema-seguridad-1374824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-novedades-3291984.jpg?tf=1200x' alt='Telegram está regalando Premium, pero a cambio de un enorme problema de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-ia-generativa-imagenes-integrara-app-1374816'>WhatsApp se prepara para añadir la edición de fotos con IA</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-ia-generativa-imagenes-integrara-app-1374816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-prepara-anadir-edicion-fotos-ia-3291951.jpg?tf=1200x' alt='WhatsApp se prepara para añadir la edición de fotos con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m3-tiene-primeras-rebajas-140-euros-menos-512gb-1374742'>El MacBook Air M3 tiene una de sus primeras rebajas: 140 euros menos y con 512GB</a></h4>
-    <a href='https://computerhoy.com/tecnologia/macbook-air-m3-tiene-primeras-rebajas-140-euros-menos-512gb-1374742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288632.jpg?tf=1200x' alt='El MacBook Air M3 tiene una de sus primeras rebajas: 140 euros menos y con 512GB' />
     </a>
 </div>
 
