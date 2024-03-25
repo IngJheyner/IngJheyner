@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728'>¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-25-marzo-2024-3291788.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725'>Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos </a></h4>
     <a href='https://computerhoy.com/gaming/denuvo-tracemark-rastrea-filtraciones-videojuegos-1374725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/denuvo-presenta-tracemark-games-rastrear-filtran-informacion-videojuegos-3291785.jpg?tf=1200x' alt='Denuvo presenta TraceMark for games, para rastrear a los que filtran información de videojuegos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204'>Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-music-unlimited-tres-meses-gratis-como-alternativa-spotify-gratis-1374204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amazon-music-unlimited-3290942.jpg?tf=1200x' alt='Amazon quiere que dejes de usar Spotify gratis: regala tres meses de música sin anuncios y con saltos ilimitados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705'>X en los Smart TV: se filtra un vídeo de la app para televisores con la que Elon Musk quiere competir con YouTube</a></h4>
-    <a href='https://computerhoy.com/apps/x-app-smart-tv-video-1374705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/x-smart-tv-filtra-video-app-televisores-elon-musk-quiere-competir-youtube-3291765.jpg?tf=1200x' alt='X en los Smart TV: se filtra un vídeo de la app para televisores con la que Elon Musk quiere competir con YouTube' />
     </a>
 </div>
 
