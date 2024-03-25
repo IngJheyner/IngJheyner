@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897'>Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-truco-revela-rutas-cortes-procesiones-semana-santa-3292059.jpg?tf=1200x' alt='Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821'>El juez suspende el bloqueo de Telegram en España alegando un claro perjuicio a millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='El juez suspende el bloqueo de Telegram en España alegando un claro perjuicio a millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865'>La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía</a></h4>
     <a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-tecnologia-espanola-recolecta-agua-aire-puede-ser-aliado-sequia-3292023.jpg?tf=1200x' alt='La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806'>El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac</a></h4>
     <a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proton-mail-windows-mac-3291991.jpg?tf=1200x' alt='El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/elon-musk-asegura-chip-neuralink-puede-curar-ceguera-1374840'>Elon Musk asegura que su último chip de Neuralink podrá curar la ceguera</a></h4>
-    <a href='https://computerhoy.com/life/elon-musk-asegura-chip-neuralink-puede-curar-ceguera-1374840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-asegura-ultimo-chip-neuralink-puede-curar-ceguera-3291985.jpg?tf=1200x' alt='Elon Musk asegura que su último chip de Neuralink podrá curar la ceguera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-regalando-premium-pero-cambio-enorme-problema-seguridad-1374824'>Telegram está regalando Premium, pero a cambio de un enorme problema de seguridad</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-regalando-premium-pero-cambio-enorme-problema-seguridad-1374824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-novedades-3291984.jpg?tf=1200x' alt='Telegram está regalando Premium, pero a cambio de un enorme problema de seguridad' />
     </a>
 </div>
 
