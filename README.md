@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762'>La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-nacional-alerta-cuidado-recibes-llamada-banco-1374762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-nacional-alerta-nuevo-caso-spoofing-cuidado-recibes-llamada-banco-3291833.jpg?tf=1200x' alt='La Policía Nacional alerta sobre un nuevo caso de “spoofing”: cuidado si recibes esta llamada de tu “banco”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-tiene-claro-ia-podria-revolucionar-hollywood-1374775'>Sam Altman lo tiene claro: así podría la inteligencia artificial revolucionar Hollywood</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-tiene-claro-ia-podria-revolucionar-hollywood-1374775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-altman-tiene-claro-podria-inteligencia-artificial-revolucionar-hollywood-3291848.jpg?tf=1200x' alt='Sam Altman lo tiene claro: así podría la inteligencia artificial revolucionar Hollywood' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897'>Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-truco-revela-rutas-cortes-semana-santa-1374897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-truco-revela-rutas-cortes-procesiones-semana-santa-3292059.jpg?tf=1200x' alt='Google Maps y el truco que revela las rutas y cortes por procesiones de Semana Santa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865'>La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía</a></h4>
     <a href='https://computerhoy.com/ciencia/funciona-nueva-tecnologia-recolecta-agua-aire-1374865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-tecnologia-espanola-recolecta-agua-aire-puede-ser-aliado-sequia-3292023.jpg?tf=1200x' alt='La nueva tecnología española que recolecta agua del aire y que puede ser un aliado contra la sequía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-reloj-deportivo-barato-14-dias-bateria-ahora-oferta-1374746'>14 días de batería y un GPS muy preciso: el Amazfit GTR 4 es de nuestros smartwatches favoritos, y ahora es incluso más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-gtr-4-reloj-deportivo-barato-14-dias-bateria-ahora-oferta-1374746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/amazfit-gtr-4-analisis-opinion-2940016.jpg?tf=1200x' alt='14 días de batería y un GPS muy preciso: el Amazfit GTR 4 es de nuestros smartwatches favoritos, y ahora es incluso más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806'>El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/apps/gran-rival-gmail-ya-cuenta-nueva-app-windows-mac-1374806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/proton-mail-windows-mac-3291991.jpg?tf=1200x' alt='El gran rival de Gmail ya cuenta con una nueva App para Windows y Mac' />
     </a>
 </div>
 
