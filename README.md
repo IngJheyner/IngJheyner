@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-saltar-bloqueo-telegram-gratis-pago-1374764'>El bloqueo de Telegram es inminente: 5 VPN para seguir usándolo, incluso gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-saltar-bloqueo-telegram-gratis-pago-1374764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-telegram-3291829.jpg?tf=1200x' alt='El bloqueo de Telegram es inminente: 5 VPN para seguir usándolo, incluso gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269'>Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día</a></h4>
     <a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oppo-reno11f-5g-3291213.jpg?tf=1200x' alt='Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714'>5 chollos de última hora de AliExpress que no volverán en meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='5 chollos de última hora de AliExpress que no volverán en meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728'>¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-25-marzo-2024-1374728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-lunes-25-marzo-2024-3291788.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 25 de marzo de 2024' />
     </a>
 </div>
 
