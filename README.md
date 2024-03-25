@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788'>Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/teclast-f16-plus-3291822.jpg?tf=1200x' alt='Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016'>Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316'>El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-era-barato-pero-nunca-como-ahora-cuesta-solo-200eu-1374316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='El Apple Watch SE era barato, pero nunca como ahora: cuesta solo 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853'>Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/3-mejores-formas-detectar-perfil-falso-redes-sociales-1374853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/no-te-enganen-estas-son-3-mejores-formas-detectar-perfil-falso-redes-sociales-3292001.jpg?tf=1200x' alt='Que no te engañen: estas son las 3 mejores formas de detectar un perfil falso en redes sociales' />
     </a>
 </div>
 
