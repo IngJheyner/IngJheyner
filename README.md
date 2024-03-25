@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m3-tiene-primeras-rebajas-140-euros-menos-512gb-1374742'>El MacBook Air M3 tiene una de sus primeras rebajas: 140 euros menos y con 512GB</a></h4>
+    <a href='https://computerhoy.com/tecnologia/macbook-air-m3-tiene-primeras-rebajas-140-euros-menos-512gb-1374742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288632.jpg?tf=1200x' alt='El MacBook Air M3 tiene una de sus primeras rebajas: 140 euros menos y con 512GB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821'>La Audiencia Nacional da marcha atrás y paraliza la suspensión de Telegram en España</a></h4>
+    <a href='https://computerhoy.com/apps/audiencia-nacional-da-marcha-atras-paraliza-suspension-telegram-espana-1374821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='La Audiencia Nacional da marcha atrás y paraliza la suspensión de Telegram en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-actualizacion-whatsapp-integrara-chatbot-meta-ai-1374785'>WhatsApp mejorará la accesibilidad del asistente Meta AI para competir con ChatGPT</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-actualizacion-whatsapp-integrara-chatbot-meta-ai-1374785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-mejorara-accesibilidad-asistente-meta-ai-competir-chatgpt-3291883.jpg?tf=1200x' alt='WhatsApp mejorará la accesibilidad del asistente Meta AI para competir con ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/5-mejores-apps-alternativas-adios-telegram-1374774'>Las 5 mejores apps alternativas para el caos que hay con Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/5-mejores-apps-alternativas-adios-telegram-1374774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-apps-alternativas-3291940.jpg?tf=1200x' alt='Las 5 mejores apps alternativas para el caos que hay con Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-saltar-bloqueo-telegram-gratis-pago-1374764'>El bloqueo de Telegram es inminente: 5 VPN para seguir usándolo, incluso gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-saltar-bloqueo-telegram-gratis-pago-1374764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-telegram-3291829.jpg?tf=1200x' alt='El bloqueo de Telegram es inminente: 5 VPN para seguir usándolo, incluso gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269'>Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-reno11-f-5g-caracteristicas-precios-informacion-1374269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oppo-reno11f-5g-3291213.jpg?tf=1200x' alt='Oppo vuelve a Europa con el lanzamiento de Reno11 F 5G, un móvil con triple cámara, gran pantalla AMOLED y batería para todo el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8gb-ram-infinitas-posibilidades-orange-pi-3b-alternativa-top-raspberry-1374609'>8GB de RAM e infinitas posibilidades: esta Orange Pi 3B es la alternativa más top a las Raspberry</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8gb-ram-infinitas-posibilidades-orange-pi-3b-alternativa-top-raspberry-1374609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='8GB de RAM e infinitas posibilidades: esta Orange Pi 3B es la alternativa más top a las Raspberry' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777'>Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? </a></h4>
-    <a href='https://computerhoy.com/apple/apple-marca-cae-pc-iphone-va-bien-1373777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mac-vs-iphone-3290561.jpg?tf=1200x' alt='Apple es la marca que más ha caído en ventas de PC: ¿por qué al Mac le va mal y al iPhone bien? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714'>5 chollos de última hora de AliExpress que no volverán en meses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-chollos-ultima-hora-aliexpress-no-volveran-meses-1374714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/aliexpress-3255935.jpg?tf=1200x' alt='5 chollos de última hora de AliExpress que no volverán en meses' />
     </a>
 </div>
 
