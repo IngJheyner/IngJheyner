@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398'>Cómo poner a punto Google Maps para tus viajes de Semana Santa</a></h4>
+    <a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-poner-punto-google-maps-viajes-semana-santa-3291400.jpg?tf=1200x' alt='Cómo poner a punto Google Maps para tus viajes de Semana Santa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167'>Spotify se propone competir con YouTube con la próxima actualización</a></h4>
+    <a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spotify-propone-competir-youtube-proxima-actualizacion-3292561.jpg?tf=1200x' alt='Spotify se propone competir con YouTube con la próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198'>Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada</a></h4>
     <a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dueno-recupera-ferrari-f40-robado-hace-24-anos-3286336.jpg?tf=1200x' alt='Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150'>El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT</a></h4>
     <a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configurar-google-maps-evitar-radares-dgt-semana-santa-1375149'>Cómo configurar Google Maps para evitar los radares fijos y móviles de la DGT en Semana Santa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configurar-google-maps-evitar-radares-dgt-semana-santa-1375149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-configurar-google-maps-evitar-radares-fijos-moviles-dgt-semana-santa-3292537.jpg?tf=1200x' alt='Cómo configurar Google Maps para evitar los radares fijos y móviles de la DGT en Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ipad-air-hunde-precio-ya-barato-hermano-pequeno-1374765'>El iPad Air con M1 hunde su precio y ya es más barato que su hermano pequeño</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ipad-air-hunde-precio-ya-barato-hermano-pequeno-1374765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg?tf=1200x' alt='El iPad Air con M1 hunde su precio y ya es más barato que su hermano pequeño' />
     </a>
 </div>
 
