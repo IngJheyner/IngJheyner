@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046'>Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años</a></h4>
+    <a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-3292305.jpg?tf=1200x' alt='Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038'>¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-26-marzo-2024-3292285.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016'>Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013'>Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laliga-afirma-falta-solo-paso-ver-futbol-gratis-iptv-sea-casi-imposible-3201728.jpg?tf=1200x' alt='Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países' />
     </a>
 </div>
 
