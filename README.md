@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102'>Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales</a></h4>
+    <a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-momento-perfecto-trastorno-provocan-redes-sociales-3292411.jpg?tf=1200x' alt='Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086'>Es el Android más potente del momento, y AliExpress lo ha rebajado 400€</a></h4>
     <a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='Es el Android más potente del momento, y AliExpress lo ha rebajado 400€' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167'>Spotify se propone competir con YouTube con la próxima actualización</a></h4>
     <a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spotify-propone-competir-youtube-proxima-actualizacion-3292561.jpg?tf=1200x' alt='Spotify se propone competir con YouTube con la próxima actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198'>Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada</a></h4>
-    <a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dueno-recupera-ferrari-f40-robado-hace-24-anos-3286336.jpg?tf=1200x' alt='Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada' />
     </a>
 </div>
 
