@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079'>El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/neuralink-implante-cerebral-3292436.jpg?tf=1200x' alt='El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-ultra-tiene-300-euros-descuento-pero-acabando-oferta-1375082'>El Samsung Galaxy S24 Ultra tiene más de 300 euros de descuento, pero se está acabando la oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-ultra-tiene-300-euros-descuento-pero-acabando-oferta-1375082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra tiene más de 300 euros de descuento, pero se está acabando la oferta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022'>Las 10 mejores formas de proteger tus chats en Telegram</a></h4>
     <a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-formas-proteger-chats-telegram-3292296.jpg?tf=1200x' alt='Las 10 mejores formas de proteger tus chats en Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888'>Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/poco-m6-pro-3292031.jpg?tf=1200x' alt='Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz' />
     </a>
 </div>
 
