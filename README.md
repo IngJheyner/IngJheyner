@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150'>El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT</a></h4>
+    <a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/configurar-google-maps-evitar-radares-dgt-semana-santa-1375149'>Cómo configurar Google Maps para evitar los radares fijos y móviles de la DGT en Semana Santa</a></h4>
     <a href='https://computerhoy.com/tutoriales/configurar-google-maps-evitar-radares-dgt-semana-santa-1375149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-configurar-google-maps-evitar-radares-fijos-moviles-dgt-semana-santa-3292537.jpg?tf=1200x' alt='Cómo configurar Google Maps para evitar los radares fijos y móviles de la DGT en Semana Santa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083'>El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futuro-creatividad-nuevo-apple-pencil-apple-vision-pro-3292392.jpg?tf=1200x' alt='El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079'>El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/neuralink-implante-cerebral-3292436.jpg?tf=1200x' alt='El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente' />
     </a>
 </div>
 
