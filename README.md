@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362'>La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará </a></h4>
+    <a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wwdc-2024-apple-ya-tiene-fecha-presentara-3292907.jpg?tf=1200x' alt='La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359'>Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC</a></h4>
+    <a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-anuncia-ambicioso-programa-acelerar-uso-inteligencia-artificial-nueva-era-ai-pc-3292880.jpg?tf=1200x' alt='Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065'>Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja</a></h4>
     <a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mllse-m2-air-mini-pc-3291637.jpg?tf=1200x' alt='Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337'>Movistar Plus+ integra todos los contenidos de HBO Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='Movistar Plus+ integra todos los contenidos de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321'>Las ventas de vinilos vuelven a batir récords en 2023, y ya doblan en ganancias a los CDs musicales</a></h4>
-    <a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/venta-vinilos-vuelve-batir-records-2023-ya-dobla-ganancias-cds-musicales-3292818.jpg?tf=1200x' alt='Las ventas de vinilos vuelven a batir récords en 2023, y ya doblan en ganancias a los CDs musicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125'>Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado</a></h4>
-    <a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-hallazgo-marte-tuvo-agua-abundancia-hace-menos-tiempo-esperado-3292469.jpg?tf=1200x' alt='Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado' />
     </a>
 </div>
 
