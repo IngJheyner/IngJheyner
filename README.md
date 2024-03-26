@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702'>He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo</a></h4>
+    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sony-bravia-xr-a95l-3292227.jpg?tf=1200x' alt='He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975'>5 portátiles chinos de AliExpress con Windows 11 que son una ganga</a></h4>
     <a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg?tf=1200x' alt='5 portátiles chinos de AliExpress con Windows 11 que son una ganga' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038'>¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-26-marzo-2024-3292285.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031'>Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes</a></h4>
-    <a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-presto-nuevo-sistema-apple-actualizar-iphone-nuevos-sacarlos-caja-reducir-fraudes-3292272.jpg?tf=1200x' alt='Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes' />
     </a>
 </div>
 
