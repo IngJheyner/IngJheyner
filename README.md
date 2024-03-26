@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-ultra-tiene-300-euros-descuento-pero-acabando-oferta-1375082'>El Samsung Galaxy S24 Ultra tiene más de 300 euros de descuento, pero se está acabando la oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-s24-ultra-tiene-300-euros-descuento-pero-acabando-oferta-1375082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='El Samsung Galaxy S24 Ultra tiene más de 300 euros de descuento, pero se está acabando la oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/futuro-arquitectura-estara-europa-edificio-impreso-3d-grande-1375067'>El futuro de la arquitectura estará en Europa con el edificio impreso en 3D más grande</a></h4>
+    <a href='https://computerhoy.com/tecnologia/futuro-arquitectura-estara-europa-edificio-impreso-3d-grande-1375067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/centro-datos-impresion-3d-3292376.jpg?tf=1200x' alt='El futuro de la arquitectura estará en Europa con el edificio impreso en 3D más grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-usar-flipper-zero-probar-seguridad-red-domestica-1375040'>Cómo usar Flipper Zero para probar la seguridad de tu red doméstica</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-usar-flipper-zero-probar-seguridad-red-domestica-1375040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-usar-flipper-zero-probar-seguridad-red-domestica-3292304.jpg?tf=1200x' alt='Cómo usar Flipper Zero para probar la seguridad de tu red doméstica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022'>Las 10 mejores formas de proteger tus chats en Telegram</a></h4>
     <a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-formas-proteger-chats-telegram-3292296.jpg?tf=1200x' alt='Las 10 mejores formas de proteger tus chats en Telegram' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888'>Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz</a></h4>
     <a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/poco-m6-pro-3292031.jpg?tf=1200x' alt='Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702'>He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sony-bravia-xr-a95l-3292227.jpg?tf=1200x' alt='He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975'>5 portátiles chinos de AliExpress con Windows 11 que son una ganga</a></h4>
-    <a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg?tf=1200x' alt='5 portátiles chinos de AliExpress con Windows 11 que son una ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935'>Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg?tf=1200x' alt='Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro' />
     </a>
 </div>
 
