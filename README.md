@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198'>Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada</a></h4>
+    <a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dueno-recupera-ferrari-f40-robado-hace-24-anos-3286336.jpg?tf=1200x' alt='Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117'>¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz</a></h4>
+    <a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vlogger-nueva-ia-google-promete-hacer-fotos-cobren-vida-voz-3292467.jpg?tf=1200x' alt='¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150'>El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT</a></h4>
     <a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ipad-air-hunde-precio-ya-barato-hermano-pequeno-1374765'>El iPad Air con M1 hunde su precio y ya es más barato que su hermano pequeño</a></h4>
     <a href='https://computerhoy.com/tecnologia/ipad-air-hunde-precio-ya-barato-hermano-pequeno-1374765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/ipad-air-5a-generacion-analisis-opinion-2667697.jpg?tf=1200x' alt='El iPad Air con M1 hunde su precio y ya es más barato que su hermano pequeño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/revolut-lanza-propia-esim-roaming-global-convierte-primer-banco-digital-hacerlo-1375111'>Revolut lanza su propia eSIM con roaming global y se convierte en el primer banco digital en hacerlo</a></h4>
-    <a href='https://computerhoy.com/internet/revolut-lanza-propia-esim-roaming-global-convierte-primer-banco-digital-hacerlo-1375111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/revolut-esim-3292517.jpg?tf=1200x' alt='Revolut lanza su propia eSIM con roaming global y se convierte en el primer banco digital en hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083'>El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futuro-creatividad-nuevo-apple-pencil-apple-vision-pro-3292392.jpg?tf=1200x' alt='El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro' />
     </a>
 </div>
 
