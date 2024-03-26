@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975'>5 portátiles chinos de AliExpress con Windows 11 que son una ganga</a></h4>
+    <a href='https://computerhoy.com/pc/5-portatiles-chinos-aliexpress-windows-11-son-ganga-1374975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/teclast-f15-plus2-2566967.jpg?tf=1200x' alt='5 portátiles chinos de AliExpress con Windows 11 que son una ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935'>Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg?tf=1200x' alt='Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046'>Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años</a></h4>
     <a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-3292305.jpg?tf=1200x' alt='Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031'>Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes</a></h4>
     <a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-presto-nuevo-sistema-apple-actualizar-iphone-nuevos-sacarlos-caja-reducir-fraudes-3292272.jpg?tf=1200x' alt='Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788'>Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-pesa-165-kg-cuesta-menos-200-euros-viene-windows-11-instalado-1374788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/teclast-f16-plus-3291822.jpg?tf=1200x' alt='Este portátil pesa 1,65 kg, cuesta menos de 200 euros y viene con Windows 11 instalado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016'>Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-todas-novedades-android-auto-116-ya-puedes-descargar-1375016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870273.jpg?tf=1200x' alt='Estas son todas las novedades de Android Auto 11.6 que ya puedes descargar' />
     </a>
 </div>
 
