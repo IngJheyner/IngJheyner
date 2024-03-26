@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/revolut-lanza-propia-esim-roaming-global-convierte-primer-banco-digital-hacerlo-1375111'>Revolut lanza su propia eSIM con roaming global y se convierte en el primer banco digital en hacerlo</a></h4>
+    <a href='https://computerhoy.com/internet/revolut-lanza-propia-esim-roaming-global-convierte-primer-banco-digital-hacerlo-1375111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/revolut-esim-3292517.jpg?tf=1200x' alt='Revolut lanza su propia eSIM con roaming global y se convierte en el primer banco digital en hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083'>El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-pencil-apple-vision-pro-unen-futuro-creativo-1375083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futuro-creatividad-nuevo-apple-pencil-apple-vision-pro-3292392.jpg?tf=1200x' alt='El futuro de la creatividad con el nuevo Apple Pencil y las Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079'>El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-usuario-implante-cerebral-neuralink-domina-ajedrez-mente-1375079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/neuralink-implante-cerebral-3292436.jpg?tf=1200x' alt='El primer usuario con el implante cerebral de Neuralink domina el ajedrez con la mente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/futuro-arquitectura-estara-europa-edificio-impreso-3d-grande-1375067'>El futuro de la arquitectura estará en Europa con el edificio impreso en 3D más grande</a></h4>
     <a href='https://computerhoy.com/tecnologia/futuro-arquitectura-estara-europa-edificio-impreso-3d-grande-1375067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/centro-datos-impresion-3d-3292376.jpg?tf=1200x' alt='El futuro de la arquitectura estará en Europa con el edificio impreso en 3D más grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-usar-flipper-zero-probar-seguridad-red-domestica-1375040'>Cómo usar Flipper Zero para probar la seguridad de tu red doméstica</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-usar-flipper-zero-probar-seguridad-red-domestica-1375040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-usar-flipper-zero-probar-seguridad-red-domestica-3292304.jpg?tf=1200x' alt='Cómo usar Flipper Zero para probar la seguridad de tu red doméstica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022'>Las 10 mejores formas de proteger tus chats en Telegram</a></h4>
-    <a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-formas-proteger-chats-telegram-3292296.jpg?tf=1200x' alt='Las 10 mejores formas de proteger tus chats en Telegram' />
     </a>
 </div>
 
