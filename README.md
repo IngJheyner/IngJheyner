@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086'>Es el Android más potente del momento, y AliExpress lo ha rebajado 400€</a></h4>
+    <a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='Es el Android más potente del momento, y AliExpress lo ha rebajado 400€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156'>¿Cuándo serán los próximos eclipses, y podrán verse desde España?</a></h4>
     <a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-seran-proximos-eclipses-podran-verse-espana-3292539.jpg?tf=1200x' alt='¿Cuándo serán los próximos eclipses, y podrán verse desde España?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198'>Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada</a></h4>
     <a href='https://computerhoy.com/motor/ferrari-f40-robado-24-anos-aparece-forma-inesperada-1375198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dueno-recupera-ferrari-f40-robado-hace-24-anos-3286336.jpg?tf=1200x' alt='Le robaron su Ferrari F40 hace 24 años, y lo encuentra de la forma más inesperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117'>¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz</a></h4>
-    <a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vlogger-nueva-ia-google-promete-hacer-fotos-cobren-vida-voz-3292467.jpg?tf=1200x' alt='¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz' />
     </a>
 </div>
 
