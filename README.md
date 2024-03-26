@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125'>Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado</a></h4>
+    <a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-hallazgo-marte-tuvo-agua-abundancia-hace-menos-tiempo-esperado-3292469.jpg?tf=1200x' alt='Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102'>Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales</a></h4>
     <a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-momento-perfecto-trastorno-provocan-redes-sociales-3292411.jpg?tf=1200x' alt='Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398'>Cómo poner a punto Google Maps para tus viajes de Semana Santa</a></h4>
     <a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-poner-punto-google-maps-viajes-semana-santa-3291400.jpg?tf=1200x' alt='Cómo poner a punto Google Maps para tus viajes de Semana Santa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167'>Spotify se propone competir con YouTube con la próxima actualización</a></h4>
-    <a href='https://computerhoy.com/apps/spotify-anadira-videos-cursos-competir-youtube-1375167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/spotify-propone-competir-youtube-proxima-actualizacion-3292561.jpg?tf=1200x' alt='Spotify se propone competir con YouTube con la próxima actualización' />
     </a>
 </div>
 
