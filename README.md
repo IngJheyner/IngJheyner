@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038'>¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-26-marzo-2024-3292285.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031'>Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes</a></h4>
     <a href='https://computerhoy.com/apple/presto-nuevo-sistema-apple-actualizar-iphone-nuevos-1375031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-presto-nuevo-sistema-apple-actualizar-iphone-nuevos-sacarlos-caja-reducir-fraudes-3292272.jpg?tf=1200x' alt='Así funciona Presto, el nuevo sistema de Apple para actualizar un iPhone nuevo sin sacarlo de la caja, y reducir los fraudes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013'>Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países</a></h4>
     <a href='https://computerhoy.com/tecnologia/reves-historico-iptv-ver-futbol-pirata-podria-extenderse-otros-paises-1375013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laliga-afirma-falta-solo-paso-ver-futbol-gratis-iptv-sea-casi-imposible-3201728.jpg?tf=1200x' alt='Revés histórico a las IPTV para ver fútbol pirata y que podría extenderse a otros países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000'>¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lore-machine-inteligencia-artificial-generativa-comics-libros-ilustraciones-1375000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711389214614-3292217.jpg?tf=1200x' alt='¿Qué es Lore Machine y qué puedes hacer con esta inteligencia artificial?' />
     </a>
 </div>
 
