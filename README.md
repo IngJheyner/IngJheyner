@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338'>Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-3292881.jpg?tf=1200x' alt='Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337'>Movistar Plus+ integra todos los contenidos de HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='Movistar Plus+ integra todos los contenidos de HBO Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321'>La venta de vinilos vuelve a batir récords en 2023, y ya doblan en ganancias a los CDs musicales</a></h4>
+    <a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/venta-vinilos-vuelve-batir-records-2023-ya-dobla-ganancias-cds-musicales-3292818.jpg?tf=1200x' alt='La venta de vinilos vuelve a batir récords en 2023, y ya doblan en ganancias a los CDs musicales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125'>Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado</a></h4>
     <a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-hallazgo-marte-tuvo-agua-abundancia-hace-menos-tiempo-esperado-3292469.jpg?tf=1200x' alt='Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102'>Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales</a></h4>
     <a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-momento-perfecto-trastorno-provocan-redes-sociales-3292411.jpg?tf=1200x' alt='Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086'>Es el Android más potente del momento, y AliExpress lo ha rebajado 400€</a></h4>
-    <a href='https://computerhoy.com/android/android-potente-momento-aliexpress-ha-rebajado-400eu-1375086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/oneplus-12-analisis-opinion-3282117.jpg?tf=1200x' alt='Es el Android más potente del momento, y AliExpress lo ha rebajado 400€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156'>¿Cuándo serán los próximos eclipses, y podrán verse desde España?</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-seran-proximos-eclipses-podran-verse-espana-3292539.jpg?tf=1200x' alt='¿Cuándo serán los próximos eclipses, y podrán verse desde España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398'>Cómo poner a punto Google Maps para tus viajes de Semana Santa</a></h4>
-    <a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-poner-punto-google-maps-viajes-semana-santa-3291400.jpg?tf=1200x' alt='Cómo poner a punto Google Maps para tus viajes de Semana Santa' />
     </a>
 </div>
 
