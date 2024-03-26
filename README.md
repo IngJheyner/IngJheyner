@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065'>Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja</a></h4>
+    <a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mllse-m2-air-mini-pc-3291637.jpg?tf=1200x' alt='Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338'>Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona</a></h4>
     <a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-3292881.jpg?tf=1200x' alt='Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321'>La venta de vinilos vuelve a batir récords en 2023, y ya doblan en ganancias a los CDs musicales</a></h4>
+    <h4><a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321'>Las ventas de vinilos vuelven a batir récords en 2023, y ya doblan en ganancias a los CDs musicales</a></h4>
     <a href='https://computerhoy.com/audio/ventas-vinilos-vuelve-batir-records-2023-1375321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/venta-vinilos-vuelve-batir-records-2023-ya-dobla-ganancias-cds-musicales-3292818.jpg?tf=1200x' alt='La venta de vinilos vuelve a batir récords en 2023, y ya doblan en ganancias a los CDs musicales' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/venta-vinilos-vuelve-batir-records-2023-ya-dobla-ganancias-cds-musicales-3292818.jpg?tf=1200x' alt='Las ventas de vinilos vuelven a batir récords en 2023, y ya doblan en ganancias a los CDs musicales' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125'>Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado</a></h4>
     <a href='https://computerhoy.com/ciencia/hallazgo-marte-tuvo-agua-abundancia-creia-1375125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-hallazgo-marte-tuvo-agua-abundancia-hace-menos-tiempo-esperado-3292469.jpg?tf=1200x' alt='Nuevo hallazgo en Marte: tuvo agua en abundancia, y hasta hace menos tiempo de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102'>Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales</a></h4>
-    <a href='https://computerhoy.com/redes/sindrome-momento-perfecto-trastorno-provocan-redes-1375102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sindrome-momento-perfecto-trastorno-provocan-redes-sociales-3292411.jpg?tf=1200x' alt='Síndrome del momento perfecto: así es el trastorno que provocan las redes sociales' />
     </a>
 </div>
 
