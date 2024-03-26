@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022'>Las 10 mejores formas de proteger tus chats en Telegram</a></h4>
+    <a href='https://computerhoy.com/apps/10-mejores-formas-proteger-chats-telegram-1375022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-mejores-formas-proteger-chats-telegram-3292296.jpg?tf=1200x' alt='Las 10 mejores formas de proteger tus chats en Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888'>Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/poco-menos-200-euros-canon-carga-67w-pantalla-120-hz-1374888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/poco-m6-pro-3292031.jpg?tf=1200x' alt='Este POCO de menos de 200 euros es un cañón: carga a 67W y pantalla 120 Hz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702'>He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo</a></h4>
     <a href='https://computerhoy.com/analisis/sony-bravia-xr-a95l-analisis-opinion-1374702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sony-bravia-xr-a95l-3292227.jpg?tf=1200x' alt='He probado la Smart TV Sony Bravia XR A95L y se ve genial, pero sobre todo se escucha de lujo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935'>Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-tiene-claro-estos-son-empleos-sobreviviran-inteligencia-artificial-futuro-1374935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/bill-gates-2879517.jpg?tf=1200x' alt='Bill Gates lo tiene claro: estos son los empleos que sobrevivirán a la inteligencia artificial en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046'>Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años</a></h4>
-    <a href='https://computerhoy.com/life/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-1375046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/viaje-lugar-infernal-planeta-donde-esperanza-vida-solo-35-anos-3292305.jpg?tf=1200x' alt='Viaje al lugar más "infernal del planeta", donde la esperanza de vida es de solo 35 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038'>¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-26-marzo-2024-1375038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-martes-26-marzo-2024-3292285.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 26 de marzo de 2024' />
     </a>
 </div>
 
