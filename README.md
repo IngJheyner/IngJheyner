@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156'>¿Cuándo serán los próximos eclipses, y podrán verse desde España?</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuando-seran-proximos-eclipses-podran-verse-espana-1375156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuando-seran-proximos-eclipses-podran-verse-espana-3292539.jpg?tf=1200x' alt='¿Cuándo serán los próximos eclipses, y podrán verse desde España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398'>Cómo poner a punto Google Maps para tus viajes de Semana Santa</a></h4>
     <a href='https://computerhoy.com/apps/como-poner-punto-google-maps-viajes-semana-santa-1374398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-poner-punto-google-maps-viajes-semana-santa-3291400.jpg?tf=1200x' alt='Cómo poner a punto Google Maps para tus viajes de Semana Santa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117'>¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz</a></h4>
     <a href='https://computerhoy.com/google/vlogger-nueva-ia-google-animar-imagenes-1375117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vlogger-nueva-ia-google-promete-hacer-fotos-cobren-vida-voz-3292467.jpg?tf=1200x' alt='¿Qué es VLOGGER? La nueva IA de Google que promete hacer que tus fotos cobren vida con voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150'>El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT</a></h4>
-    <a href='https://computerhoy.com/tv/truco-definitivo-seguir-viendo-television-alta-definicion-apagon-tdt-1375150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El truco definitivo para seguir viendo la televisión en alta definición tras el apagón de la TDT' />
     </a>
 </div>
 
