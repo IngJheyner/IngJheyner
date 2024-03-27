@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621'>Consiguen un Internet 4,5 millones de veces más rápido que el actual</a></h4>
+    <a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/fibra-optica-2038471.jpg?tf=1200x' alt='Consiguen un Internet 4,5 millones de veces más rápido que el actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/viral-forma-saber-pila-cargada-locura-1375619'>La viral forma para saber si una pila está cargada: “Es una locura”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viral-forma-saber-pila-cargada-locura-1375619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pilas-alcalinas-3293411.jpg?tf=1200x' alt='La viral forma para saber si una pila está cargada: “Es una locura”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412'>The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?</a></h4>
     <a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elder-scrolls-cumple-30-anos-ha-sucedido-anunciada-sexta-entrega-3292985.jpg?tf=1200x' alt='The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-1375585'>Un ataque cibernético masivo amenaza routers y móviles en todo el mundo, cuidado si usas una VPN gratuita</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-1375585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-cuidado-usas-vpn-gratuita-3293323.jpg?tf=1200x' alt='Un ataque cibernético masivo amenaza routers y móviles en todo el mundo, cuidado si usas una VPN gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/libros-gratis-dos-meses-amazon-regala-kindle-unlimited-forma-temporal-permanencia-1374874'>Libros gratis dos meses: Amazon regala Kindle Unlimited de forma temporal y sin permanencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/libros-gratis-dos-meses-amazon-regala-kindle-unlimited-forma-temporal-permanencia-1374874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/kindle-oasis-2124687.jpg?tf=1200x' alt='Libros gratis dos meses: Amazon regala Kindle Unlimited de forma temporal y sin permanencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494'>Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ojo-oferta-infojobs-estafa-quiere-robar-datos-bancarios-3293172.jpg?tf=1200x' alt='Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios' />
     </a>
 </div>
 
