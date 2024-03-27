@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482'>¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suficientemente-potente-raspberry-pi-5-ejecutar-juegos-3291458.jpg?tf=1200x' alt='¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m1-rebajado-vez-959-euros-cuatro-anos-despues-1375385'>Tiene cuatro años, Apple no lo vende pero sigue funcionando como un reloj: el MacBook Air M1 por 959€ es una de las mejores opciones si buscas portátil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/macbook-air-m1-rebajado-vez-959-euros-cuatro-anos-despues-1375385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Tiene cuatro años, Apple no lo vende pero sigue funcionando como un reloj: el MacBook Air M1 por 959€ es una de las mejores opciones si buscas portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486'>El nuevo plan de los científicos para encontrar vida en otros planetas</a></h4>
     <a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-plan-cientificos-encontrar-vida-otros-planetas-3293168.jpg?tf=1200x' alt='El nuevo plan de los científicos para encontrar vida en otros planetas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464'>Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación</a></h4>
     <a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-nuevas-funciones-excel-ha-anadido-microsoft-aplicacion-3293111.jpg?tf=1200x' alt='Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevas-gafas-inteligentes-xiaomi-precio-irresistible-1375438'>Xiaomi revoluciona el mercado con sus nuevas gafas inteligentes a un precio irresistible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevas-gafas-inteligentes-xiaomi-precio-irresistible-1375438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-revoluciona-mercado-nuevas-gafas-inteligentes-precio-irresistible-3293061.jpg?tf=1200x' alt='Xiaomi revoluciona el mercado con sus nuevas gafas inteligentes a un precio irresistible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-chrome-actualiza-version-esperada-navegador-windows-1375426'>Google Chrome se actualiza con la versión más esperada del navegador para Windows</a></h4>
-    <a href='https://computerhoy.com/google/google-chrome-actualiza-version-esperada-navegador-windows-1375426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3293064.jpg?tf=1200x' alt='Google Chrome se actualiza con la versión más esperada del navegador para Windows' />
     </a>
 </div>
 
