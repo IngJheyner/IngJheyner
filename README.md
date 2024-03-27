@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-errror-xiaomi-cuesta-69-euros-merece-pena-incluso-tenerlo-cajon-1375119'>No es un errror: este Xiaomi cuesta 69 euros y merece la pena incluso para tenerlo en un cajón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-errror-xiaomi-cuesta-69-euros-merece-pena-incluso-tenerlo-cajon-1375119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-a3-3292414.jpg?tf=1200x' alt='No es un errror: este Xiaomi cuesta 69 euros y merece la pena incluso para tenerlo en un cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-usuarios-iphone-prefieren-apple-maps-estudio-1375193'>Un nuevo estudio demoledor: ni los usuarios de iPhone prefieren Apple Maps</a></h4>
+    <a href='https://computerhoy.com/apps/ni-usuarios-iphone-prefieren-apple-maps-estudio-1375193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Un nuevo estudio demoledor: ni los usuarios de iPhone prefieren Apple Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919'>He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento</a></h4>
     <a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-ultra-3292476.jpg?tf=1200x' alt='He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-baterias-adicionales-gopro-puedes-comprar-1375120'>Mejores baterías adicionales para GoPro que puedes comprar</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-baterias-adicionales-gopro-puedes-comprar-1375120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='Mejores baterías adicionales para GoPro que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370'>¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-27-marzo-2024-3292919.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362'>La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará </a></h4>
-    <a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wwdc-2024-apple-ya-tiene-fecha-presentara-3292907.jpg?tf=1200x' alt='La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará ' />
     </a>
 </div>
 
