@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sociabilizar-te-agota-explicacion-da-ciencia-1375511'>¿Sociabilizar te agota? Esta es la explicación que da la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/sociabilizar-te-agota-explicacion-da-ciencia-1375511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sociabilizar-te-agota-explicacion-da-ciencia-3293196.jpg?tf=1200x' alt='¿Sociabilizar te agota? Esta es la explicación que da la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-1375585'>Un ataque cibernético masivo amenaza routers y móviles en todo el mundo, cuidado si usas una VPN gratuita</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-1375585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ataque-cibernetico-masivo-amenaza-routers-moviles-todo-mundo-cuidado-usas-vpn-gratuita-3293323.jpg?tf=1200x' alt='Un ataque cibernético masivo amenaza routers y móviles en todo el mundo, cuidado si usas una VPN gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/libros-gratis-dos-meses-amazon-regala-kindle-unlimited-forma-temporal-permanencia-1374874'>Libros gratis dos meses: Amazon regala Kindle Unlimited de forma temporal y sin permanencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/libros-gratis-dos-meses-amazon-regala-kindle-unlimited-forma-temporal-permanencia-1374874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/kindle-oasis-2124687.jpg?tf=1200x' alt='Libros gratis dos meses: Amazon regala Kindle Unlimited de forma temporal y sin permanencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494'>Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ojo-oferta-infojobs-estafa-quiere-robar-datos-bancarios-3293172.jpg?tf=1200x' alt='Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528'>Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit</a></h4>
     <a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-logra-dar-paso-gigante-computacion-cuantica-fabricacion-industrial-primer-cubit-3293263.jpg?tf=1200x' alt='Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-crear-personalizar-propios-iconos-windows-11-1374486'>Así puedes crear y personalizar tus propios iconos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-crear-personalizar-propios-iconos-windows-11-1374486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-crear-personalizar-propios-iconos-windows-11-3291466.jpg?tf=1200x' alt='Así puedes crear y personalizar tus propios iconos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ventajas-desventajas-tener-hogar-inteligente-1370246'>Ventajas y desventajas de tener un hogar inteligente, ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.com/hogar/ventajas-desventajas-tener-hogar-inteligente-1370246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ventajas-desventajas-tener-hogar-inteligente-merece-pena-3283967.jpg?tf=1200x' alt='Ventajas y desventajas de tener un hogar inteligente, ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482'>¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suficientemente-potente-raspberry-pi-5-ejecutar-juegos-3291458.jpg?tf=1200x' alt='¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?' />
     </a>
 </div>
 
