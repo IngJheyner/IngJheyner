@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919'>He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-ultra-3292476.jpg?tf=1200x' alt='He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/5-ghz-fps-aburrir-ryzen-7-7800x3d-precio-locos-forma-temporal-1374823'>Hasta 5 GHz y FPS para aburrir: el Ryzen 7 7800X3D está a precio de locos de forma temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-ghz-fps-aburrir-ryzen-7-7800x3d-precio-locos-forma-temporal-1374823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='Hasta 5 GHz y FPS para aburrir: el Ryzen 7 7800X3D está a precio de locos de forma temporal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362'>La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará </a></h4>
     <a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wwdc-2024-apple-ya-tiene-fecha-presentara-3292907.jpg?tf=1200x' alt='La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359'>Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC</a></h4>
-    <a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-anuncia-ambicioso-programa-acelerar-uso-inteligencia-artificial-nueva-era-ai-pc-3292880.jpg?tf=1200x' alt='Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC' />
     </a>
 </div>
 
