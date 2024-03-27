@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412'>The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?</a></h4>
+    <a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elder-scrolls-cumple-30-anos-ha-sucedido-anunciada-sexta-entrega-3292985.jpg?tf=1200x' alt='The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sociabilizar-te-agota-explicacion-da-ciencia-1375511'>¿Sociabilizar te agota? Esta es la explicación que da la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/sociabilizar-te-agota-explicacion-da-ciencia-1375511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sociabilizar-te-agota-explicacion-da-ciencia-3293196.jpg?tf=1200x' alt='¿Sociabilizar te agota? Esta es la explicación que da la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494'>Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-infojobs-quiere-robar-datos-1375494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ojo-oferta-infojobs-estafa-quiere-robar-datos-bancarios-3293172.jpg?tf=1200x' alt='Ojo a esta oferta de InfoJobs: es una estafa que quiere robar tus datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528'>Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-logra-dar-paso-gigante-computacion-cuantica-fabricacion-industrial-primer-cubit-3293263.jpg?tf=1200x' alt='Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit' />
     </a>
 </div>
 
