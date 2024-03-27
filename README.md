@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-demuestra-vulnerable-seguridad-1375414'>Flipper Zero demuestra lo vulnerable que es nuestra seguridad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-demuestra-vulnerable-seguridad-1375414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-padres-juguete-generador-problemas-3250388.jpg?tf=1200x' alt='Flipper Zero demuestra lo vulnerable que es nuestra seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevos-posibles-colores-iphone-16-pro-1375404'>Estos son los nuevos posibles colores del iPhone 16 Pro</a></h4>
+    <a href='https://computerhoy.com/apple/nuevos-posibles-colores-iphone-16-pro-1375404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevos-posibles-colores-iphone-16-pro-3292971.jpg?tf=1200x' alt='Estos son los nuevos posibles colores del iPhone 16 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/aplicacion-copilot-aparece-inesperadamente-windows-11-permiso-1375402'>La aplicación Copilot aparece inesperadamente en Windows 11 sin permiso</a></h4>
     <a href='https://computerhoy.com/windows/aplicacion-copilot-aparece-inesperadamente-windows-11-permiso-1375402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/copilot-windows-11-3292986.jpg?tf=1200x' alt='La aplicación Copilot aparece inesperadamente en Windows 11 sin permiso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-errror-xiaomi-cuesta-69-euros-merece-pena-incluso-tenerlo-cajon-1375119'>No es un errror: este Xiaomi cuesta 69 euros y merece la pena incluso para tenerlo en un cajón</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-errror-xiaomi-cuesta-69-euros-merece-pena-incluso-tenerlo-cajon-1375119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-a3-3292414.jpg?tf=1200x' alt='No es un errror: este Xiaomi cuesta 69 euros y merece la pena incluso para tenerlo en un cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-usuarios-iphone-prefieren-apple-maps-estudio-1375193'>Un nuevo estudio demoledor: ni los usuarios de iPhone prefieren Apple Maps</a></h4>
-    <a href='https://computerhoy.com/apps/ni-usuarios-iphone-prefieren-apple-maps-estudio-1375193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Un nuevo estudio demoledor: ni los usuarios de iPhone prefieren Apple Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919'>He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-14-ultra-analisis-opinion-1374919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-14-ultra-3292476.jpg?tf=1200x' alt='He analizado el Xiaomi 14 Ultra y no tengo ninguna duda: este móvil tiene de lejos la mejor cámara del momento' />
     </a>
 </div>
 
