@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ventajas-desventajas-tener-hogar-inteligente-1370246'>Ventajas y desventajas de tener un hogar inteligente, ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.com/hogar/ventajas-desventajas-tener-hogar-inteligente-1370246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ventajas-desventajas-tener-hogar-inteligente-merece-pena-3283967.jpg?tf=1200x' alt='Ventajas y desventajas de tener un hogar inteligente, ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482'>¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?</a></h4>
     <a href='https://computerhoy.com/tecnologia/suficientemente-potente-raspberry-pi5-ejecutar-juegos-1374482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/suficientemente-potente-raspberry-pi-5-ejecutar-juegos-3291458.jpg?tf=1200x' alt='¿Es lo suficientemente potente Raspberry Pi 5 para ejecutar juegos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437'>Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa</a></h4>
     <a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ai-pin-humane-3252326.jpg?tf=1200x' alt='Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464'>Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-nuevas-funciones-excel-ha-anadido-microsoft-aplicacion-3293111.jpg?tf=1200x' alt='Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación' />
     </a>
 </div>
 
