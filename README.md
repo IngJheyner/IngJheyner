@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-ghz-fps-aburrir-ryzen-7-7800x3d-precio-locos-forma-temporal-1374823'>Hasta 5 GHz y FPS para aburrir: el Ryzen 7 7800X3D está a precio de locos de forma temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-ghz-fps-aburrir-ryzen-7-7800x3d-precio-locos-forma-temporal-1374823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/amd-ryzen-3283941.jpg?tf=1200x' alt='Hasta 5 GHz y FPS para aburrir: el Ryzen 7 7800X3D está a precio de locos de forma temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-baterias-adicionales-gopro-puedes-comprar-1375120'>Mejores baterías adicionales para GoPro que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-baterias-adicionales-gopro-puedes-comprar-1375120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gopro-hero-12-black-3282563.jpg?tf=1200x' alt='Mejores baterías adicionales para GoPro que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370'>¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-27-marzo-2024-3292919.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359'>Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC</a></h4>
     <a href='https://computerhoy.com/pc/intel-anuncia-ambicioso-programa-acelerar-nueva-era-ai-pc-1375359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-anuncia-ambicioso-programa-acelerar-uso-inteligencia-artificial-nueva-era-ai-pc-3292880.jpg?tf=1200x' alt='Intel anuncia un ambicioso programa para acelerar el uso de la inteligencia artificial en la nueva era de los AI PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065'>Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/barato-movil-xiaomi-windows-11-pc-quiere-colarse-casa-gran-rebaja-1375065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mllse-m2-air-mini-pc-3291637.jpg?tf=1200x' alt='Más barato que un móvil Xiaomi y con Windows 11: este PC quiere colarse en tu casa con una gran rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338'>Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-3292881.jpg?tf=1200x' alt='Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona' />
     </a>
 </div>
 
