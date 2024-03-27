@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528'>Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-logra-fabricar-cubit-manera-industrial-1375528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/intel-logra-dar-paso-gigante-computacion-cuantica-fabricacion-industrial-primer-cubit-3293263.jpg?tf=1200x' alt='Intel logra dar un paso de gigante en computación cuántica con la fabricación industrial del primer cúbit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-crear-personalizar-propios-iconos-windows-11-1374486'>Así puedes crear y personalizar tus propios iconos en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-crear-personalizar-propios-iconos-windows-11-1374486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/puedes-crear-personalizar-propios-iconos-windows-11-3291466.jpg?tf=1200x' alt='Así puedes crear y personalizar tus propios iconos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/macbook-air-m1-rebajado-vez-959-euros-cuatro-anos-despues-1375385'>Tiene cuatro años, Apple no lo vende pero sigue funcionando como un reloj: el MacBook Air M1 por 959€ es una de las mejores opciones si buscas portátil</a></h4>
     <a href='https://computerhoy.com/tecnologia/macbook-air-m1-rebajado-vez-959-euros-cuatro-anos-despues-1375385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/macbook-air-3245410.jpg?tf=1200x' alt='Tiene cuatro años, Apple no lo vende pero sigue funcionando como un reloj: el MacBook Air M1 por 959€ es una de las mejores opciones si buscas portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486'>El nuevo plan de los científicos para encontrar vida en otros planetas</a></h4>
-    <a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-plan-cientificos-encontrar-vida-otros-planetas-3293168.jpg?tf=1200x' alt='El nuevo plan de los científicos para encontrar vida en otros planetas' />
     </a>
 </div>
 
