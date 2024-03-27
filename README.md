@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370'>¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-27-marzo-2024-1375370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-miercoles-27-marzo-2024-3292919.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 27 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362'>La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará </a></h4>
     <a href='https://computerhoy.com/apple/wwdc-2024-apple-fecha-1375362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wwdc-2024-apple-ya-tiene-fecha-presentara-3292907.jpg?tf=1200x' alt='La WWDC 2024 de Apple ya tiene fecha: esto es lo que presentará ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338'>Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona</a></h4>
     <a href='https://computerhoy.com/tecnologia/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-1375338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/utiliza-impresora-3d-clonar-mac-plus-anos-80-mejor-todo-funciona-3292881.jpg?tf=1200x' alt='Utiliza una impresora 3D para clonar un Mac Plus de los años 80 y lo mejor de todo es que funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337'>Movistar Plus+ integra todos los contenidos de HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-integra-todos-contenidos-hbo-max-1375337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/hbo-max-venir-elimina-resolucion-4k-usuarios-plan-anuncios-3214564.jpg?tf=1200x' alt='Movistar Plus+ integra todos los contenidos de HBO Max' />
     </a>
 </div>
 
