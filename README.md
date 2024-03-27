@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437'>Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ai-pin-humane-3252326.jpg?tf=1200x' alt='Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464'>Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación</a></h4>
+    <a href='https://computerhoy.com/apps/4-nuevas-funciones-excel-ha-anadido-microsoft-mes-1375464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-nuevas-funciones-excel-ha-anadido-microsoft-aplicacion-3293111.jpg?tf=1200x' alt='Las 4 nuevas funciones de Excel que ha añadido Microsoft a la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevas-gafas-inteligentes-xiaomi-precio-irresistible-1375438'>Xiaomi revoluciona el mercado con sus nuevas gafas inteligentes a un precio irresistible</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevas-gafas-inteligentes-xiaomi-precio-irresistible-1375438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-revoluciona-mercado-nuevas-gafas-inteligentes-precio-irresistible-3293061.jpg?tf=1200x' alt='Xiaomi revoluciona el mercado con sus nuevas gafas inteligentes a un precio irresistible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-pro-2-acerca-precio-historico-hay-pocos-relojes-mejores-1375142'>Este Garmin es mejor que un Fenix, tiene 31 días de batería y pantalla OLED: Amazon lo vende 200 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-epix-pro-2-acerca-precio-historico-hay-pocos-relojes-mejores-1375142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3249490.jpg?tf=1200x' alt='Este Garmin es mejor que un Fenix, tiene 31 días de batería y pantalla OLED: Amazon lo vende 200 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-demuestra-vulnerable-seguridad-1375414'>Flipper Zero demuestra lo vulnerable que es nuestra seguridad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-demuestra-vulnerable-seguridad-1375414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-padres-juguete-generador-problemas-3250388.jpg?tf=1200x' alt='Flipper Zero demuestra lo vulnerable que es nuestra seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nuevos-posibles-colores-iphone-16-pro-1375404'>Estos son los nuevos posibles colores del iPhone 16 Pro</a></h4>
-    <a href='https://computerhoy.com/apple/nuevos-posibles-colores-iphone-16-pro-1375404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevos-posibles-colores-iphone-16-pro-3292971.jpg?tf=1200x' alt='Estos son los nuevos posibles colores del iPhone 16 Pro' />
     </a>
 </div>
 
