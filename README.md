@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486'>El nuevo plan de los científicos para encontrar vida en otros planetas</a></h4>
+    <a href='https://computerhoy.com/ciencia/nuevo-plan-encontrar-vida-extraterrestre-1375486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nuevo-plan-cientificos-encontrar-vida-otros-planetas-3293168.jpg?tf=1200x' alt='El nuevo plan de los científicos para encontrar vida en otros planetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437'>Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa</a></h4>
     <a href='https://computerhoy.com/tecnologia/humane-ai-pin-empezara-enviar-finales-marzo-pero-no-europa-1375437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/ai-pin-humane-3252326.jpg?tf=1200x' alt='Humane AI Pin se empezará a enviar a finales de marzo, pero no a Europa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-chrome-actualiza-version-esperada-navegador-windows-1375426'>Google Chrome se actualiza con la versión más esperada del navegador para Windows</a></h4>
     <a href='https://computerhoy.com/google/google-chrome-actualiza-version-esperada-navegador-windows-1375426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3293064.jpg?tf=1200x' alt='Google Chrome se actualiza con la versión más esperada del navegador para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-pro-2-acerca-precio-historico-hay-pocos-relojes-mejores-1375142'>Este Garmin es mejor que un Fenix, tiene 31 días de batería y pantalla OLED: Amazon lo vende 200 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-epix-pro-2-acerca-precio-historico-hay-pocos-relojes-mejores-1375142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3249490.jpg?tf=1200x' alt='Este Garmin es mejor que un Fenix, tiene 31 días de batería y pantalla OLED: Amazon lo vende 200 euros más barato' />
     </a>
 </div>
 
