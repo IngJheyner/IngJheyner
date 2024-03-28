@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804'>¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-29-marzo-2024-3293672.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801'>¿Por qué la sangre humana es de color verde en el fondo del mar?</a></h4>
     <a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sabias-sangre-color-verde-fondo-mar-3293663.jpg?tf=1200x' alt='¿Por qué la sangre humana es de color verde en el fondo del mar?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761'>Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel</a></h4>
     <a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-bankman-fried-ceo-plataforma-criptos-ftx-pasara-cuarto-siglo-carcel-3293617.jpg?tf=1200x' alt='Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366'>Las plataformas de internet más hackeadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/plataformas-internet-hackeadas-3292921.jpg?tf=1200x' alt='Las plataformas de internet más hackeadas' />
     </a>
 </div>
 
