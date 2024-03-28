@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688'>Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272676.jpg?tf=1200x' alt='Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677'>Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ </a></h4>
     <a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663'>Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos</a></h4>
     <a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-primeras-imagenes-consola-xbox-series-x-lector-discos-3293477.jpg?tf=1200x' alt='Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043'>Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5' />
     </a>
 </div>
 
