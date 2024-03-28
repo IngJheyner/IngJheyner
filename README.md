@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677'>Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ </a></h4>
+    <a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/router-gigabit-amazon-sigue-rebajas-cubre-140-m2-exprime-fibra-maximo-1375409'>El router gigabit de Amazon sigue de rebajas: cubre 140 m2 y exprime tu fibra al máximo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/router-gigabit-amazon-sigue-rebajas-cubre-140-m2-exprime-fibra-maximo-1375409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/eero-6-3292965.jpg?tf=1200x' alt='El router gigabit de Amazon sigue de rebajas: cubre 140 m2 y exprime tu fibra al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995'>¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?</a></h4>
     <a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-3292273.jpg?tf=1200x' alt='¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043'>Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5</a></h4>
     <a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208'>Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-5-mejores-peliculas-ciencia-ficcion-historia-critica-3292663.jpg?tf=1200x' alt='Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392'>Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-doorbell-3-3292948.jpg?tf=1200x' alt='Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil' />
     </a>
 </div>
 
