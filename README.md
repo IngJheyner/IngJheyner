@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761'>Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel</a></h4>
+    <a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-bankman-fried-ceo-plataforma-criptos-ftx-pasara-cuarto-siglo-carcel-3293617.jpg?tf=1200x' alt='Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366'>Las plataformas de internet más hackeadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/plataformas-internet-hackeadas-3292921.jpg?tf=1200x' alt='Las plataformas de internet más hackeadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/twitch-prohibe-proyectar-videos-pechos-trasero-1375746'>Algunas streamers han comenzado a proyectar sus vídeos en sus pechos o en su trasero, y Twitch se ha cansado</a></h4>
+    <a href='https://computerhoy.com/gaming/twitch-prohibe-proyectar-videos-pechos-trasero-1375746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/algunas-streamers-han-comenzado-proyectar-videos-pechos-trasero-twitch-ha-cansado-3293587.jpg?tf=1200x' alt='Algunas streamers han comenzado a proyectar sus vídeos en sus pechos o en su trasero, y Twitch se ha cansado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434'>Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral</a></h4>
+    <a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-5-alimentos-debes-incluir-dieta-combatir-astenia-primaveral-3289256.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709'>Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-2-estan-rebajas-son-gafas-vr-rivales-apple-vision-cuestan-solo-249-euros-1375157'>Las Meta Quest 2 están de rebajas: son las gafas VR rivales de las Apple Vision y cuestan solo 249 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-quest-2-estan-rebajas-son-gafas-vr-rivales-apple-vision-cuestan-solo-249-euros-1375157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-quest-2-3060490.jpg?tf=1200x' alt='Las Meta Quest 2 están de rebajas: son las gafas VR rivales de las Apple Vision y cuestan solo 249 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701'>Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? </a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtra-enigmatico-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-3293552.jpg?tf=1200x' alt='Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688'>Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272676.jpg?tf=1200x' alt='Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677'>Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ </a></h4>
-    <a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ ' />
     </a>
 </div>
 
