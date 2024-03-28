@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709'>Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-quest-2-estan-rebajas-son-gafas-vr-rivales-apple-vision-cuestan-solo-249-euros-1375157'>Las Meta Quest 2 están de rebajas: son las gafas VR rivales de las Apple Vision y cuestan solo 249 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-quest-2-estan-rebajas-son-gafas-vr-rivales-apple-vision-cuestan-solo-249-euros-1375157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/meta-quest-2-3060490.jpg?tf=1200x' alt='Las Meta Quest 2 están de rebajas: son las gafas VR rivales de las Apple Vision y cuestan solo 249 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701'>Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? </a></h4>
     <a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtra-enigmatico-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-3293552.jpg?tf=1200x' alt='Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677'>Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ </a></h4>
     <a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/router-gigabit-amazon-sigue-rebajas-cubre-140-m2-exprime-fibra-maximo-1375409'>El router gigabit de Amazon sigue de rebajas: cubre 140 m2 y exprime tu fibra al máximo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/router-gigabit-amazon-sigue-rebajas-cubre-140-m2-exprime-fibra-maximo-1375409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/eero-6-3292965.jpg?tf=1200x' alt='El router gigabit de Amazon sigue de rebajas: cubre 140 m2 y exprime tu fibra al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995'>¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?</a></h4>
-    <a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-3292273.jpg?tf=1200x' alt='¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?' />
     </a>
 </div>
 
