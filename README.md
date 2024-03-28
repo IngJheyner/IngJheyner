@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434'>Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral</a></h4>
+    <a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-5-alimentos-debes-incluir-dieta-combatir-astenia-primaveral-3289256.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709'>Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688'>Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272676.jpg?tf=1200x' alt='Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677'>Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ </a></h4>
-    <a href='https://computerhoy.com/apps/muchos-seguidores-x-elon-musk-suscripcion-premium-gratis-1375677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tienes-muchos-seguidores-x-elon-musk-te-regala-suscripcion-premium-premium-3293497.jpg?tf=1200x' alt='Si tienes muchos seguidores en X, Elon Musk te regala la suscripción Premium o Premium+ ' />
     </a>
 </div>
 
