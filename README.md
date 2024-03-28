@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208'>Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-5-mejores-peliculas-ciencia-ficcion-historia-critica-3292663.jpg?tf=1200x' alt='Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392'>Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-doorbell-3-3292948.jpg?tf=1200x' alt='Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924'>Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-peliculas-series-canales-pagar-runtime-smart-tv-3292150.jpg?tf=1200x' alt='Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076'>"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo</a></h4>
     <a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-devices-group-idg-3289301.jpg?tf=1200x' alt='"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
-    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/slimbook-3293297.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642'>La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal</a></h4>
-    <a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-misuri-decide-usar-funcion-encontrar-apple-capturar-traficantes-cosa-acabo-mal-3293448.jpg?tf=1200x' alt='La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal' />
     </a>
 </div>
 
