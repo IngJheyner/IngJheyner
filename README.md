@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/primer-ataque-hacker-masivo-dirigido-servidores-inteligencia-artificial-1375780'>Detectan por primera vez un ataque hacker masivo dirigido a miles de servidores de IA</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/primer-ataque-hacker-masivo-dirigido-servidores-inteligencia-artificial-1375780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/detectan-primera-vez-ataque-hacker-masivo-dirigido-servidores-ia-3293635.jpg?tf=1200x' alt='Detectan por primera vez un ataque hacker masivo dirigido a miles de servidores de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761'>Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel</a></h4>
     <a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-bankman-fried-ceo-plataforma-criptos-ftx-pasara-cuarto-siglo-carcel-3293617.jpg?tf=1200x' alt='Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434'>Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral</a></h4>
     <a href='https://computerhoy.com/alimentacion/5-alimentos-combatir-astenia-primaveral-anadir-dieta-1373434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estos-son-5-alimentos-debes-incluir-dieta-combatir-astenia-primaveral-3289256.jpg?tf=1200x' alt='Estos son los 5 alimentos que debes incluir en tu dieta para combatir la astenia primaveral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709'>Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-va-matar-wordpad-truco-seguir-usandolo-siempre-1375709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/wordpad-windows-3124654.jpg?tf=1200x' alt='Microsoft va a matar a WordPad, pero hay un truco para seguir usándolo para siempre' />
     </a>
 </div>
 
