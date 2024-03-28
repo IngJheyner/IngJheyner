@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995'>¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?</a></h4>
+    <a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-3292273.jpg?tf=1200x' alt='¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663'>Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos</a></h4>
+    <a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-primeras-imagenes-consola-xbox-series-x-lector-discos-3293477.jpg?tf=1200x' alt='Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043'>Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-acelerar-rapida-facilmente-raspberry-pi-5-1375043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Los trucos para acelerar rápida y fácilmente tu Raspberry Pi 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208'>Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-ciencia-ficcion-historia-1375208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-5-mejores-peliculas-ciencia-ficcion-historia-critica-3292663.jpg?tf=1200x' alt='Estas son las 5 mejores películas de ciencia ficción de la historia, según la crítica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392'>Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-llama-puerta-mirilla-inalambrica-casi-mitad-precio-controla-movil-1375392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-doorbell-3-3292948.jpg?tf=1200x' alt='Xiaomi llama a tu puerta: su mirilla inalámbrica está casi a mitad de precio y se controla desde el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924'>Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-peliculas-series-canales-pagar-runtime-smart-tv-3292150.jpg?tf=1200x' alt='Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-pro-pulsera-actividad-analisis-opinion-1374001'>He probado la Xiaomi Smart Band 8 Pro y me ha entusiasmado su ligereza y autonomía</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-pro-pulsera-actividad-analisis-opinion-1374001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 8 Pro y me ha entusiasmado su ligereza y autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076'>"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo</a></h4>
-    <a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-devices-group-idg-3289301.jpg?tf=1200x' alt='"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo' />
     </a>
 </div>
 
