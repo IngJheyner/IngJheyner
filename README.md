@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076'>"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo</a></h4>
+    <a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-devices-group-idg-3289301.jpg?tf=1200x' alt='"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
     <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/slimbook-3293297.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609'>Las vacaciones de Semana Santa y el aumento de las estafas online</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vacaciones-semana-santa-aumento-estafas-online-3293445.jpg?tf=1200x' alt='Las vacaciones de Semana Santa y el aumento de las estafas online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-motor-nuclear-llegar-marte-tiempo-record-1375632'>El país que lidera la carrera espacial inventa un motor nuclear para llegar a Marte en tiempo récord</a></h4>
-    <a href='https://computerhoy.com/espacio/china-motor-nuclear-llegar-marte-tiempo-record-1375632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pais-lidera-carrera-espacial-inventa-motor-llegar-marte-tiempo-record-3293401.jpg?tf=1200x' alt='El país que lidera la carrera espacial inventa un motor nuclear para llegar a Marte en tiempo récord' />
     </a>
 </div>
 
