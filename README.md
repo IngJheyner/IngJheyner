@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924'>Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-peliculas-series-canales-gratis-runtime-smart-tv-1374924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ver-peliculas-series-canales-pagar-runtime-smart-tv-3292150.jpg?tf=1200x' alt='Cómo ver películas, series y canales sin pagar con Runtime en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-pro-pulsera-actividad-analisis-opinion-1374001'>He probado la Xiaomi Smart Band 8 Pro y me ha entusiasmado su ligereza y autonomía</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-smart-band-8-pro-pulsera-actividad-analisis-opinion-1374001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290705.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 8 Pro y me ha entusiasmado su ligereza y autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076'>"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo</a></h4>
     <a href='https://computerhoy.com/pc/visores-rv-no-reemplazaran-pc-menos-10-anos-lenovo-1373076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/luca-rossi-presidente-lenovo-intelligent-devices-group-idg-3289301.jpg?tf=1200x' alt='"Los visores de realidad virtual no reemplazarán al PC al menos en 10 años", según el jefe de dispositivos de Lenovo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642'>La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal</a></h4>
     <a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-misuri-decide-usar-funcion-encontrar-apple-capturar-traficantes-cosa-acabo-mal-3293448.jpg?tf=1200x' alt='La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-28-marzo-2024-1375639'>¿Qué santo es hoy? Santoral del jueves 28 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-28-marzo-2024-1375639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-28-marzo-2024-3293449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 28 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609'>Las vacaciones de Semana Santa y el aumento de las estafas online</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vacaciones-semana-santa-aumento-estafas-online-3293445.jpg?tf=1200x' alt='Las vacaciones de Semana Santa y el aumento de las estafas online' />
     </a>
 </div>
 
