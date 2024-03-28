@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280'>Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero</a></h4>
+    <a href='https://computerhoy.com/pc/estos-portatiles-vienen-linux-preinstalado-son-forma-ahorrarte-bastante-dinero-1169280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/slimbook-3293297.jpg?tf=1200x' alt='Estos portátiles vienen con Linux preinstalado y son una forma de ahorrarte bastante dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642'>La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal</a></h4>
     <a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-misuri-decide-usar-funcion-encontrar-apple-capturar-traficantes-cosa-acabo-mal-3293448.jpg?tf=1200x' alt='La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/china-motor-nuclear-llegar-marte-tiempo-record-1375632'>El país que lidera la carrera espacial inventa un motor nuclear para llegar a Marte en tiempo récord</a></h4>
     <a href='https://computerhoy.com/espacio/china-motor-nuclear-llegar-marte-tiempo-record-1375632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pais-lidera-carrera-espacial-inventa-motor-llegar-marte-tiempo-record-3293401.jpg?tf=1200x' alt='El país que lidera la carrera espacial inventa un motor nuclear para llegar a Marte en tiempo récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621'>Consiguen un Internet 4,5 millones de veces más rápido que el actual</a></h4>
-    <a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/fibra-optica-2038471.jpg?tf=1200x' alt='Consiguen un Internet 4,5 millones de veces más rápido que el actual' />
     </a>
 </div>
 
