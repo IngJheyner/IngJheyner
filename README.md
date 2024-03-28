@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701'>Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? </a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-1375701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtra-enigmatico-pixel-9-pro-xl-como-encaja-pixel-9-pixel-9-pro-3293552.jpg?tf=1200x' alt='Se filtra un enigmático Pixel 9 Pro XL, ¿cómo encaja con el Pixel 9 y el Pixel 9 Pro? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688'>Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-anade-funciones-ia-galaxy-s24-moviles-2023-1375688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-vs-samsung-galaxy-s24-3272676.jpg?tf=1200x' alt='Samsung añade las funciones de IA de los Galaxy S24 a los móviles de 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995'>¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?</a></h4>
     <a href='https://computerhoy.com/pc/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-1374995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cada-cuanto-como-cambiar-refrigeracion-liquida-pc-3292273.jpg?tf=1200x' alt='¿Cada cuánto y cómo cambiar la refrigeración líquida en un PC?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663'>Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos</a></h4>
-    <a href='https://computerhoy.com/gaming/primeras-fotos-consola-xbox-series-x-blanca-sin-lector-discos-1375663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/filtran-primeras-imagenes-consola-xbox-series-x-lector-discos-3293477.jpg?tf=1200x' alt='Se filtran las primeras fotos de la nueva consola Xbox Series X sin lector de discos, con cambios internos' />
     </a>
 </div>
 
