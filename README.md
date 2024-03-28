@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801'>¿Por qué la sangre humana es de color verde en el fondo del mar?</a></h4>
+    <a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sabias-sangre-color-verde-fondo-mar-3293663.jpg?tf=1200x' alt='¿Por qué la sangre humana es de color verde en el fondo del mar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/televisor-gigante-65-philips-mucho-barato-piensas-apenas-supera-500-euros-1375175'>Este televisor gigante de 65" es Philips y mucho más barato de lo que piensas: apenas supera los 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/televisor-gigante-65-philips-mucho-barato-piensas-apenas-supera-500-euros-1375175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/philips-65pus7608-12-3292551.jpg?tf=1200x' alt='Este televisor gigante de 65" es Philips y mucho más barato de lo que piensas: apenas supera los 500 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366'>Las plataformas de internet más hackeadas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/plataformas-internet-hackeadas-1375366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/plataformas-internet-hackeadas-3292921.jpg?tf=1200x' alt='Las plataformas de internet más hackeadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/twitch-prohibe-proyectar-videos-pechos-trasero-1375746'>Algunas streamers han comenzado a proyectar sus vídeos en sus pechos o en su trasero, y Twitch se ha cansado</a></h4>
-    <a href='https://computerhoy.com/gaming/twitch-prohibe-proyectar-videos-pechos-trasero-1375746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/algunas-streamers-han-comenzado-proyectar-videos-pechos-trasero-twitch-ha-cansado-3293587.jpg?tf=1200x' alt='Algunas streamers han comenzado a proyectar sus vídeos en sus pechos o en su trasero, y Twitch se ha cansado' />
     </a>
 </div>
 
