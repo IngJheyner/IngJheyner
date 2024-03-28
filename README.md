@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642'>La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal</a></h4>
+    <a href='https://computerhoy.com/life/policia-funcion-encontrar-apple-airpods-capturar-ladrones-1375642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/policia-misuri-decide-usar-funcion-encontrar-apple-capturar-traficantes-cosa-acabo-mal-3293448.jpg?tf=1200x' alt='La policía de Misuri decide usar la función Encontrar de Apple para capturar a unos ladrones: la cosa acabó mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-28-marzo-2024-1375639'>¿Qué santo es hoy? Santoral del jueves 28 de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-28-marzo-2024-1375639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-jueves-28-marzo-2024-3293449.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 28 de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609'>Las vacaciones de Semana Santa y el aumento de las estafas online</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/vacaciones-semana-santa-aumento-estafas-online-1375609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vacaciones-semana-santa-aumento-estafas-online-3293445.jpg?tf=1200x' alt='Las vacaciones de Semana Santa y el aumento de las estafas online' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621'>Consiguen un Internet 4,5 millones de veces más rápido que el actual</a></h4>
     <a href='https://computerhoy.com/internet/consiguen-internet-45-millones-veces-rapido-actual-1375621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/08/fibra-optica-2038471.jpg?tf=1200x' alt='Consiguen un Internet 4,5 millones de veces más rápido que el actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viral-forma-saber-pila-cargada-locura-1375619'>La viral forma para saber si una pila está cargada: “Es una locura”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/viral-forma-saber-pila-cargada-locura-1375619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/pilas-alcalinas-3293411.jpg?tf=1200x' alt='La viral forma para saber si una pila está cargada: “Es una locura”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412'>The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?</a></h4>
-    <a href='https://computerhoy.com/gaming/elder-scrolls-cumple-30-anos-pasa-sexta-entrega-1375412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elder-scrolls-cumple-30-anos-ha-sucedido-anunciada-sexta-entrega-3292985.jpg?tf=1200x' alt='The Elder Scrolls cumple 30 años. ¿Qué ha sucedido con su anunciada sexta entrega?' />
     </a>
 </div>
 
