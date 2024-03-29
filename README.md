@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943'>Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño</a></h4>
+    <a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-utilizar-inteligencia-artificial-mejorar-calidad-sueno-3292191.jpg?tf=1200x' alt='Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624'>GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K</a></h4>
     <a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dji-osmo-action-3-3293416.jpg?tf=1200x' alt='GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804'>¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-29-marzo-2024-3293672.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801'>¿Por qué la sangre humana es de color verde en el fondo del mar?</a></h4>
-    <a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sabias-sangre-color-verde-fondo-mar-3293663.jpg?tf=1200x' alt='¿Por qué la sangre humana es de color verde en el fondo del mar?' />
     </a>
 </div>
 
