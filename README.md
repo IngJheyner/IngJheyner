@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624'>GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K</a></h4>
+    <a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dji-osmo-action-3-3293416.jpg?tf=1200x' alt='GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/comer-dos-veces-dia-ayuda-frenar-envejecimiento-1374349'>¿Comer dos veces al día ayuda a frenar el envejecimiento? Esto dice la ciencia</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comer-dos-veces-dia-ayuda-frenar-envejecimiento-1374349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-veces-debes-comer-dia-retrasar-envejecimiento-ciencia-3291260.jpg?tf=1200x' alt='¿Comer dos veces al día ayuda a frenar el envejecimiento? Esto dice la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/realme-12-pro-realme-12-pro-plus-analisis-opinion-1373004'>He probado el Realme 12 Pro y el 12 Pro+ y ambos destacan en pantalla, cámara y autonomía, pero, ¿cuál es para ti? </a></h4>
+    <a href='https://computerhoy.com/analisis/realme-12-pro-realme-12-pro-plus-analisis-opinion-1373004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-vs-realme-12-pro-3289949.jpg?tf=1200x' alt='He probado el Realme 12 Pro y el 12 Pro+ y ambos destacan en pantalla, cámara y autonomía, pero, ¿cuál es para ti? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804'>¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-29-marzo-2024-1375804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-viernes-29-marzo-2024-3293672.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 29 de marzo de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801'>¿Por qué la sangre humana es de color verde en el fondo del mar?</a></h4>
     <a href='https://computerhoy.com/ciencia/sangre-color-verde-fondo-mar-1375801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sabias-sangre-color-verde-fondo-mar-3293663.jpg?tf=1200x' alt='¿Por qué la sangre humana es de color verde en el fondo del mar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-gigante-65-philips-mucho-barato-piensas-apenas-supera-500-euros-1375175'>Este televisor gigante de 65" es Philips y mucho más barato de lo que piensas: apenas supera los 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-gigante-65-philips-mucho-barato-piensas-apenas-supera-500-euros-1375175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/philips-65pus7608-12-3292551.jpg?tf=1200x' alt='Este televisor gigante de 65" es Philips y mucho más barato de lo que piensas: apenas supera los 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/primer-ataque-hacker-masivo-dirigido-servidores-inteligencia-artificial-1375780'>Detectan por primera vez un ataque hacker masivo dirigido a miles de servidores de IA</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/primer-ataque-hacker-masivo-dirigido-servidores-inteligencia-artificial-1375780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/detectan-primera-vez-ataque-hacker-masivo-dirigido-servidores-ia-3293635.jpg?tf=1200x' alt='Detectan por primera vez un ataque hacker masivo dirigido a miles de servidores de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761'>Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel</a></h4>
-    <a href='https://computerhoy.com/criptos/sam-bankman-fried-ceo-ftx-condenado-25-anos-carcel-1375761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/sam-bankman-fried-ceo-plataforma-criptos-ftx-pasara-cuarto-siglo-carcel-3293617.jpg?tf=1200x' alt='Sam Bankman-Fried, CEO de la plataforma de criptos FTX, pasará un cuarto de siglo en la cárcel' />
     </a>
 </div>
 
