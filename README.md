@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929'>Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril</a></h4>
+    <a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-3293862.jpg?tf=1200x' alt='Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921'>Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?</a></h4>
     <a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-podcasts-cierra-definitivamente-2-abril-pasa-tienes-suscripciones-3293835.jpg?tf=1200x' alt='Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909'>Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297'>Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo</a></h4>
-    <a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-3292854.jpg?tf=1200x' alt='Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo' />
     </a>
 </div>
 
