@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514'>La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad</a></h4>
+    <a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-3292923.jpg?tf=1200x' alt='La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876'>La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece</a></h4>
     <a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-barra-navegacion-whatsapp-ya-disponible-ofrece-3293790.jpg?tf=1200x' alt='La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853'>12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze</a></h4>
     <a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845'>Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google </a></h4>
-    <a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shorts-youtube-cumple-ano-pesada-molestia-muchos-usuarios-gran-exito-google-3293747.jpg?tf=1200x' alt='Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google ' />
     </a>
 </div>
 
