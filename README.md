@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876'>La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-barra-navegacion-whatsapp-ya-disponible-ofrece-3293790.jpg?tf=1200x' alt='La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865'>FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps</a></h4>
     <a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-quake-60-fps-3293767.jpg?tf=1200x' alt='FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845'>Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google </a></h4>
     <a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shorts-youtube-cumple-ano-pesada-molestia-muchos-usuarios-gran-exito-google-3293747.jpg?tf=1200x' alt='Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831'>Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla</a></h4>
-    <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-consigue-apple-no-pudo-ya-venta-coche-electrico-barato-tesla-3293717.jpg?tf=1200x' alt='Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla' />
     </a>
 </div>
 
