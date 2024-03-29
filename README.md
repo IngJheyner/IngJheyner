@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845'>Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google </a></h4>
+    <a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shorts-youtube-cumple-ano-pesada-molestia-muchos-usuarios-gran-exito-google-3293747.jpg?tf=1200x' alt='Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831'>Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-consigue-apple-no-pudo-ya-venta-coche-electrico-barato-tesla-3293717.jpg?tf=1200x' alt='Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223'>Que es GPT5, para qué servirá y cuando estará disponible</a></h4>
     <a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gpt5-servira-cuando-estara-disponible-3292745.jpg?tf=1200x' alt='Que es GPT5, para qué servirá y cuando estará disponible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943'>Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño</a></h4>
-    <a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-utilizar-inteligencia-artificial-mejorar-calidad-sueno-3292191.jpg?tf=1200x' alt='Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño' />
     </a>
 </div>
 
