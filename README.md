@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909'>Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297'>Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo</a></h4>
     <a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-3292854.jpg?tf=1200x' alt='Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865'>FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps</a></h4>
     <a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-quake-60-fps-3293767.jpg?tf=1200x' alt='FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467'>Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-victus-16-r0004ns-3293110.jpg?tf=1200x' alt='Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas' />
     </a>
 </div>
 
