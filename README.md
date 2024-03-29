@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297'>Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo</a></h4>
+    <a href='https://computerhoy.com/pc/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-1375297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-cambiar-pasta-termica-cpu-cada-cuanto-tiempo-hacerlo-3292854.jpg?tf=1200x' alt='Cómo cambiar la pasta térmica para la CPU y cada cuánto tiempo hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514'>La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad</a></h4>
     <a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-3292923.jpg?tf=1200x' alt='La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467'>Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-victus-16-r0004ns-3293110.jpg?tf=1200x' alt='Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853'>12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze' />
     </a>
 </div>
 
