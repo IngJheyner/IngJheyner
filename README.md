@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467'>Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-victus-16-r0004ns-3293110.jpg?tf=1200x' alt='Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853'>12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/motor/alternativa-premium-google-maps-waze-12-meses-gratis-tomtom-1375853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/tomtom-go-navigation-2580837.jpg?tf=1200x' alt='12 meses gratis de TomTom usando un código: la alternativa premium a Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845'>Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google </a></h4>
     <a href='https://computerhoy.com/google/shorts-youtube-gran-exito-google-1375845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/shorts-youtube-cumple-ano-pesada-molestia-muchos-usuarios-gran-exito-google-3293747.jpg?tf=1200x' alt='Los Shorts de YouTube son una molestia para muchos usuarios, pero un gran éxito para Google ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448'>CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes</a></h4>
     <a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cyberghost-vpn-3293037.jpg?tf=1200x' alt='CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-cosas-no-valen-dinero-estas-pagando-ellas-1374367'>10 cosas que no valen el dinero que estás pagando por ellas</a></h4>
-    <a href='https://computerhoy.com/life/10-cosas-no-valen-dinero-estas-pagando-ellas-1374367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-cosas-no-valen-dinero-estas-pagando-ellas-3291299.jpg?tf=1200x' alt='10 cosas que no valen el dinero que estás pagando por ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223'>Que es GPT5, para qué servirá y cuando estará disponible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gpt5-servira-cuando-estara-disponible-3292745.jpg?tf=1200x' alt='Que es GPT5, para qué servirá y cuando estará disponible' />
     </a>
 </div>
 
