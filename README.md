@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831'>Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla</a></h4>
+    <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-consigue-apple-no-pudo-ya-venta-coche-electrico-barato-tesla-3293717.jpg?tf=1200x' alt='Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448'>CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cyberghost-vpn-3293037.jpg?tf=1200x' alt='CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-cosas-no-valen-dinero-estas-pagando-ellas-1374367'>10 cosas que no valen el dinero que estás pagando por ellas</a></h4>
+    <a href='https://computerhoy.com/life/10-cosas-no-valen-dinero-estas-pagando-ellas-1374367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/10-cosas-no-valen-dinero-estas-pagando-ellas-3291299.jpg?tf=1200x' alt='10 cosas que no valen el dinero que estás pagando por ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223'>Que es GPT5, para qué servirá y cuando estará disponible</a></h4>
     <a href='https://computerhoy.com/tecnologia/gpt5-servira-cuando-estara-disponible-1375223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/gpt5-servira-cuando-estara-disponible-3292745.jpg?tf=1200x' alt='Que es GPT5, para qué servirá y cuando estará disponible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943'>Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño</a></h4>
     <a href='https://computerhoy.com/life/como-utilizar-ia-mejorar-calidad-sueno-1374943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-utilizar-inteligencia-artificial-mejorar-calidad-sueno-3292191.jpg?tf=1200x' alt='Cómo utilizar la inteligencia artificial para mejorar la calidad del sueño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624'>GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K</a></h4>
-    <a href='https://computerhoy.com/life/gopro-tiene-rival-barato-dji-osmo-3-rebaja-precio-tiene-4k-1375624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/dji-osmo-action-3-3293416.jpg?tf=1200x' alt='GoPro tiene rival y es más barato: la DJI Osmo 3 rebaja su precio y tiene 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comer-dos-veces-dia-ayuda-frenar-envejecimiento-1374349'>¿Comer dos veces al día ayuda a frenar el envejecimiento? Esto dice la ciencia</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comer-dos-veces-dia-ayuda-frenar-envejecimiento-1374349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-son-veces-debes-comer-dia-retrasar-envejecimiento-ciencia-3291260.jpg?tf=1200x' alt='¿Comer dos veces al día ayuda a frenar el envejecimiento? Esto dice la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/realme-12-pro-realme-12-pro-plus-analisis-opinion-1373004'>He probado el Realme 12 Pro y el 12 Pro+ y ambos destacan en pantalla, cámara y autonomía, pero, ¿cuál es para ti? </a></h4>
-    <a href='https://computerhoy.com/analisis/realme-12-pro-realme-12-pro-plus-analisis-opinion-1373004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-vs-realme-12-pro-3289949.jpg?tf=1200x' alt='He probado el Realme 12 Pro y el 12 Pro+ y ambos destacan en pantalla, cámara y autonomía, pero, ¿cuál es para ti? ' />
     </a>
 </div>
 
