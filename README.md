@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-presenta-voice-engine-ia-clona-voz-1375913'>OpenAI presenta Voice Engine, una IA que clona tu voz con solo escucharte 15 segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-presenta-voice-engine-ia-clona-voz-1375913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-presenta-voice-engine-ia-clona-voz-solo-escucharte-15-segundos-3293832.jpg?tf=1200x' alt='OpenAI presenta Voice Engine, una IA que clona tu voz con solo escucharte 15 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-estudiantes-cuesta-solo-299-euros-usa-chrome-os-android-pc-1375856'>Este portátil barato para estudiantes cuesta solo 299 euros y usa Chrome OS, el Android para PC</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-barato-estudiantes-cuesta-solo-299-euros-usa-chrome-os-android-pc-1375856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-chromebook-14a-na1012ns-3293762.jpg?tf=1200x' alt='Este portátil barato para estudiantes cuesta solo 299 euros y usa Chrome OS, el Android para PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514'>La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad</a></h4>
     <a href='https://computerhoy.com/ciencia/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-1310514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/bateria-bagdad-misterio-imposible-resolver-2000-anos-antiguedad-3292923.jpg?tf=1200x' alt='La batería de Bagdad: un misterio imposible de resolver con 2.000 años de antigüedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876'>La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-barra-navegacion-whatsapp-ya-disponible-1375876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-barra-navegacion-whatsapp-ya-disponible-ofrece-3293790.jpg?tf=1200x' alt='La nueva barra de navegación de WhatsApp ya está disponible: esto es lo que ofrece' />
     </a>
 </div>
 
