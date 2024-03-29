@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865'>FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps</a></h4>
+    <a href='https://computerhoy.com/pc/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-1375865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/furygpu-tarjeta-grafica-codigo-abierto-puedes-montar-mismo-quake-60-fps-3293767.jpg?tf=1200x' alt='FuryGPU, la tarjeta gráfica de código abierto que puedes montar tú mismo, Quake a 60 fps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467'>Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas</a></h4>
     <a href='https://computerhoy.com/tecnologia/tiene-rtx-4050-450-euros-barato-hp-lleva-steam-contigo-donde-vayas-1375467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-victus-16-r0004ns-3293110.jpg?tf=1200x' alt='Tiene una RTX 4050 y es 450 euros más barato: este HP lleva Steam contigo a donde vayas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831'>Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla</a></h4>
     <a href='https://computerhoy.com/motor/coche-electrico-xiaomi-su7-ya-venta-1375831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-consigue-apple-no-pudo-ya-venta-coche-electrico-barato-tesla-3293717.jpg?tf=1200x' alt='Xiaomi consigue lo que Apple no pudo: ya está a la venta su coche eléctrico, más barato que los Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448'>CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cyberghost-rebaja-precio-vpn-sorprende-27-meses-poco-2-euros-mes-1375448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cyberghost-vpn-3293037.jpg?tf=1200x' alt='CyberGhost rebaja el precio de su VPN y sorprende: 27 meses por poco más de 2 euros al mes' />
     </a>
 </div>
 
