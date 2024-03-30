@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003'>LinkedIn también quiere ser como TikTok</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-videos-cortos-3293957.jpg?tf=1200x' alt='LinkedIn también quiere ser como TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997'>Android 15 renovará por completo el panel de control de volumen y así luce</a></h4>
     <a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audio-android-15-3293949.jpg?tf=1200x' alt='Android 15 renovará por completo el panel de control de volumen y así luce' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475'>Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359'>Los 5 mejores editores online de fotos con IA gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/editores-online-fotos-ia-3270461.jpg?tf=1200x' alt='Los 5 mejores editores online de fotos con IA gratis' />
     </a>
 </div>
 
