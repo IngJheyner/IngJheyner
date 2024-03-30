@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872'>6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/6-trucos-disfrutar-peliculas-series-muy-oscuras-smart-tv-3290328.jpg?tf=1200x' alt='6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610'>Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles</a></h4>
     <a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952398.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931'>¿Qué santo es hoy? Santoral del sábado de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-marzo-2024-3293869.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado de marzo de 2024' />
     </a>
 </div>
 
