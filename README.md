@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888'>15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida</a></h4>
+    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/15-lecciones-albert-einstein-cambiaran-forma-ver-vida-3292312.jpg?tf=1200x' alt='15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009'>ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987'>Windows 11 prepara un generador de códigos QR integrado y así es su uso</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 prepara un generador de códigos QR integrado y así es su uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965'>Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/supercomputadora-openai-microsoft-3293904.jpg?tf=1200x' alt='Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate' />
     </a>
 </div>
 
