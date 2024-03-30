@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009'>ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003'>LinkedIn también quiere ser como TikTok</a></h4>
     <a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-videos-cortos-3293957.jpg?tf=1200x' alt='LinkedIn también quiere ser como TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965'>Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/supercomputadora-openai-microsoft-3293904.jpg?tf=1200x' alt='Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475'>Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad' />
     </a>
 </div>
 
