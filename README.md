@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997'>Android 15 renovará por completo el panel de control de volumen y así luce</a></h4>
+    <a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audio-android-15-3293949.jpg?tf=1200x' alt='Android 15 renovará por completo el panel de control de volumen y así luce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987'>Windows 11 prepara un generador de códigos QR integrado y así es su uso</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 prepara un generador de códigos QR integrado y así es su uso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359'>Los 5 mejores editores online de fotos con IA gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/editores-online-fotos-ia-3270461.jpg?tf=1200x' alt='Los 5 mejores editores online de fotos con IA gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230'>Científicos de Harvard revelan las 5 frases más usadas por los manipuladores</a></h4>
-    <a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-harvard-revelan-5-frases-usadas-manipuladores-3291469.jpg?tf=1200x' alt='Científicos de Harvard revelan las 5 frases más usadas por los manipuladores' />
     </a>
 </div>
 
