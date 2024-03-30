@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-presencia-aplicaciones-maliciosas-google-play-hacen-pasar-apps-vpn-1376034'>Alerta ante la presencia de aplicaciones maliciosas en Google Play que se hacen pasar por apps VPN</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-presencia-aplicaciones-maliciosas-google-play-hacen-pasar-apps-vpn-1376034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/escudo-antipirateria-listas-iptv-italia-haciendo-vpn-marchen-pais-3280666.jpg?tf=1200x' alt='Alerta ante la presencia de aplicaciones maliciosas en Google Play que se hacen pasar por apps VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-xxl-brutal-tiene-dos-cestas-precio-apenas-supera-100-euros-1375261'>Esta air fryer XXL es brutal: tiene dos cestas y su precio apenas supera los 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-xxl-brutal-tiene-dos-cestas-precio-apenas-supera-100-euros-1375261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cecofry-dual-9000-3292751.jpg?tf=1200x' alt='Esta air fryer XXL es brutal: tiene dos cestas y su precio apenas supera los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032'>Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-10-windows-11-3186856.jpg?tf=1200x' alt='Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-windows-paso-paso-1224442'>Cómo instalar Kodi en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-windows-paso-paso-1224442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/kodi-windows-2999080.jpg?tf=1200x' alt='Cómo instalar Kodi en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888'>15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida</a></h4>
-    <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/15-lecciones-albert-einstein-cambiaran-forma-ver-vida-3292312.jpg?tf=1200x' alt='15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009'>ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-inspira-copilot-hacer-creibles-todas-respuestas-1376009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='ChatGPT se inspira en Copilot para hacer creíbles todas sus respuestas' />
     </a>
 </div>
 
