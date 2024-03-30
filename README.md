@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965'>Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/supercomputadora-openai-microsoft-3293904.jpg?tf=1200x' alt='Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475'>Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-tiene-antivirus-cuesta-3-euros-2x1-seguridad-privacidad-1375475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='Esta VPN tiene antivirus y cuesta 3 euros: es un 2x1 de seguridad y privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359'>Los 5 mejores editores online de fotos con IA gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-mejores-editores-online-fotos-ia-gratis-1362359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/editores-online-fotos-ia-3270461.jpg?tf=1200x' alt='Los 5 mejores editores online de fotos con IA gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230'>Científicos de Harvard revelan las 5 frases más usadas por los manipuladores</a></h4>
     <a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-harvard-revelan-5-frases-usadas-manipuladores-3291469.jpg?tf=1200x' alt='Científicos de Harvard revelan las 5 frases más usadas por los manipuladores' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872'>6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/6-trucos-disfrutar-peliculas-series-muy-oscuras-smart-tv-3290328.jpg?tf=1200x' alt='6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610'>Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles</a></h4>
-    <a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
-    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/climatizador-evaporativo-3293866.jpg?tf=1200x' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405'>He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a35-3292863.jpg?tf=1200x' alt='He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar' />
     </a>
 </div>
 
