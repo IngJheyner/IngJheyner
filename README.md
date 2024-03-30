@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987'>Windows 11 prepara un generador de códigos QR integrado y así es su uso</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 prepara un generador de códigos QR integrado y así es su uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965'>Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-openai-trabajan-proyecto-ciencia-ficcion-supercomputadora-ia-llamada-stargate-1375965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/supercomputadora-openai-microsoft-3293904.jpg?tf=1200x' alt='Microsoft y OpenAI trabajan en un proyecto de ciencia ficción: una supercomputadora de IA llamada Stargate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230'>Científicos de Harvard revelan las 5 frases más usadas por los manipuladores</a></h4>
     <a href='https://computerhoy.com/life/cientificos-harvard-revelan-5-frases-usadas-manipuladores-1302230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cientificos-harvard-revelan-5-frases-usadas-manipuladores-3291469.jpg?tf=1200x' alt='Científicos de Harvard revelan las 5 frases más usadas por los manipuladores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872'>6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/6-trucos-disfrutar-peliculas-series-oscuras-smart-tv-1373872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/6-trucos-disfrutar-peliculas-series-muy-oscuras-smart-tv-3290328.jpg?tf=1200x' alt='6 trucos para disfrutar de películas o series muy oscuras en tu Smart TV' />
     </a>
 </div>
 
