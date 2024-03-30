@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610'>Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles</a></h4>
+    <a href='https://computerhoy.com/apple/como-usar-chatgpt-siri-iphone-1287610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/chatgpt-privacidad-riesgos-consejos-uso-seguro-3096676.jpg?tf=1200x' alt='Como usar ChatGPT con Siri en tu iPhone para hacer cosas increíbles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455'>Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta</a></h4>
+    <a href='https://computerhoy.com/reportajes/life/climatizadores-evaporativos-funcionamiento-mejores-modelos-1063455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/climatizador-evaporativo-3293866.jpg?tf=1200x' alt='Climatizador evaporativo: cómo funciona, cuánto enfría y mejores modelos a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405'>He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a35-3292863.jpg?tf=1200x' alt='He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931'>¿Qué santo es hoy? Santoral del sábado de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-marzo-2024-3293869.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado de marzo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929'>Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril</a></h4>
-    <a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-3293862.jpg?tf=1200x' alt='Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921'>Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?</a></h4>
-    <a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-podcasts-cierra-definitivamente-2-abril-pasa-tienes-suscripciones-3293835.jpg?tf=1200x' alt='Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?' />
     </a>
 </div>
 
