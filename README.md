@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931'>¿Qué santo es hoy? Santoral del sábado de marzo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-marzo-2024-1375931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-sabado-marzo-2024-3293869.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado de marzo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929'>Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril</a></h4>
     <a href='https://computerhoy.com/ciencia/dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-1375929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/crean-dispositivo-personas-ciegas-puedan-ver-eclipse-solar-8-abril-3293862.jpg?tf=1200x' alt='Crean un dispositivo para que las personas ciegas puedan "ver" el eclipse solar del 8 de abril' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-estudiantes-cuesta-solo-299-euros-usa-chrome-os-android-pc-1375856'>Este portátil barato para estudiantes cuesta solo 299 euros y usa Chrome OS, el Android para PC</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-barato-estudiantes-cuesta-solo-299-euros-usa-chrome-os-android-pc-1375856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hp-chromebook-14a-na1012ns-3293762.jpg?tf=1200x' alt='Este portátil barato para estudiantes cuesta solo 299 euros y usa Chrome OS, el Android para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909'>Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-reune-grandes-estudios-hollywood-sora-1375909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='Sam Altman se reúne con los grandes estudios de Hollywood, para que usen su IA Sora en sus películas' />
     </a>
 </div>
 
