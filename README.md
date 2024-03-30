@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405'>He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-a35-analisis-opinion-1374405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-a35-3292863.jpg?tf=1200x' alt='He probado el Samsung Galaxy A35, un móvil muy atractivo, pero con apartados que se podrían mejorar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104'>Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo</a></h4>
     <a href='https://computerhoy.com/mejores/moviles-snapdragon-8-gen-2-1208104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/oneplus-11-5g-analisis-opinion-2952398.jpg?tf=1200x' alt='Estos son los mejores móviles con Snapdragon 8 Gen 2, uno de los procesadores más potentes del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921'>Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?</a></h4>
     <a href='https://computerhoy.com/google/google-podcasts-cierra-2-abril-1375921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-podcasts-cierra-definitivamente-2-abril-pasa-tienes-suscripciones-3293835.jpg?tf=1200x' alt='Google Podcasts cierra definitivamente el 2 abril, ¿qué pasa si tienes suscripciones?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-presenta-voice-engine-ia-clona-voz-1375913'>OpenAI presenta Voice Engine, una IA que clona tu voz con solo escucharte 15 segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-presenta-voice-engine-ia-clona-voz-1375913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/openai-presenta-voice-engine-ia-clona-voz-solo-escucharte-15-segundos-3293832.jpg?tf=1200x' alt='OpenAI presenta Voice Engine, una IA que clona tu voz con solo escucharte 15 segundos' />
     </a>
 </div>
 
