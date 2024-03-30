@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-ya-prepara-proximas-vacaciones-estas-nuevas-funcionalidades-alguna-basada-ia-1376011'>Google Maps ya prepara tus próximas vacaciones con estas nuevas funcionalidades y alguna basada en IA</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-ya-prepara-proximas-vacaciones-estas-nuevas-funcionalidades-alguna-basada-ia-1376011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-3293962.jpg?tf=1200x' alt='Google Maps ya prepara tus próximas vacaciones con estas nuevas funcionalidades y alguna basada en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-kodi-windows-paso-paso-1224442'>Cómo instalar Kodi en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-kodi-windows-paso-paso-1224442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/kodi-windows-2999080.jpg?tf=1200x' alt='Cómo instalar Kodi en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888'>15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida</a></h4>
     <a href='https://computerhoy.com/life/10-lecciones-albert-einstein-cambiaran-forma-ver-vida-1285888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/15-lecciones-albert-einstein-cambiaran-forma-ver-vida-3292312.jpg?tf=1200x' alt='15 lecciones de Albert Einstein que cambiarán tu forma de ver la vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003'>LinkedIn también quiere ser como TikTok</a></h4>
     <a href='https://computerhoy.com/tecnologia/linkedin-tambien-quiere-ser-como-tiktok-1376003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/linkedin-videos-cortos-3293957.jpg?tf=1200x' alt='LinkedIn también quiere ser como TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997'>Android 15 renovará por completo el panel de control de volumen y así luce</a></h4>
-    <a href='https://computerhoy.com/android/android-15-renovara-completo-panel-control-volumen-luce-1375997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/audio-android-15-3293949.jpg?tf=1200x' alt='Android 15 renovará por completo el panel de control de volumen y así luce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987'>Windows 11 prepara un generador de códigos QR integrado y así es su uso</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-prepara-generador-codigos-qr-integrado-uso-1375987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-3263786.jpg?tf=1200x' alt='Windows 11 prepara un generador de códigos QR integrado y así es su uso' />
     </a>
 </div>
 
