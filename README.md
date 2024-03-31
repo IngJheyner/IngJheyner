@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/juegos-ps5-pro-enhanced-requisitos-1376126'>Se filtran los requisitos de los juegos para llevar el sello "PlayStation 5 Pro Enhanced"</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-ps5-pro-enhanced-requisitos-1376126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ps5-pro-3290517.jpg?tf=1200x' alt='Se filtran los requisitos de los juegos para llevar el sello "PlayStation 5 Pro Enhanced"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123'>Primera carrera con trajes voladores de la historia, no te pierdas el vídeo</a></h4>
     <a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primera-carrera-trajes-voladores-historia-no-te-pierdas-video-3294096.jpg?tf=1200x' alt='Primera carrera con trajes voladores de la historia, no te pierdas el vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247'>Cómo identificar si te han llamado con número oculto o privado</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-identificar-te-han-llamado-numero-oculto-privado-3292809.jpg?tf=1200x' alt='Cómo identificar si te han llamado con número oculto o privado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096'>Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría' />
     </a>
 </div>
 
