@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132'>La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-ya-tiene-listos-tres-mini-rover-autonomos-van-trabajar-juntos-luna-3294117.jpg?tf=1200x' alt='La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128'>Google avisa: Para usar la IA en modo local, se necesita un móvil con mucha RAM</a></h4>
     <a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191836.jpg?tf=1200x' alt='Google avisa: Para usar la IA en modo local, se necesita un móvil con mucha RAM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112'>Nueva York va a usar una polémica IA para detectar armas en el metro</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-york-va-usar-ia-detectar-armas-metro-3294080.jpg?tf=1200x' alt='Nueva York va a usar una polémica IA para detectar armas en el metro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/11-trucos-ocultos-whatsapp-deberias-conocer-1245840'>Los 11 trucos ocultos de WhatsApp que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/11-trucos-ocultos-whatsapp-deberias-conocer-1245840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-ya-trabaja-chats-voz-grupales-puro-estilo-discord-2994900.jpg?tf=1200x' alt='Los 11 trucos ocultos de WhatsApp que deberías conocer' />
     </a>
 </div>
 
