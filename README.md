@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/11-trucos-ocultos-whatsapp-deberias-conocer-1245840'>Los 11 trucos ocultos de WhatsApp que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/11-trucos-ocultos-whatsapp-deberias-conocer-1245840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/whatsapp-ya-trabaja-chats-voz-grupales-puro-estilo-discord-2994900.jpg?tf=1200x' alt='Los 11 trucos ocultos de WhatsApp que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247'>Cómo identificar si te han llamado con número oculto o privado</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-identificar-te-han-llamado-numero-oculto-privado-3292809.jpg?tf=1200x' alt='Cómo identificar si te han llamado con número oculto o privado' />
@@ -66,14 +74,6 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/game-pass-epic-games-bolsillo-asus-rog-ally-tiene-100-euros-descuento-portatil-top-momento-1375847'>Game Pass y Epic Games en tu bolsillo: la ASUS ROG Ally tiene 100 euros de descuento y es la portátil más top del momento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/game-pass-epic-games-bolsillo-asus-rog-ally-tiene-100-euros-descuento-portatil-top-momento-1375847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/asus-rog-ally-3071626.jpg?tf=1200x' alt='Game Pass y Epic Games en tu bolsillo: la ASUS ROG Ally tiene 100 euros de descuento y es la portátil más top del momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095'>Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps</a></h4>
     <a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps' />
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082'>Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas</a></h4>
-    <a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-integracion-copilot-aplicacion-fotos-windows-11-3294049.jpg?tf=1200x' alt='Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas' />
+    <h4><a href='https://computerhoy.com/tecnologia/game-pass-epic-games-bolsillo-asus-rog-ally-tiene-100-euros-descuento-portatil-top-momento-1375847'>Game Pass y Epic Games en tu bolsillo: la ASUS ROG Ally tiene 100 euros de descuento y es la portátil más top del momento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/game-pass-epic-games-bolsillo-asus-rog-ally-tiene-100-euros-descuento-portatil-top-momento-1375847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/asus-rog-ally-3071626.jpg?tf=1200x' alt='Game Pass y Epic Games en tu bolsillo: la ASUS ROG Ally tiene 100 euros de descuento y es la portátil más top del momento' />
     </a>
 </div>
 
