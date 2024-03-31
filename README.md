@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123'>Primera carrera con trajes voladores de la historia, no te pierdas el vídeo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primera-carrera-trajes-voladores-historia-no-te-pierdas-video-3294096.jpg?tf=1200x' alt='Primera carrera con trajes voladores de la historia, no te pierdas el vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112'>Nueva York va a usar una polémica IA para detectar armas en el metro</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-york-va-usar-ia-detectar-armas-metro-3294080.jpg?tf=1200x' alt='Nueva York va a usar una polémica IA para detectar armas en el metro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096'>Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095'>Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps</a></h4>
-    <a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps' />
     </a>
 </div>
 
