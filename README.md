@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322'>¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G</a></h4>
-    <a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/55g-todo-debes-saber-tecnologia-antes-llegada-6g-3292889.jpg?tf=1200x' alt='¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036'>Microsoft quiere que controles tu ordenador con la lengua</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hololens-3293994.jpg?tf=1200x' alt='Microsoft quiere que controles tu ordenador con la lengua' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/merece-pena-instalar-ubuntu-2024-1352471'>¿Merece la pena instalar Ubuntu en 2024? Mi opinión tras probar una de las distribuciones favoritas de Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/merece-pena-instalar-ubuntu-2024-1352471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/merece-pena-ubuntu-2024-prueba-linux-3264923.jpg?tf=1200x' alt='¿Merece la pena instalar Ubuntu en 2024? Mi opinión tras probar una de las distribuciones favoritas de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037'>Enseñan sentido común a los robots</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ensenan-sentido-comun-robots-3293995.jpg?tf=1200x' alt='Enseñan sentido común a los robots' />
     </a>
 </div>
 
