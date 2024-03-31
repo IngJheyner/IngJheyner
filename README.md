@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082'>Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas</a></h4>
+    <a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-integracion-copilot-aplicacion-fotos-windows-11-3294049.jpg?tf=1200x' alt='Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-ya-piensa-correo-electronico-futuro-basaria-ia-1376081'>Microsoft ya piensa en el correo electrónico del futuro y se basaría en IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-ya-piensa-correo-electronico-futuro-basaria-ia-1376081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft ya piensa en el correo electrónico del futuro y se basaría en IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pesa-menos-15-kg-sorprendentemente-barato-teclast-vende-portatil-windows-11-precio-locos-1375477'>Pesa menos de 1,5 kg y es sorprendentemente barato: Teclast vende un portátil con Windows 11 a precio de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/pesa-menos-15-kg-sorprendentemente-barato-teclast-vende-portatil-windows-11-precio-locos-1375477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/teclast-f7-plus3-3293143.jpg?tf=1200x' alt='Pesa menos de 1,5 kg y es sorprendentemente barato: Teclast vende un portátil con Windows 11 a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/castillo-japones-puedes-comprar-menos-casa-1374321'>Se vende por 60.000 euros: así es el impresionante castillo japonés que puedes comprar por menos que una casa</a></h4>
-    <a href='https://computerhoy.com/life/castillo-japones-puedes-comprar-menos-casa-1374321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vende-60000-euros-impresionante-castillo-japones-puedes-comprar-menos-casa-3291219.jpg?tf=1200x' alt='Se vende por 60.000 euros: así es el impresionante castillo japonés que puedes comprar por menos que una casa' />
     </a>
 </div>
 
