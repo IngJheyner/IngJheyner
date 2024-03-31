@@ -50,17 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096'>Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247'>Cómo identificar si te han llamado con número oculto o privado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-identificar-te-han-llamado-numero-oculto-privado-1375247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-identificar-te-han-llamado-numero-oculto-privado-3292809.jpg?tf=1200x' alt='Cómo identificar si te han llamado con número oculto o privado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095'>Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps</a></h4>
-    <a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096'>Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-planea-herramienta-busqueda-imagenes-basada-reconocimiento-facial-funcionaria-1376096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/reconocimiento-facial-china-3103440.jpg?tf=1200x' alt='Microsoft planea una herramienta de búsqueda de imágenes basada en reconocimiento facial y así funcionaría' />
     </a>
 </div>
 
@@ -74,17 +74,17 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082'>Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas</a></h4>
-    <a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-integracion-copilot-aplicacion-fotos-windows-11-3294049.jpg?tf=1200x' alt='Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas' />
+    <h4><a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095'>Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps</a></h4>
+    <a href='https://computerhoy.com/apple/apple-va-google-maps-imaginan-todas-estas-nuevas-funcionalidades-apple-maps-1376095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple va a por Google Maps: imaginan todas estas nuevas funcionalidades para Apple Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-ya-piensa-correo-electronico-futuro-basaria-ia-1376081'>Microsoft ya piensa en el correo electrónico del futuro y se basaría en IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-ya-piensa-correo-electronico-futuro-basaria-ia-1376081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Microsoft ya piensa en el correo electrónico del futuro y se basaría en IA' />
+    <h4><a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082'>Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas</a></h4>
+    <a href='https://computerhoy.com/windows/funciona-integracion-copilot-aplicacion-fotos-windows-11-imagenes-favoritas-presentacion-diapositivas-1376082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/funciona-integracion-copilot-aplicacion-fotos-windows-11-3294049.jpg?tf=1200x' alt='Así funciona la integración de Copilot en la aplicación de Fotos de Windows 11: imágenes favoritas y presentación de diapositivas' />
     </a>
 </div>
 
