@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pesa-menos-15-kg-sorprendentemente-barato-teclast-vende-portatil-windows-11-precio-locos-1375477'>Pesa menos de 1,5 kg y es sorprendentemente barato: Teclast vende un portátil con Windows 11 a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pesa-menos-15-kg-sorprendentemente-barato-teclast-vende-portatil-windows-11-precio-locos-1375477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/teclast-f7-plus3-3293143.jpg?tf=1200x' alt='Pesa menos de 1,5 kg y es sorprendentemente barato: Teclast vende un portátil con Windows 11 a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/castillo-japones-puedes-comprar-menos-casa-1374321'>Se vende por 60.000 euros: así es el impresionante castillo japonés que puedes comprar por menos que una casa</a></h4>
+    <a href='https://computerhoy.com/life/castillo-japones-puedes-comprar-menos-casa-1374321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vende-60000-euros-impresionante-castillo-japones-puedes-comprar-menos-casa-3291219.jpg?tf=1200x' alt='Se vende por 60.000 euros: así es el impresionante castillo japonés que puedes comprar por menos que una casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-sirven-cada-1375346'>Todos los modelos de Raspberry Pi y para qué sirven</a></h4>
     <a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-sirven-cada-1375346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/todos-modelos-raspberry-pi-sirven-3292916.jpg?tf=1200x' alt='Todos los modelos de Raspberry Pi y para qué sirven' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322'>¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G</a></h4>
     <a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/55g-todo-debes-saber-tecnologia-antes-llegada-6g-3292889.jpg?tf=1200x' alt='¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036'>Microsoft quiere que controles tu ordenador con la lengua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hololens-3293994.jpg?tf=1200x' alt='Microsoft quiere que controles tu ordenador con la lengua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estados-unidos-va-matar-500000-buhos-proximos-30-anos-1376048'>Estados Unidos va a matar a 500.000 búhos en los próximos 30 años</a></h4>
-    <a href='https://computerhoy.com/life/estados-unidos-va-matar-500000-buhos-proximos-30-anos-1376048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estados-unidos-va-matar-500000-buhos-salvar-otra-especie-3293876.jpg?tf=1200x' alt='Estados Unidos va a matar a 500.000 búhos en los próximos 30 años' />
     </a>
 </div>
 
