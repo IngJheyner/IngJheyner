@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037'>Enseñan sentido común a los robots</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ensenan-sentido-comun-robots-3293995.jpg?tf=1200x' alt='Enseñan sentido común a los robots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-31-marzo-2024-1376047'>¿Qué santo es hoy? Santoral del domingo 31 de marzo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-31-marzo-2024-1376047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-31-marzo-2024-3294005.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 31 de marzo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032'>Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-10-windows-11-3186856.jpg?tf=1200x' alt='Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-ya-prepara-proximas-vacaciones-estas-nuevas-funcionalidades-alguna-basada-ia-1376011'>Google Maps ya prepara tus próximas vacaciones con estas nuevas funcionalidades y alguna basada en IA</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-ya-prepara-proximas-vacaciones-estas-nuevas-funcionalidades-alguna-basada-ia-1376011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-maps-3293962.jpg?tf=1200x' alt='Google Maps ya prepara tus próximas vacaciones con estas nuevas funcionalidades y alguna basada en IA' />
     </a>
 </div>
 
