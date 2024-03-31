@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037'>Enseñan sentido común a los robots</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ensenan-sentido-comun-robots-1376037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ensenan-sentido-comun-robots-3293995.jpg?tf=1200x' alt='Enseñan sentido común a los robots' />
+    <h4><a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322'>¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G</a></h4>
+    <a href='https://computerhoy.com/redes/55g-todo-debes-saber-antes-llegada-6g-1375322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/55g-todo-debes-saber-tecnologia-antes-llegada-6g-3292889.jpg?tf=1200x' alt='¿Qué es el 5.5G? Todo lo que debes saber sobre la tecnología antes de la llegada del 6G' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-31-marzo-2024-1376047'>¿Qué santo es hoy? Santoral del domingo 31 de marzo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-31-marzo-2024-1376047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/santo-hoy-santoral-domingo-31-marzo-2024-3294005.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 31 de marzo de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036'>Microsoft quiere que controles tu ordenador con la lengua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-controles-ordenador-lengua-1376036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hololens-3293994.jpg?tf=1200x' alt='Microsoft quiere que controles tu ordenador con la lengua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-presencia-aplicaciones-maliciosas-google-play-hacen-pasar-apps-vpn-1376034'>Alerta ante la presencia de aplicaciones maliciosas en Google Play que se hacen pasar por apps VPN</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-presencia-aplicaciones-maliciosas-google-play-hacen-pasar-apps-vpn-1376034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/escudo-antipirateria-listas-iptv-italia-haciendo-vpn-marchen-pais-3280666.jpg?tf=1200x' alt='Alerta ante la presencia de aplicaciones maliciosas en Google Play que se hacen pasar por apps VPN' />
+    <h4><a href='https://computerhoy.com/life/estados-unidos-va-matar-500000-buhos-proximos-30-anos-1376048'>Estados Unidos va a matar a 500.000 búhos en los próximos 30 años</a></h4>
+    <a href='https://computerhoy.com/life/estados-unidos-va-matar-500000-buhos-proximos-30-anos-1376048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estados-unidos-va-matar-500000-buhos-salvar-otra-especie-3293876.jpg?tf=1200x' alt='Estados Unidos va a matar a 500.000 búhos en los próximos 30 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-xxl-brutal-tiene-dos-cestas-precio-apenas-supera-100-euros-1375261'>Esta air fryer XXL es brutal: tiene dos cestas y su precio apenas supera los 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-xxl-brutal-tiene-dos-cestas-precio-apenas-supera-100-euros-1375261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cecofry-dual-9000-3292751.jpg?tf=1200x' alt='Esta air fryer XXL es brutal: tiene dos cestas y su precio apenas supera los 100 euros' />
+    <h4><a href='https://computerhoy.com/pc/camm2-promete-revolucionar-mundo-portatiles-1373212'>¿Qué es CAMM2 y por qué promete revolucionar el mundo de los portátiles?</a></h4>
+    <a href='https://computerhoy.com/pc/camm2-promete-revolucionar-mundo-portatiles-1373212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/verticalimage1711388382097-3292209.jpg?tf=1200x' alt='¿Qué es CAMM2 y por qué promete revolucionar el mundo de los portátiles?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032'>Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-haciendo-windows-11-parezca-cada-vez-windows-10-1376032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/windows-10-windows-11-3186856.jpg?tf=1200x' alt='Microsoft está haciendo que Windows 11 se parezca cada vez más a Windows 10' />
+    <h4><a href='https://computerhoy.com/tecnologia/merece-pena-instalar-ubuntu-2024-1352471'>¿Merece la pena instalar Ubuntu en 2024? Mi opinión tras probar una de las distribuciones favoritas de Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/merece-pena-instalar-ubuntu-2024-1352471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/merece-pena-ubuntu-2024-prueba-linux-3264923.jpg?tf=1200x' alt='¿Merece la pena instalar Ubuntu en 2024? Mi opinión tras probar una de las distribuciones favoritas de Linux' />
     </a>
 </div>
 
