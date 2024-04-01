@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408'>El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo</a></h4>
+    <a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-cybertruck-3294406.jpg?tf=1200x' alt='El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/outlet-portatiles-baratos-amazon-tienes-400-euros-tienes-portatil-ademas-muy-potente-1376152'>Outlet de portátiles baratos en Amazon: si tienes 400 euros, tienes portátil, y además muy potente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/outlet-portatiles-baratos-amazon-tienes-400-euros-tienes-portatil-ademas-muy-potente-1376152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-fc0000ns-3294148.jpg?tf=1200x' alt='Outlet de portátiles baratos en Amazon: si tienes 400 euros, tienes portátil, y además muy potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191'>Irreconocible: así podría ser la superficie de la Luna en menos de 100 años</a></h4>
     <a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/irreconocible-podria-ser-superficie-luna-menos-100-anos-3294196.jpg?tf=1200x' alt='Irreconocible: así podría ser la superficie de la Luna en menos de 100 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171'>Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro</a></h4>
     <a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tdtchannels-aumenta-oferta-nuevos-canales-tv-100-gratis-1376227'>TDTChannels traerá más canales de TV y radio gratis en abril sin registro ni instalación</a></h4>
-    <a href='https://computerhoy.com/tv/tdtchannels-aumenta-oferta-nuevos-canales-tv-100-gratis-1376227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3294356.jpg?tf=1200x' alt='TDTChannels traerá más canales de TV y radio gratis en abril sin registro ni instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287'>La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-ha-creado-nuevo-sindrome-trabajadores-tienen-miedo-ser-reemplazados-tecnologia-sintomas-quien-propenso-sufrirlo-3294366.jpg?tf=1200x' alt='La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados' />
     </a>
 </div>
 
