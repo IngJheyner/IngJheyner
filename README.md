@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/honor-90-smart-caracteristicas-especificaciones-precio-1376423'>Honor 90 Smart, el nuevo móvil con cámara de 108 Mpx, batería extra grande, y menos de 250 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-90-smart-caracteristicas-especificaciones-precio-1376423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/honor-90-smart-nuevo-movil-camara-108-mpx-bateria-extra-grande-menos-250-euros-3294506.jpg?tf=1200x' alt='Honor 90 Smart, el nuevo móvil con cámara de 108 Mpx, batería extra grande, y menos de 250 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162'>Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez</a></h4>
     <a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ring-alarm-3294154.jpg?tf=1200x' alt='Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309'>5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-anime-no-todo-mundo-conoce-son-obras-maestras-ciencia-ficcion-3294387.jpg?tf=1200x' alt='5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408'>El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo</a></h4>
-    <a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-cybertruck-3294406.jpg?tf=1200x' alt='El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo' />
     </a>
 </div>
 
