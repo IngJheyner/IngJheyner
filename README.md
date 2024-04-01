@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tdtchannels-aumenta-oferta-nuevos-canales-tv-100-gratis-1376227'>TDTChannels traerá más canales de TV y radio gratis en abril sin registro ni instalación</a></h4>
+    <a href='https://computerhoy.com/tv/tdtchannels-aumenta-oferta-nuevos-canales-tv-100-gratis-1376227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3294356.jpg?tf=1200x' alt='TDTChannels traerá más canales de TV y radio gratis en abril sin registro ni instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287'>La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados</a></h4>
     <a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-ha-creado-nuevo-sindrome-trabajadores-tienen-miedo-ser-reemplazados-tecnologia-sintomas-quien-propenso-sufrirlo-3294366.jpg?tf=1200x' alt='La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210'>Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/actualizaciones-ciberseguridad-3294255.jpg?tf=1200x' alt='Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154'>Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallace-infinity-pro-y6-3294144.jpg?tf=1200x' alt='Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros' />
     </a>
 </div>
 
