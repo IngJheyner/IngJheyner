@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210'>Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/actualizaciones-ciberseguridad-3294255.jpg?tf=1200x' alt='Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154'>Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallace-infinity-pro-y6-3294144.jpg?tf=1200x' alt='Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195'>Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-encuentra-obstaculo-100000-millones-dolares-crear-stargate-3294201.jpg?tf=1200x' alt='Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167'>Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackeo-linux-3294198.jpg?tf=1200x' alt='Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168'>Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches</a></h4>
     <a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148'>16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/cuidado-tienes-movil-android-estas-28-apps-tienen-malware-algunas-venden-servicios-vpn-gratuitos-1376165'>Cuidado si tienes un móvil Android: estas 28 apps tienen malware y algunas venden servicios de VPN gratuitos</a></h4>
-    <a href='https://computerhoy.com/android/cuidado-tienes-movil-android-estas-28-apps-tienen-malware-algunas-venden-servicios-vpn-gratuitos-1376165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Cuidado si tienes un móvil Android: estas 28 apps tienen malware y algunas venden servicios de VPN gratuitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147'>Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polar-vantage-m-3294138.jpg?tf=1200x' alt='Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes' />
     </a>
 </div>
 
