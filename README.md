@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287'>La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-ha-creado-nuevo-sindrome-trabajadores-tienen-miedo-ser-reemplazados-tecnologia-sintomas-quien-propenso-sufrirlo-3294366.jpg?tf=1200x' alt='La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238'>Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento</a></h4>
     <a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/generar-imagenes-ia-3294306.jpg?tf=1200x' alt='Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154'>Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyector-android-tiene-todas-aplicaciones-full-hd-rebajado-149-euros-1376154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallace-infinity-pro-y6-3294144.jpg?tf=1200x' alt='Este proyector Android tiene todas tus aplicaciones, Full HD y está rebajado a 149 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195'>Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate</a></h4>
-    <a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-encuentra-obstaculo-100000-millones-dolares-crear-stargate-3294201.jpg?tf=1200x' alt='Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate' />
     </a>
 </div>
 
