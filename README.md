@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147'>Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polar-vantage-m-3294138.jpg?tf=1200x' alt='Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823'>¿Merece la pena una cámara o un móvil que grabe en 8K?</a></h4>
     <a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/merece-pena-grabar-8k-4k-3287104.jpg?tf=1200x' alt='¿Merece la pena una cámara o un móvil que grabe en 8K?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132'>La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-ya-tiene-listos-tres-mini-rover-autonomos-van-trabajar-juntos-luna-3294117.jpg?tf=1200x' alt='La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128'>Google avisa: para usar la IA en modo local, se necesita un móvil con mucha RAM</a></h4>
-    <a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191836.jpg?tf=1200x' alt='Google avisa: para usar la IA en modo local, se necesita un móvil con mucha RAM' />
     </a>
 </div>
 
