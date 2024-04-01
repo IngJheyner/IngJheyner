@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162'>Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ring-alarm-3294154.jpg?tf=1200x' alt='Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405'>Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/telegram-compartira-50-ingresos-publicidad-propietarios-canales-3294529.jpg?tf=1200x' alt='Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-1376403'>Movistar Plus+ incorpora el catálogo completo de HBO Max sin coste adicional</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-1376403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-3294513.jpg?tf=1200x' alt='Movistar Plus+ incorpora el catálogo completo de HBO Max sin coste adicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309'>5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-anime-no-todo-mundo-conoce-son-obras-maestras-ciencia-ficcion-3294387.jpg?tf=1200x' alt='5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408'>El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo</a></h4>
     <a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-cybertruck-3294406.jpg?tf=1200x' alt='El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/outlet-portatiles-baratos-amazon-tienes-400-euros-tienes-portatil-ademas-muy-potente-1376152'>Outlet de portátiles baratos en Amazon: si tienes 400 euros, tienes portátil, y además muy potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/outlet-portatiles-baratos-amazon-tienes-400-euros-tienes-portatil-ademas-muy-potente-1376152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-fc0000ns-3294148.jpg?tf=1200x' alt='Outlet de portátiles baratos en Amazon: si tienes 400 euros, tienes portátil, y además muy potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191'>Irreconocible: así podría ser la superficie de la Luna en menos de 100 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/irreconocible-podria-ser-superficie-luna-menos-100-anos-3294196.jpg?tf=1200x' alt='Irreconocible: así podría ser la superficie de la Luna en menos de 100 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo' />
     </a>
 </div>
 
