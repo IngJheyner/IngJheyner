@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148'>16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/cuidado-tienes-movil-android-estas-28-apps-tienen-malware-algunas-venden-servicios-vpn-gratuitos-1376165'>Cuidado si tienes un móvil Android: estas 28 apps tienen malware y algunas venden servicios de VPN gratuitos</a></h4>
+    <a href='https://computerhoy.com/android/cuidado-tienes-movil-android-estas-28-apps-tienen-malware-algunas-venden-servicios-vpn-gratuitos-1376165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Cuidado si tienes un móvil Android: estas 28 apps tienen malware y algunas venden servicios de VPN gratuitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147'>Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polar-vantage-m-3294138.jpg?tf=1200x' alt='Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002'>Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/protonvpn-3293955.jpg?tf=1200x' alt='Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-1-abril-2024-1376133'>¿Qué santo es hoy? Santoral del lunes 1 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-1-abril-2024-1376133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-1-abril-2024-3294123.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 1 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132'>La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-ya-tiene-listos-tres-mini-rover-autonomos-van-trabajar-juntos-luna-3294117.jpg?tf=1200x' alt='La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna' />
     </a>
 </div>
 
