@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167'>Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackeo-linux-3294198.jpg?tf=1200x' alt='Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168'>Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches</a></h4>
     <a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147'>Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-polar-running-supera-garmin-cuesta-menos-200-euros-mide-130-deportes-1376147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polar-vantage-m-3294138.jpg?tf=1200x' alt='Este reloj Polar para running supera a los Garmin: cuesta menos de 200 euros y mide 130 deportes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823'>¿Merece la pena una cámara o un móvil que grabe en 8K?</a></h4>
-    <a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/merece-pena-grabar-8k-4k-3287104.jpg?tf=1200x' alt='¿Merece la pena una cámara o un móvil que grabe en 8K?' />
     </a>
 </div>
 
