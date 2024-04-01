@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823'>¿Merece la pena una cámara o un móvil que grabe en 8K?</a></h4>
+    <a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/merece-pena-grabar-8k-4k-3287104.jpg?tf=1200x' alt='¿Merece la pena una cámara o un móvil que grabe en 8K?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002'>Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/protonvpn-3293955.jpg?tf=1200x' alt='Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128'>Google avisa: Para usar la IA en modo local, se necesita un móvil con mucha RAM</a></h4>
+    <h4><a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128'>Google avisa: para usar la IA en modo local, se necesita un móvil con mucha RAM</a></h4>
     <a href='https://computerhoy.com/google/google-ia-gemini-nano-modo-local-movil-12-gb-ram-1376128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191836.jpg?tf=1200x' alt='Google avisa: Para usar la IA en modo local, se necesita un móvil con mucha RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-ps5-pro-enhanced-requisitos-1376126'>Se filtran los requisitos de los juegos para llevar el sello "PlayStation 5 Pro Enhanced"</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-ps5-pro-enhanced-requisitos-1376126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ps5-pro-3290517.jpg?tf=1200x' alt='Se filtran los requisitos de los juegos para llevar el sello "PlayStation 5 Pro Enhanced"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191836.jpg?tf=1200x' alt='Google avisa: para usar la IA en modo local, se necesita un móvil con mucha RAM' />
     </a>
 </div>
 
