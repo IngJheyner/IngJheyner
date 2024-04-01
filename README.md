@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238'>Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/generar-imagenes-ia-3294306.jpg?tf=1200x' alt='Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/destruira-ia-humanidad-elon-musk-tiene-bastante-claro-1376257'>Elon Musk asegura que hay una probabilidad del 20% de que la IA destruya la humanidad, pero es un riesgo que debemos asumir</a></h4>
+    <a href='https://computerhoy.com/tecnologia/destruira-ia-humanidad-elon-musk-tiene-bastante-claro-1376257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-ha-asegurado-hay-probabilidad-20-ia-destruya-humanidad-pero-riesgo-debemos-asumir-3294313.jpg?tf=1200x' alt='Elon Musk asegura que hay una probabilidad del 20% de que la IA destruya la humanidad, pero es un riesgo que debemos asumir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210'>Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/actualizacion-urgente-microsoft-google-apple-lanzan-parches-corregir-fallos-criticos-1376210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/actualizaciones-ciberseguridad-3294255.jpg?tf=1200x' alt='Actualización urgente: Microsoft, Google, Apple y más lanzan parches para corregir fallos críticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195'>Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-superordenador-stargate-1376195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-encuentra-obstaculo-100000-millones-dolares-crear-stargate-3294201.jpg?tf=1200x' alt='Microsoft se encuentra con un gran obstáculo para crear su superordenador Stargate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167'>Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackean-durante-anos-xz-pieza-clave-linux-investigador-descubre-gracias-instinto-friki-1376167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackeo-linux-3294198.jpg?tf=1200x' alt='Hackean durante años XZ, una pieza clave de Linux y un investigador lo descubre gracias a su instinto friki ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168'>Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches</a></h4>
-    <a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches' />
     </a>
 </div>
 
