@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-1-abril-2024-1376133'>¿Qué santo es hoy? Santoral del lunes 1 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-1-abril-2024-1376133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-1-abril-2024-3294123.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 1 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132'>La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-prueba-tres-mini-rover-autonomos-trabajar-juntos-luna-1376132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nasa-ya-tiene-listos-tres-mini-rover-autonomos-van-trabajar-juntos-luna-3294117.jpg?tf=1200x' alt='La NASA ya tiene listos los tres mini rover autónomos que van a trabajar juntos en la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123'>Primera carrera con trajes voladores de la historia, no te pierdas el vídeo</a></h4>
     <a href='https://computerhoy.com/tecnologia/primera-carrera-trajes-voladores-historia-video-1376123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/primera-carrera-trajes-voladores-historia-no-te-pierdas-video-3294096.jpg?tf=1200x' alt='Primera carrera con trajes voladores de la historia, no te pierdas el vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112'>Nueva York va a usar una polémica IA para detectar armas en el metro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-york-va-usar-polemica-inteligencia-artificial-detectar-armas-metro-1376112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nueva-york-va-usar-ia-detectar-armas-metro-3294080.jpg?tf=1200x' alt='Nueva York va a usar una polémica IA para detectar armas en el metro' />
     </a>
 </div>
 
