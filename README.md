@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309'>5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-anime-poco-conocidas-ciencia-ficcion-1376309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-anime-no-todo-mundo-conoce-son-obras-maestras-ciencia-ficcion-3294387.jpg?tf=1200x' alt='5 películas de anime que no todo el mundo conoce y son obras maestras de la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408'>El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo</a></h4>
     <a href='https://computerhoy.com/motor/ingeniero-tesla-cybertruck-desesperado-suplica-dejen-dispararlo-1374408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-cybertruck-3294406.jpg?tf=1200x' alt='El ingeniero del Tesla Cybertruck desesperado suplica que dejen de dispararlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171'>Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro</a></h4>
-    <a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro' />
     </a>
 </div>
 
