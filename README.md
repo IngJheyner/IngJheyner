@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191'>Irreconocible: así podría ser la superficie de la Luna en menos de 100 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/irreconocible-podria-ser-superficie-luna-menos-100-anos-1376191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/irreconocible-podria-ser-superficie-luna-menos-100-anos-3294196.jpg?tf=1200x' alt='Irreconocible: así podría ser la superficie de la Luna en menos de 100 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='La Guardia Civil advierte del peligro de compartir publicaciones en tiempo real, y cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171'>Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro</a></h4>
     <a href='https://computerhoy.com/life/ventajas-vestir-siempre-igual-1376171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Vestir siempre igual tiene ventajas, y celebridades como Bill Gates lo tienen claro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287'>La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados</a></h4>
     <a href='https://computerhoy.com/tecnologia/fobo-posibles-sintomas-miedo-ser-reemplazados-ia-1376287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-ha-creado-nuevo-sindrome-trabajadores-tienen-miedo-ser-reemplazados-tecnologia-sintomas-quien-propenso-sufrirlo-3294366.jpg?tf=1200x' alt='La IA ha creado un nuevo síndrome entre los trabajadores: FOBO o miedo a ser reemplazados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238'>Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-crear-imagenes-dall-midjourney-no-morir-intento-1376238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/generar-imagenes-ia-3294306.jpg?tf=1200x' alt='Trucos para crear imágenes con DALL-E o Midjourney y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/destruira-ia-humanidad-elon-musk-tiene-bastante-claro-1376257'>Elon Musk asegura que hay una probabilidad del 20% de que la IA destruya la humanidad, pero es un riesgo que debemos asumir</a></h4>
-    <a href='https://computerhoy.com/tecnologia/destruira-ia-humanidad-elon-musk-tiene-bastante-claro-1376257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-ha-asegurado-hay-probabilidad-20-ia-destruya-humanidad-pero-riesgo-debemos-asumir-3294313.jpg?tf=1200x' alt='Elon Musk asegura que hay una probabilidad del 20% de que la IA destruya la humanidad, pero es un riesgo que debemos asumir' />
     </a>
 </div>
 
