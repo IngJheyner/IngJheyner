@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168'>Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches</a></h4>
+    <a href='https://computerhoy.com/motor/google-apple-ganan-batalla-software-fabricantes-coches-1376168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-coches-cada-vez-confian-google-apple-sistemas-infoentretenimiento-3294181.jpg?tf=1200x' alt='Google y Apple ganan la batalla y los fabricantes están perdiendo el control de sus propios coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148'>16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/16-gb-ram-potentisimo-i7-gpu-locos-quema-juegos-triple-portatil-tiene-500-euros-descuento-1376148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='16 GB de RAM, potentísimo y i7 y GPU de locos: quema juegos Triple A con este portátil que tiene 500 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823'>¿Merece la pena una cámara o un móvil que grabe en 8K?</a></h4>
     <a href='https://computerhoy.com/tv/merece-pena-camara-movil-grabe-8k-1371823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/merece-pena-grabar-8k-4k-3287104.jpg?tf=1200x' alt='¿Merece la pena una cámara o un móvil que grabe en 8K?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002'>Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-gratis-suiza-funciona-android-ios-cualquier-ordenador-1376002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/protonvpn-3293955.jpg?tf=1200x' alt='Esta VPN gratis es suiza y funciona en Android, iOS y en cualquier ordenador' />
     </a>
 </div>
 
