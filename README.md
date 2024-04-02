@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512'>El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-cogidos-3294723.jpg?tf=1200x' alt='El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486'>PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/msi-bravo-15-c7ve-289xes-3294645.jpg?tf=1200x' alt='PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496'>Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero</a></h4>
     <a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/esoulbike-3294715.jpg?tf=1200x' alt='Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175'>La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-m2-zero-3294182.jpg?tf=1200x' alt='La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473'>Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ciberseguridad-3294635.jpg?tf=1200x' alt='Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468'>Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable</a></h4>
-    <a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-debes-realizar-router-tener-wifi-rapida-ysegura-3294611.jpg?tf=1200x' alt='Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable' />
     </a>
 </div>
 
