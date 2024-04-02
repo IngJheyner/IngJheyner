@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473'>Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ciberseguridad-3294635.jpg?tf=1200x' alt='Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468'>Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable</a></h4>
+    <a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-debes-realizar-router-tener-wifi-rapida-ysegura-3294611.jpg?tf=1200x' alt='Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todos-ya-puedes-usar-chatgpt-registros-ni-cuentas-1376462'>Inteligencia artificial para todos: ya puedes usar ChatGPT sin registros ni cuentas</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todos-ya-puedes-usar-chatgpt-registros-ni-cuentas-1376462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-inicio-sesion-3294610.jpg?tf=1200x' alt='Inteligencia artificial para todos: ya puedes usar ChatGPT sin registros ni cuentas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-rog-strix-scar-17-portatil-gaming-analisis-opinion-1374579'>He analizado el Asus ROG Strix SCAR 17, un portátil gaming repleto de luces que me ha encantado por su potencia y refrigeración</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-rog-strix-scar-17-portatil-gaming-analisis-opinion-1374579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-rog-strix-scar-17-3292223.jpg?tf=1200x' alt='He analizado el Asus ROG Strix SCAR 17, un portátil gaming repleto de luces que me ha encantado por su potencia y refrigeración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641'>Las mejores apps para Nintendo Switch que no son juegos</a></h4>
-    <a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nintendo-switch-3294411.jpg?tf=1200x' alt='Las mejores apps para Nintendo Switch que no son juegos' />
     </a>
 </div>
 
