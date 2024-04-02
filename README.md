@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ganar-dinero-impresora-3d-casa-1376361'>¿Tienes una impresora 3D? Así puedes ganar dinero con ella sin salir casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ganar-dinero-impresora-3d-casa-1376361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-formas-ganar-dinero-impresora-3d-casa-3294499.jpg?tf=1200x' alt='¿Tienes una impresora 3D? Así puedes ganar dinero con ella sin salir casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
+    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/lado-oscuro-cervezas-alcohol-0-light-nadie-te-cuenta-3288995.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/samsung-aumentara-drasticamente-precio-discos-ssd-1376556'>Samsung da el primer paso y aumentará drásticamente el precio de los discos SSD (y no será la última)</a></h4>
     <a href='https://computerhoy.com/pc/samsung-aumentara-drasticamente-precio-discos-ssd-1376556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-ssd-860-evo-m-sata-1tb_0.jpg?tf=1200x' alt='Samsung da el primer paso y aumentará drásticamente el precio de los discos SSD (y no será la última)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593'>Soluciones cuando tu ordenador con Windows se atasca al reiniciar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/soluciones-cuando-ordenador-atasca-reiniciar-3288258.jpg?tf=1200x' alt='Soluciones cuando tu ordenador con Windows se atasca al reiniciar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-anade-nueva-funcion-te-ahorrara-cientos-euros-multas-1376506'>Waze trae una nueva función que no tiene Google Maps y te ahorrará mucho dinero en multas</a></h4>
-    <a href='https://computerhoy.com/apps/waze-anade-nueva-funcion-te-ahorrara-cientos-euros-multas-1376506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/waze-trae-nueva-funcion-no-tiene-google-maps-3294777.jpg?tf=1200x' alt='Waze trae una nueva función que no tiene Google Maps y te ahorrará mucho dinero en multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512'>El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-cogidos-3294723.jpg?tf=1200x' alt='El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver' />
     </a>
 </div>
 
