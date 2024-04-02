@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641'>Las mejores apps para Nintendo Switch que no son juegos</a></h4>
+    <a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nintendo-switch-3294411.jpg?tf=1200x' alt='Las mejores apps para Nintendo Switch que no son juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-cosas-realmente-importan-elegir-vpn-1376413'>5 cosas que realmente importan al elegir una VPN</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-cosas-realmente-importan-elegir-vpn-1376413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285092.jpg?tf=1200x' alt='5 cosas que realmente importan al elegir una VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/como-leer-mensajes-instagram-muestre-visto-1375537'>Cómo leer mensajes en Instagram sin que se muestre el "visto"</a></h4>
+    <a href='https://computerhoy.com/apps/como-leer-mensajes-instagram-muestre-visto-1375537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-leer-mensajes-instagram-muestre-visto-3293317.jpg?tf=1200x' alt='Cómo leer mensajes en Instagram sin que se muestre el "visto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-1375635'>Cómo la IA de YouTube te ayuda a encontrar los mejores momentos de cualquier vídeo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-1375635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-3293447.jpg?tf=1200x' alt='Cómo la IA de YouTube te ayuda a encontrar los mejores momentos de cualquier vídeo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/geobox-software-convierte-raspberry-pi-herramienta-ciberataques-1376438'>Geobox, el peligroso software que convierte a la Raspberry Pi en una herramienta para ciberataques</a></h4>
     <a href='https://computerhoy.com/tecnologia/geobox-software-convierte-raspberry-pi-herramienta-ciberataques-1376438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/geobox-peligroso-software-convierte-raspberry-pi-herramienta-ciberataques-3294576.jpg?tf=1200x' alt='Geobox, el peligroso software que convierte a la Raspberry Pi en una herramienta para ciberataques' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-1376432'>Cómo saber si un radar de la DGT te ha multado durante estas vacaciones</a></h4>
-    <a href='https://computerhoy.com/motor/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-1376432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-3294568.jpg?tf=1200x' alt='Cómo saber si un radar de la DGT te ha multado durante estas vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-2-abril-2024-1376434'>¿Qué santo es hoy? Santoral del martes 2 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-2-abril-2024-1376434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-2-abril-2024-3294563.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 2 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429'>Aumentan las voces que piden expulsar a Flipper Zero de los colegios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumentan-voces-piden-expulsar-flipper-zero-colegios-3294561.jpg?tf=1200x' alt='Aumentan las voces que piden expulsar a Flipper Zero de los colegios' />
     </a>
 </div>
 
