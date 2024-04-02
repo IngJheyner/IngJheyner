@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-1376432'>Cómo saber si un radar de la DGT te ha multado durante estas vacaciones</a></h4>
+    <a href='https://computerhoy.com/motor/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-1376432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-radar-dgt-te-ha-multado-durante-estas-vacaciones-3294568.jpg?tf=1200x' alt='Cómo saber si un radar de la DGT te ha multado durante estas vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-2-abril-2024-1376434'>¿Qué santo es hoy? Santoral del martes 2 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-2-abril-2024-1376434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-2-abril-2024-3294563.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 2 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429'>Aumentan las voces que piden expulsar a Flipper Zero de los colegios</a></h4>
     <a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumentan-voces-piden-expulsar-flipper-zero-colegios-3294561.jpg?tf=1200x' alt='Aumentan las voces que piden expulsar a Flipper Zero de los colegios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/honor-90-smart-caracteristicas-especificaciones-precio-1376423'>Honor 90 Smart, el nuevo móvil con cámara de 108 Mpx, batería extra grande, y menos de 250 euros</a></h4>
     <a href='https://computerhoy.com/moviles/honor-90-smart-caracteristicas-especificaciones-precio-1376423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/honor-90-smart-nuevo-movil-camara-108-mpx-bateria-extra-grande-menos-250-euros-3294506.jpg?tf=1200x' alt='Honor 90 Smart, el nuevo móvil con cámara de 108 Mpx, batería extra grande, y menos de 250 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162'>Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vacaciones-seguras-alarma-amazon-compite-securitas-direct-oferta-pagas-solo-vez-1376162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ring-alarm-3294154.jpg?tf=1200x' alt='Vacaciones seguras: la alarma de Amazon compite contra Securitas Direct, está en oferta y la pagas solo una vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405'>Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/telegram-compartira-50-ingresos-publicidad-propietarios-canales-3294529.jpg?tf=1200x' alt='Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales' />
     </a>
 </div>
 
