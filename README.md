@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593'>Soluciones cuando tu ordenador con Windows se atasca al reiniciar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/soluciones-cuando-ordenador-atasca-reiniciar-1141593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/soluciones-cuando-ordenador-atasca-reiniciar-3288258.jpg?tf=1200x' alt='Soluciones cuando tu ordenador con Windows se atasca al reiniciar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-anade-nueva-funcion-te-ahorrara-cientos-euros-multas-1376506'>Waze trae una nueva función que no tiene Google Maps y te ahorrará mucho dinero en multas</a></h4>
+    <a href='https://computerhoy.com/apps/waze-anade-nueva-funcion-te-ahorrara-cientos-euros-multas-1376506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/waze-trae-nueva-funcion-no-tiene-google-maps-3294777.jpg?tf=1200x' alt='Waze trae una nueva función que no tiene Google Maps y te ahorrará mucho dinero en multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512'>El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-cogidos-3294723.jpg?tf=1200x' alt='El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486'>PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet</a></h4>
     <a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/msi-bravo-15-c7ve-289xes-3294645.jpg?tf=1200x' alt='PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496'>Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero</a></h4>
-    <a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/esoulbike-3294715.jpg?tf=1200x' alt='Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-separa-nivel-mundial-teams-office-365-evitar-multa-millonaria-antimonopolio-1376487'>Microsoft separa a nivel mundial Teams de Office 365 para evitar la multa millonaria por antimonopolio </a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-separa-nivel-mundial-teams-office-365-evitar-multa-millonaria-antimonopolio-1376487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-365-cambios-teams-3294683.jpg?tf=1200x' alt='Microsoft separa a nivel mundial Teams de Office 365 para evitar la multa millonaria por antimonopolio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175'>La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-m2-zero-3294182.jpg?tf=1200x' alt='La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android' />
     </a>
 </div>
 
