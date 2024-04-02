@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293'>Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/efecto-eliza-riesgos-humanizacion-inteligencia-artificial-3294369.jpg?tf=1200x' alt='Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tengo-mac-mini-m2-600eu-cuesta-ahora-mismo-me-volveria-comprar-dudarlo-1376498'>Tengo el Mac Mini M2 y por los 600€ que cuesta ahora mismo, me lo volvería a comprar sin dudarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/tengo-mac-mini-m2-600eu-cuesta-ahora-mismo-me-volveria-comprar-dudarlo-1376498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mac-mini-3294660.jpg?tf=1200x' alt='Tengo el Mac Mini M2 y por los 600€ que cuesta ahora mismo, me lo volvería a comprar sin dudarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-1376345'>Cómo activar y utilizar la función Encontrar mi dispositivo en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-1376345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-3294461.jpg?tf=1200x' alt='Cómo activar y utilizar la función Encontrar mi dispositivo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
     </a>
 </div>
 
