@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706'>La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509'>Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-nord-ce-3-3294680.jpg?tf=1200x' alt='Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-anade-iphone-vendidos-historia-lista-modelos-obsoletos-1376682'>Apple añade uno de los iPhone más vendidos de la historia a la lista de modelos obsoletos</a></h4>
     <a href='https://computerhoy.com/apple/apple-anade-iphone-vendidos-historia-lista-modelos-obsoletos-1376682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iphone-6-plus-3294954.jpg?tf=1200x' alt='Apple añade uno de los iPhone más vendidos de la historia a la lista de modelos obsoletos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563'>Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-te-sorprenderan-3293330.jpg?tf=1200x' alt='Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán' />
     </a>
 </div>
 
