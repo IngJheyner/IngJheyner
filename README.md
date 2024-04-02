@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496'>Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero</a></h4>
+    <a href='https://computerhoy.com/life/kit-puede-convertir-cualquier-bicicleta-electrica-minutos-1376496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/esoulbike-3294715.jpg?tf=1200x' alt='Este invento promete convertir cualquier bicicleta en eléctrica en minutos y por muy poco dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-separa-nivel-mundial-teams-office-365-evitar-multa-millonaria-antimonopolio-1376487'>Microsoft separa a nivel mundial Teams de Office 365 para evitar la multa millonaria por antimonopolio </a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-separa-nivel-mundial-teams-office-365-evitar-multa-millonaria-antimonopolio-1376487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-365-cambios-teams-3294683.jpg?tf=1200x' alt='Microsoft separa a nivel mundial Teams de Office 365 para evitar la multa millonaria por antimonopolio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175'>La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-barata-raspberry-pi-cuesta-poco-20-euros-puede-linux-android-1376175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-m2-zero-3294182.jpg?tf=1200x' alt='La alternativa más barata a Raspberry Pi cuesta poco más de 20 euros y puede con Linux y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473'>Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-toma-cartas-asunto-hackeo-xz-utils-linux-lanza-serias-recomendaciones-1376473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ciberseguridad-3294635.jpg?tf=1200x' alt='Microsoft toma cartas en el asunto del hackeo de XZ Utils de Linux y lanza serias recomendaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468'>Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable</a></h4>
     <a href='https://computerhoy.com/redes/como-configurar-router-aumentar-seguridad-wifi-1376468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-debes-realizar-router-tener-wifi-rapida-ysegura-3294611.jpg?tf=1200x' alt='Esto es mi rutina para garantizar que mi WiFi es siempre la más rápida y estable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todos-ya-puedes-usar-chatgpt-registros-ni-cuentas-1376462'>Inteligencia artificial para todos: ya puedes usar ChatGPT sin registros ni cuentas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-todos-ya-puedes-usar-chatgpt-registros-ni-cuentas-1376462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-inicio-sesion-3294610.jpg?tf=1200x' alt='Inteligencia artificial para todos: ya puedes usar ChatGPT sin registros ni cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-solo-adelgaza-todas-ventajas-salud-comer-despacio-1368718'>Comer despacio no solo adelgaza: estas son todas sus ventajas para la salud</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-solo-adelgaza-todas-ventajas-salud-comer-despacio-1368718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/comer-despacio-no-solo-adelgaza-estas-son-todas-ventajas-salud-3281343.jpg?tf=1200x' alt='Comer despacio no solo adelgaza: estas son todas sus ventajas para la salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091'>Aire acondicionado de bajo consumo: mejores modelos que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-bajo-consumo-mejores-modelos-1062091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='Aire acondicionado de bajo consumo: mejores modelos que puedes comprar' />
     </a>
 </div>
 
