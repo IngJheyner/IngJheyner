@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/samsung-aumentara-drasticamente-precio-discos-ssd-1376556'>Samsung da el primer paso y aumentará drásticamente el precio de los discos SSD (y no será la última)</a></h4>
+    <a href='https://computerhoy.com/pc/samsung-aumentara-drasticamente-precio-discos-ssd-1376556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/samsung-ssd-860-evo-m-sata-1tb_0.jpg?tf=1200x' alt='Samsung da el primer paso y aumentará drásticamente el precio de los discos SSD (y no será la última)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751'>Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/riesgo-compartir-publicaciones-tiempo-real-1373751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/riesgo-compartir-publicaciones-tiempo-real-como-evitarlo-3289980.jpg?tf=1200x' alt='Este es el riesgo de compartir publicaciones en tiempo real, y cómo evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512'>El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fans-netflix-encuentran-codigo-secreto-no-pierdas-tiempo-buscando-ver-1376512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-cogidos-3294723.jpg?tf=1200x' alt='El truco de los cuatro dígitos en Netflix, la solución para que no pierdas el tiempo buscando qué ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486'>PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-pone-tienda-patas-arriba-rtx-4050-ryzen-5-precio-outlet-1376486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/msi-bravo-15-c7ve-289xes-3294645.jpg?tf=1200x' alt='PcComponentes pone su tienda patas arriba: RTX 4050 y Ryzen 5 a precio de outlet' />
     </a>
 </div>
 
