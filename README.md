@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/asus-rog-strix-scar-17-portatil-gaming-analisis-opinion-1374579'>He analizado el Asus ROG Strix SCAR 17, un portátil gaming repleto de luces que me ha encantado por su potencia y refrigeración</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-rog-strix-scar-17-portatil-gaming-analisis-opinion-1374579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/asus-rog-strix-scar-17-3292223.jpg?tf=1200x' alt='He analizado el Asus ROG Strix SCAR 17, un portátil gaming repleto de luces que me ha encantado por su potencia y refrigeración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641'>Las mejores apps para Nintendo Switch que no son juegos</a></h4>
     <a href='https://computerhoy.com/gaming/mejores-apps-nintendo-switch-ser-juegos-1375641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nintendo-switch-3294411.jpg?tf=1200x' alt='Las mejores apps para Nintendo Switch que no son juegos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-1375635'>Cómo la IA de YouTube te ayuda a encontrar los mejores momentos de cualquier vídeo</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-1375635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-ia-youtube-te-ayuda-encontrar-mejores-momentos-cualquier-video-3293447.jpg?tf=1200x' alt='Cómo la IA de YouTube te ayuda a encontrar los mejores momentos de cualquier vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/geobox-software-convierte-raspberry-pi-herramienta-ciberataques-1376438'>Geobox, el peligroso software que convierte a la Raspberry Pi en una herramienta para ciberataques</a></h4>
-    <a href='https://computerhoy.com/tecnologia/geobox-software-convierte-raspberry-pi-herramienta-ciberataques-1376438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/geobox-peligroso-software-convierte-raspberry-pi-herramienta-ciberataques-3294576.jpg?tf=1200x' alt='Geobox, el peligroso software que convierte a la Raspberry Pi en una herramienta para ciberataques' />
     </a>
 </div>
 
