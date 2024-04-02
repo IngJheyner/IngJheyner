@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509'>Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-nord-ce-3-3294680.jpg?tf=1200x' alt='Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/basura-espacial-atraviesa-tejado-dos-plantas-casa-florida-1376686'>Una batería de la Estación Espacial Internacional cae a la Tierra y atraviesa el tejado y dos plantas de una casa en Florida</a></h4>
     <a href='https://computerhoy.com/espacio/basura-espacial-atraviesa-tejado-dos-plantas-casa-florida-1376686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-estacion-espacial-internacional-cae-tierra-atraviesa-tejado-dos-plantas-casa-florida-3294943.jpg?tf=1200x' alt='Una batería de la Estación Espacial Internacional cae a la Tierra y atraviesa el tejado y dos plantas de una casa en Florida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563'>Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-te-sorprenderan-3293330.jpg?tf=1200x' alt='Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293'>Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/efecto-eliza-riesgos-humanizacion-inteligencia-artificial-3294369.jpg?tf=1200x' alt='Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial' />
     </a>
 </div>
 
