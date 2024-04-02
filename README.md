@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-mac-mini-m2-600eu-cuesta-ahora-mismo-me-volveria-comprar-dudarlo-1376498'>Tengo el Mac Mini M2 y por los 600€ que cuesta ahora mismo, me lo volvería a comprar sin dudarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-mac-mini-m2-600eu-cuesta-ahora-mismo-me-volveria-comprar-dudarlo-1376498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mac-mini-3294660.jpg?tf=1200x' alt='Tengo el Mac Mini M2 y por los 600€ que cuesta ahora mismo, me lo volvería a comprar sin dudarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estafa-fiabilidad-comprar-temu-1376393'>¿Es seguro comprar en Temu o es una estafa? Todo lo que debes saber antes de comprar</a></h4>
+    <a href='https://computerhoy.com/internet/estafa-fiabilidad-comprar-temu-1376393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguro-comprar-temu-estafa-todo-debes-saber-antes-comprar-tienda-3294559.jpg?tf=1200x' alt='¿Es seguro comprar en Temu o es una estafa? Todo lo que debes saber antes de comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/significa-uso-cpu-como-interpretar-dato-correctamente-1376611'>Qué significa el uso de CPU y cómo interpretar este dato correctamente</a></h4>
     <a href='https://computerhoy.com/pc/significa-uso-cpu-como-interpretar-dato-correctamente-1376611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significa-uso-cpu-como-interpretar-dato-correctamente-3294892.jpg?tf=1200x' alt='Qué significa el uso de CPU y cómo interpretar este dato correctamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432'>Cómo calibrar Google Maps en Android para que sea mucho más preciso</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calibrar-google-maps-android-sea-mucho-preciso-1296432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-calibrar-google-maps-android-sea-mucho-preciso-3293460.jpg?tf=1200x' alt='Cómo calibrar Google Maps en Android para que sea mucho más preciso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ganar-dinero-impresora-3d-casa-1376361'>¿Tienes una impresora 3D? Así puedes ganar dinero con ella sin salir casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ganar-dinero-impresora-3d-casa-1376361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-formas-ganar-dinero-impresora-3d-casa-3294499.jpg?tf=1200x' alt='¿Tienes una impresora 3D? Así puedes ganar dinero con ella sin salir casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740'>El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta</a></h4>
-    <a href='https://computerhoy.com/alimentacion/lado-oscuro-cervezas-alcohol-nadie-te-cuenta-1294740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/lado-oscuro-cervezas-alcohol-0-light-nadie-te-cuenta-3288995.jpg?tf=1200x' alt='El lado oscuro de las cervezas sin alcohol, 0% y Light que nadie te cuenta' />
     </a>
 </div>
 
