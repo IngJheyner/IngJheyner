@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429'>Aumentan las voces que piden expulsar a Flipper Zero de los colegios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aumentan-voces-piden-expulsar-flipper-zero-colegios-1376429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumentan-voces-piden-expulsar-flipper-zero-colegios-3294561.jpg?tf=1200x' alt='Aumentan las voces que piden expulsar a Flipper Zero de los colegios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-obligada-borrar-datos-recopilo-modo-incognito-chrome-1376428'>Google es obligada a borrar miles de millones de datos del Modo Incógnito de Chrome, que recopiló de 136 millones de usuarios</a></h4>
     <a href='https://computerhoy.com/google/google-obligada-borrar-datos-recopilo-modo-incognito-chrome-1376428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chrome-actualiza-avistarte-google-webs-te-rastrean-modo-incognito-3262134.jpg?tf=1200x' alt='Google es obligada a borrar miles de millones de datos del Modo Incógnito de Chrome, que recopiló de 136 millones de usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405'>Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales</a></h4>
     <a href='https://computerhoy.com/apps/telegram-compartira-50-ingresos-publicidad-propietarios-canales-1376405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/telegram-compartira-50-ingresos-publicidad-propietarios-canales-3294529.jpg?tf=1200x' alt='Telegram compartirá el 50% de los ingresos por publicidad con los propietarios de los canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-1376403'>Movistar Plus+ incorpora el catálogo completo de HBO Max sin coste adicional</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-1376403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movistar-plus-incorpora-catalogo-completo-hbo-max-coste-adicional-3294513.jpg?tf=1200x' alt='Movistar Plus+ incorpora el catálogo completo de HBO Max sin coste adicional' />
     </a>
 </div>
 
