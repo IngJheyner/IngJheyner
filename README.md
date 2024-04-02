@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563'>Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-1375563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ni-godzilla-ni-kong-5-peliculas-monstruos-gigantes-poco-conocidas-te-sorprenderan-3293330.jpg?tf=1200x' alt='Ni Godzilla ni Kong: 5 películas de monstruos gigantes poco conocidas que te sorprenderán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293'>Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/ciencia/efecto-eliza-riesgos-humanizacion-ai-1376293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/efecto-eliza-riesgos-humanizacion-inteligencia-artificial-3294369.jpg?tf=1200x' alt='Qué es el efecto Eliza, o los riesgos de la humanización de la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/significa-uso-cpu-como-interpretar-dato-correctamente-1376611'>Qué significa el uso de CPU y cómo interpretar este dato correctamente</a></h4>
     <a href='https://computerhoy.com/pc/significa-uso-cpu-como-interpretar-dato-correctamente-1376611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significa-uso-cpu-como-interpretar-dato-correctamente-3294892.jpg?tf=1200x' alt='Qué significa el uso de CPU y cómo interpretar este dato correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-1376345'>Cómo activar y utilizar la función Encontrar mi dispositivo en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-1376345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-activar-utilizar-funcion-encontrar-mi-dispositivo-windows-11-3294461.jpg?tf=1200x' alt='Cómo activar y utilizar la función Encontrar mi dispositivo en Windows 11' />
     </a>
 </div>
 
