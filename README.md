@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927'>Spotify va a subir los precios, estrenará un nuevo plan</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-va-volver-subir-precios-estrenara-nuevo-plan-3295324.jpg?tf=1200x' alt='Spotify va a subir los precios, estrenará un nuevo plan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-imagen-webp-formato-jpg-png-windows-11-1376657'>Cómo guardar una imagen WebP en formato JPG o PNG en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-imagen-webp-formato-jpg-png-windows-11-1376657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-guardar-imagen-webp-formato-jpg-png-windows-11-3294992.jpg?tf=1200x' alt='Cómo guardar una imagen WebP en formato JPG o PNG en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429'>Cómo sincronizar datos de Microsoft Forms con Excel en la web</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-sincronizar-datos-microsoft-forms-excel-web-3287669.jpg?tf=1200x' alt='Cómo sincronizar datos de Microsoft Forms con Excel en la web' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393'>¿Cuánto son 200 calorías de distintos alimentos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuanto-son-200-calorias-distintos-alimentos-3295014.jpg?tf=1200x' alt='¿Cuánto son 200 calorías de distintos alimentos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849'>Una demanda colectiva podría acabar con el escudo contra las IPTV</a></h4>
-    <a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266111.jpg?tf=1200x' alt='Una demanda colectiva podría acabar con el escudo contra las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 10 apps para automatizar tareas repetitivas </a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-10-apps-automatizar-tareas-repetitivas-3294594.jpg?tf=1200x' alt='Las mejores 10 apps para automatizar tareas repetitivas ' />
     </a>
 </div>
 
