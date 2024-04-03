@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429'>Cómo sincronizar datos de Microsoft Forms con Excel en la web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-sincronizar-datos-microsoft-forms-excel-web-3287669.jpg?tf=1200x' alt='Cómo sincronizar datos de Microsoft Forms con Excel en la web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792'>El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo</a></h4>
     <a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/torrent-antiguo-pirate-bay-cumple-20-anos-activo-3295127.jpg?tf=1200x' alt='El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 10 apps para automatizar tareas repetitivas </a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-10-apps-automatizar-tareas-repetitivas-3294594.jpg?tf=1200x' alt='Las mejores 10 apps para automatizar tareas repetitivas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824'>Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-haciendo-corte-mangas-3295183.jpg?tf=1200x' alt='Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo' />
     </a>
 </div>
 
