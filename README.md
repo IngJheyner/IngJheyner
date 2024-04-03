@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526'>Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/macbook-air-3294705.jpg?tf=1200x' alt='Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806'>BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beagley-ai-3295114.jpg?tf=1200x' alt='BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-crea-ia-capaz-entender-matices-conversacionales-1376784'>Apple crea una IA que es capaz de entender matices conversacionales</a></h4>
+    <a href='https://computerhoy.com/apple/apple-crea-ia-capaz-entender-matices-conversacionales-1376784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/siri-iphone-3295111.jpg?tf=1200x' alt='Apple crea una IA que es capaz de entender matices conversacionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740'>WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3295084.jpg?tf=1200x' alt='WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230'>Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-photos-synology-ds223j-3294253.jpg?tf=1200x' alt='Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752'>Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves</a></h4>
-    <a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lavadora-samsung-3295100.jpg?tf=1200x' alt='Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nueva-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-1376745'>Los bancos cambian la cantidad máxima de dinero que puedes sacar del cajero automático: estos son los nuevos límites</a></h4>
-    <a href='https://computerhoy.com/life/nueva-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-1376745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bancos-cambian-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-estos-son-nuevos-limites-3295017.jpg?tf=1200x' alt='Los bancos cambian la cantidad máxima de dinero que puedes sacar del cajero automático: estos son los nuevos límites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730'>Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nueva-especie-ciervo-enano-andes-primera-60-anos-3294999.jpg?tf=1200x' alt='Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años' />
     </a>
 </div>
 
