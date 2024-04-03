@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/significan-lineas-verdes-google-maps-1376717'>Qué significan las líneas verdes de Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/significan-lineas-verdes-google-maps-1376717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significan-lineas-verdes-google-maps-3294998.jpg?tf=1200x' alt='Qué significan las líneas verdes de Google Maps' />
+    <h4><a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621'>Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro</a></h4>
+    <a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beelink-s12-3294863.jpg?tf=1200x' alt='Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-vpn-viajar-china-hemos-probado-cuesta-3-euros-mes-1376213'>Esta es la mejor VPN para viajar a China que hemos probado, y cuesta 3 euros al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-vpn-viajar-china-hemos-probado-cuesta-3-euros-mes-1376213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nordvpn-3256740.jpg?tf=1200x' alt='Esta es la mejor VPN para viajar a China que hemos probado, y cuesta 3 euros al mes' />
+    <h4><a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249'>Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024</a></h4>
+    <a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bloqueo-whatsapp-3294323.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/fobias-tan-raras-1376576'>No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas</a></h4>
-    <a href='https://computerhoy.com/life/fobias-tan-raras-1376576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-son-broma-5-fobias-tan-raras-no-podras-creer-sean-ciertas-3294799.jpg?tf=1200x' alt='No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas' />
+    <h4><a href='https://computerhoy.com/apps/microsoft-mejora-funcion-copiar-pegar-excel-1376723'>Microsoft mejora la función de copiar y pegar en Excel: una actualización que te ahorrará tiempo</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-mejora-funcion-copiar-pegar-excel-1376723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-mejora-funcion-copiar-pegar-excel-actualizacion-te-ahorrara-tiempo-3295008.jpg?tf=1200x' alt='Microsoft mejora la función de copiar y pegar en Excel: una actualización que te ahorrará tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-1376485'>¿Cuántos días de vacaciones son realmente necesarios para “desconectar”?</a></h4>
-    <a href='https://computerhoy.com/life/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-1376485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-3294644.jpg?tf=1200x' alt='¿Cuántos días de vacaciones son realmente necesarios para “desconectar”?' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983'>He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-cinebeam-qube-3294823.jpg?tf=1200x' alt='He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711'>¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-3-abril-2024-3294984.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-pad-9-buscas-quieres-ligereza-autonomia-1375405'>Analizo la Honor Pad 9: es la tablet que buscas si quieres autonomía, ligereza y sonido a buen precio</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-honor-pad-9-buscas-quieres-ligereza-autonomia-1375405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/honor-pad-9-3293145.jpg?tf=1200x' alt='Analizo la Honor Pad 9: es la tablet que buscas si quieres autonomía, ligereza y sonido a buen precio' />
     </a>
 </div>
 
