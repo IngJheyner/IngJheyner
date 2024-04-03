@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393'>¿Cuánto son 200 calorías de distintos alimentos?</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuanto-son-200-calorias-distintos-alimentos-3295014.jpg?tf=1200x' alt='¿Cuánto son 200 calorías de distintos alimentos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849'>Una demanda colectiva podría acabar con el escudo contra las IPTV</a></h4>
     <a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266111.jpg?tf=1200x' alt='Una demanda colectiva podría acabar con el escudo contra las IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526'>Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/macbook-air-3294705.jpg?tf=1200x' alt='Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806'>BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beagley-ai-3295114.jpg?tf=1200x' alt='BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia' />
     </a>
 </div>
 
