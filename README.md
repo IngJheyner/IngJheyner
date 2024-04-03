@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824'>Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-haciendo-corte-mangas-3295183.jpg?tf=1200x' alt='Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526'>Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/macbook-air-3294705.jpg?tf=1200x' alt='Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740'>WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3295084.jpg?tf=1200x' alt='WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230'>Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-photos-synology-ds223j-3294253.jpg?tf=1200x' alt='Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento' />
     </a>
 </div>
 
