@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730'>Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nueva-especie-ciervo-enano-andes-primera-60-anos-3294999.jpg?tf=1200x' alt='Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621'>Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro</a></h4>
     <a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beelink-s12-3294863.jpg?tf=1200x' alt='Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983'>He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-cinebeam-qube-3294823.jpg?tf=1200x' alt='He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-honor-pad-9-buscas-quieres-ligereza-autonomia-1375405'>Analizo la Honor Pad 9: es la tablet que buscas si quieres autonomía, ligereza y sonido a buen precio</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-honor-pad-9-buscas-quieres-ligereza-autonomia-1375405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/honor-pad-9-3293145.jpg?tf=1200x' alt='Analizo la Honor Pad 9: es la tablet que buscas si quieres autonomía, ligereza y sonido a buen precio' />
     </a>
 </div>
 
