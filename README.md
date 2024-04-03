@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-1376913'>¿Deberías apagar el router WiFi por la noche o cuando no estás en casa?</a></h4>
+    <a href='https://computerhoy.com/redes/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-1376913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-3295453.jpg?tf=1200x' alt='¿Deberías apagar el router WiFi por la noche o cuando no estás en casa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/novias-quedan-casa-polemica-tendencia-tiktok-1376585'>Stay at home girlfriend o novias que se quedan en casa: ¿qué es esta polémica tendencia de TikTok?</a></h4>
+    <a href='https://computerhoy.com/life/novias-quedan-casa-polemica-tendencia-tiktok-1376585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/novias-quedan-casa-polemica-tendencia-tiktok-riesgos-tiene-3294809.jpg?tf=1200x' alt='Stay at home girlfriend o novias que se quedan en casa: ¿qué es esta polémica tendencia de TikTok?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/di-adios-escoba-roomba-realmente-barata-aparece-amazon-revienta-sector-1376502'>Di adiós a la escoba: una Roomba realmente barata aparece en Amazon y revienta el sector</a></h4>
     <a href='https://computerhoy.com/tecnologia/di-adios-escoba-roomba-realmente-barata-aparece-amazon-revienta-sector-1376502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/irobot-roomba-692-3294675.jpg?tf=1200x' alt='Di adiós a la escoba: una Roomba realmente barata aparece en Amazon y revienta el sector' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927'>Spotify va a subir los precios, estrenará un nuevo plan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-va-volver-subir-precios-estrenara-nuevo-plan-3295324.jpg?tf=1200x' alt='Spotify va a subir los precios, estrenará un nuevo plan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-imagen-webp-formato-jpg-png-windows-11-1376657'>Cómo guardar una imagen WebP en formato JPG o PNG en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-imagen-webp-formato-jpg-png-windows-11-1376657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-guardar-imagen-webp-formato-jpg-png-windows-11-3294992.jpg?tf=1200x' alt='Cómo guardar una imagen WebP en formato JPG o PNG en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429'>Cómo sincronizar datos de Microsoft Forms con Excel en la web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-sincronizar-datos-microsoft-forms-excel-web-3287669.jpg?tf=1200x' alt='Cómo sincronizar datos de Microsoft Forms con Excel en la web' />
     </a>
 </div>
 
