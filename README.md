@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-1376603'>5 míticas películas que todo el mundo ama pero nadie fue a ver al cine</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-1376603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-miticas-peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-3294845.jpg?tf=1200x' alt='5 míticas películas que todo el mundo ama pero nadie fue a ver al cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-1376913'>¿Deberías apagar el router WiFi por la noche o cuando no estás en casa?</a></h4>
     <a href='https://computerhoy.com/redes/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-1376913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/deberias-apagar-router-wifi-noche-cuando-no-estas-casa-3295453.jpg?tf=1200x' alt='¿Deberías apagar el router WiFi por la noche o cuando no estás en casa?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-instalar-programas-ubuntu-windows-11-1376579'>Cómo instalar programas de Ubuntu en Windows 11 y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-instalar-programas-ubuntu-windows-11-1376579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-instalar-programas-ubuntu-windows-11-deberias-hacerlo-3294816.jpg?tf=1200x' alt='Cómo instalar programas de Ubuntu en Windows 11 y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927'>Spotify va a subir los precios, estrenará un nuevo plan</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-va-volver-subir-precios-estrenara-nuevo-plan-3295324.jpg?tf=1200x' alt='Spotify va a subir los precios, estrenará un nuevo plan' />
     </a>
 </div>
 
