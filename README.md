@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792'>El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo</a></h4>
+    <a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/torrent-antiguo-pirate-bay-cumple-20-anos-activo-3295127.jpg?tf=1200x' alt='El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393'>¿Cuánto son 200 calorías de distintos alimentos?</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuanto-son-200-calorias-distintos-alimentos-3295014.jpg?tf=1200x' alt='¿Cuánto son 200 calorías de distintos alimentos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824'>Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo</a></h4>
     <a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-haciendo-corte-mangas-3295183.jpg?tf=1200x' alt='Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526'>Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apuesta-segura-macbook-air-m2-200eu-barato-garantiza-anos-rendimiento-1376526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/macbook-air-3294705.jpg?tf=1200x' alt='Es apuesta segura: el MacBook Air M2 es 200€ más barato y garantiza años de rendimiento' />
     </a>
 </div>
 
