@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/fobias-tan-raras-1376576'>No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas</a></h4>
+    <a href='https://computerhoy.com/life/fobias-tan-raras-1376576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-son-broma-5-fobias-tan-raras-no-podras-creer-sean-ciertas-3294799.jpg?tf=1200x' alt='No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-1376485'>¿Cuántos días de vacaciones son realmente necesarios para “desconectar”?</a></h4>
+    <a href='https://computerhoy.com/life/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-1376485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuantos-dias-vacaciones-son-realmente-necesarios-desconectar-3294644.jpg?tf=1200x' alt='¿Cuántos días de vacaciones son realmente necesarios para “desconectar”?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711'>¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-3-abril-2024-3294984.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509'>Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-nord-ce-3-3294680.jpg?tf=1200x' alt='Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/basura-espacial-atraviesa-tejado-dos-plantas-casa-florida-1376686'>Una batería de la Estación Espacial Internacional cae a la Tierra y atraviesa el tejado y dos plantas de una casa en Florida</a></h4>
-    <a href='https://computerhoy.com/espacio/basura-espacial-atraviesa-tejado-dos-plantas-casa-florida-1376686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-estacion-espacial-internacional-cae-tierra-atraviesa-tejado-dos-plantas-casa-florida-3294943.jpg?tf=1200x' alt='Una batería de la Estación Espacial Internacional cae a la Tierra y atraviesa el tejado y dos plantas de una casa en Florida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejores-lugares-espana-dia-hora-ver-eclipse-solar-1376684'>Mejores lugares en España, día y hora para ver el eclipse solar</a></h4>
-    <a href='https://computerhoy.com/life/mejores-lugares-espana-dia-hora-ver-eclipse-solar-1376684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/eclipse-sol-3294955.jpg?tf=1200x' alt='Mejores lugares en España, día y hora para ver el eclipse solar' />
     </a>
 </div>
 
