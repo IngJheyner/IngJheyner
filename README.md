@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752'>Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves</a></h4>
+    <a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-bespoke-ai-3295072.jpg?tf=1200x' alt='Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nueva-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-1376745'>Los bancos cambian la cantidad máxima de dinero que puedes sacar del cajero automático: estos son los nuevos límites</a></h4>
+    <a href='https://computerhoy.com/life/nueva-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-1376745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bancos-cambian-cantidad-maxima-dinero-puedes-sacar-cajero-automatico-estos-son-nuevos-limites-3295017.jpg?tf=1200x' alt='Los bancos cambian la cantidad máxima de dinero que puedes sacar del cajero automático: estos son los nuevos límites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730'>Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nueva-especie-ciervo-enano-andes-primera-60-anos-3294999.jpg?tf=1200x' alt='Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249'>Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024</a></h4>
     <a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bloqueo-whatsapp-3294323.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-mejora-funcion-copiar-pegar-excel-1376723'>Microsoft mejora la función de copiar y pegar en Excel: una actualización que te ahorrará tiempo</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-mejora-funcion-copiar-pegar-excel-1376723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-mejora-funcion-copiar-pegar-excel-actualizacion-te-ahorrara-tiempo-3295008.jpg?tf=1200x' alt='Microsoft mejora la función de copiar y pegar en Excel: una actualización que te ahorrará tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983'>He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-lg-cinebeam-qube-buscas-quieres-imagen-diseno-1375983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-cinebeam-qube-3294823.jpg?tf=1200x' alt='He probado el LG CineBeam Qube y su diseño inigualable no es lo único que brilla en este proyector: es una auténtica pasada' />
     </a>
 </div>
 
