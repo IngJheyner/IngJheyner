@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-escoba-roomba-realmente-barata-aparece-amazon-revienta-sector-1376502'>Di adiós a la escoba: una Roomba realmente barata aparece en Amazon y revienta el sector</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-escoba-roomba-realmente-barata-aparece-amazon-revienta-sector-1376502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/irobot-roomba-692-3294675.jpg?tf=1200x' alt='Di adiós a la escoba: una Roomba realmente barata aparece en Amazon y revienta el sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-instalar-programas-ubuntu-windows-11-1376579'>Cómo instalar programas de Ubuntu en Windows 11 y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-instalar-programas-ubuntu-windows-11-1376579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-instalar-programas-ubuntu-windows-11-deberias-hacerlo-3294816.jpg?tf=1200x' alt='Cómo instalar programas de Ubuntu en Windows 11 y por qué deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927'>Spotify va a subir los precios, estrenará un nuevo plan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/spotify-subir-precios-2024-nuevo-plan-1376927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-va-volver-subir-precios-estrenara-nuevo-plan-3295324.jpg?tf=1200x' alt='Spotify va a subir los precios, estrenará un nuevo plan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429'>Cómo sincronizar datos de Microsoft Forms con Excel en la web</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-sincronizar-datos-microsoft-forms-excel-1372429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-sincronizar-datos-microsoft-forms-excel-web-3287669.jpg?tf=1200x' alt='Cómo sincronizar datos de Microsoft Forms con Excel en la web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792'>El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo</a></h4>
-    <a href='https://computerhoy.com/tv/torrent-antiguo-pirate-bay-activo-1376792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/torrent-antiguo-pirate-bay-cumple-20-anos-activo-3295127.jpg?tf=1200x' alt='El torrent más antiguo de Pirate Bay cumple 20 años en activo y jamás lograrías adivinarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393'>¿Cuánto son 200 calorías de distintos alimentos?</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuanto-son-200-calorias-distintos-alimentos-76393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuanto-son-200-calorias-distintos-alimentos-3295014.jpg?tf=1200x' alt='¿Cuánto son 200 calorías de distintos alimentos?' />
     </a>
 </div>
 
