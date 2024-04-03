@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/significan-lineas-verdes-google-maps-1376717'>Qué significan las líneas verdes de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/significan-lineas-verdes-google-maps-1376717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significan-lineas-verdes-google-maps-3294998.jpg?tf=1200x' alt='Qué significan las líneas verdes de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-vpn-viajar-china-hemos-probado-cuesta-3-euros-mes-1376213'>Esta es la mejor VPN para viajar a China que hemos probado, y cuesta 3 euros al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-vpn-viajar-china-hemos-probado-cuesta-3-euros-mes-1376213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nordvpn-3256740.jpg?tf=1200x' alt='Esta es la mejor VPN para viajar a China que hemos probado, y cuesta 3 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/fobias-tan-raras-1376576'>No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas</a></h4>
     <a href='https://computerhoy.com/life/fobias-tan-raras-1376576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-son-broma-5-fobias-tan-raras-no-podras-creer-sean-ciertas-3294799.jpg?tf=1200x' alt='No son de broma: 5 fobias tan raras que no podrás creer que sean ciertas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711'>¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-3-abril-2024-3294984.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706'>La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509'>Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/brutal-oneplus-5g-carga-vertigo-hunde-precio-codigo-descuento-1376509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-nord-ce-3-3294680.jpg?tf=1200x' alt='Este brutal OnePlus con 5G y carga de vértigo hunde su precio con un código descuento' />
     </a>
 </div>
 
