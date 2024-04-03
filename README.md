@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001'>No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-era-broma-asus-rog-mjolnir-martillo-thor-usar-tele-consola-quieras-aire-libre-3295456.jpg?tf=1200x' alt='No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947'>Qué es y cómo funciona la nueva función escanear de Excel</a></h4>
     <a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-nueva-funcion-escanear-excel-3295500.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva función escanear de Excel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/tendras-pagar-quieres-seguir-utilizando-windows-10-forma-segura-1376989'>Esto es lo que tendrás que pagar si quieres seguir utilizando Windows 10 de forma segura</a></h4>
     <a href='https://computerhoy.com/windows/tendras-pagar-quieres-seguir-utilizando-windows-10-forma-segura-1376989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/puedes-configurar-windows-11-vea-como-windows-10-perder-funcionalidades-3250280.jpg?tf=1200x' alt='Esto es lo que tendrás que pagar si quieres seguir utilizando Windows 10 de forma segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-1376603'>5 míticas películas que todo el mundo ama pero nadie fue a ver al cine</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-1376603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-miticas-peliculas-todo-mundo-ama-pero-nadie-fue-ver-cine-3294845.jpg?tf=1200x' alt='5 míticas películas que todo el mundo ama pero nadie fue a ver al cine' />
     </a>
 </div>
 
