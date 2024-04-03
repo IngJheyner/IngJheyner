@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711'>¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-3-abril-2024-1376711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-3-abril-2024-3294984.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 3 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706'>La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios</a></h4>
     <a href='https://computerhoy.com/windows/ia-microsoft-no-engancha-windows-11-edge-pierden-usuarios-1376706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='La IA de Microsoft no engancha: Windows 11 y el navegador Edge pierden usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mejores-lugares-espana-dia-hora-ver-eclipse-solar-1376684'>Mejores lugares en España, día y hora para ver el eclipse solar</a></h4>
     <a href='https://computerhoy.com/life/mejores-lugares-espana-dia-hora-ver-eclipse-solar-1376684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/eclipse-sol-3294955.jpg?tf=1200x' alt='Mejores lugares en España, día y hora para ver el eclipse solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anade-iphone-vendidos-historia-lista-modelos-obsoletos-1376682'>Apple añade uno de los iPhone más vendidos de la historia a la lista de modelos obsoletos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anade-iphone-vendidos-historia-lista-modelos-obsoletos-1376682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iphone-6-plus-3294954.jpg?tf=1200x' alt='Apple añade uno de los iPhone más vendidos de la historia a la lista de modelos obsoletos' />
     </a>
 </div>
 
