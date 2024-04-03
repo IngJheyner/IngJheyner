@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740'>WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3295084.jpg?tf=1200x' alt='WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230'>Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-google-fotos-nas-puede-ser-nube-personal-32tb-almacenamiento-1376230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-photos-synology-ds223j-3294253.jpg?tf=1200x' alt='Olvida Google Fotos: este NAS puede ser tu nube personal con hasta 32TB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752'>Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves</a></h4>
     <a href='https://computerhoy.com/hogar/samsung-presenta-nueva-linea-electrodomesticos-ia-como-clave-1376752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-bespoke-ai-3295072.jpg?tf=1200x' alt='Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lavadora-samsung-3295100.jpg?tf=1200x' alt='Samsung presenta una amplia gama de electrodomésticos con la IA y mayor conectividad como principales claves' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730'>Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-nueva-especie-ciervo-enano-andes-pudu-1376730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nueva-especie-ciervo-enano-andes-primera-60-anos-3294999.jpg?tf=1200x' alt='Descubren una nueva especie de ciervo enano en los Andes, la primera en 60 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621'>Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro</a></h4>
-    <a href='https://computerhoy.com/pc/intel-n100-internet-gigabit-199eu-mini-pc-potente-raspberry-no-mucho-caro-1376621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beelink-s12-3294863.jpg?tf=1200x' alt='Intel N100 e internet Gigabit por 199€: este Mini PC es más potente que una Raspberry y no mucho más caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249'>Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024</a></h4>
-    <a href='https://computerhoy.com/apps/como-saber-te-han-bloqueado-whatsapp-1376249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bloqueo-whatsapp-3294323.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp: todas las formas que funcionan en 2024' />
     </a>
 </div>
 
