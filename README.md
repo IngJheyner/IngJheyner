@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849'>Una demanda colectiva podría acabar con el escudo contra las IPTV</a></h4>
+    <a href='https://computerhoy.com/tecnologia/demanda-colectiva-podria-acabar-escudo-iptv-1376849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/piracy-shield-salva-ultimo-escollo-ver-futbol-gratis-iptv-sera-casi-imposible-3266111.jpg?tf=1200x' alt='Una demanda colectiva podría acabar con el escudo contra las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327'>Las mejores 10 apps para automatizar tareas repetitivas </a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-7-apps-automatizar-tareas-repetitivas-1063327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-10-apps-automatizar-tareas-repetitivas-3294594.jpg?tf=1200x' alt='Las mejores 10 apps para automatizar tareas repetitivas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824'>Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo</a></h4>
     <a href='https://computerhoy.com/tecnologia/logran-chatbots-ia-respondan-preguntas-poco-eticas-1376824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-haciendo-corte-mangas-3295183.jpg?tf=1200x' alt='Logran que los chatbots de IA respondan a preguntas poco éticas con un método muy sencillo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806'>BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/beagleboard-lanza-especie-raspberry-pi-ia-1376806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beagley-ai-3295114.jpg?tf=1200x' alt='BeagleBoard lanza una especie de Raspberry Pi con IA que destaca por 4 TOPS de potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-crea-ia-capaz-entender-matices-conversacionales-1376784'>Apple crea una IA que es capaz de entender matices conversacionales</a></h4>
-    <a href='https://computerhoy.com/apple/apple-crea-ia-capaz-entender-matices-conversacionales-1376784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/siri-iphone-3295111.jpg?tf=1200x' alt='Apple crea una IA que es capaz de entender matices conversacionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740'>WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-soluciona-dos-mayores-problemas-privacidad-1376740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3295084.jpg?tf=1200x' alt='WhatsApp soluciona dos de sus mayores problemas de privacidad: chats bloqueados y estados' />
     </a>
 </div>
 
