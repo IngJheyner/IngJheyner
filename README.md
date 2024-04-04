@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-anadir-tecla-copilot-teclados-no-tienen-1377113'>La enigmática tecla F23 que da vida a Copilot y que seguramente no has visto en tu vida</a></h4>
+    <a href='https://computerhoy.com/windows/como-anadir-tecla-copilot-teclados-no-tienen-1377113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/secreto-esconde-tecla-copilot-muy-pocos-usuarios-utilizan-3295681.jpg?tf=1200x' alt='La enigmática tecla F23 que da vida a Copilot y que seguramente no has visto en tu vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/irobot-presenta-roomba-combo-essential-potencia-precio-como-claves-1377054'>La Roomba Combo Essential llega al mercado con buen precio y gran potencia como claves</a></h4>
     <a href='https://computerhoy.com/tecnologia/irobot-presenta-roomba-combo-essential-potencia-precio-como-claves-1377054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-essential-3295578.jpg?tf=1200x' alt='La Roomba Combo Essential llega al mercado con buen precio y gran potencia como claves' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104'>Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil</a></h4>
     <a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-actualizaciones-67-3295682.jpg?tf=1200x' alt='Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puerta-trasera-xz-linux-afecta-todas-distribuciones-1377052'>Descubren una puerta trasera en Linux que afecta a todas las distribuciones: esto es lo que debes hacer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puerta-trasera-xz-linux-afecta-todas-distribuciones-1377052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/malware-virus-linux-3286808.jpg?tf=1200x' alt='Descubren una puerta trasera en Linux que afecta a todas las distribuciones: esto es lo que debes hacer' />
     </a>
 </div>
 
