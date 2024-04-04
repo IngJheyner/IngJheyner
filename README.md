@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869'>China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito</a></h4>
+    <a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/solucion-china-acabar-tiempos-esperas-cargar-coche-electrico-todo-exito-3295278.jpg?tf=1200x' alt='China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/estres-bueno-malo-diferencias-1372584'>Estrés bueno y malo: así puedes distinguirlo y saber en qué se diferencian</a></h4>
     <a href='https://computerhoy.com/life/estres-bueno-malo-diferencias-1372584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estres-bueno-malo-puedes-distinguirlo-saber-diferencian-3287937.jpg?tf=1200x' alt='Estrés bueno y malo: así puedes distinguirlo y saber en qué se diferencian' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117'>Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital</a></h4>
     <a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-ciberseguridad-3295693.jpg?tf=1200x' alt='Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consiguen-subir-temperatura-superordenadores-cuanticos-1377079'>Revolución en la computación cuántica: logran aumentar la temperatura de los superordenadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consiguen-subir-temperatura-superordenadores-cuanticos-1377079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revolucion-computacion-cuantica-estudio-ha-conseguido-aumentar-temperatura-superordenadores-3295624.jpg?tf=1200x' alt='Revolución en la computación cuántica: logran aumentar la temperatura de los superordenadores' />
     </a>
 </div>
 
