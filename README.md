@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117'>Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital</a></h4>
+    <a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-ciberseguridad-3295693.jpg?tf=1200x' alt='Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consiguen-subir-temperatura-superordenadores-cuanticos-1377079'>Revolución en la computación cuántica: logran aumentar la temperatura de los superordenadores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consiguen-subir-temperatura-superordenadores-cuanticos-1377079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revolucion-computacion-cuantica-estudio-ha-conseguido-aumentar-temperatura-superordenadores-3295624.jpg?tf=1200x' alt='Revolución en la computación cuántica: logran aumentar la temperatura de los superordenadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104'>Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil</a></h4>
     <a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-actualizaciones-67-3295682.jpg?tf=1200x' alt='Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-portatil-intel-core-i7-rtx-3050-ahora-400-euros-barato-1377065'>Bombazo de portátil: Intel Core i7 y RTX 3050, ahora 400 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-portatil-intel-core-i7-rtx-3050-ahora-400-euros-barato-1377065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-16x-3295585.jpg?tf=1200x' alt='Bombazo de portátil: Intel Core i7 y RTX 3050, ahora 400 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/busquedas-google-sufriran-cambio-radical-dejara-ser-gratis-1377048'>Las búsquedas de Google sufrirán un cambio radical y dejará de ser totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/google/busquedas-google-sufriran-cambio-radical-dejara-ser-gratis-1377048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-search-sufrira-cambio-radical-dejara-ser-gratuito-3295565.jpg?tf=1200x' alt='Las búsquedas de Google sufrirán un cambio radical y dejará de ser totalmente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073'>5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar</a></h4>
-    <a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aplicaciones-navegacion-3295643.jpg?tf=1200x' alt='5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar' />
     </a>
 </div>
 
