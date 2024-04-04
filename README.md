@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579'>Cómo convertir un PowerPoint en Google Slides</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-powerpoint-google-slides-3293395.jpg?tf=1200x' alt='Cómo convertir un PowerPoint en Google Slides' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016'>Cómo ver la tele gratis con miles de canales FAST en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-tele-gratis-miles-canales-fast-smart-tv-3295525.jpg?tf=1200x' alt='Cómo ver la tele gratis con miles de canales FAST en tu Smart TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001'>No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre</a></h4>
     <a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-era-broma-asus-rog-mjolnir-martillo-thor-usar-tele-consola-quieras-aire-libre-3295456.jpg?tf=1200x' alt='No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947'>Qué es y cómo funciona la nueva función escanear de Excel</a></h4>
-    <a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-nueva-funcion-escanear-excel-3295500.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva función escanear de Excel' />
     </a>
 </div>
 
