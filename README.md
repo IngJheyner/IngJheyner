@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184'>He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a55-3295174.jpg?tf=1200x' alt='He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/como-limpiar-freidora-aire-forma-rapida-sencilla-1376822'>El truco definitivo para limpiar la freidora de aire de forma rápida y sencilla</a></h4>
+    <a href='https://computerhoy.com/alimentacion/como-limpiar-freidora-aire-forma-rapida-sencilla-1376822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-limpiar-freidora-aire-forma-rapida-sencilla-3295168.jpg?tf=1200x' alt='El truco definitivo para limpiar la freidora de aire de forma rápida y sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563'>Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-rt-ax57-ax3000-3294737.jpg?tf=1200x' alt='Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579'>Cómo convertir un PowerPoint en Google Slides</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-powerpoint-google-slides-3293395.jpg?tf=1200x' alt='Cómo convertir un PowerPoint en Google Slides' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016'>Cómo ver la tele gratis con miles de canales FAST en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-tele-gratis-miles-canales-fast-smart-tv-3295525.jpg?tf=1200x' alt='Cómo ver la tele gratis con miles de canales FAST en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017'>Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979</a></h4>
-    <a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pelo-encontrado-valla-podria-confirmar-tigre-java-no-extinguio-1979-3295515.jpg?tf=1200x' alt='Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979' />
     </a>
 </div>
 
