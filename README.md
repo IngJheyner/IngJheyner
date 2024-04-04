@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104'>Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil</a></h4>
+    <a href='https://computerhoy.com/pc/linux-67-queda-actualizaciones-seguridad-anuncian-fin-vida-util-1377104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-actualizaciones-67-3295682.jpg?tf=1200x' alt='Linux 6.7 se queda sin actualizaciones de seguridad y anuncian el fin de su vida útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puerta-trasera-xz-linux-afecta-todas-distribuciones-1377052'>Descubren una puerta trasera en Linux que afecta a todas las distribuciones: esto es lo que debes hacer</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puerta-trasera-xz-linux-afecta-todas-distribuciones-1377052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/malware-virus-linux-3286808.jpg?tf=1200x' alt='Descubren una puerta trasera en Linux que afecta a todas las distribuciones: esto es lo que debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-portatil-intel-core-i7-rtx-3050-ahora-400-euros-barato-1377065'>Bombazo de portátil: Intel Core i7 y RTX 3050, ahora 400 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-portatil-intel-core-i7-rtx-3050-ahora-400-euros-barato-1377065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-16x-3295585.jpg?tf=1200x' alt='Bombazo de portátil: Intel Core i7 y RTX 3050, ahora 400 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/busquedas-google-sufriran-cambio-radical-dejara-ser-gratis-1377048'>Las búsquedas de Google sufrirán un cambio radical y dejará de ser totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/google/busquedas-google-sufriran-cambio-radical-dejara-ser-gratis-1377048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-search-sufrira-cambio-radical-dejara-ser-gratuito-3295565.jpg?tf=1200x' alt='Las búsquedas de Google sufrirán un cambio radical y dejará de ser totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073'>5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar</a></h4>
     <a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aplicaciones-navegacion-3295643.jpg?tf=1200x' alt='5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051'>Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025</a></h4>
-    <a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg?tf=1200x' alt='Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-cuenta-propia-lista-enemigos-ya-prohibido-estos-paises-1377072'>El famoso Flipper Zero cuenta con su propia lista de enemigos y ya está prohibido en estos países</a></h4>
-    <a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-cuenta-propia-lista-enemigos-ya-prohibido-estos-paises-1377072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='El famoso Flipper Zero cuenta con su propia lista de enemigos y ya está prohibido en estos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-trabaja-secreto-robots-domesticos-hogar-1377047'>Apple podría estar desarrollando robots domésticos que podrían convertirse en una nueva línea de productos</a></h4>
-    <a href='https://computerhoy.com/apple/apple-trabaja-secreto-robots-domesticos-hogar-1377047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dibujo-robot-manzana-3295603.jpg?tf=1200x' alt='Apple podría estar desarrollando robots domésticos que podrían convertirse en una nueva línea de productos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038'>Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-zonas-frecuencia-cardiaca-3285032.jpg?tf=1200x' alt='Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch' />
     </a>
 </div>
 
