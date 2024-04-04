@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751'>16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-active-edge-3295016.jpg?tf=1200x' alt='16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copias-seguridad-mails-outlook-1375561'>Cómo hacer copias de seguridad de todos tus correos electrónicos en Outlook</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-copias-seguridad-mails-outlook-1375561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copias-seguridad-mails-outlook-3293357.jpg?tf=1200x' alt='Cómo hacer copias de seguridad de todos tus correos electrónicos en Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184'>He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a55-3295174.jpg?tf=1200x' alt='He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563'>Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-rt-ax57-ax3000-3294737.jpg?tf=1200x' alt='Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766'>Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531</a></h4>
-    <a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/japon-3295131.jpg?tf=1200x' alt='Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579'>Cómo convertir un PowerPoint en Google Slides</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-powerpoint-google-slides-3293395.jpg?tf=1200x' alt='Cómo convertir un PowerPoint en Google Slides' />
     </a>
 </div>
 
