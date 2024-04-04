@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286'>La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-3295990.jpg?tf=1200x' alt='La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-1377275'>5 usos sorprendentes que le puedes dar a tu vieja Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-1377275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-3295999.jpg?tf=1200x' alt='5 usos sorprendentes que le puedes dar a tu vieja Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242'>Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales</a></h4>
     <a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sportscasts-surrealista-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-3295979.jpg?tf=1200x' alt='Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270'>Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926'>6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-peliculas-no-sabias-estaban-basadas-libros-stephen-king-merecen-mucho-pena-3295367.jpg?tf=1200x' alt='6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223'>El Google Maps de la felicidad: estas son las ciudades más felices de España</a></h4>
-    <a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-felicidad-estas-son-ciudades-felices-espana-3295958.jpg?tf=1200x' alt='El Google Maps de la felicidad: estas son las ciudades más felices de España' />
     </a>
 </div>
 
