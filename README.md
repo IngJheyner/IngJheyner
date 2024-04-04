@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/wifi-prueba-todo-estos-routers-mesh-tp-link-amazon-vende-mitad-precio-1376894'>WiFi a prueba de todo con estos routers Mesh de TP-Link que Amazon vende a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/redes/wifi-prueba-todo-estos-routers-mesh-tp-link-amazon-vende-mitad-precio-1376894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tp-link-x20-3295314.jpg?tf=1200x' alt='WiFi a prueba de todo con estos routers Mesh de TP-Link que Amazon vende a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064'>Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-3295588.jpg?tf=1200x' alt='Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869'>China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito</a></h4>
     <a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/solucion-china-acabar-tiempos-esperas-cargar-coche-electrico-todo-exito-3295278.jpg?tf=1200x' alt='China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-anadir-tecla-copilot-teclados-no-tienen-1377113'>La enigmática tecla F23 que da vida a Copilot y que seguramente no has visto en tu vida</a></h4>
     <a href='https://computerhoy.com/windows/como-anadir-tecla-copilot-teclados-no-tienen-1377113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/secreto-esconde-tecla-copilot-muy-pocos-usuarios-utilizan-3295681.jpg?tf=1200x' alt='La enigmática tecla F23 que da vida a Copilot y que seguramente no has visto en tu vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/irobot-presenta-roomba-combo-essential-potencia-precio-como-claves-1377054'>La Roomba Combo Essential llega al mercado con buen precio y gran potencia como claves</a></h4>
-    <a href='https://computerhoy.com/tecnologia/irobot-presenta-roomba-combo-essential-potencia-precio-como-claves-1377054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-essential-3295578.jpg?tf=1200x' alt='La Roomba Combo Essential llega al mercado con buen precio y gran potencia como claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117'>Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital</a></h4>
-    <a href='https://computerhoy.com/moviles/borrar-contactos-antiguos-movil-algo-nadie-hace-pero-resulta-vital-1377117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-ciberseguridad-3295693.jpg?tf=1200x' alt='Borrar tus contactos antiguos del móvil: algo que nadie hace pero que resulta vital' />
     </a>
 </div>
 
