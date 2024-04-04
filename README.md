@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051'>Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025</a></h4>
+    <a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg?tf=1200x' alt='Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-cuenta-propia-lista-enemigos-ya-prohibido-estos-paises-1377072'>El famoso Flipper Zero cuenta con su propia lista de enemigos y ya está prohibido en estos países</a></h4>
+    <a href='https://computerhoy.com/tecnologia/famoso-flipper-zero-cuenta-propia-lista-enemigos-ya-prohibido-estos-paises-1377072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/cierto-flipper-zero-puede-convertir-persona-conocimientos-hacker-3235778.jpg?tf=1200x' alt='El famoso Flipper Zero cuenta con su propia lista de enemigos y ya está prohibido en estos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-trabaja-secreto-robots-domesticos-hogar-1377047'>Apple podría estar desarrollando robots domésticos que podrían convertirse en una nueva línea de productos</a></h4>
+    <a href='https://computerhoy.com/apple/apple-trabaja-secreto-robots-domesticos-hogar-1377047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dibujo-robot-manzana-3295603.jpg?tf=1200x' alt='Apple podría estar desarrollando robots domésticos que podrían convertirse en una nueva línea de productos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038'>Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-zonas-frecuencia-cardiaca-3285032.jpg?tf=1200x' alt='Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751'>16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin</a></h4>
     <a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-active-edge-3295016.jpg?tf=1200x' alt='16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copias-seguridad-mails-outlook-1375561'>Cómo hacer copias de seguridad de todos tus correos electrónicos en Outlook</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-copias-seguridad-mails-outlook-1375561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copias-seguridad-mails-outlook-3293357.jpg?tf=1200x' alt='Cómo hacer copias de seguridad de todos tus correos electrónicos en Outlook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/frigorificos-lavadoras-hacen-todo-ti-samsung-apuesta-lleno-ia-1376610'>Frigoríficos y lavadoras que lo hacen todo por ti: Samsung apuesta de lleno por la inteligencia artificial en 2024</a></h4>
-    <a href='https://computerhoy.com/hogar/frigorificos-lavadoras-hacen-todo-ti-samsung-apuesta-lleno-ia-1376610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/electrodomesticos-samsung-3295306.jpg?tf=1200x' alt='Frigoríficos y lavadoras que lo hacen todo por ti: Samsung apuesta de lleno por la inteligencia artificial en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184'>He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-a55-analisis-opinion-casi-gama-alta-mitad-precio-1376184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a55-3295174.jpg?tf=1200x' alt='He usado durante dos semanas el Samsung Galaxy A55 y me parece el móvil perfecto para quien aspira a un gama alta pero por la mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/como-limpiar-freidora-aire-forma-rapida-sencilla-1376822'>El truco definitivo para limpiar la freidora de aire de forma rápida y sencilla</a></h4>
-    <a href='https://computerhoy.com/alimentacion/como-limpiar-freidora-aire-forma-rapida-sencilla-1376822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-limpiar-freidora-aire-forma-rapida-sencilla-3295168.jpg?tf=1200x' alt='El truco definitivo para limpiar la freidora de aire de forma rápida y sencilla' />
     </a>
 </div>
 
