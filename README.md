@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563'>Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/router-tiene-vpn-integrada-gratis-amazon-vende-precio-ganga-1376563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-rt-ax57-ax3000-3294737.jpg?tf=1200x' alt='Este router tiene VPN integrada gratis y Amazon lo vende a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766'>Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531</a></h4>
     <a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/japon-3295131.jpg?tf=1200x' alt='Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017'>Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979</a></h4>
     <a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pelo-encontrado-valla-podria-confirmar-tigre-java-no-extinguio-1979-3295515.jpg?tf=1200x' alt='Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011'>¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-4-abril-2024-3295507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024' />
     </a>
 </div>
 
