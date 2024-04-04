@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016'>Cómo ver la tele gratis con miles de canales FAST en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/como-ver-gratis-miles-canales-fast-smart-tv-1377016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-tele-gratis-miles-canales-fast-smart-tv-3295525.jpg?tf=1200x' alt='Cómo ver la tele gratis con miles de canales FAST en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017'>Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979</a></h4>
     <a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pelo-encontrado-valla-podria-confirmar-tigre-java-no-extinguio-1979-3295515.jpg?tf=1200x' alt='Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947'>Qué es y cómo funciona la nueva función escanear de Excel</a></h4>
     <a href='https://computerhoy.com/apps/como-funciona-nueva-funcion-escanear-excel-1376947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-nueva-funcion-escanear-excel-3295500.jpg?tf=1200x' alt='Qué es y cómo funciona la nueva función escanear de Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/caida-mundial-whatsapp-facebook-instagram-otros-servicios-meta-1376996'>Caída mundial de WhatsApp, Facebook, Instagram, Threads, y otros servicios de Meta</a></h4>
-    <a href='https://computerhoy.com/internet/caida-mundial-whatsapp-facebook-instagram-otros-servicios-meta-1376996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Caída mundial de WhatsApp, Facebook, Instagram, Threads, y otros servicios de Meta' />
     </a>
 </div>
 
