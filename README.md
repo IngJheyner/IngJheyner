@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017'>Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979</a></h4>
+    <a href='https://computerhoy.com/ciencia/tigre-java-no-extinguio-1979-encuentra-pelo-valla-1377017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pelo-encontrado-valla-podria-confirmar-tigre-java-no-extinguio-1979-3295515.jpg?tf=1200x' alt='Un pelo encontrado en una valla podría confirmar que el tigre de Java no se extinguió en 1979' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011'>¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-4-abril-2024-3295507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/caida-mundial-whatsapp-facebook-instagram-otros-servicios-meta-1376996'>Caída mundial de WhatsApp, Facebook, Instagram, Threads, y otros servicios de Meta</a></h4>
     <a href='https://computerhoy.com/internet/caida-mundial-whatsapp-facebook-instagram-otros-servicios-meta-1376996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caida-mundial-whatsapp-instagram-threads-otros-servicios-meta-3295492.jpg?tf=1200x' alt='Caída mundial de WhatsApp, Facebook, Instagram, Threads, y otros servicios de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-asignara-propia-hora-luna-diferente-tenemos-tierra-1376993'>La NASA asignará su propia hora a la Luna diferente a la que tenemos en la Tierra</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-asignara-propia-hora-luna-diferente-tenemos-tierra-1376993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cientificos-confirman-luna-alejando-tierra-podria-afectarnos-futuro-3269478.jpg?tf=1200x' alt='La NASA asignará su propia hora a la Luna diferente a la que tenemos en la Tierra' />
     </a>
 </div>
 
