@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926'>6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-peliculas-no-sabias-estaban-basadas-libros-stephen-king-merecen-mucho-pena-3295367.jpg?tf=1200x' alt='6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223'>El Google Maps de la felicidad: estas son las ciudades más felices de España</a></h4>
+    <a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-felicidad-estas-son-ciudades-felices-espana-3295958.jpg?tf=1200x' alt='El Google Maps de la felicidad: estas son las ciudades más felices de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/deberias-ser-educado-hablar-ia-no-1377137'>Así influye que seas educado con una IA en las respuestas que ofrece</a></h4>
     <a href='https://computerhoy.com/life/deberias-ser-educado-hablar-ia-no-1377137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/influye-seas-educado-ia-respuestas-ofrece-3295700.jpg?tf=1200x' alt='Así influye que seas educado con una IA en las respuestas que ofrece' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064'>Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho</a></h4>
     <a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-3295588.jpg?tf=1200x' alt='Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869'>China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito</a></h4>
-    <a href='https://computerhoy.com/motor/solucion-china-acabar-esperas-cargar-coche-electrico-1376869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/solucion-china-acabar-tiempos-esperas-cargar-coche-electrico-todo-exito-3295278.jpg?tf=1200x' alt='China tiene la solución acabar con las largas esperas para cargar el coche eléctrico y es todo un éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estres-bueno-malo-diferencias-1372584'>Estrés bueno y malo: así puedes distinguirlo y saber en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/life/estres-bueno-malo-diferencias-1372584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estres-bueno-malo-puedes-distinguirlo-saber-diferencian-3287937.jpg?tf=1200x' alt='Estrés bueno y malo: así puedes distinguirlo y saber en qué se diferencian' />
     </a>
 </div>
 
