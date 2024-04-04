@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242'>Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales</a></h4>
+    <a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sportscasts-surrealista-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-3295979.jpg?tf=1200x' alt='Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271'>La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona</a></h4>
+    <a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270'>Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926'>6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-no-sabias-estaban-basadas-libros-stephen-king-1376926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-peliculas-no-sabias-estaban-basadas-libros-stephen-king-merecen-mucho-pena-3295367.jpg?tf=1200x' alt='6 películas que no sabías que estaban basadas en libros de Stephen King, y merecen mucho la pena' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223'>El Google Maps de la felicidad: estas son las ciudades más felices de España</a></h4>
     <a href='https://computerhoy.com/internet/google-maps-felicidad-estas-son-ciudades-felices-espana-1377223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-felicidad-estas-son-ciudades-felices-espana-3295958.jpg?tf=1200x' alt='El Google Maps de la felicidad: estas son las ciudades más felices de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/deberias-ser-educado-hablar-ia-no-1377137'>Así influye que seas educado con una IA en las respuestas que ofrece</a></h4>
-    <a href='https://computerhoy.com/life/deberias-ser-educado-hablar-ia-no-1377137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/influye-seas-educado-ia-respuestas-ofrece-3295700.jpg?tf=1200x' alt='Así influye que seas educado con una IA en las respuestas que ofrece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/wifi-prueba-todo-estos-routers-mesh-tp-link-amazon-vende-mitad-precio-1376894'>WiFi a prueba de todo con estos routers Mesh de TP-Link que Amazon vende a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/redes/wifi-prueba-todo-estos-routers-mesh-tp-link-amazon-vende-mitad-precio-1376894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tp-link-x20-3295314.jpg?tf=1200x' alt='WiFi a prueba de todo con estos routers Mesh de TP-Link que Amazon vende a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064'>Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-1377064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cientos-cantantes-dicen-no-ia-todos-artistas-han-hecho-3295588.jpg?tf=1200x' alt='Cientos de cantantes dicen “no” a la IA: todos los artistas que lo han hecho' />
     </a>
 </div>
 
