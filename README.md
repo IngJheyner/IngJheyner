@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073'>5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar</a></h4>
+    <a href='https://computerhoy.com/apps/5-alternativas-google-maps-waze-quiza-no-conocias-1377073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aplicaciones-navegacion-3295643.jpg?tf=1200x' alt='5 alternativas a Google Maps o Waze que quizá no conocías y que nada tienen que envidiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051'>Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025</a></h4>
     <a href='https://computerhoy.com/tecnologia/salen-luz-brutales-pcie-70-apunta-2025-1377051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/casi-nadie-tiene-pcie-50-pero-ya-ha-presentado-estandar-pcie-60-doble-rapido-2584239.jpg?tf=1200x' alt='Salen a la luz las brutales especificaciones de PCIe 7.0, que apunta a 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038'>Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-reloj-deportivo-top-ahora-barato-apple-watch-1377038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-zonas-frecuencia-cardiaca-3285032.jpg?tf=1200x' alt='Garmin pone Amazon patas arriba: el nuevo Venu 3S hunde su precio y hace dudar a los que buscan un Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751'>16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16-dias-bateria-resistencia-casi-todo-amazfit-desploma-precio-smartwatch-quiere-frenar-garmin-1376751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-active-edge-3295016.jpg?tf=1200x' alt='16 días de batería y resistencia a casi todo: Amazfit desploma el precio de un smartwatch que quiere frenar a los Garmin' />
     </a>
 </div>
 
