@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766'>Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531</a></h4>
+    <a href='https://computerhoy.com/life/no-impiden-toda-poblacion-japon-tendra-mismo-apellido-2531-1376766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/japon-3295131.jpg?tf=1200x' alt='Si no consiguen impedirlo, todos los japoneses utilizarán el mismo apellido en el año 2531' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579'>Cómo convertir un PowerPoint en Google Slides</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-powerpoint-google-slides-1375579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-convertir-powerpoint-google-slides-3293395.jpg?tf=1200x' alt='Cómo convertir un PowerPoint en Google Slides' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011'>¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-4-abril-2024-1377011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-4-abril-2024-3295507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 4 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001'>No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asus-rog-mjolnir-martillo-thor-estacion-carga-1377001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-era-broma-asus-rog-mjolnir-martillo-thor-usar-tele-consola-quieras-aire-libre-3295456.jpg?tf=1200x' alt='No era broma: Asus ROG Mjolnir, el martillo de Thor para usar la tele, la consola o lo que quieras, al aire libre' />
     </a>
 </div>
 
