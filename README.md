@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355'>Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561'>Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-3294760.jpg?tf=1200x' alt='Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/vivo-v40-5g-gama-media-snapdragon-4-gen-2-bateria-5000-mah-50-mpx-camara-principal-1377363'>Vivo V40 SE 5G: un gama media con Snapdragon 4 Gen 2, batería de 5.000 mAh y 50 Mpx de cámara principal</a></h4>
+    <a href='https://computerhoy.com/moviles/vivo-v40-5g-gama-media-snapdragon-4-gen-2-bateria-5000-mah-50-mpx-camara-principal-1377363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vivo-v40-5g-3296152.jpg?tf=1200x' alt='Vivo V40 SE 5G: un gama media con Snapdragon 4 Gen 2, batería de 5.000 mAh y 50 Mpx de cámara principal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330'>¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública</a></h4>
+    <a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pais-europeo-cambiara-microsoft-linux-libreoffice-administracion-publica-3296063.jpg?tf=1200x' alt='¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328'>Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle</a></h4>
     <a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/analisis-ps-portal-3221648.jpg?tf=1200x' alt='Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-no-baja-piston-fenix-7x-solar-sigue-batiendo-record-precio-toca-fondo-nuevo-1377341'>Garmin no baja el pistón: el Fenix 7X Solar sigue batiendo récord de precio y toca fondo de nuevo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-no-baja-piston-fenix-7x-solar-sigue-batiendo-record-precio-toca-fondo-nuevo-1377341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7x-solar-3296058.jpg?tf=1200x' alt='Garmin no baja el pistón: el Fenix 7X Solar sigue batiendo récord de precio y toca fondo de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322'>Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-3139844.jpg?tf=1200x' alt='Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/escapan-100-perros-husky-centro-comercial-siembran-caos-1377318'>Se escapan 100 perros husky en un centro comercial en China, y siembran el caos</a></h4>
-    <a href='https://computerhoy.com/life/escapan-100-perros-husky-centro-comercial-siembran-caos-1377318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/escapan-100-perros-husky-centro-comercial-siembran-caos-3296039.jpg?tf=1200x' alt='Se escapan 100 perros husky en un centro comercial en China, y siembran el caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/problema-tres-cuerpos-netflix-no-engancha-1377159'>El problema de los tres cuerpos no es Juego de tronos: ¿por qué la serie de Netflix no engancha?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/problema-tres-cuerpos-netflix-no-engancha-1377159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/problema-tres-cuerpos-no-juego-tronos-razon-serie-netflix-no-despega-3295752.jpg?tf=1200x' alt='El problema de los tres cuerpos no es Juego de tronos: ¿por qué la serie de Netflix no engancha?' />
     </a>
 </div>
 
