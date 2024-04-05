@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542'>Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-iptv-3287077.jpg?tf=1200x' alt='Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540'>Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290724.jpg?tf=1200x' alt='Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519'>Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD</a></h4>
+    <a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estrangulamiento-termico-como-puedes-evitarlo-cpu-gpu-disco-ssd-3296442.jpg?tf=1200x' alt='Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299'>Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-activar-usar-nuevas-funciones-ia-google-chrome-3296024.jpg?tf=1200x' alt='Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232'>Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar</a></h4>
     <a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/stephen-hawking-3147074.jpg?tf=1200x' alt='Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480'>Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-3296407.jpg?tf=1200x' alt='Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/amazon-lia-revienta-precio-nothing-phone-2-reyes-gama-media-1377283'>Amazon la lía y revienta el precio del Nothing Phone (2), uno de los reyes de la gama media</a></h4>
-    <a href='https://computerhoy.com/android/amazon-lia-revienta-precio-nothing-phone-2-reyes-gama-media-1377283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Amazon la lía y revienta el precio del Nothing Phone (2), uno de los reyes de la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332'>La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-telegram-3296303.jpg?tf=1200x' alt='La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428'>Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lamparas-lava-3296287.jpg?tf=1200x' alt='Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava' />
     </a>
 </div>
 
