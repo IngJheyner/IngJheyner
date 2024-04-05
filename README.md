@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162'>Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave</a></h4>
+    <a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355'>Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil</a></h4>
     <a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330'>¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública</a></h4>
     <a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pais-europeo-cambiara-microsoft-linux-libreoffice-administracion-publica-3296063.jpg?tf=1200x' alt='¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328'>Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle</a></h4>
-    <a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/analisis-ps-portal-3221648.jpg?tf=1200x' alt='Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle' />
     </a>
 </div>
 
