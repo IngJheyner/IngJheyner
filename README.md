@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541'>Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-deberias-hacerlo-3296461.jpg?tf=1200x' alt='Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545'>Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados</a></h4>
     <a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-smart-tv-exteriores-aguantan-lluvia-nieve-temperatura-50-grados-30-grados-cero-3296426.jpg?tf=1200x' alt='Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519'>Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD</a></h4>
     <a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estrangulamiento-termico-como-puedes-evitarlo-cpu-gpu-disco-ssd-3296442.jpg?tf=1200x' alt='Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299'>Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-activar-usar-nuevas-funciones-ia-google-chrome-3296024.jpg?tf=1200x' alt='Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome' />
     </a>
 </div>
 
