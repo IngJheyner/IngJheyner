@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296'>Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará</a></h4>
+    <a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tienes-instalada-aplicacion-pc-windows-11-no-actualizara-3296004.jpg?tf=1200x' alt='Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286'>La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-3295990.jpg?tf=1200x' alt='La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271'>La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona</a></h4>
     <a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270'>Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-descargar-dos-versiones-android-auto-117-novedades-diferencias-1377270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Ya puedes descargar las dos versiones de Android Auto 11.7: novedades y diferencias' />
     </a>
 </div>
 
