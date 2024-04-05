@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232'>Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar</a></h4>
+    <a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/stephen-hawking-3147074.jpg?tf=1200x' alt='Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480'>Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?</a></h4>
     <a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-3296407.jpg?tf=1200x' alt='Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428'>Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lamparas-lava-3296287.jpg?tf=1200x' alt='Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415'>DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar</a></h4>
-    <a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dazn-3007850.jpg?tf=1200x' alt='DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar' />
     </a>
 </div>
 
