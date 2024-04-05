@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rae-palabra-espanol-dudas-ortograficas-genera-1376874'>Según la RAE, esta es la palabra en español que más dudas ortográficas genera</a></h4>
+    <a href='https://computerhoy.com/life/rae-palabra-espanol-dudas-ortograficas-genera-1376874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rae-palabra-espanol-dudas-ortograficas-genera-3295283.jpg?tf=1200x' alt='Según la RAE, esta es la palabra en español que más dudas ortográficas genera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-agamia-1376865'>El fenómeno de la agamia: una apuesta por la soltería que ya es tendencia en España</a></h4>
+    <a href='https://computerhoy.com/life/que-es-agamia-1376865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fenomeno-agamia-apuesta-solteria-ya-tendencia-espana-3295269.jpg?tf=1200x' alt='El fenómeno de la agamia: una apuesta por la soltería que ya es tendencia en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301'>¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-5-abril-2024-3296019.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286'>La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-1377286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-elegir-estos-tres-coches-transportar-astronautas-luna-3295990.jpg?tf=1200x' alt='La NASA va a elegir uno de estos tres coches para transportar astronautas en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-1377275'>5 usos sorprendentes que le puedes dar a tu vieja Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-1377275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-usos-sorprendentes-puedes-dar-vieja-raspberry-pi-3295999.jpg?tf=1200x' alt='5 usos sorprendentes que le puedes dar a tu vieja Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242'>Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales</a></h4>
-    <a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sportscasts-surrealista-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-3295979.jpg?tf=1200x' alt='Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales' />
     </a>
 </div>
 
