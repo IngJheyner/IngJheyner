@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415'>DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar</a></h4>
+    <a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dazn-3007850.jpg?tf=1200x' alt='DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/podras-gestionar-uso-memoria-ram-navegador-windows-1377385'>Gracias Microsoft: pronto podrás gestionar el uso de la memoria RAM del navegador en Windows</a></h4>
+    <a href='https://computerhoy.com/internet/podras-gestionar-uso-memoria-ram-navegador-windows-1377385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3296274.jpg?tf=1200x' alt='Gracias Microsoft: pronto podrás gestionar el uso de la memoria RAM del navegador en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162'>Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave</a></h4>
     <a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561'>Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar</a></h4>
     <a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-3294760.jpg?tf=1200x' alt='Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vivo-v40-5g-gama-media-snapdragon-4-gen-2-bateria-5000-mah-50-mpx-camara-principal-1377363'>Vivo V40 SE 5G: un gama media con Snapdragon 4 Gen 2, batería de 5.000 mAh y 50 Mpx de cámara principal</a></h4>
-    <a href='https://computerhoy.com/moviles/vivo-v40-5g-gama-media-snapdragon-4-gen-2-bateria-5000-mah-50-mpx-camara-principal-1377363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vivo-v40-5g-3296152.jpg?tf=1200x' alt='Vivo V40 SE 5G: un gama media con Snapdragon 4 Gen 2, batería de 5.000 mAh y 50 Mpx de cámara principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330'>¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública</a></h4>
-    <a href='https://computerhoy.com/windows/alemania-cambiara-windows-linux-administracion-publica-1377330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pais-europeo-cambiara-microsoft-linux-libreoffice-administracion-publica-3296063.jpg?tf=1200x' alt='¡Histórico! Alemania cambiará Windows por Linux y Office por LibreOffice en la administración pública' />
     </a>
 </div>
 
