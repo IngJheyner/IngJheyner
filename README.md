@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480'>Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-1377480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/calculadora-cientifica-vs-calculadora-movil-dan-resultados-diferentes-misma-operacion-3296407.jpg?tf=1200x' alt='Calculadora científica vs. calculadora del móvil: ¿por qué dan resultados diferentes para la misma operación?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/amazon-lia-revienta-precio-nothing-phone-2-reyes-gama-media-1377283'>Amazon la lía y revienta el precio del Nothing Phone (2), uno de los reyes de la gama media</a></h4>
+    <a href='https://computerhoy.com/android/amazon-lia-revienta-precio-nothing-phone-2-reyes-gama-media-1377283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/nothing-phone-2-3256624.jpg?tf=1200x' alt='Amazon la lía y revienta el precio del Nothing Phone (2), uno de los reyes de la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332'>La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-telegram-3296303.jpg?tf=1200x' alt='La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415'>DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar</a></h4>
     <a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dazn-3007850.jpg?tf=1200x' alt='DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/podras-gestionar-uso-memoria-ram-navegador-windows-1377385'>Gracias Microsoft: pronto podrás gestionar el uso de la memoria RAM del navegador en Windows</a></h4>
-    <a href='https://computerhoy.com/internet/podras-gestionar-uso-memoria-ram-navegador-windows-1377385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3296274.jpg?tf=1200x' alt='Gracias Microsoft: pronto podrás gestionar el uso de la memoria RAM del navegador en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162'>Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave</a></h4>
-    <a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave' />
     </a>
 </div>
 
