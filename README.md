@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328'>Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle</a></h4>
+    <a href='https://computerhoy.com/gaming/logran-hackear-ejecutar-juegos-psp-ps-portal-pero-avisan-sony-arregle-1377328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/analisis-ps-portal-3221648.jpg?tf=1200x' alt='Logran hackear y ejecutar juegos de PSP en PS Portal, pero avisan a Sony para que lo arregle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-no-baja-piston-fenix-7x-solar-sigue-batiendo-record-precio-toca-fondo-nuevo-1377341'>Garmin no baja el pistón: el Fenix 7X Solar sigue batiendo récord de precio y toca fondo de nuevo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-no-baja-piston-fenix-7x-solar-sigue-batiendo-record-precio-toca-fondo-nuevo-1377341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7x-solar-3296058.jpg?tf=1200x' alt='Garmin no baja el pistón: el Fenix 7X Solar sigue batiendo récord de precio y toca fondo de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322'>Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-3139844.jpg?tf=1200x' alt='Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/problema-tres-cuerpos-netflix-no-engancha-1377159'>El problema de los tres cuerpos no es Juego de tronos: ¿por qué la serie de Netflix no engancha?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/problema-tres-cuerpos-netflix-no-engancha-1377159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/problema-tres-cuerpos-no-juego-tronos-razon-serie-netflix-no-despega-3295752.jpg?tf=1200x' alt='El problema de los tres cuerpos no es Juego de tronos: ¿por qué la serie de Netflix no engancha?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-tienen-rival-tablet-tinta-electronica-rebaja-precio-pone-apuros-scribe-1376854'>Los Kindle tienen rival: esta tablet con tinta electrónica rebaja su precio y pone en apuros a los Scribe</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-tienen-rival-tablet-tinta-electronica-rebaja-precio-pone-apuros-scribe-1376854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-monochrome-3295234.jpg?tf=1200x' alt='Los Kindle tienen rival: esta tablet con tinta electrónica rebaja su precio y pone en apuros a los Scribe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893'>He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones</a></h4>
-    <a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/manuel-almendral-serrano-google-pixel-8-pro-3295304.jpg?tf=1200x' alt='He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones' />
     </a>
 </div>
 
