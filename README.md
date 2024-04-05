@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301'>¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-5-abril-2024-3296019.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296'>Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará</a></h4>
     <a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tienes-instalada-aplicacion-pc-windows-11-no-actualizara-3296004.jpg?tf=1200x' alt='Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242'>Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales</a></h4>
     <a href='https://computerhoy.com/internet/sportscasts-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-1377242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sportscasts-surrealista-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-3295979.jpg?tf=1200x' alt='Sportscasts, el surrealista canal IPTV que retransmite partidos de fútbol pirata como si fueran legales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271'>La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona</a></h4>
-    <a href='https://computerhoy.com/alimentacion/ocu-no-duda-supermercado-ha-subido-precios-espana-no-mercadona-1377271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/supermercado-2953104.jpg?tf=1200x' alt='La OCU no duda: este es el supermercado que más ha subido precios en España, y no es Mercadona' />
     </a>
 </div>
 
