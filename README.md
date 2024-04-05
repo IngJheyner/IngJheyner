@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322'>Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-plus-suma-estrategia-netflix-comenzara-cobrar-compartir-cuenta-junio-1377322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/disney-3139844.jpg?tf=1200x' alt='Adiós a las cuentas compartidas: Disney Plus se suma a Netflix y cobrará por compartir contraseña en junio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/escapan-100-perros-husky-centro-comercial-siembran-caos-1377318'>Se escapan 100 perros husky en un centro comercial en China, y siembran el caos</a></h4>
     <a href='https://computerhoy.com/life/escapan-100-perros-husky-centro-comercial-siembran-caos-1377318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/escapan-100-perros-husky-centro-comercial-siembran-caos-3296039.jpg?tf=1200x' alt='Se escapan 100 perros husky en un centro comercial en China, y siembran el caos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893'>He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones</a></h4>
     <a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/manuel-almendral-serrano-google-pixel-8-pro-3295304.jpg?tf=1200x' alt='He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/x-hay-contenidos-adultos-llegada-elon-musk-1377177'>¿Por qué en X hay más contenidos para adultos desde la llegada de Elon Musk?</a></h4>
-    <a href='https://computerhoy.com/redes/x-hay-contenidos-adultos-llegada-elon-musk-1377177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='¿Por qué en X hay más contenidos para adultos desde la llegada de Elon Musk?' />
     </a>
 </div>
 
