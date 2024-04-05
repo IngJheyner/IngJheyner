@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893'>He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones</a></h4>
+    <a href='https://computerhoy.com/moviles/he-tenido-cuenta-cambiar-mi-viejo-movil-alta-gama-1376893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/manuel-almendral-serrano-google-pixel-8-pro-3295304.jpg?tf=1200x' alt='He decidido cambiar mi viejo móvil por uno de alta gama: esto es lo que he tenido en cuenta al pensar en diferentes opciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/x-hay-contenidos-adultos-llegada-elon-musk-1377177'>¿Por qué en X hay más contenidos para adultos desde la llegada de Elon Musk?</a></h4>
+    <a href='https://computerhoy.com/redes/x-hay-contenidos-adultos-llegada-elon-musk-1377177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='¿Por qué en X hay más contenidos para adultos desde la llegada de Elon Musk?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ip-ti-solo-vpn-te-ofrece-bien-preciado-internet-solo-250eu-mes-1376818'>Una IP para ti solo: esta VPN te ofrece el bien más preciado de internet por solo 2,50€ al mes</a></h4>
     <a href='https://computerhoy.com/tecnologia/ip-ti-solo-vpn-te-ofrece-bien-preciado-internet-solo-250eu-mes-1376818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/direccion-ip-3295121.jpg?tf=1200x' alt='Una IP para ti solo: esta VPN te ofrece el bien más preciado de internet por solo 2,50€ al mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/que-es-agamia-1376865'>El fenómeno de la agamia: una apuesta por la soltería que ya es tendencia en España</a></h4>
     <a href='https://computerhoy.com/life/que-es-agamia-1376865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fenomeno-agamia-apuesta-solteria-ya-tendencia-espana-3295269.jpg?tf=1200x' alt='El fenómeno de la agamia: una apuesta por la soltería que ya es tendencia en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301'>¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-5-abril-2024-1377301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-5-abril-2024-3296019.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 5 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296'>Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará</a></h4>
-    <a href='https://computerhoy.com/windows/aplicacion-startallback-windows-11-no-actualiza-1377296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tienes-instalada-aplicacion-pc-windows-11-no-actualizara-3296004.jpg?tf=1200x' alt='Si tienes instalada esta aplicación en tu PC, Windows 11 no se actualizará' />
     </a>
 </div>
 
