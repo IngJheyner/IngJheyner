@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332'>La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/como-funciona-temida-estafa-likes-whatsapp-telegram-1377332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-telegram-3296303.jpg?tf=1200x' alt='La temida estafa de los likes de WhatsApp y Telegram: puede costarte miles de euros y muchos problemas legales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428'>Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cloudflare-seguridad-internet-manos-100-lamparas-lava-1377428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lamparas-lava-3296287.jpg?tf=1200x' alt='Es una locura, pero la seguridad de medio internet está en las manos de 100 lámparas de lava' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415'>DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar</a></h4>
     <a href='https://computerhoy.com/apps/dazn-da-marcha-atras-permitira-compartir-cuenta-1377415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dazn-3007850.jpg?tf=1200x' alt='DAZN da marcha atrás y permitirá compartir cuenta, pero no hay nada que celebrar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162'>Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave</a></h4>
     <a href='https://computerhoy.com/android/todo-sabe-fecha-android-15-1377162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-ya-disponible-ataca-punto-fuerte-ios-3276189.jpg?tf=1200x' alt='Todo lo que se sabe de Android 15 hasta la fecha: lanzamiento, características y mejoras clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355'>Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-15-seguridad-informacion-privada-mayor-autonomia-1377355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-15-3276244.jpg?tf=1200x' alt='Android 15 protegerá tu información privada y mejorará la duración de la batería de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561'>Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/viene-windows-11-no-llega-400-euros-portatil-hp-ideal-estudiar-trabajar-1376561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-3294760.jpg?tf=1200x' alt='Viene con Windows 11 y no llega a 400 euros: este portátil HP es ideal para estudiar y trabajar' />
     </a>
 </div>
 
