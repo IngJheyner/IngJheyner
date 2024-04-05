@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545'>Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados</a></h4>
+    <a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-smart-tv-exteriores-aguantan-lluvia-nieve-temperatura-50-grados-30-grados-cero-3296426.jpg?tf=1200x' alt='Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542'>Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-iptv-3287077.jpg?tf=1200x' alt='Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299'>Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-usar-nuevas-funciones-ia-google-chrome-1377299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-activar-usar-nuevas-funciones-ia-google-chrome-3296024.jpg?tf=1200x' alt='Cómo activar y usar las nuevas funciones de inteligencia artificial de Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232'>Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar</a></h4>
-    <a href='https://computerhoy.com/ciencia/fue-ultimo-dijo-stephen-hawking-antes-morir-1377232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/stephen-hawking-3147074.jpg?tf=1200x' alt='Las impactantes últimas palabras de Stephen Hawking antes de morir que te harán reflexionar' />
     </a>
 </div>
 
