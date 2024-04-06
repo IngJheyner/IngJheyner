@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-6-abril-2024-1377571'>¿Qué santo es hoy? Santoral del sábado 6 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-6-abril-2024-1377571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-6-abril-2024-3296484.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 6 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566'>Qué le sucede a Google Maps cuando hay un terremoto</a></h4>
     <a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-google-maps-cuando-hay-terremoto-3296479.jpg?tf=1200x' alt='Qué le sucede a Google Maps cuando hay un terremoto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541'>Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-deberias-hacerlo-3296461.jpg?tf=1200x' alt='Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545'>Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados</a></h4>
-    <a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-smart-tv-exteriores-aguantan-lluvia-nieve-temperatura-50-grados-30-grados-cero-3296426.jpg?tf=1200x' alt='Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados' />
     </a>
 </div>
 
