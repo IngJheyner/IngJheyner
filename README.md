@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gmail-bloquea-algunos-correos-electronicos-outlook-como-spam-microsoft-aporta-solucion-1377670'>Gmail bloquea algunos correos electrónicos de Outlook como spam y Microsoft aporta una solución</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gmail-bloquea-algunos-correos-electronicos-outlook-como-spam-microsoft-aporta-solucion-1377670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='Gmail bloquea algunos correos electrónicos de Outlook como spam y Microsoft aporta una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/todo-llega-seccion-configuracion-windows-11-ultima-actualizacion-1377668'>Esto es todo lo que llega a la sección de configuración de Windows 11 tras la última actualización</a></h4>
+    <a href='https://computerhoy.com/windows/todo-llega-seccion-configuracion-windows-11-ultima-actualizacion-1377668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Esto es todo lo que llega a la sección de configuración de Windows 11 tras la última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667'>Elon Musk pone Grok a disposición de un mayor número de suscriptores en X</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk pone Grok a disposición de un mayor número de suscriptores en X' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646'>Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640'>El último cambio en Android Auto “obliga” a desactivar Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='El último cambio en Android Auto “obliga” a desactivar Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/eterna-promesa-elon-musk-cerca-ser-realidad-tesla-robotaxi-desvelara-8-agosto-1377635'>La eterna promesa de Elon Musk está cerca de ser una realidad: el Tesla robotaxi se desvelará el 8 de agosto</a></h4>
-    <a href='https://computerhoy.com/motor/eterna-promesa-elon-musk-cerca-ser-realidad-tesla-robotaxi-desvelara-8-agosto-1377635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gigafactory-tesla-3296559.jpg?tf=1200x' alt='La eterna promesa de Elon Musk está cerca de ser una realidad: el Tesla robotaxi se desvelará el 8 de agosto' />
     </a>
 </div>
 
