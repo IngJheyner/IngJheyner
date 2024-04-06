@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-oppo-enco-buds2-pro-son-perfectos-quieres-comodidad-sonido-precio-1373904'>He probado los Oppo Enco Buds2 Pro y son los que buscas si quieres comodidad y sonido a precio de derribo</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-oppo-enco-buds2-pro-son-perfectos-quieres-comodidad-sonido-precio-1373904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290687.jpg?tf=1200x' alt='He probado los Oppo Enco Buds2 Pro y son los que buscas si quieres comodidad y sonido a precio de derribo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491'>Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/evento-ciberseguridad-3293551.jpg?tf=1200x' alt='Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-apple-find-my-alternativa-china-barata-1377135'>Cuesta la mitad que un AirTag y funciona con Apple Find My: esta es la alternativa china más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-apple-find-my-alternativa-china-barata-1377135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Cuesta la mitad que un AirTag y funciona con Apple Find My: esta es la alternativa china más barata' />
+    <h4><a href='https://computerhoy.com/life/conch-island-isla-artificial-creada-millones-caracolas-centenarias-1377575'>Conch Island, la isla artificial creada con millones de caracolas, algunas tienen 800 años</a></h4>
+    <a href='https://computerhoy.com/life/conch-island-isla-artificial-creada-millones-caracolas-centenarias-1377575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conch-island-isla-artificial-creada-millones-caracolas-algunas-tienen-800-anos-3296493.jpg?tf=1200x' alt='Conch Island, la isla artificial creada con millones de caracolas, algunas tienen 800 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-6-abril-2024-1377571'>¿Qué santo es hoy? Santoral del sábado 6 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-6-abril-2024-1377571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-6-abril-2024-3296484.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 6 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866'>Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg?tf=1200x' alt='Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566'>Qué le sucede a Google Maps cuando hay un terremoto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-google-maps-cuando-hay-terremoto-3296479.jpg?tf=1200x' alt='Qué le sucede a Google Maps cuando hay un terremoto' />
+    <h4><a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675'>Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-ciberseguridad-3291384.jpg?tf=1200x' alt='Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568'>¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-model-2-cancelado-elon-musk-habria-abandonado-planes-fabricar-coche-electrico-barato-3296468.jpg?tf=1200x' alt='¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-beestation-synology-acerca-nube-casa-evita-pago-google-drive-apple-cloud-1376472'>Analizo el BeeStation de Synology: acerca la nube a tu casa y evita el pago de Google Drive o Apple Cloud </a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-beestation-synology-acerca-nube-casa-evita-pago-google-drive-apple-cloud-1376472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beestation-3294621.jpg?tf=1200x' alt='Analizo el BeeStation de Synology: acerca la nube a tu casa y evita el pago de Google Drive o Apple Cloud ' />
     </a>
 </div>
 
