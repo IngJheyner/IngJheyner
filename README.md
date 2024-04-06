@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640'>El último cambio en Android Auto “obliga” a desactivar Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='El último cambio en Android Auto “obliga” a desactivar Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/eterna-promesa-elon-musk-cerca-ser-realidad-tesla-robotaxi-desvelara-8-agosto-1377635'>La eterna promesa de Elon Musk está cerca de ser una realidad: el Tesla robotaxi se desvelará el 8 de agosto</a></h4>
+    <a href='https://computerhoy.com/motor/eterna-promesa-elon-musk-cerca-ser-realidad-tesla-robotaxi-desvelara-8-agosto-1377635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gigafactory-tesla-3296559.jpg?tf=1200x' alt='La eterna promesa de Elon Musk está cerca de ser una realidad: el Tesla robotaxi se desvelará el 8 de agosto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/suunto-va-garmin-tiene-reloj-carga-solar-dos-meses-bateria-1376770'>Suunto va a por Garmin: tiene un reloj con carga solar con dos meses de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/suunto-va-garmin-tiene-reloj-carga-solar-dos-meses-bateria-1376770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/suunto-vertical-solar-3295081.jpg?tf=1200x' alt='Suunto va a por Garmin: tiene un reloj con carga solar con dos meses de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621'>Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516639.jpg?tf=1200x' alt='Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347'>Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/multas-trafico-consulta-3296123.jpg?tf=1200x' alt='Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662'>Cómo cambiar el número de teléfono en la Seguridad Social</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/seguridad-social-espana-3111830.jpg?tf=1200x' alt='Cómo cambiar el número de teléfono en la Seguridad Social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/movimiento-historico-apple-abre-app-store-emuladores-juegos-retro-1377594'>En un movimiento histórico Apple abre la App Store a emuladores de juegos retro</a></h4>
-    <a href='https://computerhoy.com/apple/movimiento-historico-apple-abre-app-store-emuladores-juegos-retro-1377594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/app-store-3296523.jpg?tf=1200x' alt='En un movimiento histórico Apple abre la App Store a emuladores de juegos retro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154'>5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ivacy-vpn-3295698.jpg?tf=1200x' alt='5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal' />
     </a>
 </div>
 
