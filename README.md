@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-oppo-enco-buds2-pro-son-perfectos-quieres-comodidad-sonido-precio-1373904'>He probado los Oppo Enco Buds2 Pro y son los que buscas si quieres comodidad y sonido a precio de derribo</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-oppo-enco-buds2-pro-son-perfectos-quieres-comodidad-sonido-precio-1373904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290687.jpg?tf=1200x' alt='He probado los Oppo Enco Buds2 Pro y son los que buscas si quieres comodidad y sonido a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-apple-find-my-alternativa-china-barata-1377135'>Cuesta la mitad que un AirTag y funciona con Apple Find My: esta es la alternativa china más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuesta-mitad-airtag-funciona-apple-find-my-alternativa-china-barata-1377135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ugreen-tag-3295691.jpg?tf=1200x' alt='Cuesta la mitad que un AirTag y funciona con Apple Find My: esta es la alternativa china más barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568'>¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-model-2-cancelado-elon-musk-habria-abandonado-planes-fabricar-coche-electrico-barato-3296468.jpg?tf=1200x' alt='¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551'>Las redes IPTV se encuentran con un sorprendente aliado: la justicia</a></h4>
-    <a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redes-iptv-encuentran-sorprendente-aliado-justicia-3296474.jpg?tf=1200x' alt='Las redes IPTV se encuentran con un sorprendente aliado: la justicia' />
     </a>
 </div>
 
