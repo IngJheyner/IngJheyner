@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662'>Cómo cambiar el número de teléfono en la Seguridad Social</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/seguridad-social-espana-3111830.jpg?tf=1200x' alt='Cómo cambiar el número de teléfono en la Seguridad Social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/movimiento-historico-apple-abre-app-store-emuladores-juegos-retro-1377594'>En un movimiento histórico Apple abre la App Store a emuladores de juegos retro</a></h4>
+    <a href='https://computerhoy.com/apple/movimiento-historico-apple-abre-app-store-emuladores-juegos-retro-1377594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/app-store-3296523.jpg?tf=1200x' alt='En un movimiento histórico Apple abre la App Store a emuladores de juegos retro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154'>5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ivacy-vpn-3295698.jpg?tf=1200x' alt='5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-1376636'>SSD vs. NVMe: qué diferencias hay y cuál es mejor para tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-1376636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-3294919.jpg?tf=1200x' alt='SSD vs. NVMe: qué diferencias hay y cuál es mejor para tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274'>Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo</a></h4>
     <a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/importante-limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-3294351.jpg?tf=1200x' alt='Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443'>Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejor-configuracion-evitar-vecinos-conecten-red-wifi-3294577.jpg?tf=1200x' alt='Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491'>Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/evento-ciberseguridad-3293551.jpg?tf=1200x' alt='Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/conch-island-isla-artificial-creada-millones-caracolas-centenarias-1377575'>Conch Island, la isla artificial creada con millones de caracolas, algunas tienen 800 años</a></h4>
-    <a href='https://computerhoy.com/life/conch-island-isla-artificial-creada-millones-caracolas-centenarias-1377575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conch-island-isla-artificial-creada-millones-caracolas-algunas-tienen-800-anos-3296493.jpg?tf=1200x' alt='Conch Island, la isla artificial creada con millones de caracolas, algunas tienen 800 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866'>Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg?tf=1200x' alt='Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés' />
     </a>
 </div>
 
