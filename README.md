@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646'>Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640'>El último cambio en Android Auto “obliga” a desactivar Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/ultimo-cambio-android-auto-obliga-desactivar-google-maps-1377640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='El último cambio en Android Auto “obliga” a desactivar Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621'>Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516639.jpg?tf=1200x' alt='Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347'>Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/multas-trafico-consulta-3296123.jpg?tf=1200x' alt='Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento' />
     </a>
 </div>
 
