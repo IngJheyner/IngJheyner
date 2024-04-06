@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274'>Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo</a></h4>
+    <a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/importante-limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-3294351.jpg?tf=1200x' alt='Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443'>Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi</a></h4>
     <a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejor-configuracion-evitar-vecinos-conecten-red-wifi-3294577.jpg?tf=1200x' alt='Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866'>Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés</a></h4>
     <a href='https://computerhoy.com/tecnologia/rebajas-rasperry-pi-5-8gb-ram-todos-accesorios-envio-expres-1376866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/raspberry-pi-2284167.jpg?tf=1200x' alt='Rebajas en la Rasperry Pi 5: hasta 8GB de RAM con todos los accesorios y envío exprés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675'>Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-ciberseguridad-3291384.jpg?tf=1200x' alt='Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces' />
     </a>
 </div>
 
