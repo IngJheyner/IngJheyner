@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566'>Qué le sucede a Google Maps cuando hay un terremoto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sucede-google-maps-cuando-hay-terremoto-1377566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-google-maps-cuando-hay-terremoto-3296479.jpg?tf=1200x' alt='Qué le sucede a Google Maps cuando hay un terremoto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568'>¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-habria-abandonado-planes-coche-electrico-tesla-barato-1377568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-model-2-cancelado-elon-musk-habria-abandonado-planes-fabricar-coche-electrico-barato-3296468.jpg?tf=1200x' alt='¿El Tesla Model 2, cancelado?: Elon Musk habría abandonado sus planes de fabricar un coche eléctrico barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551'>Las redes IPTV se encuentran con un sorprendente aliado: la justicia</a></h4>
     <a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redes-iptv-encuentran-sorprendente-aliado-justicia-3296474.jpg?tf=1200x' alt='Las redes IPTV se encuentran con un sorprendente aliado: la justicia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545'>Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados</a></h4>
     <a href='https://computerhoy.com/hogar/smart-tv-exteriores-neptunetv-lluvia-nieve-hielo-calor-extremo-1377545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-smart-tv-exteriores-aguantan-lluvia-nieve-temperatura-50-grados-30-grados-cero-3296426.jpg?tf=1200x' alt='Llegan los Smart TV para exteriores: aguantan lluvia, nieve, y temperaturas desde 30 grados bajo cero a 50 grados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542'>Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primera-condena-espana-venta-iptv-decodificadores-ver-futbol-gratis-1377542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/multas-iptv-3287077.jpg?tf=1200x' alt='Primera condena en España por venta de IPTV y decodificadores para ver el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540'>Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290724.jpg?tf=1200x' alt='Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características' />
     </a>
 </div>
 
