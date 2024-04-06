@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374'>16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg?tf=1200x' alt='16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646'>Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/suunto-va-garmin-tiene-reloj-carga-solar-dos-meses-bateria-1376770'>Suunto va a por Garmin: tiene un reloj con carga solar con dos meses de batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/suunto-va-garmin-tiene-reloj-carga-solar-dos-meses-bateria-1376770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/suunto-vertical-solar-3295081.jpg?tf=1200x' alt='Suunto va a por Garmin: tiene un reloj con carga solar con dos meses de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621'>Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516639.jpg?tf=1200x' alt='Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico' />
     </a>
 </div>
 
