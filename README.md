@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443'>Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi</a></h4>
+    <a href='https://computerhoy.com/redes/configuracion-perceta-evitar-vecinos-conecten-wifi-1376443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejor-configuracion-evitar-vecinos-conecten-red-wifi-3294577.jpg?tf=1200x' alt='Esta es mi configuración infalible para evitar que mis vecinos se conecten a mi red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491'>Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/presencie-como-copiaban-voz-ceo-ia-enganar-propia-empresa-1375491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/evento-ciberseguridad-3293551.jpg?tf=1200x' alt='Así presencié cómo copiaban la voz de un CEO con inteligencia artificial para engañar a su propia empresa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675'>Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces</a></h4>
     <a href='https://computerhoy.com/apps/telegram-tiene-lado-oscuro-pero-realmente-salvaje-oeste-control-policial-1373675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-ciberseguridad-3291384.jpg?tf=1200x' alt='Telegram tiene un lado oscuro, pero, ¿realmente es un Salvaje Oeste sin control policial? Cuidado con lo que haces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-beestation-synology-acerca-nube-casa-evita-pago-google-drive-apple-cloud-1376472'>Analizo el BeeStation de Synology: acerca la nube a tu casa y evita el pago de Google Drive o Apple Cloud </a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-beestation-synology-acerca-nube-casa-evita-pago-google-drive-apple-cloud-1376472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/beestation-3294621.jpg?tf=1200x' alt='Analizo el BeeStation de Synology: acerca la nube a tu casa y evita el pago de Google Drive o Apple Cloud ' />
     </a>
 </div>
 
