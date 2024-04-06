@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621'>Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-quiere-seguir-pasos-apple-lanzando-galaxy-watch-economico-1377621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/galeria-review-samsung-galaxy-watch-4-2516639.jpg?tf=1200x' alt='Samsung quiere seguir los pasos de Apple lanzando un Galaxy Watch económico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347'>Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-tengo-multas-trafico-1377347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/multas-trafico-consulta-3296123.jpg?tf=1200x' alt='Cómo saber si tengo multas de tráfico pendientes de la DGT o del ayuntamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662'>Cómo cambiar el número de teléfono en la Seguridad Social</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-numero-telefono-seguridad-social-1375662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/seguridad-social-espana-3111830.jpg?tf=1200x' alt='Cómo cambiar el número de teléfono en la Seguridad Social' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154'>5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/5-anos-vpn-1eu-mes-chollo-irrepetible-temporal-1377154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ivacy-vpn-3295698.jpg?tf=1200x' alt='5 años de VPN por 1€ al mes: este chollo es irrepetible y es temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-1376636'>SSD vs. NVMe: qué diferencias hay y cuál es mejor para tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-1376636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ssd-vs-nvme-diferencias-hay-cual-mejor-pc-3294919.jpg?tf=1200x' alt='SSD vs. NVMe: qué diferencias hay y cuál es mejor para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274'>Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo</a></h4>
-    <a href='https://computerhoy.com/pc/limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-1376274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/importante-limpiar-teclado-ordenador-cada-cuanto-conveniente-hacerlo-3294351.jpg?tf=1200x' alt='Por qué es importante limpiar el teclado del ordenador, y cada cuánto es conveniente hacerlo' />
     </a>
 </div>
 
