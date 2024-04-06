@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551'>Las redes IPTV se encuentran con un sorprendente aliado: la justicia</a></h4>
+    <a href='https://computerhoy.com/internet/redes-iptv-encuentran-sorprendente-aliado-justicia-1377551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redes-iptv-encuentran-sorprendente-aliado-justicia-3296474.jpg?tf=1200x' alt='Las redes IPTV se encuentran con un sorprendente aliado: la justicia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541'>Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-1377541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-automaticamente-wifi-movil-cuando-salgas-casa-deberias-hacerlo-3296461.jpg?tf=1200x' alt='Cómo desactivar automáticamente el WiFi de tu móvil cuando salgas de casa y por qué deberías hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540'>Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-smart-band-9-podria-llegar-muy-pronto-ya-han-filtrado-primeras-caracteristicas-1377540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290724.jpg?tf=1200x' alt='Xiaomi Smart Band 9 podría llegar muy pronto y ya se han filtrado sus primeras características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519'>Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD</a></h4>
-    <a href='https://computerhoy.com/pc/estrangulamiento-termico-como-afecta-componentes-pc-1377519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estrangulamiento-termico-como-puedes-evitarlo-cpu-gpu-disco-ssd-3296442.jpg?tf=1200x' alt='Qué es el estrangulamiento térmico y cómo puedes evitarlo en tu CPU, GPU y disco SSD' />
     </a>
 </div>
 
