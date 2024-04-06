@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ya-estan-disponibles-gratis-nuevas-maquinas-virtuales-windows-11-puedes-acceder-ellas-1377671'>Ya están disponibles gratis las nuevas máquinas virtuales de Windows 11 y así puedes acceder a ellas</a></h4>
+    <a href='https://computerhoy.com/windows/ya-estan-disponibles-gratis-nuevas-maquinas-virtuales-windows-11-puedes-acceder-ellas-1377671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Ya están disponibles gratis las nuevas máquinas virtuales de Windows 11 y así puedes acceder a ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gmail-bloquea-algunos-correos-electronicos-outlook-como-spam-microsoft-aporta-solucion-1377670'>Gmail bloquea algunos correos electrónicos de Outlook como spam y Microsoft aporta una solución</a></h4>
     <a href='https://computerhoy.com/tecnologia/gmail-bloquea-algunos-correos-electronicos-outlook-como-spam-microsoft-aporta-solucion-1377670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='Gmail bloquea algunos correos electrónicos de Outlook como spam y Microsoft aporta una solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374'>16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg?tf=1200x' alt='16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646'>Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-sigue-bloqueando-aplicaciones-personalizacion-windows-11-1377646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Microsoft sigue bloqueando más aplicaciones de personalización en Windows 11' />
     </a>
 </div>
 
