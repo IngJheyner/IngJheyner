@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/razer-pro-type-ultra-prueba-opinion-1377086'>Por fin un teclado mecánico sin estridencias: he probado el Razer Pro Type Ultra y si las luces de colores te espantan, es tu opción</a></h4>
+    <a href='https://computerhoy.com/analisis/razer-pro-type-ultra-prueba-opinion-1377086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razer-pro-type-ultra-3296109.jpg?tf=1200x' alt='Por fin un teclado mecánico sin estridencias: he probado el Razer Pro Type Ultra y si las luces de colores te espantan, es tu opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681'>¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-7-abril-2024-3296601.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/todo-llega-seccion-configuracion-windows-11-ultima-actualizacion-1377668'>Esto es todo lo que llega a la sección de configuración de Windows 11 tras la última actualización</a></h4>
     <a href='https://computerhoy.com/windows/todo-llega-seccion-configuracion-windows-11-ultima-actualizacion-1377668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Esto es todo lo que llega a la sección de configuración de Windows 11 tras la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667'>Elon Musk pone Grok a disposición de un mayor número de suscriptores en X</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk pone Grok a disposición de un mayor número de suscriptores en X' />
     </a>
 </div>
 
