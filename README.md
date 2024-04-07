@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775'>OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767'>La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-3296743.jpg?tf=1200x' alt='La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740'>Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes</a></h4>
     <a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-ya-sabe-voyager-1-no-envia-datos-correctos-ya-trabajan-solucion-1377738'>La NASA ya sabe por qué la Voyager 1 no envía datos correctos y ya trabajan en una solución</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-ya-sabe-voyager-1-no-envia-datos-correctos-ya-trabajan-solucion-1377738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-software-pone-apuros-voyager-1-sonda-espacial-distante-tierra-3271886.jpg?tf=1200x' alt='La NASA ya sabe por qué la Voyager 1 no envía datos correctos y ya trabajan en una solución' />
     </a>
 </div>
 
