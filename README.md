@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761'>La NASA va a poner en órbita tres cohetes durante el eclipse solar</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-3296726.jpg?tf=1200x' alt='La NASA va a poner en órbita tres cohetes durante el eclipse solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757'>Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/luces-led-tarjetas-graficas-estan-quemando-placas-3296706.jpg?tf=1200x' alt='Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/google-demanda-dos-ciberdelincuentes-colaron-87-aplicaciones-maliciosas-play-store-1377736'>Google demanda a dos ciberdelincuentes que colaron 87 aplicaciones maliciosas en Play Store</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-demanda-dos-ciberdelincuentes-colaron-87-aplicaciones-maliciosas-play-store-1377736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafas-criptomonedas-android-3296665.jpg?tf=1200x' alt='Google demanda a dos ciberdelincuentes que colaron 87 aplicaciones maliciosas en Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724'>Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti</a></h4>
-    <a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti' />
     </a>
 </div>
 
