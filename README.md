@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757'>Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas</a></h4>
+    <a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/luces-led-tarjetas-graficas-estan-quemando-placas-3296706.jpg?tf=1200x' alt='Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740'>Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes</a></h4>
     <a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724'>Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti</a></h4>
     <a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copia-seguridad-movil-disco-duro-externo-1377302'>Cómo hacer una copia de seguridad de tu móvil Android y sincronizar los datos en un disco duro externo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-copia-seguridad-movil-disco-duro-externo-1377302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/copia-seguridad-movil-android-3296225.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de tu móvil Android y sincronizar los datos en un disco duro externo' />
     </a>
 </div>
 
