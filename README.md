@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-ya-sabe-voyager-1-no-envia-datos-correctos-ya-trabajan-solucion-1377738'>La NASA ya sabe por qué la Voyager 1 no envía datos correctos y ya trabajan en una solución</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-ya-sabe-voyager-1-no-envia-datos-correctos-ya-trabajan-solucion-1377738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/error-software-pone-apuros-voyager-1-sonda-espacial-distante-tierra-3271886.jpg?tf=1200x' alt='La NASA ya sabe por qué la Voyager 1 no envía datos correctos y ya trabajan en una solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-demanda-dos-ciberdelincuentes-colaron-87-aplicaciones-maliciosas-play-store-1377736'>Google demanda a dos ciberdelincuentes que colaron 87 aplicaciones maliciosas en Play Store</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-demanda-dos-ciberdelincuentes-colaron-87-aplicaciones-maliciosas-play-store-1377736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafas-criptomonedas-android-3296665.jpg?tf=1200x' alt='Google demanda a dos ciberdelincuentes que colaron 87 aplicaciones maliciosas en Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724'>Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti</a></h4>
     <a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914'>Cómo cambiar online el médico de cabecera en la Seguridad Social</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medicos-3295337.jpg?tf=1200x' alt='Cómo cambiar online el médico de cabecera en la Seguridad Social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706'>La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril</a></h4>
-    <a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/eclipse-solar-3296631.jpg?tf=1200x' alt='La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295'>NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-perfecto-pc-3296016.jpg?tf=1200x' alt='NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC' />
     </a>
 </div>
 
