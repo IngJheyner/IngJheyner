@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681'>¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-7-abril-2024-3296601.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ya-estan-disponibles-gratis-nuevas-maquinas-virtuales-windows-11-puedes-acceder-ellas-1377671'>Ya están disponibles gratis las nuevas máquinas virtuales de Windows 11 y así puedes acceder a ellas</a></h4>
     <a href='https://computerhoy.com/windows/ya-estan-disponibles-gratis-nuevas-maquinas-virtuales-windows-11-puedes-acceder-ellas-1377671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/windows-11-2948586.jpg?tf=1200x' alt='Ya están disponibles gratis las nuevas máquinas virtuales de Windows 11 y así puedes acceder a ellas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667'>Elon Musk pone Grok a disposición de un mayor número de suscriptores en X</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-pone-grok-disposicion-mayor-numero-suscriptores-x-1377667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk pone Grok a disposición de un mayor número de suscriptores en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374'>16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/16gb-ram-m2-pro-mac-vuela-mucho-barato-200-euros-descuento-1377374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/mac-mini-2581601.jpg?tf=1200x' alt='16GB de RAM y M2 Pro: el Mac que vuela es mucho más barato con 200 euros de descuento' />
     </a>
 </div>
 
