@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706'>La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril</a></h4>
+    <a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/eclipse-solar-3296631.jpg?tf=1200x' alt='La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295'>NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC</a></h4>
     <a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-perfecto-pc-3296016.jpg?tf=1200x' alt='NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199'>Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android</a></h4>
     <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-3295912.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tengo-certificado-digital-pero-como-me-he-registrado-clve-renta-2023-24-1376360'>Tengo certificado digital, pero así es como me he registrado en Cl@ve para la Renta 2023/24</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tengo-certificado-digital-pero-como-me-he-registrado-clve-renta-2023-24-1376360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/registro-clve-3296167.jpg?tf=1200x' alt='Tengo certificado digital, pero así es como me he registrado en Cl@ve para la Renta 2023/24' />
     </a>
 </div>
 
