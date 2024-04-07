@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898'>Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente</a></h4>
+    <a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/curva-ventilacion-gpu-sirve-como-configurarla-correctamente-3295395.jpg?tf=1200x' alt='Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199'>Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-3295912.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tengo-certificado-digital-pero-como-me-he-registrado-clve-renta-2023-24-1376360'>Tengo certificado digital, pero así es como me he registrado en Cl@ve para la Renta 2023/24</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tengo-certificado-digital-pero-como-me-he-registrado-clve-renta-2023-24-1376360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/registro-clve-3296167.jpg?tf=1200x' alt='Tengo certificado digital, pero así es como me he registrado en Cl@ve para la Renta 2023/24' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/chocolate-rubio-sabor-unico-1377686'>Qué es el chocolate rubio, un sabor único que se descubrió por casualidad</a></h4>
     <a href='https://computerhoy.com/alimentacion/chocolate-rubio-sabor-unico-1377686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chocolate-rubio-sabor-deberias-probarlo-3296609.jpg?tf=1200x' alt='Qué es el chocolate rubio, un sabor único que se descubrió por casualidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-da-golpe-reloj-android-barato-no-llega-100-euros-tiene-4g-lte-1377116'>AliExpress da el golpe: el reloj Android más barato no llega a los 100 euros y tiene 4G LTE</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-da-golpe-reloj-android-barato-no-llega-100-euros-tiene-4g-lte-1377116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zeblade-thor-ultra-3295656.jpg?tf=1200x' alt='AliExpress da el golpe: el reloj Android más barato no llega a los 100 euros y tiene 4G LTE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-evito-cada-dia-me-cuelen-noticias-falsas-redes-sociales-1376359'>Así es como evito cada día que me la cuelen con noticias falsas en redes sociales </a></h4>
-    <a href='https://computerhoy.com/life/como-evito-cada-dia-me-cuelen-noticias-falsas-redes-sociales-1376359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fake-news-3296159.jpg?tf=1200x' alt='Así es como evito cada día que me la cuelen con noticias falsas en redes sociales ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-1377672'>Microsoft trabaja en una IA capaz de detectar desastres naturales antes de que sucedan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-1377672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-3296589.jpg?tf=1200x' alt='Microsoft trabaja en una IA capaz de detectar desastres naturales antes de que sucedan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/bug-bounty-empresas-necesitan-hacker-vida-1373211'>¿Qué es Bug Bounty y por qué las empresas necesitan un hacker en su vida?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/bug-bounty-empresas-necesitan-hacker-vida-1373211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1712316226228-3296246.jpg?tf=1200x' alt='¿Qué es Bug Bounty y por qué las empresas necesitan un hacker en su vida?' />
     </a>
 </div>
 
