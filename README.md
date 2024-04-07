@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724'>Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti</a></h4>
+    <a href='https://computerhoy.com/apps/olvidate-buscar-numeros-sospechosos-buscador-google-porque-ahora-movil-android-hara-ti-1377724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='Olvídate de buscar números sospechosos en el buscador de Google porque ahora tu móvil Android lo hará por ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-copia-seguridad-movil-disco-duro-externo-1377302'>Cómo hacer una copia de seguridad de tu móvil Android y sincronizar los datos en un disco duro externo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-copia-seguridad-movil-disco-duro-externo-1377302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/copia-seguridad-movil-android-3296225.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de tu móvil Android y sincronizar los datos en un disco duro externo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914'>Cómo cambiar online el médico de cabecera en la Seguridad Social</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medicos-3295337.jpg?tf=1200x' alt='Cómo cambiar online el médico de cabecera en la Seguridad Social' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295'>NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC</a></h4>
     <a href='https://computerhoy.com/pc/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-pc-1377295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvme-pcie-sata-diferencias-hay-como-elegir-ssd-perfecto-pc-3296016.jpg?tf=1200x' alt='NVMe, PCIe o SATA: qué diferencias hay y cómo elegir el SSD perfecto para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-ano-usando-varias-vpn-util-me-ha-parecido-ellas-1376848'>Llevo un año usando varias VPN y esto es lo que más útil me ha parecido de una de ellas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-ano-usando-varias-vpn-util-me-ha-parecido-ellas-1376848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285092.jpg?tf=1200x' alt='Llevo un año usando varias VPN y esto es lo que más útil me ha parecido de una de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898'>Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente</a></h4>
-    <a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/curva-ventilacion-gpu-sirve-como-configurarla-correctamente-3295395.jpg?tf=1200x' alt='Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente' />
     </a>
 </div>
 
