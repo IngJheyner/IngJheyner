@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914'>Cómo cambiar online el médico de cabecera en la Seguridad Social</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-medico-cabecera-seguridad-social-1376914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medicos-3295337.jpg?tf=1200x' alt='Cómo cambiar online el médico de cabecera en la Seguridad Social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706'>La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril</a></h4>
     <a href='https://computerhoy.com/life/nasa-advierte-uso-movil-capturar-eclipse-8-abril-1377706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/eclipse-solar-3296631.jpg?tf=1200x' alt='La NASA advierte sobre el uso del móvil para capturar el eclipse del 8 de abril' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898'>Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente</a></h4>
     <a href='https://computerhoy.com/pc/curva-ventilacion-gpu-sirve-1376898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/curva-ventilacion-gpu-sirve-como-configurarla-correctamente-3295395.jpg?tf=1200x' alt='Qué es la curva de ventilación de la GPU, para qué sirve y cómo configurarla correctamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199'>Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-1377199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cual-diferencia-usb-c-32-vs-usb-c-20-moviles-android-3295912.jpg?tf=1200x' alt='Cuál es la diferencia entre USB-C 3.2 vs. USB-C 2.0 en móviles Android' />
     </a>
 </div>
 
