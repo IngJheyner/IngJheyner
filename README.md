@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/chocolate-rubio-sabor-unico-1377686'>Qué es el chocolate rubio, un sabor único que se descubrió por casualidad</a></h4>
+    <a href='https://computerhoy.com/alimentacion/chocolate-rubio-sabor-unico-1377686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chocolate-rubio-sabor-deberias-probarlo-3296609.jpg?tf=1200x' alt='Qué es el chocolate rubio, un sabor único que se descubrió por casualidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-da-golpe-reloj-android-barato-no-llega-100-euros-tiene-4g-lte-1377116'>AliExpress da el golpe: el reloj Android más barato no llega a los 100 euros y tiene 4G LTE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-da-golpe-reloj-android-barato-no-llega-100-euros-tiene-4g-lte-1377116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zeblade-thor-ultra-3295656.jpg?tf=1200x' alt='AliExpress da el golpe: el reloj Android más barato no llega a los 100 euros y tiene 4G LTE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-evito-cada-dia-me-cuelen-noticias-falsas-redes-sociales-1376359'>Así es como evito cada día que me la cuelen con noticias falsas en redes sociales </a></h4>
+    <a href='https://computerhoy.com/life/como-evito-cada-dia-me-cuelen-noticias-falsas-redes-sociales-1376359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fake-news-3296159.jpg?tf=1200x' alt='Así es como evito cada día que me la cuelen con noticias falsas en redes sociales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-1377672'>Microsoft trabaja en una IA capaz de detectar desastres naturales antes de que sucedan</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-1377672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trabaja-ia-capaz-detectar-desastres-naturales-antes-sucedan-3296589.jpg?tf=1200x' alt='Microsoft trabaja en una IA capaz de detectar desastres naturales antes de que sucedan' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/bug-bounty-empresas-necesitan-hacker-vida-1373211'>¿Qué es Bug Bounty y por qué las empresas necesitan un hacker en su vida?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/bug-bounty-empresas-necesitan-hacker-vida-1373211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1712316226228-3296246.jpg?tf=1200x' alt='¿Qué es Bug Bounty y por qué las empresas necesitan un hacker en su vida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-todos-servicios-almacenamiento-nube-mi-favorito-1376116'>He probado todos los servicios de almacenamiento en la nube y este es mi favorito</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-todos-servicios-almacenamiento-nube-mi-favorito-1376116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-probando-servicios-almacenamiento-nube-3294359.jpg?tf=1200x' alt='He probado todos los servicios de almacenamiento en la nube y este es mi favorito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/razer-pro-type-ultra-prueba-opinion-1377086'>Por fin un teclado mecánico sin estridencias: he probado el Razer Pro Type Ultra y si las luces de colores te espantan, es tu opción</a></h4>
-    <a href='https://computerhoy.com/analisis/razer-pro-type-ultra-prueba-opinion-1377086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razer-pro-type-ultra-3296109.jpg?tf=1200x' alt='Por fin un teclado mecánico sin estridencias: he probado el Razer Pro Type Ultra y si las luces de colores te espantan, es tu opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681'>¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-7-abril-2024-1377681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-7-abril-2024-3296601.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 7 de abril de 2024' />
     </a>
 </div>
 
