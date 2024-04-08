@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777'>Botsuana amenaza con enviar 20.000 elefantes a Alemania</a></h4>
+    <a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/botswana-amenaza-enviar-20000-elefantes-alemania-3296754.jpg?tf=1200x' alt='Botsuana amenaza con enviar 20.000 elefantes a Alemania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775'>OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757'>Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas</a></h4>
     <a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/luces-led-tarjetas-graficas-estan-quemando-placas-3296706.jpg?tf=1200x' alt='Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740'>Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes</a></h4>
-    <a href='https://computerhoy.com/windows/llega-nueva-microsoft-store-windows-11-40-rapida-antes-1377740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Llega la nueva Microsoft Store a Windows 11: es hasta un 40% más rápida que antes' />
     </a>
 </div>
 
