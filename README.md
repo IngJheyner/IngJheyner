@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804'>¿Quién me llama? Android prepara un botón para buscar el número de teléfono</a></h4>
+    <a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quien-me-llama-android-prepara-boton-buscar-numero-telefono-3296791.jpg?tf=1200x' alt='¿Quién me llama? Android prepara un botón para buscar el número de teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/olvidate-actualizar-windows-11-tienes-alguna-estas-aplicaciones-1377808'>Olvídate de actualizar a Windows 11 si tienes alguna de estas aplicaciones, Microsoft no lo permite</a></h4>
     <a href='https://computerhoy.com/windows/olvidate-actualizar-windows-11-tienes-alguna-estas-aplicaciones-1377808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/actualizar-windows-11-3296811.jpg?tf=1200x' alt='Olvídate de actualizar a Windows 11 si tienes alguna de estas aplicaciones, Microsoft no lo permite' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791'>Spotify te permite crear listas usando inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-te-permite-crear-listas-usando-inteligencia-artificial-3296771.jpg?tf=1200x' alt='Spotify te permite crear listas usando inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060'>Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti' />
     </a>
 </div>
 
