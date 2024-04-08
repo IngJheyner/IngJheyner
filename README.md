@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/olvidate-actualizar-windows-11-tienes-alguna-estas-aplicaciones-1377808'>Olvídate de actualizar a Windows 11 si tienes alguna de estas aplicaciones, Microsoft no lo permite</a></h4>
+    <a href='https://computerhoy.com/windows/olvidate-actualizar-windows-11-tienes-alguna-estas-aplicaciones-1377808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/actualizar-windows-11-3296811.jpg?tf=1200x' alt='Olvídate de actualizar a Windows 11 si tienes alguna de estas aplicaciones, Microsoft no lo permite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-apenas-100-euros-parece-gama-media-pero-precio-outlet-1377768'>Este Xiaomi de apenas 100 euros parece un gama media, pero su precio es de outlet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-apenas-100-euros-parece-gama-media-pero-precio-outlet-1377768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Este Xiaomi de apenas 100 euros parece un gama media, pero su precio es de outlet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803'>La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg?tf=1200x' alt='La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060'>Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543'>Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste</a></h4>
-    <a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabrica-smartphones-3294441.jpg?tf=1200x' alt='Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
-    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
     </a>
 </div>
 
