@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543'>Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste</a></h4>
+    <a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabrica-smartphones-3294441.jpg?tf=1200x' alt='Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775'>OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767'>La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-3296743.jpg?tf=1200x' alt='La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC' />
     </a>
 </div>
 
