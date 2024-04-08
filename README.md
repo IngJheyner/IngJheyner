@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032'>Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze</a></h4>
+    <a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031'>El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-3297082.jpg?tf=1200x' alt='El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474'>Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sacale-partido-google-maps-20-funciones-secretas-deberias-empezar-utilizar-ahora-mismo-3296034.jpg?tf=1200x' alt='Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511'>Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-negocios-hollywood-5-peliculas-costaron-miseria-recaudaron-millones-taquilla-3296396.jpg?tf=1200x' alt='Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992'>Los mejores atajos de teclados para Excel en Windows y Mac</a></h4>
     <a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-atajos-teclados-excel-windows-mac-3297066.jpg?tf=1200x' alt='Los mejores atajos de teclados para Excel en Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-probar-linux-windows-instalar-1377569'>Cómo probar Linux en Windows sin necesidad de instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-probar-linux-windows-instalar-1377569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-probar-linux-windows-necesidad-instalar-nada-3296483.jpg?tf=1200x' alt='Cómo probar Linux en Windows sin necesidad de instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981'>Cómo conectarte, crear y configurar tu propia red VPN</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectarte-crear-configurar-propia-red-vpn-3295543.jpg?tf=1200x' alt='Cómo conectarte, crear y configurar tu propia red VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/jovenes-smartphone-son-propensos-ansiedad-pero-puede-evitarse-1377345'>Los jóvenes que crecen con un smartphone son más propensos a la ansiedad y la depresión, pero puede evitarse</a></h4>
-    <a href='https://computerhoy.com/moviles/jovenes-smartphone-son-propensos-ansiedad-pero-puede-evitarse-1377345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/jovenes-crecen-smartphone-son-propensos-ansiedad-depresion-pero-puede-evitarse-3296091.jpg?tf=1200x' alt='Los jóvenes que crecen con un smartphone son más propensos a la ansiedad y la depresión, pero puede evitarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494'>Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/multas-no-llevar-etiqueta-dgt-1973239.jpg?tf=1200x' alt='Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula' />
     </a>
 </div>
 
