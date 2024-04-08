@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829'>No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3296790.jpg?tf=1200x' alt='No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032'>Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze</a></h4>
     <a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511'>Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-negocios-hollywood-5-peliculas-costaron-miseria-recaudaron-millones-taquilla-3296396.jpg?tf=1200x' alt='Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992'>Los mejores atajos de teclados para Excel en Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-atajos-teclados-excel-windows-mac-3297066.jpg?tf=1200x' alt='Los mejores atajos de teclados para Excel en Windows y Mac' />
     </a>
 </div>
 
