@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755'>1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoflow-river-2-max-3296715.jpg?tf=1200x' alt='1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804'>¿Quién me llama? Android prepara un botón para buscar el número de teléfono</a></h4>
     <a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quien-me-llama-android-prepara-boton-buscar-numero-telefono-3296791.jpg?tf=1200x' alt='¿Quién me llama? Android prepara un botón para buscar el número de teléfono' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803'>La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg?tf=1200x' alt='La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791'>Spotify te permite crear listas usando inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-te-permite-crear-listas-usando-inteligencia-artificial-3296771.jpg?tf=1200x' alt='Spotify te permite crear listas usando inteligencia artificial' />
     </a>
 </div>
 
