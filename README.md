@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494'>Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/multas-no-llevar-etiqueta-dgt-1973239.jpg?tf=1200x' alt='Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880'>Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/baterias-estado-solido-revolucionaran-coches-electricos-1377868'>La expansión de las baterías de estado sólido revolucionará los coches eléctricos, pero no será la única industria</a></h4>
     <a href='https://computerhoy.com/motor/baterias-estado-solido-revolucionaran-coches-electricos-1377868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/expansion-baterias-estado-solido-revolucionara-coches-electricos-pero-no-sera-unica-industria-3296873.jpg?tf=1200x' alt='La expansión de las baterías de estado sólido revolucionará los coches eléctricos, pero no será la única industria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-estoy-asnef-equifax-1377865'>¿Cómo saber si estoy en ASNEF Equifax?</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-estoy-asnef-equifax-1377865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/morosos-economia-3296905.jpg?tf=1200x' alt='¿Cómo saber si estoy en ASNEF Equifax?' />
     </a>
 </div>
 
