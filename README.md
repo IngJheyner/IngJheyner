@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047'> ¿Cuándo se lanzará el próximo iPad mini?</a></h4>
+    <a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501979.jpg?tf=1200x' alt=' ¿Cuándo se lanzará el próximo iPad mini?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829'>No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3296790.jpg?tf=1200x' alt='No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474'>Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sacale-partido-google-maps-20-funciones-secretas-deberias-empezar-utilizar-ahora-mismo-3296034.jpg?tf=1200x' alt='Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511'>Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-costaron-miseria-recaudaron-millones-taquilla-1377511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-negocios-hollywood-5-peliculas-costaron-miseria-recaudaron-millones-taquilla-3296396.jpg?tf=1200x' alt='Mejores negocios de Hollywood: 5 películas que costaron una miseria y recaudaron millones en taquilla' />
     </a>
 </div>
 
