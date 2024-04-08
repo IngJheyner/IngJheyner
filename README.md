@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992'>Los mejores atajos de teclados para Excel en Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-atajos-teclados-excel-windows-mac-1377992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-atajos-teclados-excel-windows-mac-3297066.jpg?tf=1200x' alt='Los mejores atajos de teclados para Excel en Windows y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-probar-linux-windows-instalar-1377569'>Cómo probar Linux en Windows sin necesidad de instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-probar-linux-windows-instalar-1377569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-probar-linux-windows-necesidad-instalar-nada-3296483.jpg?tf=1200x' alt='Cómo probar Linux en Windows sin necesidad de instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981'>Cómo conectarte, crear y configurar tu propia red VPN</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectarte-crear-configurar-propia-red-vpn-3295543.jpg?tf=1200x' alt='Cómo conectarte, crear y configurar tu propia red VPN' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494'>Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/multas-no-llevar-etiqueta-dgt-1973239.jpg?tf=1200x' alt='Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880'>Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831'>Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses</a></h4>
-    <a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-10-opciones-programas-desapareceran-windows-proximos-meses-3296821.jpg?tf=1200x' alt='Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses' />
     </a>
 </div>
 
