@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803'>La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nueva-version-kodi-omega-ya-disponible-novedades-descarga-1377803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/kodi-2881805.jpg?tf=1200x' alt='La nueva versión de Kodi, Omega, ya está disponible: novedades y cómo descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791'>Spotify te permite crear listas usando inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-funcion-spotify-inteligencia-artificial-1377791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-te-permite-crear-listas-usando-inteligencia-artificial-3296771.jpg?tf=1200x' alt='Spotify te permite crear listas usando inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060'>Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
     <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782'>¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-8-abril-2024-3296757.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777'>Botsuana amenaza con enviar 20.000 elefantes a Alemania</a></h4>
-    <a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/botswana-amenaza-enviar-20000-elefantes-alemania-3296754.jpg?tf=1200x' alt='Botsuana amenaza con enviar 20.000 elefantes a Alemania' />
     </a>
 </div>
 
