@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782'>¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-8-abril-2024-3296757.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777'>Botsuana amenaza con enviar 20.000 elefantes a Alemania</a></h4>
     <a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/botswana-amenaza-enviar-20000-elefantes-alemania-3296754.jpg?tf=1200x' alt='Botsuana amenaza con enviar 20.000 elefantes a Alemania' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761'>La NASA va a poner en órbita tres cohetes durante el eclipse solar</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-3296726.jpg?tf=1200x' alt='La NASA va a poner en órbita tres cohetes durante el eclipse solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757'>Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas</a></h4>
-    <a href='https://computerhoy.com/gaming/luces-led-memoria-ram-quemaduras-placas-tarjetas-graficas-1377757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/luces-led-tarjetas-graficas-estan-quemando-placas-3296706.jpg?tf=1200x' alt='Las luces LED del interior de los ordenadores gaming están quemando las placas de las tarjetas gráficas' />
     </a>
 </div>
 
