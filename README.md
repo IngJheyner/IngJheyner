@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831'>Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses</a></h4>
+    <a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-10-opciones-programas-desapareceran-windows-proximos-meses-3296821.jpg?tf=1200x' alt='Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/como-saber-hacienda-me-devuelve-declaracion-renta-2023-1377866'>Como saber si Hacienda me devuelve en la declaración de la Renta 2023</a></h4>
     <a href='https://computerhoy.com/life/como-saber-hacienda-me-devuelve-declaracion-renta-2023-1377866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/declaracion-renta-3296909.jpg?tf=1200x' alt='Como saber si Hacienda me devuelve en la declaración de la Renta 2023' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755'>1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoflow-river-2-max-3296715.jpg?tf=1200x' alt='1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804'>¿Quién me llama? Android prepara un botón para buscar el número de teléfono</a></h4>
-    <a href='https://computerhoy.com/android/android-prepara-boton-buscar-numero-telefono-rapido-1377804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quien-me-llama-android-prepara-boton-buscar-numero-telefono-3296791.jpg?tf=1200x' alt='¿Quién me llama? Android prepara un botón para buscar el número de teléfono' />
     </a>
 </div>
 
