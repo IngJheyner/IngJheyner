@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060'>Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-defiende-datos-borra-todo-otras-companias-tengan-ti-1377060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN defiende tus datos: borra todo lo que otras compañías tengan de ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543'>Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste</a></h4>
     <a href='https://computerhoy.com/moviles/como-disena-movil-cuanto-tiempo-tarda-fabricacion-1375543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabrica-smartphones-3294441.jpg?tf=1200x' alt='Cómo se fabrica un smartphone desde la idea hasta que llega al consumidor, según la CEO de la única empresa española de móviles que resiste' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777'>Botsuana amenaza con enviar 20.000 elefantes a Alemania</a></h4>
     <a href='https://computerhoy.com/life/botsuana-amenaza-enviar-20000-elefantes-alemania-1377777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/botswana-amenaza-enviar-20000-elefantes-alemania-3296754.jpg?tf=1200x' alt='Botsuana amenaza con enviar 20.000 elefantes a Alemania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775'>OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-uso-millones-videos-youtube-entrenar-ia-1377775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/openai-uso-millones-videos-youtube-entrenar-ia-google-muy-enfadada-3296753.jpg?tf=1200x' alt='OpenAI usó millones de vídeos de YouTube para entrenar a sus IA: Google está muy enfadada' />
     </a>
 </div>
 
