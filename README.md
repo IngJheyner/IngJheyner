@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880'>Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-ofrece-cursos-gratis-certificado-inteligencia-artificial-1377880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Nvidia ofrece cursos gratis con certificado para aprender todo sobre la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831'>Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses</a></h4>
     <a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-10-opciones-programas-desapareceran-windows-proximos-meses-3296821.jpg?tf=1200x' alt='Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/como-saber-estoy-asnef-equifax-1377865'>¿Cómo saber si estoy en ASNEF Equifax?</a></h4>
     <a href='https://computerhoy.com/life/como-saber-estoy-asnef-equifax-1377865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/morosos-economia-3296905.jpg?tf=1200x' alt='¿Cómo saber si estoy en ASNEF Equifax?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755'>1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/1000w-potencia-carga-solar-generador-100eu-barato-ahora-amazon-1377755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoflow-river-2-max-3296715.jpg?tf=1200x' alt='1000W de potencia y carga solar: este generador es 100€ más barato ahora en Amazon' />
     </a>
 </div>
 
