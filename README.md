@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034'>10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-datos-sorprendentes-almacenamiento-datos-toda-informacion-puede-guardar-3297126.jpg?tf=1200x' alt='10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047'> ¿Cuándo se lanzará el próximo iPad mini?</a></h4>
     <a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501979.jpg?tf=1200x' alt=' ¿Cuándo se lanzará el próximo iPad mini?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031'>El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería</a></h4>
     <a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-3297082.jpg?tf=1200x' alt='El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474'>Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/15-funciones-google-maps-deberias-utilizar-ahora-mismo-1283474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sacale-partido-google-maps-20-funciones-secretas-deberias-empezar-utilizar-ahora-mismo-3296034.jpg?tf=1200x' alt='Sácale más partido a Google Maps: 20 funciones secretas que deberías empezar a utilizar ahora mismo' />
     </a>
 </div>
 
