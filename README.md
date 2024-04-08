@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855'>Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta</a></h4>
+    <a href='https://computerhoy.com/guia-compra/reloj-deportivo-338855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/suunto-9-peak-2816851.jpg?tf=1200x' alt='Guía para comprar un reloj deportivo: consejos y qué debes tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782'>¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-8-abril-2024-1377782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-8-abril-2024-3296757.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 8 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767'>La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-1377767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-desvela-contrasenas-nunca-debes-usar-movil-pc-3296743.jpg?tf=1200x' alt='La Guardia Civil desvela las contraseñas que nunca debes usar en tu móvil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761'>La NASA va a poner en órbita tres cohetes durante el eclipse solar</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-1377761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-va-poner-orbita-tres-cohetes-durante-eclipse-solar-3296726.jpg?tf=1200x' alt='La NASA va a poner en órbita tres cohetes durante el eclipse solar' />
     </a>
 </div>
 
