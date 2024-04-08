@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981'>Cómo conectarte, crear y configurar tu propia red VPN</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-conectarte-crear-configurar-tu-propia-red-vpn-7981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectarte-crear-configurar-propia-red-vpn-3295543.jpg?tf=1200x' alt='Cómo conectarte, crear y configurar tu propia red VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/jovenes-smartphone-son-propensos-ansiedad-pero-puede-evitarse-1377345'>Los jóvenes que crecen con un smartphone son más propensos a la ansiedad y la depresión, pero puede evitarse</a></h4>
+    <a href='https://computerhoy.com/moviles/jovenes-smartphone-son-propensos-ansiedad-pero-puede-evitarse-1377345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/jovenes-crecen-smartphone-son-propensos-ansiedad-depresion-pero-puede-evitarse-3296091.jpg?tf=1200x' alt='Los jóvenes que crecen con un smartphone son más propensos a la ansiedad y la depresión, pero puede evitarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494'>Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-pegatina-ambiental-dgt-coche-matricula-1377494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/06/multas-no-llevar-etiqueta-dgt-1973239.jpg?tf=1200x' alt='Cómo saber cuál es la pegatina ambiental de la DGT de un coche solo con la matrícula' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831'>Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses</a></h4>
     <a href='https://computerhoy.com/windows/opciones-apps-desapareceran-windows-proximos-meses-1377831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-10-opciones-programas-desapareceran-windows-proximos-meses-3296821.jpg?tf=1200x' alt='Estas son las 10 opciones y programas que desaparecerán de Windows en los próximos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-saber-hacienda-me-devuelve-declaracion-renta-2023-1377866'>Como saber si Hacienda me devuelve en la declaración de la Renta 2023</a></h4>
-    <a href='https://computerhoy.com/life/como-saber-hacienda-me-devuelve-declaracion-renta-2023-1377866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/declaracion-renta-3296909.jpg?tf=1200x' alt='Como saber si Hacienda me devuelve en la declaración de la Renta 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/baterias-estado-solido-revolucionaran-coches-electricos-1377868'>La expansión de las baterías de estado sólido revolucionará los coches eléctricos, pero no será la única industria</a></h4>
-    <a href='https://computerhoy.com/motor/baterias-estado-solido-revolucionaran-coches-electricos-1377868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/expansion-baterias-estado-solido-revolucionara-coches-electricos-pero-no-sera-unica-industria-3296873.jpg?tf=1200x' alt='La expansión de las baterías de estado sólido revolucionará los coches eléctricos, pero no será la única industria' />
     </a>
 </div>
 
