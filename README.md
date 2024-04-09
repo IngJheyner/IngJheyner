@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075'>Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años</a></h4>
+    <a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-android-va-recibir-actualizacion-revolucionaria-ultimos-anos-3297127.jpg?tf=1200x' alt='Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062'>Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-3297142.jpg?tf=1200x' alt='Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058'>Cómo configurar Waze para que te avise de todos los radares en la carretera</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-waze-te-avise-todos-radares-carretera-3297135.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de todos los radares en la carretera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047'> ¿Cuándo se lanzará el próximo iPad mini?</a></h4>
     <a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501979.jpg?tf=1200x' alt=' ¿Cuándo se lanzará el próximo iPad mini?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829'>No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-watch-2-pro-oferta-50-euros-descuento-forma-temporal-1377829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3296790.jpg?tf=1200x' alt='No es un reloj clásico, es el smartwatch Xiaomi con LTE y Wear OS que ahora es más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032'>Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze</a></h4>
-    <a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze' />
     </a>
 </div>
 
