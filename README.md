@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ajustes-imprescindibles-mejorar-gmail-movil-android-1377570'>6 ajustes imprescindibles para mejorar Gmail en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/apps/ajustes-imprescindibles-mejorar-gmail-movil-android-1377570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-ajustes-imprescindibles-mejorar-gmail-movil-android-3296489.jpg?tf=1200x' alt='6 ajustes imprescindibles para mejorar Gmail en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/petricor-olor-lluvia-1376768'>¿Por qué te gusta el olor a lluvia? Así es como lo explica la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/petricor-olor-lluvia-1376768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/te-gusta-olor-lluvia-como-explica-ciencia-3295085.jpg?tf=1200x' alt='¿Por qué te gusta el olor a lluvia? Así es como lo explica la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079'>¿Qué santo es hoy? Santoral del martes 9 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-9-abril-2024-3297156.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 9 de abril de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062'>Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels</a></h4>
     <a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-3297142.jpg?tf=1200x' alt='Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058'>Cómo configurar Waze para que te avise de todos los radares en la carretera</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-waze-te-avise-todos-radares-carretera-3297135.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de todos los radares en la carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034'>10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-datos-sorprendentes-almacenamiento-datos-toda-informacion-puede-guardar-3297126.jpg?tf=1200x' alt='10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto' />
     </a>
 </div>
 
