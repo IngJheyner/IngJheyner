@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106'>¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función</a></h4>
+    <a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099'>Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux</a></h4>
     <a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/qualcomm-presenta-nuevos-chips-internet-cosas-10-veces-ia-qualcomm-linux-3297167.jpg?tf=1200x' alt='Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891'>He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil</a></h4>
     <a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-book4-pro-360-3295329.jpg?tf=1200x' alt='He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022'>7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad</a></h4>
-    <a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-3295540.jpg?tf=1200x' alt='7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad' />
     </a>
 </div>
 
