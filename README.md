@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233'>Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-3296492.jpg?tf=1200x' alt='Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/que-es-jpegli-comprimir-imagenes-1378078'>Qué es y cómo funciona Jpegli, lo nuevo de Google para comprimir imágenes sin perder calidad</a></h4>
+    <a href='https://computerhoy.com/google/que-es-jpegli-comprimir-imagenes-1378078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-jpegli-nuevo-google-comprimir-imagenes-perder-calidad-3297159.jpg?tf=1200x' alt='Qué es y cómo funciona Jpegli, lo nuevo de Google para comprimir imágenes sin perder calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477'>Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sombra-digital-riesgos-tiene-diferencia-huella-digital-3294628.jpg?tf=1200x' alt='Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198'>Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids</a></h4>
     <a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-cloud-next-24-gemini-todos-primer-procesador-arm-google-axion-google-vids-3297324.jpg?tf=1200x' alt='Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163'>El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media</a></h4>
-    <a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188'>Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados</a></h4>
-    <a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fairbuds-3297401.jpg?tf=1200x' alt='Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados' />
     </a>
 </div>
 
