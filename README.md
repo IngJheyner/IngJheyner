@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163'>El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188'>Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados</a></h4>
+    <a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fairbuds-3297401.jpg?tf=1200x' alt='Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/diferencias-clave-permanente-clave-pin-cuando-debes-utilizar-cada-1378130'>Diferencias entre Clave Permanente y Clave PIN y cuándo debes utilizar cada una</a></h4>
+    <a href='https://computerhoy.com/internet/diferencias-clave-permanente-clave-pin-cuando-debes-utilizar-cada-1378130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/clave-pin-clave-permanente-3297296.jpg?tf=1200x' alt='Diferencias entre Clave Permanente y Clave PIN y cuándo debes utilizar cada una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121'>Qué es Privicompras, cómo funciona y por qué es tan peligroso</a></h4>
     <a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-privicompras-3297258.jpg?tf=1200x' alt='Qué es Privicompras, cómo funciona y por qué es tan peligroso' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747'>No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-active-3295060.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cuando-seran-proximos-eclipses-podran-ver-espana-1378127'>¿Cuándo será el próximo eclipse que podrás ver en España?</a></h4>
-    <a href='https://computerhoy.com/espacio/cuando-seran-proximos-eclipses-podran-ver-espana-1378127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-sera-proximo-eclipse-podras-ver-espana-3297246.jpg?tf=1200x' alt='¿Cuándo será el próximo eclipse que podrás ver en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104'>Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-chips-desaceleran-produccion-aumentan-precios-nuevo-motivo-ahora-terremoto-taiwan-3297204.jpg?tf=1200x' alt='Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110'>Alternativas a Lectulandia para descargar libros gratis en ePub o PDF</a></h4>
-    <a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descargar-libros-gratis-epub-3297237.jpg?tf=1200x' alt='Alternativas a Lectulandia para descargar libros gratis en ePub o PDF' />
     </a>
 </div>
 
