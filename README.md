@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104'>Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-chips-desaceleran-produccion-aumentan-precios-nuevo-motivo-ahora-terremoto-taiwan-3297204.jpg?tf=1200x' alt='Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110'>Alternativas a Lectulandia para descargar libros gratis en ePub o PDF</a></h4>
     <a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descargar-libros-gratis-epub-3297237.jpg?tf=1200x' alt='Alternativas a Lectulandia para descargar libros gratis en ePub o PDF' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106'>¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función</a></h4>
     <a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099'>Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux</a></h4>
-    <a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/qualcomm-presenta-nuevos-chips-internet-cosas-10-veces-ia-qualcomm-linux-3297167.jpg?tf=1200x' alt='Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux' />
     </a>
 </div>
 
