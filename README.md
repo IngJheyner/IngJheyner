@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477'>Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sombra-digital-riesgos-tiene-diferencia-huella-digital-3294628.jpg?tf=1200x' alt='Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cuando-acaba-poder-compartir-contrasena-cada-plataforma-streaming-1377973'>Disney+, HBO, Apple TV+… ¿Cuándo se acaba poder compartir contraseña en cada plataforma de streaming?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cuando-acaba-poder-compartir-contrasena-cada-plataforma-streaming-1377973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/disney-hbo-apple-tv-cuando-acaba-compartir-contrasena-cada-plataforma-streaming-3297031.jpg?tf=1200x' alt='Disney+, HBO, Apple TV+… ¿Cuándo se acaba poder compartir contraseña en cada plataforma de streaming?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188'>Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados</a></h4>
     <a href='https://computerhoy.com/audio/primeros-auriculares-ear-pensados-ser-reparados-1378188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fairbuds-3297401.jpg?tf=1200x' alt='Fairbuds, los primeros auriculares in-ear que están pensados para ser reparados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/diferencias-clave-permanente-clave-pin-cuando-debes-utilizar-cada-1378130'>Diferencias entre Clave Permanente y Clave PIN y cuándo debes utilizar cada una</a></h4>
-    <a href='https://computerhoy.com/internet/diferencias-clave-permanente-clave-pin-cuando-debes-utilizar-cada-1378130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/clave-pin-clave-permanente-3297296.jpg?tf=1200x' alt='Diferencias entre Clave Permanente y Clave PIN y cuándo debes utilizar cada una' />
     </a>
 </div>
 
