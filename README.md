@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351'>Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”</a></h4>
+    <a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/superficie-luna-3297662.jpg?tf=1200x' alt='Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091'>Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941'>No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-solo-damian-5-peliculas-profecias-resultan-realmente-inquietantes-3296962.jpg?tf=1200x' alt='No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-1375638'>Cómo activar el control gestual con doble toque en los Apple Watch antiguos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-1375638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-3293451.jpg?tf=1200x' alt='Cómo activar el control gestual con doble toque en los Apple Watch antiguos' />
     </a>
 </div>
 
