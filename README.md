@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198'>Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids</a></h4>
+    <a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-cloud-next-24-gemini-todos-primer-procesador-arm-google-axion-google-vids-3297324.jpg?tf=1200x' alt='Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163'>El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media</a></h4>
     <a href='https://computerhoy.com/life/google-maps-muestra-salarios-europa-paises-1378163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-europa-3297379.jpg?tf=1200x' alt='El Google Maps de los salarios en Europa: diferencias abismales y España muy por debajo de la media' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121'>Qué es Privicompras, cómo funciona y por qué es tan peligroso</a></h4>
     <a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-privicompras-3297258.jpg?tf=1200x' alt='Qué es Privicompras, cómo funciona y por qué es tan peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747'>No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-active-3295060.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días' />
     </a>
 </div>
 
