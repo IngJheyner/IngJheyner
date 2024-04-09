@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121'>Qué es Privicompras, cómo funciona y por qué es tan peligroso</a></h4>
+    <a href='https://computerhoy.com/internet/privicompras-como-funciona-tan-peligroso-1378121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-privicompras-3297258.jpg?tf=1200x' alt='Qué es Privicompras, cómo funciona y por qué es tan peligroso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747'>No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-estos-cascos-bluetooth-xiaomi-cuestan-269-euros-te-mandan-gratis-cinco-dias-1376747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-active-3295060.jpg?tf=1200x' alt='No es un error: estos cascos bluetooth de Xiaomi cuestan 2,69 euros y te los mandan gratis en cinco días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cuando-seran-proximos-eclipses-podran-ver-espana-1378127'>¿Cuándo será el próximo eclipse que podrás ver en España?</a></h4>
+    <a href='https://computerhoy.com/espacio/cuando-seran-proximos-eclipses-podran-ver-espana-1378127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-sera-proximo-eclipse-podras-ver-espana-3297246.jpg?tf=1200x' alt='¿Cuándo será el próximo eclipse que podrás ver en España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104'>Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo</a></h4>
     <a href='https://computerhoy.com/tecnologia/fabricantes-chips-reducen-produccion-aumentaran-precio-1378104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fabricantes-chips-desaceleran-produccion-aumentan-precios-nuevo-motivo-ahora-terremoto-taiwan-3297204.jpg?tf=1200x' alt='Los fabricantes de chips desaceleran la producción y aumentan los precios de nuevo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110'>Alternativas a Lectulandia para descargar libros gratis en ePub o PDF</a></h4>
     <a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descargar-libros-gratis-epub-3297237.jpg?tf=1200x' alt='Alternativas a Lectulandia para descargar libros gratis en ePub o PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-1378124'>AMD Versal Gen 2, los nuevos chips con IA para el Internet de las Cosas</a></h4>
-    <a href='https://computerhoy.com/internet/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-1378124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-3297206.jpg?tf=1200x' alt='AMD Versal Gen 2, los nuevos chips con IA para el Internet de las Cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apenas-250-euros-reloj-samsung-compra-brutal-correa-regalo-1377881'>Por apenas 250 euros este reloj Samsung es una compra brutal, y con correa de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apenas-250-euros-reloj-samsung-compra-brutal-correa-regalo-1377881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Por apenas 250 euros este reloj Samsung es una compra brutal, y con correa de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106'>¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función</a></h4>
-    <a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función' />
     </a>
 </div>
 
