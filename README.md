@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058'>Cómo configurar Waze para que te avise de todos los radares en la carretera</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-waze-te-avise-todos-radares-carretera-3297135.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de todos los radares en la carretera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034'>10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-datos-sorprendentes-almacenamiento-datos-toda-informacion-puede-guardar-3297126.jpg?tf=1200x' alt='10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032'>Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze</a></h4>
     <a href='https://computerhoy.com/apps/google-recula-soluciona-error-android-auto-google-maps-perjudicaba-waze-1378032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='Google recula y soluciona el "error" de Android Auto y Google Maps que perjudicaba a Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031'>El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-1378031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/control-trenes-san-francisco-todavia-funciona-disquetes-bomba-relojeria-3297082.jpg?tf=1200x' alt='El control de trenes en San Francisco todavía funciona con disquetes y es una bomba de relojería' />
     </a>
 </div>
 
