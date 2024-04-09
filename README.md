@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079'>¿Qué santo es hoy? Santoral del martes 9 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-9-abril-2024-3297156.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 9 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075'>Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años</a></h4>
     <a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-android-va-recibir-actualizacion-revolucionaria-ultimos-anos-3297127.jpg?tf=1200x' alt='Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034'>10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-datos-sorprendentes-almacenamiento-datos-1378034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-datos-sorprendentes-almacenamiento-datos-toda-informacion-puede-guardar-3297126.jpg?tf=1200x' alt='10 datos sorprendentes sobre el almacenamiento de datos que te dejarán boquiabierto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047'> ¿Cuándo se lanzará el próximo iPad mini?</a></h4>
-    <a href='https://computerhoy.com/apple/cuando-lanzara-apple-proximo-ipad-mini-1378047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/ipad-mini-6a-generacion-2021-analisis-opinion-2501979.jpg?tf=1200x' alt=' ¿Cuándo se lanzará el próximo iPad mini?' />
     </a>
 </div>
 
