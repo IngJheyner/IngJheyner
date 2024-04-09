@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110'>Alternativas a Lectulandia para descargar libros gratis en ePub o PDF</a></h4>
+    <a href='https://computerhoy.com/internet/alternativas-lectulandia-descargar-libros-gratis-epub-pdf-1378110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descargar-libros-gratis-epub-3297237.jpg?tf=1200x' alt='Alternativas a Lectulandia para descargar libros gratis en ePub o PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-1378124'>AMD Versal Gen 2, los nuevos chips con IA para el Internet de las Cosas</a></h4>
+    <a href='https://computerhoy.com/internet/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-1378124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amd-versal-gen-2-nuevos-chips-ia-internet-cosas-3297206.jpg?tf=1200x' alt='AMD Versal Gen 2, los nuevos chips con IA para el Internet de las Cosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apenas-250-euros-reloj-samsung-compra-brutal-correa-regalo-1377881'>Por apenas 250 euros este reloj Samsung es una compra brutal, y con correa de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apenas-250-euros-reloj-samsung-compra-brutal-correa-regalo-1377881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110556.jpg?tf=1200x' alt='Por apenas 250 euros este reloj Samsung es una compra brutal, y con correa de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106'>¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función</a></h4>
     <a href='https://computerhoy.com/apps/tienes-contactos-olvidados-agenda-whatsapp-te-recordara-funcion-1378106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/whatsapp-estafa-enlaces-3251898.jpg?tf=1200x' alt='¿Tienes contactos olvidados en tu agenda? WhatsApp te lo recordará con esta función' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099'>Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux</a></h4>
     <a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/qualcomm-presenta-nuevos-chips-internet-cosas-10-veces-ia-qualcomm-linux-3297167.jpg?tf=1200x' alt='Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020'>4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-error-pero-no-tablet-59-euros-android-13-marca-conocida-te-llega-tres-dias-1376569'>Parece un error, pero no: esta tablet de 59 euros con Android 13 es de una marca conocida y te llega en tres días</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-error-pero-no-tablet-59-euros-android-13-marca-conocida-te-llega-tres-dias-1376569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclast-p26t-3294790.jpg?tf=1200x' alt='Parece un error, pero no: esta tablet de 59 euros con Android 13 es de una marca conocida y te llega en tres días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891'>He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil</a></h4>
-    <a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-book4-pro-360-3295329.jpg?tf=1200x' alt='He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil' />
     </a>
 </div>
 
