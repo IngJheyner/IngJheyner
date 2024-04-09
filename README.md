@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-canon-intel-core-i7-rtx-4060-pero-mejor-ahora-no-cuesta-ni-1000-euros-1377905'>Este portátil es un cañón con Intel Core i7 y RTX 4060, pero lo mejor es que ahora no cuesta ni 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-canon-intel-core-i7-rtx-4060-pero-mejor-ahora-no-cuesta-ni-1000-euros-1377905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/msi-cyborg-15-3226996.jpg?tf=1200x' alt='Este portátil es un cañón con Intel Core i7 y RTX 4060, pero lo mejor es que ahora no cuesta ni 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acertijos-faciles-en-familia-630855'>20 acertijos fáciles para jugar en familia</a></h4>
+    <a href='https://computerhoy.com/noticias/entretenimiento/acertijos-faciles-en-familia-630855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/20-acertijos-faciles-jugar-familia-3297162.jpg?tf=1200x' alt='20 acertijos fáciles para jugar en familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-fijar-excel-fila-columna-1376995'>Cómo fijar en Excel una fila o columna</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-fijar-excel-fila-columna-1376995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-fijar-excel-fila-columna-3295517.jpg?tf=1200x' alt='Cómo fijar en Excel una fila o columna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233'>Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-1097233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-controlar-temperatura-cpu-windows-11-evitar-errores-criticos-3296492.jpg?tf=1200x' alt='Cómo controlar la temperatura de la CPU en Windows 11 para evitar errores críticos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/que-es-jpegli-comprimir-imagenes-1378078'>Qué es y cómo funciona Jpegli, lo nuevo de Google para comprimir imágenes sin perder calidad</a></h4>
     <a href='https://computerhoy.com/google/que-es-jpegli-comprimir-imagenes-1378078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-jpegli-nuevo-google-comprimir-imagenes-perder-calidad-3297159.jpg?tf=1200x' alt='Qué es y cómo funciona Jpegli, lo nuevo de Google para comprimir imágenes sin perder calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477'>Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/sombra-digital-riesgos-tiene-diferencia-huella-digital-1376477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sombra-digital-riesgos-tiene-diferencia-huella-digital-3294628.jpg?tf=1200x' alt='Sombra digital: ¿qué riesgos tiene y en qué se diferencia a la huella digital?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuando-acaba-poder-compartir-contrasena-cada-plataforma-streaming-1377973'>Disney+, HBO, Apple TV+… ¿Cuándo se acaba poder compartir contraseña en cada plataforma de streaming?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuando-acaba-poder-compartir-contrasena-cada-plataforma-streaming-1377973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/disney-hbo-apple-tv-cuando-acaba-compartir-contrasena-cada-plataforma-streaming-3297031.jpg?tf=1200x' alt='Disney+, HBO, Apple TV+… ¿Cuándo se acaba poder compartir contraseña en cada plataforma de streaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198'>Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids</a></h4>
-    <a href='https://computerhoy.com/google/google-cloud-next-24-gemini-google-vids-axion-1378198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-cloud-next-24-gemini-todos-primer-procesador-arm-google-axion-google-vids-3297324.jpg?tf=1200x' alt='Google Cloud Next '24: Gemini para todos, primer procesador ARM Google Axion, y Google Vids' />
     </a>
 </div>
 
