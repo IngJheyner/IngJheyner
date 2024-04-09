@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099'>Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux</a></h4>
+    <a href='https://computerhoy.com/internet/qualcomm-presenta-nuevos-chips-ia-internet-cosas-1378099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/qualcomm-presenta-nuevos-chips-internet-cosas-10-veces-ia-qualcomm-linux-3297167.jpg?tf=1200x' alt='Qualcomm presenta sus nuevos chips para el Internet de las cosas con 10 veces más IA, y Qualcomm Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020'>4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022'>7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad</a></h4>
     <a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-3295540.jpg?tf=1200x' alt='7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/vpn-ofrece-ip-fija-cuales-son-precios-1377945'>Qué VPN ofrece una IP dedicada y cuáles son sus precios</a></h4>
-    <a href='https://computerhoy.com/redes/vpn-ofrece-ip-fija-cuales-son-precios-1377945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/varios-dispositivos-usando-red-vpn-3021256.jpg?tf=1200x' alt='Qué VPN ofrece una IP dedicada y cuáles son sus precios' />
     </a>
 </div>
 
