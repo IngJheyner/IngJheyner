@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368'>El fundador de Steam presenta su chip cerebral del tamaño de una uña, para competir con Neuralink de Elon Musk</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fundador-steam-presenta-chip-neural-tamano-competir-neuralink-elon-musk-3297677.jpg?tf=1200x' alt='El fundador de Steam presenta su chip cerebral del tamaño de una uña, para competir con Neuralink de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351'>Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”</a></h4>
     <a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/superficie-luna-3297662.jpg?tf=1200x' alt='Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tiktok-cumple-sueno-ya-te-paga-ver-videos-1378326'>TikTok cumple tu sueño: ya te paga por ver vídeos</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-cumple-sueno-ya-te-paga-ver-videos-1378326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-lite-incentivos-3297628.jpg?tf=1200x' alt='TikTok cumple tu sueño: ya te paga por ver vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941'>No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-solo-damian-5-peliculas-profecias-resultan-realmente-inquietantes-3296962.jpg?tf=1200x' alt='No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes' />
     </a>
 </div>
 
