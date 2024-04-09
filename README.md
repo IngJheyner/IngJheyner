@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-windows-forma-remota-app-iphone-ipad-mac-1368372'>Cómo utilizar Windows de forma remota con una app en iPhone, iPad o Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-utilizar-windows-forma-remota-app-iphone-ipad-mac-1368372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-app-iphone-ipad-mac-3280856.jpg?tf=1200x' alt='Cómo utilizar Windows de forma remota con una app en iPhone, iPad o Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tiktok-cumple-sueno-ya-te-paga-ver-videos-1378326'>TikTok cumple tu sueño: ya te paga por ver vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/tiktok-cumple-sueno-ya-te-paga-ver-videos-1378326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-lite-incentivos-3297628.jpg?tf=1200x' alt='TikTok cumple tu sueño: ya te paga por ver vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941'>No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-profecias-resultan-realmente-inquietantes-1377941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-solo-damian-5-peliculas-profecias-resultan-realmente-inquietantes-3296962.jpg?tf=1200x' alt='No solo Damian: 5 películas sobre profecías que resultan realmente inquietantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-1375638'>Cómo activar el control gestual con doble toque en los Apple Watch antiguos</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-1375638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-activar-control-gestual-doble-toque-casi-cualquier-apple-watch-3293451.jpg?tf=1200x' alt='Cómo activar el control gestual con doble toque en los Apple Watch antiguos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/como-hacer-pc-windows-sea-seguro-instalar-nada-1378071'>Así consigo que mi PC con Windows sea más seguro sin instalar nada</a></h4>
     <a href='https://computerhoy.com/windows/como-hacer-pc-windows-sea-seguro-instalar-nada-1378071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Así consigo que mi PC con Windows sea más seguro sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-canon-intel-core-i7-rtx-4060-pero-mejor-ahora-no-cuesta-ni-1000-euros-1377905'>Este portátil es un cañón con Intel Core i7 y RTX 4060, pero lo mejor es que ahora no cuesta ni 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-canon-intel-core-i7-rtx-4060-pero-mejor-ahora-no-cuesta-ni-1000-euros-1377905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/msi-cyborg-15-3226996.jpg?tf=1200x' alt='Este portátil es un cañón con Intel Core i7 y RTX 4060, pero lo mejor es que ahora no cuesta ni 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/entretenimiento/acertijos-faciles-en-familia-630855'>20 acertijos fáciles para jugar en familia</a></h4>
-    <a href='https://computerhoy.com/noticias/entretenimiento/acertijos-faciles-en-familia-630855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/20-acertijos-faciles-jugar-familia-3297162.jpg?tf=1200x' alt='20 acertijos fáciles para jugar en familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-fijar-excel-fila-columna-1376995'>Cómo fijar en Excel una fila o columna</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-fijar-excel-fila-columna-1376995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-fijar-excel-fila-columna-3295517.jpg?tf=1200x' alt='Cómo fijar en Excel una fila o columna' />
     </a>
 </div>
 
