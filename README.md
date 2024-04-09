@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/petricor-olor-lluvia-1376768'>¿Por qué te gusta el olor a lluvia? Así es como lo explica la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/petricor-olor-lluvia-1376768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/te-gusta-olor-lluvia-como-explica-ciencia-3295085.jpg?tf=1200x' alt='¿Por qué te gusta el olor a lluvia? Así es como lo explica la ciencia' />
+    <h4><a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020'>4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/trucos-usar-pestanas-explorador-archivos-windows-11-1377020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='4 trucos para sacar el máximo partido a las pestañas del Explorador de archivos en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079'>¿Qué santo es hoy? Santoral del martes 9 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-9-abril-2024-1378079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-9-abril-2024-3297156.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 9 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/parece-error-pero-no-tablet-59-euros-android-13-marca-conocida-te-llega-tres-dias-1376569'>Parece un error, pero no: esta tablet de 59 euros con Android 13 es de una marca conocida y te llega en tres días</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-error-pero-no-tablet-59-euros-android-13-marca-conocida-te-llega-tres-dias-1376569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclast-p26t-3294790.jpg?tf=1200x' alt='Parece un error, pero no: esta tablet de 59 euros con Android 13 es de una marca conocida y te llega en tres días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075'>Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años</a></h4>
-    <a href='https://computerhoy.com/google/gmail-android-va-recibir-gemini-resumen-correo-1378075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-android-va-recibir-actualizacion-revolucionaria-ultimos-anos-3297127.jpg?tf=1200x' alt='Gmail para Android está a punto de recibir la actualización más revolucionaria de los últimos años' />
+    <h4><a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891'>He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil</a></h4>
+    <a href='https://computerhoy.com/analisis/samsung-galaxy-book4-pro-360-analisis-opinion-1376891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-book4-pro-360-3295329.jpg?tf=1200x' alt='He probado el Samsung Galaxy Book4 Pro 360 y su pantalla es absolutamente increíble, pero no lo llamaría portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062'>Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-1378062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/runtime-app-ver-series-peliculas-nada-tiene-envidiar-pluto-tv-tdt-channels-3297142.jpg?tf=1200x' alt='Runtime, la app para ver series y películas que nada tiene que envidiar a Pluto TV o TDT Channels' />
+    <h4><a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022'>7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad</a></h4>
+    <a href='https://computerhoy.com/google/funciones-google-chrome-aumentaran-productividad-1377022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-3295540.jpg?tf=1200x' alt='7 funciones de Google Chrome que debes activar ahora mismo para aumentar tu productividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058'>Cómo configurar Waze para que te avise de todos los radares en la carretera</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-waze-te-avise-todos-radares-carretera-1378058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-waze-te-avise-todos-radares-carretera-3297135.jpg?tf=1200x' alt='Cómo configurar Waze para que te avise de todos los radares en la carretera' />
+    <h4><a href='https://computerhoy.com/redes/vpn-ofrece-ip-fija-cuales-son-precios-1377945'>Qué VPN ofrece una IP dedicada y cuáles son sus precios</a></h4>
+    <a href='https://computerhoy.com/redes/vpn-ofrece-ip-fija-cuales-son-precios-1377945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/varios-dispositivos-usando-red-vpn-3021256.jpg?tf=1200x' alt='Qué VPN ofrece una IP dedicada y cuáles son sus precios' />
     </a>
 </div>
 
