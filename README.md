@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214'>NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-nordvpn-3297763.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285092.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
     </a>
 </div>
 
