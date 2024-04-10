@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147'>Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard</a></h4>
+    <a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-3295702.jpg?tf=1200x' alt='Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-10-abril-2024-1378373'>¿Qué santo es hoy? Santoral del miércoles 10 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-10-abril-2024-1378373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-10-abril-2024-3297685.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 10 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091'>Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-utilizar-windows-forma-remota-app-iphone-ipad-mac-1368372'>Cómo utilizar Windows de forma remota con una app en iPhone, iPad o Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-utilizar-windows-forma-remota-app-iphone-ipad-mac-1368372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-app-iphone-ipad-mac-3280856.jpg?tf=1200x' alt='Cómo utilizar Windows de forma remota con una app en iPhone, iPad o Mac' />
     </a>
 </div>
 
