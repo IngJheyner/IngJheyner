@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430'>Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo</a></h4>
+    <a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/clasefix-cursos-3297829.jpg?tf=1200x' alt='Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1378210'>Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1378210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg?tf=1200x' alt='Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400'>El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-series-10-podria-recibir-actualizacion-enorme-aumento-duracion-bateria-3297775.jpg?tf=1200x' alt='El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415'>Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress</a></h4>
     <a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pandabuy-compras-3297822.jpg?tf=1200x' alt='Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404'>Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/100000-ventas-avalan-purificador-top-ventas-amazon-promete-aliviar-alergias-1378410'>Más de 100.000 ventas lo avalan: este purificador top ventas de Amazon promete aliviar tus alergias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/100000-ventas-avalan-purificador-top-ventas-amazon-promete-aliviar-alergias-1378410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/levoit-300-3297776.jpg?tf=1200x' alt='Más de 100.000 ventas lo avalan: este purificador top ventas de Amazon promete aliviar tus alergias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401'>El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla</a></h4>
-    <a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-windows-3297778.jpg?tf=1200x' alt='El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla' />
     </a>
 </div>
 
