@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265'>Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo</a></h4>
+    <a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-imprescindibles-ocultas-google-play-store-3296312.jpg?tf=1200x' alt='Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916'>Este el ejercicio que más felicidad produce, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-ejercicio-pareja-3297373.jpg?tf=1200x' alt='Este el ejercicio que más felicidad produce, según la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147'>Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard</a></h4>
-    <a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-3295702.jpg?tf=1200x' alt='Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard' />
     </a>
 </div>
 
