@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659'>La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS</a></h4>
+    <a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-google-fotos-llega-todos-moviles-android-ios-3298099.jpg?tf=1200x' alt='La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/significan-lineas-rojas-google-maps-1378591'>Qué significan las líneas rojas de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/significan-lineas-rojas-google-maps-1378591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significan-lineas-rojas-google-maps-3298102.jpg?tf=1200x' alt='Qué significan las líneas rojas de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636'>Investigadores descubren un truco infalible para doblar tus match en Tinder</a></h4>
     <a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Investigadores descubren un truco infalible para doblar tus match en Tinder' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629'>Chery anuncia la primera factoría de coches chinos que se fabricarán en España</a></h4>
     <a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/omoda-5-vende-200000-unidades-3295326.jpg?tf=1200x' alt='Chery anuncia la primera factoría de coches chinos que se fabricarán en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-fakeyou-manda-audios-voces-famosos-creadas-ia-3297698.jpg?tf=1200x' alt='Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579'>Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi</a></h4>
-    <a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-3298061.jpg?tf=1200x' alt='Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi' />
     </a>
 </div>
 
