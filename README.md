@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636'>Investigadores descubren un truco infalible para doblar tus match en Tinder</a></h4>
+    <a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Investigadores descubren un truco infalible para doblar tus match en Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635'>El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/datafono-3298085.jpg?tf=1200x' alt='El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579'>Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi</a></h4>
     <a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-3298061.jpg?tf=1200x' alt='Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281'>5 películas míticas de serie B a medio camino entre la genialidad y el espanto</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-miticas-serie-b-medio-camino-genialidad-espanto-3297515.jpg?tf=1200x' alt='5 películas míticas de serie B a medio camino entre la genialidad y el espanto' />
     </a>
 </div>
 
