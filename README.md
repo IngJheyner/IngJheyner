@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256'>Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone</a></h4>
+    <a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rokr-e1-movil-dejo-ridiculo-steve-jobs-provoco-nacimiento-primer-iphone-3297503.jpg?tf=1200x' alt='Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416'>La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-advierte-no-caigas-estos-errores-tipicos-elegir-contrasenas-3297783.jpg?tf=1200x' alt='La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468'>Funciones escondidas de WhatsApp muy útiles que casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Funciones escondidas de WhatsApp muy útiles que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448'>Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo</a></h4>
-    <a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-vids-3297869.jpg?tf=1200x' alt='Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo' />
     </a>
 </div>
 
