@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635'>El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/datafono-3298085.jpg?tf=1200x' alt='El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629'>Chery anuncia la primera factoría de coches chinos que se fabricarán en España</a></h4>
+    <a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/omoda-5-vende-200000-unidades-3295326.jpg?tf=1200x' alt='Chery anuncia la primera factoría de coches chinos que se fabricarán en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-fakeyou-manda-audios-voces-famosos-creadas-ia-3297698.jpg?tf=1200x' alt='Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281'>5 películas míticas de serie B a medio camino entre la genialidad y el espanto</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-miticas-serie-b-medio-camino-genialidad-espanto-3297515.jpg?tf=1200x' alt='5 películas míticas de serie B a medio camino entre la genialidad y el espanto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256'>Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone</a></h4>
-    <a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rokr-e1-movil-dejo-ridiculo-steve-jobs-provoco-nacimiento-primer-iphone-3297503.jpg?tf=1200x' alt='Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416'>La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-advierte-no-caigas-estos-errores-tipicos-elegir-contrasenas-3297783.jpg?tf=1200x' alt='La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas' />
     </a>
 </div>
 
