@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379'>¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos</a></h4>
+    <a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-dormir-cerca-router-wifi-ciencia-3297694.jpg?tf=1200x' alt='¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468'>Funciones escondidas de WhatsApp muy útiles que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Funciones escondidas de WhatsApp muy útiles que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448'>Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo</a></h4>
     <a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-vids-3297869.jpg?tf=1200x' alt='Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430'>Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo</a></h4>
     <a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/clasefix-cursos-3297829.jpg?tf=1200x' alt='Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1378210'>Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1378210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695571.jpg?tf=1200x' alt='Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400'>El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-series-10-podria-recibir-actualizacion-enorme-aumento-duracion-bateria-3297775.jpg?tf=1200x' alt='El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador' />
     </a>
 </div>
 
