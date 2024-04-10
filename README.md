@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916'>Este el ejercicio que más felicidad produce, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-ejercicio-pareja-3297373.jpg?tf=1200x' alt='Este el ejercicio que más felicidad produce, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg?tf=1200x' alt='Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114'>Rupturas de pareja en directo: así es el último y extraño fenómeno de TikTok</a></h4>
+    <a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ruptura-sentimental-3297368.jpg?tf=1200x' alt='Rupturas de pareja en directo: así es el último y extraño fenómeno de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147'>Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard</a></h4>
     <a href='https://computerhoy.com/ciencia/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-1377147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-tomar-decisiones-ser-feliz-podria-ser-clave-harvard-3295702.jpg?tf=1200x' alt='Cómo tomar decisiones para ser feliz: esta podría ser la clave, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-10-abril-2024-1378373'>¿Qué santo es hoy? Santoral del miércoles 10 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-10-abril-2024-1378373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-10-abril-2024-3297685.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 10 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368'>El fundador de Steam presenta su chip cerebral del tamaño de una uña, para competir con Neuralink de Elon Musk</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fundador-steam-presenta-chip-neural-tamano-competir-neuralink-elon-musk-3297677.jpg?tf=1200x' alt='El fundador de Steam presenta su chip cerebral del tamaño de una uña, para competir con Neuralink de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351'>Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”</a></h4>
-    <a href='https://computerhoy.com/espacio/cientificos-afirman-haber-resuelto-misterio-como-luna-volvio-reves-1378351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/superficie-luna-3297662.jpg?tf=1200x' alt='Científicos afirman haber resuelto el misterio de cómo "la Luna se volvió del revés”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091'>Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-48-euros-pone-pc-4700-mb-segundo-ssd-revienta-precio-amazon-1378091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crucial-p3-plus-3297175.jpg?tf=1200x' alt='Cuesta 48 euros y pone tu PC a 4700 MB por segundo: este SSD revienta su precio en Amazon' />
     </a>
 </div>
 
