@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233'>Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-funciona-fakeyou-manda-audios-voces-famosas-ia-1123233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-fakeyou-manda-audios-voces-famosos-creadas-ia-3297698.jpg?tf=1200x' alt='Cómo funciona FakeYou: manda audios con voces de famosos creadas por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579'>Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi</a></h4>
+    <a href='https://computerhoy.com/amazon/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-1378579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectar-alexa-datos-movil-funcione-cuando-no-tienes-wifi-3298061.jpg?tf=1200x' alt='Cómo conectar Alexa a los datos del móvil para que funcione cuando no tienes WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281'>5 películas míticas de serie B a medio camino entre la genialidad y el espanto</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-miticas-serie-b-1378281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-peliculas-miticas-serie-b-medio-camino-genialidad-espanto-3297515.jpg?tf=1200x' alt='5 películas míticas de serie B a medio camino entre la genialidad y el espanto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256'>Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone</a></h4>
     <a href='https://computerhoy.com/life/rokr-e1-movil-dejo-ridiculo-steve-jobs-1378256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rokr-e1-movil-dejo-ridiculo-steve-jobs-provoco-nacimiento-primer-iphone-3297503.jpg?tf=1200x' alt='Rokr E1, el móvil que dejó en ridículo a Steve Jobs y provocó el nacimiento del primer iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416'>La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/errores-elegir-contrasenas-1378416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/guardia-civil-advierte-no-caigas-estos-errores-tipicos-elegir-contrasenas-3297783.jpg?tf=1200x' alt='La Guardia Civil advierte: no caigas en estos errores típicos al elegir contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314'>Bash Bunny, el Flipper Zero por USB que puede acabar con tu PC en segundos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-3297636.jpg?tf=1200x' alt='Bash Bunny, el Flipper Zero por USB que puede acabar con tu PC en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379'>¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos</a></h4>
-    <a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-dormir-cerca-router-wifi-ciencia-3297694.jpg?tf=1200x' alt='¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468'>Funciones escondidas de WhatsApp muy útiles que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/apps/funciones-escondidas-whatsapp-muy-utiles-casi-nadie-conoce-1378468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Funciones escondidas de WhatsApp muy útiles que casi nadie conoce' />
     </a>
 </div>
 
