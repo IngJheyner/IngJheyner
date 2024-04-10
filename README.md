@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314'>Bash Bunny, el Flipper Zero por USB que puede acabar con tu PC en segundos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-3297636.jpg?tf=1200x' alt='Bash Bunny, el Flipper Zero por USB que puede acabar con tu PC en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379'>¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos</a></h4>
     <a href='https://computerhoy.com/redes/malo-dormir-cerca-router-wifi-1378379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-dormir-cerca-router-wifi-ciencia-3297694.jpg?tf=1200x' alt='¿Es malo dormir cerca del router WiFi? Esto es lo que opinan los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430'>Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo</a></h4>
-    <a href='https://computerhoy.com/life/clasefix-netflix-cursos-gratis-espanol-te-ayuda-encontrar-trabajo-1378430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/clasefix-cursos-3297829.jpg?tf=1200x' alt='Clasefix, el Netflix de los cursos gratis en español que te ayuda a encontrar trabajo' />
     </a>
 </div>
 
