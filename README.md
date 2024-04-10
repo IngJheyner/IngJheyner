@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400'>El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-series-10-podria-recibir-actualizacion-enorme-aumento-duracion-bateria-3297775.jpg?tf=1200x' alt='El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415'>Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress</a></h4>
+    <a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pandabuy-compras-3297822.jpg?tf=1200x' alt='Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404'>Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401'>El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla</a></h4>
     <a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-windows-3297778.jpg?tf=1200x' alt='El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rakuten-kobo-lanza-color-2-nuevos-ereaders-1378294'>Rakuten Kobo se lanza al color con sus 2 nuevos eReaders que llegan al mercado con memoria infinita y buen precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rakuten-kobo-lanza-color-2-nuevos-ereaders-1378294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rakuten-kobo-3297563.jpg?tf=1200x' alt='Rakuten Kobo se lanza al color con sus 2 nuevos eReaders que llegan al mercado con memoria infinita y buen precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214'>NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-nordvpn-3297763.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
     </a>
 </div>
 
