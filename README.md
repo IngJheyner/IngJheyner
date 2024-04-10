@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404'>Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/anuncios-llegan-amazon-prime-video-quien-afecta-frecuencia-como-evitarlos-1378404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-prime-video-triste-3274037.jpg?tf=1200x' alt='Los anuncios llegan a Amazon Prime Video: a quién afecta, frecuencia y cómo evitarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/100000-ventas-avalan-purificador-top-ventas-amazon-promete-aliviar-alergias-1378410'>Más de 100.000 ventas lo avalan: este purificador top ventas de Amazon promete aliviar tus alergias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/100000-ventas-avalan-purificador-top-ventas-amazon-promete-aliviar-alergias-1378410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/levoit-300-3297776.jpg?tf=1200x' alt='Más de 100.000 ventas lo avalan: este purificador top ventas de Amazon promete aliviar tus alergias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401'>El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla</a></h4>
+    <a href='https://computerhoy.com/windows/manga-linux-windows-nuevo-algoritmo-cifrado-podria-decidir-batalla-1378401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linux-windows-3297778.jpg?tf=1200x' alt='El as en la manga de Linux contra Windows: un nuevo algoritmo de cifrado podría decidir la batalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rakuten-kobo-lanza-color-2-nuevos-ereaders-1378294'>Rakuten Kobo se lanza al color con sus 2 nuevos eReaders que llegan al mercado con memoria infinita y buen precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rakuten-kobo-lanza-color-2-nuevos-ereaders-1378294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rakuten-kobo-3297563.jpg?tf=1200x' alt='Rakuten Kobo se lanza al color con sus 2 nuevos eReaders que llegan al mercado con memoria infinita y buen precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214'>NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-3285092.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dispositivo-hogar-facil-piratear-hackers-1377889'>Ni el PC ni el router: este es el dispositivo de tu hogar más fácil de piratear para los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dispositivo-hogar-facil-piratear-hackers-1377889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smart-home-3297330.jpg?tf=1200x' alt='Ni el PC ni el router: este es el dispositivo de tu hogar más fácil de piratear para los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265'>Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo</a></h4>
-    <a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-imprescindibles-ocultas-google-play-store-3296312.jpg?tf=1200x' alt='Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916'>Este el ejercicio que más felicidad produce, según la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/ejercicio-felicidad-produce-ciencia-1377916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-ejercicio-pareja-3297373.jpg?tf=1200x' alt='Este el ejercicio que más felicidad produce, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo</a></h4>
-    <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg?tf=1200x' alt='Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-nordvpn-3297763.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
     </a>
 </div>
 
