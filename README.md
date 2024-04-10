@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214'>NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-rebaja-precio-planes-te-da-tres-meses-gratis-estos-son-nuevos-precios-1378214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-nordvpn-3297763.jpg?tf=1200x' alt='NordVPN rebaja el precio de sus planes y te da tres meses gratis: estos son sus nuevos precios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/dispositivo-hogar-facil-piratear-hackers-1377889'>Ni el PC ni el router: este es el dispositivo de tu hogar más fácil de piratear para los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dispositivo-hogar-facil-piratear-hackers-1377889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smart-home-3297330.jpg?tf=1200x' alt='Ni el PC ni el router: este es el dispositivo de tu hogar más fácil de piratear para los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265'>Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo</a></h4>
     <a href='https://computerhoy.com/apps/apps-escondidas-imprescindibles-recomiendo-play-store-google-1377265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-imprescindibles-ocultas-google-play-store-3296312.jpg?tf=1200x' alt='Las apps escondidas, pero imprescindibles de la Play Store de Google: estas son las que recomiendo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo</a></h4>
     <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/oportunidad-buscabas-televisor-lg-oled-55-a1-baja-precio-minimo-historico-2631829.jpg?tf=1200x' alt='Casi 100.000 televisores LG quedan expuestos en Internet a una vulnerabilidad, comprueba si está el tuyo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114'>Rupturas de pareja en directo: así es el último y extraño fenómeno de TikTok</a></h4>
-    <a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ruptura-sentimental-3297368.jpg?tf=1200x' alt='Rupturas de pareja en directo: así es el último y extraño fenómeno de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847'>Estos son los mejores móviles baratos de Xiaomi</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-baratos-xiaomi-991847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Estos son los mejores móviles baratos de Xiaomi' />
     </a>
 </div>
 
