@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448'>Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo</a></h4>
+    <a href='https://computerhoy.com/google/vids-google-tiene-manos-arma-definitiva-destacar-trabajo-1378448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-vids-3297869.jpg?tf=1200x' alt='Qué es Vids y por qué Google tiene entre manos el arma definitiva para destacar en el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset se une a la guerra contra las IPTV ilegales y bloquea 67 webs que transmitían partidos de fútbol pirata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400'>El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador</a></h4>
     <a href='https://computerhoy.com/apple/apple-watch-series-10-llegarian-gran-mejora-bateria-1378400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-series-10-podria-recibir-actualizacion-enorme-aumento-duracion-bateria-3297775.jpg?tf=1200x' alt='El Apple Watch Serie 10 podría hacer realidad los dos días de uso sin pasar por el cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415'>Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress</a></h4>
-    <a href='https://computerhoy.com/life/pandabuy-como-funciona-nueva-competencia-aliexpress-1378415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pandabuy-compras-3297822.jpg?tf=1200x' alt='Qué es Pandabuy y cómo funciona la nueva competencia de Aliexpress' />
     </a>
 </div>
 
