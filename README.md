@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314'>Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-3297636.jpg?tf=1200x' alt='Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368'>Starfish Neuroscience, la competencia de Neuralink de Elon Musk, presenta su innovador chip cerebral</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fundador-steam-presenta-chip-neural-tamano-competir-neuralink-elon-musk-3297677.jpg?tf=1200x' alt='Starfish Neuroscience, la competencia de Neuralink de Elon Musk, presenta su innovador chip cerebral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700'>Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED</a></h4>
     <a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tcl-x955-max-3298237.jpg?tf=1200x' alt='Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398'>Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gantry-conquer-4wd-3297768.jpg?tf=1200x' alt='Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-evitar-ciberdelincuencia-chrome-1378702'>Google está probando una nueva función en Chrome para evitar que los ciberdelincuentes accedan a tu ratón y teclado</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-google-evitar-ciberdelincuencia-chrome-1378702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-probando-nueva-funcion-chrome-evitar-ciberdelincuentes-accedan-raton-teclado-3298160.jpg?tf=1200x' alt='Google está probando una nueva función en Chrome para evitar que los ciberdelincuentes accedan a tu ratón y teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ideogram-ai-como-funciona-mejor-ia-crear-imagenes-texto-alternativa-midjourney-1378711'>Ideogram AI: cómo funciona la mejor IA para crear imágenes con texto alternativa a Midjourney</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ideogram-ai-como-funciona-mejor-ia-crear-imagenes-texto-alternativa-midjourney-1378711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/uso-ia-ideogram-3298200.jpg?tf=1200x' alt='Ideogram AI: cómo funciona la mejor IA para crear imágenes con texto alternativa a Midjourney' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-alcanza-900-millones-usuarios-activos-app-ya-rentable-1378726'>12 años después, Telegram alcanza 900 millones de usuarios activos y ya son rentables</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-alcanza-900-millones-usuarios-activos-app-ya-rentable-1378726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='12 años después, Telegram alcanza 900 millones de usuarios activos y ya son rentables' />
     </a>
 </div>
 
