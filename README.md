@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940'>El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-realme-note-50-pantalla-90-hz-bateria-larga-duracion-menos-100-euros-3298683.jpg?tf=1200x' alt='El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929'>MediaMarkt cumple 25 años en España y lo celebra con una original exposición sobre tecnología</a></h4>
     <a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mediamarkt-cumple-25-anos-espana-celebra-exposicion-tecnologia-3298666.jpg?tf=1200x' alt='MediaMarkt cumple 25 años en España y lo celebra con una original exposición sobre tecnología' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-lanza-version-pago-chrome-funciones-avanzadas-1378920'>Google lanza una versión de pago de Chrome con funciones avanzadas</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-lanza-version-pago-chrome-funciones-avanzadas-1378920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chrome-enterprise-premium-3298667.jpg?tf=1200x' alt='Google lanza una versión de pago de Chrome con funciones avanzadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/desarrollador-veterano-microsoft-asegura-windows-11-inacabado-1378919'>Un desarrollador veterano de Microsoft asegura que Windows 11 "está inacabado"</a></h4>
-    <a href='https://computerhoy.com/windows/desarrollador-veterano-microsoft-asegura-windows-11-inacabado-1378919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Un desarrollador veterano de Microsoft asegura que Windows 11 "está inacabado"' />
     </a>
 </div>
 
