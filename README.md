@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441'>He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro</a></h4>
+    <a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razer-blade-16-vs-asus-rog-strix-portatil-gaming-3289344.jpg?tf=1200x' alt='He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492'>El motor de protones de Einstein que desafía las leyes del universo ya es una realidad</a></h4>
     <a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-protones-predijo-einstein-desafia-leyes-universo-ya-realidad-3297907.jpg?tf=1200x' alt='El motor de protones de Einstein que desafía las leyes del universo ya es una realidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233'>Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-camara-puede-desnudarte-10-segundos-gracias-inteligencia-artificial-3297430.jpg?tf=1200x' alt='Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666'>Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil</a></h4>
-    <a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-3298123.jpg?tf=1200x' alt='Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil' />
     </a>
 </div>
 
