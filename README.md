@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666'>Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil</a></h4>
+    <a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-3298123.jpg?tf=1200x' alt='Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación</a></h4>
     <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tan-seguro-telegram-6-riesgos-te-expones-utilizar-aplicacion-3298121.jpg?tf=1200x' alt='¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/significan-lineas-rojas-google-maps-1378591'>Qué significan las líneas rojas de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/significan-lineas-rojas-google-maps-1378591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significan-lineas-rojas-google-maps-3298102.jpg?tf=1200x' alt='Qué significan las líneas rojas de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636'>Investigadores descubren un truco infalible para doblar tus match en Tinder</a></h4>
-    <a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Investigadores descubren un truco infalible para doblar tus match en Tinder' />
     </a>
 </div>
 
