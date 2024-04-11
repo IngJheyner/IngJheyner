@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/razon-deberias-instalar-dos-discos-ssd-pc-1378854'>Esta es la razón por la que deberías instalar dos discos SSD en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/pc/razon-deberias-instalar-dos-discos-ssd-pc-1378854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-deberias-instalar-dos-discos-ssd-pc-windows-3298501.jpg?tf=1200x' alt='Esta es la razón por la que deberías instalar dos discos SSD en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-siendo-victima-propio-exito-1378791'>¿Está Raspberry Pi siendo víctima de su propio éxito?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-siendo-victima-propio-exito-1378791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/diferencias-clave-secretos-ocultos-raspberry-pi-5-raspberry-pi-4-3190848.jpg?tf=1200x' alt='¿Está Raspberry Pi siendo víctima de su propio éxito?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/3-costumbres-japonesas-practicar-antes-irte-dormir-descansar-mejor-1364492'>Las 3 costumbres japonesas para practicar antes de irte a dormir y descansar mejor</a></h4>
     <a href='https://computerhoy.com/life/3-costumbres-japonesas-practicar-antes-irte-dormir-descansar-mejor-1364492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-costumbres-japoneses-practicar-antes-irte-dormir-descansar-mejor-3274078.jpg?tf=1200x' alt='Las 3 costumbres japonesas para practicar antes de irte a dormir y descansar mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314'>Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-3297636.jpg?tf=1200x' alt='Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368'>Starfish Neuroscience, la competencia de Neuralink de Elon Musk, presenta su innovador chip cerebral</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fundador-steam-presenta-chip-cerebral-starfish-1378368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fundador-steam-presenta-chip-neural-tamano-competir-neuralink-elon-musk-3297677.jpg?tf=1200x' alt='Starfish Neuroscience, la competencia de Neuralink de Elon Musk, presenta su innovador chip cerebral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata' />
     </a>
 </div>
 
