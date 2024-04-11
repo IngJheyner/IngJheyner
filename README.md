@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260'>DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/alerta-tienes-iphone-apple-avisa-casi-100-paises-potencial-ataque-software-espia-mercenario-1378695'>Alerta si tienes iPhone: Apple avisa a casi 100 países de un potencial ataque de software espía mercenario</a></h4>
+    <a href='https://computerhoy.com/apple/alerta-tienes-iphone-apple-avisa-casi-100-paises-potencial-ataque-software-espia-mercenario-1378695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-ataque-iphone-3298158.jpg?tf=1200x' alt='Alerta si tienes iPhone: Apple avisa a casi 100 países de un potencial ataque de software espía mercenario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/udit-inaugura-nuevo-campus-alcala-madrid-1378683'>La UDIT inaugura un nuevo campus en Madrid, en donde impartirá grados de inteligencia artificial e ingeniería de datos</a></h4>
     <a href='https://computerhoy.com/tecnologia/udit-inaugura-nuevo-campus-alcala-madrid-1378683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/udit-inaugura-nuevo-campus-madrid-donde-impartira-grados-inteligencia-artificial-ingenieria-datos-3298137.jpg?tf=1200x' alt='La UDIT inaugura un nuevo campus en Madrid, en donde impartirá grados de inteligencia artificial e ingeniería de datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139'>Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/surfshark-3251352.jpg?tf=1200x' alt='Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441'>He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro</a></h4>
-    <a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razer-blade-16-vs-asus-rog-strix-portatil-gaming-3289344.jpg?tf=1200x' alt='He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492'>El motor de protones de Einstein que desafía las leyes del universo ya es una realidad</a></h4>
-    <a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-protones-predijo-einstein-desafia-leyes-universo-ya-realidad-3297907.jpg?tf=1200x' alt='El motor de protones de Einstein que desafía las leyes del universo ya es una realidad' />
     </a>
 </div>
 
