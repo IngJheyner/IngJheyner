@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-1378875'>¿Por qué mucha gente sigue viendo Amazon Prime Video sin anuncios sin pagar nada?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-1378875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-3298605.jpg?tf=1200x' alt='¿Por qué mucha gente sigue viendo Amazon Prime Video sin anuncios sin pagar nada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901'>No solo anuncios: Prime Video también reduce la calidad de imagen y sonido si no pagas los 2 euros extra</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-solo-anuncios-prime-video-tambien-reduce-calidad-imagen-sonido-no-pagas-2-euros-extra-3298550.jpg?tf=1200x' alt='No solo anuncios: Prime Video también reduce la calidad de imagen y sonido si no pagas los 2 euros extra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/como-calibrar-televisor-deberias-hacerlo-1378550'>Cómo calibrar tu Smart TV y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tv/como-calibrar-televisor-deberias-hacerlo-1378550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-calibrar-televisor-deberias-hacerlo-obtener-mejor-calidad-imagen-3298013.jpg?tf=1200x' alt='Cómo calibrar tu Smart TV y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616'>Cómo ver las historias de Instagram de forma anónima</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-historias-instagram-forma-anonima-3298136.jpg?tf=1200x' alt='Cómo ver las historias de Instagram de forma anónima' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-mejorar-rendimiento-1378671'>Cómo optimizar la memoria RAM de tu PC para mejorar su rendimiento al máximo</a></h4>
     <a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-mejorar-rendimiento-1378671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-formas-optimizar-memoria-ram-pc-mejorar-rendimiento-maximo-3298132.jpg?tf=1200x' alt='Cómo optimizar la memoria RAM de tu PC para mejorar su rendimiento al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/champions-pone-interesante-disfrutala-grande-televisor-qled-samsung-55-pulgadas-mitad-precio-1378739'>La Champions se pone interesante: disfrútala a lo grande con este televisor QLED de Samsung de 55 pulgadas a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/champions-pone-interesante-disfrutala-grande-televisor-qled-samsung-55-pulgadas-mitad-precio-1378739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-55q77c-3298284.jpg?tf=1200x' alt='La Champions se pone interesante: disfrútala a lo grande con este televisor QLED de Samsung de 55 pulgadas a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/sony-ult-wear-ult-field-nuevos-auriculares-altavoces-potencia-graves-1377218'>Sony tiene un plan para recuperar el trono de los auriculares para jóvenes: ULT Wear, como los famosos XM5 pero por 199€</a></h4>
-    <a href='https://computerhoy.com/audio/sony-ult-wear-ult-field-nuevos-auriculares-altavoces-potencia-graves-1377218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/somy-ult-wear-3295850.jpg?tf=1200x' alt='Sony tiene un plan para recuperar el trono de los auriculares para jóvenes: ULT Wear, como los famosos XM5 pero por 199€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/razon-deberias-instalar-dos-discos-ssd-pc-1378854'>Esta es la razón por la que deberías instalar dos discos SSD en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/pc/razon-deberias-instalar-dos-discos-ssd-pc-1378854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-deberias-instalar-dos-discos-ssd-pc-windows-3298501.jpg?tf=1200x' alt='Esta es la razón por la que deberías instalar dos discos SSD en tu PC con Windows' />
     </a>
 </div>
 
