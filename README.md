@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935'>Raspberry Pi 6: características y mejoras para ser el microordenador perfecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-3298687.jpg?tf=1200x' alt='Raspberry Pi 6: características y mejoras para ser el microordenador perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940'>El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-realme-note-50-pantalla-90-hz-bateria-larga-duracion-menos-100-euros-3298683.jpg?tf=1200x' alt='El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amazfit-bip-5-tiene-alexa-gps-muy-preciso-120-deportes-muy-rebajado-amazon-1378748'>Este reloj Amazfit tiene Alexa, un GPS muy preciso, 120 deportes y está muy rebajado en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazfit-bip-5-tiene-alexa-gps-muy-preciso-120-deportes-muy-rebajado-amazon-1378748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazfit-bip-5-3262834.jpg?tf=1200x' alt='Este reloj Amazfit tiene Alexa, un GPS muy preciso, 120 deportes y está muy rebajado en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-lanza-version-pago-chrome-funciones-avanzadas-1378920'>Google lanza una versión de pago de Chrome con funciones avanzadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-lanza-version-pago-chrome-funciones-avanzadas-1378920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chrome-enterprise-premium-3298667.jpg?tf=1200x' alt='Google lanza una versión de pago de Chrome con funciones avanzadas' />
     </a>
 </div>
 
