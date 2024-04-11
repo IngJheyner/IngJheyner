@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/desarrollador-veterano-microsoft-asegura-windows-11-inacabado-1378919'>Un desarrollador veterano de Microsoft asegura que Windows 11 "está inacabado"</a></h4>
+    <a href='https://computerhoy.com/windows/desarrollador-veterano-microsoft-asegura-windows-11-inacabado-1378919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/windows-11-3099430.jpg?tf=1200x' alt='Un desarrollador veterano de Microsoft asegura que Windows 11 "está inacabado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fallout-prime-video-debes-saber-serie-nunca-has-jugado-videojuego-1378566'>Fallout en Amazon Prime Video: esto debes saber de la serie si nunca has jugado a un videojuego</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fallout-prime-video-debes-saber-serie-nunca-has-jugado-videojuego-1378566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='Fallout en Amazon Prime Video: esto debes saber de la serie si nunca has jugado a un videojuego' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/como-calibrar-televisor-deberias-hacerlo-1378550'>Cómo calibrar tu Smart TV y por qué deberías hacerlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tv/como-calibrar-televisor-deberias-hacerlo-1378550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-calibrar-televisor-deberias-hacerlo-obtener-mejor-calidad-imagen-3298013.jpg?tf=1200x' alt='Cómo calibrar tu Smart TV y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616'>Cómo ver las historias de Instagram de forma anónima</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-historias-instagram-forma-anonima-3298136.jpg?tf=1200x' alt='Cómo ver las historias de Instagram de forma anónima' />
     </a>
 </div>
 
