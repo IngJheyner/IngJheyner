@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/quieres-usar-gemini-como-experto-google-publica-manual-todas-claves-1378701'>¿Quieres usar Gemini como un experto? Google publica un manual con todas las claves</a></h4>
+    <a href='https://computerhoy.com/google/quieres-usar-gemini-como-experto-google-publica-manual-todas-claves-1378701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='¿Quieres usar Gemini como un experto? Google publica un manual con todas las claves' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260'>DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS</a></h4>
     <a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-gmail-crear-nueva-cuenta-1378197'>Cómo cambiar tu dirección de Gmail sin crear una nueva cuenta</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-gmail-crear-nueva-cuenta-1378197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-gmail-crear-nueva-cuenta-3297417.jpg?tf=1200x' alt='Cómo cambiar tu dirección de Gmail sin crear una nueva cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139'>Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/surfshark-3251352.jpg?tf=1200x' alt='Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado' />
     </a>
 </div>
 
