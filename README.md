@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/udit-inaugura-nuevo-campus-alcala-madrid-1378683'>La UDIT inaugura un nuevo campus en Madrid, en donde impartirá grados de inteligencia artificial e ingeniería de datos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/udit-inaugura-nuevo-campus-alcala-madrid-1378683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/udit-inaugura-nuevo-campus-madrid-donde-impartira-grados-inteligencia-artificial-ingenieria-datos-3298137.jpg?tf=1200x' alt='La UDIT inaugura un nuevo campus en Madrid, en donde impartirá grados de inteligencia artificial e ingeniería de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-gmail-crear-nueva-cuenta-1378197'>Cómo cambiar tu dirección de Gmail sin crear una nueva cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-gmail-crear-nueva-cuenta-1378197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-gmail-crear-nueva-cuenta-3297417.jpg?tf=1200x' alt='Cómo cambiar tu dirección de Gmail sin crear una nueva cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139'>Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/surfshark-3251352.jpg?tf=1200x' alt='Esta VPN no tiene límite de dispositivos, es de las más baratas y nos ha encantado cuando la hemos probado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441'>He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro</a></h4>
     <a href='https://computerhoy.com/pc/he-probado-2-portatiles-gaming-top-tengo-claro-1373441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razer-blade-16-vs-asus-rog-strix-portatil-gaming-3289344.jpg?tf=1200x' alt='He probado los 2 portátiles gaming más top y esto es lo que me ha quedado claro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492'>El motor de protones de Einstein que desafía las leyes del universo ya es una realidad</a></h4>
     <a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-protones-predijo-einstein-desafia-leyes-universo-ya-realidad-3297907.jpg?tf=1200x' alt='El motor de protones de Einstein que desafía las leyes del universo ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-generadores-solares-ideales-tener-casa-ir-camping-1378588'>5 generadores solares ideales para tener en casa e ir de camping</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-generadores-solares-ideales-tener-casa-ir-camping-1378588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/generador-portatil-3223246.jpg?tf=1200x' alt='5 generadores solares ideales para tener en casa e ir de camping' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/incierto-destino-espera-tierra-cuando-sol-muera-1378483'>Este es el incierto destino que le espera a la Tierra cuando el Sol muera, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/ciencia/incierto-destino-espera-tierra-cuando-sol-muera-1378483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/incierto-destino-espera-tierra-cuando-sol-muera-nuevo-estudio-3297890.jpg?tf=1200x' alt='Este es el incierto destino que le espera a la Tierra cuando el Sol muera, según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233'>Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-camara-puede-desnudarte-10-segundos-gracias-inteligencia-artificial-3297430.jpg?tf=1200x' alt='Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial' />
     </a>
 </div>
 
