@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fallout-prime-video-debes-saber-serie-nunca-has-jugado-videojuego-1378566'>Fallout en Amazon Prime Video: esto debes saber de la serie si nunca has jugado a un videojuego</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fallout-prime-video-debes-saber-serie-nunca-has-jugado-videojuego-1378566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='Fallout en Amazon Prime Video: esto debes saber de la serie si nunca has jugado a un videojuego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-1378875'>¿Por qué mucha gente sigue viendo Amazon Prime Video sin anuncios sin pagar nada?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-1378875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mucha-gente-sigue-viendo-amazon-prime-video-anuncios-pagar-nada-3298605.jpg?tf=1200x' alt='¿Por qué mucha gente sigue viendo Amazon Prime Video sin anuncios sin pagar nada?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616'>Cómo ver las historias de Instagram de forma anónima</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-historias-instagram-forma-anonima-1321616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-ver-historias-instagram-forma-anonima-3298136.jpg?tf=1200x' alt='Cómo ver las historias de Instagram de forma anónima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-mejorar-rendimiento-1378671'>Cómo optimizar la memoria RAM de tu PC para mejorar su rendimiento al máximo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-mejorar-rendimiento-1378671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-formas-optimizar-memoria-ram-pc-mejorar-rendimiento-maximo-3298132.jpg?tf=1200x' alt='Cómo optimizar la memoria RAM de tu PC para mejorar su rendimiento al máximo' />
     </a>
 </div>
 
