@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492'>El motor de protones de Einstein que desafía las leyes del universo ya es una realidad</a></h4>
+    <a href='https://computerhoy.com/espacio/motor-protones-predijo-einstein-ya-realidad-1378492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-protones-predijo-einstein-desafia-leyes-universo-ya-realidad-3297907.jpg?tf=1200x' alt='El motor de protones de Einstein que desafía las leyes del universo ya es una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/5-generadores-solares-ideales-tener-casa-ir-camping-1378588'>5 generadores solares ideales para tener en casa e ir de camping</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-generadores-solares-ideales-tener-casa-ir-camping-1378588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/generador-portatil-3223246.jpg?tf=1200x' alt='5 generadores solares ideales para tener en casa e ir de camping' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/incierto-destino-espera-tierra-cuando-sol-muera-1378483'>Este es el incierto destino que le espera a la Tierra cuando el Sol muera, según un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/ciencia/incierto-destino-espera-tierra-cuando-sol-muera-1378483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/incierto-destino-espera-tierra-cuando-sol-muera-nuevo-estudio-3297890.jpg?tf=1200x' alt='Este es el incierto destino que le espera a la Tierra cuando el Sol muera, según un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233'>Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuca-polemica-camara-ia-puede-desnudarte-segundos-1378233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-camara-puede-desnudarte-10-segundos-gracias-inteligencia-artificial-3297430.jpg?tf=1200x' alt='Así es la polémica cámara que puede desnudarte en 10 segundos gracias a la inteligencia artificial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666'>Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil</a></h4>
     <a href='https://computerhoy.com/google/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-1378666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-prepara-importante-funcion-te-permitira-ahorrar-espacio-movil-3298123.jpg?tf=1200x' alt='Google Fotos prepara una importante función que te permitirá ahorrar espacio en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación</a></h4>
-    <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tan-seguro-telegram-6-riesgos-te-expones-utilizar-aplicacion-3298121.jpg?tf=1200x' alt='¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-11-abril-2024-1378665'>¿Qué santo es hoy? Santoral del jueves 11 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-11-abril-2024-1378665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-11-abril-2024-3298116.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 11 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659'>La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS</a></h4>
-    <a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-google-fotos-llega-todos-moviles-android-ios-3298099.jpg?tf=1200x' alt='La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS' />
     </a>
 </div>
 
