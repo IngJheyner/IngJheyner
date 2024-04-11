@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación</a></h4>
+    <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tan-seguro-telegram-6-riesgos-te-expones-utilizar-aplicacion-3298121.jpg?tf=1200x' alt='¿Qué tan seguro es Telegram? 6 riesgos a los que te expones al utilizar la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-11-abril-2024-1378665'>¿Qué santo es hoy? Santoral del jueves 11 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-11-abril-2024-1378665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-11-abril-2024-3298116.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 11 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659'>La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS</a></h4>
     <a href='https://computerhoy.com/apps/inteligencia-artificial-google-fotos-llega-todos-moviles-1378659' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-google-fotos-llega-todos-moviles-android-ios-3298099.jpg?tf=1200x' alt='La inteligencia artificial de Google Fotos llega a todos los móviles Android e iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636'>Investigadores descubren un truco infalible para doblar tus match en Tinder</a></h4>
     <a href='https://computerhoy.com/apps/investigadores-descubren-truco-infalible-doblar-match-tinder-1378636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/tinder-3251778.jpg?tf=1200x' alt='Investigadores descubren un truco infalible para doblar tus match en Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635'>El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/detalle-siempre-debes-fijarte-antes-pasar-tarjeta-movil-datafono-1378635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/datafono-3298085.jpg?tf=1200x' alt='El detalle en el que siempre debes fijarte antes de pasar la tarjeta o el móvil por un datáfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629'>Chery anuncia la primera factoría de coches chinos que se fabricarán en España</a></h4>
-    <a href='https://computerhoy.com/motor/chery-factoria-coches-electricos-barcelona-espana-1378629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/omoda-5-vende-200000-unidades-3295326.jpg?tf=1200x' alt='Chery anuncia la primera factoría de coches chinos que se fabricarán en España' />
     </a>
 </div>
 
