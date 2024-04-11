@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700'>Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED</a></h4>
+    <a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tcl-x955-max-3298237.jpg?tf=1200x' alt='Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398'>Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gantry-conquer-4wd-3297768.jpg?tf=1200x' alt='Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/nueva-funcion-google-evitar-ciberdelincuencia-chrome-1378702'>Google está probando una nueva función en Chrome para evitar que los ciberdelincuentes accedan a tu ratón y teclado</a></h4>
     <a href='https://computerhoy.com/google/nueva-funcion-google-evitar-ciberdelincuencia-chrome-1378702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-probando-nueva-funcion-chrome-evitar-ciberdelincuentes-accedan-raton-teclado-3298160.jpg?tf=1200x' alt='Google está probando una nueva función en Chrome para evitar que los ciberdelincuentes accedan a tu ratón y teclado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/telegram-alcanza-900-millones-usuarios-activos-app-ya-rentable-1378726'>12 años después, Telegram alcanza 900 millones de usuarios activos y ya son rentables</a></h4>
     <a href='https://computerhoy.com/apps/telegram-alcanza-900-millones-usuarios-activos-app-ya-rentable-1378726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-pavel-durov-ceo-telegram-3298287.jpg?tf=1200x' alt='12 años después, Telegram alcanza 900 millones de usuarios activos y ya son rentables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/quieres-usar-gemini-como-experto-google-publica-manual-todas-claves-1378701'>¿Quieres usar Gemini como un experto? Google publica un manual con todas las claves</a></h4>
-    <a href='https://computerhoy.com/google/quieres-usar-gemini-como-experto-google-publica-manual-todas-claves-1378701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gemini-ia-google-3298187.jpg?tf=1200x' alt='¿Quieres usar Gemini como un experto? Google publica un manual con todas las claves' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260'>DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dji-da-golpe-gopro-alternativa-cuesta-menos-300-euros-video-4k-120-fps-1378260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/osmo-action-4-3282930.jpg?tf=1200x' alt='DJI da el golpe a las GoPro: su alternativa cuesta poco más de 300 euros con vídeo 4K 120 FPS' />
     </a>
 </div>
 
