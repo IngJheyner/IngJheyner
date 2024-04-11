@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/3-costumbres-japonesas-practicar-antes-irte-dormir-descansar-mejor-1364492'>Las 3 costumbres japonesas para practicar antes de irte a dormir y descansar mejor</a></h4>
+    <a href='https://computerhoy.com/life/3-costumbres-japonesas-practicar-antes-irte-dormir-descansar-mejor-1364492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/3-costumbres-japoneses-practicar-antes-irte-dormir-descansar-mejor-3274078.jpg?tf=1200x' alt='Las 3 costumbres japonesas para practicar antes de irte a dormir y descansar mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/displayport-diferencias-hdmi-1378761'>¿Qué es DisplayPort y cuáles son las diferencias con HDMI?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/displayport-diferencias-hdmi-1378761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/displayport-hdmi-3298403.jpg?tf=1200x' alt='¿Qué es DisplayPort y cuáles son las diferencias con HDMI?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314'>Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-1378314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bash-bunny-flipper-zero-usb-puede-acabar-pc-segundos-3297636.jpg?tf=1200x' alt='Descubre las nuevas armas de los hackers: el Flipper Zero y el Bash Bunny' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429'>Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mediaset-ha-bloqueado-67-webs-iptv-transmitian-partidos-piratas-1378429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/futbol-iptv-3297850.jpg?tf=1200x' alt='Mediaset bloquea 67 webs IPTV que transmitían fútbol pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700'>Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED</a></h4>
-    <a href='https://computerhoy.com/tv/tcl-x955-max-primer-smart-tv-115-pulgadas-mini-led-espana-1378700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tcl-x955-max-3298237.jpg?tf=1200x' alt='Más grande y más brillante: TCL trae a España la primera Smart TV de 115 pulgadas con panel Mini LED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398'>Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gantry-conquer-4wd-3297768.jpg?tf=1200x' alt='Alcanza 50 km/h y soporta cualquier bache: este coche teledirigido es top ventas en AliExpress' />
     </a>
 </div>
 
