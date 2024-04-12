@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199'>Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda</a></h4>
+    <a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hoy-hace-14-anos-microsoft-lanzo-producto-nadie-acuerda-3299130.jpg?tf=1200x' alt='Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185'>Android Auto es un desastre y está volviendo locos a sus usuarios</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Android Auto es un desastre y está volviendo locos a sus usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994'>Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-meta-openai-quedan-datos-entrenar-modelos-ia-alternativas-existen-3298783.jpg?tf=1200x' alt='Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-barata-vuelve-costar-menos-300-euros-oferta-temporal-pone-tiro-1378871'>La Dyson más barata vuelve a costar menos de 300 euros: esta oferta temporal la pone a tiro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-barata-vuelve-costar-menos-300-euros-oferta-temporal-pone-tiro-1378871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/dyson-v8-animal-plus-2278853.jpg?tf=1200x' alt='La Dyson más barata vuelve a costar menos de 300 euros: esta oferta temporal la pone a tiro' />
     </a>
 </div>
 
