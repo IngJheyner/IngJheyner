@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983'>¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora</a></h4>
+    <a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg?tf=1200x' alt='¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/timo-oro-cuidado-forma-robarte-coche-llega-francia-1378834'>El timo del oro: cuidado con la forma de robarte el coche que llega desde Francia</a></h4>
+    <a href='https://computerhoy.com/motor/timo-oro-cuidado-forma-robarte-coche-llega-francia-1378834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/timo-oro-cuidado-forma-robarte-coche-llega-francia-3298450.jpg?tf=1200x' alt='El timo del oro: cuidado con la forma de robarte el coche que llega desde Francia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868'>Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre</a></h4>
     <a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/proyector-wimius-k9-3298423.jpg?tf=1200x' alt='Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230'>Las mejores webs para subir imágenes temporales a Internet</a></h4>
     <a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-webs-subir-imagenes-temporales-internet-3297454.jpg?tf=1200x' alt='Las mejores webs para subir imágenes temporales a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825'>Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-3020498.jpg?tf=1200x' alt='Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045'>Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-version-beta-windows-7-vuelve-estar-disponible-casi-15-anos-despues-lanzamiento-3298879.jpg?tf=1200x' alt='Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después' />
     </a>
 </div>
 
