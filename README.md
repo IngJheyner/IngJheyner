@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016'>WhatsApp está probando una nueva función de vista previa para los documentos compartidos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-probando-nueva-funcion-vista-previa-documentos-compartidos-3298821.jpg?tf=1200x' alt='WhatsApp está probando una nueva función de vista previa para los documentos compartidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/barcelona-declara-guerra-turismo-ayuda-google-maps-1379061'>Barcelona declara la guerra al turismo con la ayuda de Google Maps</a></h4>
+    <a href='https://computerhoy.com/life/barcelona-declara-guerra-turismo-ayuda-google-maps-1379061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/barcelona-declara-guerra-turismo-ayuntamiento-elimina-google-maps-linea-bus-lleva-park-guell-3298910.jpg?tf=1200x' alt='Barcelona declara la guerra al turismo con la ayuda de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041'>Google se carga su VPN y la función se despide a finales de 2024</a></h4>
     <a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-one-vpn-3298905.jpg?tf=1200x' alt='Google se carga su VPN y la función se despide a finales de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999'>Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ha-avisado-usuarios-ordenador-no-compatible-windows-11-3298786.jpg?tf=1200x' alt='Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-cascos-anc-hunden-precio-cuestan-solo-39-euros-1378493'>Xiaomi la lía: sus cascos con ANC hunden su precio y cuestan solo 39 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-cascos-anc-hunden-precio-cuestan-solo-39-euros-1378493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-pro-3297886.jpg?tf=1200x' alt='Xiaomi la lía: sus cascos con ANC hunden su precio y cuestan solo 39 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993'>Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024</a></h4>
-    <a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024' />
     </a>
 </div>
 
