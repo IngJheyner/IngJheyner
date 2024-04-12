@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943'>¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-12-abril-2024-3298689.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935'>Raspberry Pi 6: características y mejoras para ser el microordenador perfecto</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-3298687.jpg?tf=1200x' alt='Raspberry Pi 6: características y mejoras para ser el microordenador perfecto' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929'>MediaMarkt cumple 25 años en España y lo celebra con una original exposición sobre tecnología</a></h4>
+    <h4><a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929'>Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España</a></h4>
     <a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mediamarkt-cumple-25-anos-espana-celebra-exposicion-tecnologia-3298666.jpg?tf=1200x' alt='MediaMarkt cumple 25 años en España y lo celebra con una original exposición sobre tecnología' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mediamarkt-cumple-25-anos-espana-celebra-exposicion-tecnologia-3298666.jpg?tf=1200x' alt='Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/hdcp-sirve-tan-importante-smart-tv-1378907'>Qué es HDCP, para qué sirve y cómo funciona en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/hdcp-sirve-tan-importante-smart-tv-1378907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hdcp-sirve-como-funciona-smart-tv-3298674.jpg?tf=1200x' alt='Qué es HDCP, para qué sirve y cómo funciona en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazfit-bip-5-tiene-alexa-gps-muy-preciso-120-deportes-muy-rebajado-amazon-1378748'>Este reloj Amazfit tiene Alexa, un GPS muy preciso, 120 deportes y está muy rebajado en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazfit-bip-5-tiene-alexa-gps-muy-preciso-120-deportes-muy-rebajado-amazon-1378748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/amazfit-bip-5-3262834.jpg?tf=1200x' alt='Este reloj Amazfit tiene Alexa, un GPS muy preciso, 120 deportes y está muy rebajado en Amazon' />
     </a>
 </div>
 
