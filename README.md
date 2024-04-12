@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965'>¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas</a></h4>
+    <a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895'>¡Ya está en tu quiosco el número 666 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-666-3296114.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 666 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167'>Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465'>He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama</a></h4>
     <a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oppo-reno-11-f-5g-3297901.jpg?tf=1200x' alt='He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102'>Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-desactivar-valoraciones-dentro-apps-iphone-mac-3288767.jpg?tf=1200x' alt='Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857'>El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-venu-3s-3298487.jpg?tf=1200x' alt='El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos' />
     </a>
 </div>
 
