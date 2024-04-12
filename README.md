@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857'>El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-venu-3s-3298487.jpg?tf=1200x' alt='El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/experto-ia-hay-pocas-posibilidades-humanidad-sobreviva-1378518'>Un experto en IA hace saltar las alarmas: “hay pocas posibilidades de que la humanidad sobreviva”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/experto-ia-hay-pocas-posibilidades-humanidad-sobreviva-1378518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/experto-ia-hace-saltar-alarmas-hay-pocas-posibilidades-humanidad-sobreviva-3297940.jpg?tf=1200x' alt='Un experto en IA hace saltar las alarmas: “hay pocas posibilidades de que la humanidad sobreviva”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732'>Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-3298242.jpg?tf=1200x' alt='Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935'>Raspberry Pi 6: características y mejoras para ser el microordenador perfecto</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-3298687.jpg?tf=1200x' alt='Raspberry Pi 6: características y mejoras para ser el microordenador perfecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940'>El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/moviles/realme-note-50-pantalla-90-hz-enorme-bateria-menos-100-euros-1378940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-realme-note-50-pantalla-90-hz-bateria-larga-duracion-menos-100-euros-3298683.jpg?tf=1200x' alt='El nuevo Realme Note 50, con pantalla a 90 Hz y batería de larga duración, por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929'>Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España</a></h4>
-    <a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mediamarkt-cumple-25-anos-espana-celebra-exposicion-tecnologia-3298666.jpg?tf=1200x' alt='Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España' />
     </a>
 </div>
 
