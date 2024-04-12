@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997'>Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos</a></h4>
+    <a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carnet-joven-2024-3298823.jpg?tf=1200x' alt='Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999'>Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ha-avisado-usuarios-ordenador-no-compatible-windows-11-3298786.jpg?tf=1200x' alt='Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-lia-cascos-anc-hunden-precio-cuestan-solo-39-euros-1378493'>Xiaomi la lía: sus cascos con ANC hunden su precio y cuestan solo 39 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-lia-cascos-anc-hunden-precio-cuestan-solo-39-euros-1378493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-pro-3297886.jpg?tf=1200x' alt='Xiaomi la lía: sus cascos con ANC hunden su precio y cuestan solo 39 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993'>Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024</a></h4>
     <a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977'>X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original</a></h4>
     <a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/x-eliminara-opcion-esconder-verificacion-azul-usuarios-premium-3298764.jpg?tf=1200x' alt='X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-chatgpt-no-sea-tan-pesado-respuestas-anuncia-mejoras-1378986'>OpenAI quiere que ChatGPT vaya al grano y no sea tan pesado con sus respuestas y anuncia mejoras </a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-quiere-chatgpt-no-sea-tan-pesado-respuestas-anuncia-mejoras-1378986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-openai-3298777.jpg?tf=1200x' alt='OpenAI quiere que ChatGPT vaya al grano y no sea tan pesado con sus respuestas y anuncia mejoras ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-teclado-mecanico-logitech-precio-minimo-amazon-1378969'>Mecánico, sin luces raras y a precio de saldo: este teclado Logitech arrasa en Amazon con su oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-teclado-mecanico-logitech-precio-minimo-amazon-1378969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784271.jpg?tf=1200x' alt='Mecánico, sin luces raras y a precio de saldo: este teclado Logitech arrasa en Amazon con su oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965'>¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas</a></h4>
-    <a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas' />
     </a>
 </div>
 
