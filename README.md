@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977'>X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original</a></h4>
+    <a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/x-eliminara-opcion-esconder-verificacion-azul-usuarios-premium-3298764.jpg?tf=1200x' alt='X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-quiere-chatgpt-no-sea-tan-pesado-respuestas-anuncia-mejoras-1378986'>OpenAI quiere que ChatGPT vaya al grano y no sea tan pesado con sus respuestas y anuncia mejoras </a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-quiere-chatgpt-no-sea-tan-pesado-respuestas-anuncia-mejoras-1378986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-openai-3298777.jpg?tf=1200x' alt='OpenAI quiere que ChatGPT vaya al grano y no sea tan pesado con sus respuestas y anuncia mejoras ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-teclado-mecanico-logitech-precio-minimo-amazon-1378969'>Mecánico, sin luces raras y a precio de saldo: este teclado Logitech arrasa en Amazon con su oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-teclado-mecanico-logitech-precio-minimo-amazon-1378969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/logitech-mx-mechanical-mx-master-3s-analisis-opinion-2784271.jpg?tf=1200x' alt='Mecánico, sin luces raras y a precio de saldo: este teclado Logitech arrasa en Amazon con su oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965'>¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas</a></h4>
     <a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895'>¡Ya está en tu quiosco el número 666 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-666-3296114.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 666 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167'>Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-duplicar-pantalla-iphone-mac-instalar-nada-1364595'>Cómo duplicar la pantalla de tu iPhone en una Mac sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-duplicar-pantalla-iphone-mac-instalar-nada-1364595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-duplicar-pantalla-iphone-mac-instalar-nada-3274308.jpg?tf=1200x' alt='Cómo duplicar la pantalla de tu iPhone en una Mac sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465'>He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oppo-reno-11-f-5g-3297901.jpg?tf=1200x' alt='He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama' />
     </a>
 </div>
 
