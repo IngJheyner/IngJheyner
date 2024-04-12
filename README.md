@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041'>Google se carga su VPN y la función se despide a finales de 2024</a></h4>
+    <a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-one-vpn-3298905.jpg?tf=1200x' alt='Google se carga su VPN y la función se despide a finales de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997'>Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos</a></h4>
     <a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carnet-joven-2024-3298823.jpg?tf=1200x' alt='Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993'>Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024</a></h4>
     <a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977'>X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original</a></h4>
-    <a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/x-eliminara-opcion-esconder-verificacion-azul-usuarios-premium-3298764.jpg?tf=1200x' alt='X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original' />
     </a>
 </div>
 
