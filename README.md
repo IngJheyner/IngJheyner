@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102'>Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-desactivar-valoraciones-dentro-apps-iphone-mac-3288767.jpg?tf=1200x' alt='Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857'>El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-venu-3s-3298487.jpg?tf=1200x' alt='El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943'>¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-12-abril-2024-3298689.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935'>Raspberry Pi 6: características y mejoras para ser el microordenador perfecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-1378935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/raspberry-pi-6-caracteristicas-mejoras-ser-microordenador-perfecto-3298687.jpg?tf=1200x' alt='Raspberry Pi 6: características y mejoras para ser el microordenador perfecto' />
     </a>
 </div>
 
