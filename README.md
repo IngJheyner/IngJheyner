@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/parasyte-serie-ciencia-ficcion-netflix-1378846'>Ni El problema de los tres cuerpos ni Fallout: así es la serie de ciencia ficción que arrasa en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/parasyte-serie-ciencia-ficcion-netflix-1378846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-problema-tres-cuerpos-ni-fallout-serie-ciencia-ficcion-moda-arrasa-netflix-3298473.jpg?tf=1200x' alt='Ni El problema de los tres cuerpos ni Fallout: así es la serie de ciencia ficción que arrasa en Netflix' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185'>Android Auto es un desastre y está volviendo locos a sus usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Android Auto es un desastre y está volviendo locos a sus usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983'>¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora</a></h4>
-    <a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg?tf=1200x' alt='¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora' />
+    <h4><a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184'>Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comienza-reemplazo-texas-sustituye-4000-examinadores-ia-3299102.jpg?tf=1200x' alt='Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/timo-oro-cuidado-forma-robarte-coche-llega-francia-1378834'>El timo del oro: cuidado con la forma de robarte el coche que llega desde Francia</a></h4>
-    <a href='https://computerhoy.com/motor/timo-oro-cuidado-forma-robarte-coche-llega-francia-1378834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/timo-oro-cuidado-forma-robarte-coche-llega-francia-3298450.jpg?tf=1200x' alt='El timo del oro: cuidado con la forma de robarte el coche que llega desde Francia' />
+    <h4><a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183'>Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868'>Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/proyector-wimius-k9-3298423.jpg?tf=1200x' alt='Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994'>Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-meta-openai-quedan-datos-entrenar-modelos-ia-alternativas-existen-3298783.jpg?tf=1200x' alt='Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
-    <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-3298705.jpg?tf=1200x' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-barata-vuelve-costar-menos-300-euros-oferta-temporal-pone-tiro-1378871'>La Dyson más barata vuelve a costar menos de 300 euros: esta oferta temporal la pone a tiro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-barata-vuelve-costar-menos-300-euros-oferta-temporal-pone-tiro-1378871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/dyson-v8-animal-plus-2278853.jpg?tf=1200x' alt='La Dyson más barata vuelve a costar menos de 300 euros: esta oferta temporal la pone a tiro' />
     </a>
 </div>
 
