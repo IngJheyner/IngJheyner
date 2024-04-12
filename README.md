@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993'>Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024</a></h4>
+    <a href='https://computerhoy.com/apple/apple-tira-casa-ventana-chips-m4-mac-centrados-ia-llegarian-2024-1378993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Apple tira la casa por la ventana y los chips M4 para Mac centrados en IA llegarían este 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977'>X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original</a></h4>
     <a href='https://computerhoy.com/apps/funcion-eliminara-x-usuarios-premium-1378977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/x-eliminara-opcion-esconder-verificacion-azul-usuarios-premium-3298764.jpg?tf=1200x' alt='X eliminará la opción de ocultar la verificación azul para los usuarios Premium y se acerca cada vez más a la versión original' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965'>¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas</a></h4>
     <a href='https://computerhoy.com/apple/te-ha-roto-iphone-buenas-noticias-apple-permitira-repares-piezas-usadas-1378965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-plus-15-3146328.jpg?tf=1200x' alt='¿Se te ha roto el iPhone? Buenas noticias, Apple permitirá que lo repares con piezas usadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895'>¡Ya está en tu quiosco el número 666 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-666-computer-hoy-1376895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-666-3296114.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 666 de Computer Hoy!' />
     </a>
 </div>
 
