@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825'>Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-3020498.jpg?tf=1200x' alt='Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045'>Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después</a></h4>
     <a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-version-beta-windows-7-vuelve-estar-disponible-casi-15-anos-despues-lanzamiento-3298879.jpg?tf=1200x' alt='Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041'>Google se carga su VPN y la función se despide a finales de 2024</a></h4>
     <a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-one-vpn-3298905.jpg?tf=1200x' alt='Google se carga su VPN y la función se despide a finales de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997'>Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos</a></h4>
-    <a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carnet-joven-2024-3298823.jpg?tf=1200x' alt='Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos' />
     </a>
 </div>
 
