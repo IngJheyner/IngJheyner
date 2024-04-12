@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732'>Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-3298242.jpg?tf=1200x' alt='Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943'>¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-12-abril-2024-3298689.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929'>Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España</a></h4>
     <a href='https://computerhoy.com/industria/mediamarkt-cumple-25-anos-espana-celebra-cinco-experience-rooms-1378929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mediamarkt-cumple-25-anos-espana-celebra-exposicion-tecnologia-3298666.jpg?tf=1200x' alt='Del "Yo no soy tonto" a "El Gran Sinpa": MediaMarkt cumple 25 años en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hdcp-sirve-tan-importante-smart-tv-1378907'>Qué es HDCP, para qué sirve y cómo funciona en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/hdcp-sirve-tan-importante-smart-tv-1378907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hdcp-sirve-como-funciona-smart-tv-3298674.jpg?tf=1200x' alt='Qué es HDCP, para qué sirve y cómo funciona en tu Smart TV' />
     </a>
 </div>
 
