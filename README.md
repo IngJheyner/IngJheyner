@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045'>Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-version-beta-windows-7-vuelve-estar-disponible-casi-15-anos-despues-lanzamiento-3298879.jpg?tf=1200x' alt='Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016'>WhatsApp está probando una nueva función de vista previa para los documentos compartidos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-probando-nueva-funcion-vista-previa-documentos-compartidos-3298821.jpg?tf=1200x' alt='WhatsApp está probando una nueva función de vista previa para los documentos compartidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997'>Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos</a></h4>
     <a href='https://computerhoy.com/carnet-joven-requisitos-como-conseguirlo-requisitos-todas-ventajas-descuentos-1378997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carnet-joven-2024-3298823.jpg?tf=1200x' alt='Carnet Joven en 2024: requisitos, cómo conseguirlo y todas sus ventajas y descuentos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999'>Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-24h2-obligara-muchos-usuarios-comprarse-nuevo-ordenador-1378999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-ha-avisado-usuarios-ordenador-no-compatible-windows-11-3298786.jpg?tf=1200x' alt='Windows 11 24H2 obligará a muchos usuarios a comprarse un nuevo ordenador, pero Microsoft tiene la solución' />
     </a>
 </div>
 
