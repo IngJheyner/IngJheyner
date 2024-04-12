@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/parasyte-serie-ciencia-ficcion-netflix-1378846'>Ni El problema de los tres cuerpos ni Fallout: así es la serie de ciencia ficción que arrasa en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/parasyte-serie-ciencia-ficcion-netflix-1378846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-problema-tres-cuerpos-ni-fallout-serie-ciencia-ficcion-moda-arrasa-netflix-3298473.jpg?tf=1200x' alt='Ni El problema de los tres cuerpos ni Fallout: así es la serie de ciencia ficción que arrasa en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983'>¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora</a></h4>
     <a href='https://computerhoy.com/moviles/recuerdas-blackberry-dedica-empresa-creadora-moviles-ahora-1378983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/blackberry-2575025.jpg?tf=1200x' alt='¿Recuerdas BlackBerry? A esto se dedica la empresa creadora de móviles ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
     <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-3298705.jpg?tf=1200x' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230'>Las mejores webs para subir imágenes temporales a Internet</a></h4>
-    <a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-webs-subir-imagenes-temporales-internet-3297454.jpg?tf=1200x' alt='Las mejores webs para subir imágenes temporales a Internet' />
     </a>
 </div>
 
