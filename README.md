@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868'>Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proyector-cuesta-menos-300-euros-perfecto-ver-peliculas-aire-libre-1378868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/proyector-wimius-k9-3298423.jpg?tf=1200x' alt='Este proyector cuesta menos de 300 euros y es perfecto para ver películas al aire libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735'>¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/cuantos-triangulos-ves-aqui-acertijo-ilusion-optica-1082735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuantos-triangulos-ves-aqui-numero-digas-determinara-nivel-inteligencia-3298705.jpg?tf=1200x' alt='¿Cuántos triángulos ves aquí? El número que digas determinará tu nivel de inteligencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230'>Las mejores webs para subir imágenes temporales a Internet</a></h4>
+    <a href='https://computerhoy.com/internet/mejores-webs-subir-imagenes-temporales-internet-1378230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-webs-subir-imagenes-temporales-internet-3297454.jpg?tf=1200x' alt='Las mejores webs para subir imágenes temporales a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825'>Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-preocupado-ia-sera-inteligente-cualquier-humano-1378825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/elon-musk-x-ai-nueva-startup-inteligencia-artificial-querer-pausar-desarrollo-ia-3020498.jpg?tf=1200x' alt='Elon Musk, preocupado por los avances de la IA: “será más inteligente que cualquier ser humano”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045'>Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después</a></h4>
     <a href='https://computerhoy.com/windows/nueva-version-windows-7-1379045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-version-beta-windows-7-vuelve-estar-disponible-casi-15-anos-despues-lanzamiento-3298879.jpg?tf=1200x' alt='Una nueva versión de Windows 7 vuelve a estar disponible casi 15 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016'>WhatsApp está probando una nueva función de vista previa para los documentos compartidos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-anadira-opcion-vista-previa-documentos-1379016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-probando-nueva-funcion-vista-previa-documentos-compartidos-3298821.jpg?tf=1200x' alt='WhatsApp está probando una nueva función de vista previa para los documentos compartidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/barcelona-declara-guerra-turismo-ayuda-google-maps-1379061'>Barcelona declara la guerra al turismo con la ayuda de Google Maps</a></h4>
-    <a href='https://computerhoy.com/life/barcelona-declara-guerra-turismo-ayuda-google-maps-1379061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/barcelona-declara-guerra-turismo-ayuntamiento-elimina-google-maps-linea-bus-lleva-park-guell-3298910.jpg?tf=1200x' alt='Barcelona declara la guerra al turismo con la ayuda de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041'>Google se carga su VPN y la función se despide a finales de 2024</a></h4>
-    <a href='https://computerhoy.com/google/google-carga-vpn-funcion-despide-finales-2024-1379041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-one-vpn-3298905.jpg?tf=1200x' alt='Google se carga su VPN y la función se despide a finales de 2024' />
     </a>
 </div>
 
