@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167'>Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/haces-natacion-mp3-acuatico-conduccion-osea-hara-te-aburras-mucho-menos-1378167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Si haces natación, este MP3 acuático de conducción ósea hará que te aburras mucho menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-duplicar-pantalla-iphone-mac-instalar-nada-1364595'>Cómo duplicar la pantalla de tu iPhone en una Mac sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-duplicar-pantalla-iphone-mac-instalar-nada-1364595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-duplicar-pantalla-iphone-mac-instalar-nada-3274308.jpg?tf=1200x' alt='Cómo duplicar la pantalla de tu iPhone en una Mac sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465'>He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-reno-11-f-5g-analisis-opinion-movil-marca-vuelve-europa-1378465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oppo-reno-11-f-5g-3297901.jpg?tf=1200x' alt='He probado el Oppo Reno 11 F 5G, el móvil con el que la marca vuelve a Europa, y creo que está entre lo mejor de su gama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102'>Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-notificacion-valorar-apps-iphone-mac-1373102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-desactivar-valoraciones-dentro-apps-iphone-mac-3288767.jpg?tf=1200x' alt='Cómo desactivar la notificación para valorar las apps en tu iPhone y Mac' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857'>El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-venu-3s-completo-deporte-bienestar-cuesta-ahora-100-euros-menos-1378857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-venu-3s-3298487.jpg?tf=1200x' alt='El Garmin Venu 3S, el más completo en deporte y bienestar, cuesta ahora 100 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/experto-ia-hay-pocas-posibilidades-humanidad-sobreviva-1378518'>Un experto en IA hace saltar las alarmas: “hay pocas posibilidades de que la humanidad sobreviva”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/experto-ia-hay-pocas-posibilidades-humanidad-sobreviva-1378518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/experto-ia-hace-saltar-alarmas-hay-pocas-posibilidades-humanidad-sobreviva-3297940.jpg?tf=1200x' alt='Un experto en IA hace saltar las alarmas: “hay pocas posibilidades de que la humanidad sobreviva”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732'>Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-1378732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-3298242.jpg?tf=1200x' alt='Wangiri: la estafa "japonesa" sobre la que ya han advertido la OCU y la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943'>¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-12-abril-2024-1378943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-12-abril-2024-3298689.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 12 de abril de 2024' />
     </a>
 </div>
 
