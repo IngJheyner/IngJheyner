@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196'>10 cosas que no sabías que Google Maps puede hacer</a></h4>
+    <a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-cosas-no-sabias-google-maps-puede-hacer-3299148.jpg?tf=1200x' alt='10 cosas que no sabías que Google Maps puede hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199'>Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda</a></h4>
     <a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hoy-hace-14-anos-microsoft-lanzo-producto-nadie-acuerda-3299130.jpg?tf=1200x' alt='Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183'>Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994'>Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-meta-quedan-datos-entrenar-ia-1378994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-meta-openai-quedan-datos-entrenar-modelos-ia-alternativas-existen-3298783.jpg?tf=1200x' alt='Google, Meta y OpenAI se quedan sin datos para entrenar a sus modelos de IA, ¿qué alternativas existen?' />
     </a>
 </div>
 
