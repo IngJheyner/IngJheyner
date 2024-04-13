@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-maps-proxima-generacion-podria-buscarte-rutas-automaticamente-interfaz-personalizada-1379311'>Apple Maps de próxima generación podría buscarte rutas automáticamente en una interfaz personalizada</a></h4>
+    <a href='https://computerhoy.com/apple/apple-maps-proxima-generacion-podria-buscarte-rutas-automaticamente-interfaz-personalizada-1379311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple Maps de próxima generación podría buscarte rutas automáticamente en una interfaz personalizada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xai-lanza-nueva-version-grok-capacidades-vision-1379291'>xAI lanza una nueva versión de Grok “con capacidades de visión”</a></h4>
     <a href='https://computerhoy.com/tecnologia/xai-lanza-nueva-version-grok-capacidades-vision-1379291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='xAI lanza una nueva versión de Grok “con capacidades de visión”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102'>Cómo cambiar la firma de los correos de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2946600.jpg?tf=1200x' alt='Cómo cambiar la firma de los correos de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/gmail-trabaja-mejor-forma-administrar-todas-suscripciones-1379249'>Gmail trabaja en una mejor forma de administrar todas sus suscripciones</a></h4>
-    <a href='https://computerhoy.com/apps/gmail-trabaja-mejor-forma-administrar-todas-suscripciones-1379249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='Gmail trabaja en una mejor forma de administrar todas sus suscripciones' />
     </a>
 </div>
 
