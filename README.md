@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/android-auto-principiantes-todo-debes-saber-1378945'>Android Auto para principiantes: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.com/google/android-auto-principiantes-todo-debes-saber-1378945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-3298822.jpg?tf=1200x' alt='Android Auto para principiantes: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-apenas-200-euros-altura-garmin-forerunner-nos-encanto-cuando-probamos-1379215'>Este Huawei de apenas 200 euros está a la altura de los Garmin Forerunner y nos encantó cuando lo probamos</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-apenas-200-euros-altura-garmin-forerunner-nos-encanto-cuando-probamos-1379215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131236.jpg?tf=1200x' alt='Este Huawei de apenas 200 euros está a la altura de los Garmin Forerunner y nos encantó cuando lo probamos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/soy-joven-necesito-ahorrar-truco-he-puesto-marcha-controlar-gastos-1376358'>Soy joven y necesito ahorrar: este es el truco que he puesto en marcha para controlar mis gastos</a></h4>
     <a href='https://computerhoy.com/life/soy-joven-necesito-ahorrar-truco-he-puesto-marcha-controlar-gastos-1376358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahorro-jovenes-truco-3296244.jpg?tf=1200x' alt='Soy joven y necesito ahorrar: este es el truco que he puesto en marcha para controlar mis gastos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807'>He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada</a></h4>
-    <a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lampara-altavoz-canon-3298998.jpg?tf=1200x' alt='He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada' />
     </a>
 </div>
 
