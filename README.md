@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102'>Cómo cambiar la firma de los correos de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2946600.jpg?tf=1200x' alt='Cómo cambiar la firma de los correos de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/gmail-trabaja-mejor-forma-administrar-todas-suscripciones-1379249'>Gmail trabaja en una mejor forma de administrar todas sus suscripciones</a></h4>
+    <a href='https://computerhoy.com/apps/gmail-trabaja-mejor-forma-administrar-todas-suscripciones-1379249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='Gmail trabaja en una mejor forma de administrar todas sus suscripciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-detectar-perfil-instagram-falso-1378306'>Cómo detectar si un perfil de Instagram es falso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-detectar-perfil-instagram-falso-1378306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-detectar-perfil-instagram-falso-3297626.jpg?tf=1200x' alt='Cómo detectar si un perfil de Instagram es falso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241'>Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/anuncios-windows-11-3299215.jpg?tf=1200x' alt='Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-apple-sigue-siendo-mejores-mercado-ahora-accesible-nunca-1379047'>Esta tablet de Apple sigue siendo una de las mejores del mercado y ahora es más accesible que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-apple-sigue-siendo-mejores-mercado-ahora-accesible-nunca-1379047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='Esta tablet de Apple sigue siendo una de las mejores del mercado y ahora es más accesible que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-realizar-prueba-estres-cpu-1378670'>Cómo realizar una prueba de estrés a tu CPU y por qué es importante hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-realizar-prueba-estres-cpu-1378670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-realizar-prueba-estres-cpu-importante-hacerlo-3298127.jpg?tf=1200x' alt='Cómo realizar una prueba de estrés a tu CPU y por qué es importante hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cifrado-militar-conexiones-simultaneas-ilimitadas-perfecta-streaming-mejores-vpn-premium-cuesta-menos-2-euros-mes-1379221'>Cifrado militar, conexiones simultáneas ilimitadas y perfecta para streaming: esta es una de las mejores VPN Premium y cuesta menos de 2 euros al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cifrado-militar-conexiones-simultaneas-ilimitadas-perfecta-streaming-mejores-vpn-premium-cuesta-menos-2-euros-mes-1379221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windscribe-3299188.jpg?tf=1200x' alt='Cifrado militar, conexiones simultáneas ilimitadas y perfecta para streaming: esta es una de las mejores VPN Premium y cuesta menos de 2 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/razon-no-sobrevivirias-ni-24-horas-edad-media-1377806'>Esta es la razón por la que seguramente no sobrevivirías ni 24 horas si vivieras en la Edad Media</a></h4>
-    <a href='https://computerhoy.com/life/razon-no-sobrevivirias-ni-24-horas-edad-media-1377806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-seguramente-no-sobrevivirias-ni-24-horas-vivieras-edad-media-3296787.jpg?tf=1200x' alt='Esta es la razón por la que seguramente no sobrevivirías ni 24 horas si vivieras en la Edad Media' />
     </a>
 </div>
 
