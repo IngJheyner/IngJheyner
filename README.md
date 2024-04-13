@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807'>He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada</a></h4>
+    <a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lampara-altavoz-canon-3298998.jpg?tf=1200x' alt='He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210'>Graban en vídeo una gacela de seis patas en libertad</a></h4>
     <a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-gacela-seis-patas-libertad-israel-3299158.jpg?tf=1200x' alt='Graban en vídeo una gacela de seis patas en libertad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096'>Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-gt-neo-5-3297178.jpg?tf=1200x' alt='Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206'>¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-13-abril-2024-3299153.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024' />
     </a>
 </div>
 
