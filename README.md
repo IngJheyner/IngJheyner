@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210'>Graban en vídeo una gacela de seis patas en libertad</a></h4>
+    <a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-gacela-seis-patas-libertad-israel-3299158.jpg?tf=1200x' alt='Graban en vídeo una gacela de seis patas en libertad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lattepanda-mu-alternativa-raspberry-pi-5-cpu-intel-1379211'>LattePanda Mu, la alternativa a Raspberry Pi 5 que es el doble de potente, con CPU Intel y soporte para Windows</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lattepanda-mu-alternativa-raspberry-pi-5-cpu-intel-1379211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lattepanda-mu-alternativa-raspberry-pi-5-doble-potente-cpu-intel-soporte-windows-3299168.jpg?tf=1200x' alt='LattePanda Mu, la alternativa a Raspberry Pi 5 que es el doble de potente, con CPU Intel y soporte para Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-disco-duro-5-tb-todos-datos-precio-ganga-1378974'>Olvida la nube: en este disco duro de 5 TB cabe todos tus datos y está a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-nube-disco-duro-5-tb-todos-datos-precio-ganga-1378974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seagate-expansion-3298756.jpg?tf=1200x' alt='Olvida la nube: en este disco duro de 5 TB cabe todos tus datos y está a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096'>Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-gt-neo-5-3297178.jpg?tf=1200x' alt='Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206'>¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-13-abril-2024-3299153.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200'>¿Cuánto dura una tarjeta gráfica?</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3299151.jpg?tf=1200x' alt='¿Cuánto dura una tarjeta gráfica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196'>10 cosas que no sabías que Google Maps puede hacer</a></h4>
-    <a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-cosas-no-sabias-google-maps-puede-hacer-3299148.jpg?tf=1200x' alt='10 cosas que no sabías que Google Maps puede hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199'>Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda</a></h4>
-    <a href='https://computerhoy.com/moviles/hace-14-anos-microsoft-lanzo-kin-one-kin-two-1379199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hoy-hace-14-anos-microsoft-lanzo-producto-nadie-acuerda-3299130.jpg?tf=1200x' alt='Hace 14 años, Microsoft lanzó un producto del que nadie se acuerda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185'>Android Auto es un desastre y está volviendo locos a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Android Auto es un desastre y está volviendo locos a sus usuarios' />
     </a>
 </div>
 
