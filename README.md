@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-levanta-bloqueo-dos-anos-impedia-estos-usuarios-windows-10-actualizarse-windows-11-1379322'>Microsoft levanta un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizarse a Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-levanta-bloqueo-dos-anos-impedia-estos-usuarios-windows-10-actualizarse-windows-11-1379322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Microsoft levanta un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizarse a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-chrome-sea-mucho-seguro-trabaja-nuevas-opciones-controlar-permisos-sitos-1379317'>Google quiere que Chrome sea mucho más seguro y trabaja en nuevas opciones para controlar los permisos de los sitos</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-chrome-sea-mucho-seguro-trabaja-nuevas-opciones-controlar-permisos-sitos-1379317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Google quiere que Chrome sea mucho más seguro y trabaja en nuevas opciones para controlar los permisos de los sitos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xai-lanza-nueva-version-grok-capacidades-vision-1379291'>xAI lanza una nueva versión de Grok “con capacidades de visión”</a></h4>
     <a href='https://computerhoy.com/tecnologia/xai-lanza-nueva-version-grok-capacidades-vision-1379291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='xAI lanza una nueva versión de Grok “con capacidades de visión”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281'>Estos son todos los cambios que se avecinan a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Estos son todos los cambios que se avecinan a Google Chrome' />
     </a>
 </div>
 
