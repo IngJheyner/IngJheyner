@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206'>¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-13-abril-2024-1379206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-13-abril-2024-3299153.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 13 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200'>¿Cuánto dura una tarjeta gráfica?</a></h4>
     <a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3299151.jpg?tf=1200x' alt='¿Cuánto dura una tarjeta gráfica?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185'>Android Auto es un desastre y está volviendo locos a sus usuarios</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-desastre-volviendo-locos-usuarios-1379185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='Android Auto es un desastre y está volviendo locos a sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184'>Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comienza-reemplazo-texas-sustituye-4000-examinadores-ia-3299102.jpg?tf=1200x' alt='Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA' />
     </a>
 </div>
 
