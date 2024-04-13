@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281'>Estos son todos los cambios que se avecinan a Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Estos son todos los cambios que se avecinan a Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266'>Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-detectar-perfil-instagram-falso-1378306'>Cómo detectar si un perfil de Instagram es falso</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-detectar-perfil-instagram-falso-1378306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-detectar-perfil-instagram-falso-3297626.jpg?tf=1200x' alt='Cómo detectar si un perfil de Instagram es falso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241'>Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/anuncios-windows-11-3299215.jpg?tf=1200x' alt='Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos' />
     </a>
 </div>
 
