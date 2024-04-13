@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266'>Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102'>Cómo cambiar la firma de los correos de Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2946600.jpg?tf=1200x' alt='Cómo cambiar la firma de los correos de Gmail' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241'>Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-comienza-mostrar-anuncios-menu-inicio-windows-11-puedes-desactivarlos-1379241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/anuncios-windows-11-3299215.jpg?tf=1200x' alt='Microsoft comienza a mostrar anuncios en el menú inicio de Windows 11 y así puedes desactivarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-apple-sigue-siendo-mejores-mercado-ahora-accesible-nunca-1379047'>Esta tablet de Apple sigue siendo una de las mejores del mercado y ahora es más accesible que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-apple-sigue-siendo-mejores-mercado-ahora-accesible-nunca-1379047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='Esta tablet de Apple sigue siendo una de las mejores del mercado y ahora es más accesible que nunca' />
     </a>
 </div>
 
