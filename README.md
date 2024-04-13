@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/herramienta-recortes-windows-11-renueva-emojis-codigos-qr-mucho-1379313'>La herramienta de recortes de Windows 11 se renueva con emojis, códigos QR y mucho más</a></h4>
+    <a href='https://computerhoy.com/windows/herramienta-recortes-windows-11-renueva-emojis-codigos-qr-mucho-1379313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='La herramienta de recortes de Windows 11 se renueva con emojis, códigos QR y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-maps-proxima-generacion-podria-buscarte-rutas-automaticamente-interfaz-personalizada-1379311'>Apple Maps de próxima generación podría buscarte rutas automáticamente en una interfaz personalizada</a></h4>
     <a href='https://computerhoy.com/apple/apple-maps-proxima-generacion-podria-buscarte-rutas-automaticamente-interfaz-personalizada-1379311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Apple Maps de próxima generación podría buscarte rutas automáticamente en una interfaz personalizada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266'>Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102'>Cómo cambiar la firma de los correos de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-firma-correos-gmail-1378102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/gmail-2946600.jpg?tf=1200x' alt='Cómo cambiar la firma de los correos de Gmail' />
     </a>
 </div>
 
