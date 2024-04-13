@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-apenas-200-euros-altura-garmin-forerunner-nos-encanto-cuando-probamos-1379215'>Este Huawei de apenas 200 euros está a la altura de los Garmin Forerunner y nos encantó cuando lo probamos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-apenas-200-euros-altura-garmin-forerunner-nos-encanto-cuando-probamos-1379215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131236.jpg?tf=1200x' alt='Este Huawei de apenas 200 euros está a la altura de los Garmin Forerunner y nos encantó cuando lo probamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/he-estado-semana-probando-tecnica-brain-dump-reduce-ansiedad-me-ha-abierto-ojos-1377874'>He estado una semana probando la técnica del 'brain dump' que reduce la ansiedad y me ha abierto los ojos</a></h4>
+    <a href='https://computerhoy.com/life/he-estado-semana-probando-tecnica-brain-dump-reduce-ansiedad-me-ha-abierto-ojos-1377874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnicas-semana-3298835.jpg?tf=1200x' alt='He estado una semana probando la técnica del 'brain dump' que reduce la ansiedad y me ha abierto los ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/blip-app-compartir-archivos-android-ios-macos-windows-1378221'>Por fin, una solución para compartir archivos entre cualquier móvil y PC</a></h4>
+    <a href='https://computerhoy.com/apps/blip-app-compartir-archivos-android-ios-macos-windows-1378221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mujer-sujetando-iphone-3297412.jpg?tf=1200x' alt='Por fin, una solución para compartir archivos entre cualquier móvil y PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/soy-joven-necesito-ahorrar-truco-he-puesto-marcha-controlar-gastos-1376358'>Soy joven y necesito ahorrar: este es el truco que he puesto en marcha para controlar mis gastos</a></h4>
+    <a href='https://computerhoy.com/life/soy-joven-necesito-ahorrar-truco-he-puesto-marcha-controlar-gastos-1376358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahorro-jovenes-truco-3296244.jpg?tf=1200x' alt='Soy joven y necesito ahorrar: este es el truco que he puesto en marcha para controlar mis gastos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807'>He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada</a></h4>
     <a href='https://computerhoy.com/analisis/mes-lampara-altavoz-canon-sonido-bateria-claves-1378807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lampara-altavoz-canon-3298998.jpg?tf=1200x' alt='He probado durante un mes la lámpara altavoz de Canon y me ha cautivado su sonido y su batería integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210'>Graban en vídeo una gacela de seis patas en libertad</a></h4>
-    <a href='https://computerhoy.com/life/gacela-seis-patas-libertad-video-1379210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-gacela-seis-patas-libertad-israel-3299158.jpg?tf=1200x' alt='Graban en vídeo una gacela de seis patas en libertad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lattepanda-mu-alternativa-raspberry-pi-5-cpu-intel-1379211'>LattePanda Mu, la alternativa a Raspberry Pi 5 que es el doble de potente, con CPU Intel y soporte para Windows</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lattepanda-mu-alternativa-raspberry-pi-5-cpu-intel-1379211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lattepanda-mu-alternativa-raspberry-pi-5-doble-potente-cpu-intel-soporte-windows-3299168.jpg?tf=1200x' alt='LattePanda Mu, la alternativa a Raspberry Pi 5 que es el doble de potente, con CPU Intel y soporte para Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-disco-duro-5-tb-todos-datos-precio-ganga-1378974'>Olvida la nube: en este disco duro de 5 TB cabe todos tus datos y está a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-nube-disco-duro-5-tb-todos-datos-precio-ganga-1378974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seagate-expansion-3298756.jpg?tf=1200x' alt='Olvida la nube: en este disco duro de 5 TB cabe todos tus datos y está a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096'>Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/monstruosa-carga-rapida-240w-precio-gama-baja-realme-revienta-records-aliexpress-1378096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-gt-neo-5-3297178.jpg?tf=1200x' alt='Monstruosa carga rápida a 240W a precio de gama baja: este realme revienta récords en AliExpress' />
     </a>
 </div>
 
