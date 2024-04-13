@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-chrome-sea-mucho-seguro-trabaja-nuevas-opciones-controlar-permisos-sitos-1379317'>Google quiere que Chrome sea mucho más seguro y trabaja en nuevas opciones para controlar los permisos de los sitos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-chrome-sea-mucho-seguro-trabaja-nuevas-opciones-controlar-permisos-sitos-1379317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-ver-todas-contrasenas-guardadas-google-chrome-protegerlas-hackers-3262679.jpg?tf=1200x' alt='Google quiere que Chrome sea mucho más seguro y trabaja en nuevas opciones para controlar los permisos de los sitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/herramienta-recortes-windows-11-renueva-emojis-codigos-qr-mucho-1379313'>La herramienta de recortes de Windows 11 se renueva con emojis, códigos QR y mucho más</a></h4>
     <a href='https://computerhoy.com/windows/herramienta-recortes-windows-11-renueva-emojis-codigos-qr-mucho-1379313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/windows-11-herramienta-recortes-3263849.jpg?tf=1200x' alt='La herramienta de recortes de Windows 11 se renueva con emojis, códigos QR y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281'>Estos son todos los cambios que se avecinan a Google Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='Estos son todos los cambios que se avecinan a Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266'>Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-meta-ai-ya-probando-instagram-funciona-1379266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/instagram-podria-tener-propio-chatbot-inteligencia-artificial-muy-pronto-3052506.jpg?tf=1200x' alt='Tras WhatsApp, Meta AI ya se está probando en Instagram y así funciona' />
     </a>
 </div>
 
