@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200'>¿Cuánto dura una tarjeta gráfica?</a></h4>
+    <a href='https://computerhoy.com/pc/cuanto-dura-tarjeta-grafica-1379200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3299151.jpg?tf=1200x' alt='¿Cuánto dura una tarjeta gráfica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196'>10 cosas que no sabías que Google Maps puede hacer</a></h4>
     <a href='https://computerhoy.com/google/10-cosas-no-sabias-google-maps-puede-hacer-1379196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/10-cosas-no-sabias-google-maps-puede-hacer-3299148.jpg?tf=1200x' alt='10 cosas que no sabías que Google Maps puede hacer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184'>Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/texas-sustituye-4000-examinadores-por-inteligencia-artificial-1379184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comienza-reemplazo-texas-sustituye-4000-examinadores-ia-3299102.jpg?tf=1200x' alt='Comienza el reemplazo: Texas sustituye a 4.000 examinadores por una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183'>Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/meta-ai-chatgpt-whatsapp-ya-disponible-funciona-1379183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-version-beta-android-meta-ai-whatsapp-3257457.jpg?tf=1200x' alt='Meta AI, el ChatGPT de WhatsApp, ya está disponible y así funciona' />
     </a>
 </div>
 
