@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429'>The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diskmantler-extrae-piezas-tierras-raras-disco-duro-8-segundos-3299498.jpg?tf=1200x' alt='The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420'>Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras</a></h4>
     <a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-imaginas-hay-dentro-maletin-wd-3299466.jpg?tf=1200x' alt='Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393'>Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción</a></h4>
     <a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392'>Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chrome-controles-audio-video-3299389.jpg?tf=1200x' alt='Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams' />
     </a>
 </div>
 
