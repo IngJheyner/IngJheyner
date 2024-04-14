@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-fondo-pantalla-google-chrome-1377175'>Cómo cambiar el fondo de pantalla en Google Chrome</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-fondo-pantalla-google-chrome-1377175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fondo-pantalla-google-chrome-3295779.jpg?tf=1200x' alt='Cómo cambiar el fondo de pantalla en Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346'>Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-laptop-15s-3299328.jpg?tf=1200x' alt='Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941'>Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-solucionar-error-ningun-dispositivo-salida-audio-instalado-windows-11-3298697.jpg?tf=1200x' alt='Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187'>Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?</a></h4>
-    <a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/numeros-gold-3298780.jpg?tf=1200x' alt='Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?' />
     </a>
 </div>
 
