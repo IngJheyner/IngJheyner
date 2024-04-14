@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346'>Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-laptop-15s-3299328.jpg?tf=1200x' alt='Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-1378944'>Cómo cambiar la letra de Instagram y utilizar negrita, cursiva o tachado</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-1378944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-3298700.jpg?tf=1200x' alt='Cómo cambiar la letra de Instagram y utilizar negrita, cursiva o tachado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sorprendente-banner-podrias-encontrarte-proxima-vez-ejecutes-whatsapp-1379347'>El sorprendente banner que podrías encontrarte la próxima vez que ejecutes WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/sorprendente-banner-podrias-encontrarte-proxima-vez-ejecutes-whatsapp-1379347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='El sorprendente banner que podrías encontrarte la próxima vez que ejecutes WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941'>Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-solucionar-error-ningun-dispositivo-salida-audio-instalado-windows-11-3298697.jpg?tf=1200x' alt='Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187'>Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?</a></h4>
     <a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/numeros-gold-3298780.jpg?tf=1200x' alt='Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276'>Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante</a></h4>
-    <a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-hilos-procesador-diferencias-nucleos-importante-3297571.jpg?tf=1200x' alt='Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/huella-dactilar-cara-nueva-codiciada-moneda-mercado-negro-dark-web-1377875'>Tu huella dactilar y tu cara: la nueva y codiciada moneda en el mercado negro de la Dark Web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/huella-dactilar-cara-nueva-codiciada-moneda-mercado-negro-dark-web-1377875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/biometria-ciberseguridad-3298003.jpg?tf=1200x' alt='Tu huella dactilar y tu cara: la nueva y codiciada moneda en el mercado negro de la Dark Web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326'>Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato</a></h4>
-    <a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873'>554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes' />
     </a>
 </div>
 
