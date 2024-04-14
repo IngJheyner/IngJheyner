@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276'>Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante</a></h4>
+    <a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-hilos-procesador-diferencias-nucleos-importante-3297571.jpg?tf=1200x' alt='Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/huella-dactilar-cara-nueva-codiciada-moneda-mercado-negro-dark-web-1377875'>Tu huella dactilar y tu cara: la nueva y codiciada moneda en el mercado negro de la Dark Web</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/huella-dactilar-cara-nueva-codiciada-moneda-mercado-negro-dark-web-1377875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/biometria-ciberseguridad-3298003.jpg?tf=1200x' alt='Tu huella dactilar y tu cara: la nueva y codiciada moneda en el mercado negro de la Dark Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326'>Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato</a></h4>
     <a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316'>Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenguajes-programacion-2557559.jpg?tf=1200x' alt='Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/miles-meteoritos-estan-punto-perderse-antartida-1379331'>Miles de meteoritos están a punto de perderse en la Antártida</a></h4>
-    <a href='https://computerhoy.com/espacio/miles-meteoritos-estan-punto-perderse-antartida-1379331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/miles-meteoritos-estan-punto-perderse-antartida-3299308.jpg?tf=1200x' alt='Miles de meteoritos están a punto de perderse en la Antártida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/volte-ha-supuesto-revolucion-llamadas-moviles-1373209'>¿Qué es VoLTE y por qué ha supuesto una revolución en las llamadas móviles?</a></h4>
-    <a href='https://computerhoy.com/moviles/volte-ha-supuesto-revolucion-llamadas-moviles-1373209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1712927339474-3298985.jpg?tf=1200x' alt='¿Qué es VoLTE y por qué ha supuesto una revolución en las llamadas móviles?' />
     </a>
 </div>
 
