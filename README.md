@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326'>Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato</a></h4>
+    <a href='https://computerhoy.com/android/movil-xiaomi-tiene-camara-leica-pantalla-amoled-144-hz-200-euros-barato-1379326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/xiaomi-13t-3226412.jpg?tf=1200x' alt='Este móvil Xiaomi tiene cámara Leica, pantalla AMOLED a 144 Hz y es 200 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873'>554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316'>Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenguajes-programacion-2557559.jpg?tf=1200x' alt='Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/miles-meteoritos-estan-punto-perderse-antartida-1379331'>Miles de meteoritos están a punto de perderse en la Antártida</a></h4>
+    <a href='https://computerhoy.com/espacio/miles-meteoritos-estan-punto-perderse-antartida-1379331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/miles-meteoritos-estan-punto-perderse-antartida-3299308.jpg?tf=1200x' alt='Miles de meteoritos están a punto de perderse en la Antártida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/volte-ha-supuesto-revolucion-llamadas-moviles-1373209'>¿Qué es VoLTE y por qué ha supuesto una revolución en las llamadas móviles?</a></h4>
     <a href='https://computerhoy.com/moviles/volte-ha-supuesto-revolucion-llamadas-moviles-1373209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1712927339474-3298985.jpg?tf=1200x' alt='¿Qué es VoLTE y por qué ha supuesto una revolución en las llamadas móviles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-navegacion-tengo-clara-favorita-1376117'>He probado todas las apps de navegación para el coche y tengo una clara favorita</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-navegacion-tengo-clara-favorita-1376117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-conduciendo-3294360.jpg?tf=1200x' alt='He probado todas las apps de navegación para el coche y tengo una clara favorita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smart-tv-samsung-no-volveras-pisar-cine-qled-4k-65-pulgadas-1200-euros-descuento-1379076'>Con esta Smart TV de Samsung no volverás a pisar el cine: QLED, 4K, 65 pulgadas y 1.200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smart-tv-samsung-no-volveras-pisar-cine-qled-4k-65-pulgadas-1200-euros-descuento-1379076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-q80c-3298916.jpg?tf=1200x' alt='Con esta Smart TV de Samsung no volverás a pisar el cine: QLED, 4K, 65 pulgadas y 1.200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-14-abril-2024-1379329'>¿Qué santo es hoy? Santoral del domingo 14 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-14-abril-2024-1379329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-14-abril-2024-3299307.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 14 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-levanta-bloqueo-dos-anos-impedia-estos-usuarios-windows-10-actualizarse-windows-11-1379322'>Microsoft levanta un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizarse a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-levanta-bloqueo-dos-anos-impedia-estos-usuarios-windows-10-actualizarse-windows-11-1379322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Microsoft levanta un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizarse a Windows 11' />
     </a>
 </div>
 
