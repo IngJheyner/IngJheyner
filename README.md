@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393'>Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción</a></h4>
+    <a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392'>Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chrome-controles-audio-video-3299389.jpg?tf=1200x' alt='Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/audio-perdidas-spotify-sigue-vivo-integraria-forma-1379387'>El audio sin pérdidas de Spotify sigue vivo y se integraría de esta forma</a></h4>
+    <a href='https://computerhoy.com/apps/audio-perdidas-spotify-sigue-vivo-integraria-forma-1379387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/spotify-3212194.jpg?tf=1200x' alt='El audio sin pérdidas de Spotify sigue vivo y se integraría de esta forma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-estrena-esperada-nueva-pagina-configuracion-administrar-pc-consolas-1379382'>Windows 11 estrena su esperada nueva página de configuración para administrar tus PC y consolas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-estrena-esperada-nueva-pagina-configuracion-administrar-pc-consolas-1379382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Windows 11 estrena su esperada nueva página de configuración para administrar tus PC y consolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-fondo-pantalla-google-chrome-1377175'>Cómo cambiar el fondo de pantalla en Google Chrome</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-fondo-pantalla-google-chrome-1377175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fondo-pantalla-google-chrome-3295779.jpg?tf=1200x' alt='Cómo cambiar el fondo de pantalla en Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346'>Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-hp-suficiente-trabajar-cuesta-menos-600-euros-1379346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-laptop-15s-3299328.jpg?tf=1200x' alt='Este portátil HP es más que suficiente para trabajar y cuesta menos de 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-1378944'>Cómo cambiar la letra de Instagram y utilizar negrita, cursiva o tachado</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-1378944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-letra-instagram-utilizar-negrita-cursiva-tachado-3298700.jpg?tf=1200x' alt='Cómo cambiar la letra de Instagram y utilizar negrita, cursiva o tachado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/sorprendente-banner-podrias-encontrarte-proxima-vez-ejecutes-whatsapp-1379347'>El sorprendente banner que podrías encontrarte la próxima vez que ejecutes WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/sorprendente-banner-podrias-encontrarte-proxima-vez-ejecutes-whatsapp-1379347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/whatsapp-2870685.jpg?tf=1200x' alt='El sorprendente banner que podrías encontrarte la próxima vez que ejecutes WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941'>Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/solucion-error-ningun-dispositivo-audio-instalado-windows-11-1378941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-solucionar-error-ningun-dispositivo-salida-audio-instalado-windows-11-3298697.jpg?tf=1200x' alt='Cómo solucionar el error "Ningún dispositivo de salida de audio instalado" en Windows 11' />
     </a>
 </div>
 
