@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187'>Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?</a></h4>
+    <a href='https://computerhoy.com/life/numeros-gold-numeros-telefono-venden-miles-euros-1378187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/numeros-gold-3298780.jpg?tf=1200x' alt='Números gold: los números de teléfono que se venden por miles de euros, ¿tienes uno de ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276'>Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante</a></h4>
     <a href='https://computerhoy.com/pc/hilos-procesador-diferencias-nucleos-1378276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-hilos-procesador-diferencias-nucleos-importante-3297571.jpg?tf=1200x' alt='Qué son los hilos de un procesador, diferencias con los núcleos y qué es más importante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873'>554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/554-millones-cookies-espanolas-ya-estan-dark-web-caramelo-ciberdelincuentes-1377873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cookies-robadas-3297911.jpg?tf=1200x' alt='554 millones de cookies españolas ya están en la Dark Web, un caramelo para los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316'>Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-sistema-restaura-fragmentos-codigo-perdidos-documentos-digitales-1379316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/lenguajes-programacion-2557559.jpg?tf=1200x' alt='Microsoft trabaja en un sistema que restaura fragmentos de código perdidos y documentos digitales' />
     </a>
 </div>
 
