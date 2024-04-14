@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420'>Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras</a></h4>
+    <a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-imaginas-hay-dentro-maletin-wd-3299466.jpg?tf=1200x' alt='Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414'>29 años después, portean miles de aplicaciones modernas y juegos a Windows 95</a></h4>
     <a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/25-anos-despues-portean-miles-juegos-aplicaciones-modernas-windows-95-3299421.jpg?tf=1200x' alt='29 años después, portean miles de aplicaciones modernas y juegos a Windows 95' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392'>Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-obtendra-controles-previos-camara-microfono-inspirandose-microsoft-teams-1379392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chrome-controles-audio-video-3299389.jpg?tf=1200x' alt='Chrome obtendrá controles previos de cámara y micrófono inspirándose en Microsoft Teams' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/audio-perdidas-spotify-sigue-vivo-integraria-forma-1379387'>El audio sin pérdidas de Spotify sigue vivo y se integraría de esta forma</a></h4>
-    <a href='https://computerhoy.com/apps/audio-perdidas-spotify-sigue-vivo-integraria-forma-1379387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/spotify-3212194.jpg?tf=1200x' alt='El audio sin pérdidas de Spotify sigue vivo y se integraría de esta forma' />
     </a>
 </div>
 
