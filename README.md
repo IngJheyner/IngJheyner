@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715'>Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-estrena-funciones-utiles-planificar-rutas-desbloquear-movil-3300029.jpg?tf=1200x' alt='Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694'>6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-alerta-indican-movil-ha-sido-hackeado-como-protegerlo-3300021.jpg?tf=1200x' alt='6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685'>Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-gmail-3299975.jpg?tf=1200x' alt='Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684'>Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10</a></h4>
-    <a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10' />
     </a>
 </div>
 
