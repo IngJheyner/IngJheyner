@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-3299972.jpg?tf=1200x' alt='Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686'>Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-pone-venta-nuevos-moviles-huawei-nova-12-disenados-selfies-finos-nunca-3299934.jpg?tf=1200x' alt='Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685'>Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-gmail-3299975.jpg?tf=1200x' alt='Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684'>Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10</a></h4>
     <a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120'>El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/remake-inmortales-sabe-protagonistas-historia-fecha-estreno-nos-gustaria-ver-3299008.jpg?tf=1200x' alt='El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203'>La conexión olvidada de tu Smart TV que estás desaprovechando</a></h4>
-    <a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conexion-olvidada-smart-tv-estas-desaprovechando-3299157.jpg?tf=1200x' alt='La conexión olvidada de tu Smart TV que estás desaprovechando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias</a></h4>
-    <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3299169.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207'>Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps' />
     </a>
 </div>
 
