@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513'>Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cuanto-tarda-hacienda-ingresar-devolucion-renta-como-conocer-fecha-exacta-movil-1379502'>Cuánto tarda Hacienda en ingresar la devolución de la Renta y cómo conocer la fecha exacta desde el móvil</a></h4>
     <a href='https://computerhoy.com/life/cuanto-tarda-hacienda-ingresar-devolucion-renta-como-conocer-fecha-exacta-movil-1379502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/declaracion-renta-2023-3299726.jpg?tf=1200x' alt='Cuánto tarda Hacienda en ingresar la devolución de la Renta y cómo conocer la fecha exacta desde el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494'>Smart IPTV se une a Acestream y ya no puede utilizarse en España</a></h4>
     <a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smartiptv-une-acestream-ya-no-puede-utilizarse-espana-3299619.jpg?tf=1200x' alt='Smart IPTV se une a Acestream y ya no puede utilizarse en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465'>La NASA prepara un gran anuncio que podría afectar a su última misión a Marte</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-prepara-gran-anuncio-podria-afecta-ultima-mision-marte-3299549.jpg?tf=1200x' alt='La NASA prepara un gran anuncio que podría afectar a su última misión a Marte' />
     </a>
 </div>
 
