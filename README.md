@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203'>La conexión olvidada de tu Smart TV que estás desaprovechando</a></h4>
+    <a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conexion-olvidada-smart-tv-estas-desaprovechando-3299157.jpg?tf=1200x' alt='La conexión olvidada de tu Smart TV que estás desaprovechando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias</a></h4>
     <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3299169.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/trucos-efectivos-bateria-smartwatch-dure-mucho-1379141'>Estos son mis trucos más efectivos para que la batería de mi smartwatch dure mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/trucos-efectivos-bateria-smartwatch-dure-mucho-1379141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-trucos-efectivos-bateria-smartwatch-dure-mucho-3299089.jpg?tf=1200x' alt='Estos son mis trucos más efectivos para que la batería de mi smartwatch dure mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541'>¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-mejora-productividad-trabajadores-dice-nuevo-estudio-3299760.jpg?tf=1200x' alt='¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio' />
     </a>
 </div>
 
