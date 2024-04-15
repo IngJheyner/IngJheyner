@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513'>Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias la IA</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513'>Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias la IA' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA' />
     </a>
 </div>
 
