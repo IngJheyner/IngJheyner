@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994'>Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias</a></h4>
+    <a href='https://computerhoy.com/internet/ecoscooting-delivery-aliexpress-contacto-seguimiento-incidencias-1360994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecoscooting-delivery-empresa-reparto-aliexpress-contacto-seguimiento-pedidos-incidencias-3299169.jpg?tf=1200x' alt='Ecoscooting Delivery, la empresa de reparto de AliExpress: contacto, seguimiento de pedidos e incidencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207'>Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-cuesta-mucho-menos-crees-1379567'>El mejor monitor barato es de Xiaomi y cuesta mucho menos de lo que crees</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-cuesta-mucho-menos-crees-1379567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-monitor-a27i-3299794.jpg?tf=1200x' alt='El mejor monitor barato es de Xiaomi y cuesta mucho menos de lo que crees' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541'>¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-mejora-productividad-trabajadores-dice-nuevo-estudio-3299760.jpg?tf=1200x' alt='¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547'>El avance que desafía la gravedad y cambiará las reglas de la levitación magnética</a></h4>
-    <a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/avance-desafia-gravedad-cambiara-reglas-levitacion-magnetica-3299776.jpg?tf=1200x' alt='El avance que desafía la gravedad y cambiará las reglas de la levitación magnética' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513'>Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA' />
     </a>
 </div>
 
