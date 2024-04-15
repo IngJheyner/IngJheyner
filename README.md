@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694'>6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-alerta-indican-movil-ha-sido-hackeado-como-protegerlo-3300021.jpg?tf=1200x' alt='6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-3299972.jpg?tf=1200x' alt='Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684'>Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10</a></h4>
     <a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120'>El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/remake-inmortales-sabe-protagonistas-historia-fecha-estreno-nos-gustaria-ver-3299008.jpg?tf=1200x' alt='El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?' />
     </a>
 </div>
 
