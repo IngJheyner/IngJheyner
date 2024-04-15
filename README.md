@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684'>Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10</a></h4>
+    <a href='https://computerhoy.com/windows/lucha-desesperada-microsoft-intel-acabar-pantallas-muerte-windows-11-10-1379684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Lucha desesperada de Microsoft e Intel para acabar con las pantallas de la muerte en Windows 11 y 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120'>El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/remake-inmortales-protagonistas-historia-fecha-estreno-1379120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/remake-inmortales-sabe-protagonistas-historia-fecha-estreno-nos-gustaria-ver-3299008.jpg?tf=1200x' alt='El remake de Los inmortales, ¿qué se sabe de sus protagonistas, historia, fecha de estreno y qué nos gustaría ver?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203'>La conexión olvidada de tu Smart TV que estás desaprovechando</a></h4>
     <a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-estas-desaprovechando-1379203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conexion-olvidada-smart-tv-estas-desaprovechando-3299157.jpg?tf=1200x' alt='La conexión olvidada de tu Smart TV que estás desaprovechando' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207'>Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/evitar-google-maps-cambie-ruta-1379207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Así consigo evitar el cambio de ruta automático, la función más frustrante de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-cuesta-mucho-menos-crees-1379567'>El mejor monitor barato es de Xiaomi y cuesta mucho menos de lo que crees</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-cuesta-mucho-menos-crees-1379567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-monitor-a27i-3299794.jpg?tf=1200x' alt='El mejor monitor barato es de Xiaomi y cuesta mucho menos de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-efectivos-bateria-smartwatch-dure-mucho-1379141'>Estos son mis trucos más efectivos para que la batería de mi smartwatch dure mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-efectivos-bateria-smartwatch-dure-mucho-1379141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-trucos-efectivos-bateria-smartwatch-dure-mucho-3299089.jpg?tf=1200x' alt='Estos son mis trucos más efectivos para que la batería de mi smartwatch dure mucho más' />
     </a>
 </div>
 
