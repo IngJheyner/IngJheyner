@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465'>La NASA prepara un gran anuncio que podría afectar a su última misión a Marte</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-prepara-gran-anuncio-podria-afecta-ultima-mision-marte-3299549.jpg?tf=1200x' alt='La NASA prepara un gran anuncio que podría afectar a su última misión a Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-32-pulgadas-perfecto-dormitorio-apenas-supera-200-euros-cupon-1379461'>Este televisor QLED de 32 pulgadas es perfecto para tu dormitorio y apenas supera los 200 euros con un cupón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/televisor-qled-32-pulgadas-perfecto-dormitorio-apenas-supera-200-euros-cupon-1379461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smart-tv-chiq-l32qm8g-3299515.jpg?tf=1200x' alt='Este televisor QLED de 32 pulgadas es perfecto para tu dormitorio y apenas supera los 200 euros con un cupón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490'>El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco</a></h4>
     <a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/emulador-game-boy-iphone-3299625.jpg?tf=1200x' alt='El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476'>¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?</a></h4>
     <a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/55g-3299577.jpg?tf=1200x' alt='¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495'>He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkpad-x1-yoga-3298345.jpg?tf=1200x' alt='He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362'>Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible' />
     </a>
 </div>
 
