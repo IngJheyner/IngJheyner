@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541'>¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajadores-1379541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-mejora-productividad-trabajadores-dice-nuevo-estudio-3299760.jpg?tf=1200x' alt='¿ChatGPT mejora la productividad de los trabajadores? Esto dice un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547'>El avance que desafía la gravedad y cambiará las reglas de la levitación magnética</a></h4>
     <a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/avance-desafia-gravedad-cambiara-reglas-levitacion-magnetica-3299776.jpg?tf=1200x' alt='El avance que desafía la gravedad y cambiará las reglas de la levitación magnética' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-esconde-funcion-permite-funcionar-como-teclado-te-ahorraria-horas-trabajo-1379497'>Flipper Zero oculta una función que le permite funcionar como un teclado y te ahorraría horas de trabajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-esconde-funcion-permite-funcionar-como-teclado-te-ahorraria-horas-trabajo-1379497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/flipper-zero-badusb-3299679.jpg?tf=1200x' alt='Flipper Zero oculta una función que le permite funcionar como un teclado y te ahorraría horas de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491'>Este es el monitor definitivo para trabajar y cuesta menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/msi-pro-mp273p-2976234.jpg?tf=1200x' alt='Este es el monitor definitivo para trabajar y cuesta menos de 100 euros' />
     </a>
 </div>
 
