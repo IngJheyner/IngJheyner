@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490'>El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco</a></h4>
+    <a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/emulador-game-boy-iphone-3299625.jpg?tf=1200x' alt='El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-importara-quede-vista-regleta-minimalista-muy-elegante-apenas-cuesta-20-euros-1379458'>No te importará que se quede a la vista: esta regleta minimalista es muy elegante y apenas cuesta 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-importara-quede-vista-regleta-minimalista-muy-elegante-apenas-cuesta-20-euros-1379458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/regleta-brennenstuhl-3299548.jpg?tf=1200x' alt='No te importará que se quede a la vista: esta regleta minimalista es muy elegante y apenas cuesta 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476'>¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/55g-3299577.jpg?tf=1200x' alt='¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495'>He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint</a></h4>
     <a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkpad-x1-yoga-3298345.jpg?tf=1200x' alt='He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362'>Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436'>¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-15-abril-2024-3299507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/rescatan-tres-marineros-perdidos-9-dias-gracias-truco-viejo-naufragos-1379433'>Rescatan a tres marineros perdidos durante nueve días, gracias al truco más viejo de los náufragos </a></h4>
-    <a href='https://computerhoy.com/life/rescatan-tres-marineros-perdidos-9-dias-gracias-truco-viejo-naufragos-1379433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rescatan-tres-marineros-perdidos-durante-nueve-dias-gracias-truco-viejo-naufragos-3299502.jpg?tf=1200x' alt='Rescatan a tres marineros perdidos durante nueve días, gracias al truco más viejo de los náufragos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429'>The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diskmantler-extrae-piezas-tierras-raras-disco-duro-8-segundos-3299498.jpg?tf=1200x' alt='The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos' />
     </a>
 </div>
 
