@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495'>He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-opinion-1378495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkpad-x1-yoga-3298345.jpg?tf=1200x' alt='He probado este Lenovo ThinkPad X1 Yoga, un portátil perfecto para profesionales adictos a Excel y PowerPoint' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362'>Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429'>The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diskmantler-extrae-piezas-tierras-raras-disco-duro-8-segundos-3299498.jpg?tf=1200x' alt='The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420'>Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-imaginas-hay-dentro-maletin-wd-3299466.jpg?tf=1200x' alt='Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras' />
     </a>
 </div>
 
