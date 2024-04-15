@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362'>Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-nuevo-pulsera-actividad-menos-190-euros-cupon-xiaomi-posible-1379362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-m6-pro-analisis-opinion-3266444.jpg?tf=1200x' alt='Un móvil nuevo y una pulsera de actividad por menos de 190 euros: con este cupón de Xiaomi es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436'>¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-15-abril-2024-3299507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420'>Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras</a></h4>
     <a href='https://computerhoy.com/tecnologia/maletin-wd-te-permite-transportar-368-tb-datos-1379420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-imaginas-hay-dentro-maletin-wd-3299466.jpg?tf=1200x' alt='Este maletín de WD te permite transportar 368 TB de datos, y usarlos donde quieras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414'>29 años después, portean miles de aplicaciones modernas y juegos a Windows 95</a></h4>
-    <a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/25-anos-despues-portean-miles-juegos-aplicaciones-modernas-windows-95-3299421.jpg?tf=1200x' alt='29 años después, portean miles de aplicaciones modernas y juegos a Windows 95' />
     </a>
 </div>
 
