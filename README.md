@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547'>El avance que desafía la gravedad y cambiará las reglas de la levitación magnética</a></h4>
+    <a href='https://computerhoy.com/ciencia/levitacion-magnetica-cerca-usarse-todos-objetos-1379547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/avance-desafia-gravedad-cambiara-reglas-levitacion-magnetica-3299776.jpg?tf=1200x' alt='El avance que desafía la gravedad y cambiará las reglas de la levitación magnética' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513'>Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-ve-cerca-nunca-jornada-laboral-tres-dias-1379513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='Bill Gates ve más cerca que nunca la jornada laboral de tres días gracias a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491'>Este es el monitor definitivo para trabajar y cuesta menos de 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/msi-pro-mp273p-2976234.jpg?tf=1200x' alt='Este es el monitor definitivo para trabajar y cuesta menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494'>Smart IPTV se une a Acestream y ya no puede utilizarse en España</a></h4>
-    <a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smartiptv-une-acestream-ya-no-puede-utilizarse-espana-3299619.jpg?tf=1200x' alt='Smart IPTV se une a Acestream y ya no puede utilizarse en España' />
     </a>
 </div>
 
