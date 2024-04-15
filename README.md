@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436'>¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-15-abril-2024-1379436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-15-abril-2024-3299507.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 15 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/rescatan-tres-marineros-perdidos-9-dias-gracias-truco-viejo-naufragos-1379433'>Rescatan a tres marineros perdidos durante nueve días, gracias al truco más viejo de los náufragos </a></h4>
+    <a href='https://computerhoy.com/life/rescatan-tres-marineros-perdidos-9-dias-gracias-truco-viejo-naufragos-1379433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rescatan-tres-marineros-perdidos-durante-nueve-dias-gracias-truco-viejo-naufragos-3299502.jpg?tf=1200x' alt='Rescatan a tres marineros perdidos durante nueve días, gracias al truco más viejo de los náufragos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429'>The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/diskmantler-convierte-disco-duro-piezas-8-segundos-1379429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diskmantler-extrae-piezas-tierras-raras-disco-duro-8-segundos-3299498.jpg?tf=1200x' alt='The DiskMantler extrae las piezas y tierras raras de un disco duro en 8 segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414'>29 años después, portean miles de aplicaciones modernas y juegos a Windows 95</a></h4>
     <a href='https://computerhoy.com/windows/portean-miles-aplicaciones-juegos-windows-95-1379414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/25-anos-despues-portean-miles-juegos-aplicaciones-modernas-windows-95-3299421.jpg?tf=1200x' alt='29 años después, portean miles de aplicaciones modernas y juegos a Windows 95' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/torre-spectra-cube-almacena-75000-tb-datos-cartuchos-cinta-1379406'>Esta torre almacena 75.000 TB de datos, usando una tecnología anterior a los disquetes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/torre-spectra-cube-almacena-75000-tb-datos-cartuchos-cinta-1379406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/torre-almacena-30000-tb-datos-usando-tecnologia-anterior-disquetes-3299401.jpg?tf=1200x' alt='Esta torre almacena 75.000 TB de datos, usando una tecnología anterior a los disquetes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393'>Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción</a></h4>
-    <a href='https://computerhoy.com/android/android-15-te-permitira-gestionar-mejor-seguridad-redes-wifi-nueva-opcion-1379393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/mejorar-senal-wifi.jpg?tf=1200x' alt='Android 15 te permitirá gestionar mejor la seguridad de las redes WiFi con esta nueva opción' />
     </a>
 </div>
 
