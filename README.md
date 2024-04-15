@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuanto-tarda-hacienda-ingresar-devolucion-renta-como-conocer-fecha-exacta-movil-1379502'>Cuánto tarda Hacienda en ingresar la devolución de la Renta y cómo conocer la fecha exacta desde el móvil</a></h4>
+    <a href='https://computerhoy.com/life/cuanto-tarda-hacienda-ingresar-devolucion-renta-como-conocer-fecha-exacta-movil-1379502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/declaracion-renta-2023-3299726.jpg?tf=1200x' alt='Cuánto tarda Hacienda en ingresar la devolución de la Renta y cómo conocer la fecha exacta desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-esconde-funcion-permite-funcionar-como-teclado-te-ahorraria-horas-trabajo-1379497'>Flipper Zero oculta una función que le permite funcionar como un teclado y te ahorraría horas de trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-esconde-funcion-permite-funcionar-como-teclado-te-ahorraria-horas-trabajo-1379497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/flipper-zero-badusb-3299679.jpg?tf=1200x' alt='Flipper Zero oculta una función que le permite funcionar como un teclado y te ahorraría horas de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491'>Este es el monitor definitivo para trabajar y cuesta menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monitor-definitivo-trabajar-cuesta-menos-100-euros-1379491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/msi-pro-mp273p-2976234.jpg?tf=1200x' alt='Este es el monitor definitivo para trabajar y cuesta menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494'>Smart IPTV se une a Acestream y ya no puede utilizarse en España</a></h4>
+    <a href='https://computerhoy.com/tv/smart-iptv-une-acestream-ya-no-puede-utilizarse-espana-1379494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smartiptv-une-acestream-ya-no-puede-utilizarse-espana-3299619.jpg?tf=1200x' alt='Smart IPTV se une a Acestream y ya no puede utilizarse en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465'>La NASA prepara un gran anuncio que podría afectar a su última misión a Marte</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-prepara-gran-anuncio-podria-afectar-ultima-mision-marte-1379465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-prepara-gran-anuncio-podria-afecta-ultima-mision-marte-3299549.jpg?tf=1200x' alt='La NASA prepara un gran anuncio que podría afectar a su última misión a Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/televisor-qled-32-pulgadas-perfecto-dormitorio-apenas-supera-200-euros-cupon-1379461'>Este televisor QLED de 32 pulgadas es perfecto para tu dormitorio y apenas supera los 200 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/televisor-qled-32-pulgadas-perfecto-dormitorio-apenas-supera-200-euros-cupon-1379461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/smart-tv-chiq-l32qm8g-3299515.jpg?tf=1200x' alt='Este televisor QLED de 32 pulgadas es perfecto para tu dormitorio y apenas supera los 200 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490'>El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco</a></h4>
-    <a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-triunfa-app-store-pero-bueno-duro-poco-1379490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/emulador-game-boy-iphone-3299625.jpg?tf=1200x' alt='El primer emulador de Game Boy para iPhone triunfa en la App Store, pero lo bueno duró poco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-importara-quede-vista-regleta-minimalista-muy-elegante-apenas-cuesta-20-euros-1379458'>No te importará que se quede a la vista: esta regleta minimalista es muy elegante y apenas cuesta 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-importara-quede-vista-regleta-minimalista-muy-elegante-apenas-cuesta-20-euros-1379458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/regleta-brennenstuhl-3299548.jpg?tf=1200x' alt='No te importará que se quede a la vista: esta regleta minimalista es muy elegante y apenas cuesta 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476'>¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/55g-mejoras-trae-respecto-5g-1379476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/55g-3299577.jpg?tf=1200x' alt='¿Qué es el 5.5G y qué mejoras trae con respecto al 5G?' />
     </a>
 </div>
 
