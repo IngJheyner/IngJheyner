@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios</a></h4>
+    <a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994'>Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000</a></h4>
     <a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkcentre-nuevos-pc-sobremesa-ia-estrenan-procesadores-amd-ryzen-pro-8000-3300427.jpg?tf=1200x' alt='Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989'>WhatsApp y Android Auto no se llevan nada bien, y es un problema</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='WhatsApp y Android Auto no se llevan nada bien, y es un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603'>George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/george-lucas-ridley-scott-spielberg-estos-han-sido-mayores-fracasos-reyes-hollywood-3299866.jpg?tf=1200x' alt='George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood' />
     </a>
 </div>
 
