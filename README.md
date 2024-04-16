@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729'>Señales que indican que tu tarjeta gráfica está a punto de estropearse</a></h4>
+    <a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-indican-tarjeta-grafica-punto-estropearse-3300042.jpg?tf=1200x' alt='Señales que indican que tu tarjeta gráfica está a punto de estropearse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950'>YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced</a></h4>
     <a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-lanza-cerrar-aplicaciones-terceros-como-revanced-3300362.jpg?tf=1200x' alt='YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801'>Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/programas-office-seran-nueva-victima-falta-soporte-windows-10-partir-2025-3300141.jpg?tf=1200x' alt='Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-android-no-tiene-nada-envidiarle-ipad-cuesta-mitad-1379866'>Esta tablet Android no tiene nada que envidiarle al iPad y cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-android-no-tiene-nada-envidiarle-ipad-cuesta-mitad-1379866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-tab-p11-2nd-gen-3300258.jpg?tf=1200x' alt='Esta tablet Android no tiene nada que envidiarle al iPad y cuesta la mitad' />
     </a>
 </div>
 
