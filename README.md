@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779'>La Policía advierte: no le sucede nada a tu DNI, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-tres-lineas-codigos-hay-parte-atras-dni-3079928.jpg?tf=1200x' alt='La Policía advierte: no le sucede nada a tu DNI, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas</a></h4>
     <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-telegram-3300218.jpg?tf=1200x' alt='¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788'>Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir</a></h4>
     <a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/examen-conducir-3300137.jpg?tf=1200x' alt='Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774'>Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción</a></h4>
-    <a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adobe-ha-lanzado-ai-assistant-editar-documentos-nuevas-funciones-planes-suscripcion-3300091.jpg?tf=1200x' alt='Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción' />
     </a>
 </div>
 
