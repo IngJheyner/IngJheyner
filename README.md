@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735'>Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2176673.jpg?tf=1200x' alt='Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117'>Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno</a></h4>
+    <a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-netflix-roto-sharingful-3297637.jpg?tf=1200x' alt='Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573'>Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sony-wf-c500-3299819.jpg?tf=1200x' alt='Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478'>Döstädning, el curioso método sueco para mantener el orden… incluso después de morir</a></h4>
     <a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dostadning-curioso-metodo-sueco-mantener-orden-incluso-despues-morir-3299573.jpg?tf=1200x' alt='Döstädning, el curioso método sueco para mantener el orden… incluso después de morir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727'>¿Qué santo es hoy? Santoral del martes 16 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-16-abril-2024-3300035.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 16 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719'>Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5</a></h4>
-    <a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ps5-slim-3258769.jpg?tf=1200x' alt='Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5' />
     </a>
 </div>
 
