@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/conexion-internet-no-funciona-trucos-solucionarlo-instante-1379607'>¿Tu conexión a Internet no funciona? 10 trucos para solucionarlo al instante</a></h4>
-    <a href='https://computerhoy.com/redes/conexion-internet-no-funciona-trucos-solucionarlo-instante-1379607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conexion-internet-no-funciona-10-trucos-solucionarlo-instante-3299938.jpg?tf=1200x' alt='¿Tu conexión a Internet no funciona? 10 trucos para solucionarlo al instante' />
+    <h4><a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950'>YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced</a></h4>
+    <a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-lanza-cerrar-aplicaciones-terceros-como-revanced-3300362.jpg?tf=1200x' alt='YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281'>Dos novedades de Google Chrome que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3291616.jpg?tf=1200x' alt='Dos novedades de Google Chrome que te harán la vida más fácil' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913'>Cómo escuchar la radio FM en el móvil sin conexión a Internet</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-escuchar-radio-fm-movil-conexion-internet-3300385.jpg?tf=1200x' alt='Cómo escuchar la radio FM en el móvil sin conexión a Internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574'>¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa</a></h4>
-    <a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/persona-enfadada-3300136.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa' />
+    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/recibes-llamadas-numeros-desconocidos-puedes-saber-quien-te-llamando-3300044.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779'>La Policía advierte: no le sucede nada a tu DNI, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-tres-lineas-codigos-hay-parte-atras-dni-3079928.jpg?tf=1200x' alt='La Policía advierte: no le sucede nada a tu DNI, es una estafa' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801'>Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/programas-office-seran-nueva-victima-falta-soporte-windows-10-partir-2025-3300141.jpg?tf=1200x' alt='Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas</a></h4>
-    <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-telegram-3300218.jpg?tf=1200x' alt='¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-android-no-tiene-nada-envidiarle-ipad-cuesta-mitad-1379866'>Esta tablet Android no tiene nada que envidiarle al iPad y cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-android-no-tiene-nada-envidiarle-ipad-cuesta-mitad-1379866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-tab-p11-2nd-gen-3300258.jpg?tf=1200x' alt='Esta tablet Android no tiene nada que envidiarle al iPad y cuesta la mitad' />
     </a>
 </div>
 
