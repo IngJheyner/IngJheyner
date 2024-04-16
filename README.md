@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603'>George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/george-lucas-ridley-scott-spielberg-estos-han-sido-mayores-fracasos-reyes-hollywood-3299866.jpg?tf=1200x' alt='George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901'>¿Se ve peor Amazon Prime Video? No estás solo y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazon-prime-video-3300422.jpg?tf=1200x' alt='¿Se ve peor Amazon Prime Video? No estás solo y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729'>Señales que indican que tu tarjeta gráfica está a punto de estropearse</a></h4>
     <a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-indican-tarjeta-grafica-punto-estropearse-3300042.jpg?tf=1200x' alt='Señales que indican que tu tarjeta gráfica está a punto de estropearse' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913'>Cómo escuchar la radio FM en el móvil sin conexión a Internet</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-escuchar-radio-fm-movil-conexion-internet-3300385.jpg?tf=1200x' alt='Cómo escuchar la radio FM en el móvil sin conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144'>¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quien-me-llama-webs-saber-quien-pertenece-numero-telefono-1255144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/recibes-llamadas-numeros-desconocidos-puedes-saber-quien-te-llamando-3300044.jpg?tf=1200x' alt='¿Recibes llamadas de números desconocidos? Así puedes saber quién te está llamando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801'>Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-office-sigue-windows-10-quedara-soporte-2025-1379801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/programas-office-seran-nueva-victima-falta-soporte-windows-10-partir-2025-3300141.jpg?tf=1200x' alt='Varias versiones de Office siguen la estela de Windows 10 y se quedarán sin soporte en 2025' />
     </a>
 </div>
 
