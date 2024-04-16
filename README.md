@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573'>Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sony-wf-c500-3299819.jpg?tf=1200x' alt='Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075'>Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar</a></h4>
+    <a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cantidad-maxima-dinero-efectivo-puedes-tener-casa-declarar-3298929.jpg?tf=1200x' alt='Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478'>Döstädning, el curioso método sueco para mantener el orden… incluso después de morir</a></h4>
     <a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dostadning-curioso-metodo-sueco-mantener-orden-incluso-despues-morir-3299573.jpg?tf=1200x' alt='Döstädning, el curioso método sueco para mantener el orden… incluso después de morir' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719'>Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5</a></h4>
     <a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ps5-slim-3258769.jpg?tf=1200x' alt='Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715'>Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-estrena-funciones-utiles-planificar-rutas-desbloquear-movil-3300029.jpg?tf=1200x' alt='Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694'>6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-alerta-indican-movil-ha-sido-hackeado-como-protegerlo-3300021.jpg?tf=1200x' alt='6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo' />
     </a>
 </div>
 
