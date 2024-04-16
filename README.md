@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719'>Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5</a></h4>
+    <a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ps5-slim-3258769.jpg?tf=1200x' alt='Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715'>Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/direcciones-visibles-google-maps-son-como-activan-movil-1379715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-estrena-funciones-utiles-planificar-rutas-desbloquear-movil-3300029.jpg?tf=1200x' alt='Google Maps estrena una de las funciones más útiles para planificar rutas sin desbloquear el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686'>Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca</a></h4>
     <a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-pone-venta-nuevos-moviles-huawei-nova-12-disenados-selfies-finos-nunca-3299934.jpg?tf=1200x' alt='Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685'>Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/usuarios-gmail-estan-perdiendo-cuentas-incluso-autenticacion-dos-factores-activa-1379685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-gmail-3299975.jpg?tf=1200x' alt='Usuarios de Gmail están perdiendo sus cuentas incluso con la autenticación de dos factores activa' />
     </a>
 </div>
 
