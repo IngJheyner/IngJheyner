@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727'>¿Qué santo es hoy? Santoral del martes 16 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-16-abril-2024-3300035.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 16 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719'>Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5</a></h4>
     <a href='https://computerhoy.com/gaming/todas-especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ps5-slim-3258769.jpg?tf=1200x' alt='Todas las especificaciones de PS5 Pro filtradas, ya sabemos en cuánto mejora a PS5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-3299972.jpg?tf=1200x' alt='Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686'>Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-nova-12-caracteristicas-precio-1379686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-pone-venta-nuevos-moviles-huawei-nova-12-disenados-selfies-finos-nunca-3299934.jpg?tf=1200x' alt='Todo sobre los nuevos móviles Huawei Nova 12 diseñados para los selfies, y más finos que nunca' />
     </a>
 </div>
 
