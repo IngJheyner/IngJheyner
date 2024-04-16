@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478'>Döstädning, el curioso método sueco para mantener el orden… incluso después de morir</a></h4>
+    <a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dostadning-curioso-metodo-sueco-mantener-orden-incluso-despues-morir-3299573.jpg?tf=1200x' alt='Döstädning, el curioso método sueco para mantener el orden… incluso después de morir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727'>¿Qué santo es hoy? Santoral del martes 16 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-16-abril-2024-1379727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-16-abril-2024-3300035.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 16 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694'>6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/6-senales-indican-movil-ha-sido-hackeado-como-protegerlo-1379694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-alerta-indican-movil-ha-sido-hackeado-como-protegerlo-3300021.jpg?tf=1200x' alt='6 señales de alerta que indican que tu móvil ha sido hackeado y cómo protegerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reviven-mitico-kitt-coche-fantastico-raspberry-pi-chatgpt-3299972.jpg?tf=1200x' alt='Reviven al mítico KITT de El coche fantástico con una Raspberry Pi y ChatGPT' />
     </a>
 </div>
 
