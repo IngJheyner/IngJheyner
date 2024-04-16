@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751'>Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758'>El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-microsoft-3300080.jpg?tf=1200x' alt='El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735'>Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos</a></h4>
     <a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2176673.jpg?tf=1200x' alt='Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117'>Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno</a></h4>
-    <a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-netflix-roto-sharingful-3297637.jpg?tf=1200x' alt='Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno' />
     </a>
 </div>
 
