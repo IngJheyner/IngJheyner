@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994'>Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000</a></h4>
+    <a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkcentre-nuevos-pc-sobremesa-ia-estrenan-procesadores-amd-ryzen-pro-8000-3300427.jpg?tf=1200x' alt='Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-gran-cantidad-gente-cae-estafa-aparentemente-absurda-1379991'>La Guardia Civil alerta sobre la gran cantidad de gente que cae en esta estafa aparentemente absurda</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-gran-cantidad-gente-cae-estafa-aparentemente-absurda-1379991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-internet-3300459.jpg?tf=1200x' alt='La Guardia Civil alerta sobre la gran cantidad de gente que cae en esta estafa aparentemente absurda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989'>WhatsApp y Android Auto no se llevan nada bien, y es un problema</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='WhatsApp y Android Auto no se llevan nada bien, y es un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603'>George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood</a></h4>
     <a href='https://computerhoy.com/entretenimiento/george-lucas-ridley-scott-spielberg-mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/george-lucas-ridley-scott-spielberg-estos-han-sido-mayores-fracasos-reyes-hollywood-3299866.jpg?tf=1200x' alt='George Lucas, Ridley Scott, Spielberg… los mayores fracasos de los reyes de Hollywood' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901'>¿Se ve peor Amazon Prime Video? No estás solo y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prime-video-elimina-dolby-vision-dolby-atmos-anuncios-1378901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazon-prime-video-3300422.jpg?tf=1200x' alt='¿Se ve peor Amazon Prime Video? No estás solo y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729'>Señales que indican que tu tarjeta gráfica está a punto de estropearse</a></h4>
-    <a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-estropearse-1379729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-indican-tarjeta-grafica-punto-estropearse-3300042.jpg?tf=1200x' alt='Señales que indican que tu tarjeta gráfica está a punto de estropearse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950'>YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced</a></h4>
-    <a href='https://computerhoy.com/google/youtube-cierra-aplicaciones-terceros-como-revanced-1379950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-lanza-cerrar-aplicaciones-terceros-como-revanced-3300362.jpg?tf=1200x' alt='YouTube ha comenzado a bloquear aplicaciones de terceros como ReVanced' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913'>Cómo escuchar la radio FM en el móvil sin conexión a Internet</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-escuchar-radio-fm-movil-conexion-internet-1379913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-escuchar-radio-fm-movil-conexion-internet-3300385.jpg?tf=1200x' alt='Cómo escuchar la radio FM en el móvil sin conexión a Internet' />
     </a>
 </div>
 
