@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758'>El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-microsoft-3300080.jpg?tf=1200x' alt='El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/amazon-rebaja-fire-tv-stick-precio-prime-day-1379757'>Amazon rebaja los Fire TV Stick a precio de Prime Day</a></h4>
+    <a href='https://computerhoy.com/audio/amazon-rebaja-fire-tv-stick-precio-prime-day-1379757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-fire-tv-stick-4k-max-3280977.jpg?tf=1200x' alt='Amazon rebaja los Fire TV Stick a precio de Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750'>Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe</a></h4>
     <a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-3300074.jpg?tf=1200x' alt='Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117'>Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno</a></h4>
     <a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/portada-netflix-roto-sharingful-3297637.jpg?tf=1200x' alt='Las plataformas de streaming no paran de subir precios y no dejan compartir contraseñas: esta web creada en España quiere ponerles freno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573'>Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-auriculares-bluetooth-sony-arrasan-amazon-true-wireless-resistentes-agua-mitad-precio-1379573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sony-wf-c500-3299819.jpg?tf=1200x' alt='Estos auriculares Bluetooth de Sony arrasan en Amazon: True Wireless, resistentes al agua y a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075'>Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar</a></h4>
-    <a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cantidad-maxima-dinero-efectivo-puedes-tener-casa-declarar-3298929.jpg?tf=1200x' alt='Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar' />
     </a>
 </div>
 
