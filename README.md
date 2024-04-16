@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas</a></h4>
+    <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-telegram-3300218.jpg?tf=1200x' alt='¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/motorola-edge-50-edge-50-pro-edge-50-ultra-caracteristicas-precio-lanzamiento-1379768'>Motorola renueva su familia Edge 50 a golpe de estética, IA y calidad</a></h4>
+    <a href='https://computerhoy.com/moviles/motorola-edge-50-edge-50-pro-edge-50-ultra-caracteristicas-precio-lanzamiento-1379768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motorola-edge-50-ultra-3300108.jpg?tf=1200x' alt='Motorola renueva su familia Edge 50 a golpe de estética, IA y calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048'>He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motorola-edge-50-pro-3299849.jpg?tf=1200x' alt='He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788'>Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir</a></h4>
     <a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/examen-conducir-3300137.jpg?tf=1200x' alt='Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774'>Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción</a></h4>
     <a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adobe-ha-lanzado-ai-assistant-editar-documentos-nuevas-funciones-planes-suscripcion-3300091.jpg?tf=1200x' alt='Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-pixel-8-mejor-experiencia-android-cuesta-ahora-200-euros-menos-1379744'>Google Pixel 8: la mejor experiencia Android cuesta ahora 200 euros menos</a></h4>
-    <a href='https://computerhoy.com/android/google-pixel-8-mejor-experiencia-android-cuesta-ahora-200-euros-menos-1379744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191794.jpg?tf=1200x' alt='Google Pixel 8: la mejor experiencia Android cuesta ahora 200 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751'>Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758'>El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-microsoft-3300080.jpg?tf=1200x' alt='El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado' />
     </a>
 </div>
 
