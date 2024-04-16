@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/conexion-internet-no-funciona-trucos-solucionarlo-instante-1379607'>¿Tu conexión a Internet no funciona? 10 trucos para solucionarlo al instante</a></h4>
+    <a href='https://computerhoy.com/redes/conexion-internet-no-funciona-trucos-solucionarlo-instante-1379607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conexion-internet-no-funciona-10-trucos-solucionarlo-instante-3299938.jpg?tf=1200x' alt='¿Tu conexión a Internet no funciona? 10 trucos para solucionarlo al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281'>Dos novedades de Google Chrome que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-son-todos-cambios-avecinan-google-chrome-1379281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-chrome-3291616.jpg?tf=1200x' alt='Dos novedades de Google Chrome que te harán la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574'>¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa</a></h4>
     <a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/persona-enfadada-3300136.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661'>¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas</a></h4>
     <a href='https://computerhoy.com/apps/tan-seguro-telegram-6-riesgos-te-expones-utilizar-app-1378661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/peligros-telegram-3300218.jpg?tf=1200x' alt='¿Usas Telegram? Estos son los 6 mayores peligros a los que te enfrentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/motorola-edge-50-edge-50-pro-edge-50-ultra-caracteristicas-precio-lanzamiento-1379768'>Motorola renueva su familia Edge 50 a golpe de estética, IA y calidad</a></h4>
-    <a href='https://computerhoy.com/moviles/motorola-edge-50-edge-50-pro-edge-50-ultra-caracteristicas-precio-lanzamiento-1379768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motorola-edge-50-ultra-3300108.jpg?tf=1200x' alt='Motorola renueva su familia Edge 50 a golpe de estética, IA y calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048'>He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motorola-edge-50-pro-3299849.jpg?tf=1200x' alt='He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia' />
     </a>
 </div>
 
