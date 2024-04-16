@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574'>¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa</a></h4>
+    <a href='https://computerhoy.com/life/te-enfadas-frecuencia-di-adios-ira-costumbre-japonesa-1379574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/persona-enfadada-3300136.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Di adiós a la ira con esta sencilla costumbre japonesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779'>La Policía advierte: no le sucede nada a tu DNI, es una estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-no-sucede-nada-dni-estafa-1379779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/son-tres-lineas-codigos-hay-parte-atras-dni-3079928.jpg?tf=1200x' alt='La Policía advierte: no le sucede nada a tu DNI, es una estafa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048'>He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-motorola-edge-50-pro-gama-alta-ia-300-euros-menos-competencia-1379048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motorola-edge-50-pro-3299849.jpg?tf=1200x' alt='He probado el Motorola Edge 50 Pro, un gama alta con IA cuyo precio hará que te decantes por él: cuesta 300 euros menos que la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788'>Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir</a></h4>
-    <a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/examen-conducir-3300137.jpg?tf=1200x' alt='Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir' />
     </a>
 </div>
 
