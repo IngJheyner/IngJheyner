@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788'>Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir</a></h4>
+    <a href='https://computerhoy.com/apps/resultados-dgt-como-saber-movil-has-aprobado-examen-conducir-1379788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/examen-conducir-3300137.jpg?tf=1200x' alt='Resultados DGT: cómo saber desde el móvil si has aprobado el examen de conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774'>Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción</a></h4>
+    <a href='https://computerhoy.com/apps/opcion-ai-assistant-adobe-editar-documentos-1379774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adobe-ha-lanzado-ai-assistant-editar-documentos-nuevas-funciones-planes-suscripcion-3300091.jpg?tf=1200x' alt='Adobe ha lanzado AI Assistant para editar documentos: nuevas funciones y planes de suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-pixel-8-mejor-experiencia-android-cuesta-ahora-200-euros-menos-1379744'>Google Pixel 8: la mejor experiencia Android cuesta ahora 200 euros menos</a></h4>
+    <a href='https://computerhoy.com/android/google-pixel-8-mejor-experiencia-android-cuesta-ahora-200-euros-menos-1379744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191794.jpg?tf=1200x' alt='Google Pixel 8: la mejor experiencia Android cuesta ahora 200 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751'>Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-empieza-mostrar-anuncios-menu-inicio-1379751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Comienza la pesadilla: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758'>El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-continua-impunidad-pese-fallos-ciberseguridad-podrian-llegar-fin-1379758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-microsoft-3300080.jpg?tf=1200x' alt='El imperio de Microsoft tambalea ante los continuos fallos en ciberseguridad, pero tú saldrías beneficiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/amazon-rebaja-fire-tv-stick-precio-prime-day-1379757'>Amazon rebaja los Fire TV Stick a precio de Prime Day</a></h4>
-    <a href='https://computerhoy.com/audio/amazon-rebaja-fire-tv-stick-precio-prime-day-1379757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/amazon-fire-tv-stick-4k-max-3280977.jpg?tf=1200x' alt='Amazon rebaja los Fire TV Stick a precio de Prime Day' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750'>Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-3300074.jpg?tf=1200x' alt='Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735'>Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2176673.jpg?tf=1200x' alt='Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos' />
     </a>
 </div>
 
