@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750'>Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe</a></h4>
+    <a href='https://computerhoy.com/tecnologia/grandes-avances-pero-ia-sigue-superar-capacidades-humanas-prestigioso-informe-1379750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-3300074.jpg?tf=1200x' alt='Grandes avances e inversiones millonarias, pero la IA sigue sin superar las capacidades humanas, según un prestigioso informe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735'>Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos</a></h4>
     <a href='https://computerhoy.com/motor/tesla-despide-14000-trabajadores-1379735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/elon-musk-2176673.jpg?tf=1200x' alt='Llegan las vacas flacas: Tesla despide a 14.000 trabajadores, incluyendo importantes ejecutivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075'>Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar</a></h4>
     <a href='https://computerhoy.com/life/cantidad-maxima-dinero-efectivo-casa-1379075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cantidad-maxima-dinero-efectivo-puedes-tener-casa-declarar-3298929.jpg?tf=1200x' alt='Esta es la cantidad máxima de dinero en efectivo que puedes tener en casa sin declarar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478'>Döstädning, el curioso método sueco para mantener el orden… incluso después de morir</a></h4>
-    <a href='https://computerhoy.com/life/que-es-metodo-dostadning-1379478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dostadning-curioso-metodo-sueco-mantener-orden-incluso-despues-morir-3299573.jpg?tf=1200x' alt='Döstädning, el curioso método sueco para mantener el orden… incluso después de morir' />
     </a>
 </div>
 
