@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209'>Apple anuncia que va a abrir plantas solares en España</a></h4>
+    <a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-va-invertir-energia-solar-espana-3300786.jpg?tf=1200x' alt='Apple anuncia que va a abrir plantas solares en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/que-es-underclock-cpu-1379992'>Qué es hacer underclock a la CPU y por qué deberías plantearte hacerlo</a></h4>
+    <a href='https://computerhoy.com/pc/que-es-underclock-cpu-1379992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/procesador-cpu-3300701.jpg?tf=1200x' alt='Qué es hacer underclock a la CPU y por qué deberías plantearte hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080'>¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-3300585.jpg?tf=1200x' alt='¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087'>Elon Musk cobrará una tarifa a los nuevos usuarios de X</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-plantea-nueva-medida-luchar-spam-x-cobrara-tarifa-nuevos-usuarios-3300604.jpg?tf=1200x' alt='Elon Musk cobrará una tarifa a los nuevos usuarios de X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubren-secreto-baterias-litio-podria-duplicar-vida-util-1380119'>Descubren un secreto de las baterías de litio que podría duplicar su vida útil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubren-secreto-baterias-litio-podria-duplicar-vida-util-1380119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/secreto-baterias-iones-litio-estaba-algoritmo-carga-puede-duplicar-vida-util-3300643.jpg?tf=1200x' alt='Descubren un secreto de las baterías de litio que podría duplicar su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081'>Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/perplexity-ai-3300670.jpg?tf=1200x' alt='Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google' />
     </a>
 </div>
 
