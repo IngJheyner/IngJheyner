@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292'>Google Maps va a eliminar una función que probablemente no sabías que existía</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-3300977.jpg?tf=1200x' alt='Google Maps va a eliminar una función que probablemente no sabías que existía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294'>Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store</a></h4>
     <a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-puedes-instalar-altstore-pal-primera-tienda-alternativa-app-store-3300941.jpg?tf=1200x' alt='Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-premiadas-todos-tiempos-1380191'>Estas son las 5 películas de ciencia ficción más premiadas de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-premiadas-todos-tiempos-1380191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-5-peliculas-ciencia-ficcion-premiadas-todos-tiempos-3300761.jpg?tf=1200x' alt='Estas son las 5 películas de ciencia ficción más premiadas de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/40-dias-autonomia-mejores-relojes-wearos-puedes-comprar-cuesta-menos-imaginas-1380271'>Hasta 40 días de autonomía: este smarwatch tiene WearOS y cuesta mucho menos de lo que imaginas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/40-dias-autonomia-mejores-relojes-wearos-puedes-comprar-cuesta-menos-imaginas-1380271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Hasta 40 días de autonomía: este smarwatch tiene WearOS y cuesta mucho menos de lo que imaginas' />
     </a>
 </div>
 
