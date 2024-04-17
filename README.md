@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080'>¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-3300585.jpg?tf=1200x' alt='¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147'>HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"</a></h4>
     <a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boring-phone-3300707.jpg?tf=1200x' alt='HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081'>Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/perplexity-ai-3300670.jpg?tf=1200x' alt='Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054'>Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-pad-6-3300550.jpg?tf=1200x' alt='Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada' />
     </a>
 </div>
 
