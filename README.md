@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294'>Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store</a></h4>
+    <a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-puedes-instalar-altstore-pal-primera-tienda-alternativa-app-store-3300941.jpg?tf=1200x' alt='Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293'>TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3300962.jpg?tf=1200x' alt='TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-reacciona-empuje-iptv-baja-precio-ver-futbol-1380290'>Movistar reacciona al empuje de las IPTV y baja el precio por ver el fútbol</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-reacciona-empuje-iptv-baja-precio-ver-futbol-1380290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oferta-movistar-3300960.jpg?tf=1200x' alt='Movistar reacciona al empuje de las IPTV y baja el precio por ver el fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-premiadas-todos-tiempos-1380191'>Estas son las 5 películas de ciencia ficción más premiadas de todos los tiempos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-ciencia-ficcion-premiadas-todos-tiempos-1380191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-5-peliculas-ciencia-ficcion-premiadas-todos-tiempos-3300761.jpg?tf=1200x' alt='Estas son las 5 películas de ciencia ficción más premiadas de todos los tiempos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/40-dias-autonomia-mejores-relojes-wearos-puedes-comprar-cuesta-menos-imaginas-1380271'>Hasta 40 días de autonomía: este smarwatch tiene WearOS y cuesta mucho menos de lo que imaginas</a></h4>
     <a href='https://computerhoy.com/tecnologia/40-dias-autonomia-mejores-relojes-wearos-puedes-comprar-cuesta-menos-imaginas-1380271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/ticwatch-pro-5-3224242.jpg?tf=1200x' alt='Hasta 40 días de autonomía: este smarwatch tiene WearOS y cuesta mucho menos de lo que imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/comprar-memoria-ram-pc-1380022'>Todo lo que deberías tener en cuenta antes de comprar memoria RAM para tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/comprar-memoria-ram-pc-1380022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/caracteristicas-deberias-tener-cuenta-comprar-memoria-ram-pc-3300500.jpg?tf=1200x' alt='Todo lo que deberías tener en cuenta antes de comprar memoria RAM para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063'>Cómo grabar la pantalla en Windows 10 sin programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-grabar-pantalla-windows-11-programas-3300515.jpg?tf=1200x' alt='Cómo grabar la pantalla en Windows 10 sin programas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/conocia-como-oro-tontos-ahora-podria-ser-incluso-valioso-1379842'>Se conocía como "el oro de los tontos" y ahora podría ser incluso más valioso</a></h4>
-    <a href='https://computerhoy.com/industria/conocia-como-oro-tontos-ahora-podria-ser-incluso-valioso-1379842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/material-conocia-como-oro-tontos-ahora-incluso-valioso-3300525.jpg?tf=1200x' alt='Se conocía como "el oro de los tontos" y ahora podría ser incluso más valioso' />
     </a>
 </div>
 
