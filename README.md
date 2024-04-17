@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640'>El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio </a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a34-5g-3299900.jpg?tf=1200x' alt='El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio ' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063'>Cómo grabar la pantalla en Windows 10 sin programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-grabar-pantalla-windows-11-programas-3300515.jpg?tf=1200x' alt='Cómo grabar la pantalla en Windows 10 sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/conocia-como-oro-tontos-ahora-podria-ser-incluso-valioso-1379842'>Se conocía como "el oro de los tontos" y ahora podría ser incluso más valioso</a></h4>
+    <a href='https://computerhoy.com/industria/conocia-como-oro-tontos-ahora-podria-ser-incluso-valioso-1379842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/material-conocia-como-oro-tontos-ahora-incluso-valioso-3300525.jpg?tf=1200x' alt='Se conocía como "el oro de los tontos" y ahora podría ser incluso más valioso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/sony-bravia-9-bravia-8-bravia-7-caracteriscitas-smart-tv-mini-led-1379874'>Sony renueva su gama de TV con Bravia 9, 8 y 7: mucho más brillantes y apuesta absoluta por el Mini LED</a></h4>
+    <a href='https://computerhoy.com/tv/sony-bravia-9-bravia-8-bravia-7-caracteriscitas-smart-tv-mini-led-1379874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sony-bravia-9-xr90-3300285.jpg?tf=1200x' alt='Sony renueva su gama de TV con Bravia 9, 8 y 7: mucho más brillantes y apuesta absoluta por el Mini LED' />
     </a>
 </div>
 
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209'>Apple anuncia que va a abrir plantas solares en España</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-va-invertir-energia-solar-espana-3300786.jpg?tf=1200x' alt='Apple anuncia que va a abrir plantas solares en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/que-es-underclock-cpu-1379992'>Qué es hacer underclock a la CPU y por qué deberías plantearte hacerlo</a></h4>
-    <a href='https://computerhoy.com/pc/que-es-underclock-cpu-1379992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/procesador-cpu-3300701.jpg?tf=1200x' alt='Qué es hacer underclock a la CPU y por qué deberías plantearte hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080'>¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-3300585.jpg?tf=1200x' alt='¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640'>El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio </a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a34-5g-3299900.jpg?tf=1200x' alt='El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio ' />
     </a>
 </div>
 
