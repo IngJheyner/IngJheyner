@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087'>Elon Musk cobrará una tarifa a los nuevos usuarios de X</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-plantea-nueva-medida-luchar-spam-x-cobrara-tarifa-nuevos-usuarios-3300604.jpg?tf=1200x' alt='Elon Musk cobrará una tarifa a los nuevos usuarios de X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/descubren-secreto-baterias-litio-podria-duplicar-vida-util-1380119'>Descubren un secreto de las baterías de litio que podría duplicar su vida útil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubren-secreto-baterias-litio-podria-duplicar-vida-util-1380119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/secreto-baterias-iones-litio-estaba-algoritmo-carga-puede-duplicar-vida-util-3300643.jpg?tf=1200x' alt='Descubren un secreto de las baterías de litio que podría duplicar su vida útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081'>Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/perplexity-ai-como-funciona-trucos-buscador-ia-compite-chatgpt-google-1380081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/perplexity-ai-3300670.jpg?tf=1200x' alt='Perplexity AI: qué es, cómo funciona y trucos del buscador con IA que compite con ChatGPT y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054'>Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-pad-6-3300550.jpg?tf=1200x' alt='Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122'>Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kindle-papewrwhite-3300548.jpg?tf=1200x' alt='Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado</a></h4>
-    <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-televisor-vulnerabilidad-3300617.jpg?tf=1200x' alt='¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/becas-mec-2024-2025-requisitos-plazos-como-solicitarla-1380066'>Becas MEC 2024-2025: qué es, requisitos, plazos y cómo solicitarla</a></h4>
-    <a href='https://computerhoy.com/life/becas-mec-2024-2025-requisitos-plazos-como-solicitarla-1380066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudiantes-universitarios-3300595.jpg?tf=1200x' alt='Becas MEC 2024-2025: qué es, requisitos, plazos y cómo solicitarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061'>WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-3300553.jpg?tf=1200x' alt='WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos' />
     </a>
 </div>
 
