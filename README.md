@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640'>El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio </a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-a35-gran-movil-pero-modelo-anterior-no-queda-atras-ahora-mitad-precio-1379640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-galaxy-a34-5g-3299900.jpg?tf=1200x' alt='El Samsung Galaxy A35 es un gran móvil, pero el modelo anterior no se queda atrás y ahora está a mitad de precio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-webs-apps-gratis-cortar-audio-editar-canciones-1380024'>Las mejores webs y apps gratis para cortar audio y editar canciones</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-webs-apps-gratis-cortar-audio-editar-canciones-1380024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-webs-apps-gratis-cortar-audio-editar-canciones-3300510.jpg?tf=1200x' alt='Las mejores webs y apps gratis para cortar audio y editar canciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209'>Apple anuncia que va a abrir plantas solares en España</a></h4>
     <a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-va-invertir-energia-solar-espana-3300786.jpg?tf=1200x' alt='Apple anuncia que va a abrir plantas solares en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080'>¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/life/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-1380080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/productivo-teletrabajo-ir-oficina-revela-nuevo-estudio-3300585.jpg?tf=1200x' alt='¿Es más productivo el teletrabajo o ir a la oficina? Esto revela un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147'>HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"</a></h4>
-    <a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boring-phone-3300707.jpg?tf=1200x' alt='HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087'>Elon Musk cobrará una tarifa a los nuevos usuarios de X</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-plantea-nueva-medida-luchar-spam-x-cobrara-tarifa-nuevos-usuarios-3300604.jpg?tf=1200x' alt='Elon Musk cobrará una tarifa a los nuevos usuarios de X' />
     </a>
 </div>
 
