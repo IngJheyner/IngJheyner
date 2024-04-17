@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/malas-noticias-streaming-salas-cine-1379868'>Malas noticias para el streaming y las salas de cine en 2024: ¿quién lo tiene más difícil para sobrevivir?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/malas-noticias-streaming-salas-cine-1379868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/streaming-cine-3300401.jpg?tf=1200x' alt='Malas noticias para el streaming y las salas de cine en 2024: ¿quién lo tiene más difícil para sobrevivir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-asus-zenfone-11-ultra-ia-me-ha-encantado-pero-no-unico-1378295'>He probado el Asus Zenfone 11 Ultra, un móvil único que me ha permitido transcribir y traducir llamadas al instante con IA</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-asus-zenfone-11-ultra-ia-me-ha-encantado-pero-no-unico-1378295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298608.jpg?tf=1200x' alt='He probado el Asus Zenfone 11 Ultra, un móvil único que me ha permitido transcribir y traducir llamadas al instante con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/componentes-no-merece-pena-comprar-mejorar-pc-tirar-dinero-1379726'>Componentes que no merece la pena comprar para mejorar tu PC, es tirar el dinero</a></h4>
+    <a href='https://computerhoy.com/pc/componentes-no-merece-pena-comprar-mejorar-pc-tirar-dinero-1379726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-componentes-no-debes-comprar-actualizar-pc-podrias-desperdiciar-mucho-dinero-3300040.jpg?tf=1200x' alt='Componentes que no merece la pena comprar para mejorar tu PC, es tirar el dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-estos-son-principales-modelos-hay-equivalente-raspberry-pi-1379837'>Orange Pi: estos son los principales modelos que hay y su equivalente en Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-estos-son-principales-modelos-hay-equivalente-raspberry-pi-1379837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Orange Pi: estos son los principales modelos que hay y su equivalente en Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-funciona-twitchtracker-herramienta-twitch-1379721'>Qué es y cómo funciona TwitchTracker: la herramienta online para crecer y triunfar en Twitch</a></h4>
     <a href='https://computerhoy.com/internet/como-funciona-twitchtracker-herramienta-twitch-1379721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-twitchtracker-herramienta-online-crecer-mejorar-canal-twitch-3300038.jpg?tf=1200x' alt='Qué es y cómo funciona TwitchTracker: la herramienta online para crecer y triunfar en Twitch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibio-venta-hace-casi-15-anos-1379822'>Reaparece en eBay un prototipo único de un móvil que se prohibió su venta hace casi 15 años</a></h4>
-    <a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibio-venta-hace-casi-15-anos-1379822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reaparece-ebay-prototipo-unico-movil-prohibio-venta-hace-unas-decadas-3300190.jpg?tf=1200x' alt='Reaparece en eBay un prototipo único de un móvil que se prohibió su venta hace casi 15 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020'>Significado de las banderas del mundo: formas, patrones y colores</a></h4>
-    <a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significado-banderas-mundo-formas-patrones-colores-3300499.jpg?tf=1200x' alt='Significado de las banderas del mundo: formas, patrones y colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-17-abril-2024-1380021'>¿Qué santo es hoy? Santoral del miércoles 17 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-17-abril-2024-1380021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-17-abril-2024-3300495.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 17 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios</a></h4>
-    <a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios' />
     </a>
 </div>
 
