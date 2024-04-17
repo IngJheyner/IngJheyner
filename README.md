@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020'>Significado de las banderas del mundo: formas, patrones y colores</a></h4>
+    <a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significado-banderas-mundo-formas-patrones-colores-3300499.jpg?tf=1200x' alt='Significado de las banderas del mundo: formas, patrones y colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-17-abril-2024-1380021'>¿Qué santo es hoy? Santoral del miércoles 17 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-17-abril-2024-1380021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-17-abril-2024-3300495.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 17 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios</a></h4>
     <a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico?</a></h4>
     <a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-gran-cantidad-gente-cae-estafa-aparentemente-absurda-1379991'>La Guardia Civil alerta sobre la gran cantidad de gente que cae en esta estafa aparentemente absurda</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-gran-cantidad-gente-cae-estafa-aparentemente-absurda-1379991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-internet-3300459.jpg?tf=1200x' alt='La Guardia Civil alerta sobre la gran cantidad de gente que cae en esta estafa aparentemente absurda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989'>WhatsApp y Android Auto no se llevan nada bien, y es un problema</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-android-auto-no-llevan-nada-bien-problema-1379989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='WhatsApp y Android Auto no se llevan nada bien, y es un problema' />
     </a>
 </div>
 
