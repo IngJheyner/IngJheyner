@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313'>Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-humanoide-atlas-boston-dynamics-1380320'>El nuevo robot humanoide Atlas de Boston Dynamics, es carne de pesadillas</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-robot-humanoide-atlas-boston-dynamics-1380320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1713384514829-3300976.jpg?tf=1200x' alt='El nuevo robot humanoide Atlas de Boston Dynamics, es carne de pesadillas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293'>TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3300962.jpg?tf=1200x' alt='TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-reacciona-empuje-iptv-baja-precio-ver-futbol-1380290'>Movistar reacciona al empuje de las IPTV y baja el precio por ver el fútbol</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-reacciona-empuje-iptv-baja-precio-ver-futbol-1380290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oferta-movistar-3300960.jpg?tf=1200x' alt='Movistar reacciona al empuje de las IPTV y baja el precio por ver el fútbol' />
     </a>
 </div>
 
