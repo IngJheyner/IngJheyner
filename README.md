@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-televisor-vulnerabilidad-3300617.jpg?tf=1200x' alt='¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/becas-mec-2024-2025-requisitos-plazos-como-solicitarla-1380066'>Becas MEC 2024-2025: qué es, requisitos, plazos y cómo solicitarla</a></h4>
+    <a href='https://computerhoy.com/life/becas-mec-2024-2025-requisitos-plazos-como-solicitarla-1380066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudiantes-universitarios-3300595.jpg?tf=1200x' alt='Becas MEC 2024-2025: qué es, requisitos, plazos y cómo solicitarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061'>WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-3300553.jpg?tf=1200x' alt='WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114'>Cuando zarpa el amor pero ganas seguidores: ¿merece la pena romper en directo en Tiktok?</a></h4>
     <a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rupturas-directo-tiktok-3300596.jpg?tf=1200x' alt='Cuando zarpa el amor pero ganas seguidores: ¿merece la pena romper en directo en Tiktok?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/potente-ligero-pantalla-ips-16-pulgadas-portatil-trabajar-definitivo-lg-1379914'>Potente, ligero y con pantalla IPS de 16 pulgadas: este es el portátil para trabajar definitivo, y es de LG</a></h4>
     <a href='https://computerhoy.com/tecnologia/potente-ligero-pantalla-ips-16-pulgadas-portatil-trabajar-definitivo-lg-1379914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-ultra-3300325.jpg?tf=1200x' alt='Potente, ligero y con pantalla IPS de 16 pulgadas: este es el portátil para trabajar definitivo, y es de LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-rapida-eficiente-no-volatil-cientificos-paso-alcanzar-santo-grial-tecnologico-1380053'>¿Una memoria rápida, eficiente y no volátil? Científicos a un paso de alcanzar este Santo Grial tecnológico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-rapida-eficiente-no-volatil-cientificos-paso-alcanzar-santo-grial-tecnologico-1380053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-dispositivos-3300552.jpg?tf=1200x' alt='¿Una memoria rápida, eficiente y no volátil? Científicos a un paso de alcanzar este Santo Grial tecnológico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-sigue-pasos-microsoft-integrara-gemini-barra-direcciones-chrome-1380039'>Google sigue los pasos de Microsoft e integrará Gemini en la barra de direcciones de Chrome</a></h4>
-    <a href='https://computerhoy.com/google/google-sigue-pasos-microsoft-integrara-gemini-barra-direcciones-chrome-1380039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google sigue los pasos de Microsoft e integrará Gemini en la barra de direcciones de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/llegan-lg-gram-pro-portatiles-ultraligeros-gran-rendimiento-1379811'>Llegan los LG Gram Pro, los portátiles ultraligeros y de gran rendimiento</a></h4>
-    <a href='https://computerhoy.com/pc/llegan-lg-gram-pro-portatiles-ultraligeros-gran-rendimiento-1379811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-gram-pro-2-1-3300195.jpg?tf=1200x' alt='Llegan los LG Gram Pro, los portátiles ultraligeros y de gran rendimiento' />
     </a>
 </div>
 
