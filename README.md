@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-sigue-pasos-microsoft-integrara-gemini-barra-direcciones-chrome-1380039'>Google sigue los pasos de Microsoft e integrará Gemini en la barra de direcciones de Chrome</a></h4>
+    <a href='https://computerhoy.com/google/google-sigue-pasos-microsoft-integrara-gemini-barra-direcciones-chrome-1380039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google sigue los pasos de Microsoft e integrará Gemini en la barra de direcciones de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/llegan-lg-gram-pro-portatiles-ultraligeros-gran-rendimiento-1379811'>Llegan los LG Gram Pro, los portátiles ultraligeros y de gran rendimiento</a></h4>
+    <a href='https://computerhoy.com/pc/llegan-lg-gram-pro-portatiles-ultraligeros-gran-rendimiento-1379811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-gram-pro-2-1-3300195.jpg?tf=1200x' alt='Llegan los LG Gram Pro, los portátiles ultraligeros y de gran rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/marzo-2024-decimo-mes-consecutivo-record-temperaturas-1380037'>Marzo bate por décimo mes consecutivo el récord de temperatura desde que hay registros</a></h4>
     <a href='https://computerhoy.com/ciencia/marzo-2024-decimo-mes-consecutivo-record-temperaturas-1380037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/marzo-bate-decimo-mes-consecutivo-record-temperatura-hay-registros-3300509.jpg?tf=1200x' alt='Marzo bate por décimo mes consecutivo el récord de temperatura desde que hay registros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-asus-zenfone-11-ultra-ia-me-ha-encantado-pero-no-unico-1378295'>He probado el Asus Zenfone 11 Ultra, un móvil único que me ha permitido transcribir y traducir llamadas al instante con IA</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-asus-zenfone-11-ultra-ia-me-ha-encantado-pero-no-unico-1378295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-zenfone-11-ultra-3298608.jpg?tf=1200x' alt='He probado el Asus Zenfone 11 Ultra, un móvil único que me ha permitido transcribir y traducir llamadas al instante con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/componentes-no-merece-pena-comprar-mejorar-pc-tirar-dinero-1379726'>Componentes que no merece la pena comprar para mejorar tu PC, es tirar el dinero</a></h4>
-    <a href='https://computerhoy.com/pc/componentes-no-merece-pena-comprar-mejorar-pc-tirar-dinero-1379726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-componentes-no-debes-comprar-actualizar-pc-podrias-desperdiciar-mucho-dinero-3300040.jpg?tf=1200x' alt='Componentes que no merece la pena comprar para mejorar tu PC, es tirar el dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-estos-son-principales-modelos-hay-equivalente-raspberry-pi-1379837'>Orange Pi: estos son los principales modelos que hay y su equivalente en Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-estos-son-principales-modelos-hay-equivalente-raspberry-pi-1379837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3287381.jpg?tf=1200x' alt='Orange Pi: estos son los principales modelos que hay y su equivalente en Raspberry Pi' />
     </a>
 </div>
 
