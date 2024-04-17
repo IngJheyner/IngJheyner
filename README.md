@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147'>HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"</a></h4>
+    <a href='https://computerhoy.com/life/hmd-global-heineken-boring-phone-1380147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boring-phone-3300707.jpg?tf=1200x' alt='HMD Global y Heineken se unen para crear el móvil "más aburrido del mundo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087'>Elon Musk cobrará una tarifa a los nuevos usuarios de X</a></h4>
     <a href='https://computerhoy.com/apps/elon-musk-cobrara-tarifa-nuevos-usuarios-x-1380087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-plantea-nueva-medida-luchar-spam-x-cobrara-tarifa-nuevos-usuarios-3300604.jpg?tf=1200x' alt='Elon Musk cobrará una tarifa a los nuevos usuarios de X' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054'>Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada</a></h4>
     <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-pad-6-3300550.jpg?tf=1200x' alt='Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122'>Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kindle-papewrwhite-3300548.jpg?tf=1200x' alt='Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta' />
     </a>
 </div>
 
