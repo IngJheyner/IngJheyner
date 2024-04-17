@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-funciona-twitchtracker-herramienta-twitch-1379721'>Qué es y cómo funciona TwitchTracker: la herramienta online para crecer y triunfar en Twitch</a></h4>
+    <a href='https://computerhoy.com/internet/como-funciona-twitchtracker-herramienta-twitch-1379721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-funciona-twitchtracker-herramienta-online-crecer-mejorar-canal-twitch-3300038.jpg?tf=1200x' alt='Qué es y cómo funciona TwitchTracker: la herramienta online para crecer y triunfar en Twitch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibio-venta-hace-casi-15-anos-1379822'>Reaparece en eBay un prototipo único de un móvil que se prohibió su venta hace casi 15 años</a></h4>
+    <a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibio-venta-hace-casi-15-anos-1379822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/reaparece-ebay-prototipo-unico-movil-prohibio-venta-hace-unas-decadas-3300190.jpg?tf=1200x' alt='Reaparece en eBay un prototipo único de un móvil que se prohibió su venta hace casi 15 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020'>Significado de las banderas del mundo: formas, patrones y colores</a></h4>
     <a href='https://computerhoy.com/internet/significado-todas-banderas-mundo-formas-patrones-colores-1380020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significado-banderas-mundo-formas-patrones-colores-3300499.jpg?tf=1200x' alt='Significado de las banderas del mundo: formas, patrones y colores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios</a></h4>
     <a href='https://computerhoy.com/redes/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Elon Musk anuncia que X va a cobrar una tarifa a todos los nuevos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994'>Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000</a></h4>
-    <a href='https://computerhoy.com/pc/lenovo-thinkcentre-gen-5-pc-sobremesa-inteligencia-artificial-1379994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkcentre-nuevos-pc-sobremesa-ia-estrenan-procesadores-amd-ryzen-pro-8000-3300427.jpg?tf=1200x' alt='Lenovo ThinkCentre Gen 5, los nuevos PC de sobremesa con IA estrenan los procesadores AMD Ryzen PRO 8000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sirve-realmente-ordenador-cuantico-1379948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico?' />
     </a>
 </div>
 
