@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054'>Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-xiaomi-tiene-mejores-calidad-precio-mercado-ahora-rebajada-1380054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-pad-6-3300550.jpg?tf=1200x' alt='Esta tablet de Xiaomi tiene una de las mejores en calidad-precio del mercado, y más ahora que está rebajada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122'>Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sorprende-dia-libro-kindle-amazon-mejor-regalo-lectores-oferta-1380122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kindle-papewrwhite-3300548.jpg?tf=1200x' alt='Sorprende este día del libro con el Kindle de Amazon: es el mejor regalo para lectores, y en oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382'>¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado</a></h4>
     <a href='https://computerhoy.com/tv/televisores-lg-quedan-expuestos-internet-vulnerabilidad-1378382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-televisor-vulnerabilidad-3300617.jpg?tf=1200x' alt='¿Tienes un televisor LG? Podrían hackearlo si no lo actualizas: aquí puedes comprobar si está afectado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061'>WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-1380061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-permitira-filtrar-chats-individuales-grupales-organizar-mensajes-no-leidos-3300553.jpg?tf=1200x' alt='WhatsApp permitirá filtrar los chats individuales y grupales para organizar los mensajes no leídos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114'>Cuando zarpa el amor pero ganas seguidores: ¿merece la pena romper en directo en Tiktok?</a></h4>
-    <a href='https://computerhoy.com/redes/rupturas-pareja-directo-ultimo-extrano-fenomeno-tiktok-1378114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rupturas-directo-tiktok-3300596.jpg?tf=1200x' alt='Cuando zarpa el amor pero ganas seguidores: ¿merece la pena romper en directo en Tiktok?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potente-ligero-pantalla-ips-16-pulgadas-portatil-trabajar-definitivo-lg-1379914'>Potente, ligero y con pantalla IPS de 16 pulgadas: este es el portátil para trabajar definitivo, y es de LG</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potente-ligero-pantalla-ips-16-pulgadas-portatil-trabajar-definitivo-lg-1379914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lg-ultra-3300325.jpg?tf=1200x' alt='Potente, ligero y con pantalla IPS de 16 pulgadas: este es el portátil para trabajar definitivo, y es de LG' />
     </a>
 </div>
 
