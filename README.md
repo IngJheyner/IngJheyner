@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155'>Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte </a></h4>
+    <a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326'>La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado</a></h4>
     <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-humanoide-atlas-boston-dynamics-1380320'>El nuevo robot humanoide Atlas de Boston Dynamics, es carne de pesadillas</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-robot-humanoide-atlas-boston-dynamics-1380320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1713384514829-3300976.jpg?tf=1200x' alt='El nuevo robot humanoide Atlas de Boston Dynamics, es carne de pesadillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292'>Google Maps va a eliminar una función que probablemente no sabías que existía</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-3300977.jpg?tf=1200x' alt='Google Maps va a eliminar una función que probablemente no sabías que existía' />
     </a>
 </div>
 
