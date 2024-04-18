@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891'>Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color</a></h4>
+    <a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-ear-3300384.jpg?tf=1200x' alt='Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493'>He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro</a></h4>
+    <a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299912.jpg?tf=1200x' alt='He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395'>Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico</a></h4>
+    <a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ingenuity-mars-lanza-mensaje-despedida-nasa-pero-seguira-uso-3301123.jpg?tf=1200x' alt='Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sonido-cine-salon-barra-sonido-sharp-bluetooth-fantastica-precio-1380393'>Sonido de cine en tu salón: esta barra de sonido de Sharp con Bluetooth es fantástica para su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sonido-cine-salon-barra-sonido-sharp-bluetooth-fantastica-precio-1380393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sharp-ht-sbw110-3301119.jpg?tf=1200x' alt='Sonido de cine en tu salón: esta barra de sonido de Sharp con Bluetooth es fantástica para su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pai-como-funciona-pulsera-relojes-inteligentes-xiaomi-amazfit-1380373'>Qué es PAI y cómo funciona en pulsera y relojes inteligentes de Xiaomi o Amazfit</a></h4>
     <a href='https://computerhoy.com/tecnologia/pai-como-funciona-pulsera-relojes-inteligentes-xiaomi-amazfit-1380373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272285.jpg?tf=1200x' alt='Qué es PAI y cómo funciona en pulsera y relojes inteligentes de Xiaomi o Amazfit' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/considerar-tambien-nueva-funcion-google-maps-encontrar-rutas-alternativas-1380369'>Considerar también, la nueva función de Google Maps para encontrar rutas alternativas</a></h4>
-    <a href='https://computerhoy.com/apps/considerar-tambien-nueva-funcion-google-maps-encontrar-rutas-alternativas-1380369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-mostrara-rutas-alternativas-junto-coche-avion-3301085.jpg?tf=1200x' alt='Considerar también, la nueva función de Google Maps para encontrar rutas alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-productos-medio-cocer-mala-idea-1380379'>La polémica de Humane AI Pin: lanzar productos a medio cocer no es buena idea</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-productos-medio-cocer-mala-idea-1380379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ia-pin-marques-brownlee-3301108.jpg?tf=1200x' alt='La polémica de Humane AI Pin: lanzar productos a medio cocer no es buena idea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209'>Apple anuncia una importante inversión en plantas solares en España</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-va-invertir-energia-solar-espana-3300786.jpg?tf=1200x' alt='Apple anuncia una importante inversión en plantas solares en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366'>Un paso más cerca de la computación cuántica tras resolver su gran hándicap</a></h4>
-    <a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computacion-cuantica-3301082.jpg?tf=1200x' alt='Un paso más cerca de la computación cuántica tras resolver su gran hándicap' />
     </a>
 </div>
 
