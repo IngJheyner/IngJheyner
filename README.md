@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575'>¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?</a></h4>
+    <a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572'>Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linea-verde-pantalla-algunos-moviles-samsung-3301465.jpg?tf=1200x' alt='Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395'>Cómo cambiar online el titular en un contrato de Iberdrola</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambiar-online-titular-contrato-3297702.jpg?tf=1200x' alt='Cómo cambiar online el titular en un contrato de Iberdrola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-cuenta-profesional-personal-instagram-1380069'>Cómo cambiar de cuenta profesional a personal en Instagram</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-cuenta-profesional-personal-instagram-1380069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-novedades-3217320.jpg?tf=1200x' alt='Cómo cambiar de cuenta profesional a personal en Instagram' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014'>He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas</a></h4>
-    <a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/he-probado-muchas-formas-ver-tv-gratis-internet-incluso-iptv-estas-son-favoritas-3301011.jpg?tf=1200x' alt='He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139'>¿Pensando en pillar una VPN? Esta es de las más baratas y nos ha encantado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-salvo-multas-ver-futbol-gratis-iptv-utilizando-vpn-3289332.jpg?tf=1200x' alt='¿Pensando en pillar una VPN? Esta es de las más baratas y nos ha encantado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-saber-mensaje-declaracion-renta-estafa-1380371'>Que no te engañen: así puedes saber si el mensaje de la declaración de la Renta es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/puedes-saber-mensaje-declaracion-renta-estafa-1380371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-enganen-puedes-saber-cuando-mensaje-declaracion-renta-estafa-3301078.jpg?tf=1200x' alt='Que no te engañen: así puedes saber si el mensaje de la declaración de la Renta es una estafa' />
     </a>
 </div>
 
