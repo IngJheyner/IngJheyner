@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014'>He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas</a></h4>
+    <a href='https://computerhoy.com/tv/he-probado-muchas-formas-ver-tv-gratis-internet-estas-son-favoritas-1362014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/he-probado-muchas-formas-ver-tv-gratis-internet-incluso-iptv-estas-son-favoritas-3301011.jpg?tf=1200x' alt='He probado muchas formas de ver TV gratis por Internet (incluso IPTV) y estas son mis favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139'>¿Pensando en pillar una VPN? Esta es de las más baratas y nos ha encantado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-no-tiene-limite-dispositivos-baratas-nos-ha-encantado-cuando-hemos-probado-1378139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estas-salvo-multas-ver-futbol-gratis-iptv-utilizando-vpn-3289332.jpg?tf=1200x' alt='¿Pensando en pillar una VPN? Esta es de las más baratas y nos ha encantado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/puedes-saber-mensaje-declaracion-renta-estafa-1380371'>Que no te engañen: así puedes saber si el mensaje de la declaración de la Renta es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/puedes-saber-mensaje-declaracion-renta-estafa-1380371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-te-enganen-puedes-saber-cuando-mensaje-declaracion-renta-estafa-3301078.jpg?tf=1200x' alt='Que no te engañen: así puedes saber si el mensaje de la declaración de la Renta es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-1380513'>Descubren un nuevo estado cuántico que podría revolucionar la tecnología</a></h4>
     <a href='https://computerhoy.com/ciencia/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-1380513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-3301394.jpg?tf=1200x' alt='Descubren un nuevo estado cuántico que podría revolucionar la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mover-correos-diferentes-carpetas-gmail-1380329'>Cómo mover automáticamente tus correos a diferentes carpetas de Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mover-correos-diferentes-carpetas-gmail-1380329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-mover-automaticamente-correos-diferentes-carpetas-gmail-3301007.jpg?tf=1200x' alt='Cómo mover automáticamente tus correos a diferentes carpetas de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444'>Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?</a></h4>
-    <a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-son-gente-vive-tiempo-ellas-3297834.jpg?tf=1200x' alt='Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215'>¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?</a></h4>
-    <a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891'>Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color</a></h4>
-    <a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-ear-3300384.jpg?tf=1200x' alt='Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color' />
     </a>
 </div>
 
