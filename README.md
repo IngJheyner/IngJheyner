@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327'>¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-18-abril-2024-3300999.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313'>Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294'>Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store</a></h4>
     <a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-puedes-instalar-altstore-pal-primera-tienda-alternativa-app-store-3300941.jpg?tf=1200x' alt='Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293'>TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-actualiza-pip-ver-tdt-gratis-mientras-navegas-movil-1380293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3300962.jpg?tf=1200x' alt='TDTChannels se actualiza con PiP para ver la TDT gratis mientras navegas con el móvil' />
     </a>
 </div>
 
