@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176'>Tambor cuántico, el revolucionario invento que podría cambiar Internet</a></h4>
+    <a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ordenador-cuantico-3300830.jpg?tf=1200x' alt='Tambor cuántico, el revolucionario invento que podría cambiar Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108'>¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/consejos-movil-caliente-bajar-temperatura-3300779.jpg?tf=1200x' alt='¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-terminar-miles-idiomas-1380064'>¿Por qué la inteligencia artificial podría terminar con miles de idiomas?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-terminar-miles-idiomas-1380064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-idiomas-3300712.jpg?tf=1200x' alt='¿Por qué la inteligencia artificial podría terminar con miles de idiomas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312'>Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€</a></h4>
     <a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-3258539.jpg?tf=1200x' alt='Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155'>Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte </a></h4>
     <a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326'>La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado</a></h4>
-    <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327'>¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-18-abril-2024-3300999.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313'>Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/puedes-acceder-funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-acceder-funciones-eliminadas-panel-control-windows-11-3300998.jpg?tf=1200x' alt='Así puedes acceder a las funciones eliminadas del Panel de control en Windows 11' />
     </a>
 </div>
 
