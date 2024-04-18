@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444'>Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?</a></h4>
+    <a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-son-gente-vive-tiempo-ellas-3297834.jpg?tf=1200x' alt='Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215'>¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?</a></h4>
     <a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493'>He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro</a></h4>
     <a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299912.jpg?tf=1200x' alt='He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395'>Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico</a></h4>
-    <a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ingenuity-mars-lanza-mensaje-despedida-nasa-pero-seguira-uso-3301123.jpg?tf=1200x' alt='Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico' />
     </a>
 </div>
 
