@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pai-como-funciona-pulsera-relojes-inteligentes-xiaomi-amazfit-1380373'>Qué es PAI y cómo funciona en pulsera y relojes inteligentes de Xiaomi o Amazfit</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pai-como-funciona-pulsera-relojes-inteligentes-xiaomi-amazfit-1380373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272285.jpg?tf=1200x' alt='Qué es PAI y cómo funciona en pulsera y relojes inteligentes de Xiaomi o Amazfit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/considerar-tambien-nueva-funcion-google-maps-encontrar-rutas-alternativas-1380369'>Considerar también, la nueva función de Google Maps para encontrar rutas alternativas</a></h4>
+    <a href='https://computerhoy.com/apps/considerar-tambien-nueva-funcion-google-maps-encontrar-rutas-alternativas-1380369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-mostrara-rutas-alternativas-junto-coche-avion-3301085.jpg?tf=1200x' alt='Considerar también, la nueva función de Google Maps para encontrar rutas alternativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-productos-medio-cocer-mala-idea-1380379'>La polémica de Humane AI Pin: lanzar productos a medio cocer no es buena idea</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-productos-medio-cocer-mala-idea-1380379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ia-pin-marques-brownlee-3301108.jpg?tf=1200x' alt='La polémica de Humane AI Pin: lanzar productos a medio cocer no es buena idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209'>Apple anuncia una importante inversión en plantas solares en España</a></h4>
+    <a href='https://computerhoy.com/apple/apple-anuncia-va-abrir-plantas-solares-espana-1380209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-va-invertir-energia-solar-espana-3300786.jpg?tf=1200x' alt='Apple anuncia una importante inversión en plantas solares en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366'>Un paso más cerca de la computación cuántica tras resolver su gran hándicap</a></h4>
     <a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computacion-cuantica-3301082.jpg?tf=1200x' alt='Un paso más cerca de la computación cuántica tras resolver su gran hándicap' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151'>Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/627-millones-cuentas-discord-espiadas-web-vigilancia-1380352'>Más de 627 millones de cuentas de Discord espiadas por esta web de vigilancia</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/627-millones-cuentas-discord-espiadas-web-vigilancia-1380352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/discord-ciberseguridad-3301043.jpg?tf=1200x' alt='Más de 627 millones de cuentas de Discord espiadas por esta web de vigilancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349'>Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar</a></h4>
-    <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-3301012.jpg?tf=1200x' alt='Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176'>Tambor cuántico, el revolucionario invento que podría cambiar Internet</a></h4>
-    <a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ordenador-cuantico-3300830.jpg?tf=1200x' alt='Tambor cuántico, el revolucionario invento que podría cambiar Internet' />
     </a>
 </div>
 
