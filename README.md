@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-1380513'>Descubren un nuevo estado cuántico que podría revolucionar la tecnología</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-1380513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-nuevo-estado-cuantico-podria-revolucionar-tecnologia-3301394.jpg?tf=1200x' alt='Descubren un nuevo estado cuántico que podría revolucionar la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mover-correos-diferentes-carpetas-gmail-1380329'>Cómo mover automáticamente tus correos a diferentes carpetas de Gmail</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mover-correos-diferentes-carpetas-gmail-1380329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-mover-automaticamente-correos-diferentes-carpetas-gmail-3301007.jpg?tf=1200x' alt='Cómo mover automáticamente tus correos a diferentes carpetas de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444'>Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?</a></h4>
     <a href='https://computerhoy.com/life/zonas-azules-son-gente-vive-tiempo-ellas-1378444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-son-gente-vive-tiempo-ellas-3297834.jpg?tf=1200x' alt='Zonas azules: ¿qué son y por qué la gente vive más tiempo en ellas?' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-nothing-ear-sonido-precio-diseno-claves-1379961'>Tras unas semanas con los Nothing Ear (a) no me creo que estos auriculares suenen y se vean tan bien por este precio</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-nothing-ear-sonido-precio-diseno-claves-1379961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3300931.jpg?tf=1200x' alt='Tras unas semanas con los Nothing Ear (a) no me creo que estos auriculares suenen y se vean tan bien por este precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891'>Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color</a></h4>
     <a href='https://computerhoy.com/audio/nothing-ear-ear-a-auriculares-cancelacion-ruido-activa-1379891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-ear-3300384.jpg?tf=1200x' alt='Nothing actualiza sus auriculares: así son Ear y Ear (a) con cancelación de ruido y su llamativo diseño transparente con una nota de color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493'>He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro</a></h4>
-    <a href='https://computerhoy.com/analisis/nothing-ear-analisis-opinion-1379493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299912.jpg?tf=1200x' alt='He probado varias semanas los Nothing Ear: son los primeros auriculares que me han hecho olvidarme de los AirPods Pro' />
     </a>
 </div>
 
