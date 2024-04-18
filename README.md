@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366'>Un paso más cerca de la computación cuántica tras resolver su gran hándicap</a></h4>
+    <a href='https://computerhoy.com/tecnologia/paso-cerca-computacion-cuantica-resolver-gran-handicap-1380366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computacion-cuantica-3301082.jpg?tf=1200x' alt='Un paso más cerca de la computación cuántica tras resolver su gran hándicap' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151'>Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176'>Tambor cuántico, el revolucionario invento que podría cambiar Internet</a></h4>
     <a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ordenador-cuantico-3300830.jpg?tf=1200x' alt='Tambor cuántico, el revolucionario invento que podría cambiar Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108'>¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/consejos-movil-caliente-bajar-temperatura-3300779.jpg?tf=1200x' alt='¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura' />
     </a>
 </div>
 
