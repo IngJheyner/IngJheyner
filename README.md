@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569'>¿Es hora de abandonar Chrome y cambiar a un navegador privado?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hora-abandonar-chrome-cambiar-navegador-privado-3301490.jpg?tf=1200x' alt='¿Es hora de abandonar Chrome y cambiar a un navegador privado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596'>WhatsApp ya permite generar imágenes y GIF con Llama 3, la nueva IA de Meta</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya permite generar imágenes y GIF con Llama 3, la nueva IA de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575'>¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?</a></h4>
     <a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395'>Cómo cambiar online el titular en un contrato de Iberdrola</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambiar-online-titular-contrato-3297702.jpg?tf=1200x' alt='Cómo cambiar online el titular en un contrato de Iberdrola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-cuenta-profesional-personal-instagram-1380069'>Cómo cambiar de cuenta profesional a personal en Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-cuenta-profesional-personal-instagram-1380069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/instagram-novedades-3217320.jpg?tf=1200x' alt='Cómo cambiar de cuenta profesional a personal en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
     </a>
 </div>
 
