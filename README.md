@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151'>Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-barato-potente-no-ocupa-nada-oficina-tampoco-notaras-cartera-1380151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/lenovo-ideapad-3-gen-6-2935670.jpg?tf=1200x' alt='Este portátil barato es potente, no ocupa nada en tu oficina y tampoco lo notarás en la cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/627-millones-cuentas-discord-espiadas-web-vigilancia-1380352'>Más de 627 millones de cuentas de Discord espiadas por esta web de vigilancia</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/627-millones-cuentas-discord-espiadas-web-vigilancia-1380352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/discord-ciberseguridad-3301043.jpg?tf=1200x' alt='Más de 627 millones de cuentas de Discord espiadas por esta web de vigilancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349'>Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar</a></h4>
     <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-3301012.jpg?tf=1200x' alt='Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108'>¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura</a></h4>
     <a href='https://computerhoy.com/moviles/movil-calienta-te-recomiendo-sigas-estos-consejos-1372108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/consejos-movil-caliente-bajar-temperatura-3300779.jpg?tf=1200x' alt='¿Tu móvil se calienta? Los 7 consejos que más me han servido para bajar la temperatura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-terminar-miles-idiomas-1380064'>¿Por qué la inteligencia artificial podría terminar con miles de idiomas?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-podria-terminar-miles-idiomas-1380064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-idiomas-3300712.jpg?tf=1200x' alt='¿Por qué la inteligencia artificial podría terminar con miles de idiomas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312'>Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€</a></h4>
-    <a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-3258539.jpg?tf=1200x' alt='Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€' />
     </a>
 </div>
 
