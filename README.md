@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603'>Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-3301510.jpg?tf=1200x' alt='Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569'>¿Es hora de abandonar Chrome y cambiar a un navegador privado?</a></h4>
     <a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hora-abandonar-chrome-cambiar-navegador-privado-3301490.jpg?tf=1200x' alt='¿Es hora de abandonar Chrome y cambiar a un navegador privado?' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596'>WhatsApp ya permite generar imágenes y GIF con Llama 3, la nueva IA de Meta</a></h4>
+    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596'>WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya permite generar imágenes y GIF con Llama 3, la nueva IA de Meta' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572'>Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber</a></h4>
     <a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linea-verde-pantalla-algunos-moviles-samsung-3301465.jpg?tf=1200x' alt='Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395'>Cómo cambiar online el titular en un contrato de Iberdrola</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-titular-contrato-iberdrola-1378395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambiar-online-titular-contrato-3297702.jpg?tf=1200x' alt='Cómo cambiar online el titular en un contrato de Iberdrola' />
     </a>
 </div>
 
