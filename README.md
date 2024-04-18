@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349'>Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar</a></h4>
+    <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-1380349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aparece-francia-estructura-neolitica-arqueologos-no-saben-explicar-3301012.jpg?tf=1200x' alt='Aparece en Francia una estructura neolítica que los arqueólogos no saben explicar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176'>Tambor cuántico, el revolucionario invento que podría cambiar Internet</a></h4>
     <a href='https://computerhoy.com/redes/tambor-cuantico-revolucionario-invento-podria-cambiar-internet-1380176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ordenador-cuantico-3300830.jpg?tf=1200x' alt='Tambor cuántico, el revolucionario invento que podría cambiar Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312'>Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€</a></h4>
     <a href='https://computerhoy.com/android/locuron-aliexpress-nuevo-poco-x6-180eu-1380312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-3258539.jpg?tf=1200x' alt='Locurón en AliExpress: el nuevo POCO X6 está rebajado por 180€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155'>Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte </a></h4>
-    <a href='https://computerhoy.com/ciencia/elon-musk-tiene-claro-fecha-llegara-marte-1380155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk lo tiene claro: esta es la fecha en la que se llegará a Marte ' />
     </a>
 </div>
 
