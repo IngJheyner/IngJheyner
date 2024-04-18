@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215'>¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?</a></h4>
+    <a href='https://computerhoy.com/google/sucede-fotos-videos-cuando-subes-google-photos-1380215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='¿Qué sucede con tus fotos y vídeos cuando los subes a Google Photos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-nothing-ear-sonido-precio-diseno-claves-1379961'>Tras unas semanas con los Nothing Ear (a) no me creo que estos auriculares suenen y se vean tan bien por este precio</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-nothing-ear-sonido-precio-diseno-claves-1379961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3300931.jpg?tf=1200x' alt='Tras unas semanas con los Nothing Ear (a) no me creo que estos auriculares suenen y se vean tan bien por este precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395'>Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico</a></h4>
     <a href='https://computerhoy.com/espacio/ingenuity-mars-despide-nasa-aunque-seguira-uso-esperando-momento-historico-1380395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ingenuity-mars-lanza-mensaje-despedida-nasa-pero-seguira-uso-3301123.jpg?tf=1200x' alt='Ingenuity Mars se despide de la NASA aunque seguirá en uso esperando un momento histórico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sonido-cine-salon-barra-sonido-sharp-bluetooth-fantastica-precio-1380393'>Sonido de cine en tu salón: esta barra de sonido de Sharp con Bluetooth es fantástica para su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sonido-cine-salon-barra-sonido-sharp-bluetooth-fantastica-precio-1380393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sharp-ht-sbw110-3301119.jpg?tf=1200x' alt='Sonido de cine en tu salón: esta barra de sonido de Sharp con Bluetooth es fantástica para su precio' />
     </a>
 </div>
 
