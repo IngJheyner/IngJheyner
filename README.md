@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326'>La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado</a></h4>
+    <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-1380326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/obsesion-steve-jobs-skeuomorfismo-ios-fue-diseno-odiado-3301002.jpg?tf=1200x' alt='La obsesión de Steve Jobs por el skeuomorfismo en iOS y por qué fue el diseño más odiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327'>¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-18-abril-2024-1380327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-18-abril-2024-3300999.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 18 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292'>Google Maps va a eliminar una función que probablemente no sabías que existía</a></h4>
     <a href='https://computerhoy.com/google/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-1380292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-va-eliminar-funcion-probablemente-no-sabias-existia-3300977.jpg?tf=1200x' alt='Google Maps va a eliminar una función que probablemente no sabías que existía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294'>Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store</a></h4>
-    <a href='https://computerhoy.com/apple/altstore-pal-primera-tienda-alternativa-app-store-disponible-1380294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-puedes-instalar-altstore-pal-primera-tienda-alternativa-app-store-3300941.jpg?tf=1200x' alt='Ya puedes instalar AltStore PAL, la primera tienda alternativa a la App Store' />
     </a>
 </div>
 
