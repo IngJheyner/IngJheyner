@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486'>Parecen pendientes, pero son auriculares, y a un precio sorprendente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-freeclip-3301315.jpg?tf=1200x' alt='Parecen pendientes, pero son auriculares, y a un precio sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641'>Cómo vincular una cuenta de correo externa a Gmail y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-cuenta-3301596.jpg?tf=1200x' alt='Cómo vincular una cuenta de correo externa a Gmail y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raton-logitech-con-chatgpt-1380646'>ChatGPT llega a los ratones, de la mano de Logitech</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raton-logitech-con-chatgpt-1380646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-llega-ratones-mano-logitech-3301543.jpg?tf=1200x' alt='ChatGPT llega a los ratones, de la mano de Logitech' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434'>Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-special-edition-3301181.jpg?tf=1200x' alt='Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443'>Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa segundos</a></h4>
+    <h4><a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443'>Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa en segundos</a></h4>
     <a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-estrena-llama-3-ia-generativa-1380631'>Meta estrena su nueva IA generativa Llama 3, asegura que es mejor que GPT-4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-estrena-llama-3-ia-generativa-1380631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-estrena-nueva-ia-generativa-llama-3-asegura-mejor-gpt-4-3301499.jpg?tf=1200x' alt='Meta estrena su nueva IA generativa Llama 3, asegura que es mejor que GPT-4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/sony-ult-wear-analisis-opinion-auriculares-cancelacion-ruido-1379785'>He probado los auriculares Sony ULT Wear: el hermano pequeño de los XM5 en sonido y cancelación de ruido</a></h4>
-    <a href='https://computerhoy.com/analisis/sony-ult-wear-analisis-opinion-auriculares-cancelacion-ruido-1379785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/auriculares-sony-ult-wear-3301374.jpg?tf=1200x' alt='He probado los auriculares Sony ULT Wear: el hermano pequeño de los XM5 en sonido y cancelación de ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ikebana-tradicional-metodo-nacido-japon-vencer-estres-1379091'>Ikebana: así es el tradicional método nacido en Japón para vencer al estrés</a></h4>
-    <a href='https://computerhoy.com/life/ikebana-tradicional-metodo-nacido-japon-vencer-estres-1379091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ikebana-tradicional-metodo-nacido-japon-vencer-estres-3298964.jpg?tf=1200x' alt='Ikebana: así es el tradicional método nacido en Japón para vencer al estrés' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa en segundos' />
     </a>
 </div>
 
