@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863'>Mejores Amigos de Instagram llega a WhatsApp y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contactos-favoritos-whatsapp-3301966.jpg?tf=1200x' alt='Mejores Amigos de Instagram llega a WhatsApp y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527'>Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/olvidate-fallout-5-peliculas-steampunk-iguales-mejores-tienes-conocer-3301382.jpg?tf=1200x' alt='Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688'>¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?</a></h4>
     <a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-cajas-negras-inteligencia-artificial-desconciertan-google-3301643.jpg?tf=1200x' alt='¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485'>777: ¿por qué está considerado el “número ángel” y qué significa?</a></h4>
     <a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/777-considerado-numero-angel-significa-3301300.jpg?tf=1200x' alt='777: ¿por qué está considerado el “número ángel” y qué significa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-1380795'>Cómo añadir una cuenta de correo a tu lista de remitentes seguros en Gmail</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-1380795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-3301881.jpg?tf=1200x' alt='Cómo añadir una cuenta de correo a tu lista de remitentes seguros en Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/limite-transferencia-familiar-movil-1380662'>Cuidado con las transferencias a familiares con el móvil: los límites si no quieres que Hacienda te multe</a></h4>
-    <a href='https://computerhoy.com/apps/limite-transferencia-familiar-movil-1380662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuidado-transferencias-familiares-movil-estos-son-limites-no-quieres-hacienda-te-multe-3301604.jpg?tf=1200x' alt='Cuidado con las transferencias a familiares con el móvil: los límites si no quieres que Hacienda te multe' />
     </a>
 </div>
 
