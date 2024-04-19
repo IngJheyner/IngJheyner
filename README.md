@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647'>YouTube se prepara para la llegada de la IA en su próxima actualización</a></h4>
+    <a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-prepara-llegada-ia-proxima-actualizacion-3301568.jpg?tf=1200x' alt='YouTube se prepara para la llegada de la IA en su próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486'>Parecen pendientes, pero son auriculares, y a un precio sorprendente</a></h4>
     <a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-freeclip-3301315.jpg?tf=1200x' alt='Parecen pendientes, pero son auriculares, y a un precio sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434'>Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-special-edition-3301181.jpg?tf=1200x' alt='Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443'>Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa en segundos</a></h4>
-    <a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa en segundos' />
     </a>
 </div>
 
