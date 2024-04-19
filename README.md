@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-no-tiene-nada-envidiar-apple-watch-infinitamente-barato-1380419'>Este smartwatch de Xiaomi no tiene nada que envidiar al Apple Watch y es infinitamente más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-no-tiene-nada-envidiar-apple-watch-infinitamente-barato-1380419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3301166.jpg?tf=1200x' alt='Este smartwatch de Xiaomi no tiene nada que envidiar al Apple Watch y es infinitamente más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398'>Es increíble lo bueno que es este coche teledirigido para lo poco que cuesta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gantry-conquer-4wd-3297768.jpg?tf=1200x' alt='Es increíble lo bueno que es este coche teledirigido para lo poco que cuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-19-abril-2024-1380619'>¿Qué santo es hoy? Santoral del viernes 19 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-19-abril-2024-1380619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-19-abril-2024-3301518.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 19 de abril de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603'>Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-3301510.jpg?tf=1200x' alt='Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569'>¿Es hora de abandonar Chrome y cambiar a un navegador privado?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hora-abandonar-chrome-cambiar-navegador-privado-1380569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hora-abandonar-chrome-cambiar-navegador-privado-3301490.jpg?tf=1200x' alt='¿Es hora de abandonar Chrome y cambiar a un navegador privado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596'>WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta' />
     </a>
 </div>
 
