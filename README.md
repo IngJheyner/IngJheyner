@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688'>¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?</a></h4>
+    <a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-cajas-negras-inteligencia-artificial-desconciertan-google-3301643.jpg?tf=1200x' alt='¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737'>Cómo aumentar o reducir los mapas de Google Maps con un solo dedo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Cómo aumentar o reducir los mapas de Google Maps con un solo dedo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/limite-transferencia-familiar-movil-1380662'>Cuidado con las transferencias a familiares con el móvil: los límites si no quieres que Hacienda te multe</a></h4>
     <a href='https://computerhoy.com/apps/limite-transferencia-familiar-movil-1380662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuidado-transferencias-familiares-movil-estos-son-limites-no-quieres-hacienda-te-multe-3301604.jpg?tf=1200x' alt='Cuidado con las transferencias a familiares con el móvil: los límites si no quieres que Hacienda te multe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471'>Testamento digital: ¿qué sucede con las redes sociales al morir?</a></h4>
-    <a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/testamento-digital-sucede-redes-sociales-morir-3301259.jpg?tf=1200x' alt='Testamento digital: ¿qué sucede con las redes sociales al morir?' />
     </a>
 </div>
 
