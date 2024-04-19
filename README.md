@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737'>Cómo aumentar o reducir los mapas de Google Maps con un solo dedo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Cómo aumentar o reducir los mapas de Google Maps con un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485'>777: ¿por qué está considerado el “número ángel” y qué significa?</a></h4>
+    <a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/777-considerado-numero-angel-significa-3301300.jpg?tf=1200x' alt='777: ¿por qué está considerado el “número ángel” y qué significa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-1380795'>Cómo añadir una cuenta de correo a tu lista de remitentes seguros en Gmail</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-1380795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-anadir-cuenta-correo-lista-remitentes-seguros-gmail-3301881.jpg?tf=1200x' alt='Cómo añadir una cuenta de correo a tu lista de remitentes seguros en Gmail' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471'>Testamento digital: ¿qué sucede con las redes sociales al morir?</a></h4>
     <a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/testamento-digital-sucede-redes-sociales-morir-3301259.jpg?tf=1200x' alt='Testamento digital: ¿qué sucede con las redes sociales al morir?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787'>Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-ai-3301798.jpg?tf=1200x' alt='Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372'>¿La freidora de aire es cancerígena? Lo que debes saber antes de usarla</a></h4>
-    <a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/freidora-aire-cancerigena-debes-saber-antes-usarla-3301534.jpg?tf=1200x' alt='¿La freidora de aire es cancerígena? Lo que debes saber antes de usarla' />
     </a>
 </div>
 
