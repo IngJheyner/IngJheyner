@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471'>Testamento digital: ¿qué sucede con las redes sociales al morir?</a></h4>
+    <a href='https://computerhoy.com/redes/testamento-digital-sucede-redes-sociales-morir-1380471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/testamento-digital-sucede-redes-sociales-morir-3301259.jpg?tf=1200x' alt='Testamento digital: ¿qué sucede con las redes sociales al morir?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787'>Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-ai-3301798.jpg?tf=1200x' alt='Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/laliga-no-quiere-veas-futbol-gratis-movil-carga-google-apple-huawei-1380750'>LaLiga no quiere que veas fútbol gratis en tu móvil y carga contra Google, Apple y Huawei </a></h4>
     <a href='https://computerhoy.com/moviles/laliga-no-quiere-veas-futbol-gratis-movil-carga-google-apple-huawei-1380750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/laliga-futbol-movil-3301748.jpg?tf=1200x' alt='LaLiga no quiere que veas fútbol gratis en tu móvil y carga contra Google, Apple y Huawei ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728'>La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-deepfake-3301724.jpg?tf=1200x' alt='La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias' />
     </a>
 </div>
 
