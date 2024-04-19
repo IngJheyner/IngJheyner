@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434'>Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-special-edition-3301181.jpg?tf=1200x' alt='Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443'>Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa segundos</a></h4>
+    <a href='https://computerhoy.com/life/tienes-cerradura-cambiala-inmediato-podrian-entrar-casa-segundos-1380443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ladron-abriendo-cerradura-3301357.jpg?tf=1200x' alt='Si tienes esta cerradura, cámbiala de inmediato: podrían entrar en tu casa segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-estrena-llama-3-ia-generativa-1380631'>Meta estrena su nueva IA generativa Llama 3, asegura que es mejor que GPT-4</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-estrena-llama-3-ia-generativa-1380631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-estrena-nueva-ia-generativa-llama-3-asegura-mejor-gpt-4-3301499.jpg?tf=1200x' alt='Meta estrena su nueva IA generativa Llama 3, asegura que es mejor que GPT-4' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/ikebana-tradicional-metodo-nacido-japon-vencer-estres-1379091'>Ikebana: así es el tradicional método nacido en Japón para vencer al estrés</a></h4>
     <a href='https://computerhoy.com/life/ikebana-tradicional-metodo-nacido-japon-vencer-estres-1379091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ikebana-tradicional-metodo-nacido-japon-vencer-estres-3298964.jpg?tf=1200x' alt='Ikebana: así es el tradicional método nacido en Japón para vencer al estrés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-no-tiene-nada-envidiar-apple-watch-infinitamente-barato-1380419'>Este smartwatch de Xiaomi no tiene nada que envidiar al Apple Watch y es infinitamente más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-xiaomi-no-tiene-nada-envidiar-apple-watch-infinitamente-barato-1380419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-watch-2-pro-3301166.jpg?tf=1200x' alt='Este smartwatch de Xiaomi no tiene nada que envidiar al Apple Watch y es infinitamente más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398'>Es increíble lo bueno que es este coche teledirigido para lo poco que cuesta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alcanza-50-km-h-soporta-cualquier-bache-coche-teledirigido-top-ventas-aliexpress-1378398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gantry-conquer-4wd-3297768.jpg?tf=1200x' alt='Es increíble lo bueno que es este coche teledirigido para lo poco que cuesta' />
     </a>
 </div>
 
