@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691'>Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-kindle-top-tiene-espacio-miles-libros-resiste-agua-1380375'>Amazon liquida uno de sus Kindle más top: tiene espacio para miles de libros y resiste al agua</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-liquida-kindle-top-tiene-espacio-miles-libros-resiste-agua-1380375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kindle-oasis-3301041.jpg?tf=1200x' alt='Amazon liquida uno de sus Kindle más top: tiene espacio para miles de libros y resiste al agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668'>Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor</a></h4>
     <a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-3301616.jpg?tf=1200x' alt='Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647'>YouTube se prepara para la llegada de la IA en su próxima actualización</a></h4>
     <a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-prepara-llegada-ia-proxima-actualizacion-3301568.jpg?tf=1200x' alt='YouTube se prepara para la llegada de la IA en su próxima actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486'>Parecen pendientes, pero son auriculares, y a un precio sorprendente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parecen-pendientes-pero-son-auriculares-precio-sorprendente-1380486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-freeclip-3301315.jpg?tf=1200x' alt='Parecen pendientes, pero son auriculares, y a un precio sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641'>Cómo vincular una cuenta de correo externa a Gmail y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-cuenta-3301596.jpg?tf=1200x' alt='Cómo vincular una cuenta de correo externa a Gmail y para qué sirve' />
     </a>
 </div>
 
