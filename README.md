@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876'>VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vasa-1-ia-microsoft-crea-deepfake-foto-grabacion-audio-3301979.jpg?tf=1200x' alt='VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865'>Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura</a></h4>
     <a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/objeto-perdido-uber-3301969.jpg?tf=1200x' alt='Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688'>¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?</a></h4>
     <a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-cajas-negras-inteligencia-artificial-desconciertan-google-3301643.jpg?tf=1200x' alt='¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737'>Cómo aumentar o reducir los mapas de Google Maps con un solo dedo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Cómo aumentar o reducir los mapas de Google Maps con un solo dedo' />
     </a>
 </div>
 
