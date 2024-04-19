@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865'>Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura</a></h4>
+    <a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/objeto-perdido-uber-3301969.jpg?tf=1200x' alt='Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863'>Mejores Amigos de Instagram llega a WhatsApp y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contactos-favoritos-whatsapp-3301966.jpg?tf=1200x' alt='Mejores Amigos de Instagram llega a WhatsApp y así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737'>Cómo aumentar o reducir los mapas de Google Maps con un solo dedo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-aumentar-reducir-mapas-google-maps-solo-dedo-1380737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Cómo aumentar o reducir los mapas de Google Maps con un solo dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485'>777: ¿por qué está considerado el “número ángel” y qué significa?</a></h4>
-    <a href='https://computerhoy.com/life/777-considerado-numero-angel-significa-1380485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/777-considerado-numero-angel-significa-3301300.jpg?tf=1200x' alt='777: ¿por qué está considerado el “número ángel” y qué significa?' />
     </a>
 </div>
 
