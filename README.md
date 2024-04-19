@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668'>Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor</a></h4>
+    <a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-3301616.jpg?tf=1200x' alt='Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-escribe-mejor-codigo-genera-imagen-realista-1380656'>¿Qué IA escribe el mejor código o genera la imagen más realista?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-escribe-mejor-codigo-genera-imagen-realista-1380656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/herramientas-inteligencia-artificial-3301658.jpg?tf=1200x' alt='¿Qué IA escribe el mejor código o genera la imagen más realista?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647'>YouTube se prepara para la llegada de la IA en su próxima actualización</a></h4>
     <a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-prepara-llegada-ia-proxima-actualizacion-3301568.jpg?tf=1200x' alt='YouTube se prepara para la llegada de la IA en su próxima actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641'>Cómo vincular una cuenta de correo externa a Gmail y para qué sirve</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-vincular-cuenta-correo-externa-gmail-sirve-1380641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-cuenta-3301596.jpg?tf=1200x' alt='Cómo vincular una cuenta de correo externa a Gmail y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raton-logitech-con-chatgpt-1380646'>ChatGPT llega a los ratones, de la mano de Logitech</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raton-logitech-con-chatgpt-1380646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-llega-ratones-mano-logitech-3301543.jpg?tf=1200x' alt='ChatGPT llega a los ratones, de la mano de Logitech' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434'>Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-pulseras-xiaomi-huawei-tiene-gps-casi-smartwatch-1380434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-special-edition-3301181.jpg?tf=1200x' alt='Olvida las pulseras Xiaomi: esta de Huawei tiene GPS y es casi un smartwatch' />
     </a>
 </div>
 
