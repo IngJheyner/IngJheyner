@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-19-abril-2024-1380619'>¿Qué santo es hoy? Santoral del viernes 19 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-19-abril-2024-1380619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-19-abril-2024-3301518.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 19 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/son-apps-web-progresivas-pwa-windows-11-como-instalan-1380614'>Qué son las apps web progresivas (PWA) de Windows 11 y cómo se instalan</a></h4>
     <a href='https://computerhoy.com/tutoriales/son-apps-web-progresivas-pwa-windows-11-como-instalan-1380614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-apps-web-progresivas-pwa-windows-11-como-instalan-3301517.jpg?tf=1200x' alt='Qué son las apps web progresivas (PWA) de Windows 11 y cómo se instalan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596'>WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama-3-nueva-ia-meta-1380596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIF con Llama 3, la nueva IA de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575'>¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?</a></h4>
-    <a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?' />
     </a>
 </div>
 
