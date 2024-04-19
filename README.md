@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787'>Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-probar-meta-ai-rival-chatgpt-gratuito-aun-no-ha-llegado-espana-1380787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-ai-3301798.jpg?tf=1200x' alt='Así puedes probar Meta AI, el rival de ChatGPT gratuito que aún no ha llegado a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372'>¿La freidora de aire es cancerígena? Lo que debes saber antes de usarla</a></h4>
+    <a href='https://computerhoy.com/alimentacion/freidora-aire-cancerigena-debes-saber-antes-usarla-1240372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/freidora-aire-cancerigena-debes-saber-antes-usarla-3301534.jpg?tf=1200x' alt='¿La freidora de aire es cancerígena? Lo que debes saber antes de usarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-llega-espana-21-mayo-pero-planes-precios-traera-plataforma-1380772'>Max llega a España el 21 de mayo y ya se conocen los planes y precios que traerá la plataforma</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-llega-espana-21-mayo-pero-planes-precios-traera-plataforma-1380772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/max-llega-espana-3301783.jpg?tf=1200x' alt='Max llega a España el 21 de mayo y ya se conocen los planes y precios que traerá la plataforma' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728'>La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-deepfake-3301724.jpg?tf=1200x' alt='La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-1380715'>Google Maps añadirá la conexión mediante satélite sin datos ni WiFi</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-1380715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-3301687.jpg?tf=1200x' alt='Google Maps añadirá la conexión mediante satélite sin datos ni WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691'>Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos' />
     </a>
 </div>
 
