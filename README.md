@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/max-llega-espana-21-mayo-pero-planes-precios-traera-plataforma-1380772'>Max llega a España el 21 de mayo y ya se conocen los planes y precios que traerá la plataforma</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-llega-espana-21-mayo-pero-planes-precios-traera-plataforma-1380772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/max-llega-espana-3301783.jpg?tf=1200x' alt='Max llega a España el 21 de mayo y ya se conocen los planes y precios que traerá la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/laliga-no-quiere-veas-futbol-gratis-movil-carga-google-apple-huawei-1380750'>LaLiga no quiere que veas fútbol gratis en tu móvil y carga contra Google, Apple y Huawei </a></h4>
+    <a href='https://computerhoy.com/moviles/laliga-no-quiere-veas-futbol-gratis-movil-carga-google-apple-huawei-1380750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/laliga-futbol-movil-3301748.jpg?tf=1200x' alt='LaLiga no quiere que veas fútbol gratis en tu móvil y carga contra Google, Apple y Huawei ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728'>La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/inteligencia-artificial-cambiar-caras-voces-clave-yahoo-boys-estafas-millonarias-1380728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-deepfake-3301724.jpg?tf=1200x' alt='La inteligencia artificial para cambiar caras y voces, la clave de los Yahoo Boys para sus estafas millonarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-1380715'>Google Maps añadirá la conexión mediante satélite sin datos ni WiFi</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-1380715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-anadira-conexion-mediante-satelite-datos-ni-wifi-3301687.jpg?tf=1200x' alt='Google Maps añadirá la conexión mediante satélite sin datos ni WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691'>Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackers-consiguen-53-millones-registros-morosos-quieren-publicarlos-1380691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Hackers consiguen 5,3 millones de registros de morosos y quieren publicarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-liquida-kindle-top-tiene-espacio-miles-libros-resiste-agua-1380375'>Amazon liquida uno de sus Kindle más top: tiene espacio para miles de libros y resiste al agua</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-liquida-kindle-top-tiene-espacio-miles-libros-resiste-agua-1380375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kindle-oasis-3301041.jpg?tf=1200x' alt='Amazon liquida uno de sus Kindle más top: tiene espacio para miles de libros y resiste al agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668'>Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor</a></h4>
-    <a href='https://computerhoy.com/tv/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-1380668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/uptobox-pretende-reabrir-web-medio-lucha-derechos-autor-3301616.jpg?tf=1200x' alt='Uptobox pretende reabrir su web en medio de una lucha por los derechos de autor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-escribe-mejor-codigo-genera-imagen-realista-1380656'>¿Qué IA escribe el mejor código o genera la imagen más realista?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-escribe-mejor-codigo-genera-imagen-realista-1380656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/herramientas-inteligencia-artificial-3301658.jpg?tf=1200x' alt='¿Qué IA escribe el mejor código o genera la imagen más realista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647'>YouTube se prepara para la llegada de la IA en su próxima actualización</a></h4>
-    <a href='https://computerhoy.com/google/youtube-prepara-llegada-ia-proxima-actualizacion-1380647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-prepara-llegada-ia-proxima-actualizacion-3301568.jpg?tf=1200x' alt='YouTube se prepara para la llegada de la IA en su próxima actualización' />
     </a>
 </div>
 
