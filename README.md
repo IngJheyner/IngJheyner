@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-apps-web-progresivas-pwa-windows-11-como-instalan-1380614'>Qué son las apps web progresivas (PWA) de Windows 11 y cómo se instalan</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-apps-web-progresivas-pwa-windows-11-como-instalan-1380614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-apps-web-progresivas-pwa-windows-11-como-instalan-3301517.jpg?tf=1200x' alt='Qué son las apps web progresivas (PWA) de Windows 11 y cómo se instalan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603'>Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-1380603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-3301510.jpg?tf=1200x' alt='Cómo borrar objetos de una imagen en Windows gratis sin Photoshop ni instalar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575'>¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?</a></h4>
     <a href='https://computerhoy.com/apps/van-desaparecer-muchas-fotos-galeria-google-photos-1380575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='¿Por qué van a desaparecer muchas fotos de tu galería de Google Fotos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572'>Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-algunos-moviles-samsung-todo-tienes-saber-1380572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linea-verde-pantalla-algunos-moviles-samsung-3301465.jpg?tf=1200x' alt='Línea verde en la pantalla de algunos móviles Samsung: todo lo que tienes que saber' />
     </a>
 </div>
 
