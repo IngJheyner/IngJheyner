@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996'>OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox</a></h4>
+    <a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/onedrive-3302221.jpg?tf=1200x' alt='OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991'>Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil</a></h4>
     <a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965'>Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-3302190.jpg?tf=1200x' alt='Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957'>La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-3302174.jpg?tf=1200x' alt='La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025' />
     </a>
 </div>
 
