@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991'>Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822'>Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg?tf=1200x' alt='Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957'>La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025</a></h4>
     <a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-3302174.jpg?tf=1200x' alt='La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949'>Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación</a></h4>
-    <a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-3302156.jpg?tf=1200x' alt='Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación' />
     </a>
 </div>
 
