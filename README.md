@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726'>Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/philips-bliss-ventilador-techo-aspas-3119396.jpg?tf=1200x' alt='Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924'>Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?</a></h4>
+    <a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fibra-optica-3301462.jpg?tf=1200x' alt='Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890'>Cuando encuentras un Neandertal en las baldosas de tu baño</a></h4>
     <a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-encuentras-neandertal-baldosas-bano-3302013.jpg?tf=1200x' alt='Cuando encuentras un Neandertal en las baldosas de tu baño' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665'>Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272287.jpg?tf=1200x' alt='Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fin-humanidad-ia-1378518'>¿Acabará la IA con los seres humanos? Este profesor de Berkeley dice que sí y que tardará menos de lo que esperas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fin-humanidad-ia-1378518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-humanidad-3301890.jpg?tf=1200x' alt='¿Acabará la IA con los seres humanos? Este profesor de Berkeley dice que sí y que tardará menos de lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-llamadas-perdidas-1378732'>Ojo con las llamadas perdidas: el timo del Wangiri pega fuerte estos días</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-llamadas-perdidas-1378732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-3298242.jpg?tf=1200x' alt='Ojo con las llamadas perdidas: el timo del Wangiri pega fuerte estos días' />
     </a>
 </div>
 
