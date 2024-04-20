@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-1380884'>AltStore PAL: cómo instalar la tienda alternativa para descargar apps en iPhone y iPad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-1380884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-3302011.jpg?tf=1200x' alt='AltStore PAL: cómo instalar la tienda alternativa para descargar apps en iPhone y iPad' />
+    <h4><a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890'>Cuando encuentras un Neandertal en las baldosas de tu baño</a></h4>
+    <a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-encuentras-neandertal-baldosas-bano-3302013.jpg?tf=1200x' alt='Cuando encuentras un Neandertal en las baldosas de tu baño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/parasyte-serie-netflix-1378846'>Parasyte: los grises, la serie coreana adaptada de un manga japonés que lo está petando en Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/parasyte-serie-netflix-1378846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-problema-tres-cuerpos-ni-fallout-serie-ciencia-ficcion-moda-arrasa-netflix-3298473.jpg?tf=1200x' alt='Parasyte: los grises, la serie coreana adaptada de un manga japonés que lo está petando en Netflix' />
+    <h4><a href='https://computerhoy.com/apps/elon-musk-check-azul-twitter-1378977'>Elon Musk recula y podrías volver a tener en X el check azul de Twitter sin pagar una suscripción</a></h4>
+    <a href='https://computerhoy.com/apps/elon-musk-check-azul-twitter-1378977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-check-azul-3301900.jpg?tf=1200x' alt='Elon Musk recula y podrías volver a tener en X el check azul de Twitter sin pagar una suscripción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-20-abril-2024-1380887'>¿Qué santo es hoy? Santoral del sábado 20 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-20-abril-2024-1380887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-20-abril-2024-3302010.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 20 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665'>Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272287.jpg?tf=1200x' alt='Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/timo-oro-robo-coche-1378834'>En Francia han reinventado el timo del oro y los conductores están cayendo como moscas</a></h4>
-    <a href='https://computerhoy.com/motor/timo-oro-robo-coche-1378834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robo-coche-timo-oro-3301909.jpg?tf=1200x' alt='En Francia han reinventado el timo del oro y los conductores están cayendo como moscas' />
+    <h4><a href='https://computerhoy.com/tecnologia/fin-humanidad-ia-1378518'>¿Acabará la IA con los seres humanos? Este profesor de Berkeley dice que sí y que tardará menos de lo que esperas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fin-humanidad-ia-1378518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-humanidad-3301890.jpg?tf=1200x' alt='¿Acabará la IA con los seres humanos? Este profesor de Berkeley dice que sí y que tardará menos de lo que esperas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-pro-4-cancelacion-ruido-1378493'>Son uno de los mejores auriculares con cancelación de ruido de Xiaomi y están a un precio que da risa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-pro-4-cancelacion-ruido-1378493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-pro-3297886.jpg?tf=1200x' alt='Son uno de los mejores auriculares con cancelación de ruido de Xiaomi y están a un precio que da risa' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-llamadas-perdidas-1378732'>Ojo con las llamadas perdidas: el timo del Wangiri pega fuerte estos días</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/wangiri-estafa-llamadas-perdidas-1378732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wangiri-estafa-japonesa-ya-han-advertido-ocu-guardia-civil-3298242.jpg?tf=1200x' alt='Ojo con las llamadas perdidas: el timo del Wangiri pega fuerte estos días' />
     </a>
 </div>
 
