@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ram-rapida-puede-mejorar-rendimiento-pc-1380328'>¿Una RAM más rápida puede mejorar el rendimiento de tu PC?</a></h4>
+    <a href='https://computerhoy.com/pc/ram-rapida-puede-mejorar-rendimiento-pc-1380328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ram-rapida-puede-mejorar-rendimiento-pc-3301003.jpg?tf=1200x' alt='¿Una RAM más rápida puede mejorar el rendimiento de tu PC?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackear-red-trenes-1379925'>¿Hackear la red de trenes de un país es posible? Expertos en ciberseguridad me demostraron que sí </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackear-red-trenes-1379925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-trenes-rootedcon-24-3301447.jpg?tf=1200x' alt='¿Hackear la red de trenes de un país es posible? Expertos en ciberseguridad me demostraron que sí ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726'>Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/philips-bliss-ventilador-techo-aspas-3119396.jpg?tf=1200x' alt='Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890'>Cuando encuentras un Neandertal en las baldosas de tu baño</a></h4>
     <a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-encuentras-neandertal-baldosas-bano-3302013.jpg?tf=1200x' alt='Cuando encuentras un Neandertal en las baldosas de tu baño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elon-musk-check-azul-twitter-1378977'>Elon Musk recula y podrías volver a tener en X el check azul de Twitter sin pagar una suscripción</a></h4>
-    <a href='https://computerhoy.com/apps/elon-musk-check-azul-twitter-1378977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-check-azul-3301900.jpg?tf=1200x' alt='Elon Musk recula y podrías volver a tener en X el check azul de Twitter sin pagar una suscripción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665'>Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-sea-mejor-reloj-inteligente-calidad-precio-mercado-xiaomi-solo-cuesta-77-euros-1380665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272287.jpg?tf=1200x' alt='Puede que este sea el mejor reloj inteligente calidad-precio del mercado: es de Xiaomi y solo cuesta 77 euros' />
     </a>
 </div>
 
