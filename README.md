@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999'>TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos</a></h4>
+    <a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-3302225.jpg?tf=1200x' alt='TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996'>OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox</a></h4>
     <a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/onedrive-3302221.jpg?tf=1200x' alt='OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/llega-verificacion-biometrica-google-play-puedes-activarla-1380966'>Llega la verificación biométrica a Google Play y así puedes activarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/llega-verificacion-biometrica-google-play-puedes-activarla-1380966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguridad-google-play-3302191.jpg?tf=1200x' alt='Llega la verificación biométrica a Google Play y así puedes activarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965'>Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-3302190.jpg?tf=1200x' alt='Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer' />
     </a>
 </div>
 
