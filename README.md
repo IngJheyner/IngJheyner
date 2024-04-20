@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867'>IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena</a></h4>
+    <a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-3301995.jpg?tf=1200x' alt='IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876'>VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio</a></h4>
     <a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vasa-1-ia-microsoft-crea-deepfake-foto-grabacion-audio-3301979.jpg?tf=1200x' alt='VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527'>Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/olvidate-fallout-5-peliculas-steampunk-iguales-mejores-tienes-conocer-3301382.jpg?tf=1200x' alt='Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688'>¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?</a></h4>
-    <a href='https://computerhoy.com/google/son-cajas-negras-ia-desconciertan-google-1380688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/son-cajas-negras-inteligencia-artificial-desconciertan-google-3301643.jpg?tf=1200x' alt='¿Qué son las “cajas negras” de la inteligencia artificial que desconciertan a Google?' />
     </a>
 </div>
 
