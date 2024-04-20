@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957'>La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-3302174.jpg?tf=1200x' alt='La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949'>Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación</a></h4>
     <a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-3302156.jpg?tf=1200x' alt='Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/alexa-llama-puerta-amazon-deja-altavoces-inteligentes-baratos-menos-30-euros-1380649'>Alexa llama a tu puerta: Amazon deja sus altavoces inteligentes más baratos en menos de 30 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/alexa-llama-puerta-amazon-deja-altavoces-inteligentes-baratos-menos-30-euros-1380649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazon-echo-pop-3301550.jpg?tf=1200x' alt='Alexa llama a tu puerta: Amazon deja sus altavoces inteligentes más baratos en menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-password-apps-iphone-1380365'>Cómo poner contraseña a las aplicaciones en un iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-password-apps-iphone-1380365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/poner-contrasena-iphone-3301661.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un iPhone' />
     </a>
 </div>
 
