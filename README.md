@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965'>Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer</a></h4>
+    <a href='https://computerhoy.com/apps/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-1380965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevo-rediseno-iconos-google-maps-android-auto-deberias-conocer-3302190.jpg?tf=1200x' alt='Este es el nuevo rediseño de iconos de Google Maps en Android Auto y que deberías conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957'>La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025</a></h4>
     <a href='https://computerhoy.com/entretenimiento/razon-netflix-dejara-compartir-numero-suscriptores-partir-2025-1380957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/netflix-3302174.jpg?tf=1200x' alt='La razón por la que Netflix dejará de compartir número de suscriptores a partir de 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/movil-android-no-recibe-llamadas-prueba-estas-6-posibles-soluciones-1364145'>¿Tu móvil Android no recibe llamadas? Prueba estas 6 posibles soluciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/movil-android-no-recibe-llamadas-prueba-estas-6-posibles-soluciones-1364145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/android-no-recibe-llamadas-3273427.jpg?tf=1200x' alt='¿Tu móvil Android no recibe llamadas? Prueba estas 6 posibles soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alexa-llama-puerta-amazon-deja-altavoces-inteligentes-baratos-menos-30-euros-1380649'>Alexa llama a tu puerta: Amazon deja sus altavoces inteligentes más baratos en menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alexa-llama-puerta-amazon-deja-altavoces-inteligentes-baratos-menos-30-euros-1380649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazon-echo-pop-3301550.jpg?tf=1200x' alt='Alexa llama a tu puerta: Amazon deja sus altavoces inteligentes más baratos en menos de 30 euros' />
     </a>
 </div>
 
