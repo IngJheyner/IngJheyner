@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949'>Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación</a></h4>
+    <a href='https://computerhoy.com/apple/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-1380949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/medico-hizo-uso-apple-vision-pro-hacer-delicada-cirugia-artroscopia-vio-operacion-3302156.jpg?tf=1200x' alt='Este médico hizo uso del Apple Vision Pro para hacer una delicada cirugía de artroscopia y así vio la operación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/actualiza-ya-whatsapp-vuelva-funcionar-como-antes-android-auto-1380931'>Actualiza ya para que WhatsApp vuelva a funcionar como antes en Android Auto</a></h4>
     <a href='https://computerhoy.com/apps/actualiza-ya-whatsapp-vuelva-funcionar-como-antes-android-auto-1380931' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-android-auto-3302134.jpg?tf=1200x' alt='Actualiza ya para que WhatsApp vuelva a funcionar como antes en Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-password-apps-iphone-1380365'>Cómo poner contraseña a las aplicaciones en un iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-password-apps-iphone-1380365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/poner-contrasena-iphone-3301661.jpg?tf=1200x' alt='Cómo poner contraseña a las aplicaciones en un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-prueba-ocultar-boton-cerrar-sesion-windows-11-detras-anuncio-1380909'>Microsoft prueba ocultar el botón cerrar sesión en Windows 11 detrás de un anuncio</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-prueba-ocultar-boton-cerrar-sesion-windows-11-detras-anuncio-1380909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/menu-inicio-windows-11-3302055.jpg?tf=1200x' alt='Microsoft prueba ocultar el botón cerrar sesión en Windows 11 detrás de un anuncio' />
     </a>
 </div>
 
