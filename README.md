@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-prueba-ocultar-boton-cerrar-sesion-windows-11-detras-anuncio-1380909'>Microsoft prueba ocultar el botón cerrar sesión en Windows 11 detrás de un anuncio</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-prueba-ocultar-boton-cerrar-sesion-windows-11-detras-anuncio-1380909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/menu-inicio-windows-11-3302055.jpg?tf=1200x' alt='Microsoft prueba ocultar el botón cerrar sesión en Windows 11 detrás de un anuncio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-1380621'>Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-1380621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve y cómo usarlo en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/podria-afectar-cerebro-te-olvida-escribir-mano-1378717'>Así podría afectar a tu cerebro si se te olvida escribir a mano, según la ciencia</a></h4>
     <a href='https://computerhoy.com/ciencia/podria-afectar-cerebro-te-olvida-escribir-mano-1378717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/podria-afectar-cerebro-te-olvida-escribir-mano-ciencia-3298203.jpg?tf=1200x' alt='Así podría afectar a tu cerebro si se te olvida escribir a mano, según la ciencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/hackear-red-trenes-1379925'>¿Hackear la red de trenes de un país es posible? Expertos en ciberseguridad me demostraron que sí </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/hackear-red-trenes-1379925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-trenes-rootedcon-24-3301447.jpg?tf=1200x' alt='¿Hackear la red de trenes de un país es posible? Expertos en ciberseguridad me demostraron que sí ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726'>Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspas-silencioso-ventilador-buscado-philips-rebajadisimo-amazon-1380726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/philips-bliss-ventilador-techo-aspas-3119396.jpg?tf=1200x' alt='Sin aspas y silencioso: es el ventilador más buscado, de Philips y rebajadísimo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924'>Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?</a></h4>
-    <a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fibra-optica-3301462.jpg?tf=1200x' alt='Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?' />
     </a>
 </div>
 
