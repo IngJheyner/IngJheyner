@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883'>Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google</a></h4>
+    <a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/destruyen-queman-coche-autonomo-google-plena-calle-aplausos-multitud-video-3273388.jpg?tf=1200x' alt='Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867'>IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena</a></h4>
     <a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-3301995.jpg?tf=1200x' alt='IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863'>Mejores Amigos de Instagram llega a WhatsApp y así funciona</a></h4>
     <a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contactos-favoritos-whatsapp-3301966.jpg?tf=1200x' alt='Mejores Amigos de Instagram llega a WhatsApp y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527'>Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-steampunk-iguales-mejores-fallout-1380527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/olvidate-fallout-5-peliculas-steampunk-iguales-mejores-tienes-conocer-3301382.jpg?tf=1200x' alt='Olvídate de Fallout: 5 películas steampunk iguales o mejores que tienes que conocer' />
     </a>
 </div>
 
