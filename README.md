@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-quitar-anuncios-windows-11-manera-facil-rapida-1380882'>Así puedes quitar los anuncios de Windows 11 de manera fácil y rápida</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-quitar-anuncios-windows-11-manera-facil-rapida-1380882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-quitar-anuncios-windows-11-manera-facil-rapida-3302005.jpg?tf=1200x' alt='Así puedes quitar los anuncios de Windows 11 de manera fácil y rápida' />
+    <h4><a href='https://computerhoy.com/tutoriales/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-1380884'>AltStore PAL: cómo instalar la tienda alternativa para descargar apps en iPhone y iPad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-1380884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/altstore-pal-como-instalar-tienda-alternativa-descargar-apps-iphone-ipad-3302011.jpg?tf=1200x' alt='AltStore PAL: cómo instalar la tienda alternativa para descargar apps en iPhone y iPad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883'>Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google</a></h4>
-    <a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/destruyen-queman-coche-autonomo-google-plena-calle-aplausos-multitud-video-3273388.jpg?tf=1200x' alt='Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google' />
+    <h4><a href='https://computerhoy.com/entretenimiento/parasyte-serie-netflix-1378846'>Parasyte: los grises, la serie coreana adaptada de un manga japonés que lo está petando en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/parasyte-serie-netflix-1378846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-problema-tres-cuerpos-ni-fallout-serie-ciencia-ficcion-moda-arrasa-netflix-3298473.jpg?tf=1200x' alt='Parasyte: los grises, la serie coreana adaptada de un manga japonés que lo está petando en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867'>IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena</a></h4>
-    <a href='https://computerhoy.com/tv/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-1380867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iptv-smarters-como-ver-canales-tdt-smart-tv-antena-3301995.jpg?tf=1200x' alt='IPTV Smarters: cómo ver los canales de la TDT en tu Smart TV sin antena' />
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-20-abril-2024-1380887'>¿Qué santo es hoy? Santoral del sábado 20 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-20-abril-2024-1380887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-20-abril-2024-3302010.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 20 de abril de 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876'>VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vasa-1-ia-microsoft-crea-deepfake-foto-audio-1380876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vasa-1-ia-microsoft-crea-deepfake-foto-grabacion-audio-3301979.jpg?tf=1200x' alt='VASA-1, la IA de Microsoft que crea un deepfake con una foto y una grabación de audio' />
+    <h4><a href='https://computerhoy.com/motor/timo-oro-robo-coche-1378834'>En Francia han reinventado el timo del oro y los conductores están cayendo como moscas</a></h4>
+    <a href='https://computerhoy.com/motor/timo-oro-robo-coche-1378834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robo-coche-timo-oro-3301909.jpg?tf=1200x' alt='En Francia han reinventado el timo del oro y los conductores están cayendo como moscas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865'>Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura</a></h4>
-    <a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/objeto-perdido-uber-3301969.jpg?tf=1200x' alt='Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-pro-4-cancelacion-ruido-1378493'>Son uno de los mejores auriculares con cancelación de ruido de Xiaomi y están a un precio que da risa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-redmi-buds-pro-4-cancelacion-ruido-1378493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-buds-4-pro-3297886.jpg?tf=1200x' alt='Son uno de los mejores auriculares con cancelación de ruido de Xiaomi y están a un precio que da risa' />
     </a>
 </div>
 
