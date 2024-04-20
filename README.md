@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-quitar-anuncios-windows-11-manera-facil-rapida-1380882'>Así puedes quitar los anuncios de Windows 11 de manera fácil y rápida</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-quitar-anuncios-windows-11-manera-facil-rapida-1380882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puedes-quitar-anuncios-windows-11-manera-facil-rapida-3302005.jpg?tf=1200x' alt='Así puedes quitar los anuncios de Windows 11 de manera fácil y rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883'>Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google</a></h4>
     <a href='https://computerhoy.com/motor/adolescente-14-anos-culpable-incendiar-coche-autonomo-google-1380883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/destruyen-queman-coche-autonomo-google-plena-calle-aplausos-multitud-video-3273388.jpg?tf=1200x' alt='Un adolescente de 14 años, culpable de incendiar un coche autónomo de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865'>Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura</a></h4>
     <a href='https://computerhoy.com/life/uber-desvela-objetos-perdidos-raros-han-encontrado-coches-locura-1380865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/objeto-perdido-uber-3301969.jpg?tf=1200x' alt='Uber desvela los objetos perdidos más raros que han encontrado en sus coches y es una locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863'>Mejores Amigos de Instagram llega a WhatsApp y así funciona</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-amigos-instagram-llega-whatsapp-funciona-1380863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contactos-favoritos-whatsapp-3301966.jpg?tf=1200x' alt='Mejores Amigos de Instagram llega a WhatsApp y así funciona' />
     </a>
 </div>
 
