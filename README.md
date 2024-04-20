@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/podria-afectar-cerebro-te-olvida-escribir-mano-1378717'>Así podría afectar a tu cerebro si se te olvida escribir a mano, según la ciencia</a></h4>
+    <a href='https://computerhoy.com/ciencia/podria-afectar-cerebro-te-olvida-escribir-mano-1378717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/podria-afectar-cerebro-te-olvida-escribir-mano-ciencia-3298203.jpg?tf=1200x' alt='Así podría afectar a tu cerebro si se te olvida escribir a mano, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ram-rapida-puede-mejorar-rendimiento-pc-1380328'>¿Una RAM más rápida puede mejorar el rendimiento de tu PC?</a></h4>
     <a href='https://computerhoy.com/pc/ram-rapida-puede-mejorar-rendimiento-pc-1380328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ram-rapida-puede-mejorar-rendimiento-pc-3301003.jpg?tf=1200x' alt='¿Una RAM más rápida puede mejorar el rendimiento de tu PC?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924'>Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?</a></h4>
     <a href='https://computerhoy.com/internet/adios-adsl-25-anos-cambio-va-ocurrir-miles-usuarios-afectados-1379924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fibra-optica-3301462.jpg?tf=1200x' alt='Adiós al ADSL tras 25 años: ¿Por qué este cambio y qué va a ocurrir con los miles de usuarios afectados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890'>Cuando encuentras un Neandertal en las baldosas de tu baño</a></h4>
-    <a href='https://computerhoy.com/ciencia/cuando-encuentras-neandertal-baldosas-bano-1380890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuando-encuentras-neandertal-baldosas-bano-3302013.jpg?tf=1200x' alt='Cuando encuentras un Neandertal en las baldosas de tu baño' />
     </a>
 </div>
 
