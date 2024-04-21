@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069'>Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-3302370.jpg?tf=1200x' alt='Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061'>WhatsApp trabaja en una función para compartir archivos con personas cercanas</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-3302345.jpg?tf=1200x' alt='WhatsApp trabaja en una función para compartir archivos con personas cercanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047'>Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178'>¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas</a></h4>
     <a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-tactil-3271557.jpg?tf=1200x' alt='¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017'>Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg?tf=1200x' alt='Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-auriculares-inalambricos-android-iphone-1372010'>Cómo sincronizar los auriculares inalámbricos con el móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sincronizar-auriculares-inalambricos-android-iphone-1372010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/auriculares-bluetooth-2611237.jpg?tf=1200x' alt='Cómo sincronizar los auriculares inalámbricos con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024'>Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-118-3302282.jpg?tf=1200x' alt='Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-foto-perfil-instagram-1380530'>Cómo descargar la foto de perfil de Instagram de cualquier cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-foto-perfil-instagram-1380530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-descargar-foto-perfil-instagram-cualquier-cuenta-3301446.jpg?tf=1200x' alt='Cómo descargar la foto de perfil de Instagram de cualquier cuenta' />
     </a>
 </div>
 
