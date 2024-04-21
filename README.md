@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085'>Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80</a></h4>
+    <a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-mitico-procesador-z80-usado-ordenadores-consolas-80-3302388.jpg?tf=1200x' alt='Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080'>Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla</a></h4>
     <a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-llama-revision-todos-cybertruck-grave-fallo-arregla-3302381.jpg?tf=1200x' alt='Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061'>WhatsApp trabaja en una función para compartir archivos con personas cercanas</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-3302345.jpg?tf=1200x' alt='WhatsApp trabaja en una función para compartir archivos con personas cercanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047'>Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca' />
     </a>
 </div>
 
