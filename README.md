@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250'>Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/archivo-bat-sirve-como-abrirlo-windows-11-3300952.jpg?tf=1200x' alt='Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-contactos-gmail-moviles-android-iphone-1372896'>Cómo sincronizar contactos en Gmail en móviles Android y iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sincronizar-contactos-gmail-moviles-android-iphone-1372896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/gmail-movil-2422683.jpg?tf=1200x' alt='Cómo sincronizar contactos en Gmail en móviles Android y iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618'>Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-cuando-google-maps-no-funciona-movil-como-solucionarlo-3301522.jpg?tf=1200x' alt='Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-momento-pantalla-amoled-procesador-snapdragon-camara-top-solo-246-euros-cupon-1380751'>Puede ser el mejor móvil del momento: pantalla AMOLED, procesador Snapdragon, cámara top y solo 246 euros con un cupón</a></h4>
     <a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-momento-pantalla-amoled-procesador-snapdragon-camara-top-solo-246-euros-cupon-1380751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823469.jpg?tf=1200x' alt='Puede ser el mejor móvil del momento: pantalla AMOLED, procesador Snapdragon, cámara top y solo 246 euros con un cupón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/he-aprendido-leer-mi-nomina-claves-tener-cuenta-no-te-escape-ni-trabajo-1379926'>He aprendido a leer mi nómina: claves a tener en cuenta para que no se te escape ni una en tu trabajo </a></h4>
     <a href='https://computerhoy.com/life/he-aprendido-leer-mi-nomina-claves-tener-cuenta-no-te-escape-ni-trabajo-1379926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/leer-nomina-trabajo-3301425.jpg?tf=1200x' alt='He aprendido a leer mi nómina: claves a tener en cuenta para que no se te escape ni una en tu trabajo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-unas-gafas-inteligentes-rastrean-mirada-expresiones-faciales-camaras-1380992'>Crean unas gafas inteligentes que rastrean la mirada y las expresiones faciales, y sin cámaras</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-unas-gafas-inteligentes-rastrean-mirada-expresiones-faciales-camaras-1380992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crean-unas-gafas-inteligentes-rastrean-mirada-expresiones-faciales-camaras-3302216.jpg?tf=1200x' alt='Crean unas gafas inteligentes que rastrean la mirada y las expresiones faciales, y sin cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-eos-podria-convertirse-superordenador-ia-rapido-mundo-1377960'>¿Qué es NVIDIA Eos y por qué podría convertirse en el superordenador de IA más rápido del mundo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-eos-podria-convertirse-superordenador-ia-rapido-mundo-1377960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1713513432701-3301608.jpg?tf=1200x' alt='¿Qué es NVIDIA Eos y por qué podría convertirse en el superordenador de IA más rápido del mundo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/24-horas-pantallas-volvi-vivir-como-90-1376118'>24 horas sin pantallas de ningún tipo: así volví a vivir como en los años 90</a></h4>
-    <a href='https://computerhoy.com/tecnologia/24-horas-pantallas-volvi-vivir-como-90-1376118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-pantallas-3298956.jpg?tf=1200x' alt='24 horas sin pantallas de ningún tipo: así volví a vivir como en los años 90' />
     </a>
 </div>
 
