@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095'>Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades</a></h4>
+    <a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-aqui-goldene-grafeno-oro-cambia-propiedades-3302426.jpg?tf=1200x' alt='Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-50-descuento-siempre-pierde-todo-valor-1381091'>Ahora que HBO Max es Max, el 50% de descuento para siempre pierde todo su valor</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hbo-max-50-descuento-siempre-pierde-todo-valor-1381091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Ahora que HBO Max es Max, el 50% de descuento para siempre pierde todo su valor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080'>Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla</a></h4>
     <a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-llama-revision-todos-cybertruck-grave-fallo-arregla-3302381.jpg?tf=1200x' alt='Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071'>Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android</a></h4>
-    <a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-drive-escritorio-3302375.jpg?tf=1200x' alt='Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android' />
     </a>
 </div>
 
