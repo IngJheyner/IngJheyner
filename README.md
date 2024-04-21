@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hbo-max-50-descuento-siempre-pierde-todo-valor-1381091'>Ahora que HBO Max es Max, el 50% de descuento para siempre pierde todo su valor</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hbo-max-50-descuento-siempre-pierde-todo-valor-1381091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Ahora que HBO Max es Max, el 50% de descuento para siempre pierde todo su valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087'>Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas</a></h4>
     <a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-tarjetas-credito-panel-oled-ilumina-cuando-pagas-3302397.jpg?tf=1200x' alt='Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071'>Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android</a></h4>
     <a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-drive-escritorio-3302375.jpg?tf=1200x' alt='Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069'>Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-3302370.jpg?tf=1200x' alt='Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos' />
     </a>
 </div>
 
