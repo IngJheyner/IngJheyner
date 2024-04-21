@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087'>Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-tarjetas-credito-panel-oled-ilumina-cuando-pagas-3302397.jpg?tf=1200x' alt='Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085'>Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80</a></h4>
     <a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-mitico-procesador-z80-usado-ordenadores-consolas-80-3302388.jpg?tf=1200x' alt='Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069'>Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-3302370.jpg?tf=1200x' alt='Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061'>WhatsApp trabaja en una función para compartir archivos con personas cercanas</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-1381061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-trabaja-funcion-compartir-archivos-personas-cercanas-3302345.jpg?tf=1200x' alt='WhatsApp trabaja en una función para compartir archivos con personas cercanas' />
     </a>
 </div>
 
