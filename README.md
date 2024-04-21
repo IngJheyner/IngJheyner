@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-eos-podria-convertirse-superordenador-ia-rapido-mundo-1377960'>¿Qué es NVIDIA Eos y por qué podría convertirse en el superordenador de IA más rápido del mundo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-eos-podria-convertirse-superordenador-ia-rapido-mundo-1377960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1713513432701-3301608.jpg?tf=1200x' alt='¿Qué es NVIDIA Eos y por qué podría convertirse en el superordenador de IA más rápido del mundo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/24-horas-pantallas-volvi-vivir-como-90-1376118'>24 horas sin pantallas de ningún tipo: así volví a vivir como en los años 90</a></h4>
+    <a href='https://computerhoy.com/tecnologia/24-horas-pantallas-volvi-vivir-como-90-1376118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-pantallas-3298956.jpg?tf=1200x' alt='24 horas sin pantallas de ningún tipo: así volví a vivir como en los años 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/misterio-hoba-meteorito-grande-existe-1381006'>El misterio de Hoba, el meteorito más grande que existe</a></h4>
     <a href='https://computerhoy.com/espacio/misterio-hoba-meteorito-grande-existe-1381006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/misterio-hoba-meteorito-grande-existe-3302249.jpg?tf=1200x' alt='El misterio de Hoba, el meteorito más grande que existe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999'>TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-3302225.jpg?tf=1200x' alt='TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996'>OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox</a></h4>
-    <a href='https://computerhoy.com/apps/onedrive-podria-permitirte-importar-archivos-google-drive-dropbox-1380996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/onedrive-3302221.jpg?tf=1200x' alt='OneDrive podría permitirte importar tus archivos de Google Drive y Dropbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991'>Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil' />
     </a>
 </div>
 
