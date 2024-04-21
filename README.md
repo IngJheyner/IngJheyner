@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024'>Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-118-3302282.jpg?tf=1200x' alt='Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-foto-perfil-instagram-1380530'>Cómo descargar la foto de perfil de Instagram de cualquier cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-foto-perfil-instagram-1380530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-descargar-foto-perfil-instagram-cualquier-cuenta-3301446.jpg?tf=1200x' alt='Cómo descargar la foto de perfil de Instagram de cualquier cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250'>Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/archivo-bat-sirve-como-abrirlo-windows-11-3300952.jpg?tf=1200x' alt='Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618'>Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-cuando-google-maps-no-funciona-movil-como-solucionarlo-3301522.jpg?tf=1200x' alt='Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-momento-pantalla-amoled-procesador-snapdragon-camara-top-solo-246-euros-cupon-1380751'>Puede ser el mejor móvil del momento: pantalla AMOLED, procesador Snapdragon, cámara top y solo 246 euros con un cupón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puede-ser-mejor-movil-momento-pantalla-amoled-procesador-snapdragon-camara-top-solo-246-euros-cupon-1380751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/oneplus-10t-analisis-opinion-2823469.jpg?tf=1200x' alt='Puede ser el mejor móvil del momento: pantalla AMOLED, procesador Snapdragon, cámara top y solo 246 euros con un cupón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/he-aprendido-leer-mi-nomina-claves-tener-cuenta-no-te-escape-ni-trabajo-1379926'>He aprendido a leer mi nómina: claves a tener en cuenta para que no se te escape ni una en tu trabajo </a></h4>
-    <a href='https://computerhoy.com/life/he-aprendido-leer-mi-nomina-claves-tener-cuenta-no-te-escape-ni-trabajo-1379926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/leer-nomina-trabajo-3301425.jpg?tf=1200x' alt='He aprendido a leer mi nómina: claves a tener en cuenta para que no se te escape ni una en tu trabajo ' />
     </a>
 </div>
 
