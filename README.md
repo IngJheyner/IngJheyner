@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071'>Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android</a></h4>
+    <a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-drive-escritorio-3302375.jpg?tf=1200x' alt='Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069'>Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-utilizara-ia-darte-localizacion-exacta-estaciones-carga-coches-electricos-1381069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-maps-3302370.jpg?tf=1200x' alt='Google Maps utilizará IA para darte la localización exacta de las estaciones de carga de coches eléctricos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178'>¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas</a></h4>
     <a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-tactil-3271557.jpg?tf=1200x' alt='¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017'>Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg?tf=1200x' alt='Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores' />
     </a>
 </div>
 
