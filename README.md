@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-21-abril-2024-1381002'>¿Qué santo es hoy? Santoral del domingo 21 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-21-abril-2024-1381002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-21-abril-2024-3302246.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 21 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999'>TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos</a></h4>
     <a href='https://computerhoy.com/apps/tiktok-te-permitira-clonar-voz-mediante-ia-tan-solo-10-segundos-1380999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-3302225.jpg?tf=1200x' alt='TikTok te permitirá clonar tu voz mediante IA en tan solo 10 segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822'>Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg?tf=1200x' alt='Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llega-verificacion-biometrica-google-play-puedes-activarla-1380966'>Llega la verificación biométrica a Google Play y así puedes activarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llega-verificacion-biometrica-google-play-puedes-activarla-1380966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguridad-google-play-3302191.jpg?tf=1200x' alt='Llega la verificación biométrica a Google Play y así puedes activarla' />
     </a>
 </div>
 
