@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/misterio-hoba-meteorito-grande-existe-1381006'>El misterio de Hoba, el meteorito más grande que existe</a></h4>
+    <a href='https://computerhoy.com/espacio/misterio-hoba-meteorito-grande-existe-1381006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/misterio-hoba-meteorito-grande-existe-3302249.jpg?tf=1200x' alt='El misterio de Hoba, el meteorito más grande que existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-21-abril-2024-1381002'>¿Qué santo es hoy? Santoral del domingo 21 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-21-abril-2024-1381002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-21-abril-2024-3302246.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 21 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991'>Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil</a></h4>
     <a href='https://computerhoy.com/android/android-15-te-dira-cuanto-tiempo-vida-queda-chip-memoria-interna-movil-1380991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 te dirá cuánto tiempo de vida le queda al chip de memoria interna de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822'>Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-apenas-300-euros-gran-compra-quieres-gama-alta-precio-top-1380822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/review-xiaomi-12-2695569.jpg?tf=1200x' alt='Este Xiaomi de apenas 300 euros es una gran compra si quieres un gama alta a precio top' />
     </a>
 </div>
 
