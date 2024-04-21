@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017'>Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-lia-rebaja-100-euros-mejores-aspiradores-1381017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/dyson-v12-slim-absolute-2842061.jpg?tf=1200x' alt='Dyson la lía y rebaja 100 euros uno de sus mejores aspiradores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-auriculares-inalambricos-android-iphone-1372010'>Cómo sincronizar los auriculares inalámbricos con el móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-sincronizar-auriculares-inalambricos-android-iphone-1372010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/auriculares-bluetooth-2611237.jpg?tf=1200x' alt='Cómo sincronizar los auriculares inalámbricos con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024'>Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-118-ya-disponible-version-estable-todos-incluye-estas-novedades-1381024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-118-3302282.jpg?tf=1200x' alt='Android Auto 11.8 ya está disponible en versión estable para todos e incluye estas novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250'>Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/archivo-bat-sirve-como-abrirlo-windows-11-1380250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/archivo-bat-sirve-como-abrirlo-windows-11-3300952.jpg?tf=1200x' alt='Qué es un archivo BAT, para qué sirve y cómo abrirlo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-sincronizar-contactos-gmail-moviles-android-iphone-1372896'>Cómo sincronizar contactos en Gmail en móviles Android y iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-sincronizar-contactos-gmail-moviles-android-iphone-1372896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/gmail-movil-2422683.jpg?tf=1200x' alt='Cómo sincronizar contactos en Gmail en móviles Android y iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618'>Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-maps-no-funciona-1380618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-cuando-google-maps-no-funciona-movil-como-solucionarlo-3301522.jpg?tf=1200x' alt='Qué hacer cuando Google Maps no funciona en tu móvil y cómo solucionarlo' />
     </a>
 </div>
 
