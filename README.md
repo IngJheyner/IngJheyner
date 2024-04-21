@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080'>Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-llama-revision-todos-cybertruck-grave-fallo-arregla-3302381.jpg?tf=1200x' alt='Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071'>Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android</a></h4>
     <a href='https://computerhoy.com/apps/google-drive-renueva-esperado-modo-oscuro-web-nuevos-filtros-android-1381071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-drive-escritorio-3302375.jpg?tf=1200x' alt='Google Drive se renueva con su esperado modo oscuro en la web y nuevos filtros en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047'>Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciona-nueva-forma-descargar-aplicaciones-web-microsoft-store-rapido-nunca-1381047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así funciona la nueva forma de descargar aplicaciones desde la web de Microsoft Store: es más rápido que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178'>¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pantalla-tactil-movil-android-no-responde-soluciones-1363178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/pantalla-tactil-3271557.jpg?tf=1200x' alt='¿La pantalla táctil de tu móvil Android no responde? Prueba estas soluciones alternativas' />
     </a>
 </div>
 
