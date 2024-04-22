@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300'>¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnologia-linea-gol-como-funciona-ligas-utiliza-errores-flagrantes-3302858.jpg?tf=1200x' alt='¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184'>El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185'>Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más</a></h4>
     <a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-electric-scooter-4-pro-2nd-gen-3302590.jpg?tf=1200x' alt='Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160'>5 tipos de conversaciones que nunca deberías tener por WhatsApp</a></h4>
     <a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-3302548.jpg?tf=1200x' alt='5 tipos de conversaciones que nunca deberías tener por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136'>Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baratos-accesibles-revolucionarios-seran-robots-humanoides-ceo-nvidia-3302487.jpg?tf=1200x' alt='Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232'>El truco definitivo para disfrutar de TikTok sin conexión durante horas</a></h4>
-    <a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-3302712.jpg?tf=1200x' alt='El truco definitivo para disfrutar de TikTok sin conexión durante horas' />
     </a>
 </div>
 
