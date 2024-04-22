@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/funcion-google-te-permite-encontrar-cancion-quieres-solo-tararear-1381161'>La función de Google que te permite encontrar la canción que quieres con solo tararear</a></h4>
+    <a href='https://computerhoy.com/google/funcion-google-te-permite-encontrar-cancion-quieres-solo-tararear-1381161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-cancion-asistente-3302595.jpg?tf=1200x' alt='La función de Google que te permite encontrar la canción que quieres con solo tararear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/quieres-tener-propio-generador-imagenes-ia-windows-puedes-hacerlo-paso-paso-1381154'>¿Quieres tener tu propio generador de imágenes con IA en Windows? Así puedes hacerlo paso a paso</a></h4>
+    <a href='https://computerhoy.com/tutoriales/quieres-tener-propio-generador-imagenes-ia-windows-puedes-hacerlo-paso-paso-1381154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-ordenador-3302573.jpg?tf=1200x' alt='¿Quieres tener tu propio generador de imágenes con IA en Windows? Así puedes hacerlo paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157'>Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-3302552.jpg?tf=1200x' alt='Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126'>Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados</a></h4>
     <a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dia-iva-3302486.jpg?tf=1200x' alt='Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-1380752'>La regla que utiliza un usuario de Amazon Prime para ahorrar dinero comprando</a></h4>
-    <a href='https://computerhoy.com/amazon/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-1380752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-3302473.jpg?tf=1200x' alt='La regla que utiliza un usuario de Amazon Prime para ahorrar dinero comprando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/wifi-cortes-550-m2-pack-routers-barato-acaba-problemas-1380675'>WiFi sin cortes hasta en 550 m2: este pack de routers es barato y acaba con tus problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/wifi-cortes-550-m2-pack-routers-barato-acaba-problemas-1380675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mercusys-halo-h1900g-3301610.jpg?tf=1200x' alt='WiFi sin cortes hasta en 550 m2: este pack de routers es barato y acaba con tus problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/triunfan-moviles-baratos-opinan-usuarios-1378277'>Por qué los móviles de gama de entrada siguen triunfando: esto es lo que opinan sus usuarios</a></h4>
-    <a href='https://computerhoy.com/moviles/triunfan-moviles-baratos-opinan-usuarios-1378277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/moviles-baratos-gama-entrada-3297962.jpg?tf=1200x' alt='Por qué los móviles de gama de entrada siguen triunfando: esto es lo que opinan sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
     </a>
 </div>
 
