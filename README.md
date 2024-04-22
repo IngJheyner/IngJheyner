@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160'>5 tipos de conversaciones que nunca deberías tener por WhatsApp</a></h4>
+    <a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-3302548.jpg?tf=1200x' alt='5 tipos de conversaciones que nunca deberías tener por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136'>Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia</a></h4>
     <a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baratos-accesibles-revolucionarios-seran-robots-humanoides-ceo-nvidia-3302487.jpg?tf=1200x' alt='Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210'>Descubre si tu edad te hace más vulnerable frente a los hackers</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-jovenes-mayores-3302697.jpg?tf=1200x' alt='Descubre si tu edad te hace más vulnerable frente a los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178'>Spotify potencia tu creatividad con una nueva función para hacer remixes</a></h4>
-    <a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-potencia-creatividad-nueva-funcion-hacer-remix-3302617.jpg?tf=1200x' alt='Spotify potencia tu creatividad con una nueva función para hacer remixes' />
     </a>
 </div>
 
