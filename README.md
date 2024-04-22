@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397'>Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-libera-horizon-os-windows-xr-asus-lenovo-primeros-socios-3302930.jpg?tf=1200x' alt='Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pantalla-amoled-150-deportes-gps-llamadas-mejores-relojes-amazfit-solo-cuesta-76-euros-1381189'>Pantalla AMOLED, 150 deportes, GPS y llamadas: este es uno de los mejores relojes de Amazfit y solo cuesta 76 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pantalla-amoled-150-deportes-gps-llamadas-mejores-relojes-amazfit-solo-cuesta-76-euros-1381189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Pantalla AMOLED, 150 deportes, GPS y llamadas: este es uno de los mejores relojes de Amazfit y solo cuesta 76 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371'>Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional</a></h4>
     <a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallapop-3302920.jpg?tf=1200x' alt='Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278'>Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-poca-gente-conoce-3302769.jpg?tf=1200x' alt='Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241'>No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-3302728.jpg?tf=1200x' alt='No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300'>¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnologia-linea-gol-como-funciona-ligas-utiliza-errores-flagrantes-3302858.jpg?tf=1200x' alt='¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes' />
     </a>
 </div>
 
