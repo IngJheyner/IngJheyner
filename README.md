@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126'>Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dia-iva-3302486.jpg?tf=1200x' alt='Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-1380752'>La regla que utiliza un usuario de Amazon Prime para ahorrar dinero comprando</a></h4>
+    <a href='https://computerhoy.com/amazon/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-1380752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/regla-utiliza-usuario-amazon-prime-ahorrar-dinero-comprando-3302473.jpg?tf=1200x' alt='La regla que utiliza un usuario de Amazon Prime para ahorrar dinero comprando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/wifi-cortes-550-m2-pack-routers-barato-acaba-problemas-1380675'>WiFi sin cortes hasta en 550 m2: este pack de routers es barato y acaba con tus problemas</a></h4>
     <a href='https://computerhoy.com/tecnologia/wifi-cortes-550-m2-pack-routers-barato-acaba-problemas-1380675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mercusys-halo-h1900g-3301610.jpg?tf=1200x' alt='WiFi sin cortes hasta en 550 m2: este pack de routers es barato y acaba con tus problemas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102'>¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-22-abril-2024-3302445.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095'>Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades</a></h4>
-    <a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-aqui-goldene-grafeno-oro-cambia-propiedades-3302426.jpg?tf=1200x' alt='Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades' />
     </a>
 </div>
 
