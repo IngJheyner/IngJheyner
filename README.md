@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371'>Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional</a></h4>
+    <a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallapop-3302920.jpg?tf=1200x' alt='Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368'>Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas</a></h4>
     <a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-autopilot-3302917.jpg?tf=1200x' alt='Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300'>¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnologia-linea-gol-como-funciona-ligas-utiliza-errores-flagrantes-3302858.jpg?tf=1200x' alt='¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184'>El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años' />
     </a>
 </div>
 
