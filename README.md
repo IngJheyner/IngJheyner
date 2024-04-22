@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177'>Instala el último Kodi 21 Omega en tu Android TV con este truco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/instalar-kodi-3302644.jpg?tf=1200x' alt='Instala el último Kodi 21 Omega en tu Android TV con este truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157'>Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde</a></h4>
     <a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-3302552.jpg?tf=1200x' alt='Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126'>Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/media-markt-celebra-dia-iva-estos-son-7-chollos-destacados-1381126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dia-iva-3302486.jpg?tf=1200x' alt='Media Markt celebra su Día sin IVA: estos son los 7 chollos más destacados' />
     </a>
 </div>
 
