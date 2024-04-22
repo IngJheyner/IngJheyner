@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215'>La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-3302671.jpg?tf=1200x' alt='La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210'>Descubre si tu edad te hace más vulnerable frente a los hackers</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-jovenes-mayores-3302697.jpg?tf=1200x' alt='Descubre si tu edad te hace más vulnerable frente a los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178'>Spotify potencia tu creatividad con una nueva función para hacer remixes</a></h4>
+    <a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-potencia-creatividad-nueva-funcion-hacer-remix-3302617.jpg?tf=1200x' alt='Spotify potencia tu creatividad con una nueva función para hacer remixes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173'>La nueva apuesta de iOS 18 por la IA se centra en la seguridad</a></h4>
     <a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='La nueva apuesta de iOS 18 por la IA se centra en la seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224'>Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3302706.jpg?tf=1200x' alt='Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-tiene-oferta-barrer-android-pixel-8-menos-600-euros-1381114'>Google tiene una oferta para barrer en Android: su Pixel 8 por menos de 600 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-tiene-oferta-barrer-android-pixel-8-menos-600-euros-1381114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Google tiene una oferta para barrer en Android: su Pixel 8 por menos de 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177'>Instala el último Kodi 21 Omega en tu Android TV con este truco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/instalar-kodi-3302644.jpg?tf=1200x' alt='Instala el último Kodi 21 Omega en tu Android TV con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
     </a>
 </div>
 
