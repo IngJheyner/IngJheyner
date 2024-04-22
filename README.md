@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232'>El truco definitivo para disfrutar de TikTok sin conexión durante horas</a></h4>
+    <a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-3302712.jpg?tf=1200x' alt='El truco definitivo para disfrutar de TikTok sin conexión durante horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215'>La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-3302671.jpg?tf=1200x' alt='La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173'>La nueva apuesta de iOS 18 por la IA se centra en la seguridad</a></h4>
     <a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='La nueva apuesta de iOS 18 por la IA se centra en la seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224'>Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3302706.jpg?tf=1200x' alt='Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible' />
     </a>
 </div>
 
