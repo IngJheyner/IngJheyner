@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185'>Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más</a></h4>
+    <a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-electric-scooter-4-pro-2nd-gen-3302590.jpg?tf=1200x' alt='Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042'>No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecosistema-xiaomi-patinete-electrico-robot-limpieza-television-3302318.jpg?tf=1200x' alt='No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160'>5 tipos de conversaciones que nunca deberías tener por WhatsApp</a></h4>
     <a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-3302548.jpg?tf=1200x' alt='5 tipos de conversaciones que nunca deberías tener por WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232'>El truco definitivo para disfrutar de TikTok sin conexión durante horas</a></h4>
     <a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-3302712.jpg?tf=1200x' alt='El truco definitivo para disfrutar de TikTok sin conexión durante horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215'>La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-1381215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-3302671.jpg?tf=1200x' alt='La nueva fuente de Microsoft que debes usar en el currículum, según un reclutador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210'>Descubre si tu edad te hace más vulnerable frente a los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubre-edad-te-hace-vulnerable-frente-hackers-1381210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ciberseguridad-jovenes-mayores-3302697.jpg?tf=1200x' alt='Descubre si tu edad te hace más vulnerable frente a los hackers' />
     </a>
 </div>
 
