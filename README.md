@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102'>¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-22-abril-2024-3302445.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095'>Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades</a></h4>
     <a href='https://computerhoy.com/ciencia/goldene-grafeno-oro-cambia-propiedades-1381095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ya-aqui-goldene-grafeno-oro-cambia-propiedades-3302426.jpg?tf=1200x' alt='Ya está aquí el Goldene, el grafeno de oro que cambia sus propiedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085'>Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80</a></h4>
     <a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-mitico-procesador-z80-usado-ordenadores-consolas-80-3302388.jpg?tf=1200x' alt='Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080'>Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-llama-revision-todos-cybertruck-fallo-pedal-video-1381080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tesla-llama-revision-todos-cybertruck-grave-fallo-arregla-3302381.jpg?tf=1200x' alt='Tesla llama a revisión a todos los Cybertruck por un grave fallo, así lo arregla' />
     </a>
 </div>
 
