@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136'>Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/baratos-accesibles-seran-robots-humanoides-ceo-nvidia-1381136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baratos-accesibles-revolucionarios-seran-robots-humanoides-ceo-nvidia-3302487.jpg?tf=1200x' alt='Baratos, accesibles y revolucionarios: así serán los robots humanoides según el CEO de Nvidia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232'>El truco definitivo para disfrutar de TikTok sin conexión durante horas</a></h4>
     <a href='https://computerhoy.com/apps/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-1381232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-definitivo-disfrutar-tiktok-conexion-durante-horas-3302712.jpg?tf=1200x' alt='El truco definitivo para disfrutar de TikTok sin conexión durante horas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178'>Spotify potencia tu creatividad con una nueva función para hacer remixes</a></h4>
     <a href='https://computerhoy.com/audio/spotify-potencia-creatividad-nueva-funcion-hacer-remixes-1381178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/spotify-potencia-creatividad-nueva-funcion-hacer-remix-3302617.jpg?tf=1200x' alt='Spotify potencia tu creatividad con una nueva función para hacer remixes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173'>La nueva apuesta de iOS 18 por la IA se centra en la seguridad</a></h4>
-    <a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='La nueva apuesta de iOS 18 por la IA se centra en la seguridad' />
     </a>
 </div>
 
