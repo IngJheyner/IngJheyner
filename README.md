@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173'>La nueva apuesta de iOS 18 por la IA se centra en la seguridad</a></h4>
+    <a href='https://computerhoy.com/apple/nueva-apuesta-ios-18-ia-centra-seguridad-1381173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='La nueva apuesta de iOS 18 por la IA se centra en la seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224'>Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-band-9-pulsera-inteligente-ligera-asequible-1381224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3302706.jpg?tf=1200x' alt='Así es la nueva Huawei Band 9, una pulsera inteligente ligera y asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-tiene-oferta-barrer-android-pixel-8-menos-600-euros-1381114'>Google tiene una oferta para barrer en Android: su Pixel 8 por menos de 600 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-tiene-oferta-barrer-android-pixel-8-menos-600-euros-1381114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-3188558.jpg?tf=1200x' alt='Google tiene una oferta para barrer en Android: su Pixel 8 por menos de 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177'>Instala el último Kodi 21 Omega en tu Android TV con este truco</a></h4>
     <a href='https://computerhoy.com/tutoriales/instala-ultimo-kodi-21-omega-android-tv-truco-1381177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/instalar-kodi-3302644.jpg?tf=1200x' alt='Instala el último Kodi 21 Omega en tu Android TV con este truco' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funcion-google-te-permite-encontrar-cancion-quieres-solo-tararear-1381161'>La función de Google que te permite encontrar la canción que quieres con solo tararear</a></h4>
-    <a href='https://computerhoy.com/google/funcion-google-te-permite-encontrar-cancion-quieres-solo-tararear-1381161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-cancion-asistente-3302595.jpg?tf=1200x' alt='La función de Google que te permite encontrar la canción que quieres con solo tararear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/quieres-tener-propio-generador-imagenes-ia-windows-puedes-hacerlo-paso-paso-1381154'>¿Quieres tener tu propio generador de imágenes con IA en Windows? Así puedes hacerlo paso a paso</a></h4>
-    <a href='https://computerhoy.com/tutoriales/quieres-tener-propio-generador-imagenes-ia-windows-puedes-hacerlo-paso-paso-1381154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-ordenador-3302573.jpg?tf=1200x' alt='¿Quieres tener tu propio generador de imágenes con IA en Windows? Así puedes hacerlo paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157'>Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-1381157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-cambiara-pantalla-gratis-galaxy-problema-linea-verde-3302552.jpg?tf=1200x' alt='Samsung cambiará la pantalla gratis a los Galaxy con el problema de la línea verde' />
     </a>
 </div>
 
