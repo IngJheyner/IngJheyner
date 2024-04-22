@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241'>No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-3302728.jpg?tf=1200x' alt='No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300'>¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/tecnologia-linea-gol-como-funciona-1381300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnologia-linea-gol-como-funciona-ligas-utiliza-errores-flagrantes-3302858.jpg?tf=1200x' alt='¿Qué es la tecnología de línea de gol? Cómo funciona, en qué ligas se utiliza y sus errores más flagrantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042'>No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecosistema-xiaomi-patinete-electrico-robot-limpieza-television-3302318.jpg?tf=1200x' alt='No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160'>5 tipos de conversaciones que nunca deberías tener por WhatsApp</a></h4>
-    <a href='https://computerhoy.com/redes/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-1381160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-tipos-conversaciones-nunca-deberias-tener-whatsapp-3302548.jpg?tf=1200x' alt='5 tipos de conversaciones que nunca deberías tener por WhatsApp' />
     </a>
 </div>
 
