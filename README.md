@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368'>Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas</a></h4>
+    <a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-autopilot-3302917.jpg?tf=1200x' alt='Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278'>Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-poca-gente-conoce-3302769.jpg?tf=1200x' alt='Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241'>No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-1381241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/no-hay-dudas-mejor-antivirus-gratuito-ordenador-ocu-3302728.jpg?tf=1200x' alt='No hay dudas: este es el mejor antivirus gratuito para tu ordenador, según la OCU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184'>El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años</a></h4>
     <a href='https://computerhoy.com/tecnologia/kindle-precio-90-euros-diversion-ilimitada-muchos-anos-1381184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/kindle-2022-3223364.jpg?tf=1200x' alt='El Kindle está a su precio más bajo: 90 euros y diversión ilimitada para muchos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185'>Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más</a></h4>
-    <a href='https://computerhoy.com/hogar/novedades-xiaomi-2024-vision-life-patinetes-televisores-robot-limpieza-1381185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-electric-scooter-4-pro-2nd-gen-3302590.jpg?tf=1200x' alt='Todas las novedades del evento "Vision to Life" de Xiaomi: patinetes, televisores, y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042'>No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-amplia-aun-ecosistema-estos-son-nuevos-productos-1381042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ecosistema-xiaomi-patinete-electrico-robot-limpieza-television-3302318.jpg?tf=1200x' alt='No todo es el coche eléctrico de Xiaomi: lo que ha presentado la compañía para ampliar (aún más) su ecosistema' />
     </a>
 </div>
 
