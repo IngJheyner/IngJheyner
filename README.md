@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102'>¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-22-abril-2024-1381102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-22-abril-2024-3302445.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 22 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087'>Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas</a></h4>
     <a href='https://computerhoy.com/tecnologia/tarjetas-credito-panel-oled-iluminan-cuando-pagas-1381087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/llegan-tarjetas-credito-panel-oled-ilumina-cuando-pagas-3302397.jpg?tf=1200x' alt='Llegan las tarjetas de crédito con panel OLED, que se ilumina cuando pagas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085'>Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80</a></h4>
-    <a href='https://computerhoy.com/pc/adios-procesador-z80-ordenadores-consolas-anos-80-1381085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-mitico-procesador-z80-usado-ordenadores-consolas-80-3302388.jpg?tf=1200x' alt='Adiós al mítico procesador Z80, usado en los ordenadores y consolas de los años 80' />
     </a>
 </div>
 
