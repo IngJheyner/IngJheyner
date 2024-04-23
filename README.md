@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680'>Este mapa muestra las horas de uso del móvil y el PC en cada país</a></h4>
+    <a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-muestra-horas-uso-movil-pc-cada-pais-espana-dedican-5-horas-dia-3303448.jpg?tf=1200x' alt='Este mapa muestra las horas de uso del móvil y el PC en cada país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685'>Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663'>Xiaomi afirma que este año lanza su coche eléctrico SU7 en España</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-coche-electrico-3253848.jpg?tf=1200x' alt='Xiaomi afirma que este año lanza su coche eléctrico SU7 en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563'>Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/old-boy-sera-serie-television-pelicula-culto-park-chan-wook-3303249.jpg?tf=1200x' alt='Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook' />
     </a>
 </div>
 
