@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389'>NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/debes-desinfectar-colchon-tener-menos-alergia-primavera-1381553'>Así debes desinfectar tu colchón para tener menos alergia</a></h4>
+    <a href='https://computerhoy.com/life/debes-desinfectar-colchon-tener-menos-alergia-primavera-1381553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/debes-desinfectar-colchon-tener-menos-alergia-3303239.jpg?tf=1200x' alt='Así debes desinfectar tu colchón para tener menos alergia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621'>Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará</a></h4>
     <a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-presentara-3303351.jpg?tf=1200x' alt='Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616'>Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN</a></h4>
     <a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540'>OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-watch-2-nordic-blue-edition-3303257.jpg?tf=1200x' alt='OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa' />
     </a>
 </div>
 
