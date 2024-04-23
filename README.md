@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207'>Así funciona la AI que Logitech ha integrado en sus teclados y ratones</a></h4>
+    <a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclado-logitech-chatgpt-3302739.jpg?tf=1200x' alt='Así funciona la AI que Logitech ha integrado en sus teclados y ratones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-1379203'>Este es el puerto que menos usas de tu Smart TV, y así deberías sacarle el máximo provecho</a></h4>
+    <a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-1379203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-usb-televisor-3302679.jpg?tf=1200x' alt='Este es el puerto que menos usas de tu Smart TV, y así deberías sacarle el máximo provecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207'>Te enseño a evitar una de las funciones más frustrantes de Google Maps</a></h4>
     <a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Te enseño a evitar una de las funciones más frustrantes de Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567'>Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-monitor-a27i-3302670.jpg?tf=1200x' alt='Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajo-1379541'>¿De verdad mejora ChatGPT tu productividad en el trabajo o nos la están intentando colar?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajo-1379541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-productividad-3302665.jpg?tf=1200x' alt='¿De verdad mejora ChatGPT tu productividad en el trabajo o nos la están intentando colar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513'>Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-jornada-laboral-3-dias-3302659.jpg?tf=1200x' alt='Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA' />
     </a>
 </div>
 
