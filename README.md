@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207'>Te enseño a evitar una de las funciones más frustrantes de Google Maps</a></h4>
+    <a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Te enseño a evitar una de las funciones más frustrantes de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-vende-moviles-baratos-pero-pocos-tanto-como-redmi-a3-cuesta-menos-100-euros-1381381'>Xiaomi vende móviles baratos, pero pocos tanto como el Redmi A3 que cuesta menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-vende-moviles-baratos-pero-pocos-tanto-como-redmi-a3-cuesta-menos-100-euros-1381381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-a3-3302925.jpg?tf=1200x' alt='Xiaomi vende móviles baratos, pero pocos tanto como el Redmi A3 que cuesta menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567'>Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-monitor-a27i-3302670.jpg?tf=1200x' alt='Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajo-1379541'>¿De verdad mejora ChatGPT tu productividad en el trabajo o nos la están intentando colar?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-mejora-productividad-trabajo-1379541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-productividad-3302665.jpg?tf=1200x' alt='¿De verdad mejora ChatGPT tu productividad en el trabajo o nos la están intentando colar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513'>Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-jornada-laboral-3-dias-3302659.jpg?tf=1200x' alt='Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/hacienda-devolucion-renta-conocer-fecha-1379502'>Así puedes saber desde tu móvil el día exacto en el que Hacienda te devolverá tu dinero</a></h4>
-    <a href='https://computerhoy.com/life/hacienda-devolucion-renta-conocer-fecha-1379502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacienda-devolucion-renta-3302635.jpg?tf=1200x' alt='Así puedes saber desde tu móvil el día exacto en el que Hacienda te devolverá tu dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-1379490'>Si quieres descargar un emulador de Game Boy para iPhone vas a tener que darte prisa, desaparecen volando </a></h4>
-    <a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-1379490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/emulador-game-boy-iphone-3299625.jpg?tf=1200x' alt='Si quieres descargar un emulador de Game Boy para iPhone vas a tener que darte prisa, desaparecen volando ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-1378495'>Análisis del Lenovo ThinkPad X1 Yoga, una gran opción si buscas un portátil para trabajar</a></h4>
-    <a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-1378495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkpad-x1-yoga-3298345.jpg?tf=1200x' alt='Análisis del Lenovo ThinkPad X1 Yoga, una gran opción si buscas un portátil para trabajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414'>¿Qué santo es hoy? Santoral del martes 23 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-23-abril-2024-3302970.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 23 de abril de 2024' />
     </a>
 </div>
 
