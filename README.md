@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445'>Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-casa-menos-10-anos-3303076.jpg?tf=1200x' alt='Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545'>Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor</a></h4>
     <a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-leyendo-3303230.jpg?tf=1200x' alt='Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497'>El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones</a></h4>
     <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513'>El truco definitivo que hace que la IA traduzca de manera impecable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-cambiando-boton-idioma-3303152.jpg?tf=1200x' alt='El truco definitivo que hace que la IA traduzca de manera impecable' />
     </a>
 </div>
 
