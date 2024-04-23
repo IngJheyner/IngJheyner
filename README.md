@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621'>Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará</a></h4>
+    <a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-presentara-3303351.jpg?tf=1200x' alt='Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/generacion-millennial-40-tecnologia-no-crisis-1381466'>La generación millennial a los 40: entre la tecnología y la “no crisis” de mediana edad</a></h4>
+    <a href='https://computerhoy.com/life/generacion-millennial-40-tecnologia-no-crisis-1381466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/generacion-millenials-40-tecnologia-no-crisis-mediana-edad-3303092.jpg?tf=1200x' alt='La generación millennial a los 40: entre la tecnología y la “no crisis” de mediana edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616'>Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN</a></h4>
     <a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN' />
@@ -68,23 +84,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540'>OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa</a></h4>
     <a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-watch-2-nordic-blue-edition-3303307.jpg?tf=1200x' alt='OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445'>Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-casa-menos-10-anos-3303076.jpg?tf=1200x' alt='Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545'>Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-leyendo-3303230.jpg?tf=1200x' alt='Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-watch-2-nordic-blue-edition-3303257.jpg?tf=1200x' alt='OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa' />
     </a>
 </div>
 
