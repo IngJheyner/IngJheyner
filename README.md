@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545'>Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-leyendo-3303230.jpg?tf=1200x' alt='Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-1381521'>El móvil de Polestar inspirado en sus coches que lleva la conectividad al siguiente nivel</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-1381521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-3303201.jpg?tf=1200x' alt='El móvil de Polestar inspirado en sus coches que lleva la conectividad al siguiente nivel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/motor-no-deberia-existir-pero-ya-supera-gravedad-terrestre-1381536'>El motor que no debería existir, pero su nuevo diseño ya supera la gravedad terrestre</a></h4>
+    <a href='https://computerhoy.com/espacio/motor-no-deberia-existir-pero-ya-supera-gravedad-terrestre-1381536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cohete-espacio-3303220.jpg?tf=1200x' alt='El motor que no debería existir, pero su nuevo diseño ya supera la gravedad terrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497'>El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones</a></h4>
     <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513'>El truco definitivo que hace que la IA traduzca de manera impecable</a></h4>
     <a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-cambiando-boton-idioma-3303152.jpg?tf=1200x' alt='El truco definitivo que hace que la IA traduzca de manera impecable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-va-xiaomi-deja-pixel-7a-precio-ridiculo-amazon-1381450'>Google va a por Xiaomi y deja su Pixel 7a a precio ridículo en Amazon</a></h4>
-    <a href='https://computerhoy.com/android/google-va-xiaomi-deja-pixel-7a-precio-ridiculo-amazon-1381450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Google va a por Xiaomi y deja su Pixel 7a a precio ridículo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-1381462'>Whatsapp apuesta fuerte por la IA, incluso en el soporte técnico</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-1381462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-3303101.jpg?tf=1200x' alt='Whatsapp apuesta fuerte por la IA, incluso en el soporte técnico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475'>Inventan unas placas solares para el ojo que devuelven la vista</a></h4>
-    <a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg?tf=1200x' alt='Inventan unas placas solares para el ojo que devuelven la vista' />
     </a>
 </div>
 
