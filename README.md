@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513'>Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-jornada-laboral-tres-dias-1379513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-jornada-laboral-3-dias-3302659.jpg?tf=1200x' alt='Bill Gates dice que todas las semanas tendremos un puente de 4 días gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/hacienda-devolucion-renta-conocer-fecha-1379502'>Así puedes saber desde tu móvil el día exacto en el que Hacienda te devolverá tu dinero</a></h4>
+    <a href='https://computerhoy.com/life/hacienda-devolucion-renta-conocer-fecha-1379502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacienda-devolucion-renta-3302635.jpg?tf=1200x' alt='Así puedes saber desde tu móvil el día exacto en el que Hacienda te devolverá tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-1379490'>Si quieres descargar un emulador de Game Boy para iPhone vas a tener que darte prisa, desaparecen volando </a></h4>
+    <a href='https://computerhoy.com/apple/primer-emulador-game-boy-iphone-1379490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/emulador-game-boy-iphone-3299625.jpg?tf=1200x' alt='Si quieres descargar un emulador de Game Boy para iPhone vas a tener que darte prisa, desaparecen volando ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-1378495'>Análisis del Lenovo ThinkPad X1 Yoga, una gran opción si buscas un portátil para trabajar</a></h4>
+    <a href='https://computerhoy.com/analisis/lenovo-thinkpad-x1-yoga-8-gen-analisis-1378495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-thinkpad-x1-yoga-3298345.jpg?tf=1200x' alt='Análisis del Lenovo ThinkPad X1 Yoga, una gran opción si buscas un portátil para trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414'>¿Qué santo es hoy? Santoral del martes 23 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-23-abril-2024-3302970.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 23 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397'>Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-libera-horizon-os-windows-xr-asus-lenovo-primeros-socios-3302930.jpg?tf=1200x' alt='Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pantalla-amoled-150-deportes-gps-llamadas-mejores-relojes-amazfit-solo-cuesta-76-euros-1381189'>Pantalla AMOLED, 150 deportes, GPS y llamadas: este es uno de los mejores relojes de Amazfit y solo cuesta 76 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pantalla-amoled-150-deportes-gps-llamadas-mejores-relojes-amazfit-solo-cuesta-76-euros-1381189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazfit-gtr-3-3216156.jpg?tf=1200x' alt='Pantalla AMOLED, 150 deportes, GPS y llamadas: este es uno de los mejores relojes de Amazfit y solo cuesta 76 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371'>Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional</a></h4>
-    <a href='https://computerhoy.com/apps/pasando-moviles-usados-wallapop-avisa-policia-nacional-1381371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/wallapop-3302920.jpg?tf=1200x' alt='Esto es lo que está pasando con móviles usados en Wallapop, y avisa la Policía Nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368'>Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas</a></h4>
-    <a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-autopilot-3302917.jpg?tf=1200x' alt='Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas' />
     </a>
 </div>
 
