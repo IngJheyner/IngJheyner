@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/descubren-pistas-planeta-9-confin-sistema-solar-1381408'>Se descubren pistas del Planeta 9 en el confín del sistema solar</a></h4>
+    <a href='https://computerhoy.com/espacio/descubren-pistas-planeta-9-confin-sistema-solar-1381408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-pistas-planeta-9-confin-sistema-solar-3302953.jpg?tf=1200x' alt='Se descubren pistas del Planeta 9 en el confín del sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-top-tienen-cancelacion-ruido-xiaomi-apenas-cuestan-30-euros-1381192'>Estos auriculares top tienen cancelación de ruido, de Xiaomi y apenas cuestan 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-top-tienen-cancelacion-ruido-xiaomi-apenas-cuestan-30-euros-1381192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='Estos auriculares top tienen cancelación de ruido, de Xiaomi y apenas cuestan 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/gmail-autenticacion-dos-factores-ataque-1379685'>Ni la autenticación de dos factores está parando este ataque a nuestras cuentas de Gmail</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/gmail-autenticacion-dos-factores-ataque-1379685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-gmail-3299975.jpg?tf=1200x' alt='Ni la autenticación de dos factores está parando este ataque a nuestras cuentas de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/pantallas-muerte-windows-drivers-1379684'>Descargar estos nuevos drivers podría ahorrarte las pantallas azul de la muerte de Windows 11 y Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/pantallas-muerte-windows-drivers-1379684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Descargar estos nuevos drivers podría ahorrarte las pantallas azul de la muerte de Windows 11 y Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207'>Así funciona la AI que Logitech ha integrado en sus teclados y ratones</a></h4>
     <a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclado-logitech-chatgpt-3302739.jpg?tf=1200x' alt='Así funciona la AI que Logitech ha integrado en sus teclados y ratones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-1379203'>Este es el puerto que menos usas de tu Smart TV, y así deberías sacarle el máximo provecho</a></h4>
-    <a href='https://computerhoy.com/tv/conexion-olvidada-smart-tv-1379203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-usb-televisor-3302679.jpg?tf=1200x' alt='Este es el puerto que menos usas de tu Smart TV, y así deberías sacarle el máximo provecho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207'>Te enseño a evitar una de las funciones más frustrantes de Google Maps</a></h4>
-    <a href='https://computerhoy.com/google/evitar-google-maps-cambio-ruta-automatico-1379207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-metodos-efectivos-evitar-google-maps-cambie-ruta-automaticamente-3299164.jpg?tf=1200x' alt='Te enseño a evitar una de las funciones más frustrantes de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-vende-moviles-baratos-pero-pocos-tanto-como-redmi-a3-cuesta-menos-100-euros-1381381'>Xiaomi vende móviles baratos, pero pocos tanto como el Redmi A3 que cuesta menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-vende-moviles-baratos-pero-pocos-tanto-como-redmi-a3-cuesta-menos-100-euros-1381381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/redmi-a3-3302925.jpg?tf=1200x' alt='Xiaomi vende móviles baratos, pero pocos tanto como el Redmi A3 que cuesta menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567'>Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-monitor-barato-xiaomi-1379567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-monitor-a27i-3302670.jpg?tf=1200x' alt='Este monitor de 27 pulgadas de Xiaomi es probablemente el mejor en relación calidad-precio' />
     </a>
 </div>
 
