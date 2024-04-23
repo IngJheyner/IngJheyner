@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663'>Xiaomi afirma que este año lanza su coche eléctrico SU7 en España</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-coche-electrico-3253848.jpg?tf=1200x' alt='Xiaomi afirma que este año lanza su coche eléctrico SU7 en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563'>Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/old-boy-sera-serie-television-pelicula-culto-park-chan-wook-3303249.jpg?tf=1200x' alt='Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389'>NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621'>Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará</a></h4>
     <a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-presentara-3303351.jpg?tf=1200x' alt='Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/generacion-millennial-40-tecnologia-no-crisis-1381466'>La generación millennial a los 40: entre la tecnología y la “no crisis” de mediana edad</a></h4>
-    <a href='https://computerhoy.com/life/generacion-millennial-40-tecnologia-no-crisis-1381466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/generacion-millenials-40-tecnologia-no-crisis-mediana-edad-3303092.jpg?tf=1200x' alt='La generación millennial a los 40: entre la tecnología y la “no crisis” de mediana edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616'>Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN</a></h4>
-    <a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN' />
     </a>
 </div>
 
