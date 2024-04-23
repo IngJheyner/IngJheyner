@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475'>Inventan unas placas solares para el ojo que devuelven la vista</a></h4>
+    <a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg?tf=1200x' alt='Inventan unas placas solares para el ojo que devuelven la vista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consentidos-1381442'>Instagram ha mostrado anuncios de apps de IA que crean desnudos no consentidos</a></h4>
     <a href='https://computerhoy.com/apps/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consentidos-1381442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consensuados-3303078.jpg?tf=1200x' alt='Instagram ha mostrado anuncios de apps de IA que crean desnudos no consentidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219'>Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas</a></h4>
     <a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-3303077.jpg?tf=1200x' alt='Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Solo necesitas una Raspberry Pi y ChatGPT para convertir tu coche en KITT de El coche fantástico</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/coche-fantastico-chatgpt-3302687.jpg?tf=1200x' alt='Solo necesitas una Raspberry Pi y ChatGPT para convertir tu coche en KITT de El coche fantástico' />
     </a>
 </div>
 
