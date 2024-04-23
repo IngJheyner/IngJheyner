@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616'>Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN</a></h4>
+    <a href='https://computerhoy.com/internet/nord-security-cierra-atlas-vpn-1381616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='Nord Security cierra Atlas VPN, demostrando quién domina el lucrativo mercado de los VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165'>Apple podría acabar con la producción de uno de sus peores productos, según un rumor</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-acabar-produccion-peores-productos-rumor-1381165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funda-trenzado-fino-apple-iphone-15-pro-max-3150430.jpg?tf=1200x' alt='Apple podría acabar con la producción de uno de sus peores productos, según un rumor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540'>OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-watch-2-nordic-blue-edition-reloj-exclusivo-europa-1381540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-watch-2-nordic-blue-edition-3303307.jpg?tf=1200x' alt='OnePlus lanza el Watch 2 Nordic Blue Edition, un reloj exclusivo que solo verá la luz en Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445'>Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-1381445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-tiene-claro-mayoria-hogares-estadounidenses-tendran-robot-casa-menos-10-anos-3303076.jpg?tf=1200x' alt='Elon Musk lo tiene claro: la mayoría de hogares estadounidenses tendrán un robot en casa en menos de 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545'>Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor</a></h4>
     <a href='https://computerhoy.com/tecnologia/generan-ia-corrige-examenes-como-fuese-profesor-1381545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-leyendo-3303230.jpg?tf=1200x' alt='Generan una IA capaz de llevar a cabo la corrección de exámenes como si fuese el profesor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-1381521'>El móvil de Polestar inspirado en sus coches que lleva la conectividad al siguiente nivel</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-1381521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-polestar-inspirado-coches-lleva-conectividad-siguiente-nivel-3303201.jpg?tf=1200x' alt='El móvil de Polestar inspirado en sus coches que lleva la conectividad al siguiente nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/motor-no-deberia-existir-pero-ya-supera-gravedad-terrestre-1381536'>El motor que no debería existir, pero su nuevo diseño ya supera la gravedad terrestre</a></h4>
-    <a href='https://computerhoy.com/espacio/motor-no-deberia-existir-pero-ya-supera-gravedad-terrestre-1381536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cohete-espacio-3303220.jpg?tf=1200x' alt='El motor que no debería existir, pero su nuevo diseño ya supera la gravedad terrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497'>El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones</a></h4>
-    <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513'>El truco definitivo que hace que la IA traduzca de manera impecable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-cambiando-boton-idioma-3303152.jpg?tf=1200x' alt='El truco definitivo que hace que la IA traduzca de manera impecable' />
     </a>
 </div>
 
