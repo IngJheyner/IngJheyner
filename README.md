@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414'>¿Qué santo es hoy? Santoral del martes 23 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-23-abril-2024-1381414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-23-abril-2024-3302970.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 23 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397'>Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios</a></h4>
     <a href='https://computerhoy.com/tecnologia/meta-libera-horizon-os-android-xr-asus-lenovo-primeros-socios-1381397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/meta-libera-horizon-os-windows-xr-asus-lenovo-primeros-socios-3302930.jpg?tf=1200x' alt='Meta libera Horizon OS, el Android de la XR: Asus y Lenovo, sus primeros socios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368'>Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas</a></h4>
     <a href='https://computerhoy.com/windows/instalacion-completa-windows-11-23h2-mediante-autopilot-tardo-15-horas-1381368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-autopilot-3302917.jpg?tf=1200x' alt='Esta instalación completa de Windows 11 23H2 mediante Autopilot tardó más de 15 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278'>Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-1381278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-fallout-ni-night-sky-serie-ciencia-ficcion-sorprendente-prime-video-poca-gente-conoce-3302769.jpg?tf=1200x' alt='Ni Fallout ni Night Sky, esta es la serie de ciencia ficción más sorprendente de Prime Video, y poca gente la conoce' />
     </a>
 </div>
 
