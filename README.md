@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497'>El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones</a></h4>
+    <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-1381497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='El software más eficaz para desinstalar apps de Windows 11 ahora disponible en todas sus versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513'>El truco definitivo que hace que la IA traduzca de manera impecable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/truco-definitivo-hace-ia-traduzca-manera-impecable-1381513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/robot-cambiando-boton-idioma-3303152.jpg?tf=1200x' alt='El truco definitivo que hace que la IA traduzca de manera impecable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-va-xiaomi-deja-pixel-7a-precio-ridiculo-amazon-1381450'>Google va a por Xiaomi y deja su Pixel 7a a precio ridículo en Amazon</a></h4>
+    <a href='https://computerhoy.com/android/google-va-xiaomi-deja-pixel-7a-precio-ridiculo-amazon-1381450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Google va a por Xiaomi y deja su Pixel 7a a precio ridículo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-1381462'>Whatsapp apuesta fuerte por la IA, incluso en el soporte técnico</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-1381462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-apuesta-fuerte-ia-incluso-soporte-tecnico-3303101.jpg?tf=1200x' alt='Whatsapp apuesta fuerte por la IA, incluso en el soporte técnico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475'>Inventan unas placas solares para el ojo que devuelven la vista</a></h4>
     <a href='https://computerhoy.com/ciencia/inventan-unas-placas-solares-ojo-devuelven-vista-1381475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ojo-ordenador-2366097.jpg?tf=1200x' alt='Inventan unas placas solares para el ojo que devuelven la vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consentidos-1381442'>Instagram ha mostrado anuncios de apps de IA que crean desnudos no consentidos</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consentidos-1381442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/instagram-ha-mostrado-anuncios-apps-ia-crean-desnudos-no-consensuados-3303078.jpg?tf=1200x' alt='Instagram ha mostrado anuncios de apps de IA que crean desnudos no consentidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-revienta-precio-wf100xm5-mejores-auriculares-true-wirelesss-hemos-probado-1381277'>Sony revienta el precio de sus WF100XM5, los mejores auriculares True Wirelesss que hemos probado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-revienta-precio-wf100xm5-mejores-auriculares-true-wirelesss-hemos-probado-1381277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/sony-wf-1000xm5-1690174830406-3091148.jpg?tf=1200x' alt='Sony revienta el precio de sus WF100XM5, los mejores auriculares True Wirelesss que hemos probado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/movil-hackeado-cosas-1379694'>Si has notado alguna de estas 6 cosas en tu móvil, podría estar hackeado</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/movil-hackeado-cosas-1379694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-hackeado-3302696.jpg?tf=1200x' alt='Si has notado alguna de estas 6 cosas en tu móvil, podría estar hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219'>Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas</a></h4>
-    <a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-3303077.jpg?tf=1200x' alt='Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas' />
     </a>
 </div>
 
