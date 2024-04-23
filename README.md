@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/movil-hackeado-cosas-1379694'>Si has notado alguna de estas 6 cosas en tu móvil, podría estar hackeado</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/movil-hackeado-cosas-1379694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-hackeado-3302696.jpg?tf=1200x' alt='Si has notado alguna de estas 6 cosas en tu móvil, podría estar hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219'>Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas</a></h4>
+    <a href='https://computerhoy.com/ciencia/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-1367219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tendria-adaptarse-ser-humano-viajar-marte-otros-planetas-3303077.jpg?tf=1200x' alt='Así tendría que adaptarse el ser humano para viajar a Marte y otros planetas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kitt-coche-fantastico-raspberry-pi-chatgpt-1379642'>Solo necesitas una Raspberry Pi y ChatGPT para convertir tu coche en KITT de El coche fantástico</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kitt-coche-fantastico-raspberry-pi-chatgpt-1379642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/coche-fantastico-chatgpt-3302687.jpg?tf=1200x' alt='Solo necesitas una Raspberry Pi y ChatGPT para convertir tu coche en KITT de El coche fantástico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/descubren-pistas-planeta-9-confin-sistema-solar-1381408'>Se descubren pistas del Planeta 9 en el confín del sistema solar</a></h4>
     <a href='https://computerhoy.com/espacio/descubren-pistas-planeta-9-confin-sistema-solar-1381408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/descubren-pistas-planeta-9-confin-sistema-solar-3302953.jpg?tf=1200x' alt='Se descubren pistas del Planeta 9 en el confín del sistema solar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-top-tienen-cancelacion-ruido-xiaomi-apenas-cuestan-30-euros-1381192'>Estos auriculares top tienen cancelación de ruido, de Xiaomi y apenas cuestan 30 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-auriculares-top-tienen-cancelacion-ruido-xiaomi-apenas-cuestan-30-euros-1381192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='Estos auriculares top tienen cancelación de ruido, de Xiaomi y apenas cuestan 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gmail-autenticacion-dos-factores-ataque-1379685'>Ni la autenticación de dos factores está parando este ataque a nuestras cuentas de Gmail</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gmail-autenticacion-dos-factores-ataque-1379685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-gmail-3299975.jpg?tf=1200x' alt='Ni la autenticación de dos factores está parando este ataque a nuestras cuentas de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pantallas-muerte-windows-drivers-1379684'>Descargar estos nuevos drivers podría ahorrarte las pantallas azul de la muerte de Windows 11 y Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/pantallas-muerte-windows-drivers-1379684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-azul-muerte-windows-3299973.jpg?tf=1200x' alt='Descargar estos nuevos drivers podría ahorrarte las pantallas azul de la muerte de Windows 11 y Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207'>Así funciona la AI que Logitech ha integrado en sus teclados y ratones</a></h4>
-    <a href='https://computerhoy.com/apps/mi-raton-logitech-tiene-chatgpt-integrado-1381207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclado-logitech-chatgpt-3302739.jpg?tf=1200x' alt='Así funciona la AI que Logitech ha integrado en sus teclados y ratones' />
     </a>
 </div>
 
