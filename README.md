@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685'>Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677'>TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675'>Hoy es el día: llegan los nuevos planes y precios a SkyShowtime</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/skyshowtime-3303429.jpg?tf=1200x' alt='Hoy es el día: llegan los nuevos planes y precios a SkyShowtime' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663'>Xiaomi afirma que este año lanza su coche eléctrico SU7 en España</a></h4>
     <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-coche-electrico-3253848.jpg?tf=1200x' alt='Xiaomi afirma que este año lanza su coche eléctrico SU7 en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563'>Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook</a></h4>
     <a href='https://computerhoy.com/entretenimiento/old-boy-sera-serie-television-pelicula-park-chan-wook-1381563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/old-boy-sera-serie-television-pelicula-culto-park-chan-wook-3303249.jpg?tf=1200x' alt='Old Boy: así será la serie de televisión de la película de culto de Park Chan-wook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389'>NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-hace-2x1-rebaja-vpn-incluye-gestor-contrasenas-62-menos-1380389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='NordVPN hace un 2x1: rebaja su VPN e incluye gestor de contraseñas por un 62% menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/debes-desinfectar-colchon-tener-menos-alergia-primavera-1381553'>Así debes desinfectar tu colchón para tener menos alergia</a></h4>
-    <a href='https://computerhoy.com/life/debes-desinfectar-colchon-tener-menos-alergia-primavera-1381553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/debes-desinfectar-colchon-tener-menos-alergia-3303239.jpg?tf=1200x' alt='Así debes desinfectar tu colchón para tener menos alergia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621'>Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará</a></h4>
-    <a href='https://computerhoy.com/apple/apple-anuncia-evento-let-loose-7-mayo-ipad-1381621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-presentara-3303351.jpg?tf=1200x' alt='Apple anuncia el evento 'Let Loose' para el 7 de mayo, esto es lo que presentará' />
     </a>
 </div>
 
