@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/twitter-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Parece que Twitter, ahora X, empezará a cobrarte si te creas una nueva cuenta</a></h4>
-    <a href='https://computerhoy.com/redes/twitter-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Parece que Twitter, ahora X, empezará a cobrarte si te creas una nueva cuenta' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751'>No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842'>Era "el oro de los tontos" y ahora esos tontos serán ricos</a></h4>
-    <a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/material-conocia-como-oro-tontos-ahora-incluso-valioso-3300525.jpg?tf=1200x' alt='Era "el oro de los tontos" y ahora esos tontos serán ricos' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-apenas-20-euros-orange-pi-perfecta-cacharrear-informatica-1381208'>Cuesta apenas 20 euros y esta Orange Pi es perfecta para cacharrear con la informática</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-apenas-20-euros-orange-pi-perfecta-cacharrear-informatica-1381208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Cuesta apenas 20 euros y esta Orange Pi es perfecta para cacharrear con la informática' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualizacion-tdt-gratis-movil-1380293'>TDTChannels se actualiza con muchas novedades para ver la TDT gratis en tu móvil</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-actualizacion-tdt-gratis-movil-1380293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3303407.jpg?tf=1200x' alt='TDTChannels se actualiza con muchas novedades para ver la TDT gratis en tu móvil' />
+    <h4><a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-morir-1379729'>Si a tu tarjeta gráfica le pasa esto, está a punto de morir</a></h4>
+    <a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-morir-1379729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-indican-tarjeta-grafica-punto-estropearse-3300042.jpg?tf=1200x' alt='Si a tu tarjeta gráfica le pasa esto, está a punto de morir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719'>Ya lo sabemos todo de la próxima PS5 pro</a></h4>
-    <a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ps5-pro-3303403.jpg?tf=1200x' alt='Ya lo sabemos todo de la próxima PS5 pro' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750'>Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nino-jugando-robot-3303136.jpg?tf=1200x' alt='Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715'>¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-24-abril-2024-3303472.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117'>Esta web española te ayuda a encontrar gente para compartir cuentas de Netflix, HBO, Spotify, Disney+ y otras plataformas</a></h4>
+    <a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comunidad-3303132.jpg?tf=1200x' alt='Esta web española te ayuda a encontrar gente para compartir cuentas de Netflix, HBO, Spotify, Disney+ y otras plataformas' />
     </a>
 </div>
 
