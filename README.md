@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842'>Era "el oro de los tontos" y ahora esos tontos serán ricos</a></h4>
+    <a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/material-conocia-como-oro-tontos-ahora-incluso-valioso-3300525.jpg?tf=1200x' alt='Era "el oro de los tontos" y ahora esos tontos serán ricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-actualizacion-tdt-gratis-movil-1380293'>TDTChannels se actualiza con muchas novedades para ver la TDT gratis en tu móvil</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-actualizacion-tdt-gratis-movil-1380293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannels-3303407.jpg?tf=1200x' alt='TDTChannels se actualiza con muchas novedades para ver la TDT gratis en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719'>Ya lo sabemos todo de la próxima PS5 pro</a></h4>
     <a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ps5-pro-3303403.jpg?tf=1200x' alt='Ya lo sabemos todo de la próxima PS5 pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707'>Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante</a></h4>
     <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680'>Este mapa muestra las horas de uso del móvil y el PC en cada país</a></h4>
-    <a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-muestra-horas-uso-movil-pc-cada-pais-espana-dedican-5-horas-dia-3303448.jpg?tf=1200x' alt='Este mapa muestra las horas de uso del móvil y el PC en cada país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685'>Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna' />
     </a>
 </div>
 
