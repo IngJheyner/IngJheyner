@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ue-obligara-reparar-producto-sale-barato-sustituirlo-1381752'>Ya es oficial: la UE obligará a reparar un producto si sale más barato que sustituirlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ue-obligara-reparar-producto-sale-barato-sustituirlo-1381752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ue-obligara-reparar-objeto-sale-barato-sustituirlo-3303552.jpg?tf=1200x' alt='Ya es oficial: la UE obligará a reparar un producto si sale más barato que sustituirlo' />
+    <h4><a href='https://computerhoy.com/pc/qualcomm-snapdragon-x-elite-plus-portatiles-windows-ia-1381740'>Nuevos Snapdragon X Elite y Plus para portátiles: más potentes que Apple M3, y con la IA más rápida</a></h4>
+    <a href='https://computerhoy.com/pc/qualcomm-snapdragon-x-elite-plus-portatiles-windows-ia-1381740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303517.jpg?tf=1200x' alt='Nuevos Snapdragon X Elite y Plus para portátiles: más potentes que Apple M3, y con la IA más rápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519'>Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ultimate-ears-boom-3-3303168.jpg?tf=1200x' alt='Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-harto-google-disco-duro-te-da-4tb-nube-siempre-1381791'>Si estás harto de Google, este disco duro te da 4TB en la nube y para siempre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-harto-google-disco-duro-te-da-4tb-nube-siempre-1381791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/western-digital-my-cloud-3303653.jpg?tf=1200x' alt='Si estás harto de Google, este disco duro te da 4TB en la nube y para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico? ¿Cómo funcionan?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico? ¿Cómo funcionan?' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-deja-funcionar-ordenadores-cpus-antiguas-1381852'>Windows 11 deja de funcionar en ordenadores con CPUs antiguas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-deja-funcionar-ordenadores-cpus-antiguas-1381852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Windows 11 deja de funcionar en ordenadores con CPUs antiguas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-aparentemente-absurda-1379991'>Es una de las estafas más absurdas y aún así la Guardia Civil está preocupada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-aparentemente-absurda-1379991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-guardia-civil-3303208.jpg?tf=1200x' alt='Es una de las estafas más absurdas y aún así la Guardia Civil está preocupada' />
+    <h4><a href='https://computerhoy.com/tecnologia/ultima-beta-whatsapp-muestra-2-novedades-llegaran-app-1381853'>La última beta de WhatsApp muestra 2 novedades clave que llegarán a la app</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultima-beta-whatsapp-muestra-2-novedades-llegaran-app-1381853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='La última beta de WhatsApp muestra 2 novedades clave que llegarán a la app' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989'>Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo' />
+    <h4><a href='https://computerhoy.com/tecnologia/qdel-tecnologia-futuro-smart-tv-1381770'>Así es QDEL, la tecnología del futuro para la televisión: negros más profundos, más brillo y productos premium a menor precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/qdel-tecnologia-futuro-smart-tv-1381770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-ambilight-smart-tv-efectos-luz-color-mejores-modelos-puedes-comprar-3032780.jpg?tf=1200x' alt='Así es QDEL, la tecnología del futuro para la televisión: negros más profundos, más brillo y productos premium a menor precio' />
     </a>
 </div>
 
