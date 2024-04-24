@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519'>Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ultimate-ears-boom-3-3303168.jpg?tf=1200x' alt='Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico? ¿Cómo funcionan?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico? ¿Cómo funcionan?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-aparentemente-absurda-1379991'>Es una de las estafas más absurdas y aún así la Guardia Civil está preocupada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/guardia-civil-alerta-estafa-aparentemente-absurda-1379991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estafa-guardia-civil-3303208.jpg?tf=1200x' alt='Es una de las estafas más absurdas y aún así la Guardia Civil está preocupada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989'>Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603'>Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fracasos-cine-3303202.jpg?tf=1200x' alt='Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-deja-helado-helsinki-version-unica-watch-2-todoterreno-nueva-tablet-barata-pad-go-1381662'>OnePlus deja helado Helsinki con una versión única de su Watch 2 todoterreno y su nueva tablet barata Pad Go</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-deja-helado-helsinki-version-unica-watch-2-todoterreno-nueva-tablet-barata-pad-go-1381662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-evento-3303415.jpg?tf=1200x' alt='OnePlus deja helado Helsinki con una versión única de su Watch 2 todoterreno y su nueva tablet barata Pad Go' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16-gb-ram-portatil-vuela-precio-locos-pccomponentes-1381479'>Ryzen 7 y 16 GB de RAM: un portátil que vuela a precio de locos en PcComponentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ryzen-7-16-gb-ram-portatil-vuela-precio-locos-pccomponentes-1381479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-15-3303106.jpg?tf=1200x' alt='Ryzen 7 y 16 GB de RAM: un portátil que vuela a precio de locos en PcComponentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-office-fin-soporte-1379801'>Si tienes alguna de estas versiones de Office, el año que viene te quedarás sin soporte</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-office-fin-soporte-1379801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hijo-clippy-3303198.jpg?tf=1200x' alt='Si tienes alguna de estas versiones de Office, el año que viene te quedarás sin soporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574'>¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira</a></h4>
-    <a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/enfado-3303155.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira' />
     </a>
 </div>
 
