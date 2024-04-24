@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/twitter-va-cobrar-tarifa-todos-nuevos-usuarios-1380014'>Parece que Twitter, ahora X, empezará a cobrarte si te creas una nueva cuenta</a></h4>
+    <a href='https://computerhoy.com/redes/twitter-va-cobrar-tarifa-todos-nuevos-usuarios-1380014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/elon-musk-anuncia-x-va-cobrar-tarifa-todos-nuevos-usuarios-3300467.jpg?tf=1200x' alt='Parece que Twitter, ahora X, empezará a cobrarte si te creas una nueva cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842'>Era "el oro de los tontos" y ahora esos tontos serán ricos</a></h4>
     <a href='https://computerhoy.com/industria/oro-tontos-pirita-1379842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/material-conocia-como-oro-tontos-ahora-incluso-valioso-3300525.jpg?tf=1200x' alt='Era "el oro de los tontos" y ahora esos tontos serán ricos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715'>¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-24-abril-2024-3303472.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707'>Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante' />
     </a>
 </div>
 
