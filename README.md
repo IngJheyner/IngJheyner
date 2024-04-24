@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603'>Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fracasos-cine-3303202.jpg?tf=1200x' alt='Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-deja-helado-helsinki-version-unica-watch-2-todoterreno-nueva-tablet-barata-pad-go-1381662'>OnePlus deja helado Helsinki con una versión única de su Watch 2 todoterreno y su nueva tablet barata Pad Go</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-deja-helado-helsinki-version-unica-watch-2-todoterreno-nueva-tablet-barata-pad-go-1381662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-evento-3303415.jpg?tf=1200x' alt='OnePlus deja helado Helsinki con una versión única de su Watch 2 todoterreno y su nueva tablet barata Pad Go' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ryzen-7-16-gb-ram-portatil-vuela-precio-locos-pccomponentes-1381479'>Ryzen 7 y 16 GB de RAM: un portátil que vuela a precio de locos en PcComponentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ryzen-7-16-gb-ram-portatil-vuela-precio-locos-pccomponentes-1381479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-vivobook-15-3303106.jpg?tf=1200x' alt='Ryzen 7 y 16 GB de RAM: un portátil que vuela a precio de locos en PcComponentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-office-fin-soporte-1379801'>Si tienes alguna de estas versiones de Office, el año que viene te quedarás sin soporte</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-office-fin-soporte-1379801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hijo-clippy-3303198.jpg?tf=1200x' alt='Si tienes alguna de estas versiones de Office, el año que viene te quedarás sin soporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574'>¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira</a></h4>
     <a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/enfado-3303155.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/recuperacion-llegara-2024-moviles-menos-baratos-1380539'>La recuperación llegará en 2024 a todos los móviles... menos a los más baratos</a></h4>
-    <a href='https://computerhoy.com/moviles/recuperacion-llegara-2024-moviles-menos-baratos-1380539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/moviles-gama-entrada-3301747.jpg?tf=1200x' alt='La recuperación llegará en 2024 a todos los móviles... menos a los más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751'>No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-apenas-20-euros-orange-pi-perfecta-cacharrear-informatica-1381208'>Cuesta apenas 20 euros y esta Orange Pi es perfecta para cacharrear con la informática</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-apenas-20-euros-orange-pi-perfecta-cacharrear-informatica-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Cuesta apenas 20 euros y esta Orange Pi es perfecta para cacharrear con la informática' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750'>Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nino-jugando-robot-3303136.jpg?tf=1200x' alt='Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva' />
     </a>
 </div>
 
