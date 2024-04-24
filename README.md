@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719'>Ya lo sabemos todo de la próxima PS5 pro</a></h4>
+    <a href='https://computerhoy.com/gaming/especificaciones-ps5-pro-filtradas-1379719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ps5-pro-3303403.jpg?tf=1200x' alt='Ya lo sabemos todo de la próxima PS5 pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715'>¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-24-abril-2024-3303472.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685'>Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna</a></h4>
     <a href='https://computerhoy.com/espacio/asteroide-kamooalewa-podria-ser-fragmento-luna-1381685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/revelan-asteroide-kamooalewa-podria-ser-fragmento-luna-3303426.jpg?tf=1200x' alt='Revelan que el asteroide Kamo'oalewa, podría ser un fragmento de la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677'>TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones' />
     </a>
 </div>
 
