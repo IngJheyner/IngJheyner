@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707'>Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680'>Este mapa muestra las horas de uso del móvil y el PC en cada país</a></h4>
     <a href='https://computerhoy.com/internet/mapa-muestra-horas-uso-movil-pc-cada-pais-1381680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mapa-muestra-horas-uso-movil-pc-cada-pais-espana-dedican-5-horas-dia-3303448.jpg?tf=1200x' alt='Este mapa muestra las horas de uso del móvil y el PC en cada país' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675'>Hoy es el día: llegan los nuevos planes y precios a SkyShowtime</a></h4>
     <a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/skyshowtime-3303429.jpg?tf=1200x' alt='Hoy es el día: llegan los nuevos planes y precios a SkyShowtime' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663'>Xiaomi afirma que este año lanza su coche eléctrico SU7 en España</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-espana-2024-1381663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-su7-coche-electrico-3253848.jpg?tf=1200x' alt='Xiaomi afirma que este año lanza su coche eléctrico SU7 en España' />
     </a>
 </div>
 
