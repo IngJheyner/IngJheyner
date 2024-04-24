@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715'>¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-24-abril-2024-1381715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-miercoles-24-abril-2024-3303472.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 24 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707'>Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante</a></h4>
     <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-1381707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='Traduce el lenguaje de signos con estas gafas Raspberry Pi al instante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677'>TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-anade-nuevos-canales-television-radio-junto-todas-estas-actualizaciones-1381677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels añade nuevos canales de televisión y de radio junto a todas estas actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675'>Hoy es el día: llegan los nuevos planes y precios a SkyShowtime</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/hoy-dia-llegan-nuevos-planes-precios-skyshowtime-1381675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/skyshowtime-3303429.jpg?tf=1200x' alt='Hoy es el día: llegan los nuevos planes y precios a SkyShowtime' />
     </a>
 </div>
 
