@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574'>¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira</a></h4>
+    <a href='https://computerhoy.com/life/enfado-ira-costumbre-japonesa-hakidashisara-1379574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/enfado-3303155.jpg?tf=1200x' alt='¿Te enfadas con frecuencia? Los japoneses tienen la solución a tus problemas de ira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/recuperacion-llegara-2024-moviles-menos-baratos-1380539'>La recuperación llegará en 2024 a todos los móviles... menos a los más baratos</a></h4>
+    <a href='https://computerhoy.com/moviles/recuperacion-llegara-2024-moviles-menos-baratos-1380539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/moviles-gama-entrada-3301747.jpg?tf=1200x' alt='La recuperación llegará en 2024 a todos los móviles... menos a los más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751'>No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-anuncios-menu-inicio-1379751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='No te pasa solo a ti: Windows 11 empieza a mostrar anuncios en el menú de inicio' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-morir-1379729'>Si a tu tarjeta gráfica le pasa esto, está a punto de morir</a></h4>
-    <a href='https://computerhoy.com/pc/senales-indican-tarjeta-grafica-punto-morir-1379729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-senales-indican-tarjeta-grafica-punto-estropearse-3300042.jpg?tf=1200x' alt='Si a tu tarjeta gráfica le pasa esto, está a punto de morir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750'>Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-1379750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nino-jugando-robot-3303136.jpg?tf=1200x' alt='Aunque te parezca mentira, la IA todavía no supera al ser humano en matemática competitiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117'>Esta web española te ayuda a encontrar gente para compartir cuentas de Netflix, HBO, Spotify, Disney+ y otras plataformas</a></h4>
-    <a href='https://computerhoy.com/internet/sharingful-plataforma-compartir-contrasenas-neflix-spotify-disney-ganar-dinero-1378117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comunidad-3303132.jpg?tf=1200x' alt='Esta web española te ayuda a encontrar gente para compartir cuentas de Netflix, HBO, Spotify, Disney+ y otras plataformas' />
     </a>
 </div>
 
