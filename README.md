@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ue-obligara-reparar-producto-sale-barato-sustituirlo-1381752'>Ya es oficial: la UE obligará a reparar un producto si sale más barato que sustituirlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ue-obligara-reparar-producto-sale-barato-sustituirlo-1381752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ue-obligara-reparar-objeto-sale-barato-sustituirlo-3303552.jpg?tf=1200x' alt='Ya es oficial: la UE obligará a reparar un producto si sale más barato que sustituirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519'>Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto</a></h4>
     <a href='https://computerhoy.com/tecnologia/altavoz-bluetooth-te-suena-potentes-baratos-verano-viene-perfecto-1381519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ultimate-ears-boom-3-3303168.jpg?tf=1200x' alt='Este altavoz Bluetooth te suena: es de los más potentes y baratos y para el verano viene perfecto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989'>Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-android-auto-problema-1379989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-whatsapp-android-auto-3300457.jpg?tf=1200x' alt='Si Whatsapp te falla más que una escopeta de feria en Android Auto, no estás solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603'>Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mayores-fracasos-reyes-hollywood-1379603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fracasos-cine-3303202.jpg?tf=1200x' alt='Los mayores pufos de los mejores directores de cine de la historia: los grandes también se equivocan' />
     </a>
 </div>
 
