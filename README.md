@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-1381948'>Qué es la configuración de 7 días de Gmail y por qué deberías activarla ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-1381948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-3303872.jpg?tf=1200x' alt='Qué es la configuración de 7 días de Gmail y por qué deberías activarla ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/qualcomm-snapdragon-x-elite-plus-portatiles-windows-ia-1381740'>Nuevos Snapdragon X Elite y Plus para portátiles: más potentes que Apple M3, y con la IA más rápida</a></h4>
     <a href='https://computerhoy.com/pc/qualcomm-snapdragon-x-elite-plus-portatiles-windows-ia-1381740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303517.jpg?tf=1200x' alt='Nuevos Snapdragon X Elite y Plus para portátiles: más potentes que Apple M3, y con la IA más rápida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ultima-beta-whatsapp-muestra-2-novedades-llegaran-app-1381853'>La última beta de WhatsApp muestra 2 novedades clave que llegarán a la app</a></h4>
     <a href='https://computerhoy.com/tecnologia/ultima-beta-whatsapp-muestra-2-novedades-llegaran-app-1381853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='La última beta de WhatsApp muestra 2 novedades clave que llegarán a la app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qdel-tecnologia-futuro-smart-tv-1381770'>Así es QDEL, la tecnología del futuro para la televisión: negros más profundos, más brillo y productos premium a menor precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qdel-tecnologia-futuro-smart-tv-1381770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/philips-ambilight-smart-tv-efectos-luz-color-mejores-modelos-puedes-comprar-3032780.jpg?tf=1200x' alt='Así es QDEL, la tecnología del futuro para la televisión: negros más profundos, más brillo y productos premium a menor precio' />
     </a>
 </div>
 
