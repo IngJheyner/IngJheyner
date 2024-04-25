@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267'>Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carga-electrica-vehiculo-3304511.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108'>Consejos para que tu móvil no se caliente hay muchos, pero estos son los que me han funcionado</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-caliente-3304248.jpg?tf=1200x' alt='Consejos para que tu móvil no se caliente hay muchos, pero estos son los que me han funcionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229'>Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-3304496.jpg?tf=1200x' alt='Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920'>6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce</a></h4>
     <a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-poca-gente-conoce-3303821.jpg?tf=1200x' alt='6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334'>Qué es un televisor Ambilight y qué otras alternativas existen</a></h4>
     <a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-ambilight-otras-alternativas-existen-3302894.jpg?tf=1200x' alt='Qué es un televisor Ambilight y qué otras alternativas existen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481'>¿Qué significa SIMP?</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significa-simp-3302981.jpg?tf=1200x' alt='¿Qué significa SIMP?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/movil-top-samsung-rompe-barrera-1000-euros-s24-ultra-oferta-1382098'>Es el móvil top de Samsung y rompe la barrera de los 1.000 euros: el S24 Ultra, en oferta</a></h4>
-    <a href='https://computerhoy.com/android/movil-top-samsung-rompe-barrera-1000-euros-s24-ultra-oferta-1382098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267392.jpg?tf=1200x' alt='Es el móvil top de Samsung y rompe la barrera de los 1.000 euros: el S24 Ultra, en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064'>La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-idiomas-3304242.jpg?tf=1200x' alt='La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"' />
     </a>
 </div>
 
