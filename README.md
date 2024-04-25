@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-auriculares-movil-portatil-mismo-tiempo-1378686'>Cómo conectar tus auriculares al móvil y portátil al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-conectar-auriculares-movil-portatil-mismo-tiempo-1378686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectar-auriculares-movil-portatil-mismo-tiempo-3303545.jpg?tf=1200x' alt='Cómo conectar tus auriculares al móvil y portátil al mismo tiempo' />
+    <h4><a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334'>Qué es un televisor Ambilight y qué otras alternativas existen</a></h4>
+    <a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-ambilight-otras-alternativas-existen-3302894.jpg?tf=1200x' alt='Qué es un televisor Ambilight y qué otras alternativas existen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606'>Cómo descargar vídeos de Vimeo, paso a paso</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-descargar-videos-vimeo-paso-paso-3302019.jpg?tf=1200x' alt='Cómo descargar vídeos de Vimeo, paso a paso' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481'>¿Qué significa SIMP?</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/significa-simp-1031481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/significa-simp-3302981.jpg?tf=1200x' alt='¿Qué significa SIMP?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/absurda-pregunta-ninguna-inteligencia-artificial-capaz-resolver-1381841'>La absurda pregunta que ninguna inteligencia artificial es capaz de resolver</a></h4>
-    <a href='https://computerhoy.com/tecnologia/absurda-pregunta-ninguna-inteligencia-artificial-capaz-resolver-1381841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/preguntas-ia-3303724.jpg?tf=1200x' alt='La absurda pregunta que ninguna inteligencia artificial es capaz de resolver' />
+    <h4><a href='https://computerhoy.com/android/movil-top-samsung-rompe-barrera-1000-euros-s24-ultra-oferta-1382098'>Es el móvil top de Samsung y rompe la barrera de los 1.000 euros: el S24 Ultra, en oferta</a></h4>
+    <a href='https://computerhoy.com/android/movil-top-samsung-rompe-barrera-1000-euros-s24-ultra-oferta-1382098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267392.jpg?tf=1200x' alt='Es el móvil top de Samsung y rompe la barrera de los 1.000 euros: el S24 Ultra, en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155'>Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte </a></h4>
-    <a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte ' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064'>La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-idiomas-3304242.jpg?tf=1200x' alt='La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382'>Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard</a></h4>
-    <a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-3-claves-encontrar-felicidad-experto-harvard-3301105.jpg?tf=1200x' alt='Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard' />
+    <h4><a href='https://computerhoy.com/tutoriales/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-1382201'>Google Podcasts: así puedes llevar tus suscripciones a YouTube Music y otras apps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-1382201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-3304452.jpg?tf=1200x' alt='Google Podcasts: así puedes llevar tus suscripciones a YouTube Music y otras apps' />
     </a>
 </div>
 
