@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-nadie-1382042'>Google Podcasts ha migrado su contenido a YouTube Music, pero no convence a nadie</a></h4>
-    <a href='https://computerhoy.com/apps/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-nadie-1382042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-oyentes-3304024.jpg?tf=1200x' alt='Google Podcasts ha migrado su contenido a YouTube Music, pero no convence a nadie' />
+    <h4><a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103'>¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado</a></h4>
+    <a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/monedas-2-euros-3304158.jpg?tf=1200x' alt='¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/10-moviles-mercado-emiten-radiacion-1382017'>Los 10 móviles del mercado que emiten más radiación, aunque tampoco debes preocuparte</a></h4>
-    <a href='https://computerhoy.com/moviles/10-moviles-mercado-emiten-radiacion-1382017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3298457.jpg?tf=1200x' alt='Los 10 móviles del mercado que emiten más radiación, aunque tampoco debes preocuparte' />
+    <h4><a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070'>Descubre tu nueva obsesión audiovisual en segundos con esta web</a></h4>
+    <a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-ordenadores-miticos-terrorificos-historia-cine-3264801.jpg?tf=1200x' alt='Descubre tu nueva obsesión audiovisual en segundos con esta web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-humano-1379750'>El ser humano todavía le gana a la IA en matemática competitiva. Énfasis en todavía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-humano-1379750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nino-jugando-robot-3303136.jpg?tf=1200x' alt='El ser humano todavía le gana a la IA en matemática competitiva. Énfasis en todavía' />
+    <h4><a href='https://computerhoy.com/tv/hisense-presenta-televisores-opciones-todos-publicos-1382096'>Hisense presenta sus nuevos televisores con el Mini-LED como protagonista y opciones para todos </a></h4>
+    <a href='https://computerhoy.com/tv/hisense-presenta-televisores-opciones-todos-publicos-1382096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hisense-televisiones-2024-3304136.jpg?tf=1200x' alt='Hisense presenta sus nuevos televisores con el Mini-LED como protagonista y opciones para todos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022'>Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos</a></h4>
-    <a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mark-zuckerberg-confirma-threads-ha-llegado-150-millones-usuarios-activos-3303988.jpg?tf=1200x' alt='Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos' />
+    <h4><a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083'>Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra </a></h4>
+    <a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-s8-maxv-ultra-3256895.jpg?tf=1200x' alt='Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592'>Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-pc-firebat-s1-3303242.jpg?tf=1200x' alt='Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato' />
+    <h4><a href='https://computerhoy.com/apple/guerra-precio-macbook-air-m2-mediamarkt-amazon-rebajan-menos-1000-euros-1382037'>Guerra de precio con el MacBook Air M2: MediaMarkt y Amazon lo rebajan por menos de 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/apple/guerra-precio-macbook-air-m2-mediamarkt-amazon-rebajan-menos-1000-euros-1382037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg?tf=1200x' alt='Guerra de precio con el MacBook Air M2: MediaMarkt y Amazon lo rebajan por menos de 1.000 euros' />
     </a>
 </div>
 
