@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176'>Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos</a></h4>
+    <a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tambor-cuantico-3304258.jpg?tf=1200x' alt='Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248'>Aumenta la presión a los ISP para acabar con el fútbol por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Aumenta la presión a los ISP para acabar con el fútbol por IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108'>Consejos para que tu móvil no se caliente hay muchos, pero estos son los que me han funcionado</a></h4>
     <a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-caliente-3304248.jpg?tf=1200x' alt='Consejos para que tu móvil no se caliente hay muchos, pero estos son los que me han funcionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229'>Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-3304496.jpg?tf=1200x' alt='Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?' />
     </a>
 </div>
 
