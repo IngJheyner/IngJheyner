@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022'>Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos</a></h4>
+    <a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mark-zuckerberg-confirma-threads-ha-llegado-150-millones-usuarios-activos-3303988.jpg?tf=1200x' alt='Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592'>Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-pc-firebat-s1-3303242.jpg?tf=1200x' alt='Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221'>¡Ya está en tu quiosco el número 667 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-667-3301796.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 667 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447'>Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baseus-bowie-h1i-3303033.jpg?tf=1200x' alt='Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max' />
     </a>
 </div>
 
