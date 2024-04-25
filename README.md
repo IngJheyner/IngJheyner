@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326'>Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo</a></h4>
+    <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/steve-jobs-3304066.jpg?tf=1200x' alt='Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103'>¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado</a></h4>
     <a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/monedas-2-euros-3304158.jpg?tf=1200x' alt='¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083'>Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra </a></h4>
     <a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-s8-maxv-ultra-3256895.jpg?tf=1200x' alt='Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/guerra-precio-macbook-air-m2-mediamarkt-amazon-rebajan-menos-1000-euros-1382037'>Guerra de precio con el MacBook Air M2: MediaMarkt y Amazon lo rebajan por menos de 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/apple/guerra-precio-macbook-air-m2-mediamarkt-amazon-rebajan-menos-1000-euros-1382037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg?tf=1200x' alt='Guerra de precio con el MacBook Air M2: MediaMarkt y Amazon lo rebajan por menos de 1.000 euros' />
     </a>
 </div>
 
