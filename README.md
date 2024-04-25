@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248'>Aumenta la presión a los ISP para acabar con el fútbol por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Aumenta la presión a los ISP para acabar con el fútbol por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269'>Esta función inútil de los móviles Android se come la batería y así puedes desactivarla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Esta función inútil de los móviles Android se come la batería y así puedes desactivarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267'>Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carga-electrica-vehiculo-3304511.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229'>Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?</a></h4>
     <a href='https://computerhoy.com/entretenimiento/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-1382229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-no-forma-parte-hogar-netflix-significa-como-solucionarlo-3304496.jpg?tf=1200x' alt='Tu televisor no forma parte del hogar Netflix: ¿qué significa y cómo solucionarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920'>6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-poca-gente-conoce-3303821.jpg?tf=1200x' alt='6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334'>Qué es un televisor Ambilight y qué otras alternativas existen</a></h4>
-    <a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-ambilight-otras-alternativas-existen-3302894.jpg?tf=1200x' alt='Qué es un televisor Ambilight y qué otras alternativas existen' />
     </a>
 </div>
 
