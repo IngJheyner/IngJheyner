@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920'>6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-1381920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-mejores-peliculas-terror-asiaticas-pasar-miedo-verdad-poca-gente-conoce-3303821.jpg?tf=1200x' alt='6 mejores películas de terror asiáticas para pasar miedo de verdad, y que poca gente conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334'>Qué es un televisor Ambilight y qué otras alternativas existen</a></h4>
     <a href='https://computerhoy.com/tv/que-es-ambilight-smart-tv-alternativas-1381334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/televisor-ambilight-otras-alternativas-existen-3302894.jpg?tf=1200x' alt='Qué es un televisor Ambilight y qué otras alternativas existen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064'>La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-idiomas-peligro-1380064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-idiomas-3304242.jpg?tf=1200x' alt='La inteligencia artificial podría terminar con miles de idiomas que considera "ficticios"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-1382201'>Google Podcasts: así puedes llevar tus suscripciones a YouTube Music y otras apps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-1382201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-podcasts-puedes-llevar-suscripciones-youtube-music-otras-apps-3304452.jpg?tf=1200x' alt='Google Podcasts: así puedes llevar tus suscripciones a YouTube Music y otras apps' />
     </a>
 </div>
 
