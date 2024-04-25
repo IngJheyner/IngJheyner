@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981'>El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses</a></h4>
+    <a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/veto-tiktok-convierte-ley-bytedance-tendra-venderla-antes-ano-3303904.jpg?tf=1200x' alt='El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-1381975'>La razón por la que una CPU con pocos núcleos puede ser suficiente para tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-1381975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-3303911.jpg?tf=1200x' alt='La razón por la que una CPU con pocos núcleos puede ser suficiente para tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-1381970'>Pagar más por una conexión de fibra más rápida no solucionará tus problemas con el WiFi</a></h4>
     <a href='https://computerhoy.com/redes/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-1381970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-3303909.jpg?tf=1200x' alt='Pagar más por una conexión de fibra más rápida no solucionará tus problemas con el WiFi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950'>Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-3303905.jpg?tf=1200x' alt='Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/maquina-gashapon-dispensa-procesadores-intel-core-i7-8700-solo-3-euros-1381968'>Esta máquina Gashapon dispensa procesadores Intel Core i7-8700 por solo 3 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/maquina-gashapon-dispensa-procesadores-intel-core-i7-8700-solo-3-euros-1381968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/maquina-gashapon-dispensa-procesadores-intel-core-i7-8700-solo-3-euros-3303900.jpg?tf=1200x' alt='Esta máquina Gashapon dispensa procesadores Intel Core i7-8700 por solo 3 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-1381948'>Qué es la configuración de 7 días de Gmail y por qué deberías activarla ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-1381948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-3303872.jpg?tf=1200x' alt='Qué es la configuración de 7 días de Gmail y por qué deberías activarla ahora mismo' />
     </a>
 </div>
 
