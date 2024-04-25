@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-25-abril-2024-1381987'>¿Qué santo es hoy? Santoral del jueves 25 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-25-abril-2024-1381987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-25-abril-2024-3303921.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 25 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981'>El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses</a></h4>
     <a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/veto-tiktok-convierte-ley-bytedance-tendra-venderla-antes-ano-3303904.jpg?tf=1200x' alt='El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/empleado-enfadado-fulmina-servidor-empresa-culpa-todo-pronostico-microsoft-1381971'>Empleado enfadado fulmina el servidor y la empresa culpa ante todo pronóstico a Microsoft</a></h4>
     <a href='https://computerhoy.com/tecnologia/empleado-enfadado-fulmina-servidor-empresa-culpa-todo-pronostico-microsoft-1381971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tecnico-informatico-3303906.jpg?tf=1200x' alt='Empleado enfadado fulmina el servidor y la empresa culpa ante todo pronóstico a Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950'>Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-3303905.jpg?tf=1200x' alt='Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV' />
     </a>
 </div>
 
