@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050'>Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?</a></h4>
+    <a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-3304029.jpg?tf=1200x' alt='Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313'>Microsoft ha eliminado funciones clave del panel de control de Windows 11, pero así puedes acceder a ellas</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-funciones-eliminadas-3304218.jpg?tf=1200x' alt='Microsoft ha eliminado funciones clave del panel de control de Windows 11, pero así puedes acceder a ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326'>Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo</a></h4>
     <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/steve-jobs-3304066.jpg?tf=1200x' alt='Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070'>Descubre tu nueva obsesión audiovisual en segundos con esta web</a></h4>
     <a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-ordenadores-miticos-terrorificos-historia-cine-3264801.jpg?tf=1200x' alt='Descubre tu nueva obsesión audiovisual en segundos con esta web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hisense-presenta-televisores-opciones-todos-publicos-1382096'>Hisense presenta sus nuevos televisores con el Mini-LED como protagonista y opciones para todos </a></h4>
-    <a href='https://computerhoy.com/tv/hisense-presenta-televisores-opciones-todos-publicos-1382096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hisense-televisiones-2024-3304136.jpg?tf=1200x' alt='Hisense presenta sus nuevos televisores con el Mini-LED como protagonista y opciones para todos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083'>Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra </a></h4>
-    <a href='https://computerhoy.com/tecnologia/roborock-lanza-s8-maxv-ultra-primera-aspiradora-matter-1382083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-s8-maxv-ultra-3256895.jpg?tf=1200x' alt='Roborock lanza en España la primera aspiradora del mundo con Matter: así es la S8 MaxV Ultra ' />
     </a>
 </div>
 
