@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-gemini-barra-direcciones-chrome-1380039'>Google está integrando Gemini en Chrome y tendrás IA gratis en la barra de direcciones del navegador</a></h4>
+    <a href='https://computerhoy.com/google/google-gemini-barra-direcciones-chrome-1380039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google está integrando Gemini en Chrome y tendrás IA gratis en la barra de direcciones del navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037'>El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos</a></h4>
+    <a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/record-temperatura-3303789.jpg?tf=1200x' alt='El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822'>Prohibieron la venta de este móvil hace ya 15 años, pero acaba de reaparecer en Ebay</a></h4>
     <a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-prohibido-3303785.jpg?tf=1200x' alt='Prohibieron la venta de este móvil hace ya 15 años, pero acaba de reaparecer en Ebay' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981'>El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses</a></h4>
     <a href='https://computerhoy.com/redes/veto-tiktok-convierte-ley-bytedance-tendra-venderla-9-meses-1381981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/veto-tiktok-convierte-ley-bytedance-tendra-venderla-antes-ano-3303904.jpg?tf=1200x' alt='El veto a TikTok se convierte en ley: ByteDance tendrá que venderla en 9 meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-1381975'>La razón por la que una CPU con pocos núcleos puede ser suficiente para tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-1381975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-3303911.jpg?tf=1200x' alt='La razón por la que una CPU con pocos núcleos puede ser suficiente para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-1381970'>Pagar más por una conexión de fibra más rápida no solucionará tus problemas con el WiFi</a></h4>
-    <a href='https://computerhoy.com/redes/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-1381970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pagar-conexion-fibra-rapida-no-solucionara-problemas-wifi-3303909.jpg?tf=1200x' alt='Pagar más por una conexión de fibra más rápida no solucionará tus problemas con el WiFi' />
     </a>
 </div>
 
