@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447'>Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baseus-bowie-h1i-3303033.jpg?tf=1200x' alt='Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-anos-felicidad-mi-nas-usos-doy-todos-dias-1381443'>6 años de felicidad con mi NAS: estos son los usos que le doy todos los días</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-anos-felicidad-mi-nas-usos-doy-todos-dias-1381443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/usos-servidor-nas-3303102.jpg?tf=1200x' alt='6 años de felicidad con mi NAS: estos son los usos que le doy todos los días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-toda-familia-82-menos-surfshark-rebaja-suscripcion-barata-1381516'>VPN para toda tu familia y por un 82% menos: Surfshark rebaja su suscripción más barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-toda-familia-82-menos-surfshark-rebaja-suscripcion-barata-1381516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/surfshark-vpn-3303100.jpg?tf=1200x' alt='VPN para toda tu familia y por un 82% menos: Surfshark rebaja su suscripción más barata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037'>El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos</a></h4>
     <a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/record-temperatura-3303789.jpg?tf=1200x' alt='El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822'>Prohibieron la venta de este móvil hace ya 15 años, pero acaba de reaparecer en Ebay</a></h4>
-    <a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-prohibido-3303785.jpg?tf=1200x' alt='Prohibieron la venta de este móvil hace ya 15 años, pero acaba de reaparecer en Ebay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-25-abril-2024-1381987'>¿Qué santo es hoy? Santoral del jueves 25 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-25-abril-2024-1381987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-jueves-25-abril-2024-3303921.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 25 de abril de 2024' />
     </a>
 </div>
 
