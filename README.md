@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155'>Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte </a></h4>
+    <a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382'>Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard</a></h4>
+    <a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-3-claves-encontrar-felicidad-experto-harvard-3301105.jpg?tf=1200x' alt='Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050'>Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?</a></h4>
     <a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-3304029.jpg?tf=1200x' alt='Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326'>Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo</a></h4>
     <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/steve-jobs-3304066.jpg?tf=1200x' alt='Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103'>¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado</a></h4>
-    <a href='https://computerhoy.com/life/cual-verdadera-policia-propone-reto-muchos-han-fallado-1382103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/monedas-2-euros-3304158.jpg?tf=1200x' alt='¿Cuál es la verdadera? La Policía propone un reto que muchos ya han fallado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070'>Descubre tu nueva obsesión audiovisual en segundos con esta web</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-nueva-obsesion-audiovisual-segundos-web-1382070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estos-son-ordenadores-miticos-terrorificos-historia-cine-3264801.jpg?tf=1200x' alt='Descubre tu nueva obsesión audiovisual en segundos con esta web' />
     </a>
 </div>
 
