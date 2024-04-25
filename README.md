@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-conectar-auriculares-movil-portatil-mismo-tiempo-1378686'>Cómo conectar tus auriculares al móvil y portátil al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-conectar-auriculares-movil-portatil-mismo-tiempo-1378686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-conectar-auriculares-movil-portatil-mismo-tiempo-3303545.jpg?tf=1200x' alt='Cómo conectar tus auriculares al móvil y portátil al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606'>Cómo descargar vídeos de Vimeo, paso a paso</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-descargar-videos-vimeo-1286606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-descargar-videos-vimeo-paso-paso-3302019.jpg?tf=1200x' alt='Cómo descargar vídeos de Vimeo, paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/absurda-pregunta-ninguna-inteligencia-artificial-capaz-resolver-1381841'>La absurda pregunta que ninguna inteligencia artificial es capaz de resolver</a></h4>
+    <a href='https://computerhoy.com/tecnologia/absurda-pregunta-ninguna-inteligencia-artificial-capaz-resolver-1381841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/preguntas-ia-3303724.jpg?tf=1200x' alt='La absurda pregunta que ninguna inteligencia artificial es capaz de resolver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155'>Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte </a></h4>
     <a href='https://computerhoy.com/ciencia/elon-musk-fecha-llegada-marte-1380155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Elon Musk se tira un triple: esta es la fecha en la que colonizaremos Marte ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382'>Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard</a></h4>
     <a href='https://computerhoy.com/life/estas-son-3-claves-encontrar-felicidad-experto-harvard-1380382' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-3-claves-encontrar-felicidad-experto-harvard-3301105.jpg?tf=1200x' alt='Estas son las 3 claves para encontrar la felicidad, según un experto de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050'>Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?</a></h4>
-    <a href='https://computerhoy.com/apps/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-1382050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/polemica-whatsapp-facilita-nueva-actualizacion-infidelidad-3304029.jpg?tf=1200x' alt='Polémica en WhatsApp: ¿facilita su nueva actualización la infidelidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313'>Microsoft ha eliminado funciones clave del panel de control de Windows 11, pero así puedes acceder a ellas</a></h4>
-    <a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-funciones-eliminadas-3304218.jpg?tf=1200x' alt='Microsoft ha eliminado funciones clave del panel de control de Windows 11, pero así puedes acceder a ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326'>Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo</a></h4>
-    <a href='https://computerhoy.com/life/obsesion-steve-jobs-skeumorfismo-1380326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/steve-jobs-3304066.jpg?tf=1200x' alt='Casi se nos había olvidado la obsesión de Steve Jobs por el skeumorfismo' />
     </a>
 </div>
 
