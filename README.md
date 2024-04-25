@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-nadie-1382042'>Google Podcasts ha migrado su contenido a YouTube Music, pero no convence a nadie</a></h4>
+    <a href='https://computerhoy.com/apps/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-nadie-1382042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-podcasts-ha-migrado-contenido-youtube-music-pero-no-convence-oyentes-3304024.jpg?tf=1200x' alt='Google Podcasts ha migrado su contenido a YouTube Music, pero no convence a nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/10-moviles-mercado-emiten-radiacion-1382017'>Los 10 móviles del mercado que emiten más radiación, aunque tampoco debes preocuparte</a></h4>
+    <a href='https://computerhoy.com/moviles/10-moviles-mercado-emiten-radiacion-1382017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3298457.jpg?tf=1200x' alt='Los 10 móviles del mercado que emiten más radiación, aunque tampoco debes preocuparte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-humano-1379750'>El ser humano todavía le gana a la IA en matemática competitiva. Énfasis en todavía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-matematica-competitiva-humano-1379750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nino-jugando-robot-3303136.jpg?tf=1200x' alt='El ser humano todavía le gana a la IA en matemática competitiva. Énfasis en todavía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022'>Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos</a></h4>
     <a href='https://computerhoy.com/apps/threads-ha-llegado-150-millones-usuarios-activos-despues-9-meses-1382022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mark-zuckerberg-confirma-threads-ha-llegado-150-millones-usuarios-activos-3303988.jpg?tf=1200x' alt='Mark Zuckerberg confirma que Threads ha llegado a los 150 millones de usuarios activos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592'>Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-pc-firebat-s1-3303242.jpg?tf=1200x' alt='Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/timo-patata-wallapop-vinted-1381769'>¿Compras en Wallapop o Vinted? La Policía alerta sobre “el timo de la patata”</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/timo-patata-wallapop-vinted-1381769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/timo-patata-3303994.jpg?tf=1200x' alt='¿Compras en Wallapop o Vinted? La Policía alerta sobre “el timo de la patata”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/tres-sorprendentes-tecnologias-capturar-carbono-atmosfera-1382014'>Tres sorprendentes tecnologías que quieren capturar carbono de la atmósfera</a></h4>
-    <a href='https://computerhoy.com/energia/tres-sorprendentes-tecnologias-capturar-carbono-atmosfera-1382014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tres-sorprendentes-tecnologias-quieren-capturar-carbono-atmosfera-3303966.jpg?tf=1200x' alt='Tres sorprendentes tecnologías que quieren capturar carbono de la atmósfera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221'>¡Ya está en tu quiosco el número 667 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-667-3301796.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 667 de Computer Hoy!' />
     </a>
 </div>
 
