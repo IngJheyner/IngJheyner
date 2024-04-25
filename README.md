@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592'>Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-potente-raspberry-pi-pero-igual-barato-1381592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-pc-firebat-s1-3303242.jpg?tf=1200x' alt='Este Mini PC con Intel N100 es más potente que las Raspberry Pi pero igual de barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/timo-patata-wallapop-vinted-1381769'>¿Compras en Wallapop o Vinted? La Policía alerta sobre “el timo de la patata”</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/timo-patata-wallapop-vinted-1381769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/timo-patata-3303994.jpg?tf=1200x' alt='¿Compras en Wallapop o Vinted? La Policía alerta sobre “el timo de la patata”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/tres-sorprendentes-tecnologias-capturar-carbono-atmosfera-1382014'>Tres sorprendentes tecnologías que quieren capturar carbono de la atmósfera</a></h4>
+    <a href='https://computerhoy.com/energia/tres-sorprendentes-tecnologias-capturar-carbono-atmosfera-1382014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tres-sorprendentes-tecnologias-quieren-capturar-carbono-atmosfera-3303966.jpg?tf=1200x' alt='Tres sorprendentes tecnologías que quieren capturar carbono de la atmósfera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221'>¡Ya está en tu quiosco el número 667 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-667-computer-hoy-1380221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/computer-hoy-667-3301796.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 667 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447'>Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max</a></h4>
     <a href='https://computerhoy.com/tecnologia/tienen-audio-espacial-3d-cancelacion-ruido-pero-precio-ridiculo-compiten-airpods-max-1381447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/baseus-bowie-h1i-3303033.jpg?tf=1200x' alt='Tienen audio espacial 3D y cancelación de ruido, pero su precio es ridículo y compiten contra los AirPods Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-anos-felicidad-mi-nas-usos-doy-todos-dias-1381443'>6 años de felicidad con mi NAS: estos son los usos que le doy todos los días</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-anos-felicidad-mi-nas-usos-doy-todos-dias-1381443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/usos-servidor-nas-3303102.jpg?tf=1200x' alt='6 años de felicidad con mi NAS: estos son los usos que le doy todos los días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-toda-familia-82-menos-surfshark-rebaja-suscripcion-barata-1381516'>VPN para toda tu familia y por un 82% menos: Surfshark rebaja su suscripción más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-toda-familia-82-menos-surfshark-rebaja-suscripcion-barata-1381516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/surfshark-vpn-3303100.jpg?tf=1200x' alt='VPN para toda tu familia y por un 82% menos: Surfshark rebaja su suscripción más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-gemini-barra-direcciones-chrome-1380039'>Google está integrando Gemini en Chrome y tendrás IA gratis en la barra de direcciones del navegador</a></h4>
-    <a href='https://computerhoy.com/google/google-gemini-barra-direcciones-chrome-1380039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google está integrando Gemini en Chrome y tendrás IA gratis en la barra de direcciones del navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037'>El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos</a></h4>
-    <a href='https://computerhoy.com/ciencia/marzo-2024-record-temperaturas-1380037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/record-temperatura-3303789.jpg?tf=1200x' alt='El peor marzo posible: récord de temperatura y de emisiones, y van diez meses seguidos' />
     </a>
 </div>
 
