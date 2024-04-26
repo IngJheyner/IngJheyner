@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898'>5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-mejores-peliculas-clasicas-robots-temer-verdad-inteligencia-artificial-3302022.jpg?tf=1200x' alt='5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495'>Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-3305005.jpg?tf=1200x' alt='Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905'>El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo</a></h4>
     <a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151'>La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”</a></h4>
-    <a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-genialidad-3304297.jpg?tf=1200x' alt='La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”' />
     </a>
 </div>
 
