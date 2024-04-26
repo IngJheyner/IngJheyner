@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778'>Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-26-abril-2024-1382308'>¿Qué santo es hoy? Santoral del viernes 26 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-26-abril-2024-1382308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-26-abril-2024-3304595.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 26 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?</a></h4>
     <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ia-pin-marques-brownlee-3301108.jpg?tf=1200x' alt='Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349'>Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados</a></h4>
     <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arqueologo-frances-3304271.jpg?tf=1200x' alt='Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-razones-1382299'>ByteDance no va a vender TikTok, aunque la cierren en Estados Unidos: estas son las razones</a></h4>
-    <a href='https://computerhoy.com/redes/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-razones-1382299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-estas-son-razones-3304559.jpg?tf=1200x' alt='ByteDance no va a vender TikTok, aunque la cierren en Estados Unidos: estas son las razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176'>Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos</a></h4>
-    <a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tambor-cuantico-3304258.jpg?tf=1200x' alt='Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos' />
     </a>
 </div>
 
