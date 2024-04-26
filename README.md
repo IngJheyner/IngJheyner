@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rediseno-youtube-tan-odiado-han-vuelto-antiguo-1382347'>El rediseño de YouTube es tan odiado que han vuelto al antiguo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rediseno-youtube-tan-odiado-han-vuelto-antiguo-1382347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rediseno-youtube-3304731.jpg?tf=1200x' alt='El rediseño de YouTube es tan odiado que han vuelto al antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-empezara-mostrar-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft empezará a mostrar marcas de agua si no puedes actualizar a Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-empezara-mostrar-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft empezará a mostrar marcas de agua si no puedes actualizar a Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339'>¿Llegará Windows 12 este año? Esto es lo que se sabe</a></h4>
     <a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='¿Llegará Windows 12 este año? Esto es lo que se sabe' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/detectan-grave-fallo-android-tv-revela-cuentas-gmail-1382342'>Detectan un grave fallo en Android TV que deja al descubierto cuentas de Gmail</a></h4>
     <a href='https://computerhoy.com/android/detectan-grave-fallo-android-tv-revela-cuentas-gmail-1382342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='Detectan un grave fallo en Android TV que deja al descubierto cuentas de Gmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844'>Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-fecha-primera-bateria-estado-solido-1382120'>Samsung ha puesto fecha a la comercialización de su primera batería en estado sólido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-fecha-primera-bateria-estado-solido-1382120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-ha-puesto-fecha-comercializacion-primera-bateria-estado-solido-3304243.jpg?tf=1200x' alt='Samsung ha puesto fecha a la comercialización de su primera batería en estado sólido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326'> Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta</a></h4>
-    <a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-chorretes-funciona-aplicador-pasta-termica-cpu-usa-cantidad-exacta-3304614.jpg?tf=1200x' alt=' Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta' />
     </a>
 </div>
 
