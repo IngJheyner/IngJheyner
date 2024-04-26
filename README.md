@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180'>Fallout ya es de récord: la serie con más éxito de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallout-3284615.jpg?tf=1200x' alt='Fallout ya es de récord: la serie con más éxito de Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/truco-decidir-objeto-util-acabar-acaso-1382394'>El truco para decidir si un objeto es útil y acabar con los "por si acaso"</a></h4>
+    <a href='https://computerhoy.com/life/truco-decidir-objeto-util-acabar-acaso-1382394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-decidir-objeto-util-acabar-acaso-3304768.jpg?tf=1200x' alt='El truco para decidir si un objeto es útil y acabar con los "por si acaso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367'>Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024</a></h4>
     <a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cerveza-espanola-cuela-mejores-mundo-world-beer-cup-3304691.jpg?tf=1200x' alt='Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rediseno-youtube-tan-odiado-han-vuelto-antiguo-1382347'>El rediseño de YouTube es tan odiado que han vuelto al antiguo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rediseno-youtube-tan-odiado-han-vuelto-antiguo-1382347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rediseno-youtube-3304731.jpg?tf=1200x' alt='El rediseño de YouTube es tan odiado que han vuelto al antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-empezara-mostrar-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft empezará a mostrar marcas de agua si no puedes actualizar a Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-empezara-mostrar-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft empezará a mostrar marcas de agua si no puedes actualizar a Windows 11 24H2' />
     </a>
 </div>
 
