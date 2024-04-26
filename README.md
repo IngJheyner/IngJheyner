@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339'>¿Llegará Windows 12 este año? Esto es lo que se sabe</a></h4>
+    <a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='¿Llegará Windows 12 este año? Esto es lo que se sabe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/detectan-grave-fallo-android-tv-revela-cuentas-gmail-1382342'>Detectan un grave fallo en Android TV que deja al descubierto cuentas de Gmail</a></h4>
+    <a href='https://computerhoy.com/android/detectan-grave-fallo-android-tv-revela-cuentas-gmail-1382342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='Detectan un grave fallo en Android TV que deja al descubierto cuentas de Gmail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844'>Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326'> Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta</a></h4>
     <a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-chorretes-funciona-aplicador-pasta-termica-cpu-usa-cantidad-exacta-3304614.jpg?tf=1200x' alt=' Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-moviles-samsung-1380572'>El misterioso problema de la línea verde en la pantalla de algunos modelos de Samsung</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-moviles-samsung-1380572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linea-verde-pantalla-algunos-moviles-samsung-3301465.jpg?tf=1200x' alt='El misterioso problema de la línea verde en la pantalla de algunos modelos de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986'>Esta es mi configuración secreta para acelerar Google Chrome al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Esta es mi configuración secreta para acelerar Google Chrome al instante' />
     </a>
 </div>
 
