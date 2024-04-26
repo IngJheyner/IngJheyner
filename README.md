@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536'>Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chromecast-3305027.jpg?tf=1200x' alt='Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/alianza-extrana-dazn-une-onlyfans-ampliar-oferta-contenidos-1382534'>La alianza más extraña: DAZN se une a Onlyfans para ampliar su oferta de contenidos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/alianza-extrana-dazn-une-onlyfans-ampliar-oferta-contenidos-1382534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/acuerdo-dazn-onlyfans-3305026.jpg?tf=1200x' alt='La alianza más extraña: DAZN se une a Onlyfans para ampliar su oferta de contenidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521'>El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verdadero-significado-boton-doble-flecha-whatsapp-sirve-3305019.jpg?tf=1200x' alt='El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531'>Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista</a></h4>
+    <a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/filtra-video-oficial-pixel-8a-ia-como-unico-protagonista-3305014.jpg?tf=1200x' alt='Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898'>5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-mejores-peliculas-clasicas-robots-temer-verdad-inteligencia-artificial-3302022.jpg?tf=1200x' alt='5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495'>Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-3305005.jpg?tf=1200x' alt='Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-google-maps-cajero-mas-cercano-ti-313871'>Cómo encontrar desde Google Maps el cajero más cercano a ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-google-maps-cajero-mas-cercano-ti-313871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-encontrar-google-maps-cajero-cercano-ti-3303930.jpg?tf=1200x' alt='Cómo encontrar desde Google Maps el cajero más cercano a ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427'>El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes </a></h4>
-    <a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rivales-xiaomi-su7-3265788.jpg?tf=1200x' alt='El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905'>El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo' />
     </a>
 </div>
 
