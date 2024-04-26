@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-garmin-compite-apple-watch-mide-vo2-max-tiene-precio-locos-1381738'>Este smartwatch Garmin compite contra el Apple Watch, mide VO2 Max y tiene precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-garmin-compite-apple-watch-mide-vo2-max-tiene-precio-locos-1381738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-vivoactive-5-3303528.jpg?tf=1200x' alt='Este smartwatch Garmin compite contra el Apple Watch, mide VO2 Max y tiene precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sheaffer-adivino-gafas-anillos-relojes-inteligentes-1963-1382310'>Esta marca de plumas adivinó las gafas, anillos y relojes inteligentes en 1963</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sheaffer-adivino-gafas-anillos-relojes-inteligentes-1963-1382310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/marca-plumas-adivino-gafas-anillos-relojes-inteligentes-1963-3304028.jpg?tf=1200x' alt='Esta marca de plumas adivinó las gafas, anillos y relojes inteligentes en 1963' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-llamadas-amazon-puede-ser-estafa-1380788'>Cuidado con las llamadas de Amazon: puede ser una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-llamadas-amazon-puede-ser-estafa-1380788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-devolver-regalo-amazon-nadie-entere-3251692.jpg?tf=1200x' alt='Cuidado con las llamadas de Amazon: puede ser una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-photos-privacidad-1380215'>¿Son realmente privadas tus fotos cuando las subes a Google Fotos?</a></h4>
+    <a href='https://computerhoy.com/google/google-photos-privacidad-1380215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3304455.jpg?tf=1200x' alt='¿Son realmente privadas tus fotos cuando las subes a Google Fotos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778'>Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-26-abril-2024-1382308'>¿Qué santo es hoy? Santoral del viernes 26 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-26-abril-2024-1382308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-viernes-26-abril-2024-3304595.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 26 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ia-pin-marques-brownlee-3301108.jpg?tf=1200x' alt='Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352'>Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/discord-ciberseguridad-3301043.jpg?tf=1200x' alt='Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349'>Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados</a></h4>
-    <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arqueologo-frances-3304271.jpg?tf=1200x' alt='Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados' />
     </a>
 </div>
 
