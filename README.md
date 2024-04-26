@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427'>El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes </a></h4>
+    <a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rivales-xiaomi-su7-3265788.jpg?tf=1200x' alt='El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905'>El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pixel-watch-2-smartwatches-favoritos-precio-tiene-no-hay-pensarselo-1381905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199976.jpg?tf=1200x' alt='El Pixel Watch 2 es de nuestros smartwatches favoritos, y por el precio que tiene no hay que pensárselo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151'>La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”</a></h4>
+    <a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-genialidad-3304297.jpg?tf=1200x' alt='La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-1382470'>Toda la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada</a></h4>
     <a href='https://computerhoy.com/internet/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-1382470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-3304964.jpg?tf=1200x' alt='Toda la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392'>Estas son las mejores alternativas online a Paint</a></h4>
     <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-mejores-alternativas-online-paint-3304608.jpg?tf=1200x' alt='Estas son las mejores alternativas online a Paint' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razones-signal-app-mensajeria-segura-1382167'>Supera a WhatsApp: 5 razones por las que Signal es la app de mensajería más segura</a></h4>
-    <a href='https://computerhoy.com/apps/razones-signal-app-mensajeria-segura-1382167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/signal-requerira-45-millones-euros-ano-funcionar-2025-cantidad-ridicula-comparacion-whatsapp-telegram-3234680.jpg?tf=1200x' alt='Supera a WhatsApp: 5 razones por las que Signal es la app de mensajería más segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lidl-tiene-alarma-antirrobos-perfecta-no-requiere-instalacion-cuesta-menos-20-euros-1382444'>Lidl tiene la alarma antirrobos perfecta, no requiere instalación y cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/lidl-tiene-alarma-antirrobos-perfecta-no-requiere-instalacion-cuesta-menos-20-euros-1382444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Lidl tiene la alarma antirrobos perfecta, no requiere instalación y cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/tierra-tendra-dias-25-horas-cuando-dara-fenomeno-1382363'>La Tierra tendrá días de 25 horas, ¿cuándo se dará este fenómeno?</a></h4>
-    <a href='https://computerhoy.com/ciencia/tierra-tendra-dias-25-horas-cuando-dara-fenomeno-1382363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dias-25-horas-3304752.jpg?tf=1200x' alt='La Tierra tendrá días de 25 horas, ¿cuándo se dará este fenómeno?' />
     </a>
 </div>
 
