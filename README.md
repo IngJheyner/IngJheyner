@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/razones-signal-app-mensajeria-segura-1382167'>Supera a WhatsApp: 5 razones por las que Signal es la app de mensajería más segura</a></h4>
+    <a href='https://computerhoy.com/apps/razones-signal-app-mensajeria-segura-1382167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/signal-requerira-45-millones-euros-ano-funcionar-2025-cantidad-ridicula-comparacion-whatsapp-telegram-3234680.jpg?tf=1200x' alt='Supera a WhatsApp: 5 razones por las que Signal es la app de mensajería más segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lidl-tiene-alarma-antirrobos-perfecta-no-requiere-instalacion-cuesta-menos-20-euros-1382444'>Lidl tiene la alarma antirrobos perfecta, no requiere instalación y cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/lidl-tiene-alarma-antirrobos-perfecta-no-requiere-instalacion-cuesta-menos-20-euros-1382444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/centro-comercial-lidl-2831649.jpg?tf=1200x' alt='Lidl tiene la alarma antirrobos perfecta, no requiere instalación y cuesta menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/tierra-tendra-dias-25-horas-cuando-dara-fenomeno-1382363'>La Tierra tendrá días de 25 horas, ¿cuándo se dará este fenómeno?</a></h4>
+    <a href='https://computerhoy.com/ciencia/tierra-tendra-dias-25-horas-cuando-dara-fenomeno-1382363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dias-25-horas-3304752.jpg?tf=1200x' alt='La Tierra tendrá días de 25 horas, ¿cuándo se dará este fenómeno?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-1382109'>La NASA acaba de hackear una sonda de 1977 a 24.000 millones de kilómetros</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-1382109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-3304176.jpg?tf=1200x' alt='La NASA acaba de hackear una sonda de 1977 a 24.000 millones de kilómetros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/unas-imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-1382420'>Unas imágenes muestran "arañas" en la superficie de Marte: la ciencia lo ha explicado</a></h4>
     <a href='https://computerhoy.com/espacio/unas-imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-1382420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-3304822.jpg?tf=1200x' alt='Unas imágenes muestran "arañas" en la superficie de Marte: la ciencia lo ha explicado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180'>Fallout ya es de récord: la serie con más éxito de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallout-3284615.jpg?tf=1200x' alt='Fallout ya es de récord: la serie con más éxito de Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/truco-decidir-objeto-util-acabar-acaso-1382394'>El truco para decidir si un objeto es útil y acabar con los "por si acaso"</a></h4>
-    <a href='https://computerhoy.com/life/truco-decidir-objeto-util-acabar-acaso-1382394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/truco-decidir-objeto-util-acabar-acaso-3304768.jpg?tf=1200x' alt='El truco para decidir si un objeto es útil y acabar con los "por si acaso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367'>Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cerveza-espanola-cuela-mejores-mundo-world-beer-cup-3304691.jpg?tf=1200x' alt='Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024' />
     </a>
 </div>
 
