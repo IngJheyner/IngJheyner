@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352'>Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/discord-ciberseguridad-3301043.jpg?tf=1200x' alt='Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349'>Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados</a></h4>
     <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arqueologo-frances-3304271.jpg?tf=1200x' alt='Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248'>Aumenta la presión a los ISP para acabar con el fútbol por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Aumenta la presión a los ISP para acabar con el fútbol por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269'>Esta función inútil de los móviles Android se come la batería y así puedes desactivarla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Esta función inútil de los móviles Android se come la batería y así puedes desactivarla' />
     </a>
 </div>
 
