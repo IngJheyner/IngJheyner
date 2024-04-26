@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ia-pin-marques-brownlee-3301108.jpg?tf=1200x' alt='Humane AI Pin: ¿adelantado a su tiempo o desastre absoluto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352'>Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/discord-spy-pet-1380352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/discord-ciberseguridad-3301043.jpg?tf=1200x' alt='Así funciona la web que espía tu cuenta de Discord y la de 627 millones de personas más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176'>Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos</a></h4>
     <a href='https://computerhoy.com/redes/tambor-cuantico-invento-internet-1380176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tambor-cuantico-3304258.jpg?tf=1200x' alt='Es un tambor. Es cuántico. Y podría cambiar Internet tal y como lo conocemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248'>Aumenta la presión a los ISP para acabar con el fútbol por IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/aumenta-presion-isp-acabar-futbol-iptv-1382248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Aumenta la presión a los ISP para acabar con el fútbol por IPTV' />
     </a>
 </div>
 
