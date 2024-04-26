@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349'>Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados</a></h4>
+    <a href='https://computerhoy.com/ciencia/aparece-francia-estructura-neolitica-1380349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arqueologo-frances-3304271.jpg?tf=1200x' alt='Estas ruinas neolíticas que acaban de descubrir en Francia tienen a los arqueólogos desconcertados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-razones-1382299'>ByteDance no va a vender TikTok, aunque la cierren en Estados Unidos: estas son las razones</a></h4>
     <a href='https://computerhoy.com/redes/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-razones-1382299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bytedance-no-va-vender-tiktok-aunque-cierren-estados-unidos-estas-son-razones-3304559.jpg?tf=1200x' alt='ByteDance no va a vender TikTok, aunque la cierren en Estados Unidos: estas son las razones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269'>Esta función inútil de los móviles Android se come la batería y así puedes desactivarla</a></h4>
     <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-puedes-desactivarla-1382269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Esta función inútil de los móviles Android se come la batería y así puedes desactivarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267'>Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-baterias-pueden-cargarse-segundos-1382267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carga-electrica-vehiculo-3304511.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de baterías que pueden cargarse en segundos' />
     </a>
 </div>
 
