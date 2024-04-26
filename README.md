@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-garmin-compite-apple-watch-mide-vo2-max-tiene-precio-locos-1381738'>Este smartwatch Garmin compite contra el Apple Watch, mide VO2 Max y tiene precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-garmin-compite-apple-watch-mide-vo2-max-tiene-precio-locos-1381738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-vivoactive-5-3303528.jpg?tf=1200x' alt='Este smartwatch Garmin compite contra el Apple Watch, mide VO2 Max y tiene precio de locos' />
+    <h4><a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986'>Esta es mi configuración secreta para acelerar Google Chrome al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Esta es mi configuración secreta para acelerar Google Chrome al instante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sheaffer-adivino-gafas-anillos-relojes-inteligentes-1963-1382310'>Esta marca de plumas adivinó las gafas, anillos y relojes inteligentes en 1963</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sheaffer-adivino-gafas-anillos-relojes-inteligentes-1963-1382310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/marca-plumas-adivino-gafas-anillos-relojes-inteligentes-1963-3304028.jpg?tf=1200x' alt='Esta marca de plumas adivinó las gafas, anillos y relojes inteligentes en 1963' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/comprobar-mensaje-declaracion-renta-estafa-1380371'>Comprueba de esta manera si el mensaje de la devolución de la Renta es una estafa o es real</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/comprobar-mensaje-declaracion-renta-estafa-1380371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacienda-sms-estafa-3304462.jpg?tf=1200x' alt='Comprueba de esta manera si el mensaje de la devolución de la Renta es una estafa o es real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-llamadas-amazon-puede-ser-estafa-1380788'>Cuidado con las llamadas de Amazon: puede ser una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-llamadas-amazon-puede-ser-estafa-1380788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-devolver-regalo-amazon-nadie-entere-3251692.jpg?tf=1200x' alt='Cuidado con las llamadas de Amazon: puede ser una estafa' />
+    <h4><a href='https://computerhoy.com/analisis/boox-note-air3-c-analisis-opinion-1382043'>He probado la tablet para tomar notas y lector de eBooks a color Boox Note Air3 C: creo que es perfecta para fans de la escritura</a></h4>
+    <a href='https://computerhoy.com/analisis/boox-note-air3-c-analisis-opinion-1382043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-c-3304348.jpg?tf=1200x' alt='He probado la tablet para tomar notas y lector de eBooks a color Boox Note Air3 C: creo que es perfecta para fans de la escritura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-photos-privacidad-1380215'>¿Son realmente privadas tus fotos cuando las subes a Google Fotos?</a></h4>
-    <a href='https://computerhoy.com/google/google-photos-privacidad-1380215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3304455.jpg?tf=1200x' alt='¿Son realmente privadas tus fotos cuando las subes a Google Fotos?' />
+    <h4><a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-1382073'>Palabras prohibidas en WhatsApp: ¿podrían bloquear tu cuenta por lo que escribes?</a></h4>
+    <a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-1382073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/palabras-prohibidas-whatsapp-3304146.jpg?tf=1200x' alt='Palabras prohibidas en WhatsApp: ¿podrían bloquear tu cuenta por lo que escribes?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778'>Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-2024-1380778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3291572.jpg?tf=1200x' alt='Revolución total en WhatsApp: los 5 cambios que transformarán la app en 2024' />
+    <h4><a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444'>Si vives en una zona azul, vas a vivir más años</a></h4>
+    <a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-esperanza-vida-3304458.jpg?tf=1200x' alt='Si vives en una zona azul, vas a vivir más años' />
     </a>
 </div>
 
