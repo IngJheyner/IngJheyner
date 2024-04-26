@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495'>Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-1382495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-cache-tiktok-deberias-hacerlo-ahora-mismo-3305005.jpg?tf=1200x' alt='Cómo borrar la caché de TikTok y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-google-maps-cajero-mas-cercano-ti-313871'>Cómo encontrar desde Google Maps el cajero más cercano a ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-encontrar-google-maps-cajero-mas-cercano-ti-313871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-encontrar-google-maps-cajero-cercano-ti-3303930.jpg?tf=1200x' alt='Cómo encontrar desde Google Maps el cajero más cercano a ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427'>El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes </a></h4>
     <a href='https://computerhoy.com/motor/ceo-xiaomi-recomienda-comprar-coches-electricos-otros-fabricantes-1382427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rivales-xiaomi-su7-3265788.jpg?tf=1200x' alt='El CEO de Xiaomi recomienda comprar los coches eléctricos de otros fabricantes ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151'>La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”</a></h4>
     <a href='https://computerhoy.com/redes/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-1382151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ruptura-redes-sociales-ha-hecho-viral-mucha-gente-aplaude-genialidad-3304297.jpg?tf=1200x' alt='La ruptura por redes sociales que se ha hecho viral y mucha gente aplaude: “¡qué genialidad!”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-1382470'>Toda la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/internet/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-1382470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-3304964.jpg?tf=1200x' alt='Toda la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392'>Estas son las mejores alternativas online a Paint</a></h4>
-    <a href='https://computerhoy.com/listas/tecnologia/mejores-alternativas-online-paint-248392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estas-son-mejores-alternativas-online-paint-3304608.jpg?tf=1200x' alt='Estas son las mejores alternativas online a Paint' />
     </a>
 </div>
 
