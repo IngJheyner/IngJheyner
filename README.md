@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-1382109'>La NASA acaba de hackear una sonda de 1977 a 24.000 millones de kilómetros</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-1382109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-acaba-hackear-sonda-1977-24000-millones-kilometros-3304176.jpg?tf=1200x' alt='La NASA acaba de hackear una sonda de 1977 a 24.000 millones de kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/unas-imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-1382420'>Unas imágenes muestran "arañas" en la superficie de Marte: la ciencia lo ha explicado</a></h4>
+    <a href='https://computerhoy.com/espacio/unas-imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-1382420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/imagenes-muestran-aranas-superficie-marte-ciencia-ha-explicado-3304822.jpg?tf=1200x' alt='Unas imágenes muestran "arañas" en la superficie de Marte: la ciencia lo ha explicado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180'>Fallout ya es de récord: la serie con más éxito de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/fallout-ya-record-serie-exito-amazon-prime-video-1382180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fallout-3284615.jpg?tf=1200x' alt='Fallout ya es de récord: la serie con más éxito de Amazon Prime Video' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367'>Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024</a></h4>
     <a href='https://computerhoy.com/alimentacion/cerveza-espanola-mejores-mundo-world-beer-cup-1382367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cerveza-espanola-cuela-mejores-mundo-world-beer-cup-3304691.jpg?tf=1200x' alt='Tras dos años de sequía, una cerveza española se cuela entre las mejores del mundo en la World Beer Cup 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-gopro-chinas-alternativa-dji-barata-graba-video-4k-1382266'>Olvida las GoPro chinas: esta alternativa DJI es barata y graba vídeo 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-gopro-chinas-alternativa-dji-barata-graba-video-4k-1382266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dji-osmo-action-3-2957228.jpg?tf=1200x' alt='Olvida las GoPro chinas: esta alternativa DJI es barata y graba vídeo 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-mitico-ms-dos-1382345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
     </a>
 </div>
 
