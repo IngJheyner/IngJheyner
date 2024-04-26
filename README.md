@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844'>Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bombazo-realme-movil-top-presume-camara-100-euros-barato-1381844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Bombazo de realme: su móvil más top presume de cámara y es 100 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-fecha-primera-bateria-estado-solido-1382120'>Samsung ha puesto fecha a la comercialización de su primera batería en estado sólido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-fecha-primera-bateria-estado-solido-1382120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-ha-puesto-fecha-comercializacion-primera-bateria-estado-solido-3304243.jpg?tf=1200x' alt='Samsung ha puesto fecha a la comercialización de su primera batería en estado sólido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326'> Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta</a></h4>
+    <a href='https://computerhoy.com/pc/x-apply-aplicador-pasta-termica-cpu-1382326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/adios-chorretes-funciona-aplicador-pasta-termica-cpu-usa-cantidad-exacta-3304614.jpg?tf=1200x' alt=' Adiós a los chorretes: así funciona el aplicador de pasta térmica de la CPU que usa la cantidad exacta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-moviles-samsung-1380572'>El misterioso problema de la línea verde en la pantalla de algunos modelos de Samsung</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linea-verde-pantalla-moviles-samsung-1380572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/linea-verde-pantalla-algunos-moviles-samsung-3301465.jpg?tf=1200x' alt='El misterioso problema de la línea verde en la pantalla de algunos modelos de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986'>Esta es mi configuración secreta para acelerar Google Chrome al instante</a></h4>
     <a href='https://computerhoy.com/tutoriales/mi-configuracion-secreta-acelerar-google-chrome-instante-1381986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Esta es mi configuración secreta para acelerar Google Chrome al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/comprobar-mensaje-declaracion-renta-estafa-1380371'>Comprueba de esta manera si el mensaje de la devolución de la Renta es una estafa o es real</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/comprobar-mensaje-declaracion-renta-estafa-1380371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacienda-sms-estafa-3304462.jpg?tf=1200x' alt='Comprueba de esta manera si el mensaje de la devolución de la Renta es una estafa o es real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/boox-note-air3-c-analisis-opinion-1382043'>He probado la tablet para tomar notas y lector de eBooks a color Boox Note Air3 C: creo que es perfecta para fans de la escritura</a></h4>
-    <a href='https://computerhoy.com/analisis/boox-note-air3-c-analisis-opinion-1382043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/boox-note-air3-c-3304348.jpg?tf=1200x' alt='He probado la tablet para tomar notas y lector de eBooks a color Boox Note Air3 C: creo que es perfecta para fans de la escritura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-1382073'>Palabras prohibidas en WhatsApp: ¿podrían bloquear tu cuenta por lo que escribes?</a></h4>
-    <a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-1382073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/palabras-prohibidas-whatsapp-3304146.jpg?tf=1200x' alt='Palabras prohibidas en WhatsApp: ¿podrían bloquear tu cuenta por lo que escribes?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444'>Si vives en una zona azul, vas a vivir más años</a></h4>
-    <a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-esperanza-vida-3304458.jpg?tf=1200x' alt='Si vives en una zona azul, vas a vivir más años' />
     </a>
 </div>
 
