@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880'>Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes</a></h4>
+    <a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuadro-electrico-casa-sirve-como-funcionan-componentes-3301999.jpg?tf=1200x' alt='Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573'>Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-iphone-3305111.jpg?tf=1200x' alt='Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389'>Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV</a></h4>
     <a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/salida-audio-optica-sirve-como-usarla-smart-tv-3302962.jpg?tf=1200x' alt='Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714'>La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12' />
     </a>
 </div>
 
