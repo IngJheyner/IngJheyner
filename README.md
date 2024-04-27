@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545'> ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276005.jpg?tf=1200x' alt=' ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536'>Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales</a></h4>
     <a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chromecast-3305027.jpg?tf=1200x' alt='Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531'>Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista</a></h4>
     <a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/filtra-video-oficial-pixel-8a-ia-como-unico-protagonista-3305014.jpg?tf=1200x' alt='Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898'>5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-clasicas-robots-temer-verdad-ia-1380898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-mejores-peliculas-clasicas-robots-temer-verdad-inteligencia-artificial-3302022.jpg?tf=1200x' alt='5 mejores películas clásicas de robots para temer de verdad a la inteligencia artificial' />
     </a>
 </div>
 
