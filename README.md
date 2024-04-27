@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-27-abril-2024-1382550'>¿Qué santo es hoy? Santoral del sábado 27 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-27-abril-2024-1382550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-27-abril-2024-3305059.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 27 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-series-9-casi-100-euros-barato-aliexpress-plaza-1382423'>El Apple Watch Series 9 está casi 100 euros más barato en AliExpress Plaza</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-series-9-casi-100-euros-barato-aliexpress-plaza-1382423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187110.jpg?tf=1200x' alt='El Apple Watch Series 9 está casi 100 euros más barato en AliExpress Plaza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545'> ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276005.jpg?tf=1200x' alt=' ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cpu-creando-cuello-botella-mermando-rendimiento-pc-1381980'>Cómo saber si la CPU está creando un cuello de botella y mermando el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-cpu-creando-cuello-botella-mermando-rendimiento-pc-1381980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cpu-creando-cuello-botella-mermando-rendimiento-pc-3303924.jpg?tf=1200x' alt='Cómo saber si la CPU está creando un cuello de botella y mermando el rendimiento de tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536'>Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-caer-llegara-mejoras-sustanciales-1382536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chromecast-3305027.jpg?tf=1200x' alt='Una nueva actualización del Chromecast 4K con Google TV está al caer y llegará con mejoras sustanciales' />
+    <h4><a href='https://computerhoy.com/ciencia/papiro-calcinado-vesubio-desvela-localizacion-tumba-platon-1382554'>Un papiro calcinado por el Vesubio desvela la localización exacta de la tumba de Platón</a></h4>
+    <a href='https://computerhoy.com/ciencia/papiro-calcinado-vesubio-desvela-localizacion-tumba-platon-1382554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/papiro-calcinado-pompeya-desvela-localizacion-exacta-tumba-platon-3305071.jpg?tf=1200x' alt='Un papiro calcinado por el Vesubio desvela la localización exacta de la tumba de Platón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/alianza-extrana-dazn-une-onlyfans-ampliar-oferta-contenidos-1382534'>La alianza más extraña: DAZN se une a Onlyfans para ampliar su oferta de contenidos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/alianza-extrana-dazn-une-onlyfans-ampliar-oferta-contenidos-1382534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/acuerdo-dazn-onlyfans-3305026.jpg?tf=1200x' alt='La alianza más extraña: DAZN se une a Onlyfans para ampliar su oferta de contenidos' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-costado-meses-170-euros-salir-icloud-google-fotos-1381301'>Me ha costado meses y 170 euros salir de iCloud y Google Fotos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-costado-meses-170-euros-salir-icloud-google-fotos-1381301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/disco-duro-llamas-3302814.jpg?tf=1200x' alt='Me ha costado meses y 170 euros salir de iCloud y Google Fotos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521'>El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verdadero-significado-boton-doble-flecha-whatsapp-sirve-3305019.jpg?tf=1200x' alt='El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve' />
+    <h4><a href='https://computerhoy.com/analisis/moto-buds-plus-analisis-opinion-cancelacion-ruido-espectacular-1380648'>He probado los Moto Buds+: la colaboración con Bose le sienta espectacularmente bien</a></h4>
+    <a href='https://computerhoy.com/analisis/moto-buds-plus-analisis-opinion-cancelacion-ruido-espectacular-1380648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/moto-buds-plus-3304273.jpg?tf=1200x' alt='He probado los Moto Buds+: la colaboración con Bose le sienta espectacularmente bien' />
     </a>
 </div>
 
