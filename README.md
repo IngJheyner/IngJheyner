@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594'>Android 15 acabará con el bombardeo de notificaciones en tu móvil</a></h4>
+    <a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/notificaciones-molestas-android-3305144.jpg?tf=1200x' alt='Android 15 acabará con el bombardeo de notificaciones en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108'>Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-caliente-3304248.jpg?tf=1200x' alt='Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880'>Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes</a></h4>
     <a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuadro-electrico-casa-sirve-como-funcionan-componentes-3301999.jpg?tf=1200x' alt='Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>¿Es Humane AI Pin un absoluto desastre?</a></h4>
     <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ai-pin-3305080.jpg?tf=1200x' alt='¿Es Humane AI Pin un absoluto desastre?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-dominarlas-todas-dos-cestas-precio-ultracompetitivo-1382082'>Una Air Fryer para dominarlas a todas: dos cestas y precio ultracompetitivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/air-fryer-dominarlas-todas-dos-cestas-precio-ultracompetitivo-1382082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cosori-dual-basket-chef-edition-3304031.jpg?tf=1200x' alt='Una Air Fryer para dominarlas a todas: dos cestas y precio ultracompetitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389'>Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/salida-audio-optica-sirve-como-usarla-smart-tv-3302962.jpg?tf=1200x' alt='Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV' />
     </a>
 </div>
 
