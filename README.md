@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638'>YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-3305209.jpg?tf=1200x' alt='YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099'>El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-surface-laptop-5-3304116.jpg?tf=1200x' alt='El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619'>La nueva característica para Android Auto que hace que la conducción sea más segura</a></h4>
     <a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-3305189.jpg?tf=1200x' alt='La nueva característica para Android Auto que hace que la conducción sea más segura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313'>¿Te han desaparecido funciones del panel de control de Windows 11? Así puedes acceder a ellas</a></h4>
     <a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-3305083.jpg?tf=1200x' alt='¿Te han desaparecido funciones del panel de control de Windows 11? Así puedes acceder a ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606'>Microsoft mejora la búsqueda interna de aplicaciones en Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft mejora la búsqueda interna de aplicaciones en Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594'>Android 15 acabará con el bombardeo de notificaciones en tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/notificaciones-molestas-android-3305144.jpg?tf=1200x' alt='Android 15 acabará con el bombardeo de notificaciones en tu móvil' />
     </a>
 </div>
 
