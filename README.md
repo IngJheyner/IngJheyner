@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-27-abril-2024-1382550'>¿Qué santo es hoy? Santoral del sábado 27 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-sabado-27-abril-2024-1382550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-sabado-27-abril-2024-3305059.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del sábado 27 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545'> ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias</a></h4>
     <a href='https://computerhoy.com/apple/apple-vision-pro-baratas-peligro-malas-noticias-1382545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276005.jpg?tf=1200x' alt=' ¿Las Apple Vision Pro baratas en peligro?: Un analista tiene muy malas noticias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521'>El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve</a></h4>
     <a href='https://computerhoy.com/apps/verdadero-significado-icono-doble-flecha-whatsapp-1382521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verdadero-significado-boton-doble-flecha-whatsapp-sirve-3305019.jpg?tf=1200x' alt='El verdadero significado del botón con doble flecha de WhatsApp: qué es y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531'>Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista</a></h4>
-    <a href='https://computerhoy.com/google/filtra-video-oficial-pixel-8a-ia-1382531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/filtra-video-oficial-pixel-8a-ia-como-unico-protagonista-3305014.jpg?tf=1200x' alt='Se filtra el vídeo oficial del Pixel 8a, con la IA como único protagonista' />
     </a>
 </div>
 
