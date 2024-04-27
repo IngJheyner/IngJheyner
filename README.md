@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619'>La nueva característica para Android Auto que hace que la conducción sea más segura</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-3305189.jpg?tf=1200x' alt='La nueva característica para Android Auto que hace que la conducción sea más segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-hubble-serios-problemas-debido-fallo-giroscopio-1382618'>El telescopio espacial Hubble en serios problemas debido a un fallo con un giroscopio</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-espacial-hubble-serios-problemas-debido-fallo-giroscopio-1382618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/telescopio-espacial-hubble-2410301.jpg?tf=1200x' alt='El telescopio espacial Hubble en serios problemas debido a un fallo con un giroscopio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594'>Android 15 acabará con el bombardeo de notificaciones en tu móvil</a></h4>
     <a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/notificaciones-molestas-android-3305144.jpg?tf=1200x' alt='Android 15 acabará con el bombardeo de notificaciones en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108'>Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-caliente-3304248.jpg?tf=1200x' alt='Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil' />
     </a>
 </div>
 
