@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714'>La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-control-parental-moviles-1279834'>Las mejores aplicaciones de control parental para móviles</a></h4>
     <a href='https://computerhoy.com/apps/mejores-aplicaciones-control-parental-moviles-1279834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/control-parental-3304720.jpg?tf=1200x' alt='Las mejores aplicaciones de control parental para móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/modo-live-google-maps-como-funciona-1382274'>Qué es el modo LIVE de Google Maps y cómo funciona</a></h4>
     <a href='https://computerhoy.com/tutoriales/modo-live-google-maps-como-funciona-1382274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/modo-live-google-maps-como-funciona-3304563.jpg?tf=1200x' alt='Qué es el modo LIVE de Google Maps y cómo funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-vs-amd-cual-mejor-procesador-1381711'>Intel vs. AMD: ¿Cuál es el mejor procesador en 2024?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-vs-amd-cual-mejor-procesador-1381711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/intel-vs-amd-cual-mejor-procesador-2024-3303469.jpg?tf=1200x' alt='Intel vs. AMD: ¿Cuál es el mejor procesador en 2024?' />
     </a>
 </div>
 
