@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606'>Microsoft mejora la búsqueda interna de aplicaciones en Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft mejora la búsqueda interna de aplicaciones en Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594'>Android 15 acabará con el bombardeo de notificaciones en tu móvil</a></h4>
     <a href='https://computerhoy.com/android/android-15-acabara-bombardeo-notificaciones-movil-1382594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/notificaciones-molestas-android-3305144.jpg?tf=1200x' alt='Android 15 acabará con el bombardeo de notificaciones en tu móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573'>Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-iphone-3305111.jpg?tf=1200x' alt='Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>¿Es Humane AI Pin un absoluto desastre?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ai-pin-3305080.jpg?tf=1200x' alt='¿Es Humane AI Pin un absoluto desastre?' />
     </a>
 </div>
 
