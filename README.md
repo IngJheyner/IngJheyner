@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-espacial-hubble-serios-problemas-debido-fallo-giroscopio-1382618'>El telescopio espacial Hubble en serios problemas debido a un fallo con un giroscopio</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-espacial-hubble-serios-problemas-debido-fallo-giroscopio-1382618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/telescopio-espacial-hubble-2410301.jpg?tf=1200x' alt='El telescopio espacial Hubble en serios problemas debido a un fallo con un giroscopio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313'>¿Te han desaparecido funciones del panel de control de Windows 11? Así puedes acceder a ellas</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-eliminadas-panel-control-windows-11-1380313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-3305083.jpg?tf=1200x' alt='¿Te han desaparecido funciones del panel de control de Windows 11? Así puedes acceder a ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606'>Microsoft mejora la búsqueda interna de aplicaciones en Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-mejora-busqueda-interna-aplicaciones-windows-10-1382606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft mejora la búsqueda interna de aplicaciones en Windows 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108'>Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil</a></h4>
     <a href='https://computerhoy.com/moviles/movil-calienta-consejos-1372108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-caliente-3304248.jpg?tf=1200x' alt='Los consejos que sí me han funcionado para que no se caliente demasiado mi móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880'>Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes</a></h4>
-    <a href='https://computerhoy.com/hogar/cuadro-electrico-casa-sirve-como-funcionan-componentes-1380880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cuadro-electrico-casa-sirve-como-funcionan-componentes-3301999.jpg?tf=1200x' alt='Qué es el cuadro eléctrico de casa, para qué sirve y cómo funcionan sus componentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573'>Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-iphone-3305111.jpg?tf=1200x' alt='Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18' />
     </a>
 </div>
 
