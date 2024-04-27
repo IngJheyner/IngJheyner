@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573'>Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ultima-acuerdo-openai-llevar-ia-generativa-ios-18-1382573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-iphone-3305111.jpg?tf=1200x' alt='Apple ultima un acuerdo con OpenAI para llevar su IA generativa a iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379'>¿Es Humane AI Pin un absoluto desastre?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/polemica-humane-ai-pin-1380379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/humane-ai-pin-3305080.jpg?tf=1200x' alt='¿Es Humane AI Pin un absoluto desastre?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/air-fryer-dominarlas-todas-dos-cestas-precio-ultracompetitivo-1382082'>Una Air Fryer para dominarlas a todas: dos cestas y precio ultracompetitivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/air-fryer-dominarlas-todas-dos-cestas-precio-ultracompetitivo-1382082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cosori-dual-basket-chef-edition-3304031.jpg?tf=1200x' alt='Una Air Fryer para dominarlas a todas: dos cestas y precio ultracompetitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389'>Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/salida-audio-optica-sirve-como-usarla-smart-tv-1381389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/salida-audio-optica-sirve-como-usarla-smart-tv-3302962.jpg?tf=1200x' alt='Qué es la salida de audio óptica, para qué sirve y cómo usarla en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714'>La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12</a></h4>
     <a href='https://computerhoy.com/windows/actualizacion-windows-11-septiembre-windows-12-1359714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 en septiembre va a ser tan grande que directamente sería Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejores-aplicaciones-control-parental-moviles-1279834'>Las mejores aplicaciones de control parental para móviles</a></h4>
-    <a href='https://computerhoy.com/apps/mejores-aplicaciones-control-parental-moviles-1279834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/control-parental-3304720.jpg?tf=1200x' alt='Las mejores aplicaciones de control parental para móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444'>Si estás en una de estas zonas azules, vivirás más años</a></h4>
-    <a href='https://computerhoy.com/life/zonas-azules-esperanza-vida-1378444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/zonas-azules-esperanza-vida-3304458.jpg?tf=1200x' alt='Si estás en una de estas zonas azules, vivirás más años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822'>Este prototipo de móvil está prohibido desde hace 15 años, pero acaba de reaparecer en Ebay</a></h4>
-    <a href='https://computerhoy.com/life/reaparece-ebay-movil-prohibido-1379822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/movil-prohibido-3303785.jpg?tf=1200x' alt='Este prototipo de móvil está prohibido desde hace 15 años, pero acaba de reaparecer en Ebay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-live-google-maps-como-funciona-1382274'>Qué es el modo LIVE de Google Maps y cómo funciona</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-live-google-maps-como-funciona-1382274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/modo-live-google-maps-como-funciona-3304563.jpg?tf=1200x' alt='Qué es el modo LIVE de Google Maps y cómo funciona' />
     </a>
 </div>
 
