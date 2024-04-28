@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/phil-3-mini-chatgpt-microsoft-funciona-local-movil-pc-1382743'>Phil-3 Mini, el mini ChatGPT de Microsoft que funciona en local en el móvil o PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/phil-3-mini-chatgpt-microsoft-funciona-local-movil-pc-1382743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/phil-3-mini-mini-chatgpt-microsoft-funciona-local-movil-pc-3305402.jpg?tf=1200x' alt='Phil-3 Mini, el mini ChatGPT de Microsoft que funciona en local en el móvil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739'>Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723'>El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica</a></h4>
     <a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717'>Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realfill-3305333.jpg?tf=1200x' alt='Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA' />
     </a>
 </div>
 
