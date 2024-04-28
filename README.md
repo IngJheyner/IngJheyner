@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/receptor-tdt-hd-barato-ultracompacto-da-ya-salto-olvida-problemas-canales-favoritos-1382111'>Un receptor TDT con HD barato y ultracompacto: da ya el salto y olvida los problemas con tus canales favoritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/receptor-tdt-hd-barato-ultracompacto-da-ya-salto-olvida-problemas-canales-favoritos-1382111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Un receptor TDT con HD barato y ultracompacto: da ya el salto y olvida los problemas con tus canales favoritos' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642'>Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/optimus-tesla-2973778.jpg?tf=1200x' alt='Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658'>¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-28-abril-2024-3305231.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024' />
+    <h4><a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662'>Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales</a></h4>
+    <a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/muere-caerse-volcan-hacerse-unas-fotos-redes-sociales-3305235.jpg?tf=1200x' alt='Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-malware-nunca-antes-visto-accediendo-aplicaciones-bancarias-moviles-android-1382650'>Descubren un malware nunca antes visto que está accediendo a las aplicaciones bancarias de los móviles Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-malware-nunca-antes-visto-accediendo-aplicaciones-bancarias-moviles-android-1382650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/malware-android-3305223.jpg?tf=1200x' alt='Descubren un malware nunca antes visto que está accediendo a las aplicaciones bancarias de los móviles Android' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/parche-seguridad-casi-vida-depende-ellos-1377959'>¿Qué es un parche de seguridad y por qué casi tu vida depende de ellos?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/parche-seguridad-casi-vida-depende-ellos-1377959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714134127752-3304850.jpg?tf=1200x' alt='¿Qué es un parche de seguridad y por qué casi tu vida depende de ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-podria-permitir-oculte-forma-selectiva-contenido-confidencial-compartir-pantalla-1382647'>Android 15 podría permitir que se oculte de forma selectiva contenido confidencial al compartir pantalla</a></h4>
-    <a href='https://computerhoy.com/android/android-15-podria-permitir-oculte-forma-selectiva-contenido-confidencial-compartir-pantalla-1382647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305220.jpg?tf=1200x' alt='Android 15 podría permitir que se oculte de forma selectiva contenido confidencial al compartir pantalla' />
+    <h4><a href='https://computerhoy.com/moviles/cargo-movil-cada-2-dias-10-trucos-optimizar-bateria-1378973'>Cargo mi móvil cada 2 días: estos son los trucos que utilizo para optimizar su batería</a></h4>
+    <a href='https://computerhoy.com/moviles/cargo-movil-cada-2-dias-10-trucos-optimizar-bateria-1378973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-movil-3305210.jpg?tf=1200x' alt='Cargo mi móvil cada 2 días: estos son los trucos que utilizo para optimizar su batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638'>YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-3305209.jpg?tf=1200x' alt='YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo' />
+    <h4><a href='https://computerhoy.com/life/europa-marco-2023-nuevo-record-temperaturas-podria-repetirse-ano-1382644'>Europa marcó en 2023 un nuevo récord de temperaturas que podría repetirse este año</a></h4>
+    <a href='https://computerhoy.com/life/europa-marco-2023-nuevo-record-temperaturas-podria-repetirse-ano-1382644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ola-calor-3305216.jpg?tf=1200x' alt='Europa marcó en 2023 un nuevo récord de temperaturas que podría repetirse este año' />
     </a>
 </div>
 
