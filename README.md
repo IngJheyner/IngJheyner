@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723'>El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica</a></h4>
+    <a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717'>Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realfill-3305333.jpg?tf=1200x' alt='Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686'>Google Fotos te permitirá personalizar este aspecto indispensable de la papelera</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/papelera-google-fotos-3305291.jpg?tf=1200x' alt='Google Fotos te permitirá personalizar este aspecto indispensable de la papelera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842'>7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos</a></h4>
-    <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos' />
     </a>
 </div>
 
