@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658'>¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-28-abril-2024-3305231.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/descubren-malware-nunca-antes-visto-accediendo-aplicaciones-bancarias-moviles-android-1382650'>Descubren un malware nunca antes visto que está accediendo a las aplicaciones bancarias de los móviles Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubren-malware-nunca-antes-visto-accediendo-aplicaciones-bancarias-moviles-android-1382650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/malware-android-3305223.jpg?tf=1200x' alt='Descubren un malware nunca antes visto que está accediendo a las aplicaciones bancarias de los móviles Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099'>El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-surface-laptop-5-3304116.jpg?tf=1200x' alt='El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619'>La nueva característica para Android Auto que hace que la conducción sea más segura</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-caracteristica-android-auto-hace-conduccion-sea-segura-1382619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-3305189.jpg?tf=1200x' alt='La nueva característica para Android Auto que hace que la conducción sea más segura' />
     </a>
 </div>
 
