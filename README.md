@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707'>La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya</a></h4>
+    <a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-tiene-idea-forzar-modo-oscuro-aplicaciones-no-quieran-1382695'>Google tiene una idea para forzar el modo oscuro a las aplicaciones que no quieran</a></h4>
+    <a href='https://computerhoy.com/android/google-tiene-idea-forzar-modo-oscuro-aplicaciones-no-quieran-1382695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='Google tiene una idea para forzar el modo oscuro a las aplicaciones que no quieran' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686'>Google Fotos te permitirá personalizar este aspecto indispensable de la papelera</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/papelera-google-fotos-3305291.jpg?tf=1200x' alt='Google Fotos te permitirá personalizar este aspecto indispensable de la papelera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977'>Cómo restablecer una ventana que está fuera de la pantalla en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-restablecer-ventana-fuera-pantalla-windows-11-3303912.jpg?tf=1200x' alt='Cómo restablecer una ventana que está fuera de la pantalla en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405'>Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ha-pasado-flipper-one-3302968.jpg?tf=1200x' alt='Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356'>Los 50 atajos de teclado imprescindibles para dominar Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 atajos de teclado imprescindibles para dominar Excel' />
     </a>
 </div>
 
