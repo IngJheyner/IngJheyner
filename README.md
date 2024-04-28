@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405'>Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ha-pasado-flipper-one-3302968.jpg?tf=1200x' alt='Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356'>Los 50 atajos de teclado imprescindibles para dominar Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 atajos de teclado imprescindibles para dominar Excel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305'>Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno</a></h4>
     <a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diferencias-puertos-hdmi-smart-tv-sirve-cada-3304602.jpg?tf=1200x' alt='Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642'>Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/optimus-tesla-2973778.jpg?tf=1200x' alt='Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus' />
     </a>
 </div>
 
