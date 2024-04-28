@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977'>Cómo restablecer una ventana que está fuera de la pantalla en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-restablecer-ventana-fuera-pantalla-windows-11-3303912.jpg?tf=1200x' alt='Cómo restablecer una ventana que está fuera de la pantalla en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405'>Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-one-linux-flipper-zero-1381405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ha-pasado-flipper-one-3302968.jpg?tf=1200x' alt='Flipper One, la enigmática versión vitaminada con Linux de Flipper Zero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628'>Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV</a></h4>
     <a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-tv-14-3305204.jpg?tf=1200x' alt='Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305'>Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno</a></h4>
-    <a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diferencias-puertos-hdmi-smart-tv-sirve-cada-3304602.jpg?tf=1200x' alt='Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno' />
     </a>
 </div>
 
