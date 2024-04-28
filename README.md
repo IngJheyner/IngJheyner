@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356'>Los 50 atajos de teclado imprescindibles para dominar Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 atajos de teclado imprescindibles para dominar Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296'>Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-3304568.jpg?tf=1200x' alt='Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642'>Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/optimus-tesla-2973778.jpg?tf=1200x' alt='Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662'>Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales</a></h4>
-    <a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/muere-caerse-volcan-hacerse-unas-fotos-redes-sociales-3305235.jpg?tf=1200x' alt='Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales' />
     </a>
 </div>
 
