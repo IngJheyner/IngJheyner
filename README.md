@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327'>El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7-pro-solar-3304619.jpg?tf=1200x' alt='El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/primera-carrera-coches-autonomos-formula-1-a2rl-1382734'>Tras la primera carrera de coches autónomos de Fórmula 1, Alonso y compañía no tienen nada que temer</a></h4>
+    <a href='https://computerhoy.com/motor/primera-carrera-coches-autonomos-formula-1-a2rl-1382734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='Tras la primera carrera de coches autónomos de Fórmula 1, Alonso y compañía no tienen nada que temer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723'>El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica</a></h4>
     <a href='https://computerhoy.com/apple/nuevo-apple-pencil-incluira-nuevos-gestos-retroalimentacion-haptica-1382723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-pencil-2543007.jpg?tf=1200x' alt='El nuevo Apple Pencil incluirá nuevos gestos y retroalimentación háptica' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707'>La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya</a></h4>
     <a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-tiene-idea-forzar-modo-oscuro-aplicaciones-no-quieran-1382695'>Google tiene una idea para forzar el modo oscuro a las aplicaciones que no quieran</a></h4>
-    <a href='https://computerhoy.com/android/google-tiene-idea-forzar-modo-oscuro-aplicaciones-no-quieran-1382695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='Google tiene una idea para forzar el modo oscuro a las aplicaciones que no quieran' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686'>Google Fotos te permitirá personalizar este aspecto indispensable de la papelera</a></h4>
-    <a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/papelera-google-fotos-3305291.jpg?tf=1200x' alt='Google Fotos te permitirá personalizar este aspecto indispensable de la papelera' />
     </a>
 </div>
 
