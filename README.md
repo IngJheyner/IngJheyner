@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748'>El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado</a></h4>
+    <a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-mito-nunca-debes-ponerte-filete-ojo-morado-3305410.jpg?tf=1200x' alt='El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/youtube-probando-nueva-funcion-publicidad-pausa-videos-1382747'>YouTube está probando una nueva función que no te va a gustar nada</a></h4>
     <a href='https://computerhoy.com/google/youtube-probando-nueva-funcion-publicidad-pausa-videos-1382747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-probando-nueva-funcion-no-te-va-gustar-nada-3305406.jpg?tf=1200x' alt='YouTube está probando una nueva función que no te va a gustar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327'>El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7-pro-solar-3304619.jpg?tf=1200x' alt='El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/primera-carrera-coches-autonomos-formula-1-a2rl-1382734'>Tras la primera carrera de coches autónomos de Fórmula 1, Alonso y compañía no tienen nada que temer</a></h4>
-    <a href='https://computerhoy.com/motor/primera-carrera-coches-autonomos-formula-1-a2rl-1382734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='Tras la primera carrera de coches autónomos de Fórmula 1, Alonso y compañía no tienen nada que temer' />
     </a>
 </div>
 
