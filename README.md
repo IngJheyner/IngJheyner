@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686'>Google Fotos te permitirá personalizar este aspecto indispensable de la papelera</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-te-permitira-personalizar-aspecto-indispensable-papelera-1382686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/papelera-google-fotos-3305291.jpg?tf=1200x' alt='Google Fotos te permitirá personalizar este aspecto indispensable de la papelera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842'>7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos</a></h4>
+    <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977'>Cómo restablecer una ventana que está fuera de la pantalla en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-restablecer-ventana-fuera-pantalla-windows-11-3303912.jpg?tf=1200x' alt='Cómo restablecer una ventana que está fuera de la pantalla en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356'>Los 50 atajos de teclado imprescindibles para dominar Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/atajos-teclado-imprescindibles-excel-1381356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 atajos de teclado imprescindibles para dominar Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296'>Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-3304568.jpg?tf=1200x' alt='Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628'>Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-tv-14-3305204.jpg?tf=1200x' alt='Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV' />
     </a>
 </div>
 
