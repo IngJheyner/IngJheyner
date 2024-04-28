@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717'>Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realfill-3305333.jpg?tf=1200x' alt='Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707'>La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya</a></h4>
     <a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842'>7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos</a></h4>
     <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-poner-punto-pc-pocos-minutos-1380842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas para poner a punto tu PC en pocos minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977'>Cómo restablecer una ventana que está fuera de la pantalla en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-ventana-fuera-pantalla-windows-11-1381977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-restablecer-ventana-fuera-pantalla-windows-11-3303912.jpg?tf=1200x' alt='Cómo restablecer una ventana que está fuera de la pantalla en Windows 11' />
     </a>
 </div>
 
