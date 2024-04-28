@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739'>Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327'>El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7-pro-solar-3304619.jpg?tf=1200x' alt='El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717'>Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-quiere-consigas-fotografia-perfecta-gracias-nueva-tecnologia-basada-ia-1382717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realfill-3305333.jpg?tf=1200x' alt='Google quiere que consigas la fotografía perfecta gracias a su nueva tecnología basada en IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707'>La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya</a></h4>
-    <a href='https://computerhoy.com/apps/beta-android-auto-119-ya-disponible-puedes-descargar-instalar-ya-1382707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='La beta de Android Auto 11.9 ya está disponible y que puedes descargar e instalar ya' />
     </a>
 </div>
 
