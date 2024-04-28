@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296'>Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-1382296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cuantos-mensajes-has-enviado-recibido-whatsapp-3304568.jpg?tf=1200x' alt='Cómo saber cuántos mensajes has enviado y recibido en WhatsApp (y compara con tus amigos)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628'>Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/android/miles-aplicaciones-televisor-tv-box-android-14-desbloquea-potencial-smart-tv-1382628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-tv-14-3305204.jpg?tf=1200x' alt='Miles de aplicaciones en tu televisor: esta TV Box con Android 14 desbloquea el potencial de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305'>Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno</a></h4>
+    <a href='https://computerhoy.com/tv/diferencias-puertos-hdmi-smart-tv-1382305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/diferencias-puertos-hdmi-smart-tv-sirve-cada-3304602.jpg?tf=1200x' alt='Diferencias entre puertos HDMI de tu Smart TV y para qué sirve cada uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642'>Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-situa-tiempo-lanzamiento-esperado-robot-humanoide-optimus-1382642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/optimus-tesla-2973778.jpg?tf=1200x' alt='Elon Musk sitúa en el tiempo el lanzamiento de su esperado robot humanoide Optimus' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662'>Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales</a></h4>
     <a href='https://computerhoy.com/life/muere-caerse-volcan-hacerse-fotos-redes-sociales-1382662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/muere-caerse-volcan-hacerse-unas-fotos-redes-sociales-3305235.jpg?tf=1200x' alt='Muere tras caerse a un volcán por hacerse unas fotos para las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/parche-seguridad-casi-vida-depende-ellos-1377959'>¿Qué es un parche de seguridad y por qué casi tu vida depende de ellos?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/parche-seguridad-casi-vida-depende-ellos-1377959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714134127752-3304850.jpg?tf=1200x' alt='¿Qué es un parche de seguridad y por qué casi tu vida depende de ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cargo-movil-cada-2-dias-10-trucos-optimizar-bateria-1378973'>Cargo mi móvil cada 2 días: estos son los trucos que utilizo para optimizar su batería</a></h4>
-    <a href='https://computerhoy.com/moviles/cargo-movil-cada-2-dias-10-trucos-optimizar-bateria-1378973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-movil-3305210.jpg?tf=1200x' alt='Cargo mi móvil cada 2 días: estos son los trucos que utilizo para optimizar su batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/europa-marco-2023-nuevo-record-temperaturas-podria-repetirse-ano-1382644'>Europa marcó en 2023 un nuevo récord de temperaturas que podría repetirse este año</a></h4>
-    <a href='https://computerhoy.com/life/europa-marco-2023-nuevo-record-temperaturas-podria-repetirse-ano-1382644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ola-calor-3305216.jpg?tf=1200x' alt='Europa marcó en 2023 un nuevo récord de temperaturas que podría repetirse este año' />
     </a>
 </div>
 
