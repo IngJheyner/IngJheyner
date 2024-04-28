@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/receptor-tdt-hd-barato-ultracompacto-da-ya-salto-olvida-problemas-canales-favoritos-1382111'>Un receptor TDT con HD barato y ultracompacto: da ya el salto y olvida los problemas con tus canales favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/receptor-tdt-hd-barato-ultracompacto-da-ya-salto-olvida-problemas-canales-favoritos-1382111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-decodificador-digital-trevi-he-3361-t2-3304180.jpg?tf=1200x' alt='Un receptor TDT con HD barato y ultracompacto: da ya el salto y olvida los problemas con tus canales favoritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658'>¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-domingo-28-abril-2024-1382658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-domingo-28-abril-2024-3305231.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del domingo 28 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638'>YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo</a></h4>
     <a href='https://computerhoy.com/apps/youtube-prueba-funcion-ia-responder-cualquier-pregunta-video-estas-viendo-1382638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-3305209.jpg?tf=1200x' alt='YouTube prueba una función de IA para responder a cualquier pregunta sobre el vídeo que estás viendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099'>El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/surface-laptop-5-apuesta-microsoft-macbook-ahora-mucho-barato-1382099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-surface-laptop-5-3304116.jpg?tf=1200x' alt='El Surface Laptop 5 es la apuesta de Microsoft contra los MacBook, y ahora es mucho más barato' />
     </a>
 </div>
 
