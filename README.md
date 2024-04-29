@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802'>Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
     <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866'>Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos</a></h4>
     <a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-sabe-nueva-generacion-carplay-algunas-marcas-odian-3305672.jpg?tf=1200x' alt='Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839'>Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial' />
     </a>
 </div>
 
