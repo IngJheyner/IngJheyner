@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839'>Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804'>OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallos-inteligencia-artificial-3305507.jpg?tf=1200x' alt='OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789'>¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-ltsc-3305485.jpg?tf=1200x' alt='¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785'>¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana </a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-trabajo-3305468.jpg?tf=1200x' alt='¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana ' />
     </a>
 </div>
 
