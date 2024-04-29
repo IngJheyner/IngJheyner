@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818'>Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz</a></h4>
+    <a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-3305514.jpg?tf=1200x' alt='Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802'>Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863'>Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crear-imagenes-midjourney-3305747.jpg?tf=1200x' alt='Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866'>Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos</a></h4>
-    <a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-sabe-nueva-generacion-carplay-algunas-marcas-odian-3305672.jpg?tf=1200x' alt='Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos' />
     </a>
 </div>
 
