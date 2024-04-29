@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804'>OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallos-inteligencia-artificial-3305507.jpg?tf=1200x' alt='OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635'>Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702269.jpg?tf=1200x' alt='Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794'>Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-2023-3305454.jpg?tf=1200x' alt='Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785'>¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana </a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-trabajo-3305468.jpg?tf=1200x' alt='¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738'>Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013'>7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas</a></h4>
-    <a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-camara-movil-3302348.jpg?tf=1200x' alt='7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas' />
     </a>
 </div>
 
