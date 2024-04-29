@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
+    <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pc-pide-gritos-rtx-4060-barata-nunca-quizas-sea-hora-dar-salto-1382815'>Tu PC lo pide a gritos: la RTX 4060 es más barata que nunca y quizás sea la hora de dar el salto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-pide-gritos-rtx-4060-barata-nunca-quizas-sea-hora-dar-salto-1382815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-gigabyte-negra-gpu-3305506.jpg?tf=1200x' alt='Tu PC lo pide a gritos: la RTX 4060 es más barata que nunca y quizás sea la hora de dar el salto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863'>Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crear-imagenes-midjourney-3305747.jpg?tf=1200x' alt='Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839'>Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804'>OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-punto-mira-ue-fallos-chatgpt-pero-no-sabe-como-resolverlos-1382804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallos-inteligencia-artificial-3305507.jpg?tf=1200x' alt='OpenAI en el punto de mira de la UE por fallos en ChatGPT, pero no sabe cómo resolverlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635'>Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702269.jpg?tf=1200x' alt='Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon' />
     </a>
 </div>
 
