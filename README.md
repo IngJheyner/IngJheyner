@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033'>El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019'>NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3306081.jpg?tf=1200x' alt='NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834'>Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"</a></h4>
     <a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/albert-einstein-3305830.jpg?tf=1200x' alt='Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910'>El verdadero motivo por el que las ventas de coches eléctricos están en peligro</a></h4>
-    <a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bateria-coche-electrico-3280478.jpg?tf=1200x' alt='El verdadero motivo por el que las ventas de coches eléctricos están en peligro' />
     </a>
 </div>
 
