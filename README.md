@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834'>Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"</a></h4>
+    <a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/albert-einstein-3305830.jpg?tf=1200x' alt='Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910'>El verdadero motivo por el que las ventas de coches eléctricos están en peligro</a></h4>
     <a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bateria-coche-electrico-3280478.jpg?tf=1200x' alt='El verdadero motivo por el que las ventas de coches eléctricos están en peligro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655'>Cómo desactivar el Modo visible en el iPhone y iPad</a></h4>
     <a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-modo-visible-iphone-ipad-3303427.jpg?tf=1200x' alt='Cómo desactivar el Modo visible en el iPhone y iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818'>Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz</a></h4>
-    <a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-3305514.jpg?tf=1200x' alt='Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz' />
     </a>
 </div>
 
