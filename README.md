@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785'>¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana </a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-trabajo-3305468.jpg?tf=1200x' alt='¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738'>Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca</a></h4>
     <a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756'>¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-29-abril-2024-3305417.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748'>El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado</a></h4>
-    <a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-mito-nunca-debes-ponerte-filete-ojo-morado-3305410.jpg?tf=1200x' alt='El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado' />
     </a>
 </div>
 
