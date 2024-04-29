@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-da-45-dias-prueba-cuesta-poco-2-euros-mes-1382063'>Esta VPN te da 45 días de prueba y cuesta poco más de 2 euros por mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-te-da-45-dias-prueba-cuesta-poco-2-euros-mes-1382063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cyberghost-vpn-3304047.jpg?tf=1200x' alt='Esta VPN te da 45 días de prueba y cuesta poco más de 2 euros por mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756'>¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-29-abril-2024-3305417.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/phil-3-mini-chatgpt-microsoft-funciona-local-movil-pc-1382743'>Phil-3 Mini, el mini ChatGPT de Microsoft que funciona en local en el móvil o PC</a></h4>
     <a href='https://computerhoy.com/tecnologia/phil-3-mini-chatgpt-microsoft-funciona-local-movil-pc-1382743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/phil-3-mini-mini-chatgpt-microsoft-funciona-local-movil-pc-3305402.jpg?tf=1200x' alt='Phil-3 Mini, el mini ChatGPT de Microsoft que funciona en local en el móvil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739'>Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI' />
     </a>
 </div>
 
