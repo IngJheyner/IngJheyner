@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018'>Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa</a></h4>
+    <a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conducir-3306075.jpg?tf=1200x' alt='Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-iphone-1379897'>Cómo cambiar el tipo de letra en un iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-iphone-1379897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambiar-tipo-letra-iphone-3300301.jpg?tf=1200x' alt='Cómo cambiar el tipo de letra en un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834'>Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"</a></h4>
     <a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/albert-einstein-3305830.jpg?tf=1200x' alt='Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828'>El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros</a></h4>
     <a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779343.jpg?tf=1200x' alt='El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-pc-va-tapado-raspberry-tiene-4gb-ram-mucho-barato-1382350'>Banana Pi es el PC que va de tapado contra las Raspberry: tiene 4GB de RAM y es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banana-pi-pc-va-tapado-raspberry-tiene-4gb-ram-mucho-barato-1382350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-3304640.jpg?tf=1200x' alt='Banana Pi es el PC que va de tapado contra las Raspberry: tiene 4GB de RAM y es mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655'>Cómo desactivar el Modo visible en el iPhone y iPad</a></h4>
-    <a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-modo-visible-iphone-ipad-3303427.jpg?tf=1200x' alt='Cómo desactivar el Modo visible en el iPhone y iPad' />
     </a>
 </div>
 
