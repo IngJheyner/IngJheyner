@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910'>El verdadero motivo por el que las ventas de coches eléctricos están en peligro</a></h4>
+    <a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bateria-coche-electrico-3280478.jpg?tf=1200x' alt='El verdadero motivo por el que las ventas de coches eléctricos están en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828'>El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779343.jpg?tf=1200x' alt='El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-pc-va-tapado-raspberry-tiene-4gb-ram-mucho-barato-1382350'>Banana Pi es el PC que va de tapado contra las Raspberry: tiene 4GB de RAM y es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banana-pi-pc-va-tapado-raspberry-tiene-4gb-ram-mucho-barato-1382350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-3304640.jpg?tf=1200x' alt='Banana Pi es el PC que va de tapado contra las Raspberry: tiene 4GB de RAM y es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655'>Cómo desactivar el Modo visible en el iPhone y iPad</a></h4>
+    <a href='https://computerhoy.com/apple/como-desactivar-modo-visible-iphone-ipad-1381655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-desactivar-modo-visible-iphone-ipad-3303427.jpg?tf=1200x' alt='Cómo desactivar el Modo visible en el iPhone y iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818'>Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz</a></h4>
     <a href='https://computerhoy.com/life/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-1382818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/metodo-20-80-regla-moda-definir-prioridades-ser-feliz-3305514.jpg?tf=1200x' alt='Método del 20-80: la regla de moda para definir tus prioridades y ser más feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802'>Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ram-soldada-1382802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Este es el verdadero motivo por el que cada vez más portátiles llevan la memoria RAM soldada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
-    <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-pide-gritos-rtx-4060-barata-nunca-quizas-sea-hora-dar-salto-1382815'>Tu PC lo pide a gritos: la RTX 4060 es más barata que nunca y quizás sea la hora de dar el salto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-pide-gritos-rtx-4060-barata-nunca-quizas-sea-hora-dar-salto-1382815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-gigabyte-negra-gpu-3305506.jpg?tf=1200x' alt='Tu PC lo pide a gritos: la RTX 4060 es más barata que nunca y quizás sea la hora de dar el salto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863'>Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crear-imagenes-midjourney-3305747.jpg?tf=1200x' alt='Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno' />
     </a>
 </div>
 
