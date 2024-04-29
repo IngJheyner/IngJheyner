@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794'>Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-2023-3305454.jpg?tf=1200x' alt='Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789'>¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-ltsc-3305485.jpg?tf=1200x' alt='¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785'>¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana </a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-te-hara-trabajar-menos-empresa-toca-fines-semana-1382785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-trabajo-3305468.jpg?tf=1200x' alt='¿La IA te hará trabajar más o menos? A esta empresa le toca hasta los fines de semana ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013'>7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas</a></h4>
     <a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-camara-movil-3302348.jpg?tf=1200x' alt='7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-da-45-dias-prueba-cuesta-poco-2-euros-mes-1382063'>Esta VPN te da 45 días de prueba y cuesta poco más de 2 euros por mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-te-da-45-dias-prueba-cuesta-poco-2-euros-mes-1382063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cyberghost-vpn-3304047.jpg?tf=1200x' alt='Esta VPN te da 45 días de prueba y cuesta poco más de 2 euros por mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756'>¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-29-abril-2024-3305417.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024' />
     </a>
 </div>
 
