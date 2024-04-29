@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863'>Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-7-trucos-midjourney-te-ahorraran-escribir-largos-textos-acertar-pleno-1382863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/crear-imagenes-midjourney-3305747.jpg?tf=1200x' alt='Estos 7 trucos de Midjourney te ahorrarán escribir largos textos para acertar de pleno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866'>Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos</a></h4>
+    <a href='https://computerhoy.com/motor/todo-sabe-nuevo-apple-carplay-algunas-marcas-odian-1382866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-sabe-nueva-generacion-carplay-algunas-marcas-odian-3305672.jpg?tf=1200x' alt='Todo lo que se sabe del nuevo Apple CarPlay: algunas marcas la odian y Android Auto se frota las manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839'>Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apple/apple-listo-ipad-pro-procesador-m4-cargado-inteligencia-artificial-1382839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple listo para un iPad Pro con procesador M4 cargado de inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635'>Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/generador-60w-paneles-solares-tiene-precio-locos-menos-300eu-amazon-1382635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/ecoflow-river-pro-2702269.jpg?tf=1200x' alt='Este generador con panel solar incluido tiene un precio de locos: menos de 300€ en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794'>Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-watch-barato-todos-2023-cae-menos-300-euros-1382794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-watch-2023-3305454.jpg?tf=1200x' alt='Es el Apple Watch más barato de todos: el SE de 2023 cae a menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789'>¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-ltsc-version-clave-bancos-hospitales-1382789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-ltsc-3305485.jpg?tf=1200x' alt='¿Qué es Windows 11 LTSC y por qué esta versión es clave para bancos y hospitales?' />
     </a>
 </div>
 
