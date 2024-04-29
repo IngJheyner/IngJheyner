@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756'>¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-lunes-29-abril-2024-1382756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-lunes-29-abril-2024-3305417.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del lunes 29 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748'>El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado</a></h4>
     <a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-mito-nunca-debes-ponerte-filete-ojo-morado-3305410.jpg?tf=1200x' alt='El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739'>Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI</a></h4>
     <a href='https://computerhoy.com/tecnologia/estados-unidos-quiere-prohibir-drones-dji-1382739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/dji-air-3-3277402.jpg?tf=1200x' alt='Después de vetar a TikTok, Estados Unidos va a prohibir los drones de DJI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327'>El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-pro-solar-rebaja-precio-nunca-ofrece-bateria-inagotable-1382327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-fenix-7-pro-solar-3304619.jpg?tf=1200x' alt='El Garmin Fenix 7 Pro Solar rebaja su precio más que nunca y ofrece batería inagotable' />
     </a>
 </div>
 
