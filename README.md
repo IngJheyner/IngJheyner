@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738'>Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/carrefour-amazon-enzarzan-iphone-13-guerra-precios-dejarlo-barato-nunca-1382738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-13-3135746.jpg?tf=1200x' alt='Carrefour y Amazon se enzarzan con el iPhone 13: guerra de precios para dejarlo más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013'>7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas</a></h4>
     <a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-desbloquear-funciones-ocultas-1381013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-camara-movil-3302348.jpg?tf=1200x' alt='7 aplicaciones que he probado y me han servido para aprovechar al máximo la cámara del móvil y desbloquear funciones ocultas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748'>El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado</a></h4>
     <a href='https://computerhoy.com/life/mito-filete-ojo-morado-1382748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fin-mito-nunca-debes-ponerte-filete-ojo-morado-3305410.jpg?tf=1200x' alt='El fin de un mito: por qué nunca debes ponerte un filete en un ojo morado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-probando-nueva-funcion-publicidad-pausa-videos-1382747'>YouTube está probando una nueva función que no te va a gustar nada</a></h4>
-    <a href='https://computerhoy.com/google/youtube-probando-nueva-funcion-publicidad-pausa-videos-1382747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-probando-nueva-funcion-no-te-va-gustar-nada-3305406.jpg?tf=1200x' alt='YouTube está probando una nueva función que no te va a gustar nada' />
     </a>
 </div>
 
