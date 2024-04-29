@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019'>NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3306081.jpg?tf=1200x' alt='NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018'>Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa</a></h4>
     <a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conducir-3306075.jpg?tf=1200x' alt='Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910'>El verdadero motivo por el que las ventas de coches eléctricos están en peligro</a></h4>
     <a href='https://computerhoy.com/motor/verdadero-motivo-ventas-coches-electricos-estan-peligro-1382910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/bateria-coche-electrico-3280478.jpg?tf=1200x' alt='El verdadero motivo por el que las ventas de coches eléctricos están en peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828'>El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros</a></h4>
-    <a href='https://computerhoy.com/apple/macbook-air-m2-desploma-precio-rompe-barrera-1000-euros-1382828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779343.jpg?tf=1200x' alt='El MacBook Air M2 desploma su precio y rompe la barrera de los 1.000 euros' />
     </a>
 </div>
 
