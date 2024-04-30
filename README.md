@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-1383158'>Un sacerdote de IA aconseja a una mujer que bautice a su hijo en Gatorade</a></h4>
+    <a href='https://computerhoy.com/apps/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-1383158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-3306372.jpg?tf=1200x' alt='Un sacerdote de IA aconseja a una mujer que bautice a su hijo en Gatorade' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280'>Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo</a></h4>
     <a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-3306711.jpg?tf=1200x' alt='Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303'>Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921'>Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv' />
     </a>
 </div>
 
