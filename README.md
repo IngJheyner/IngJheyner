@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/son-redes-sociales-nuevo-google-1382886'>¿Son las redes sociales el nuevo Google? </a></h4>
+    <a href='https://computerhoy.com/redes/son-redes-sociales-nuevo-google-1382886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-3305853.jpg?tf=1200x' alt='¿Son las redes sociales el nuevo Google? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/generador-imagenes-ia-windows-tutorial-1381154'>Tutorial superfácil para instalar Stable Diffusion en Windows y generar imágenes por IA totalmente gratis con Fooocus</a></h4>
+    <a href='https://computerhoy.com/tutoriales/generador-imagenes-ia-windows-tutorial-1381154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-generar-imagenes-3305662.jpg?tf=1200x' alt='Tutorial superfácil para instalar Stable Diffusion en Windows y generar imágenes por IA totalmente gratis con Fooocus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435'>¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055'>Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros</a></h4>
     <a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-3306183.jpg?tf=1200x' alt='Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-30-abril-2024-1383057'>¿Qué santo es hoy? Santoral del martes 30 de abril de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-30-abril-2024-1383057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-30-abril-2024-3306180.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 30 de abril de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033'>El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante' />
     </a>
 </div>
 
