@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361'>Arc llega a Windows, el navegador que está reemplazando a Chrome</a></h4>
+    <a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arc-llega-windows-navegador-reemplazando-chrome-3306815.jpg?tf=1200x' alt='Arc llega a Windows, el navegador que está reemplazando a Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gemini-ia-google-estrena-extensiones-app-espanol-1383345'>Gemini, la IA de Google, estrena las extensiones y la app en español</a></h4>
     <a href='https://computerhoy.com/google/gemini-ia-google-estrena-extensiones-app-espanol-1383345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-novedades-ia-3272059.jpg?tf=1200x' alt='Gemini, la IA de Google, estrena las extensiones y la app en español' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214'>Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé </a></h4>
     <a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-confunde-anciana-bebe-3306544.jpg?tf=1200x' alt='Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-va-samsung-pixel-8-pro-desploma-precio-amazon-1381746'>Google va a por Samsung: el Pixel 8 Pro desploma su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-va-samsung-pixel-8-pro-desploma-precio-amazon-1381746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191822.jpg?tf=1200x' alt='Google va a por Samsung: el Pixel 8 Pro desploma su precio en Amazon' />
     </a>
 </div>
 
