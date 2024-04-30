@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inversiones-microsoft-google-millonarias-inteligencia-artificial-pero-hace-tan-cara-1383111'>Inversiones de Microsoft o Google millonarias en inteligencia artificial, pero ¿qué la hace tan cara?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inversiones-microsoft-google-millonarias-inteligencia-artificial-pero-hace-tan-cara-1383111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inversion-inteligencia-artificial-3306303.jpg?tf=1200x' alt='Inversiones de Microsoft o Google millonarias en inteligencia artificial, pero ¿qué la hace tan cara?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434'>Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232'>Así es el truco para usar TikTok aunque te quedes sin Internet</a></h4>
     <a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-conexion-3305817.jpg?tf=1200x' alt='Así es el truco para usar TikTok aunque te quedes sin Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superventas-xiaomi-redmi-note-13-pro-cae-picado-precio-roza-200-euros-1382483'>El superventas Xiaomi Redmi Note 13 Pro cae en picado de precio y roza los 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superventas-xiaomi-redmi-note-13-pro-cae-picado-precio-roza-200-euros-1382483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-note-13-pro-3304929.jpg?tf=1200x' alt='El superventas Xiaomi Redmi Note 13 Pro cae en picado de precio y roza los 200 euros' />
     </a>
 </div>
 
