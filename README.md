@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055'>Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros</a></h4>
+    <a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-3306183.jpg?tf=1200x' alt='Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-martes-30-abril-2024-1383057'>¿Qué santo es hoy? Santoral del martes 30 de abril de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-martes-30-abril-2024-1383057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/santo-hoy-santoral-martes-30-abril-2024-3306180.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del martes 30 de abril de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033'>El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018'>Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa</a></h4>
     <a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conducir-3306075.jpg?tf=1200x' alt='Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-iphone-1379897'>Cómo cambiar el tipo de letra en un iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-iphone-1379897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambiar-tipo-letra-iphone-3300301.jpg?tf=1200x' alt='Cómo cambiar el tipo de letra en un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834'>Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"</a></h4>
-    <a href='https://computerhoy.com/ciencia/albert-einstein-perdio-debate-explicar-mecanica-cuantica-callate-calcula-1382834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/albert-einstein-3305830.jpg?tf=1200x' alt='Sorprendentemente, Albert Einstein perdió el debate al explicar la mecánica cuántica: "cállate y calcula"' />
     </a>
 </div>
 
