@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143'>Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico</a></h4>
+    <a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudio-promete-controlar-rayos-luz-chip-fabricado-cristal-fotonico-3306337.jpg?tf=1200x' alt='Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707'>¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771'>Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales</a></h4>
     <a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/acer-chromebook-314-3305430.jpg?tf=1200x' alt='Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117'>La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo</a></h4>
     <a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-3306301.jpg?tf=1200x' alt='La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-prometia-sustituir-moviles-cae-propio-peso-juguete-roto-1383135'>El Rabbit R1 que prometía sustituir a los móviles, cae por su propio peso: "es un juguete roto"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rabbit-r1-prometia-sustituir-moviles-cae-propio-peso-juguete-roto-1383135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rabbit-r1-3306340.jpg?tf=1200x' alt='El Rabbit R1 que prometía sustituir a los móviles, cae por su propio peso: "es un juguete roto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-trae-actualizacion-excel-permitira-escribir-mano-1383089'>Microsoft trae una actualización para Excel que permitirá escribir a mano</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-trae-actualizacion-excel-permitira-escribir-mano-1383089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trae-actualizacion-excel-permitira-escribir-mano-3306246.jpg?tf=1200x' alt='Microsoft trae una actualización para Excel que permitirá escribir a mano' />
     </a>
 </div>
 
