@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214'>Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé </a></h4>
+    <a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-confunde-anciana-bebe-3306544.jpg?tf=1200x' alt='Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-va-samsung-pixel-8-pro-desploma-precio-amazon-1381746'>Google va a por Samsung: el Pixel 8 Pro desploma su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-va-samsung-pixel-8-pro-desploma-precio-amazon-1381746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191822.jpg?tf=1200x' alt='Google va a por Samsung: el Pixel 8 Pro desploma su precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-basadas-videojuegos-1382973'>De Super Mario a Final Fantasy: las 5 mejores películas de animación basadas en videojuegos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-animacion-basadas-videojuegos-1382973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/super-mario-final-fantasy-5-mejores-peliculas-animacion-basadas-videojuegos-3306002.jpg?tf=1200x' alt='De Super Mario a Final Fantasy: las 5 mejores películas de animación basadas en videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/semanas-laborales-4-dias-podrian-estar-cerca-piensa-1382914'>Las semanas laborales de 4 días podrían estar más cerca de lo que mucha gente piensa</a></h4>
+    <a href='https://computerhoy.com/life/semanas-laborales-4-dias-podrian-estar-cerca-piensa-1382914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/jornada-laboral-cuatro-dias-3305994.jpg?tf=1200x' alt='Las semanas laborales de 4 días podrían estar más cerca de lo que mucha gente piensa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-1383158'>Un sacerdote de IA aconseja a una mujer que bautice a su hijo en Gatorade</a></h4>
     <a href='https://computerhoy.com/apps/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-1383158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sacerdote-ia-aconseja-mujer-bautice-hijo-gatorade-3306372.jpg?tf=1200x' alt='Un sacerdote de IA aconseja a una mujer que bautice a su hijo en Gatorade' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280'>Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo</a></h4>
-    <a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-3306711.jpg?tf=1200x' alt='Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ultimo-ipad-empieza-fin-bajar-precio-amazon-deja-barato-nunca-1383213'>El último iPad empieza por fin a bajar de precio: Amazon lo deja más barato que nunca</a></h4>
-    <a href='https://computerhoy.com/apple/ultimo-ipad-empieza-fin-bajar-precio-amazon-deja-barato-nunca-1383213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='El último iPad empieza por fin a bajar de precio: Amazon lo deja más barato que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/compra-inversa-tecnica-ha-hecho-viral-ahorrar-supermercado-1383107'>Compra inversa: así es la técnica que se ha hecho viral para ahorrar en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/compra-inversa-tecnica-ha-hecho-viral-ahorrar-supermercado-1383107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cesta-compra-supermercado-3306412.jpg?tf=1200x' alt='Compra inversa: así es la técnica que se ha hecho viral para ahorrar en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303'>Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene' />
     </a>
 </div>
 
