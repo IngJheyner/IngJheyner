@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435'>¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-pc-1373562'>¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que se seque</a></h4>
+    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-pc-1373562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que se seque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055'>Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros</a></h4>
     <a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-3306183.jpg?tf=1200x' alt='Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033'>El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-robot-peludo-boston-dynamics-sparkles-1383033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics demuestra una cosa muy importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019'>NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-gpu-ni-memoria-ultima-estafa-haciendo-estragos-1383019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3306081.jpg?tf=1200x' alt='NVIDIA GeForce RTX 4090 sin GPU ni memoria, la última estafa que está haciendo estragos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018'>Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa</a></h4>
-    <a href='https://computerhoy.com/motor/coches-fiables-2024-ocu-japoneses-arrasan-tesla-da-sorpresa-1383018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/conducir-3306075.jpg?tf=1200x' alt='Coches más fiables de 2024, según la OCU: los japoneses arrasan y Tesla da la sorpresa' />
     </a>
 </div>
 
