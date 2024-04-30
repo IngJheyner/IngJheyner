@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bono-cultural-joven-2024-requisitos-como-solicitarlo-puedes-gastar-subvencion-400-euros-3305070.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/instala-kodi-21-omega-android-tv-truco-1381177'>Truco para actualizar a Kodi 21 Omega en tu Android TV</a></h4>
+    <a href='https://computerhoy.com/tutoriales/instala-kodi-21-omega-android-tv-truco-1381177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kodi-21-3305682.jpg?tf=1200x' alt='Truco para actualizar a Kodi 21 Omega en tu Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-va-todo-gama-alta-brutales-cae-precio-picado-1382013'>OnePlus va con todo y uno de sus gama alta más brutales cae de precio en picado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-va-todo-gama-alta-brutales-cae-precio-picado-1382013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/oneplus-12r-3303962.jpg?tf=1200x' alt='OnePlus va con todo y uno de sus gama alta más brutales cae de precio en picado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/son-redes-sociales-nuevo-google-1382886'>¿Son las redes sociales el nuevo Google? </a></h4>
     <a href='https://computerhoy.com/redes/son-redes-sociales-nuevo-google-1382886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-3305853.jpg?tf=1200x' alt='¿Son las redes sociales el nuevo Google? ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/generador-imagenes-ia-windows-tutorial-1381154'>Tutorial superfácil para instalar Stable Diffusion en Windows y generar imágenes por IA totalmente gratis con Fooocus</a></h4>
     <a href='https://computerhoy.com/tutoriales/generador-imagenes-ia-windows-tutorial-1381154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ia-generar-imagenes-3305662.jpg?tf=1200x' alt='Tutorial superfácil para instalar Stable Diffusion en Windows y generar imágenes por IA totalmente gratis con Fooocus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435'>¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatbots-ia-inventan-respuestas-podria-ser-solucion-1382435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatbots-ia-inventan-respuestas-podria-ser-solucion-expertos-3304828.jpg?tf=1200x' alt='¿Los chatbots de la IA se inventan las respuestas? Esta podría ser la solución, según expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-pc-1373562'>¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que se seque</a></h4>
-    <a href='https://computerhoy.com/pc/cuanto-tiempo-dura-pasta-termica-procesador-pc-1373562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='¿Cuánto tiempo dura la pasta térmica en el procesador? Tutorial para cambiarla antes de que se seque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055'>Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros</a></h4>
-    <a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-1383055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-3306183.jpg?tf=1200x' alt='Con cepillos de dientes y facturas falsas lograron estafar a Amazon con más de 17 millones de euros' />
     </a>
 </div>
 
