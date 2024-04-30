@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434'>Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-1381497'>Este es el mejor software para desinstalar apps de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-1381497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='Este es el mejor software para desinstalar apps de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-da-marcha-atras-compatibilidad-android-risc-v-1383099'>Google da marcha atrás en la compatibilidad de Android con RISC-V</a></h4>
+    <a href='https://computerhoy.com/google/google-da-marcha-atras-compatibilidad-android-risc-v-1383099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='Google da marcha atrás en la compatibilidad de Android con RISC-V' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232'>Así es el truco para usar TikTok aunque te quedes sin Internet</a></h4>
+    <a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-conexion-3305817.jpg?tf=1200x' alt='Así es el truco para usar TikTok aunque te quedes sin Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/superventas-xiaomi-redmi-note-13-pro-cae-picado-precio-roza-200-euros-1382483'>El superventas Xiaomi Redmi Note 13 Pro cae en picado de precio y roza los 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/superventas-xiaomi-redmi-note-13-pro-cae-picado-precio-roza-200-euros-1382483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-note-13-pro-3304929.jpg?tf=1200x' alt='El superventas Xiaomi Redmi Note 13 Pro cae en picado de precio y roza los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-curriculum-1381215'>La nueva fuente de Windows que deberías usar para redactar tu currículum, según un reclutador con 25 años de experiencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-fuente-microsoft-curriculum-1381215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nueva-fuente-microsoft-debes-usar-curriculum-reclutador-3302671.jpg?tf=1200x' alt='La nueva fuente de Windows que deberías usar para redactar tu currículum, según un reclutador con 25 años de experiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-vivo-v40-5g-tiene-diseno-alta-gama-buen-precio-1381321'>He probado el Vivo V40 SE 5G y me parece el móvil ideal para quien busque un diseño de alta gama en cuero vegano sin una gran inversión</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-vivo-v40-5g-tiene-diseno-alta-gama-buen-precio-1381321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vivo-v40-5g-3304939.jpg?tf=1200x' alt='He probado el Vivo V40 SE 5G y me parece el móvil ideal para quien busque un diseño de alta gama en cuero vegano sin una gran inversión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
-    <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bono-cultural-joven-2024-requisitos-como-solicitarlo-puedes-gastar-subvencion-400-euros-3305070.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/instala-kodi-21-omega-android-tv-truco-1381177'>Truco para actualizar a Kodi 21 Omega en tu Android TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/instala-kodi-21-omega-android-tv-truco-1381177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kodi-21-3305682.jpg?tf=1200x' alt='Truco para actualizar a Kodi 21 Omega en tu Android TV' />
     </a>
 </div>
 
