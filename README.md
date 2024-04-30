@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-perfecta-cacharrear-informatica-1381208'>Esta Orange Pi es perfecta para empezar a cacharrear con la informática y cuesta solo 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-perfecta-cacharrear-informatica-1381208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Esta Orange Pi es perfecta para empezar a cacharrear con la informática y cuesta solo 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/peores-augurios-nintendo-switch-2-podrian-hacerse-realidad-1383142'>Los peores augurios sobre Nintendo Switch 2 podrían hacerse realidad</a></h4>
+    <a href='https://computerhoy.com/gaming/peores-augurios-nintendo-switch-2-podrian-hacerse-realidad-1383142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Los peores augurios sobre Nintendo Switch 2 podrían hacerse realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-oferta-champions-liga-1380290'>Por 30 euros puedes ver el Bayern Munich - Real Madrid, la final de la Champions y lo que queda de liga gracias a esta oferta</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-oferta-champions-liga-1380290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/champions-league-3306457.jpg?tf=1200x' alt='Por 30 euros puedes ver el Bayern Munich - Real Madrid, la final de la Champions y lo que queda de liga gracias a esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143'>Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico</a></h4>
     <a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudio-promete-controlar-rayos-luz-chip-fabricado-cristal-fotonico-3306337.jpg?tf=1200x' alt='Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707'>¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo</a></h4>
     <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771'>Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/acer-chromebook-314-3305430.jpg?tf=1200x' alt='Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-1381663'>¡El Xiaomi SU7 saldrá a la venta este mismo año! El coche eléctrico de Xiaomi que quiere todo el mundo</a></h4>
-    <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-1381663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3305845.jpg?tf=1200x' alt='¡El Xiaomi SU7 saldrá a la venta este mismo año! El coche eléctrico de Xiaomi que quiere todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117'>La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo</a></h4>
-    <a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-3306301.jpg?tf=1200x' alt='La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo' />
     </a>
 </div>
 
