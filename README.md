@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303'>Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921'>Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875'>Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?</a></h4>
     <a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/insatisfaccion-cronica-nada-te-hace-feliz-cuanta-culpa-tienen-redes-sociales-ello-3303767.jpg?tf=1200x' alt='Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811'>Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4</a></h4>
     <a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-1383201'>ChatGPT tendrá memoria de las conversaciones, pero la función será de pago</a></h4>
-    <a href='https://computerhoy.com/apps/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-1383201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-3306512.jpg?tf=1200x' alt='ChatGPT tendrá memoria de las conversaciones, pero la función será de pago' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/blink-mini-2-nueva-webcam-compacta-amazon-sin-bateria-1383221'>Blink Mini 2, la nueva webcam compacta de Amazon sin batería, ahora también para exteriores</a></h4>
-    <a href='https://computerhoy.com/hogar/blink-mini-2-nueva-webcam-compacta-amazon-sin-bateria-1383221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/blink-mini-2-nueva-webcam-compacta-amazon-bateria-interiores-exterio-3306184.jpg?tf=1200x' alt='Blink Mini 2, la nueva webcam compacta de Amazon sin batería, ahora también para exteriores' />
     </a>
 </div>
 
