@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280'>Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo</a></h4>
+    <a href='https://computerhoy.com/internet/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-1383280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-3306711.jpg?tf=1200x' alt='Todo el fútbol y más de 10.000 canales por 50 euros al año: cae una de las mayores redes IPTV del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ultimo-ipad-empieza-fin-bajar-precio-amazon-deja-barato-nunca-1383213'>El último iPad empieza por fin a bajar de precio: Amazon lo deja más barato que nunca</a></h4>
+    <a href='https://computerhoy.com/apple/ultimo-ipad-empieza-fin-bajar-precio-amazon-deja-barato-nunca-1383213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipad-2022-3298863.jpg?tf=1200x' alt='El último iPad empieza por fin a bajar de precio: Amazon lo deja más barato que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/compra-inversa-tecnica-ha-hecho-viral-ahorrar-supermercado-1383107'>Compra inversa: así es la técnica que se ha hecho viral para ahorrar en el supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/compra-inversa-tecnica-ha-hecho-viral-ahorrar-supermercado-1383107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cesta-compra-supermercado-3306412.jpg?tf=1200x' alt='Compra inversa: así es la técnica que se ha hecho viral para ahorrar en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303'>Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reiniciar-controlador-grafico-windows-11-1382303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar el controlador gráfico en Windows 11 y qué beneficios tiene' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921'>Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv</a></h4>
     <a href='https://computerhoy.com/entretenimiento/obra-maestra-ciberpunk-neuromante-serie-television-1373921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='Ha tardado 40 años, pero la obra maestra que inventó el ciberpunk tendrá serie de tv' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875'>Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?</a></h4>
-    <a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/insatisfaccion-cronica-nada-te-hace-feliz-cuanta-culpa-tienen-redes-sociales-ello-3303767.jpg?tf=1200x' alt='Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-futbol-iptv-1382248'>Las operadoras están recibiendo presiones para cortar el acceso a las listas IPTV más populares</a></h4>
-    <a href='https://computerhoy.com/internet/aumenta-presion-isp-futbol-iptv-1382248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Las operadoras están recibiendo presiones para cortar el acceso a las listas IPTV más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811'>Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4' />
     </a>
 </div>
 
