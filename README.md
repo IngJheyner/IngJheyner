@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inversiones-microsoft-google-millonarias-inteligencia-artificial-pero-hace-tan-cara-1383111'>Inversiones de Microsoft o Google millonarias en inteligencia artificial, pero ¿qué la hace tan cara?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inversiones-microsoft-google-millonarias-inteligencia-artificial-pero-hace-tan-cara-1383111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inversion-inteligencia-artificial-3306303.jpg?tf=1200x' alt='Inversiones de Microsoft o Google millonarias en inteligencia artificial, pero ¿qué la hace tan cara?' />
+    <h4><a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771'>Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chromebook-apenas-200-euros-top-ventas-amazon-estas-son-caracteristicas-principales-1382771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/acer-chromebook-314-3305430.jpg?tf=1200x' alt='Este Chromebook de apenas 200 euros es top ventas en Amazon: estas son sus características principales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434'>Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-aspira-friega-mejor-modelo-aunque-no-barata-1382434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Esta Dyson aspira y friega: es su mejor modelo, aunque no es barata' />
+    <h4><a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-1381663'>¡El Xiaomi SU7 saldrá a la venta este mismo año! El coche eléctrico de Xiaomi que quiere todo el mundo</a></h4>
+    <a href='https://computerhoy.com/motor/xiaomi-coche-electrico-su7-1381663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3305845.jpg?tf=1200x' alt='¡El Xiaomi SU7 saldrá a la venta este mismo año! El coche eléctrico de Xiaomi que quiere todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-1381497'>Este es el mejor software para desinstalar apps de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/software-eficaz-desinstalar-apps-windows-11-1381497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/software-eficaz-desinstalar-apps-windows-11-ahora-disponible-todas-versiones-3303139.jpg?tf=1200x' alt='Este es el mejor software para desinstalar apps de Windows 11' />
+    <h4><a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117'>La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo</a></h4>
+    <a href='https://computerhoy.com/espacio/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-1383117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nasa-fija-spacex-sistema-reabastecimiento-combustible-vuelo-3306301.jpg?tf=1200x' alt='La NASA se fija en SpaceX para su sistema de reabastecimiento de combustible en vuelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-da-marcha-atras-compatibilidad-android-risc-v-1383099'>Google da marcha atrás en la compatibilidad de Android con RISC-V</a></h4>
-    <a href='https://computerhoy.com/google/google-da-marcha-atras-compatibilidad-android-risc-v-1383099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='Google da marcha atrás en la compatibilidad de Android con RISC-V' />
+    <h4><a href='https://computerhoy.com/tecnologia/rabbit-r1-prometia-sustituir-moviles-cae-propio-peso-juguete-roto-1383135'>El Rabbit R1 que prometía sustituir a los móviles, cae por su propio peso: "es un juguete roto"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rabbit-r1-prometia-sustituir-moviles-cae-propio-peso-juguete-roto-1383135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/rabbit-r1-3306340.jpg?tf=1200x' alt='El Rabbit R1 que prometía sustituir a los móviles, cae por su propio peso: "es un juguete roto"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232'>Así es el truco para usar TikTok aunque te quedes sin Internet</a></h4>
-    <a href='https://computerhoy.com/apps/truco-usar-tiktok-sin-conexion-1381232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tiktok-conexion-3305817.jpg?tf=1200x' alt='Así es el truco para usar TikTok aunque te quedes sin Internet' />
+    <h4><a href='https://computerhoy.com/apps/microsoft-trae-actualizacion-excel-permitira-escribir-mano-1383089'>Microsoft trae una actualización para Excel que permitirá escribir a mano</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-trae-actualizacion-excel-permitira-escribir-mano-1383089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trae-actualizacion-excel-permitira-escribir-mano-3306246.jpg?tf=1200x' alt='Microsoft trae una actualización para Excel que permitirá escribir a mano' />
     </a>
 </div>
 
