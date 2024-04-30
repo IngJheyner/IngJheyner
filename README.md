@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-perfecta-cacharrear-informatica-1381208'>Esta Orange Pi es perfecta para empezar a cacharrear con la informática y cuesta solo 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-perfecta-cacharrear-informatica-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/orange-pi-os-3302651.jpg?tf=1200x' alt='Esta Orange Pi es perfecta para empezar a cacharrear con la informática y cuesta solo 20 euros' />
+    <h4><a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875'>Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?</a></h4>
+    <a href='https://computerhoy.com/internet/insatisfaccion-cronica-nada-te-hace-feliz-culpa-tienen-redes-1381875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/insatisfaccion-cronica-nada-te-hace-feliz-cuanta-culpa-tienen-redes-sociales-ello-3303767.jpg?tf=1200x' alt='Insatisfacción crónica: ¿por qué nada te hace feliz, y cuánta culpa tienen las redes sociales en ello?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/peores-augurios-nintendo-switch-2-podrian-hacerse-realidad-1383142'>Los peores augurios sobre Nintendo Switch 2 podrían hacerse realidad</a></h4>
-    <a href='https://computerhoy.com/gaming/peores-augurios-nintendo-switch-2-podrian-hacerse-realidad-1383142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Los peores augurios sobre Nintendo Switch 2 podrían hacerse realidad' />
+    <h4><a href='https://computerhoy.com/internet/aumenta-presion-isp-futbol-iptv-1382248'>Las operadoras están recibiendo presiones para cortar el acceso a las listas IPTV más populares</a></h4>
+    <a href='https://computerhoy.com/internet/aumenta-presion-isp-futbol-iptv-1382248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/aumenta-presion-isp-acabar-futbol-iptv-3304528.jpg?tf=1200x' alt='Las operadoras están recibiendo presiones para cortar el acceso a las listas IPTV más populares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-oferta-champions-liga-1380290'>Por 30 euros puedes ver el Bayern Munich - Real Madrid, la final de la Champions y lo que queda de liga gracias a esta oferta</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-oferta-champions-liga-1380290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/champions-league-3306457.jpg?tf=1200x' alt='Por 30 euros puedes ver el Bayern Munich - Real Madrid, la final de la Champions y lo que queda de liga gracias a esta oferta' />
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811'>Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-ultra-gratis-ventajas-chatgpt-4-1366811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/gemini-ultra-como-tenerlo-gratis-ventajas-tiene-chatgpt-4-3278185.jpg?tf=1200x' alt='Qué es Gemini Ultra, cómo usarlo gratis y qué ventajas tiene sobre ChatGPT 4' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143'>Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico</a></h4>
-    <a href='https://computerhoy.com/ciencia/estudio-promete-controlar-rayos-luz-cristal-fotonico-1383143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudio-promete-controlar-rayos-luz-chip-fabricado-cristal-fotonico-3306337.jpg?tf=1200x' alt='Un estudio promete controlar los rayos de luz con un chip fabricado con cristal fotónico' />
+    <h4><a href='https://computerhoy.com/apps/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-1383201'>ChatGPT tendrá memoria de las conversaciones, pero la función será de pago</a></h4>
+    <a href='https://computerhoy.com/apps/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-1383201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-tendra-memoria-conversaciones-pero-funcion-sera-pago-3306512.jpg?tf=1200x' alt='ChatGPT tendrá memoria de las conversaciones, pero la función será de pago' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707'>¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/traduce-lenguaje-signos-gafas-raspberry-pi-1381707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/traduce-lenguaje-signos-estas-gafas-raspberry-pi-instante-3303467.jpg?tf=1200x' alt='¿Imaginas unas gafas que traduzcan el lenguaje de signos? Podrás hacértelas tú mismo' />
+    <h4><a href='https://computerhoy.com/hogar/blink-mini-2-nueva-webcam-compacta-amazon-sin-bateria-1383221'>Blink Mini 2, la nueva webcam compacta de Amazon sin batería, ahora también para exteriores</a></h4>
+    <a href='https://computerhoy.com/hogar/blink-mini-2-nueva-webcam-compacta-amazon-sin-bateria-1383221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/blink-mini-2-nueva-webcam-compacta-amazon-bateria-interiores-exterio-3306184.jpg?tf=1200x' alt='Blink Mini 2, la nueva webcam compacta de Amazon sin batería, ahora también para exteriores' />
     </a>
 </div>
 
