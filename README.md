@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-1383523'>Ya puedes usar Gemma, la nueva IA de Google sin conexión a Internet, gracias a ChatRTX de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-1383523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-usar-gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-3307103.jpg?tf=1200x' alt='Ya puedes usar Gemma, la nueva IA de Google sin conexión a Internet, gracias a ChatRTX de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-nuevo-material-placas-circuito-puede-reciclar-facil-1383521'>Crean un nuevo material para placas de circuito que se puede reciclar fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-nuevo-material-placas-circuito-puede-reciclar-facil-1383521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crean-nuevo-material-placas-circuito-puede-reciclar-facil-3307117.jpg?tf=1200x' alt='Crean un nuevo material para placas de circuito que se puede reciclar fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510'>Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487'>LinkedIn estrena tres juegos, para que socialices mientras te diviertes</a></h4>
     <a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-estrena-tres-juegos-socialices-mientras-te-diviertes-3307057.jpg?tf=1200x' alt='LinkedIn estrena tres juegos, para que socialices mientras te diviertes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465'>Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos</a></h4>
-    <a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-saca-subasta-superordenador-145000-cpus-3306998.jpg?tf=1200x' alt='Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985'>Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-i8-3306030.jpg?tf=1200x' alt='Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones' />
     </a>
 </div>
 
