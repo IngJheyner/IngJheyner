@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049'>9 funciones esenciales para sacar el máximo partido a tu Apple Watch</a></h4>
+    <a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/9-funciones-esenciales-sacar-maximo-partido-apple-watch-3278605.jpg?tf=1200x' alt='9 funciones esenciales para sacar el máximo partido a tu Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976'>Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma</a></h4>
+    <a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300'>Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361'>Arc llega a Windows, el navegador que está reemplazando a Chrome</a></h4>
     <a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arc-llega-windows-navegador-reemplazando-chrome-3306815.jpg?tf=1200x' alt='Arc llega a Windows, el navegador que está reemplazando a Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemini-ia-google-estrena-extensiones-app-espanol-1383345'>Gemini, la IA de Google, estrena las extensiones y la app en español</a></h4>
-    <a href='https://computerhoy.com/google/gemini-ia-google-estrena-extensiones-app-espanol-1383345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-gemini-novedades-ia-3272059.jpg?tf=1200x' alt='Gemini, la IA de Google, estrena las extensiones y la app en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/te-pueden-obligar-tienda-pagar-tarjeta-1383338'>¿Te pueden obligar en una tienda a pagar con tarjeta?</a></h4>
-    <a href='https://computerhoy.com/life/te-pueden-obligar-tienda-pagar-tarjeta-1383338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pago-tarjeta-3306801.jpg?tf=1200x' alt='¿Te pueden obligar en una tienda a pagar con tarjeta?' />
     </a>
 </div>
 
