@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510'>Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474'>Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad</a></h4>
     <a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-ultrawide-3307055.jpg?tf=1200x' alt='Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985'>Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-i8-3306030.jpg?tf=1200x' alt='Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446'>Google añade emojis de audio a las llamadas, incluido el sonido de pedos</a></h4>
-    <a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-3306970.jpg?tf=1200x' alt='Google añade emojis de audio a las llamadas, incluido el sonido de pedos' />
     </a>
 </div>
 
