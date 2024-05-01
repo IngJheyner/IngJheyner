@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367'>¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-miercoles-1-mayo-2024-3306839.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361'>Arc llega a Windows, el navegador que está reemplazando a Chrome</a></h4>
     <a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arc-llega-windows-navegador-reemplazando-chrome-3306815.jpg?tf=1200x' alt='Arc llega a Windows, el navegador que está reemplazando a Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-anade-opciones-memoria-placas-module-4s-1383330'>Raspberry Pi añade más opciones de memoria a sus placas Module 4S</a></h4>
     <a href='https://computerhoy.com/tecnologia/raspberry-pi-anade-opciones-memoria-placas-module-4s-1383330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/compute-module-4s-3306777.jpg?tf=1200x' alt='Raspberry Pi añade más opciones de memoria a sus placas Module 4S' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214'>Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé </a></h4>
-    <a href='https://computerhoy.com/life/absurdo-error-informatico-aerolinea-sigue-confundiendo-mujer-101-anos-bebe-1383214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/error-confunde-anciana-bebe-3306544.jpg?tf=1200x' alt='Un absurdo error informático de una aerolínea sigue confundiendo a mujer de 101 años con bebé ' />
     </a>
 </div>
 
