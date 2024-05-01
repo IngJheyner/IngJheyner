@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tdt-aplicaciones-android-televisor-stick-4k-arrasa-ventas-aliexpress-1382147'>TDT, aplicaciones de Android y más en tu televisor: este stick 4K arrasa en ventas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tdt-aplicaciones-android-televisor-stick-4k-arrasa-ventas-aliexpress-1382147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='TDT, aplicaciones de Android y más en tu televisor: este stick 4K arrasa en ventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617'>Cómo crear gráficos dinámicos en Excel con listas desplegables</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-crear-graficos-dinamicos-excel-listas-desplegables-3303391.jpg?tf=1200x' alt='Cómo crear gráficos dinámicos en Excel con listas desplegables' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976'>Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma</a></h4>
     <a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300'>Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras' />
     </a>
 </div>
 
