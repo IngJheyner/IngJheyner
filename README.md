@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300'>Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367'>¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-miercoles-1-mayo-2024-3306839.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/te-pueden-obligar-tienda-pagar-tarjeta-1383338'>¿Te pueden obligar en una tienda a pagar con tarjeta?</a></h4>
     <a href='https://computerhoy.com/life/te-pueden-obligar-tienda-pagar-tarjeta-1383338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pago-tarjeta-3306801.jpg?tf=1200x' alt='¿Te pueden obligar en una tienda a pagar con tarjeta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-anade-opciones-memoria-placas-module-4s-1383330'>Raspberry Pi añade más opciones de memoria a sus placas Module 4S</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-anade-opciones-memoria-placas-module-4s-1383330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/compute-module-4s-3306777.jpg?tf=1200x' alt='Raspberry Pi añade más opciones de memoria a sus placas Module 4S' />
     </a>
 </div>
 
