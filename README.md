@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985'>Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-i8-3306030.jpg?tf=1200x' alt='Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446'>Google añade emojis de audio a las llamadas, incluido el sonido de pedos</a></h4>
+    <a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-3306970.jpg?tf=1200x' alt='Google añade emojis de audio a las llamadas, incluido el sonido de pedos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486'>Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra</a></h4>
     <a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-3084246.jpg?tf=1200x' alt='Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431'>Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID</a></h4>
     <a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/razer-zephyr-2508991.jpg?tf=1200x' alt='Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-pin-google-maps-guardar-localizar-lugares-interes-1382547'>Cómo poner un pin en Google Maps para guardar y localizar lugares de interés</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-pin-google-maps-guardar-localizar-lugares-interes-1382547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-poner-pin-google-maps-guardar-localizar-lugares-interes-3305062.jpg?tf=1200x' alt='Cómo poner un pin en Google Maps para guardar y localizar lugares de interés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596'>WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial' />
     </a>
 </div>
 
