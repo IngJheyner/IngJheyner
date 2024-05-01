@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465'>Estados Unidos saca a subasta un superordenador con más de 145.000 CPUs</a></h4>
+    <h4><a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465'>Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos</a></h4>
     <a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-saca-subasta-superordenador-145000-cpus-3306998.jpg?tf=1200x' alt='Estados Unidos saca a subasta un superordenador con más de 145.000 CPUs' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-saca-subasta-superordenador-145000-cpus-3306998.jpg?tf=1200x' alt='Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos' />
     </a>
 </div>
 
