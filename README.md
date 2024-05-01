@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535'>DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/directx-vs-vulkan-cual-mejor-diferencian-3305051.jpg?tf=1200x' alt='DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?' />
+    <h4><a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408'>El fundador de Binance, condenado a prisión</a></h4>
+    <a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-binance-changpeng-zhao-2949006.jpg?tf=1200x' alt='El fundador de Binance, condenado a prisión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889'>Qué hacer si Windows 11 no arranca y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-windows-11-no-arranca-como-solucionarlo-3302015.jpg?tf=1200x' alt='Qué hacer si Windows 11 no arranca y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-potentes-oferta-1383388'>Ryzen 7 y 16GB de RAM: este mini PC es de los más potentes y está en oferta</a></h4>
+    <a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-potentes-oferta-1383388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/beelink-ser5-max-3306881.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM: este mini PC es de los más potentes y está en oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347'>Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacerle-mantenimiento-tarjeta-grafica-dure-1381713'>Cómo hacerle el mantenimiento a tu tarjeta gráfica para que dure más</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacerle-mantenimiento-tarjeta-grafica-dure-1381713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacerle-mantenimiento-tarjeta-grafica-dure-3303473.jpg?tf=1200x' alt='Cómo hacerle el mantenimiento a tu tarjeta gráfica para que dure más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364'>Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas</a></h4>
-    <a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/desconexion-tecnologia-3304679.jpg?tf=1200x' alt='Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas' />
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-rapida-dram-nand-revolucion-informatica-1380053'>La memoria que unirá DRAM y NAND y revolucionará la informática está cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-rapida-dram-nand-revolucion-informatica-1380053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-dispositivos-3300552.jpg?tf=1200x' alt='La memoria que unirá DRAM y NAND y revolucionará la informática está cada vez más cerca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cpu-pocos-nucleos-suficiente-1381975'>Esta es la razón por la que no necesitas una CPU con muchos núcleos en tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/cpu-pocos-nucleos-suficiente-1381975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-3303911.jpg?tf=1200x' alt='Esta es la razón por la que no necesitas una CPU con muchos núcleos en tu PC' />
+    <h4><a href='https://computerhoy.com/motor/tesla-despide-equipo-supercargadores-1383393'>Piensa en las dos cosas que más necesita el coche eléctrico: Tesla va a hacer justo lo contrario</a></h4>
+    <a href='https://computerhoy.com/motor/tesla-despide-equipo-supercargadores-1383393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/supercargadores-tesla-todos-coches-2413549.jpg?tf=1200x' alt='Piensa en las dos cosas que más necesita el coche eléctrico: Tesla va a hacer justo lo contrario' />
     </a>
 </div>
 
