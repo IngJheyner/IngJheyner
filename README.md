@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/lenguaje-programacion-basic-cumple-60-anos-1383537'>El lenguaje BASIC cumple 60 años, el primer lenguaje de programación de varias generaciones</a></h4>
+    <a href='https://computerhoy.com/pc/lenguaje-programacion-basic-cumple-60-anos-1383537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenguaje-basic-cumple-60-anos-primer-lenguaje-programacion-varias-generaciones-3307128.jpg?tf=1200x' alt='El lenguaje BASIC cumple 60 años, el primer lenguaje de programación de varias generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/nuevos-canales-llegan-pluto-tv-ahora-mayo-1383524'>Los nuevos canales que llegan a Pluto TV ahora en mayo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/nuevos-canales-llegan-pluto-tv-ahora-mayo-1383524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pluto-tv-3307122.jpg?tf=1200x' alt='Los nuevos canales que llegan a Pluto TV ahora en mayo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510'>Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474'>Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad</a></h4>
-    <a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-ultrawide-3307055.jpg?tf=1200x' alt='Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad' />
     </a>
 </div>
 
