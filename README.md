@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-ip-1382544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339'>¿Llegará Windows 12 este año? Esto es todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='¿Llegará Windows 12 este año? Esto es todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535'>DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/directx-vs-vulkan-cual-mejor-diferencian-3305051.jpg?tf=1200x' alt='DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889'>Qué hacer si Windows 11 no arranca y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-windows-11-no-arranca-como-solucionarlo-3302015.jpg?tf=1200x' alt='Qué hacer si Windows 11 no arranca y cómo solucionarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347'>Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364'>Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas</a></h4>
-    <a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/desconexion-tecnologia-3304679.jpg?tf=1200x' alt='Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-actualizacion-2024-1380778'>Los 5 cambios que harán que a Whatsapp no la reconozca ni su madre</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-actualizacion-2024-1380778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambios-whatsapp-3306426.jpg?tf=1200x' alt='Los 5 cambios que harán que a Whatsapp no la reconozca ni su madre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573'>Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo</a></h4>
-    <a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-limpiar-fondo-movil-danarlo-consejos-3304851.jpg?tf=1200x' alt='Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo' />
     </a>
 </div>
 
