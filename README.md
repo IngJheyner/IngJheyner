@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/nuevos-canales-llegan-pluto-tv-ahora-mayo-1383524'>Los nuevos canales que llegan a Pluto TV ahora en mayo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/nuevos-canales-llegan-pluto-tv-ahora-mayo-1383524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pluto-tv-3307122.jpg?tf=1200x' alt='Los nuevos canales que llegan a Pluto TV ahora en mayo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-1383523'>Ya puedes usar Gemma, la nueva IA de Google sin conexión a Internet, gracias a ChatRTX de NVIDIA</a></h4>
     <a href='https://computerhoy.com/tecnologia/gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-1383523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-usar-gemma-nueva-ia-google-conexion-internet-gracias-chatrtx-nvidia-3307103.jpg?tf=1200x' alt='Ya puedes usar Gemma, la nueva IA de Google sin conexión a Internet, gracias a ChatRTX de NVIDIA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474'>Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad</a></h4>
     <a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-ultrawide-3307055.jpg?tf=1200x' alt='Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487'>LinkedIn estrena tres juegos, para que socialices mientras te diviertes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-estrena-tres-juegos-socialices-mientras-te-diviertes-3307057.jpg?tf=1200x' alt='LinkedIn estrena tres juegos, para que socialices mientras te diviertes' />
     </a>
 </div>
 
