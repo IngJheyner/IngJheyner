@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-direccion-ip-1382544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339'>¿Llegará Windows 12 este año? Esto es todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.com/windows/llegara-windows-12-ano-sabe-1382339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/windows-12-sera-sistema-operativo-top-gracias-integracion-inteligencia-artificial-3011474.jpg?tf=1200x' alt='¿Llegará Windows 12 este año? Esto es todo lo que sabemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535'>DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?</a></h4>
     <a href='https://computerhoy.com/tecnologia/directx-vs-vulkan-cual-mejor-diferencian-1382535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/directx-vs-vulkan-cual-mejor-diferencian-3305051.jpg?tf=1200x' alt='DirectX vs. Vulkan: ¿cuál es mejor y en qué se diferencian?' />
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347'>Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364'>Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas</a></h4>
+    <a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/desconexion-tecnologia-3304679.jpg?tf=1200x' alt='Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cpu-pocos-nucleos-suficiente-1381975'>Esta es la razón por la que no necesitas una CPU con muchos núcleos en tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/cpu-pocos-nucleos-suficiente-1381975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/razon-cpu-pocos-nucleos-puede-ser-suficiente-pc-3303911.jpg?tf=1200x' alt='Esta es la razón por la que no necesitas una CPU con muchos núcleos en tu PC' />
     </a>
 </div>
 
