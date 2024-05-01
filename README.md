@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465'>Estados Unidos saca a subasta un superordenador con más de 145.000 CPUs</a></h4>
+    <a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-saca-subasta-superordenador-145000-cpus-3306998.jpg?tf=1200x' alt='Estados Unidos saca a subasta un superordenador con más de 145.000 CPUs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985'>Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-hara-te-olvides-limpiar-vacia-sola-tiene-mapa-habitaciones-1382985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/roomba-combo-i8-3306030.jpg?tf=1200x' alt='Esta Roomba hará que te olvides de limpiar: se vacía sola y tiene mapa por habitaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431'>Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID</a></h4>
-    <a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/razer-zephyr-2508991.jpg?tf=1200x' alt='Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID' />
     </a>
 </div>
 
