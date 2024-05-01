@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-2-mayo-2024-1383548'>¿Qué santo es hoy? Santoral del jueves 2 de mayo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-jueves-2-mayo-2024-1383548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-jueves-2-mayo-2024-3307155.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del jueves 2 de mayo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/lenguaje-programacion-basic-cumple-60-anos-1383537'>El lenguaje BASIC cumple 60 años, el primer lenguaje de programación de varias generaciones</a></h4>
     <a href='https://computerhoy.com/pc/lenguaje-programacion-basic-cumple-60-anos-1383537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenguaje-basic-cumple-60-anos-primer-lenguaje-programacion-varias-generaciones-3307128.jpg?tf=1200x' alt='El lenguaje BASIC cumple 60 años, el primer lenguaje de programación de varias generaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/crean-nuevo-material-placas-circuito-puede-reciclar-facil-1383521'>Crean un nuevo material para placas de circuito que se puede reciclar fácil</a></h4>
     <a href='https://computerhoy.com/tecnologia/crean-nuevo-material-placas-circuito-puede-reciclar-facil-1383521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crean-nuevo-material-placas-circuito-puede-reciclar-facil-3307117.jpg?tf=1200x' alt='Crean un nuevo material para placas de circuito que se puede reciclar fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510'>Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-windows-10-sube-1383510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios, Windows 10 vuelve a superar el 70%' />
     </a>
 </div>
 
