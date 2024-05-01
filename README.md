@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486'>Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra</a></h4>
+    <a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-3084246.jpg?tf=1200x' alt='Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596'>WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408'>El fundador de Binance, condenado a prisión</a></h4>
-    <a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-binance-changpeng-zhao-2949006.jpg?tf=1200x' alt='El fundador de Binance, condenado a prisión' />
     </a>
 </div>
 
