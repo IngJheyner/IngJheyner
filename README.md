@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889'>Qué hacer si Windows 11 no arranca y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/windows/hacer-windows-11-no-arranca-como-solucionarlo-1380889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hacer-windows-11-no-arranca-como-solucionarlo-3302015.jpg?tf=1200x' alt='Qué hacer si Windows 11 no arranca y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347'>Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa</a></h4>
     <a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573'>Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo</a></h4>
     <a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-limpiar-fondo-movil-danarlo-consejos-3304851.jpg?tf=1200x' alt='Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/despiden-trabajador-museo-colgar-cuadro-junto-andy-warhol-1383372'>Despiden a un trabajador de un museo por colgar su cuadro junto a los de Andy Warhol</a></h4>
-    <a href='https://computerhoy.com/life/despiden-trabajador-museo-colgar-cuadro-junto-andy-warhol-1383372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/despiden-trabajador-museo-colgar-cuadros-junto-picasso-3306850.jpg?tf=1200x' alt='Despiden a un trabajador de un museo por colgar su cuadro junto a los de Andy Warhol' />
     </a>
 </div>
 
