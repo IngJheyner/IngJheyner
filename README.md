@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474'>Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad</a></h4>
+    <a href='https://computerhoy.com/pc/panoramico-grande-curvo-muy-barato-monitor-lg-va-disparar-productividad-1383474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-ultrawide-3307055.jpg?tf=1200x' alt='Panorámico, grande, curvo y muy barato: este monitor de LG va a disparar tu productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487'>LinkedIn estrena tres juegos, para que socialices mientras te diviertes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linkedin-estrena-tres-juegos-1383487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-estrena-tres-juegos-socialices-mientras-te-diviertes-3307057.jpg?tf=1200x' alt='LinkedIn estrena tres juegos, para que socialices mientras te diviertes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465'>Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos</a></h4>
     <a href='https://computerhoy.com/pc/estados-unidos-saca-subasta-superordenador-145000-cpus-1383465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-saca-subasta-superordenador-145000-cpus-3306998.jpg?tf=1200x' alt='Estados Unidos saca a subasta un superordenador con más de 145.000 núcleos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446'>Google añade emojis de audio a las llamadas, incluido el sonido de pedos</a></h4>
     <a href='https://computerhoy.com/apps/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-1383446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anade-emojis-audio-llamadas-incluido-sonido-pedos-3306970.jpg?tf=1200x' alt='Google añade emojis de audio a las llamadas, incluido el sonido de pedos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486'>Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra</a></h4>
-    <a href='https://computerhoy.com/ciencia/japon-montara-luna-estructura-gigante-emular-gravedad-tierra-1275486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/japon-montara-luna-estructura-gigante-gira-cada-20-segundos-emular-gravedad-tierra-3084246.jpg?tf=1200x' alt='Japón quiere montar en la Luna un edificio gigante que gire cada 20 segundos para emular la gravedad de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
     </a>
 </div>
 
