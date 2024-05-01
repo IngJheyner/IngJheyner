@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408'>El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-ssd-portatil-tambien-barato-2-tb-capacidad-resistente-caidas-mitad-precio-1380408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/crucial-x6-3277741.jpg?tf=1200x' alt='El mejor SSD portátil es también barato: 2 TB de capacidad, resistente a caídas y a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431'>Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID</a></h4>
+    <a href='https://computerhoy.com/tecnologia/razer-devolvera-dinero-mascara-anti-covid-zephyr-1383431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/razer-zephyr-2508991.jpg?tf=1200x' alt='Razer devolverá el dinero a los que compraron su máscara anti-COVID, que no era anti-COVID' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-pin-google-maps-guardar-localizar-lugares-interes-1382547'>Cómo poner un pin en Google Maps para guardar y localizar lugares de interés</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-pin-google-maps-guardar-localizar-lugares-interes-1382547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-poner-pin-google-maps-guardar-localizar-lugares-interes-3305062.jpg?tf=1200x' alt='Cómo poner un pin en Google Maps para guardar y localizar lugares de interés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596'>WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-generar-imagenes-gif-llama3-1380596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-ya-permite-generar-imagenes-gifs-ia-3301476.jpg?tf=1200x' alt='WhatsApp ya puede generar imágenes y GIFs con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408'>El fundador de Binance, condenado a prisión</a></h4>
     <a href='https://computerhoy.com/criptos/fundador-binance-condenado-prision-1383408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-binance-changpeng-zhao-2949006.jpg?tf=1200x' alt='El fundador de Binance, condenado a prisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-potentes-oferta-1383388'>Ryzen 7 y 16GB de RAM: este mini PC es de los más potentes y está en oferta</a></h4>
-    <a href='https://computerhoy.com/pc/ryzen-7-16gb-ram-mini-pc-potentes-oferta-1383388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/beelink-ser5-max-3306881.jpg?tf=1200x' alt='Ryzen 7 y 16GB de RAM: este mini PC es de los más potentes y está en oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacerle-mantenimiento-tarjeta-grafica-dure-1381713'>Cómo hacerle el mantenimiento a tu tarjeta gráfica para que dure más</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacerle-mantenimiento-tarjeta-grafica-dure-1381713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacerle-mantenimiento-tarjeta-grafica-dure-3303473.jpg?tf=1200x' alt='Cómo hacerle el mantenimiento a tu tarjeta gráfica para que dure más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-rapida-dram-nand-revolucion-informatica-1380053'>La memoria que unirá DRAM y NAND y revolucionará la informática está cada vez más cerca</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-rapida-dram-nand-revolucion-informatica-1380053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-dispositivos-3300552.jpg?tf=1200x' alt='La memoria que unirá DRAM y NAND y revolucionará la informática está cada vez más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/tesla-despide-equipo-supercargadores-1383393'>Piensa en las dos cosas que más necesita el coche eléctrico: Tesla va a hacer justo lo contrario</a></h4>
-    <a href='https://computerhoy.com/motor/tesla-despide-equipo-supercargadores-1383393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/supercargadores-tesla-todos-coches-2413549.jpg?tf=1200x' alt='Piensa en las dos cosas que más necesita el coche eléctrico: Tesla va a hacer justo lo contrario' />
     </a>
 </div>
 
