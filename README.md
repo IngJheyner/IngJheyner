@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617'>Cómo crear gráficos dinámicos en Excel con listas desplegables</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-crear-graficos-dinamicos-excel-listas-desplegables-3303391.jpg?tf=1200x' alt='Cómo crear gráficos dinámicos en Excel con listas desplegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/motor-no-deberia-existir-1381536'>Este motor no debería existir, pero ya puede superar la gravedad terrestre y llegar al espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/motor-no-deberia-existir-1381536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-exodus-3306348.jpg?tf=1200x' alt='Este motor no debería existir, pero ya puede superar la gravedad terrestre y llegar al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049'>9 funciones esenciales para sacar el máximo partido a tu Apple Watch</a></h4>
     <a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/9-funciones-esenciales-sacar-maximo-partido-apple-watch-3278605.jpg?tf=1200x' alt='9 funciones esenciales para sacar el máximo partido a tu Apple Watch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300'>Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-1383300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Alerta por una nueva estafa: si recibes una caja misteriosa de Shein, no la abras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367'>¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-miercoles-1-mayo-2024-1383367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-miercoles-1-mayo-2024-3306839.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del miércoles 1 de mayo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361'>Arc llega a Windows, el navegador que está reemplazando a Chrome</a></h4>
-    <a href='https://computerhoy.com/apps/arc-llega-windows-navegador-reemplazando-chrome-1383361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arc-llega-windows-navegador-reemplazando-chrome-3306815.jpg?tf=1200x' alt='Arc llega a Windows, el navegador que está reemplazando a Chrome' />
     </a>
 </div>
 
