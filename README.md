@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tdt-aplicaciones-android-televisor-stick-4k-arrasa-ventas-aliexpress-1382147'>TDT, aplicaciones de Android y más en tu televisor: este stick 4K arrasa en ventas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tdt-aplicaciones-android-televisor-stick-4k-arrasa-ventas-aliexpress-1382147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='TDT, aplicaciones de Android y más en tu televisor: este stick 4K arrasa en ventas en AliExpress' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347'>Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-nube-gana-tranquilidad-nas-todo-necesitas-tener-propio-servidor-casa-1383347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvida la nube y gana tranquilidad: este NAS es todo lo que necesitas para tener tu propio servidor en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617'>Cómo crear gráficos dinámicos en Excel con listas desplegables</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-graficos-dinamicos-excel-listas-desplegables-1381617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-crear-graficos-dinamicos-excel-listas-desplegables-3303391.jpg?tf=1200x' alt='Cómo crear gráficos dinámicos en Excel con listas desplegables' />
+    <h4><a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364'>Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas</a></h4>
+    <a href='https://computerhoy.com/life/me-he-desconectado-tecnologia-bestia-ciclismo-pasado-nieve-saunas-finlandesas-1382364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/desconexion-tecnologia-3304679.jpg?tf=1200x' alt='Me he desconectado de la tecnología a lo bestia: ciclismo pasado por nieve y saunas finlandesas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/motor-no-deberia-existir-1381536'>Este motor no debería existir, pero ya puede superar la gravedad terrestre y llegar al espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/motor-no-deberia-existir-1381536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/motor-exodus-3306348.jpg?tf=1200x' alt='Este motor no debería existir, pero ya puede superar la gravedad terrestre y llegar al espacio' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-actualizacion-2024-1380778'>Los 5 cambios que harán que a Whatsapp no la reconozca ni su madre</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-cambios-novedades-actualizacion-2024-1380778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cambios-whatsapp-3306426.jpg?tf=1200x' alt='Los 5 cambios que harán que a Whatsapp no la reconozca ni su madre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049'>9 funciones esenciales para sacar el máximo partido a tu Apple Watch</a></h4>
-    <a href='https://computerhoy.com/apple/funciones-esenciales-sacar-maximo-partido-apple-watch-1367049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/9-funciones-esenciales-sacar-maximo-partido-apple-watch-3278605.jpg?tf=1200x' alt='9 funciones esenciales para sacar el máximo partido a tu Apple Watch' />
+    <h4><a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573'>Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo</a></h4>
+    <a href='https://computerhoy.com/moviles/como-limpiar-correctamente-movil-errores-evitar-consejos-1381573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-limpiar-fondo-movil-danarlo-consejos-3304851.jpg?tf=1200x' alt='Así he limpiado a fondo mi móvil: mis consejos para que no dañes tu dispositivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976'>Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma</a></h4>
-    <a href='https://computerhoy.com/tecnologia/que-opina-chatgpt-espanoles-comunidad-autonoma-1236976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='Chulos, vagos, elitistas... esto es lo que opina ChatGPT de los españoles según su comunidad autónoma' />
+    <h4><a href='https://computerhoy.com/life/despiden-trabajador-museo-colgar-cuadro-junto-andy-warhol-1383372'>Despiden a un trabajador de un museo por colgar su cuadro junto a los de Andy Warhol</a></h4>
+    <a href='https://computerhoy.com/life/despiden-trabajador-museo-colgar-cuadro-junto-andy-warhol-1383372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/despiden-trabajador-museo-colgar-cuadros-junto-picasso-3306850.jpg?tf=1200x' alt='Despiden a un trabajador de un museo por colgar su cuadro junto a los de Andy Warhol' />
     </a>
 </div>
 
