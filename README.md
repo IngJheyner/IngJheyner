@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058'>Todos los modelos de Raspberry Pi y sus principales diferencias</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Todos los modelos de Raspberry Pi y sus principales diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951'>¿Qué placa base tengo? Cómo saber el modelo y entender sus características</a></h4>
     <a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/placa-base-tengo-como-saber-modelo-entender-caracteristicas-3306018.jpg?tf=1200x' alt='¿Qué placa base tengo? Cómo saber el modelo y entender sus características' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/cura-gasta-37000-euros-parroquia-candy-crush-mario-kart-tour-1383552'>Un cura se gasta 37.000 euros de su parroquia en Candy Crush y Mario Kart Tour</a></h4>
     <a href='https://computerhoy.com/life/cura-gasta-37000-euros-parroquia-candy-crush-mario-kart-tour-1383552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cura-gasta-37000-euros-tarjeta-credito-iglesia-candy-crush-mario-kart-tour-3307158.jpg?tf=1200x' alt='Un cura se gasta 37.000 euros de su parroquia en Candy Crush y Mario Kart Tour' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/senales-espia-camara-movil-1268008'>4 señales muy claras de que te están espiando a través de la cámara de tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/senales-espia-camara-movil-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/camara-movil-3306911.jpg?tf=1200x' alt='4 señales muy claras de que te están espiando a través de la cámara de tu móvil' />
     </a>
 </div>
 
