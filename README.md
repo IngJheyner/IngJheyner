@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625'>WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas </a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/restriccion-cuentas-whatsapp-3307253.jpg?tf=1200x' alt='WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/waze-provocando-autenticas-pesadillas-algunos-pueblos-barrios-tranquilos-francia-1383619'>Waze está provocando auténticas pesadillas a algunos pueblos y barrios tranquilos de Francia</a></h4>
     <a href='https://computerhoy.com/apps/waze-provocando-autenticas-pesadillas-algunos-pueblos-barrios-tranquilos-francia-1383619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/waze-3307246.jpg?tf=1200x' alt='Waze está provocando auténticas pesadillas a algunos pueblos y barrios tranquilos de Francia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es</a></h4>
     <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-1382475'>JOMO: así es el método de moda para saber desconectar (también de las redes sociales)</a></h4>
-    <a href='https://computerhoy.com/redes/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-1382475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-3304924.jpg?tf=1200x' alt='JOMO: así es el método de moda para saber desconectar (también de las redes sociales)' />
     </a>
 </div>
 
