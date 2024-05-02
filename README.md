@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692'>Spotify HiFi muestra señales de vida y esto es lo que ofrecería</a></h4>
+    <a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='Spotify HiFi muestra señales de vida y esto es lo que ofrecería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683'>Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15</a></h4>
+    <a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-15-3307337.jpg?tf=1200x' alt='Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678'>Apple desvela la forma correcta de limpiar tus AirPods</a></h4>
     <a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg?tf=1200x' alt='Apple desvela la forma correcta de limpiar tus AirPods' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673'>Threads ahora podría pagarte solo por compartir publicaciones</a></h4>
     <a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Threads ahora podría pagarte solo por compartir publicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/estas-actualizaciones-rompen-conexion-vpn-windows-11-10-1383668'>Estas actualizaciones rompen la conexión VPN en Windows 11 y 10</a></h4>
-    <a href='https://computerhoy.com/windows/estas-actualizaciones-rompen-conexion-vpn-windows-11-10-1383668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vpn-windows-3307319.jpg?tf=1200x' alt='Estas actualizaciones rompen la conexión VPN en Windows 11 y 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188'>AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclast-f15-plus-2-3294190.jpg?tf=1200x' alt='AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD' />
     </a>
 </div>
 
