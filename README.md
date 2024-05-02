@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/atajo-secreto-windows-11-1383015'>Este es, sin discusión, el atajo más poderoso de Windows 11, y casi nadie lo conoce</a></h4>
-    <a href='https://computerhoy.com/windows/atajo-secreto-windows-11-1383015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/atajos-windows-3306336.jpg?tf=1200x' alt='Este es, sin discusión, el atajo más poderoso de Windows 11, y casi nadie lo conoce' />
+    <h4><a href='https://computerhoy.com/tecnologia/1tb-nube-vpn-propina-pack-te-da-seguridad-privacidad-precio-top-1382853'>1TB en la nube y VPN de propina: este pack te da seguridad y privacidad a precio top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/1tb-nube-vpn-propina-pack-te-da-seguridad-privacidad-precio-top-1382853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='1TB en la nube y VPN de propina: este pack te da seguridad y privacidad a precio top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/huawei-pura-70-pura-70-pro-pura-70-ultra-caracteristicas-informacion-1381881'>Huawei lanza la familia de móviles Pura 70 con una potente cámara retráctil</a></h4>
-    <a href='https://computerhoy.com/moviles/huawei-pura-70-pura-70-pro-pura-70-ultra-caracteristicas-informacion-1381881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-pura-70-3303955.jpg?tf=1200x' alt='Huawei lanza la familia de móviles Pura 70 con una potente cámara retráctil' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-marcar-correo-gmail-como-importante-1382549'>Cómo marcar un correo de Gmail como importante y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-marcar-correo-gmail-como-importante-1382549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sencillo-truco-marcar-correo-como-importante-gmail-3305069.jpg?tf=1200x' alt='Cómo marcar un correo de Gmail como importante y para qué sirve' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-1382536'>No te compres ahora un Chromecast 4K con Google TV, una nueva versión está a punto de anunciarse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-1382536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chromecast-google-tv-4k-3280980.jpg?tf=1200x' alt='No te compres ahora un Chromecast 4K con Google TV, una nueva versión está a punto de anunciarse' />
+    <h4><a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-sentido-contrario-1321598'>Esto es lo que pasaría si la Tierra comenzara mañana a girar en sentido contrario</a></h4>
+    <a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-sentido-contrario-1321598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pasaria-tierra-girara-reves-3198708.jpg?tf=1200x' alt='Esto es lo que pasaría si la Tierra comenzara mañana a girar en sentido contrario' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782'>Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal' />
+    <h4><a href='https://computerhoy.com/pc/cache-cpu-sirve-tan-importante-pc-1383060'>Qué es la caché de la CPU, para qué sirve y por qué es tan importante para tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/cache-cpu-sirve-tan-importante-pc-1383060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cache-cpu-sirve-tan-importante-pc-3306197.jpg?tf=1200x' alt='Qué es la caché de la CPU, para qué sirve y por qué es tan importante para tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976'>Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-recuperar-clic-mapas-google-maps-buscar-direccion-google-3306060.jpg?tf=1200x' alt='Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico y cómo funciona?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico y cómo funciona?' />
     </a>
 </div>
 
