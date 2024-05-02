@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/atajo-secreto-windows-11-1383015'>Este es, sin discusión, el atajo más poderoso de Windows 11, y casi nadie lo conoce</a></h4>
+    <a href='https://computerhoy.com/windows/atajo-secreto-windows-11-1383015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/atajos-windows-3306336.jpg?tf=1200x' alt='Este es, sin discusión, el atajo más poderoso de Windows 11, y casi nadie lo conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/huawei-pura-70-pura-70-pro-pura-70-ultra-caracteristicas-informacion-1381881'>Huawei lanza la familia de móviles Pura 70 con una potente cámara retráctil</a></h4>
+    <a href='https://computerhoy.com/moviles/huawei-pura-70-pura-70-pro-pura-70-ultra-caracteristicas-informacion-1381881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-pura-70-3303955.jpg?tf=1200x' alt='Huawei lanza la familia de móviles Pura 70 con una potente cámara retráctil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-1382536'>No te compres ahora un Chromecast 4K con Google TV, una nueva versión está a punto de anunciarse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nueva-actualizacion-chromecast-4k-google-tv-1382536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chromecast-google-tv-4k-3280980.jpg?tf=1200x' alt='No te compres ahora un Chromecast 4K con Google TV, una nueva versión está a punto de anunciarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782'>Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976'>Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-recuperar-clic-mapas-google-maps-buscar-direccion-google-3306060.jpg?tf=1200x' alt='Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/limpiar-fotos-galeria-google-photos-1380575'>Google Fotos te ayudará a limpiar el desorden absoluto en el que se ha convertido tu galería de fotos</a></h4>
-    <a href='https://computerhoy.com/apps/limpiar-fotos-galeria-google-photos-1380575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='Google Fotos te ayudará a limpiar el desorden absoluto en el que se ha convertido tu galería de fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058'>Todos los modelos de Raspberry Pi y sus principales diferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Todos los modelos de Raspberry Pi y sus principales diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951'>¿Qué placa base tengo? Cómo saber el modelo y entender sus características</a></h4>
-    <a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/placa-base-tengo-como-saber-modelo-entender-caracteristicas-3306018.jpg?tf=1200x' alt='¿Qué placa base tengo? Cómo saber el modelo y entender sus características' />
     </a>
 </div>
 
