@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782'>Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-compra-perfecta-quieres-gama-alta-512gb-almacenamiento-potencia-brutal-1382782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/xiaomi-13t-pro-3252783.jpg?tf=1200x' alt='Este Xiaomi es la compra perfecta si quieres un gama alta: 512GB de almacenamiento y potencia brutal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976'>Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-clic-mapas-google-maps-1382976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-recuperar-clic-mapas-google-maps-buscar-direccion-google-3306060.jpg?tf=1200x' alt='Cómo recuperar el clic en los mapas de Google Maps al buscar una dirección en Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/limpiar-fotos-galeria-google-photos-1380575'>Google Fotos te ayudará a limpiar el desorden absoluto en el que se ha convertido tu galería de fotos</a></h4>
+    <a href='https://computerhoy.com/apps/limpiar-fotos-galeria-google-photos-1380575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-fotos-3301468.jpg?tf=1200x' alt='Google Fotos te ayudará a limpiar el desorden absoluto en el que se ha convertido tu galería de fotos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058'>Todos los modelos de Raspberry Pi y sus principales diferencias</a></h4>
     <a href='https://computerhoy.com/tecnologia/todos-modelos-raspberry-pi-diferencias-1383058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Todos los modelos de Raspberry Pi y sus principales diferencias' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951'>¿Qué placa base tengo? Cómo saber el modelo y entender sus características</a></h4>
     <a href='https://computerhoy.com/tutoriales/placa-base-tengo-como-saber-modelo-entender-caracteristicas-1382951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/placa-base-tengo-como-saber-modelo-entender-caracteristicas-3306018.jpg?tf=1200x' alt='¿Qué placa base tengo? Cómo saber el modelo y entender sus características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-1380603'>Así puedes borrar objetos de una imagen en Windows, gratis y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-objetos-imagen-windows-gratis-1380603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-borrar-objetos-imagen-windows-gratis-photoshop-ni-instalar-nada-3301510.jpg?tf=1200x' alt='Así puedes borrar objetos de una imagen en Windows, gratis y sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dia-mundial-contrasena-ataques-avanzados-emplean-ia-pero-sigue-usando-12345-1382967'>Día Mundial de la Contraseña: ataques avanzados que emplean IA pero se sigue usando 12345</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dia-mundial-contrasena-ataques-avanzados-emplean-ia-pero-sigue-usando-12345-1382967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dia-mundial-contrasena-3306413.jpg?tf=1200x' alt='Día Mundial de la Contraseña: ataques avanzados que emplean IA pero se sigue usando 12345' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cura-gasta-37000-euros-parroquia-candy-crush-mario-kart-tour-1383552'>Un cura se gasta 37.000 euros de su parroquia en Candy Crush y Mario Kart Tour</a></h4>
-    <a href='https://computerhoy.com/life/cura-gasta-37000-euros-parroquia-candy-crush-mario-kart-tour-1383552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cura-gasta-37000-euros-tarjeta-credito-iglesia-candy-crush-mario-kart-tour-3307158.jpg?tf=1200x' alt='Un cura se gasta 37.000 euros de su parroquia en Candy Crush y Mario Kart Tour' />
     </a>
 </div>
 
