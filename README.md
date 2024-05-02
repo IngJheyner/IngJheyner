@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678'>Apple desvela la forma correcta de limpiar tus AirPods</a></h4>
+    <a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg?tf=1200x' alt='Apple desvela la forma correcta de limpiar tus AirPods' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676'>Google Chrome ahora te advierte cuando una página web envía muchas notificaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/notificaciones-chrome-3307330.jpg?tf=1200x' alt='Google Chrome ahora te advierte cuando una página web envía muchas notificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673'>Threads ahora podría pagarte solo por compartir publicaciones</a></h4>
     <a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Threads ahora podría pagarte solo por compartir publicaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188'>AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD</a></h4>
     <a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclast-f15-plus-2-3294190.jpg?tf=1200x' alt='AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628'>Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos</a></h4>
-    <a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625'>WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas </a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/restriccion-cuentas-whatsapp-3307253.jpg?tf=1200x' alt='WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas ' />
     </a>
 </div>
 
