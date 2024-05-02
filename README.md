@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es</a></h4>
+    <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-1382475'>JOMO: así es el método de moda para saber desconectar (también de las redes sociales)</a></h4>
+    <a href='https://computerhoy.com/redes/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-1382475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/jomo-metodo-moda-saber-desconectar-tambien-redes-sociales-3304924.jpg?tf=1200x' alt='JOMO: así es el método de moda para saber desconectar (también de las redes sociales)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/como-saber-cuanta-ram-tiene-pc-windows-mac-linux-1383043'>Cómo saber cuánta RAM tiene tu PC y a qué velocidad funciona en Windows, Mac y Linux</a></h4>
+    <a href='https://computerhoy.com/pc/como-saber-cuanta-ram-tiene-pc-windows-mac-linux-1383043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3306355.jpg?tf=1200x' alt='Cómo saber cuánta RAM tiene tu PC y a qué velocidad funciona en Windows, Mac y Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/vacaciones-factura-movil-cara-1285108'>Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros</a></h4>
+    <a href='https://computerhoy.com/life/vacaciones-factura-movil-cara-1285108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/factura-movil-cara-3306912.jpg?tf=1200x' alt='Se van de vacaciones y reciben una factura de móvil de 43 páginas por más de 180.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/1tb-nube-vpn-propina-pack-te-da-seguridad-privacidad-precio-top-1382853'>1TB en la nube y VPN de propina: este pack te da seguridad y privacidad a precio top</a></h4>
     <a href='https://computerhoy.com/tecnologia/1tb-nube-vpn-propina-pack-te-da-seguridad-privacidad-precio-top-1382853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='1TB en la nube y VPN de propina: este pack te da seguridad y privacidad a precio top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-marcar-correo-gmail-como-importante-1382549'>Cómo marcar un correo de Gmail como importante y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-marcar-correo-gmail-como-importante-1382549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sencillo-truco-marcar-correo-como-importante-gmail-3305069.jpg?tf=1200x' alt='Cómo marcar un correo de Gmail como importante y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-sentido-contrario-1321598'>Esto es lo que pasaría si la Tierra comenzara mañana a girar en sentido contrario</a></h4>
-    <a href='https://computerhoy.com/espacio/pasaria-tierra-comenzara-girar-sentido-contrario-1321598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/pasaria-tierra-girara-reves-3198708.jpg?tf=1200x' alt='Esto es lo que pasaría si la Tierra comenzara mañana a girar en sentido contrario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cache-cpu-sirve-tan-importante-pc-1383060'>Qué es la caché de la CPU, para qué sirve y por qué es tan importante para tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/cache-cpu-sirve-tan-importante-pc-1383060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cache-cpu-sirve-tan-importante-pc-3306197.jpg?tf=1200x' alt='Qué es la caché de la CPU, para qué sirve y por qué es tan importante para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948'>¿Para qué sirve realmente un ordenador cuántico y cómo funciona?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-funciona-ordenador-cuantico-1379948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sirve-realmente-ordenador-cuantico-3300450.jpg?tf=1200x' alt='¿Para qué sirve realmente un ordenador cuántico y cómo funciona?' />
     </a>
 </div>
 
