@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628'>Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos</a></h4>
+    <a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625'>WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas </a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/restriccion-cuentas-whatsapp-3307253.jpg?tf=1200x' alt='WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/movil-google-cuesta-mismo-xiaomi-tiene-cinco-anos-actualizaciones-delante-1377666'>Este móvil de Google cuesta lo mismo que un Xiaomi y tiene cinco años de actualizaciones por delante</a></h4>
     <a href='https://computerhoy.com/tecnologia/movil-google-cuesta-mismo-xiaomi-tiene-cinco-anos-actualizaciones-delante-1377666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Este móvil de Google cuesta lo mismo que un Xiaomi y tiene cinco años de actualizaciones por delante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018'>La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es</a></h4>
-    <a href='https://computerhoy.com/espacio/unica-estructura-visible-espacio-espana-1344018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mar-plastico-almeria-3237738.jpg?tf=1200x' alt='La única estructura visible desde el espacio no es la Gran Muralla China, está en España y no te imaginas cuál es' />
     </a>
 </div>
 
