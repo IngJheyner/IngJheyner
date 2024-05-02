@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673'>Threads ahora podría pagarte solo por compartir publicaciones</a></h4>
+    <a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Threads ahora podría pagarte solo por compartir publicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/estas-actualizaciones-rompen-conexion-vpn-windows-11-10-1383668'>Estas actualizaciones rompen la conexión VPN en Windows 11 y 10</a></h4>
+    <a href='https://computerhoy.com/windows/estas-actualizaciones-rompen-conexion-vpn-windows-11-10-1383668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vpn-windows-3307319.jpg?tf=1200x' alt='Estas actualizaciones rompen la conexión VPN en Windows 11 y 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188'>AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-lia-portatil-barato-200-euros-tiene-windows-11-ssd-1376188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/teclast-f15-plus-2-3294190.jpg?tf=1200x' alt='AliExpress la lía con un portátil barato de 200 euros: tiene Windows 11 y SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628'>Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos</a></h4>
     <a href='https://computerhoy.com/apps/google-fotos-te-mostrara-menos-algunos-rostros-feed-recuerdos-1383628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sucede-fotos-videos-cuando-subes-google-photos-3300884.jpg?tf=1200x' alt='Google Fotos te "mostrará menos" algunos rostros en el feed de recuerdos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625'>WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas </a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-pone-seria-spam-van-empezar-restringir-estas-cuentas-1383625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/restriccion-cuentas-whatsapp-3307253.jpg?tf=1200x' alt='WhatsApp se pone seria contra el spam: van a empezar a restringir estas cuentas ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-provocando-autenticas-pesadillas-algunos-pueblos-barrios-tranquilos-francia-1383619'>Waze está provocando auténticas pesadillas a algunos pueblos y barrios tranquilos de Francia</a></h4>
-    <a href='https://computerhoy.com/apps/waze-provocando-autenticas-pesadillas-algunos-pueblos-barrios-tranquilos-francia-1383619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/waze-3307246.jpg?tf=1200x' alt='Waze está provocando auténticas pesadillas a algunos pueblos y barrios tranquilos de Francia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dicen-rabbit-r1-realidad-aplicacion-android-responden-creadores-1383605'>Dicen que el Rabbit R1 es en realidad una aplicación de Android, y responden sus creadores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dicen-rabbit-r1-realidad-aplicacion-android-responden-creadores-1383605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rabbit-r1-3307229.jpg?tf=1200x' alt='Dicen que el Rabbit R1 es en realidad una aplicación de Android, y responden sus creadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-google-cuesta-mismo-xiaomi-tiene-cinco-anos-actualizaciones-delante-1377666'>Este móvil de Google cuesta lo mismo que un Xiaomi y tiene cinco años de actualizaciones por delante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-google-cuesta-mismo-xiaomi-tiene-cinco-anos-actualizaciones-delante-1377666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='Este móvil de Google cuesta lo mismo que un Xiaomi y tiene cinco años de actualizaciones por delante' />
     </a>
 </div>
 
