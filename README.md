@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971'>Android Auto sufre un error crítico que afecta a muchos conductores</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallo-android-auto-3307842.jpg?tf=1200x' alt='Android Auto sufre un error crítico que afecta a muchos conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970'>Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-malware-3307841.jpg?tf=1200x' alt='Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/12-formas-movil-te-espia-recopila-datos-sepas-1383938'>12 formas en que tu móvil te espía y recopila tus datos sin que lo sepas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/12-formas-movil-te-espia-recopila-datos-sepas-1383938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-formas-movil-te-espia-recopila-datos-sepas-3307828.jpg?tf=1200x' alt='12 formas en que tu móvil te espía y recopila tus datos sin que lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830'>Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z</a></h4>
     <a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290'>Mejores películas de Amazon Prime Video según la crítica para ver ahora</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-peliculas-amazon-prime-video-critica-ver-ahora-3306690.jpg?tf=1200x' alt='Mejores películas de Amazon Prime Video según la crítica para ver ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875'>Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias</a></h4>
-    <a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg?tf=1200x' alt='Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-1383222'>Ni Optimus ni Atlas: estos son los robots que ya están entre nosotros (aunque a veces se olvide)</a></h4>
-    <a href='https://computerhoy.com/ciencia/estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-1383222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-optimus-ni-atlas-estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-3306546.jpg?tf=1200x' alt='Ni Optimus ni Atlas: estos son los robots que ya están entre nosotros (aunque a veces se olvide)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865'>Al parecer, casi nadie quiere estos coches eléctricos de China</a></h4>
-    <a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/bdc/dc/fotos/BYD_HAN_34.jpg?tf=1200x' alt='Al parecer, casi nadie quiere estos coches eléctricos de China' />
     </a>
 </div>
 
