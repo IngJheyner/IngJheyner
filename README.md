@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973'>Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024</a></h4>
+    <a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iphone-6-plus-3294954.jpg?tf=1200x' alt='Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971'>Android Auto sufre un error crítico que afecta a muchos conductores</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallo-android-auto-3307842.jpg?tf=1200x' alt='Android Auto sufre un error crítico que afecta a muchos conductores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830'>Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z</a></h4>
     <a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290'>Mejores películas de Amazon Prime Video según la crítica para ver ahora</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-peliculas-amazon-prime-video-critica-ver-ahora-3306690.jpg?tf=1200x' alt='Mejores películas de Amazon Prime Video según la crítica para ver ahora' />
     </a>
 </div>
 
