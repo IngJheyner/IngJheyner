@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856'>Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo</a></h4>
+    <a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776'>Cómo hacer capturas de pantalla en Windows 11 de diferentes formas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Cómo hacer capturas de pantalla en Windows 11 de diferentes formas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243'>Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dell-inspiron-16-plus-7630-3306506.jpg?tf=1200x' alt='Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809'>Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio</a></h4>
-    <a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disco-duro-hdd-3307538.jpg?tf=1200x' alt='Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio' />
     </a>
 </div>
 
