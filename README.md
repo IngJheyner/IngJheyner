@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830'>Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290'>Mejores películas de Amazon Prime Video según la crítica para ver ahora</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-amazon-prime-video-critica-ver-ahora-1383290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mejores-peliculas-amazon-prime-video-critica-ver-ahora-3306690.jpg?tf=1200x' alt='Mejores películas de Amazon Prime Video según la crítica para ver ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875'>Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias</a></h4>
     <a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg?tf=1200x' alt='Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865'>Al parecer, casi nadie quiere estos coches eléctricos de China</a></h4>
     <a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/bdc/dc/fotos/BYD_HAN_34.jpg?tf=1200x' alt='Al parecer, casi nadie quiere estos coches eléctricos de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/parece-chromecast-pero-receptor-tdt-ultracompacto-barato-ya-top-ventas-amazon-1383181'>Parece un Chromecast pero es un receptor TDT ultracompacto y barato que ya es top ventas en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/parece-chromecast-pero-receptor-tdt-ultracompacto-barato-ya-top-ventas-amazon-1383181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/receptor-tdt-strong-thomson-srt82-3306441.jpg?tf=1200x' alt='Parece un Chromecast pero es un receptor TDT ultracompacto y barato que ya es top ventas en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940'>Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo</a></h4>
-    <a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-te-contamos-presentara-3303325.jpg?tf=1200x' alt='Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo' />
     </a>
 </div>
 
