@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748'>¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024</a></h4>
+    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-viernes-3-mayo-2024-3307406.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692'>Spotify HiFi muestra señales de vida y esto es lo que ofrecería</a></h4>
     <a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='Spotify HiFi muestra señales de vida y esto es lo que ofrecería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676'>Google Chrome ahora te advierte cuando una página web envía muchas notificaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/notificaciones-chrome-3307330.jpg?tf=1200x' alt='Google Chrome ahora te advierte cuando una página web envía muchas notificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673'>Threads ahora podría pagarte solo por compartir publicaciones</a></h4>
-    <a href='https://computerhoy.com/apps/threads-ahora-podria-pagarte-solo-compartir-publicaciones-1383673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Threads ahora podría pagarte solo por compartir publicaciones' />
     </a>
 </div>
 
