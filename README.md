@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890'>Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-ds118-3305730.jpg?tf=1200x' alt='Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186'>He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306585.jpg?tf=1200x' alt='He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692'>Spotify HiFi muestra señales de vida y esto es lo que ofrecería</a></h4>
     <a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='Spotify HiFi muestra señales de vida y esto es lo que ofrecería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683'>Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15</a></h4>
-    <a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-15-3307337.jpg?tf=1200x' alt='Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15' />
     </a>
 </div>
 
