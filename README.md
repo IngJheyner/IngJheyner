@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/prohiben-construir-casa-porque-hace-sombra-placas-solares-vecino-1383861'>Les prohíben construir su casa porque hace sombra sobre las placas solares del vecino</a></h4>
+    <a href='https://computerhoy.com/energia/prohiben-construir-casa-porque-hace-sombra-placas-solares-vecino-1383861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/placas-solares-3307653.jpg?tf=1200x' alt='Les prohíben construir su casa porque hace sombra sobre las placas solares del vecino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/formato-condicional-excel-como-usarlo-hojas-calculo-1383210'>Formato condicional en Excel: qué es y cómo usarlo en tus hojas de cálculo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/formato-condicional-excel-como-usarlo-hojas-calculo-1383210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/formato-condicional-excel-como-usarlo-hojas-calculo-3306556.jpg?tf=1200x' alt='Formato condicional en Excel: qué es y cómo usarlo en tus hojas de cálculo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-ordenador-necesita-memoria-ram-1383747'>Cómo saber si tu ordenador necesita más memoria y cuál es la cantidad de RAM adecuada para ti</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-ordenador-necesita-memoria-ram-1383747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-ordenador-necesita-memoria-cual-cantidad-ram-adecuada-ti-3307410.jpg?tf=1200x' alt='Cómo saber si tu ordenador necesita más memoria y cuál es la cantidad de RAM adecuada para ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856'>Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo</a></h4>
     <a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776'>Cómo hacer capturas de pantalla en Windows 11 de diferentes formas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Cómo hacer capturas de pantalla en Windows 11 de diferentes formas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-historial-google-maps-1383831'>Cómo eliminar automáticamente el historial de Google Maps</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-historial-google-maps-1383831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-historial-3307587.jpg?tf=1200x' alt='Cómo eliminar automáticamente el historial de Google Maps' />
     </a>
 </div>
 
