@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186'>He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306585.jpg?tf=1200x' alt='He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431'>Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-bip-s-3303001.jpg?tf=1200x' alt='Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683'>Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15</a></h4>
     <a href='https://computerhoy.com/android/google-trabaja-pantalla-bloqueo-horizontal-nuevo-menu-configuracion-rapida-android-15-1383683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-15-3307337.jpg?tf=1200x' alt='Google trabaja en una pantalla de bloqueo horizontal y en un nuevo menú de configuración rápida para Android 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678'>Apple desvela la forma correcta de limpiar tus AirPods</a></h4>
-    <a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg?tf=1200x' alt='Apple desvela la forma correcta de limpiar tus AirPods' />
     </a>
 </div>
 
