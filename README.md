@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528'>Cómo desactivar Windows Defender, el antivirus de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-desactivar-windows-defender-antivirus-windows-11-3307449.jpg?tf=1200x' alt='Cómo desactivar Windows Defender, el antivirus de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856'>Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo</a></h4>
     <a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817'>El gran problema de Spotify del que se libra la radio: el algoritmo burbuja</a></h4>
     <a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/olvidate-spotify-forma-escuchar-musica-arrasa-android-auto-3204398.jpg?tf=1200x' alt='El gran problema de Spotify del que se libra la radio: el algoritmo burbuja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243'>Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dell-inspiron-16-plus-7630-3306506.jpg?tf=1200x' alt='Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air' />
     </a>
 </div>
 
