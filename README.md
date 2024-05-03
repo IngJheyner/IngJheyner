@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/prohiben-construir-casa-porque-hace-sombra-placas-solares-vecino-1383861'>Les prohíben construir su casa porque hace sombra sobre las placas solares del vecino</a></h4>
-    <a href='https://computerhoy.com/energia/prohiben-construir-casa-porque-hace-sombra-placas-solares-vecino-1383861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/placas-solares-3307653.jpg?tf=1200x' alt='Les prohíben construir su casa porque hace sombra sobre las placas solares del vecino' />
+    <h4><a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865'>Al parecer, casi nadie quiere estos coches eléctricos de China</a></h4>
+    <a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/bdc/dc/fotos/BYD_HAN_34.jpg?tf=1200x' alt='Al parecer, casi nadie quiere estos coches eléctricos de China' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/formato-condicional-excel-como-usarlo-hojas-calculo-1383210'>Formato condicional en Excel: qué es y cómo usarlo en tus hojas de cálculo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/formato-condicional-excel-como-usarlo-hojas-calculo-1383210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/formato-condicional-excel-como-usarlo-hojas-calculo-3306556.jpg?tf=1200x' alt='Formato condicional en Excel: qué es y cómo usarlo en tus hojas de cálculo' />
+    <h4><a href='https://computerhoy.com/tecnologia/parece-chromecast-pero-receptor-tdt-ultracompacto-barato-ya-top-ventas-amazon-1383181'>Parece un Chromecast pero es un receptor TDT ultracompacto y barato que ya es top ventas en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/parece-chromecast-pero-receptor-tdt-ultracompacto-barato-ya-top-ventas-amazon-1383181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/receptor-tdt-strong-thomson-srt82-3306441.jpg?tf=1200x' alt='Parece un Chromecast pero es un receptor TDT ultracompacto y barato que ya es top ventas en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-ordenador-necesita-memoria-ram-1383747'>Cómo saber si tu ordenador necesita más memoria y cuál es la cantidad de RAM adecuada para ti</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-ordenador-necesita-memoria-ram-1383747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-ordenador-necesita-memoria-cual-cantidad-ram-adecuada-ti-3307410.jpg?tf=1200x' alt='Cómo saber si tu ordenador necesita más memoria y cuál es la cantidad de RAM adecuada para ti' />
+    <h4><a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940'>Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo</a></h4>
+    <a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-te-contamos-presentara-3303325.jpg?tf=1200x' alt='Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528'>Cómo desactivar Windows Defender, el antivirus de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-deshabilitar-microsoft-defender-windows-1247528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-desactivar-windows-defender-antivirus-windows-11-3307449.jpg?tf=1200x' alt='Cómo desactivar Windows Defender, el antivirus de Windows 11' />
+    <h4><a href='https://computerhoy.com/internet/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-1383914'>LaLiga no solo quiere que no uses IPTV para ver el fútbol, tampoco quiere que hables de ello</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-1383914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-3307747.jpg?tf=1200x' alt='LaLiga no solo quiere que no uses IPTV para ver el fútbol, tampoco quiere que hables de ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856'>Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo</a></h4>
-    <a href='https://computerhoy.com/internet/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-1383856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Todo Internet depende de estos servidores DNS y solo hay 13 en el mundo' />
+    <h4><a href='https://computerhoy.com/redes/culpan-redes-sociales-aumentos-cirugias-esteticas-1383203'>Culpan a las redes sociales de los aumentos de cirugías estéticas</a></h4>
+    <a href='https://computerhoy.com/redes/culpan-redes-sociales-aumentos-cirugias-esteticas-1383203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudio-tiene-claro-redes-sociales-son-culpables-aumentos-cirugias-esteticas-3306513.jpg?tf=1200x' alt='Culpan a las redes sociales de los aumentos de cirugías estéticas' />
     </a>
 </div>
 
