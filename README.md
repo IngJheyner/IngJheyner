@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783'>Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-barato-familia-ahora-aun-amazon-rebaja-menos-500-euros-1383773'>El Garmin Fenix 7S es el más barato de su familia, y ahora más aún: Amazon lo rebaja a menos de 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-barato-familia-ahora-aun-amazon-rebaja-menos-500-euros-1383773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='El Garmin Fenix 7S es el más barato de su familia, y ahora más aún: Amazon lo rebaja a menos de 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775'>Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987</a></h4>
     <a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ms-dos-4-ibm-ps-2-3307462.jpg?tf=1200x' alt='Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186'>He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306585.jpg?tf=1200x' alt='He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431'>Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-bip-s-3303001.jpg?tf=1200x' alt='Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748'>¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024</a></h4>
-    <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-viernes-3-mayo-2024-3307406.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024' />
     </a>
 </div>
 
