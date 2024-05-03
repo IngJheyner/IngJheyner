@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775'>Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987</a></h4>
+    <a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ms-dos-4-ibm-ps-2-3307462.jpg?tf=1200x' alt='Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890'>Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada</a></h4>
     <a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-ds118-3305730.jpg?tf=1200x' alt='Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748'>¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-viernes-3-mayo-2024-3307406.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692'>Spotify HiFi muestra señales de vida y esto es lo que ofrecería</a></h4>
-    <a href='https://computerhoy.com/apps/spotify-hifi-muestra-senales-vida-ofreceria-1383692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spotify-3307347.jpg?tf=1200x' alt='Spotify HiFi muestra señales de vida y esto es lo que ofrecería' />
     </a>
 </div>
 
