@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776'>Cómo hacer capturas de pantalla en Windows 11 de diferentes formas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-capturas-pantalla-windows-11-diferentes-formas-1252776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Cómo hacer capturas de pantalla en Windows 11 de diferentes formas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-historial-google-maps-1383831'>Cómo eliminar automáticamente el historial de Google Maps</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-eliminar-automaticamente-historial-google-maps-1383831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-historial-3307587.jpg?tf=1200x' alt='Cómo eliminar automáticamente el historial de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817'>El gran problema de Spotify del que se libra la radio: el algoritmo burbuja</a></h4>
     <a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/olvidate-spotify-forma-escuchar-musica-arrasa-android-auto-3204398.jpg?tf=1200x' alt='El gran problema de Spotify del que se libra la radio: el algoritmo burbuja' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809'>Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio</a></h4>
     <a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disco-duro-hdd-3307538.jpg?tf=1200x' alt='Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-mete-lio-windows-11-no-puede-windows-10-1383799'>Microsoft se mete en un lío: Windows 11 no puede con Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-mete-lio-windows-11-no-puede-windows-10-1383799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hombre-desesperado-windows-3307539.jpg?tf=1200x' alt='Microsoft se mete en un lío: Windows 11 no puede con Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783'>Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft' />
     </a>
 </div>
 
