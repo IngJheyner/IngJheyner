@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809'>Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio</a></h4>
+    <a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disco-duro-hdd-3307538.jpg?tf=1200x' alt='Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-mete-lio-windows-11-no-puede-windows-10-1383799'>Microsoft se mete en un lío: Windows 11 no puede con Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-mete-lio-windows-11-no-puede-windows-10-1383799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hombre-desesperado-windows-3307539.jpg?tf=1200x' alt='Microsoft se mete en un lío: Windows 11 no puede con Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783'>Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775'>Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987</a></h4>
     <a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ms-dos-4-ibm-ps-2-3307462.jpg?tf=1200x' alt='Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890'>Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nas-sorprendentemente-barato-synology-16tb-nube-privada-1382890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/synology-ds118-3305730.jpg?tf=1200x' alt='Este NAS es sorprendentemente barato, de Synology y con hasta 16TB de nube privada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186'>He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-huawei-band-9-pulsera-comoda-incluso-noche-1383186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306585.jpg?tf=1200x' alt='He probado la Huawei Band 9 y, además de no ser incómoda de noche, su monitorización del sueño es sobresaliente' />
     </a>
 </div>
 
