@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431'>Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuesta-menos-30-euros-tiene-40-dias-bateria-reloj-amazfit-chollo-top-1381431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/amazfit-bip-s-3303001.jpg?tf=1200x' alt='Cuesta menos de 30 euros y tiene 40 días de batería: este reloj de Amazfit es un chollo top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748'>¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024</a></h4>
     <a href='https://computerhoy.com/life/santo-hoy-santoral-viernes-3-mayo-2024-1383748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/santo-hoy-santoral-viernes-3-mayo-2024-3307406.jpg?tf=1200x' alt='¿Qué santo es hoy? Santoral del viernes 3 de mayo de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678'>Apple desvela la forma correcta de limpiar tus AirPods</a></h4>
     <a href='https://computerhoy.com/apple/apple-desvela-forma-correcta-limpiar-airpods-1383678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/airpods-apple-2540473.jpg?tf=1200x' alt='Apple desvela la forma correcta de limpiar tus AirPods' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676'>Google Chrome ahora te advierte cuando una página web envía muchas notificaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-ahora-te-advierte-cuando-pagina-web-envia-muchas-notificaciones-1383676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/notificaciones-chrome-3307330.jpg?tf=1200x' alt='Google Chrome ahora te advierte cuando una página web envía muchas notificaciones' />
     </a>
 </div>
 
