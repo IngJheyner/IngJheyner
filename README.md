@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817'>El gran problema de Spotify del que se libra la radio: el algoritmo burbuja</a></h4>
+    <a href='https://computerhoy.com/audio/gran-problema-spotify-libra-radio-algoritmo-burbuja-1383817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/olvidate-spotify-forma-escuchar-musica-arrasa-android-auto-3204398.jpg?tf=1200x' alt='El gran problema de Spotify del que se libra la radio: el algoritmo burbuja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243'>Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-dell-tiene-todo-rtx-4060-16-gb-ram-precio-inferior-macbook-air-1383243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dell-inspiron-16-plus-7630-3306506.jpg?tf=1200x' alt='Este portátil Dell lo tiene todo: RTX 4060, 16 GB de RAM y un precio inferior a un MacBook Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809'>Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio</a></h4>
     <a href='https://computerhoy.com/pc/unidad-disco-duro-hdd-ahora-podria-durarte-tiempo-estudio-1383809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disco-duro-hdd-3307538.jpg?tf=1200x' alt='Tu unidad de disco duro HDD ahora podría durarte más tiempo según este estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783'>Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/di-adios-contrasena-ya-puedes-crear-passkeys-acceder-cuenta-microsoft-1383783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Di adiós a tu contraseña: ya puedes crear passkeys para acceder a tu cuenta de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-barato-familia-ahora-aun-amazon-rebaja-menos-500-euros-1383773'>El Garmin Fenix 7S es el más barato de su familia, y ahora más aún: Amazon lo rebaja a menos de 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7s-barato-familia-ahora-aun-amazon-rebaja-menos-500-euros-1383773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='El Garmin Fenix 7S es el más barato de su familia, y ahora más aún: Amazon lo rebaja a menos de 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775'>Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987</a></h4>
-    <a href='https://computerhoy.com/tecnologia/regreso-pasado-consiguen-instalar-ms-dos-4-ibm-ps-2-1987-1383775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ms-dos-4-ibm-ps-2-3307462.jpg?tf=1200x' alt='Regreso al pasado: consiguen instalar MS-DOS 4 en un IBM PS/2 de 1987' />
     </a>
 </div>
 
