@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875'>Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias</a></h4>
+    <a href='https://computerhoy.com/gaming/fabricante-accesorios-filtra-nuevos-detalles-nintendo-switch-2-son-buenas-noticias-1383875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508407.jpg?tf=1200x' alt='Un fabricante de accesorios filtra nuevos detalles de Nintendo Switch 2, y son buenas noticias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-1383222'>Ni Optimus ni Atlas: estos son los robots que ya están entre nosotros (aunque a veces se olvide)</a></h4>
+    <a href='https://computerhoy.com/ciencia/estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-1383222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ni-optimus-ni-atlas-estos-son-robots-ya-estan-nosotros-aunque-veces-olvide-3306546.jpg?tf=1200x' alt='Ni Optimus ni Atlas: estos son los robots que ya están entre nosotros (aunque a veces se olvide)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865'>Al parecer, casi nadie quiere estos coches eléctricos de China</a></h4>
     <a href='https://computerhoy.com/motor/parecer-casi-nadie-quiere-estos-coches-electricos-china-1383865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/bdc/dc/fotos/BYD_HAN_34.jpg?tf=1200x' alt='Al parecer, casi nadie quiere estos coches eléctricos de China' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940'>Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo</a></h4>
     <a href='https://computerhoy.com/apple/evento-let-loose-apple-7-mayo-ipad-1383940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-anuncia-evento-let-loose-7-mayo-te-contamos-presentara-3303325.jpg?tf=1200x' alt='Todo lo que Apple va a presentar en el evento 'Let Loose' del 7 de mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-1383914'>LaLiga no solo quiere que no uses IPTV para ver el fútbol, tampoco quiere que hables de ello</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-1383914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-3307747.jpg?tf=1200x' alt='LaLiga no solo quiere que no uses IPTV para ver el fútbol, tampoco quiere que hables de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/culpan-redes-sociales-aumentos-cirugias-esteticas-1383203'>Culpan a las redes sociales de los aumentos de cirugías estéticas</a></h4>
-    <a href='https://computerhoy.com/redes/culpan-redes-sociales-aumentos-cirugias-esteticas-1383203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/estudio-tiene-claro-redes-sociales-son-culpables-aumentos-cirugias-esteticas-3306513.jpg?tf=1200x' alt='Culpan a las redes sociales de los aumentos de cirugías estéticas' />
     </a>
 </div>
 
