@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111'>Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-3308019.jpg?tf=1200x' alt='Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101'>Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA</a></h4>
     <a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072'>El misterioso error de Android Auto que bloquea el control de volumen</a></h4>
     <a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='El misterioso error de Android Auto que bloquea el control de volumen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057'>Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok</a></h4>
-    <a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok' />
     </a>
 </div>
 
