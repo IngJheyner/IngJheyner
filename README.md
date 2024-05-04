@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/rival-low-cost-steam-deck-baja-precio-tiene-game-pass-cuesta-menos-300-euros-1383903'>La rival low cost de Steam Deck baja más de precio: tiene Game Pass y cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/rival-low-cost-steam-deck-baja-precio-tiene-game-pass-cuesta-menos-300-euros-1383903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/logitech-g-cloud-2819965.jpg?tf=1200x' alt='La rival low cost de Steam Deck baja más de precio: tiene Game Pass y cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-movil-android-1375171'>Cómo ver la contraseña del WiFi en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-movil-android-1375171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/contrasena-wifi-android-3293062.jpg?tf=1200x' alt='Cómo ver la contraseña del WiFi en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nas-usos-doy-todos-dias-1381443'>6 años de felicidad con mi NAS: estos son los usos que le doy todos los días</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nas-usos-doy-todos-dias-1381443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/usos-servidor-nas-3303102.jpg?tf=1200x' alt='6 años de felicidad con mi NAS: estos son los usos que le doy todos los días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-1382799'>¿Sueles hablar contigo mismo? Así podrías estar ayudando a tu cerebro, según los expertos</a></h4>
     <a href='https://computerhoy.com/ciencia/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-1382799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-expertos-3305478.jpg?tf=1200x' alt='¿Sueles hablar contigo mismo? Así podrías estar ayudando a tu cerebro, según los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/mejor-antivirus-gratuito-ordenador-ocu-1381241'>Este es, sin lugar a dudas, el mejor antivirus gratuito para tu ordenador, según la OCU</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mejor-antivirus-gratuito-ordenador-ocu-1381241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejor-antivirus-gratuito-ocu-3307662.jpg?tf=1200x' alt='Este es, sin lugar a dudas, el mejor antivirus gratuito para tu ordenador, según la OCU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/pantalla-amarilla-windows-significa-como-solucionarlo-1383229'>Pantalla amarilla en Windows: qué significa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/pantalla-amarilla-windows-significa-como-solucionarlo-1383229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-amarilla-windows-significa-como-solucionarlo-3306507.jpg?tf=1200x' alt='Pantalla amarilla en Windows: qué significa y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-antena-casera-1354632'>Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera, y tú también puedes</a></h4>
-    <a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-antena-casera-1354632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/consigue-charlar-astronauta-estacion-espacial-internacional-usando-antena-casera-3257352.jpg?tf=1200x' alt='Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera, y tú también puedes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996'>El último timo con IA: vender semillas de flor de ojos de gato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-timo-ia-semillas-ojos-gato-deslumbrantes-3307874.jpg?tf=1200x' alt='El último timo con IA: vender semillas de flor de ojos de gato' />
     </a>
 </div>
 
