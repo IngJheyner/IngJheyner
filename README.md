@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082'>Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg?tf=1200x' alt='Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072'>El misterioso error de Android Auto que bloquea el control de volumen</a></h4>
     <a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='El misterioso error de Android Auto que bloquea el control de volumen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/persona-mantiene-abiertas-7400-pestanas-firefox-durante-dos-anos-1384035'>Una persona mantiene abiertas más de 7400 pestañas de Firefox durante dos años</a></h4>
     <a href='https://computerhoy.com/tecnologia/persona-mantiene-abiertas-7400-pestanas-firefox-durante-dos-anos-1384035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/firefox-3307925.jpg?tf=1200x' alt='Una persona mantiene abiertas más de 7400 pestañas de Firefox durante dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nuevo-rediseno-google-maps-pronto-podrias-disfrutar-1384020'>Así es el nuevo rediseño de Google Maps y que pronto podrías disfrutar</a></h4>
-    <a href='https://computerhoy.com/apps/nuevo-rediseno-google-maps-pronto-podrias-disfrutar-1384020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rediseno-google-maps-3307907.jpg?tf=1200x' alt='Así es el nuevo rediseño de Google Maps y que pronto podrías disfrutar' />
     </a>
 </div>
 
