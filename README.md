@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072'>El misterioso error de Android Auto que bloquea el control de volumen</a></h4>
+    <a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='El misterioso error de Android Auto que bloquea el control de volumen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057'>Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok</a></h4>
     <a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nuevo-rediseno-google-maps-pronto-podrias-disfrutar-1384020'>Así es el nuevo rediseño de Google Maps y que pronto podrías disfrutar</a></h4>
     <a href='https://computerhoy.com/apps/nuevo-rediseno-google-maps-pronto-podrias-disfrutar-1384020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rediseno-google-maps-3307907.jpg?tf=1200x' alt='Así es el nuevo rediseño de Google Maps y que pronto podrías disfrutar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-1383380'>Cómo enviar correos confidenciales en Gmail y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-1383380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-3306870.jpg?tf=1200x' alt='Cómo enviar correos confidenciales en Gmail y por qué deberías hacerlo' />
     </a>
 </div>
 
