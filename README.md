@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112'>Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-3308021.jpg?tf=1200x' alt='Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111'>Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-3308019.jpg?tf=1200x' alt='Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082'>Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg?tf=1200x' alt='Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072'>El misterioso error de Android Auto que bloquea el control de volumen</a></h4>
-    <a href='https://computerhoy.com/apps/misterioso-error-android-auto-bloquea-control-volumen-1384072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='El misterioso error de Android Auto que bloquea el control de volumen' />
     </a>
 </div>
 
