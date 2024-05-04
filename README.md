@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/preguntas-prefieres-sorprender-crear-debate-amigos-whatsapp-1383739'>Preguntas qué prefieres para sorprender y crear debate con tus amigos en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/life/preguntas-prefieres-sorprender-crear-debate-amigos-whatsapp-1383739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-3307619.jpg?tf=1200x' alt='Preguntas qué prefieres para sorprender y crear debate con tus amigos en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786'>POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-x6-3307461.jpg?tf=1200x' alt='POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prueba-ya-cascos-conduccion-osea-gastar-demasiado-estos-lenovo-no-llegan-20-euros-1383108'>Prueba ya los cascos de conducción ósea sin gastar demasiado: estos Lenovo no llegan a 20 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prueba-ya-cascos-conduccion-osea-gastar-demasiado-estos-lenovo-no-llegan-20-euros-1383108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x3-pro-3306221.jpg?tf=1200x' alt='Prueba ya los cascos de conducción ósea sin gastar demasiado: estos Lenovo no llegan a 20 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-premium-smartband-motivo-1382965'>Tras un año con un smartwatch premium he vuelto a usar mi smartband por un simple motivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-premium-smartband-motivo-1382965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306758.jpg?tf=1200x' alt='Tras un año con un smartwatch premium he vuelto a usar mi smartband por un simple motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973'>Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024</a></h4>
-    <a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iphone-6-plus-3294954.jpg?tf=1200x' alt='Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024' />
+    <h4><a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070'>Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971'>Android Auto sufre un error crítico que afecta a muchos conductores</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-sufre-error-critico-afecta-muchos-conductores-1383971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallo-android-auto-3307842.jpg?tf=1200x' alt='Android Auto sufre un error crítico que afecta a muchos conductores' />
+    <h4><a href='https://computerhoy.com/tv/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-1383866'>Google ha bloqueado 10.000 webs que ofrecen o publicitan IPTV piratas para ver fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tv/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-1383866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-3307745.jpg?tf=1200x' alt='Google ha bloqueado 10.000 webs que ofrecen o publicitan IPTV piratas para ver fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970'>Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-malware-3307841.jpg?tf=1200x' alt='Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android' />
+    <h4><a href='https://computerhoy.com/analisis/kobo-libra-colour-analisis-opinion-1382150'>He probado la Kobo Libra Colour: me ha entusiasmado lo bien que se lee y su autonomía a prueba de bombas</a></h4>
+    <a href='https://computerhoy.com/analisis/kobo-libra-colour-analisis-opinion-1382150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kobo-libra-colour-3304869.jpg?tf=1200x' alt='He probado la Kobo Libra Colour: me ha entusiasmado lo bien que se lee y su autonomía a prueba de bombas' />
     </a>
 </div>
 
