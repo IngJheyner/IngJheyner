@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101'>Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000'>Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato</a></h4>
+    <a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/8bitdo-mechanical-3307880.jpg?tf=1200x' alt='Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082'>Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp</a></h4>
     <a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg?tf=1200x' alt='Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057'>Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok</a></h4>
     <a href='https://computerhoy.com/apps/ahora-x-te-ayudara-ponerte-dia-noticias-solo-segundos-gracias-grok-1384057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ahora X te ayudará a ponerte al día con las noticias en solo unos segundos, y gracias a Grok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/youtube-te-ayudara-ia-triunfar-proximos-videos-1384046'>YouTube te ayudará con IA a triunfar con tus próximos vídeos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/youtube-te-ayudara-ia-triunfar-proximos-videos-1384046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3307932.jpg?tf=1200x' alt='YouTube te ayudará con IA a triunfar con tus próximos vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/persona-mantiene-abiertas-7400-pestanas-firefox-durante-dos-anos-1384035'>Una persona mantiene abiertas más de 7400 pestañas de Firefox durante dos años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/persona-mantiene-abiertas-7400-pestanas-firefox-durante-dos-anos-1384035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/firefox-3307925.jpg?tf=1200x' alt='Una persona mantiene abiertas más de 7400 pestañas de Firefox durante dos años' />
     </a>
 </div>
 
