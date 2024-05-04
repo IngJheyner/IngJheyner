@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996'>El último timo con IA: vender semillas de flor de ojos de gato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-timo-ia-semillas-ojos-gato-deslumbrantes-3307874.jpg?tf=1200x' alt='El último timo con IA: vender semillas de flor de ojos de gato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/powershell-windows-1383717'>Qué es PowerShell de Windows, para qué sirve y cómo sacarle el máximo partido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/powershell-windows-1383717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/powershell-windows-sirve-como-sacarle-maximo-partido-3307390.jpg?tf=1200x' alt='Qué es PowerShell de Windows, para qué sirve y cómo sacarle el máximo partido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786'>POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED</a></h4>
     <a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-x6-3307461.jpg?tf=1200x' alt='POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070'>Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala</a></h4>
     <a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-1383866'>Google ha bloqueado 10.000 webs que ofrecen o publicitan IPTV piratas para ver fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tv/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-1383866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-3307745.jpg?tf=1200x' alt='Google ha bloqueado 10.000 webs que ofrecen o publicitan IPTV piratas para ver fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/kobo-libra-colour-analisis-opinion-1382150'>He probado la Kobo Libra Colour: me ha entusiasmado lo bien que se lee y su autonomía a prueba de bombas</a></h4>
-    <a href='https://computerhoy.com/analisis/kobo-libra-colour-analisis-opinion-1382150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/kobo-libra-colour-3304869.jpg?tf=1200x' alt='He probado la Kobo Libra Colour: me ha entusiasmado lo bien que se lee y su autonomía a prueba de bombas' />
     </a>
 </div>
 
