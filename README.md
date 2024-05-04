@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/preguntas-prefieres-sorprender-crear-debate-amigos-whatsapp-1383739'>Preguntas qué prefieres para sorprender y crear debate con tus amigos en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/life/preguntas-prefieres-sorprender-crear-debate-amigos-whatsapp-1383739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-3307619.jpg?tf=1200x' alt='Preguntas qué prefieres para sorprender y crear debate con tus amigos en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/prueba-ya-cascos-conduccion-osea-gastar-demasiado-estos-lenovo-no-llegan-20-euros-1383108'>Prueba ya los cascos de conducción ósea sin gastar demasiado: estos Lenovo no llegan a 20 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prueba-ya-cascos-conduccion-osea-gastar-demasiado-estos-lenovo-no-llegan-20-euros-1383108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x3-pro-3306221.jpg?tf=1200x' alt='Prueba ya los cascos de conducción ósea sin gastar demasiado: estos Lenovo no llegan a 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973'>Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024</a></h4>
     <a href='https://computerhoy.com/moviles/moviles-dejan-funcionar-whatsapp-mayo-2024-1383973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iphone-6-plus-3294954.jpg?tf=1200x' alt='Estos son los móviles que dejan de funcionar con WhatsApp en mayo de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970'>Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/microsoft-alerta-ataque-dirty-stream-afecta-aplicaciones-android-1383970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-malware-3307841.jpg?tf=1200x' alt='Microsoft alerta sobre un ataque "Dirty Stream" que afecta a las aplicaciones de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/12-formas-movil-te-espia-recopila-datos-sepas-1383938'>12 formas en que tu móvil te espía y recopila tus datos sin que lo sepas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/12-formas-movil-te-espia-recopila-datos-sepas-1383938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-formas-movil-te-espia-recopila-datos-sepas-3307828.jpg?tf=1200x' alt='12 formas en que tu móvil te espía y recopila tus datos sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830'>Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fiestas-powerpoint-nueva-tendencia-viral-generacion-z-1383830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Fiestas de PowerPoint: la nueva tendencia viral de la Generación Z' />
     </a>
 </div>
 
