@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-1382799'>¿Sueles hablar contigo mismo? Así podrías estar ayudando a tu cerebro, según los expertos</a></h4>
+    <a href='https://computerhoy.com/ciencia/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-1382799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sueles-hablar-contigo-mismo-podrias-estar-ayudando-cerebro-expertos-3305478.jpg?tf=1200x' alt='¿Sueles hablar contigo mismo? Así podrías estar ayudando a tu cerebro, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/mejor-antivirus-gratuito-ordenador-ocu-1381241'>Este es, sin lugar a dudas, el mejor antivirus gratuito para tu ordenador, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mejor-antivirus-gratuito-ordenador-ocu-1381241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejor-antivirus-gratuito-ocu-3307662.jpg?tf=1200x' alt='Este es, sin lugar a dudas, el mejor antivirus gratuito para tu ordenador, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/pantalla-amarilla-windows-significa-como-solucionarlo-1383229'>Pantalla amarilla en Windows: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/pantalla-amarilla-windows-significa-como-solucionarlo-1383229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pantalla-amarilla-windows-significa-como-solucionarlo-3306507.jpg?tf=1200x' alt='Pantalla amarilla en Windows: qué significa y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-antena-casera-1354632'>Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera, y tú también puedes</a></h4>
+    <a href='https://computerhoy.com/espacio/radioaficionado-contacta-astronauta-iss-antena-casera-1354632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/consigue-charlar-astronauta-estacion-espacial-internacional-usando-antena-casera-3257352.jpg?tf=1200x' alt='Consigue charlar con un astronauta de la Estación Espacial Internacional usando una antena casera, y tú también puedes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996'>El último timo con IA: vender semillas de flor de ojos de gato</a></h4>
     <a href='https://computerhoy.com/tecnologia/ultimo-timo-inteligencia-artificial-vender-semillas-flor-ojos-gato-1383996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-timo-ia-semillas-ojos-gato-deslumbrantes-3307874.jpg?tf=1200x' alt='El último timo con IA: vender semillas de flor de ojos de gato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/powershell-windows-1383717'>Qué es PowerShell de Windows, para qué sirve y cómo sacarle el máximo partido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/powershell-windows-1383717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/powershell-windows-sirve-como-sacarle-maximo-partido-3307390.jpg?tf=1200x' alt='Qué es PowerShell de Windows, para qué sirve y cómo sacarle el máximo partido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786'>POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/poco-pasa-gama-media-rebaja-apenas-200-euros-5g-pantallon-amoled-1383786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-x6-3307461.jpg?tf=1200x' alt='POCO se pasa la gama media con esta rebaja: apenas 200 euros, 5G y pantallón AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-premium-smartband-motivo-1382965'>Tras un año con un smartwatch premium he vuelto a usar mi smartband por un simple motivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-premium-smartband-motivo-1382965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306758.jpg?tf=1200x' alt='Tras un año con un smartwatch premium he vuelto a usar mi smartband por un simple motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070'>Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubrimiento-accidental-revolucionar-almacenamiento-energia-1275070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/baterias-industriales-3083612.jpg?tf=1200x' alt='Un descubrimiento accidental puede revolucionar el almacenamiento de energía global a gran escala' />
     </a>
 </div>
 
