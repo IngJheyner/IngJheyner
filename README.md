@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144'>Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-numero-todo-mundo-menos-contactos-agenda-1383307'>Cómo ocultar tu número a todo el mundo menos a los contactos de tu agenda</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-numero-todo-mundo-menos-contactos-agenda-1383307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ocultar-numero-todo-mundo-menos-contactos-agenda-3306864.jpg?tf=1200x' alt='Cómo ocultar tu número a todo el mundo menos a los contactos de tu agenda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135'>WhatsApp para Windows 11 se actualiza con todas estas novedades</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-windows-11-3308062.jpg?tf=1200x' alt='WhatsApp para Windows 11 se actualiza con todas estas novedades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523'>Cómo ver la contraseña del WiFi en un iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contrasena-wifi-iphone-3294718.jpg?tf=1200x' alt='Cómo ver la contraseña del WiFi en un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-1382269'>Esta función de tu móvil Android es inútil y se come la batería, desactívala cuanto antes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-1382269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Esta función de tu móvil Android es inútil y se come la batería, desactívala cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129'>Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-notificaciones-3308048.jpg?tf=1200x' alt='Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas' />
     </a>
 </div>
 
