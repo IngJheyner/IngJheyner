@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección falsa</a></h4>
+    <a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección falsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215'>AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar</a></h4>
     <a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acemagic-m2a-starship-pc-forma-x-wing-ya-puedes-comprar-3308211.jpg?tf=1200x' alt='AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199'>Estos son los planes secretos de Apple con la IA, que desvelará en WWDC</a></h4>
     <a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-planes-secretos-apple-ia-desvelara-wwdc-3308165.jpg?tf=1200x' alt='Estos son los planes secretos de Apple con la IA, que desvelará en WWDC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162'>Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas' />
     </a>
 </div>
 
