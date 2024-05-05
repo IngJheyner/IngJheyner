@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828'>Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazfit-t-rex-pro-3307540.jpg?tf=1200x' alt='Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523'>Cómo ver la contraseña del WiFi en un iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contrasena-wifi-iphone-3294718.jpg?tf=1200x' alt='Cómo ver la contraseña del WiFi en un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-1382269'>Esta función de tu móvil Android es inútil y se come la batería, desactívala cuanto antes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/funcion-inutil-moviles-android-come-bateria-1382269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='Esta función de tu móvil Android es inútil y se come la batería, desactívala cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129'>Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-notificaciones-3308048.jpg?tf=1200x' alt='Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752'>FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos</a></h4>
     <a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-3307418.jpg?tf=1200x' alt='FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/configuracion-7-dias-gmail-1381948'>Qué es la configuración de 7 días de Gmail y por qué deberías activarla ya mismo</a></h4>
-    <a href='https://computerhoy.com/google/configuracion-7-dias-gmail-1381948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-3303872.jpg?tf=1200x' alt='Qué es la configuración de 7 días de Gmail y por qué deberías activarla ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246'>Cómo leer y entender las pegatinas y logos de una tarjeta de memoria</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjeta-memoria-sd-3307573.jpg?tf=1200x' alt='Cómo leer y entender las pegatinas y logos de una tarjeta de memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-desaprovechados-1251216'>Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando</a></h4>
-    <a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-desaprovechados-1251216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861105.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743'>Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5</a></h4>
-    <a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-diferencia-sdram-ddr-ddr2-ddr3-ddr4-ddr5-3307407.jpg?tf=1200x' alt='Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5' />
     </a>
 </div>
 
