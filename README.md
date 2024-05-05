@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172'>El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199'>Estos son los planes secretos de Apple con la IA, que desvelará en WWDC</a></h4>
+    <a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-planes-secretos-apple-ia-desvelara-wwdc-3308165.jpg?tf=1200x' alt='Estos son los planes secretos de Apple con la IA, que desvelará en WWDC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162'>Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144'>Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-numero-todo-mundo-menos-contactos-agenda-1383307'>Cómo ocultar tu número a todo el mundo menos a los contactos de tu agenda</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-numero-todo-mundo-menos-contactos-agenda-1383307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ocultar-numero-todo-mundo-menos-contactos-agenda-3306864.jpg?tf=1200x' alt='Cómo ocultar tu número a todo el mundo menos a los contactos de tu agenda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135'>WhatsApp para Windows 11 se actualiza con todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-windows-11-3308062.jpg?tf=1200x' alt='WhatsApp para Windows 11 se actualiza con todas estas novedades' />
     </a>
 </div>
 
