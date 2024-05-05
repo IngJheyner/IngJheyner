@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752'>FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-3307418.jpg?tf=1200x' alt='FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/configuracion-7-dias-gmail-1381948'>Qué es la configuración de 7 días de Gmail y por qué deberías activarla ya mismo</a></h4>
+    <a href='https://computerhoy.com/google/configuracion-7-dias-gmail-1381948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-7-dias-gmail-deberias-activarla-ahora-mismo-3303872.jpg?tf=1200x' alt='Qué es la configuración de 7 días de Gmail y por qué deberías activarla ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246'>Cómo leer y entender las pegatinas y logos de una tarjeta de memoria</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjeta-memoria-sd-3307573.jpg?tf=1200x' alt='Cómo leer y entender las pegatinas y logos de una tarjeta de memoria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743'>Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5</a></h4>
     <a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-diferencia-sdram-ddr-ddr2-ddr3-ddr4-ddr5-3307407.jpg?tf=1200x' alt='Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-1384121'>SpaceX presenta el traje espacial que usarán los astronautas para explorar la Luna</a></h4>
-    <a href='https://computerhoy.com/espacio/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-1384121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-3308039.jpg?tf=1200x' alt='SpaceX presenta el traje espacial que usarán los astronautas para explorar la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-completa-todo-barata-teclast-p40hd-baja-menos-100-euros-1383847'>Una tablet completa y sobre todo barata: la Teclast P40HD baja a menos de 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-completa-todo-barata-teclast-p40hd-baja-menos-100-euros-1383847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclast-p40hd-3307599.jpg?tf=1200x' alt='Una tablet completa y sobre todo barata: la Teclast P40HD baja a menos de 100 euros' />
     </a>
 </div>
 
