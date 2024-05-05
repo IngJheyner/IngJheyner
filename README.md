@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153'>Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguridad-google-play-3302191.jpg?tf=1200x' alt='Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144'>Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828'>Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazfit-t-rex-pro-3307540.jpg?tf=1200x' alt='Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523'>Cómo ver la contraseña del WiFi en un iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-contrasena-wifi-iphone-1376523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/contrasena-wifi-iphone-3294718.jpg?tf=1200x' alt='Cómo ver la contraseña del WiFi en un iPhone' />
     </a>
 </div>
 
