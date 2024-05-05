@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208'>El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-cheyenne-subastado-ya-tiene-comprador-lleva-casi-gratis-pero-costara-arrancarlo-3308205.jpg?tf=1200x' alt='El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172'>El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153'>Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguridad-google-play-3302191.jpg?tf=1200x' alt='Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144'>Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-lanza-chrome-os-124-pantalla-dividida-rapida-priorizacion-wifi-mucho-1384144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/chrome-os-2918344.jpg?tf=1200x' alt='Google lanza Chrome OS 124: pantalla dividida más rápida, priorización de WiFi y mucho más' />
     </a>
 </div>
 
