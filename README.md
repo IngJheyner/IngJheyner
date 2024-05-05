@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135'>WhatsApp para Windows 11 se actualiza con todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-windows-11-actualiza-todas-estas-novedades-1384135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-windows-11-3308062.jpg?tf=1200x' alt='WhatsApp para Windows 11 se actualiza con todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828'>Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/resistente-casi-todo-amazfit-t-rex-pro-revienta-precio-aliexpress-1383828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazfit-t-rex-pro-3307540.jpg?tf=1200x' alt='Resistente a casi todo, el Amazfit T-Rex Pro revienta su precio en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129'>Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-empieza-enviar-alertas-falsas-usuarios-debes-evitarlas-1384129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-notificaciones-3308048.jpg?tf=1200x' alt='Android Auto empieza a enviar alertas falsas a los usuarios y debes evitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752'>FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-1383752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fat-exfat-ntfs-apfs-ext4-resolvemos-todos-misterios-sistemas-archivos-3307418.jpg?tf=1200x' alt='FAT, exFAT, NTFS, APFS o Ext4: resolvemos todos los misterios de los sistemas de archivos' />
     </a>
 </div>
 
