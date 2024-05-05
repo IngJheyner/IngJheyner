@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/oculta-ip-tiene-antivirus-integrado-vpn-cuesta-269-euros-mejores-sector-1383807'>Oculta tu IP y tiene antivirus integrado: esta VPN cuesta 2,69 euros y es de las mejores del sector</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oculta-ip-tiene-antivirus-integrado-vpn-cuesta-269-euros-mejores-sector-1383807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3307493.jpg?tf=1200x' alt='Oculta tu IP y tiene antivirus integrado: esta VPN cuesta 2,69 euros y es de las mejores del sector' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119'>El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-video-musical-creado-sora-ia-open-ai-abre-muchos-interrogantes-3308035.jpg?tf=1200x' alt='El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101'>Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA</a></h4>
     <a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000'>Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato</a></h4>
-    <a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/8bitdo-mechanical-3307880.jpg?tf=1200x' alt='Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato' />
     </a>
 </div>
 
