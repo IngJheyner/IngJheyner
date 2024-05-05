@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119'>El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-video-musical-creado-sora-ia-open-ai-abre-muchos-interrogantes-3308035.jpg?tf=1200x' alt='El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112'>Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-3308021.jpg?tf=1200x' alt='Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000'>Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato</a></h4>
     <a href='https://computerhoy.com/pc/regreso-futuro-teclado-retro-8bitdo-mecanico-inspira-nes-muy-barato-1384000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/8bitdo-mechanical-3307880.jpg?tf=1200x' alt='Regreso al futuro: este teclado retro de 8Bitdo es mecánico, se inspira en la NES y es muy barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082'>Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/ya-puedes-reaccionar-rapido-imagenes-videos-whatsapp-1384082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/emoji-respuesta-2449049.jpg?tf=1200x' alt='Ya puedes reaccionar rápido a las imágenes y vídeos de WhatsApp' />
     </a>
 </div>
 
