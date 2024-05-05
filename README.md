@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oculta-ip-tiene-antivirus-integrado-vpn-cuesta-269-euros-mejores-sector-1383807'>Oculta tu IP y tiene antivirus integrado: esta VPN cuesta 2,69 euros y es de las mejores del sector</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oculta-ip-tiene-antivirus-integrado-vpn-cuesta-269-euros-mejores-sector-1383807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3307493.jpg?tf=1200x' alt='Oculta tu IP y tiene antivirus integrado: esta VPN cuesta 2,69 euros y es de las mejores del sector' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-saber-cable-hdmi-tengo-cuales-son-limitaciones-1383657'>Cómo saber qué cable HDMI tengo y cuáles son sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-saber-cable-hdmi-tengo-cuales-son-limitaciones-1383657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/smart-tv-hdmi-3307565.jpg?tf=1200x' alt='Cómo saber qué cable HDMI tengo y cuáles son sus limitaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119'>El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-video-musical-creado-sora-ia-openai-1384119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-video-musical-creado-sora-ia-open-ai-abre-muchos-interrogantes-3308035.jpg?tf=1200x' alt='El primer vídeo musical creado por Sora, la IA de OpenAI, abre muchos interrogantes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/protegerte-flipper-zero-ataque-1330258'>Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protegerte-flipper-zero-ataque-1330258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112'>Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-1384112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-quiere-te-vuelvas-viral-redes-sociales-gracias-nueva-tecnologia-3308021.jpg?tf=1200x' alt='Microsoft quiere que te vuelvas viral en redes sociales gracias a su nueva tecnología' />
+    <h4><a href='https://computerhoy.com/tecnologia/collar-biometrico-perros-podria-ayudar-predecir-terremotos-1384105'>Este collar biométrico para perros podría ayudar a predecir terremotos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/collar-biometrico-perros-podria-ayudar-predecir-terremotos-1384105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/collar-biometrico-perros-podria-ayudar-predecir-terremotos-3308007.jpg?tf=1200x' alt='Este collar biométrico para perros podría ayudar a predecir terremotos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111'>Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-1384111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-vuelve-ofrecer-ventanas-emergentes-pantalla-completa-te-instales-edge-bing-3308019.jpg?tf=1200x' alt='Windows 11 vuelve a ofrecer ventanas emergentes a pantalla completa para que te instales Edge y Bing' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/juice-jacking-deberias-pensarte-dos-veces-donde-cargas-movil-1377958'>¿Qué es juice 'jacking' y por qué deberías pensarte dos veces dónde cargas tu móvil?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/juice-jacking-deberias-pensarte-dos-veces-donde-cargas-movil-1377958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714475962769-3306454.jpg?tf=1200x' alt='¿Qué es juice 'jacking' y por qué deberías pensarte dos veces dónde cargas tu móvil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101'>Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/apple/nueva-funcion-ios-18-podria-hacer-iphone-resuma-textos-largos-gracias-ia-1384101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apple-inteligencia-artificial-iphone-3302674.jpg?tf=1200x' alt='Esta nueva función para iOS 18 podría hacer que el iPhone resuma textos largos gracias a la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-hacer-deporte-15-anos-correr-primeros-10k-dispositivos-me-ayudaron-conseguirlo-1382797'>De no hacer deporte en 15 años a correr mis primeros 10K: los dispositivos que me ayudaron a conseguirlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-hacer-deporte-15-anos-correr-primeros-10k-dispositivos-me-ayudaron-conseguirlo-1382797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ana-munoz-10k-3306377.jpg?tf=1200x' alt='De no hacer deporte en 15 años a correr mis primeros 10K: los dispositivos que me ayudaron a conseguirlo' />
     </a>
 </div>
 
