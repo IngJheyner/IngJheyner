@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215'>AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar</a></h4>
+    <a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acemagic-m2a-starship-pc-forma-x-wing-ya-puedes-comprar-3308211.jpg?tf=1200x' alt='AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208'>El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-cheyenne-subastado-ya-tiene-comprador-lleva-casi-gratis-pero-costara-arrancarlo-3308205.jpg?tf=1200x' alt='El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162'>Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-1384162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Google crea una inteligencia artificial capaz de predecir futuras catástrofes climáticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153'>Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-bloqueo-2-millones-aplicaciones-peligrosas-play-store-2023-1384153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/seguridad-google-play-3302191.jpg?tf=1200x' alt='Google bloqueó más de 2 millones de aplicaciones peligrosas en la Play Store en 2023' />
     </a>
 </div>
 
