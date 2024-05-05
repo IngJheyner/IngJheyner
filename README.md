@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-saber-cable-hdmi-tengo-cuales-son-limitaciones-1383657'>Cómo saber qué cable HDMI tengo y cuáles son sus limitaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-saber-cable-hdmi-tengo-cuales-son-limitaciones-1383657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/smart-tv-hdmi-3307565.jpg?tf=1200x' alt='Cómo saber qué cable HDMI tengo y cuáles son sus limitaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246'>Cómo leer y entender las pegatinas y logos de una tarjeta de memoria</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-leer-entender-pegatinas-logos-tarjeta-memoria-1383246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjeta-memoria-sd-3307573.jpg?tf=1200x' alt='Cómo leer y entender las pegatinas y logos de una tarjeta de memoria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protegerte-flipper-zero-ataque-1330258'>Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protegerte-flipper-zero-ataque-1330258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Solo hay una forma de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar ' />
+    <h4><a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-desaprovechados-1251216'>Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando</a></h4>
+    <a href='https://computerhoy.com/tv/usos-geniales-puertos-usb-smart-tv-desaprovechados-1251216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/philips-oled-807-analisis-opinion-2861105.jpg?tf=1200x' alt='Usos geniales de los puertos USB de tu Smart TV que quizá no estés aprovechando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/collar-biometrico-perros-podria-ayudar-predecir-terremotos-1384105'>Este collar biométrico para perros podría ayudar a predecir terremotos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/collar-biometrico-perros-podria-ayudar-predecir-terremotos-1384105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/collar-biometrico-perros-podria-ayudar-predecir-terremotos-3308007.jpg?tf=1200x' alt='Este collar biométrico para perros podría ayudar a predecir terremotos' />
+    <h4><a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743'>Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5</a></h4>
+    <a href='https://computerhoy.com/pc/diferencia-memoria-sdram-ddr-ddr2-ddr3-ddr4-ddr5-1383743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-diferencia-sdram-ddr-ddr2-ddr3-ddr4-ddr5-3307407.jpg?tf=1200x' alt='Cuál es la diferencia entre memoria SDRAM, DDR, DDR2, DDR3, DDR4 y DDR5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/juice-jacking-deberias-pensarte-dos-veces-donde-cargas-movil-1377958'>¿Qué es juice 'jacking' y por qué deberías pensarte dos veces dónde cargas tu móvil?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/juice-jacking-deberias-pensarte-dos-veces-donde-cargas-movil-1377958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714475962769-3306454.jpg?tf=1200x' alt='¿Qué es juice 'jacking' y por qué deberías pensarte dos veces dónde cargas tu móvil?' />
+    <h4><a href='https://computerhoy.com/espacio/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-1384121'>SpaceX presenta el traje espacial que usarán los astronautas para explorar la Luna</a></h4>
+    <a href='https://computerhoy.com/espacio/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-1384121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spacex-presenta-traje-espacial-usaran-astronautas-explorar-luna-3308039.jpg?tf=1200x' alt='SpaceX presenta el traje espacial que usarán los astronautas para explorar la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-hacer-deporte-15-anos-correr-primeros-10k-dispositivos-me-ayudaron-conseguirlo-1382797'>De no hacer deporte en 15 años a correr mis primeros 10K: los dispositivos que me ayudaron a conseguirlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-hacer-deporte-15-anos-correr-primeros-10k-dispositivos-me-ayudaron-conseguirlo-1382797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ana-munoz-10k-3306377.jpg?tf=1200x' alt='De no hacer deporte en 15 años a correr mis primeros 10K: los dispositivos que me ayudaron a conseguirlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-completa-todo-barata-teclast-p40hd-baja-menos-100-euros-1383847'>Una tablet completa y sobre todo barata: la Teclast P40HD baja a menos de 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-completa-todo-barata-teclast-p40hd-baja-menos-100-euros-1383847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclast-p40hd-3307599.jpg?tf=1200x' alt='Una tablet completa y sobre todo barata: la Teclast P40HD baja a menos de 100 euros' />
     </a>
 </div>
 
