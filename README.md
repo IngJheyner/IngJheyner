@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518'>Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallece-robert-dennard-inventor-memoria-dram-91-anos-3308691.jpg?tf=1200x' alt='Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493'>Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470'>Movistar Plus+ se prepara para la llegada de 16 nuevos canales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-plus-3058776.jpg?tf=1200x' alt='Movistar Plus+ se prepara para la llegada de 16 nuevos canales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-boton-reproduccion-aleatoria-netflix-1384367'>Cómo recuperar el botón de reproducción aleatoria en Netflix</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-boton-reproduccion-aleatoria-netflix-1384367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/boton-aleatorio-netflix-3308535.jpg?tf=1200x' alt='Cómo recuperar el botón de reproducción aleatoria en Netflix' />
     </a>
 </div>
 
