@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pon-chatgpt-excel-word-oferta-microsoft-pack-365-precio-ganga-copilot-incluido-1384243'>Pon ChatGPT en tus Excel y Word con esta oferta de Microsoft: su pack 365 a precio de ganga ¡y con Copilot incluido! </a></h4>
+    <a href='https://computerhoy.com/tecnologia/pon-chatgpt-excel-word-oferta-microsoft-pack-365-precio-ganga-copilot-incluido-1384243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Pon ChatGPT en tus Excel y Word con esta oferta de Microsoft: su pack 365 a precio de ganga ¡y con Copilot incluido! ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122'>Estos son los impuestos que pagas cuando compras un producto tecnológico en España</a></h4>
     <a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Estos son los impuestos que pagas cuando compras un producto tecnológico en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227'>La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada</a></h4>
-    <a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada' />
     </a>
 </div>
 
