@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318'>China ha creado la primera batería de agua con el doble de capacidad que las de litio</a></h4>
+    <a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-3308409.jpg?tf=1200x' alt='China ha creado la primera batería de agua con el doble de capacidad que las de litio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303'>Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026</a></h4>
+    <a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/presentan-japon-dispositivo-6g-20-veces-rapido-5g-actual-1384292'>Presentan en Japón un dispositivo 6G hasta 20 veces más rápido que el 5G actual</a></h4>
+    <a href='https://computerhoy.com/redes/presentan-japon-dispositivo-6g-20-veces-rapido-5g-actual-1384292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/japon-ha-presentado-dispositivo-6g-20-veces-rapido-5g-actual-3308347.jpg?tf=1200x' alt='Presentan en Japón un dispositivo 6G hasta 20 veces más rápido que el 5G actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/xiaomi-gama-media-tiene-alma-gama-alta-cuesta-solo-300-euros-1384246'>Este Xiaomi de gama media tiene alma de gama alta, y cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/android/xiaomi-gama-media-tiene-alma-gama-alta-cuesta-solo-300-euros-1384246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-5g-primeras-impresiones-3260431.jpg?tf=1200x' alt='Este Xiaomi de gama media tiene alma de gama alta, y cuesta menos de 300 euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/atx-30-deberias-conocerlo-antes-cambiar-pc-1384276'>¿Qué es ATX 3.0 y por qué deberías conocerlo antes de cambiar tu PC? </a></h4>
     <a href='https://computerhoy.com/pc/atx-30-deberias-conocerlo-antes-cambiar-pc-1384276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y por qué deberías conocerlo antes de cambiar tu PC? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/superordenador-predice-motivo-extinguira-humanidad-cuando-1384261'>Un superordenador predice el motivo por el que se extinguirá la humanidad y cuándo</a></h4>
-    <a href='https://computerhoy.com/espacio/superordenador-predice-motivo-extinguira-humanidad-cuando-1384261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-predice-motivo-extinguira-humanidad-cuando-3308282.jpg?tf=1200x' alt='Un superordenador predice el motivo por el que se extinguirá la humanidad y cuándo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267'>Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peliculas-series-gratis-3308324.jpg?tf=1200x' alt='Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254'>La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-combo-3209922.jpg?tf=1200x' alt='La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento' />
     </a>
 </div>
 
