@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233'>YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo</a></h4>
+    <a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-estrena-nueva-funcion-ia-te-puede-ahorrar-mucho-tiempo-3308233.jpg?tf=1200x' alt='YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estos-cascos-cuestan-solo-10eu-cinco-colores-son-lenovo-aliexpress-estan-arrasando-1378111'>Estos cascos cuestan solo 10€ en cinco colores, y son de Lenovo: en AliExpress están arrasando </a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-cascos-cuestan-solo-10eu-cinco-colores-son-lenovo-aliexpress-estan-arrasando-1378111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-lp40-pro-3297195.jpg?tf=1200x' alt='Estos cascos cuestan solo 10€ en cinco colores, y son de Lenovo: en AliExpress están arrasando ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227'>La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215'>AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar</a></h4>
     <a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acemagic-m2a-starship-pc-forma-x-wing-ya-puedes-comprar-3308211.jpg?tf=1200x' alt='AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208'>El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/superordenador-cheyenne-subastado-ya-tiene-comprador-1384208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-cheyenne-subastado-ya-tiene-comprador-lleva-casi-gratis-pero-costara-arrancarlo-3308205.jpg?tf=1200x' alt='El superordenador Cheyenne subastado ya tiene comprador, se lo lleva casi gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172'>El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros' />
     </a>
 </div>
 
