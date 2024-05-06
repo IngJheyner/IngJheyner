@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990'>Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-3307863.jpg?tf=1200x' alt='Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345'>Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-grave-windows-10-windows-11-3308451.jpg?tf=1200x' alt='Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318'>China ha creado la primera batería de agua con el doble de capacidad que las de litio</a></h4>
     <a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-3308409.jpg?tf=1200x' alt='China ha creado la primera batería de agua con el doble de capacidad que las de litio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303'>Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026</a></h4>
-    <a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026' />
     </a>
 </div>
 
