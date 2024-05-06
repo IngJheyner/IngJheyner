@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354'>Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años</a></h4>
+    <a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-tipografia-creian-habia-perdido-hace-100-anos-3308470.jpg?tf=1200x' alt='Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990'>Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores</a></h4>
     <a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-3307863.jpg?tf=1200x' alt='Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/secreto-fisica-cuantica-esconde-como-funcionan-maquinas-vapor-1384331'>El secreto de la física cuántica, ¿se esconde en cómo funcionan las máquinas a vapor?</a></h4>
     <a href='https://computerhoy.com/ciencia/secreto-fisica-cuantica-esconde-como-funcionan-maquinas-vapor-1384331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/maquina-vapor-fisica-cuantica-3308450.jpg?tf=1200x' alt='El secreto de la física cuántica, ¿se esconde en cómo funcionan las máquinas a vapor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318'>China ha creado la primera batería de agua con el doble de capacidad que las de litio</a></h4>
-    <a href='https://computerhoy.com/energia/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-1384318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-3308409.jpg?tf=1200x' alt='China ha creado la primera batería de agua con el doble de capacidad que las de litio' />
     </a>
 </div>
 
