@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472'>Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-creador-chatgpt-era-teletrabajo-ha-terminado-ha-sido-error-1384339'>Sam Altman, creador de ChatGPT: “La era del teletrabajo se ha terminado, ha sido un error”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-creador-chatgpt-era-teletrabajo-ha-terminado-ha-sido-error-1384339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Sam Altman, creador de ChatGPT: “La era del teletrabajo se ha terminado, ha sido un error”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470'>Movistar Plus+ se prepara para la llegada de 16 nuevos canales</a></h4>
     <a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-plus-3058776.jpg?tf=1200x' alt='Movistar Plus+ se prepara para la llegada de 16 nuevos canales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419'>Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano</a></h4>
     <a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/altavoz-tronsmart-3308570.jpg?tf=1200x' alt='Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-gddr6-gddr6x-gddr7-son-sirven-1383992'>Diferencias entre GDDR6, GDDR6X y GDDR7: qué son y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-gddr6-gddr6x-gddr7-son-sirven-1383992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/diferencias-gddr6-gddr6x-gddr7-son-sirven-3307870.jpg?tf=1200x' alt='Diferencias entre GDDR6, GDDR6X y GDDR7: qué son y para qué sirven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354'>Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años</a></h4>
-    <a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-tipografia-creian-habia-perdido-hace-100-anos-3308470.jpg?tf=1200x' alt='Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años' />
     </a>
 </div>
 
