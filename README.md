@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419'>Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano</a></h4>
+    <a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/altavoz-tronsmart-3308570.jpg?tf=1200x' alt='Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/diferencias-gddr6-gddr6x-gddr7-son-sirven-1383992'>Diferencias entre GDDR6, GDDR6X y GDDR7: qué son y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/pc/diferencias-gddr6-gddr6x-gddr7-son-sirven-1383992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/diferencias-gddr6-gddr6x-gddr7-son-sirven-3307870.jpg?tf=1200x' alt='Diferencias entre GDDR6, GDDR6X y GDDR7: qué son y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354'>Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años</a></h4>
     <a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-tipografia-creian-habia-perdido-hace-100-anos-3308470.jpg?tf=1200x' alt='Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345'>Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-grave-windows-10-windows-11-3308451.jpg?tf=1200x' alt='Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciona-nuevo-escudo-antiestafas-windows-microsoft-tiene-manos-1384356'>Así funciona el nuevo escudo antiestafas de Windows que Microsoft tiene entre manos</a></h4>
-    <a href='https://computerhoy.com/windows/funciona-nuevo-escudo-antiestafas-windows-microsoft-tiene-manos-1384356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Así funciona el nuevo escudo antiestafas de Windows que Microsoft tiene entre manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/secreto-fisica-cuantica-esconde-como-funcionan-maquinas-vapor-1384331'>El secreto de la física cuántica, ¿se esconde en cómo funcionan las máquinas a vapor?</a></h4>
-    <a href='https://computerhoy.com/ciencia/secreto-fisica-cuantica-esconde-como-funcionan-maquinas-vapor-1384331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/maquina-vapor-fisica-cuantica-3308450.jpg?tf=1200x' alt='El secreto de la física cuántica, ¿se esconde en cómo funcionan las máquinas a vapor?' />
     </a>
 </div>
 
