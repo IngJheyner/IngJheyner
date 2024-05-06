@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección falsa</a></h4>
+    <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada</a></h4>
     <a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección falsa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada' />
     </a>
 </div>
 
