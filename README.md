@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122'>Estos son los impuestos que pagas cuando compras un producto tecnológico en España</a></h4>
+    <a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Estos son los impuestos que pagas cuando compras un producto tecnológico en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233'>YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo</a></h4>
     <a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-estrena-nueva-funcion-ia-te-puede-ahorrar-mucho-tiempo-3308233.jpg?tf=1200x' alt='YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada</a></h4>
     <a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215'>AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar</a></h4>
-    <a href='https://computerhoy.com/pc/acemagic-m2a-starship-mini-pc-forma-x-wing-1384215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acemagic-m2a-starship-pc-forma-x-wing-ya-puedes-comprar-3308211.jpg?tf=1200x' alt='AceMagic M2A StarShip, el mini PC con forma de X-Wing que ya puedes comprar' />
     </a>
 </div>
 
