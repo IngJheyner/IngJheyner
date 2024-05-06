@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267'>Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peliculas-series-gratis-3308324.jpg?tf=1200x' alt='Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254'>La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-combo-3209922.jpg?tf=1200x' alt='La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122'>Estos son los impuestos que pagas cuando compras un producto tecnológico en España</a></h4>
     <a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Estos son los impuestos que pagas cuando compras un producto tecnológico en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233'>YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo</a></h4>
-    <a href='https://computerhoy.com/google/youtube-estrena-nueva-funcion-ia-saltar-adelante-1384233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-estrena-nueva-funcion-ia-te-puede-ahorrar-mucho-tiempo-3308233.jpg?tf=1200x' alt='YouTube estrena una nueva función IA que te puede ahorrar mucho tiempo' />
     </a>
 </div>
 
