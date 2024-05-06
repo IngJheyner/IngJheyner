@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470'>Movistar Plus+ se prepara para la llegada de 16 nuevos canales</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-plus-3058776.jpg?tf=1200x' alt='Movistar Plus+ se prepara para la llegada de 16 nuevos canales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-boton-reproduccion-aleatoria-netflix-1384367'>Cómo recuperar el botón de reproducción aleatoria en Netflix</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-boton-reproduccion-aleatoria-netflix-1384367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/boton-aleatorio-netflix-3308535.jpg?tf=1200x' alt='Cómo recuperar el botón de reproducción aleatoria en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419'>Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano</a></h4>
     <a href='https://computerhoy.com/audio/musica-40w-conexion-nfc-altavoz-bluetooth-perfecto-barato-verano-1384419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/altavoz-tronsmart-3308570.jpg?tf=1200x' alt='Música a 40W y conexión NFC: este altavoz bluetooth es perfecto (y barato) para el verano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354'>Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años</a></h4>
     <a href='https://computerhoy.com/life/encuentran-tipografia-fondo-rio-tamesis-pensaba-perdida-hace-100-anos-1384354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-tipografia-creian-habia-perdido-hace-100-anos-3308470.jpg?tf=1200x' alt='Encuentran una tipografía en el fondo del río Támesis que se pensaba perdida hace 100 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990'>Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-1383990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-3307863.jpg?tf=1200x' alt='Qué puedes hacer cuando el disco SSD se llena y empieza a dar errores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345'>Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-grave-windows-10-windows-11-3308451.jpg?tf=1200x' alt='Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11' />
     </a>
 </div>
 
