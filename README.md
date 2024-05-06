@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-gama-media-tiene-alma-gama-alta-cuesta-solo-300-euros-1384246'>Este Xiaomi de gama media tiene alma de gama alta, y cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-gama-media-tiene-alma-gama-alta-cuesta-solo-300-euros-1384246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-note-13-pro-5g-primeras-impresiones-3260431.jpg?tf=1200x' alt='Este Xiaomi de gama media tiene alma de gama alta, y cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/atx-30-deberias-conocerlo-antes-cambiar-pc-1384276'>¿Qué es ATX 3.0 y por qué deberías conocerlo antes de cambiar tu PC? </a></h4>
+    <a href='https://computerhoy.com/pc/atx-30-deberias-conocerlo-antes-cambiar-pc-1384276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-dentro-3308352.jpg?tf=1200x' alt='¿Qué es ATX 3.0 y por qué deberías conocerlo antes de cambiar tu PC? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/superordenador-predice-motivo-extinguira-humanidad-cuando-1384261'>Un superordenador predice el motivo por el que se extinguirá la humanidad y cuándo</a></h4>
+    <a href='https://computerhoy.com/espacio/superordenador-predice-motivo-extinguira-humanidad-cuando-1384261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-predice-motivo-extinguira-humanidad-cuando-3308282.jpg?tf=1200x' alt='Un superordenador predice el motivo por el que se extinguirá la humanidad y cuándo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267'>Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-ver-12000-peliculas-gratis-legal-app-carnet-biblioteca-1384267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peliculas-series-gratis-3308324.jpg?tf=1200x' alt='Cómo ver más de 12.000 películas gratis y legal con esta app y el carnet de la biblioteca' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254'>La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento</a></h4>
     <a href='https://computerhoy.com/tecnologia/roomba-aspira-friega-vacia-sola-hunde-precio-amazon-tiene-200-euros-descuento-1384254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/roomba-i8-combo-3209922.jpg?tf=1200x' alt='La Roomba que aspira, friega y se vacía sola hunde su precio en Amazon: tiene más de 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/adios-6-ghz-nuevo-procesador-top-intel-sorprende-velocidad-maxima-baja-1384265'>¿Adiós a los 6 GHz? El nuevo procesador top de Intel sorprende con una velocidad máxima más baja</a></h4>
-    <a href='https://computerhoy.com/tecnologia/adios-6-ghz-nuevo-procesador-top-intel-sorprende-velocidad-maxima-baja-1384265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/procesadores-intel-3283837.jpg?tf=1200x' alt='¿Adiós a los 6 GHz? El nuevo procesador top de Intel sorprende con una velocidad máxima más baja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pon-chatgpt-excel-word-oferta-microsoft-pack-365-precio-ganga-copilot-incluido-1384243'>Pon ChatGPT en tus Excel y Word con esta oferta de Microsoft: su pack 365 a precio de ganga ¡y con Copilot incluido! </a></h4>
-    <a href='https://computerhoy.com/tecnologia/pon-chatgpt-excel-word-oferta-microsoft-pack-365-precio-ganga-copilot-incluido-1384243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-365-3308242.jpg?tf=1200x' alt='Pon ChatGPT en tus Excel y Word con esta oferta de Microsoft: su pack 365 a precio de ganga ¡y con Copilot incluido! ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122'>Estos son los impuestos que pagas cuando compras un producto tecnológico en España</a></h4>
-    <a href='https://computerhoy.com/industria/impuestos-pagas-cuando-compras-producto-tecnologico-espana-1381122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Estos son los impuestos que pagas cuando compras un producto tecnológico en España' />
     </a>
 </div>
 
