@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227'>La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-exito-apple-vision-pro-1384227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/tim-cook-aparece-primera-vez-apple-vision-pro-puestas-sabia-llegariamos-aqui-3269255.jpg?tf=1200x' alt='La curiosa manera que tiene Tim Cook de convertir en un éxito las Apple Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222'>Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada</a></h4>
     <a href='https://computerhoy.com/criptos/pierde-65-millones-euros-enviar-bitcoins-direccion-falsa-1384222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pierde-70-millones-euros-enviar-bitcoins-direccion-equivocada-3308220.jpg?tf=1200x' alt='Pierde 65 millones de euros por enviar Bitcoins a una dirección envenenada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172'>El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/android/realme-12-pro-5g-rinde-como-gama-alta-ahora-hunde-precio-menos-300-euros-1384172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-pro-3308111.jpg?tf=1200x' alt='El realme 12 Pro 5G rinde como un gama alta y ahora hunde su precio a menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199'>Estos son los planes secretos de Apple con la IA, que desvelará en WWDC</a></h4>
-    <a href='https://computerhoy.com/apple/planes-secretos-apple-inteligencia-artificial-wwdc-1384199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-planes-secretos-apple-ia-desvelara-wwdc-3308165.jpg?tf=1200x' alt='Estos son los planes secretos de Apple con la IA, que desvelará en WWDC' />
     </a>
 </div>
 
