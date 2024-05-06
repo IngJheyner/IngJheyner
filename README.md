@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345'>Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-tira-toalla-no-solucionara-grave-error-windows-10-11-1384345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-grave-windows-10-windows-11-3308451.jpg?tf=1200x' alt='Microsoft tira la toalla y no solucionará este grave error en Windows 10 y 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/funciona-nuevo-escudo-antiestafas-windows-microsoft-tiene-manos-1384356'>Así funciona el nuevo escudo antiestafas de Windows que Microsoft tiene entre manos</a></h4>
     <a href='https://computerhoy.com/windows/funciona-nuevo-escudo-antiestafas-windows-microsoft-tiene-manos-1384356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Así funciona el nuevo escudo antiestafas de Windows que Microsoft tiene entre manos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303'>Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026</a></h4>
     <a href='https://computerhoy.com/apple/apple-listo-futuro-plegable-macbook-iphone-2025-2026-1384303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='Apple listo para un futuro plegable con un MacBook y iPhone para 2025 o 2026' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/presentan-japon-dispositivo-6g-20-veces-rapido-5g-actual-1384292'>Presentan en Japón un dispositivo 6G hasta 20 veces más rápido que el 5G actual</a></h4>
-    <a href='https://computerhoy.com/redes/presentan-japon-dispositivo-6g-20-veces-rapido-5g-actual-1384292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/japon-ha-presentado-dispositivo-6g-20-veces-rapido-5g-actual-3308347.jpg?tf=1200x' alt='Presentan en Japón un dispositivo 6G hasta 20 veces más rápido que el 5G actual' />
     </a>
 </div>
 
