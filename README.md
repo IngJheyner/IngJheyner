@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/nuevo-record-fusion-nuclear-energia-limpia-ilimitada-cada-vez-cerca-1384644'>Nuevo récord en la fusión nuclear: la energía limpia ilimitada cada vez más cerca</a></h4>
+    <a href='https://computerhoy.com/energia/nuevo-record-fusion-nuclear-energia-limpia-ilimitada-cada-vez-cerca-1384644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-record-reactor-nuclear-plasma-ha-estado-estable-durante-6-minutos-3308896.jpg?tf=1200x' alt='Nuevo récord en la fusión nuclear: la energía limpia ilimitada cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/disco-ram-ramdisk-ventajas-diferencias-ssd-como-crear-1383988'>Qué es un Disco RAM o RAMDISK: ventajas, diferencias con los SSD y cómo crear uno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/disco-ram-ramdisk-ventajas-diferencias-ssd-como-crear-1383988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disco-ram-ramdisk-ventajas-diferencias-ssd-como-crear-3307862.jpg?tf=1200x' alt='Qué es un Disco RAM o RAMDISK: ventajas, diferencias con los SSD y cómo crear uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-queda-catalogo-ipad-2024-preguntas-respuestas-1384771'>Cómo queda el catálogo de iPad en 2024: preguntas y respuestas</a></h4>
+    <a href='https://computerhoy.com/apple/como-queda-catalogo-ipad-2024-preguntas-respuestas-1384771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-air-2024-3309181.jpg?tf=1200x' alt='Cómo queda el catálogo de iPad en 2024: preguntas y respuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-space-edition-reloj-exclusivo-titanio-zafiro-1384680'>Huawei se aventura al espacio con el Watch 4 Pro Space Edition, un reloj exclusivo de titanio y zafiro</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-space-edition-reloj-exclusivo-titanio-zafiro-1384680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3309049.jpg?tf=1200x' alt='Huawei se aventura al espacio con el Watch 4 Pro Space Edition, un reloj exclusivo de titanio y zafiro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-watch-fit-3-analisis-opinion-1383082'>He probado el smartwatch Huawei Watch Fit 3 y creo que se convierte en una de las mejores opciones calidad-precio</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-watch-fit-3-analisis-opinion-1383082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3306230.jpg?tf=1200x' alt='He probado el smartwatch Huawei Watch Fit 3 y creo que se convierte en una de las mejores opciones calidad-precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pixel-8a-caracteristicas-precio-informacion-1382902'>Google Pixel 8a se presenta como el móvil económico totalmente centrado en la IA</a></h4>
-    <a href='https://computerhoy.com/google/google-pixel-8a-caracteristicas-precio-informacion-1382902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3307651.jpg?tf=1200x' alt='Google Pixel 8a se presenta como el móvil económico totalmente centrado en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-fit-3-nuevo-smartwatch-vida-sana-1382841'>Huawei lanza el nuevo smartwatch Watch Fit 3 con un nuevo diseño, centrado en el deporte y una vida activa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-watch-fit-3-nuevo-smartwatch-vida-sana-1382841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3305542.jpg?tf=1200x' alt='Huawei lanza el nuevo smartwatch Watch Fit 3 con un nuevo diseño, centrado en el deporte y una vida activa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-lanza-pixel-tablet-espana-499-euros-1384691'>Google lanza su Pixel Tablet en España por 499 euros</a></h4>
-    <a href='https://computerhoy.com/google/google-lanza-pixel-tablet-espana-499-euros-1384691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixel-tablet-3309013.jpg?tf=1200x' alt='Google lanza su Pixel Tablet en España por 499 euros' />
     </a>
 </div>
 
