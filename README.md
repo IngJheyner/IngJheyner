@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847'>El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad</a></h4>
+    <a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/secreto-nike-tim-cook-llevaba-pies-durante-presentacion-nuevos-ipad-3309276.jpg?tf=1200x' alt='El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821'>El último uso conocido de Flipper Zero es absolutamente aterrador</a></h4>
     <a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-3309277.jpg?tf=1200x' alt='El último uso conocido de Flipper Zero es absolutamente aterrador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-8-pro-3289970.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/conexion-usb-tipos-conectores-hay-principales-diferencias-1384458'>Conexión USB: qué tipos de conectores existen y sus principales diferencias</a></h4>
-    <a href='https://computerhoy.com/tecnologia/conexion-usb-tipos-conectores-hay-principales-diferencias-1384458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conexion-usb-tipos-conectores-existen-principales-diferencias-3308657.jpg?tf=1200x' alt='Conexión USB: qué tipos de conectores existen y sus principales diferencias' />
     </a>
 </div>
 
