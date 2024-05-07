@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carta-despido-tesla-envia-empleados-parece-escrita-ia-1384551'>La fría carta de despido que Tesla envía a sus empleados, parece escrita por una IA</a></h4>
-    <a href='https://computerhoy.com/motor/carta-despido-tesla-envia-empleados-parece-escrita-ia-1384551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-ceo-tesla-3138520.jpg?tf=1200x' alt='La fría carta de despido que Tesla envía a sus empleados, parece escrita por una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750'>SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción</a></h4>
     <a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/diferencias-ssd-hdd-3308588.jpg?tf=1200x' alt='SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263'>Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazfit-active-3247534.jpg?tf=1200x' alt='Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442'>Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
+    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
     </a>
 </div>
 
