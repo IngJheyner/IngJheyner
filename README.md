@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442'>Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
+    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-como-funciona-coches-compatibles-mejores-apps-3307872.jpg?tf=1200x' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511'>Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla</a></h4>
     <a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-luz-roja-parpadea-router-wifi-como-eliminarla-3308728.jpg?tf=1200x' alt='Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518'>Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallece-robert-dennard-inventor-memoria-dram-91-anos-3308691.jpg?tf=1200x' alt='Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años' />
     </a>
 </div>
 
