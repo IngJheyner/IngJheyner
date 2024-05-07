@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609'>¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ser-humano-corriendo-robot-3308879.jpg?tf=1200x' alt='¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365'>Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-watch-2-3308442.jpg?tf=1200x' alt='Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608'>No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-pin-rabbit-r1-3308862.jpg?tf=1200x' alt='No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/prepara-bolsillo-ia-dispara-precio-discos-duros-ssd-1384575'>Prepara el bolsillo, la IA dispara el precio de los discos duros y SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/prepara-bolsillo-ia-dispara-precio-discos-duros-ssd-1384575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/motivo-comprar-disco-duro-sera-cada-vez-caro-3308798.jpg?tf=1200x' alt='Prepara el bolsillo, la IA dispara el precio de los discos duros y SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-bateria-estado-solido-1382120'>Samsung ya tiene fecha para la comercialización de su primera batería en estado sólido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-bateria-estado-solido-1382120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-ha-puesto-fecha-comercializacion-primera-bateria-estado-solido-3304243.jpg?tf=1200x' alt='Samsung ya tiene fecha para la comercialización de su primera batería en estado sólido' />
     </a>
 </div>
 
