@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-pro-2024-pantalla-oled-toda-potencia-procesador-m4-1384636'>iPad Pro 2024: pantalla OLED, la potencia del procesador M4 y mucha IA</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-pro-2024-pantalla-oled-toda-potencia-procesador-m4-1384636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-2024-3309128.jpg?tf=1200x' alt='iPad Pro 2024: pantalla OLED, la potencia del procesador M4 y mucha IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-air-2024-caracteristicas-precio-fecha-lanzamiento-1384735'>Apple presenta el iPad Air 2024: por primera vez llega en dos tamaños y estará disponible en más colores que nunca</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-air-2024-caracteristicas-precio-fecha-lanzamiento-1384735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-air-2024-3309115.jpg?tf=1200x' alt='Apple presenta el iPad Air 2024: por primera vez llega en dos tamaños y estará disponible en más colores que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285'>¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?</a></h4>
     <a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estudiar-ia-3308897.jpg?tf=1200x' alt='¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos</a></h4>
     <a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/nuevo-material-construccion-puede-acabar-uso-yeso-siempre-1384679'>Este nuevo material de construcción puede acabar con uso del yeso para siempre</a></h4>
-    <a href='https://computerhoy.com/hogar/nuevo-material-construccion-puede-acabar-uso-yeso-siempre-1384679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-material-construccion-puede-acabar-yeso-siempre-3308965.jpg?tf=1200x' alt='Este nuevo material de construcción puede acabar con uso del yeso para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
     </a>
 </div>
 
