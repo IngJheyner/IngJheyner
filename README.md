@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-como-funciona-coches-compatibles-mejores-apps-3307872.jpg?tf=1200x' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532'>Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518'>Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallece-robert-dennard-inventor-memoria-dram-91-anos-3308691.jpg?tf=1200x' alt='Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493'>Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV' />
     </a>
 </div>
 
