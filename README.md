@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750'>SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/diferencias-ssd-hdd-3308588.jpg?tf=1200x' alt='SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción' />
+    <h4><a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565'>Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato</a></h4>
+    <a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-cx34-3308794.jpg?tf=1200x' alt='Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/valor-esconde-iris-resto-datos-personales-1381274'>No dejes que roben tu mirada: el valor que esconde tu iris (y el resto de datos personales)</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/valor-esconde-iris-resto-datos-personales-1381274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iris-dinero-3306217.jpg?tf=1200x' alt='No dejes que roben tu mirada: el valor que esconde tu iris (y el resto de datos personales)' />
+    <h4><a href='https://computerhoy.com/tutoriales/configuracion-acelerar-google-chrome-1381986'>Esta es mi configuración secreta para acelerar Google Chrome al máximo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/configuracion-acelerar-google-chrome-1381986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Esta es mi configuración secreta para acelerar Google Chrome al máximo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-no-funciona-ordenadores-antiguos-1381852'>Windows 11 ha dejado de funcionar en ordenadores con CPUs antiguas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-no-funciona-ordenadores-antiguos-1381852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Windows 11 ha dejado de funcionar en ordenadores con CPUs antiguas' />
+    <h4><a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577'>Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga</a></h4>
+    <a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-ciberseguridad-3308802.jpg?tf=1200x' alt='Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263'>Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazfit-active-3247534.jpg?tf=1200x' alt='Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros' />
+    <h4><a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-bloqueo-cuenta-1382073'>¿Existen las palabras prohibidas en WhatsApp? ¿Te pueden bloquear la cuenta por usarlas?</a></h4>
+    <a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-bloqueo-cuenta-1382073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/palabras-prohibidas-whatsapp-3308611.jpg?tf=1200x' alt='¿Existen las palabras prohibidas en WhatsApp? ¿Te pueden bloquear la cuenta por usarlas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442'>Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
-    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-baratas-tiene-control-parental-gratis-cuesta-poco-1-euros-mes-1384289'>Esta VPN es de las más baratas y tiene control parental gratis: cuesta poco más de 1 euros al mes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-baratas-tiene-control-parental-gratis-cuesta-poco-1-euros-mes-1384289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Esta VPN es de las más baratas y tiene control parental gratis: cuesta poco más de 1 euros al mes' />
     </a>
 </div>
 
