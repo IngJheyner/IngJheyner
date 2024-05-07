@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442'>Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor</a></h4>
-    <a href='https://computerhoy.com/motor/alarga-vida-coche-pero-te-estas-cargando-motor-1251442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/limite-velocidad-2338521.jpg?tf=1200x' alt='Piensas que conducir así alarga la vida del coche, pero en realidad te estás cargando el motor' />
+    <h4><a href='https://computerhoy.com/motor/carta-despido-tesla-envia-empleados-parece-escrita-ia-1384551'>La fría carta de despido que Tesla envía a sus empleados, parece escrita por una IA</a></h4>
+    <a href='https://computerhoy.com/motor/carta-despido-tesla-envia-empleados-parece-escrita-ia-1384551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-ceo-tesla-3138520.jpg?tf=1200x' alt='La fría carta de despido que Tesla envía a sus empleados, parece escrita por una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-como-funciona-coches-compatibles-mejores-apps-3307872.jpg?tf=1200x' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
+    <h4><a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750'>SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-hdd-almacenamiento-datos-diferencias-cual-mejor-opcion-1383750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/diferencias-ssd-hdd-3308588.jpg?tf=1200x' alt='SSD o HDD para almacenamiento de datos: diferencias y cuál es la mejor opción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532'>Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/valor-esconde-iris-resto-datos-personales-1381274'>No dejes que roben tu mirada: el valor que esconde tu iris (y el resto de datos personales)</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/valor-esconde-iris-resto-datos-personales-1381274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/iris-dinero-3306217.jpg?tf=1200x' alt='No dejes que roben tu mirada: el valor que esconde tu iris (y el resto de datos personales)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536'>El navegador Microsoft Edge estrena una Prueba de velocidad de Internet</a></h4>
-    <a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-microsoft-edge-estrena-medidor-velocidad-conexion-internet-3308706.jpg?tf=1200x' alt='El navegador Microsoft Edge estrena una Prueba de velocidad de Internet' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-no-funciona-ordenadores-antiguos-1381852'>Windows 11 ha dejado de funcionar en ordenadores con CPUs antiguas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-no-funciona-ordenadores-antiguos-1381852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/pesadilla-windows-11-3300095.jpg?tf=1200x' alt='Windows 11 ha dejado de funcionar en ordenadores con CPUs antiguas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511'>Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-luz-roja-parpadea-router-wifi-como-eliminarla-3308728.jpg?tf=1200x' alt='Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla' />
+    <h4><a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263'>Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/relojes-deportivos-favoritos-cae-precio-amazfit-parece-apple-watch-apenas-supera-100-euros-1384263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazfit-active-3247534.jpg?tf=1200x' alt='Uno de nuestros relojes deportivos favoritos cae de precio: es de Amazfit, se parece al Apple Watch y apenas supera los 100 euros' />
     </a>
 </div>
 
