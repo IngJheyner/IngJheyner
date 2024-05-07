@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/xiaomi-moviles-cuerda-floja-20-vulnerabilidades-apps-muy-usadas-1384581'>Xiaomi y sus móviles en la cuerda floja: 20 vulnerabilidades en apps muy usadas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/xiaomi-moviles-cuerda-floja-20-vulnerabilidades-apps-muy-usadas-1384581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-moviles-ciberseguridad-3308843.jpg?tf=1200x' alt='Xiaomi y sus móviles en la cuerda floja: 20 vulnerabilidades en apps muy usadas' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365'>Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-watch-2-3308442.jpg?tf=1200x' alt='Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/zte-nubia-music-movil-estetica-90-enfocado-musica-1384584'>ZTE Nubia Music, el móvil con estética de los 90 y un enorme altavoz en forma de vinilo</a></h4>
-    <a href='https://computerhoy.com/moviles/zte-nubia-music-movil-estetica-90-enfocado-musica-1384584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/zte-nubia-music-movil-estetica-90-enorme-altavoz-forma-vinilo-3308791.jpg?tf=1200x' alt='ZTE Nubia Music, el móvil con estética de los 90 y un enorme altavoz en forma de vinilo' />
+    <h4><a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444'>La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros</a></h4>
+    <a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alarma-lidl-3308618.jpg?tf=1200x' alt='La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565'>Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato</a></h4>
-    <a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-cx34-3308794.jpg?tf=1200x' alt='Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608'>No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-pin-rabbit-r1-3308862.jpg?tf=1200x' alt='No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/configuracion-acelerar-google-chrome-1381986'>Esta es mi configuración secreta para acelerar Google Chrome al máximo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/configuracion-acelerar-google-chrome-1381986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Esta es mi configuración secreta para acelerar Google Chrome al máximo' />
+    <h4><a href='https://computerhoy.com/tecnologia/prepara-bolsillo-ia-dispara-precio-discos-duros-ssd-1384575'>Prepara el bolsillo, la IA dispara el precio de los discos duros y SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/prepara-bolsillo-ia-dispara-precio-discos-duros-ssd-1384575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/motivo-comprar-disco-duro-sera-cada-vez-caro-3308798.jpg?tf=1200x' alt='Prepara el bolsillo, la IA dispara el precio de los discos duros y SSD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577'>Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga</a></h4>
-    <a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-ciberseguridad-3308802.jpg?tf=1200x' alt='Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-bateria-estado-solido-1382120'>Samsung ya tiene fecha para la comercialización de su primera batería en estado sólido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-bateria-estado-solido-1382120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/samsung-ha-puesto-fecha-comercializacion-primera-bateria-estado-solido-3304243.jpg?tf=1200x' alt='Samsung ya tiene fecha para la comercialización de su primera batería en estado sólido' />
     </a>
 </div>
 
