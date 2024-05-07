@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834'>Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hi-fi-rush-3006704.jpg?tf=1200x' alt='Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-matebook-x-pro-2024-portatil-ultraligero-caracteristicas-precios-1384833'>Huawei trae a España MateBook X Pro 2024, uno de los portátiles más ligeros y potentes del momento</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-matebook-x-pro-2024-portatil-ultraligero-caracteristicas-precios-1384833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-3309262.jpg?tf=1200x' alt='Huawei trae a España MateBook X Pro 2024, uno de los portátiles más ligeros y potentes del momento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/pasa-cuando-metes-dedo-maletero-tesla-cybertruck-1384754'>Esto es lo que pasa cuando metes el dedo en el maletero de un Tesla Cybertruck</a></h4>
     <a href='https://computerhoy.com/motor/pasa-cuando-metes-dedo-maletero-tesla-cybertruck-1384754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg?tf=1200x' alt='Esto es lo que pasa cuando metes el dedo en el maletero de un Tesla Cybertruck' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-iops-ssd-son-tan-importantes-rendimiento-pc-1384544'>Qué son los IOPS en un disco SSD y por qué son tan importantes para el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-iops-ssd-son-tan-importantes-rendimiento-pc-1384544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-iops-disco-ssd-son-tan-importantes-rendimiento-pc-3308761.jpg?tf=1200x' alt='Qué son los IOPS en un disco SSD y por qué son tan importantes para el rendimiento de tu PC' />
     </a>
 </div>
 
