@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532'>Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-1384532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Cuánto tiempo dura un DVD, Blu-ray y las cintas VHS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536'>El navegador Microsoft Edge estrena una Prueba de velocidad de Internet</a></h4>
     <a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-microsoft-edge-estrena-medidor-velocidad-conexion-internet-3308706.jpg?tf=1200x' alt='El navegador Microsoft Edge estrena una Prueba de velocidad de Internet' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493'>Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-1384493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='Formas por las que puedes ser rastreado por ver el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472'>Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora' />
     </a>
 </div>
 
