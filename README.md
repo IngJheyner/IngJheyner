@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/xiaomi-moviles-cuerda-floja-20-vulnerabilidades-apps-muy-usadas-1384581'>Xiaomi y sus móviles en la cuerda floja: 20 vulnerabilidades en apps muy usadas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/xiaomi-moviles-cuerda-floja-20-vulnerabilidades-apps-muy-usadas-1384581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-moviles-ciberseguridad-3308843.jpg?tf=1200x' alt='Xiaomi y sus móviles en la cuerda floja: 20 vulnerabilidades en apps muy usadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/zte-nubia-music-movil-estetica-90-enfocado-musica-1384584'>ZTE Nubia Music, el móvil con estética de los 90 y un enorme altavoz en forma de vinilo</a></h4>
+    <a href='https://computerhoy.com/moviles/zte-nubia-music-movil-estetica-90-enfocado-musica-1384584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/zte-nubia-music-movil-estetica-90-enorme-altavoz-forma-vinilo-3308791.jpg?tf=1200x' alt='ZTE Nubia Music, el móvil con estética de los 90 y un enorme altavoz en forma de vinilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565'>Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato</a></h4>
     <a href='https://computerhoy.com/android/chrome-os-i3-portatil-perfecto-te-gusta-android-sorprendentemente-barato-1384565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-cx34-3308794.jpg?tf=1200x' alt='Chrome OS con i3: este portátil es perfecto si te gusta Android, y sorprendentemente barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577'>Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga</a></h4>
     <a href='https://computerhoy.com/google/google-revoluciona-ciberseguridad-ia-gemini-manga-1384577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-ciberseguridad-3308802.jpg?tf=1200x' alt='Google revoluciona la ciberseguridad y la IA de Gemini es su as bajo la manga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-bloqueo-cuenta-1382073'>¿Existen las palabras prohibidas en WhatsApp? ¿Te pueden bloquear la cuenta por usarlas?</a></h4>
-    <a href='https://computerhoy.com/apps/palabras-prohibidas-whatsapp-bloqueo-cuenta-1382073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/palabras-prohibidas-whatsapp-3308611.jpg?tf=1200x' alt='¿Existen las palabras prohibidas en WhatsApp? ¿Te pueden bloquear la cuenta por usarlas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-baratas-tiene-control-parental-gratis-cuesta-poco-1-euros-mes-1384289'>Esta VPN es de las más baratas y tiene control parental gratis: cuesta poco más de 1 euros al mes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-baratas-tiene-control-parental-gratis-cuesta-poco-1-euros-mes-1384289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privadovpn-3308334.jpg?tf=1200x' alt='Esta VPN es de las más baratas y tiene control parental gratis: cuesta poco más de 1 euros al mes' />
     </a>
 </div>
 
