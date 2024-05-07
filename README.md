@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821'>El último uso conocido de Flipper Zero es absolutamente aterrador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-3309277.jpg?tf=1200x' alt='El último uso conocido de Flipper Zero es absolutamente aterrador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834'>Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hi-fi-rush-3006704.jpg?tf=1200x' alt='Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/conexion-usb-tipos-conectores-hay-principales-diferencias-1384458'>Conexión USB: qué tipos de conectores existen y sus principales diferencias</a></h4>
     <a href='https://computerhoy.com/tecnologia/conexion-usb-tipos-conectores-hay-principales-diferencias-1384458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conexion-usb-tipos-conectores-existen-principales-diferencias-3308657.jpg?tf=1200x' alt='Conexión USB: qué tipos de conectores existen y sus principales diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/pasa-cuando-metes-dedo-maletero-tesla-cybertruck-1384754'>Esto es lo que pasa cuando metes el dedo en el maletero de un Tesla Cybertruck</a></h4>
-    <a href='https://computerhoy.com/motor/pasa-cuando-metes-dedo-maletero-tesla-cybertruck-1384754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg?tf=1200x' alt='Esto es lo que pasa cuando metes el dedo en el maletero de un Tesla Cybertruck' />
     </a>
 </div>
 
