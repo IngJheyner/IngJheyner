@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-pro-2024-pantalla-oled-toda-potencia-procesador-m4-1384636'>iPad Pro 2024: pantalla OLED, la potencia del procesador M4 y mucha IA</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-pro-2024-pantalla-oled-toda-potencia-procesador-m4-1384636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-2024-3309128.jpg?tf=1200x' alt='iPad Pro 2024: pantalla OLED, la potencia del procesador M4 y mucha IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-space-edition-reloj-exclusivo-titanio-zafiro-1384680'>Huawei se aventura al espacio con el Watch 4 Pro Space Edition, un reloj exclusivo de titanio y zafiro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-4-pro-space-edition-reloj-exclusivo-titanio-zafiro-1384680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3309049.jpg?tf=1200x' alt='Huawei se aventura al espacio con el Watch 4 Pro Space Edition, un reloj exclusivo de titanio y zafiro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipad-air-2024-caracteristicas-precio-fecha-lanzamiento-1384735'>Apple presenta el iPad Air 2024: por primera vez llega en dos tamaños y estará disponible en más colores que nunca</a></h4>
-    <a href='https://computerhoy.com/apple/ipad-air-2024-caracteristicas-precio-fecha-lanzamiento-1384735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-air-2024-3309115.jpg?tf=1200x' alt='Apple presenta el iPad Air 2024: por primera vez llega en dos tamaños y estará disponible en más colores que nunca' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-watch-fit-3-analisis-opinion-1383082'>He probado el smartwatch Huawei Watch Fit 3 y creo que se convierte en una de las mejores opciones calidad-precio</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-watch-fit-3-analisis-opinion-1383082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3306230.jpg?tf=1200x' alt='He probado el smartwatch Huawei Watch Fit 3 y creo que se convierte en una de las mejores opciones calidad-precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285'>¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?</a></h4>
-    <a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estudiar-ia-3308897.jpg?tf=1200x' alt='¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?' />
+    <h4><a href='https://computerhoy.com/google/google-pixel-8a-caracteristicas-precio-informacion-1382902'>Google Pixel 8a se presenta como el móvil económico totalmente centrado en la IA</a></h4>
+    <a href='https://computerhoy.com/google/google-pixel-8a-caracteristicas-precio-informacion-1382902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3307651.jpg?tf=1200x' alt='Google Pixel 8a se presenta como el móvil económico totalmente centrado en la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-1384538'>BitLocker en Windows 11: qué es y cómo activarlo para cifrar tu disco duro</a></h4>
-    <a href='https://computerhoy.com/tutoriales/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-1384538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-3308754.jpg?tf=1200x' alt='BitLocker en Windows 11: qué es y cómo activarlo para cifrar tu disco duro' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-watch-fit-3-nuevo-smartwatch-vida-sana-1382841'>Huawei lanza el nuevo smartwatch Watch Fit 3 con un nuevo diseño, centrado en el deporte y una vida activa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-watch-fit-3-nuevo-smartwatch-vida-sana-1382841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3305542.jpg?tf=1200x' alt='Huawei lanza el nuevo smartwatch Watch Fit 3 con un nuevo diseño, centrado en el deporte y una vida activa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos' />
+    <h4><a href='https://computerhoy.com/google/google-lanza-pixel-tablet-espana-499-euros-1384691'>Google lanza su Pixel Tablet en España por 499 euros</a></h4>
+    <a href='https://computerhoy.com/google/google-lanza-pixel-tablet-espana-499-euros-1384691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixel-tablet-3309013.jpg?tf=1200x' alt='Google lanza su Pixel Tablet en España por 499 euros' />
     </a>
 </div>
 
