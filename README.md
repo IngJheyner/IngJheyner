@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609'>¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?</a></h4>
     <a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ser-humano-corriendo-robot-3308879.jpg?tf=1200x' alt='¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?' />
@@ -66,14 +74,6 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444'>La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros</a></h4>
     <a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alarma-lidl-3308618.jpg?tf=1200x' alt='La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros' />
@@ -82,9 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608'>No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-todo-vale-lecciones-aprendidas-fracaso-decepcion-rabbit-r1-humane-ai-pin-1384608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-pin-rabbit-r1-3308862.jpg?tf=1200x' alt='No todo vale: lecciones aprendidas del fracaso y decepción con Rabbit R1 y Humane AI Pin' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2' />
     </a>
 </div>
 
