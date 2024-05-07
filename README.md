@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285'>¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?</a></h4>
+    <a href='https://computerhoy.com/ciencia/puede-chatgpt-perjudicar-memoria-reducir-rendimiento-academico-1384285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estudiar-ia-3308897.jpg?tf=1200x' alt='¿Puede ChatGPT perjudicar a la memoria y reducir el rendimiento académico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-1384538'>BitLocker en Windows 11: qué es y cómo activarlo para cifrar tu disco duro</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-1384538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bitlocker-windows-11-como-activarlo-cifrar-disco-duro-3308754.jpg?tf=1200x' alt='BitLocker en Windows 11: qué es y cómo activarlo para cifrar tu disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776'>Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estafa-buzon-brushing-malware-1265776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/buzon-3255334.jpg?tf=1200x' alt='Si encuentras un smartwatch o unos auriculares nuevos en el buzón, no los uses, son peligrosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/nuevo-material-construccion-puede-acabar-uso-yeso-siempre-1384679'>Este nuevo material de construcción puede acabar con uso del yeso para siempre</a></h4>
+    <a href='https://computerhoy.com/hogar/nuevo-material-construccion-puede-acabar-uso-yeso-siempre-1384679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-material-construccion-puede-acabar-yeso-siempre-3308965.jpg?tf=1200x' alt='Este nuevo material de construcción puede acabar con uso del yeso para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345'>Microsoft publica el código fuente del mítico MS-DOS</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-publica-codigo-fuente-ms-dos-1382345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/microsoft-cuelga-codigo-fuente-mitico-ms-dos-github_0.jpg?tf=1200x' alt='Microsoft publica el código fuente del mítico MS-DOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609'>¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-todavia-no-pueden-correr-tan-rapido-como-seres-humanos-1384609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ser-humano-corriendo-robot-3308879.jpg?tf=1200x' alt='¿Por qué los robots todavía no pueden correr tan rápido como los seres humanos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365'>Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-alia-google-smartwatch-wear-os-barato-tiene-cientos-aplicaciones-1384365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-watch-2-3308442.jpg?tf=1200x' alt='Xiaomi se alía con Google: su smartwatch con Wear OS es barato y tiene cientos de aplicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444'>La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros</a></h4>
-    <a href='https://computerhoy.com/hogar/lidl-alarma-antirrobos-1382444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alarma-lidl-3308618.jpg?tf=1200x' alt='La alarma de Lidl es original, no requiere instalación y cuesta menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348'>Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-marcas-agua-no-puedes-actualizar-windows-11-24h2-1382348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-11-inteligencia-artificial-3304673.jpg?tf=1200x' alt='Microsoft mostrará marcas de agua en tu pantalla si no puedes actualizar a Windows 11 24H2' />
     </a>
 </div>
 
