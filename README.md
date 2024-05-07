@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536'>El navegador Microsoft Edge estrena una Prueba de velocidad de Internet</a></h4>
+    <a href='https://computerhoy.com/apps/navegador-microsoft-edge-estrena-prueba-velocidad-internet-1384536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-microsoft-edge-estrena-medidor-velocidad-conexion-internet-3308706.jpg?tf=1200x' alt='El navegador Microsoft Edge estrena una Prueba de velocidad de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511'>Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/significa-luz-roja-parpadea-router-wifi-como-eliminarla-1384511' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-luz-roja-parpadea-router-wifi-como-eliminarla-3308728.jpg?tf=1200x' alt='Qué significa una luz roja que parpadea en tu router WiFi y cómo eliminarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518'>Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años</a></h4>
     <a href='https://computerhoy.com/tecnologia/fallece-robert-dennard-inventor-memoria-dram-1384518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallece-robert-dennard-inventor-memoria-dram-91-anos-3308691.jpg?tf=1200x' alt='Fallece Robert Dennard, el inventor de la memoria DRAM, a los 91 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472'>Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-119-disponible-descargar-gratis-novedades-como-actualizar-ahora-1384472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-auto-119-3305320.jpg?tf=1200x' alt='Android Auto 11.9 disponible para descargar gratis: novedades y cómo actualizar ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-creador-chatgpt-era-teletrabajo-ha-terminado-ha-sido-error-1384339'>Sam Altman, creador de ChatGPT: “La era del teletrabajo se ha terminado, ha sido un error”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-creador-chatgpt-era-teletrabajo-ha-terminado-ha-sido-error-1384339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Sam Altman, creador de ChatGPT: “La era del teletrabajo se ha terminado, ha sido un error”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470'>Movistar Plus+ se prepara para la llegada de 16 nuevos canales</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/movistar-plus-prepara-llegada-16-nuevos-canales-1384470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movistar-plus-3058776.jpg?tf=1200x' alt='Movistar Plus+ se prepara para la llegada de 16 nuevos canales' />
     </a>
 </div>
 
