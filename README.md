@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157'>25 años después, vuelve el mítico Nokia 3210 con 4G y apps en la nube</a></h4>
+    <a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='25 años después, vuelve el mítico Nokia 3210 con 4G y apps en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128'>Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-3309819.jpg?tf=1200x' alt='Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077'>Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nino-llavero-tesla-3309673.jpg?tf=1200x' alt='Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723'>Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/shogun-3280210.jpg?tf=1200x' alt='Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+' />
     </a>
 </div>
 
