@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999'>Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-usos-extranos-usuarios-dan-chatgpt-pero-son-ciertos-3309527.jpg?tf=1200x' alt='Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989'>El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?</a></h4>
     <a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/criptobros-3309539.jpg?tf=1200x' alt='El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734'>La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer</a></h4>
     <a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912'>Un tren en la Luna está más cerca de convertirse en una realidad</a></h4>
-    <a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tecnologia-detras-ferrocarril-quiere-llegar-luna-3309388.jpg?tf=1200x' alt='Un tren en la Luna está más cerca de convertirse en una realidad' />
     </a>
 </div>
 
