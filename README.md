@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908'>Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia</a></h4>
+    <a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-nube-3309397.jpg?tf=1200x' alt='Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/parche-seguridad-que-es-1377959'>Qué es un parche de seguridad y por qué parece que tu vida dependa de ellos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/parche-seguridad-que-es-1377959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714134127752-3304850.jpg?tf=1200x' alt='Qué es un parche de seguridad y por qué parece que tu vida dependa de ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890'>La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa</a></h4>
     <a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pesadilla-anuncios-prime-video-llegara-menu-pausa-3309346.jpg?tf=1200x' alt='La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561'>Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental</a></h4>
     <a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kindle-scribe-3308773.jpg?tf=1200x' alt='Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cpu-cuello-botella-rendimiento-pc-1381980'>Cómo saber si la CPU está creando un cuello de botella que ralentiza el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-cpu-cuello-botella-rendimiento-pc-1381980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cpu-creando-cuello-botella-mermando-rendimiento-pc-3303924.jpg?tf=1200x' alt='Cómo saber si la CPU está creando un cuello de botella que ralentiza el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ano-chatgpt-sera-nada-comparado-viene-fuentes-openai-1384883'>¿Estás listo? En un año ChatGPT será nada comparado con lo que viene, según fuentes de OpenAI</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ano-chatgpt-sera-nada-comparado-viene-fuentes-openai-1384883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='¿Estás listo? En un año ChatGPT será nada comparado con lo que viene, según fuentes de OpenAI' />
     </a>
 </div>
 
