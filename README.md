@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128'>Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-3309819.jpg?tf=1200x' alt='Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036'>Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado</a></h4>
     <a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723'>Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+</a></h4>
     <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/shogun-3280210.jpg?tf=1200x' alt='Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014'>Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral</a></h4>
-    <a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral' />
     </a>
 </div>
 
