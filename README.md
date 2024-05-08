@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672'>Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-3308953.jpg?tf=1200x' alt='Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999'>Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)</a></h4>
     <a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-usos-extranos-usuarios-dan-chatgpt-pero-son-ciertos-3309527.jpg?tf=1200x' alt='Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991'>Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-tv-oled-2024-negro-puro-reflejos-3309554.jpg?tf=1200x' alt='Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734'>La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer</a></h4>
-    <a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer' />
     </a>
 </div>
 
