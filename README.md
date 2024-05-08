@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-vuelve-lanzar-ipad-2024-despues-ano-desierto-1384299'>Por qué Apple presenta nuevos iPad ahora después de más de un año de desierto para sus tablets</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vuelve-lanzar-ipad-2024-despues-ano-desierto-1384299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-ipad-pro-2024-primero-dos-anos-3309162.jpg?tf=1200x' alt='Por qué Apple presenta nuevos iPad ahora después de más de un año de desierto para sus tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/quieres-triunfar-debes-aprender-comunicarte-expertos-1383187'>¿Quieres triunfar en la vida? Así debes aprender a comunicarte, según los expertos</a></h4>
+    <a href='https://computerhoy.com/life/quieres-triunfar-debes-aprender-comunicarte-expertos-1383187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/quieres-triunfar-vida-debes-aprender-comunicarte-expertos-3306463.jpg?tf=1200x' alt='¿Quieres triunfar en la vida? Así debes aprender a comunicarte, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-raspberry-pi-barato-1381592'>El Mini PC con Intel N100 que es más potente que las Raspberry Pi pero igual de barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-intel-n100-raspberry-pi-barato-1381592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/mini-pc-firebat-s1-3303242.jpg?tf=1200x' alt='El Mini PC con Intel N100 que es más potente que las Raspberry Pi pero igual de barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-pro-google-pixel-watch-2-3308474.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-sin-contrasena-1337354'>Cómo conectarte a cualquier red WiFi aunque hayas olvidado la contraseña</a></h4>
-    <a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-sin-contrasena-1337354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi aunque hayas olvidado la contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-1384836'>Linux sale en "ayuda" de los usuarios de Windows 11 para acabar con la publicidad</a></h4>
-    <a href='https://computerhoy.com/windows/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-1384836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-3309294.jpg?tf=1200x' alt='Linux sale en "ayuda" de los usuarios de Windows 11 para acabar con la publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259'>Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor</a></h4>
-    <a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-3302746.jpg?tf=1200x' alt='Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor' />
     </a>
 </div>
 
