@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/detienen-influencer-4600-moviles-casa-usaba-trucar-streamings-1384864'>Detienen a un influencer con 4.600 móviles en casa, que usaba para trucar sus streamings</a></h4>
+    <a href='https://computerhoy.com/redes/detienen-influencer-4600-moviles-casa-usaba-trucar-streamings-1384864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/detienen-influencer-4600-moviles-casa-usaba-trucar-streamings-3309295.jpg?tf=1200x' alt='Detienen a un influencer con 4.600 móviles en casa, que usaba para trucar sus streamings' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-vuelve-lanzar-ipad-2024-despues-ano-desierto-1384299'>Por qué Apple presenta nuevos iPad ahora después de más de un año de desierto para sus tablets</a></h4>
     <a href='https://computerhoy.com/apple/apple-vuelve-lanzar-ipad-2024-despues-ano-desierto-1384299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-ipad-pro-2024-primero-dos-anos-3309162.jpg?tf=1200x' alt='Por qué Apple presenta nuevos iPad ahora después de más de un año de desierto para sus tablets' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-pro-google-pixel-watch-2-3308474.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
-    <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
     </a>
 </div>
 
