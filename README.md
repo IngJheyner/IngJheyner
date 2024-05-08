@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842'>7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947'>Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592'>Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-tuf-gaming-a15-fa507nu-3308799.jpg?tf=1200x' alt='Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-1283004'>El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike, logo incluido</a></h4>
+    <a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-1283004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike, logo incluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908'>Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia</a></h4>
     <a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-nube-3309397.jpg?tf=1200x' alt='Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/parche-seguridad-que-es-1377959'>Qué es un parche de seguridad y por qué parece que tu vida dependa de ellos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/parche-seguridad-que-es-1377959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714134127752-3304850.jpg?tf=1200x' alt='Qué es un parche de seguridad y por qué parece que tu vida dependa de ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890'>La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa</a></h4>
-    <a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pesadilla-anuncios-prime-video-llegara-menu-pausa-3309346.jpg?tf=1200x' alt='La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-problema-chatgpt-podria-resolverse-complicando-vida-google-1384887'>El gran problema de ChatGPT podría resolverse, complicando la vida a Google </a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-problema-chatgpt-podria-resolverse-complicando-vida-google-1384887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-google-3309362.jpg?tf=1200x' alt='El gran problema de ChatGPT podría resolverse, complicando la vida a Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561'>Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental</a></h4>
-    <a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kindle-scribe-3308773.jpg?tf=1200x' alt='Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental' />
     </a>
 </div>
 
