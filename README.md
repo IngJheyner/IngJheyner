@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
+    <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-sin-contrasena-1337354'>Cómo conectarte a cualquier red WiFi aunque hayas olvidado la contraseña</a></h4>
+    <a href='https://computerhoy.com/internet/como-conectarte-cualquier-red-wifi-sin-contrasena-1337354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/router-wifi-3223540.jpg?tf=1200x' alt='Cómo conectarte a cualquier red WiFi aunque hayas olvidado la contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-1384836'>Linux sale en "ayuda" de los usuarios de Windows 11 para acabar con la publicidad</a></h4>
+    <a href='https://computerhoy.com/windows/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-1384836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linux-sale-ayuda-usuarios-windows-11-acabar-publicidad-3309294.jpg?tf=1200x' alt='Linux sale en "ayuda" de los usuarios de Windows 11 para acabar con la publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259'>Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor</a></h4>
     <a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-3302746.jpg?tf=1200x' alt='Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847'>El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad</a></h4>
     <a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/secreto-nike-tim-cook-llevaba-pies-durante-presentacion-nuevos-ipad-3309276.jpg?tf=1200x' alt='El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821'>El último uso conocido de Flipper Zero es absolutamente aterrador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-1384821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-3309277.jpg?tf=1200x' alt='El último uso conocido de Flipper Zero es absolutamente aterrador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834'>Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-cierra-cuatro-estudios-bethesda-incluyendo-creadores-hi-fi-rush-1384834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/hi-fi-rush-3006704.jpg?tf=1200x' alt='Microsoft cierra cuatro estudios de Bethesda, incluyendo a los creadores de Hi-Fi Rush' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-matebook-x-pro-2024-portatil-ultraligero-caracteristicas-precios-1384833'>Huawei trae a España MateBook X Pro 2024, uno de los portátiles más ligeros y potentes del momento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-matebook-x-pro-2024-portatil-ultraligero-caracteristicas-precios-1384833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-3309262.jpg?tf=1200x' alt='Huawei trae a España MateBook X Pro 2024, uno de los portátiles más ligeros y potentes del momento' />
     </a>
 </div>
 
