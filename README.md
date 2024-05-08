@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991'>Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-tv-oled-2024-negro-puro-reflejos-3309554.jpg?tf=1200x' alt='Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734'>La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer</a></h4>
     <a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947'>Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592'>Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-tuf-gaming-a15-fa507nu-3308799.jpg?tf=1200x' alt='Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes' />
     </a>
 </div>
 
