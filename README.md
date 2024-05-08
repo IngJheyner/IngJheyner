@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734'>La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer</a></h4>
+    <a href='https://computerhoy.com/motor/carrera-coches-autonomos-formula1-1382734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primera-carrera-coches-autonomos-formula-1-alonso-compania-no-tienen-nada-temer-3305390.jpg?tf=1200x' alt='La primera carrera de coches autónomos estilo Fórmula 1 fue tan aburrida que Alonso y compañía no tienen nada que temer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912'>Un tren en la Luna está más cerca de convertirse en una realidad</a></h4>
+    <a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tecnologia-detras-ferrocarril-quiere-llegar-luna-3309388.jpg?tf=1200x' alt='Un tren en la Luna está más cerca de convertirse en una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842'>7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC</a></h4>
     <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592'>Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes</a></h4>
     <a href='https://computerhoy.com/tecnologia/portatil-arrasa-amazon-no-sorprende-precio-casi-broma-viendo-componentes-1384592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-tuf-gaming-a15-fa507nu-3308799.jpg?tf=1200x' alt='Este portátil arrasa en Amazon, y no sorprende: el precio es casi una broma viendo sus componentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-1283004'>El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike, logo incluido</a></h4>
-    <a href='https://computerhoy.com/life/cuadro-antiguo-nino-zapatillas-nike-1283004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/hace-viral-cuadro-siglo-vii-nino-vistiendo-zapatillas-nike-3096460.jpg?tf=1200x' alt='El increíble caso del cuadro pintado hace 361 años con un niño vistiendo zapatillas Nike, logo incluido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908'>Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia</a></h4>
-    <a href='https://computerhoy.com/apple/apple-baja-tierra-reconoce-despues-mucho-tiempo-tiene-competencia-1384908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-nube-3309397.jpg?tf=1200x' alt='Apple baja a la Tierra y reconoce después de mucho tiempo que tiene competencia' />
     </a>
 </div>
 
