@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989'>El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?</a></h4>
+    <a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/criptobros-3309539.jpg?tf=1200x' alt='El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832'>La muerte del aire acondicionado: esta tecnología enfría 9 grados sin gastar electricidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muerte-aire-acondicionado-3309185.jpg?tf=1200x' alt='La muerte del aire acondicionado: esta tecnología enfría 9 grados sin gastar electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991'>Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-tv-oled-2024-negro-puro-reflejos-3309554.jpg?tf=1200x' alt='Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912'>Un tren en la Luna está más cerca de convertirse en una realidad</a></h4>
     <a href='https://computerhoy.com/espacio/tren-luna-cerca-convertirse-realidad-1384912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tecnologia-detras-ferrocarril-quiere-llegar-luna-3309388.jpg?tf=1200x' alt='Un tren en la Luna está más cerca de convertirse en una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842'>7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/tareas-mantenimiento-rapidas-pc-1380842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/7-tareas-mantenimiento-poner-punto-pc-3301976.jpg?tf=1200x' alt='7 tareas de mantenimiento rápidas mejorar el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947'>Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-puedes-controlar-raspberry-pi-remoto-pc-raspberry-pi-connect-1384947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Ya puedes controlar tu Raspberry Pi en remoto desde el PC con Raspberry Pi Connect' />
     </a>
 </div>
 
