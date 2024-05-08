@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890'>La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa</a></h4>
+    <a href='https://computerhoy.com/amazon/pesadilla-anuncios-prime-video-llegara-incluso-menu-pausa-1384890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pesadilla-anuncios-prime-video-llegara-menu-pausa-3309346.jpg?tf=1200x' alt='La pesadilla de los anuncios en Prime Video llegará incluso al menú de pausa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gran-problema-chatgpt-podria-resolverse-complicando-vida-google-1384887'>El gran problema de ChatGPT podría resolverse, complicando la vida a Google </a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-problema-chatgpt-podria-resolverse-complicando-vida-google-1384887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-google-3309362.jpg?tf=1200x' alt='El gran problema de ChatGPT podría resolverse, complicando la vida a Google ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561'>Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental</a></h4>
+    <a href='https://computerhoy.com/tecnologia/libro-cuaderno-vez-kindle-top-desploma-precio-eres-estudiante-sera-ayuda-fundamental-1384561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kindle-scribe-3308773.jpg?tf=1200x' alt='Libro y cuaderno a la vez: el Kindle más top desploma su precio y, si eres estudiante, será una ayuda fundamental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-cpu-cuello-botella-rendimiento-pc-1381980'>Cómo saber si la CPU está creando un cuello de botella que ralentiza el rendimiento de tu PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-cpu-cuello-botella-rendimiento-pc-1381980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-saber-cpu-creando-cuello-botella-mermando-rendimiento-pc-3303924.jpg?tf=1200x' alt='Cómo saber si la CPU está creando un cuello de botella que ralentiza el rendimiento de tu PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ano-chatgpt-sera-nada-comparado-viene-fuentes-openai-1384883'>¿Estás listo? En un año ChatGPT será nada comparado con lo que viene, según fuentes de OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/ano-chatgpt-sera-nada-comparado-viene-fuentes-openai-1384883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/chatgpt-memoria-3274646.jpg?tf=1200x' alt='¿Estás listo? En un año ChatGPT será nada comparado con lo que viene, según fuentes de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/170-euros-salir-icloud-google-fotos-1381301'>170 euros, un NAS y un disco duro es lo que me ha costado escapar de iCloud y Google Fotos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/170-euros-salir-icloud-google-fotos-1381301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/disco-duro-llamas-3302814.jpg?tf=1200x' alt='170 euros, un NAS y un disco duro es lo que me ha costado escapar de iCloud y Google Fotos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/archivo-ts-sirve-como-abrirlo-windows-11-1384427'>Qué es un archivo TS, para qué sirve y cómo abrirlo en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/archivo-ts-sirve-como-abrirlo-windows-11-1384427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/archivo-ts-sirve-como-abrirlo-windows-11-3308593.jpg?tf=1200x' alt='Qué es un archivo TS, para qué sirve y cómo abrirlo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-activa-outlet-fire-tv-stick-3299-euros-puedes-tener-1384619'>Amazon activa el outlet de sus Fire TV Stick: desde 32,99 euros puedes tener uno</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-activa-outlet-fire-tv-stick-3299-euros-puedes-tener-1384619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Amazon activa el outlet de sus Fire TV Stick: desde 32,99 euros puedes tener uno' />
     </a>
 </div>
 
