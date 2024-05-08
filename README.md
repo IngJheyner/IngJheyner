@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067'>La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos</a></h4>
+    <a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-3309690.jpg?tf=1200x' alt='La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/posible-ejecutar-windows-11-raspberry-pi-5-1384852'>¿Es posible ejecutar Windows 11 en una Raspberry Pi 5?</a></h4>
+    <a href='https://computerhoy.com/windows/posible-ejecutar-windows-11-raspberry-pi-5-1384852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/posible-ejecutar-windows-11-raspberry-pi-5-3309306.jpg?tf=1200x' alt='¿Es posible ejecutar Windows 11 en una Raspberry Pi 5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672'>Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-3308953.jpg?tf=1200x' alt='Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989'>El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?</a></h4>
     <a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/criptobros-3309539.jpg?tf=1200x' alt='El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832'>La muerte del aire acondicionado: esta tecnología enfría 9 grados sin gastar electricidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/invento-logra-enfriar-9-grados-estancia-electricidad-1277832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muerte-aire-acondicionado-3309185.jpg?tf=1200x' alt='La muerte del aire acondicionado: esta tecnología enfría 9 grados sin gastar electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991'>Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-presenta-primera-tv-oled-mundo-reflejos-junto-qled-1384991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-tv-oled-2024-negro-puro-reflejos-3309554.jpg?tf=1200x' alt='Samsung presenta el primer televisor OLED del mundo sin reflejos y renueva su gama QLED y Frame' />
     </a>
 </div>
 
