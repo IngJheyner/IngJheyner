@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014'>Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral</a></h4>
+    <a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-agita-mercado-pixel-8a-aterriza-ya-150-euros-descuento-pone-apuros-otros-moviles-baratos-1384917'>Google agita el mercado: su Pixel 8a aterriza ya con 150 euros de descuento y pone en apuros a otros móviles baratos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-agita-mercado-pixel-8a-aterriza-ya-150-euros-descuento-pone-apuros-otros-moviles-baratos-1384917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3309384.jpg?tf=1200x' alt='Google agita el mercado: su Pixel 8a aterriza ya con 150 euros de descuento y pone en apuros a otros móviles baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067'>La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos</a></h4>
     <a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-3309690.jpg?tf=1200x' alt='La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672'>Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses</a></h4>
     <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-3308953.jpg?tf=1200x' alt='Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999'>Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-extranos-usuarios-dan-chatgpt-parece-broma-pero-son-ciertos-1384999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-usos-extranos-usuarios-dan-chatgpt-pero-son-ciertos-3309527.jpg?tf=1200x' alt='Los usos más extraños que los usuarios dan a ChatGPT (parece una broma, pero son ciertos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989'>El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?</a></h4>
-    <a href='https://computerhoy.com/criptos/google-maps-criptomonedas-paises-tienen-criptobros-1384989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/criptobros-3309539.jpg?tf=1200x' alt='El Google Maps de las criptomonedas: ¿qué países tienen más "criptobros"?' />
     </a>
 </div>
 
