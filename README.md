@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989'>Estos son los mejores móviles de Google que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-google-1124989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-pro-google-pixel-watch-2-3308474.jpg?tf=1200x' alt='Estos son los mejores móviles de Google que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145'>Cómo saber qué Windows tengo instalado en el ordenador</a></h4>
     <a href='https://computerhoy.com/noticias/como-saber-windows-tengo-1034145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='Cómo saber qué Windows tengo instalado en el ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259'>Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor</a></h4>
     <a href='https://computerhoy.com/life/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-mejor-1381259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/koselig-sorprendente-metodo-noruego-ser-feliz-vivir-3302746.jpg?tf=1200x' alt='Koselig: así es el sorprendente método noruego para ser feliz y vivir mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847'>El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad</a></h4>
-    <a href='https://computerhoy.com/apple/secreto-tim-cook-presentacion-nuevos-ipad-zapatillas-nike-1384847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/secreto-nike-tim-cook-llevaba-pies-durante-presentacion-nuevos-ipad-3309276.jpg?tf=1200x' alt='El secreto de Nike que Tim Cook calzaba durante la presentación de los nuevos iPad' />
     </a>
 </div>
 
