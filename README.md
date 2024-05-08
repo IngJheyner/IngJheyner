@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036'>Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado</a></h4>
+    <a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/revelan-identidad-hacker-ruso-lockbitsupp-1385133'>Revelan la identidad del hacker ruso más peligroso, ofrecen 10 millones de dólares por su captura</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/revelan-identidad-hacker-ruso-lockbitsupp-1385133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-revela-identidad-hacker-ruso-peligroso-ofrece-10-millones-dolares-captura-3309759.jpg?tf=1200x' alt='Revelan la identidad del hacker ruso más peligroso, ofrecen 10 millones de dólares por su captura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077'>Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nino-llavero-tesla-3309673.jpg?tf=1200x' alt='Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723'>Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-series-ambientadas-japon-debes-ver-te-gusto-shogun-1384723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/shogun-3280210.jpg?tf=1200x' alt='Mejores películas y series ambientadas en Japón que debes ver si te gustó Shogun en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014'>Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral</a></h4>
     <a href='https://computerhoy.com/ciencia/pretende-elon-musk-optimus-resulte-util-video-ha-hecho-viral-1385014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/avances-optimus-robot-tesla-hace-yoga-contratan-personal-desarollo-3144058.jpg?tf=1200x' alt='Así pretende Elon Musk que su robot Optimus resulte útil: el vídeo que se ha hecho viral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-agita-mercado-pixel-8a-aterriza-ya-150-euros-descuento-pone-apuros-otros-moviles-baratos-1384917'>Google agita el mercado: su Pixel 8a aterriza ya con 150 euros de descuento y pone en apuros a otros móviles baratos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-agita-mercado-pixel-8a-aterriza-ya-150-euros-descuento-pone-apuros-otros-moviles-baratos-1384917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3309384.jpg?tf=1200x' alt='Google agita el mercado: su Pixel 8a aterriza ya con 150 euros de descuento y pone en apuros a otros móviles baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067'>La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos</a></h4>
-    <a href='https://computerhoy.com/internet/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-1385067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-3309690.jpg?tf=1200x' alt='La última táctica para acabar con la piratería y las IPTV: ofrecer recompensas a los chivatos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/posible-ejecutar-windows-11-raspberry-pi-5-1384852'>¿Es posible ejecutar Windows 11 en una Raspberry Pi 5?</a></h4>
-    <a href='https://computerhoy.com/windows/posible-ejecutar-windows-11-raspberry-pi-5-1384852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/posible-ejecutar-windows-11-raspberry-pi-5-3309306.jpg?tf=1200x' alt='¿Es posible ejecutar Windows 11 en una Raspberry Pi 5?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672'>Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-1384672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bill-gates-pone-fecha-nueva-revolucion-ia-sucedera-18-meses-3308953.jpg?tf=1200x' alt='Bill Gates pone fecha a la nueva revolución de la IA: sucederá en 18 meses' />
     </a>
 </div>
 
