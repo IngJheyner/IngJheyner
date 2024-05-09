@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lanza-solucion-fallos-inestabilidad-cpu-pero-genera-mucha-confusion-1385223'>Intel lanza una solución para los fallos de inestabilidad de la CPU, pero genera mucha más confusión</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lanza-solucion-fallos-inestabilidad-cpu-pero-genera-mucha-confusion-1385223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel lanza una solución para los fallos de inestabilidad de la CPU, pero genera mucha más confusión' />
+    <h4><a href='https://computerhoy.com/internet/cierre-bestbuy-iptv-futbol-1383280'>BestBuy IPTV daba todo el fútbol y más de 10.000 canales por 50 euros al año, hasta que les han pillado</a></h4>
+    <a href='https://computerhoy.com/internet/cierre-bestbuy-iptv-futbol-1383280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-3306711.jpg?tf=1200x' alt='BestBuy IPTV daba todo el fútbol y más de 10.000 canales por 50 euros al año, hasta que les han pillado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206'>Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio</a></h4>
-    <a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-canales-funciona-1385295'>WhatsApp prepara gran actualización para los canales y así funciona</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-prepara-gran-actualizacion-canales-funciona-1385295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-prepara-actualizacion-mejorara-navegacion-canales-3310099.jpg?tf=1200x' alt='WhatsApp prepara gran actualización para los canales y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950'>Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-3303905.jpg?tf=1200x' alt='Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV' />
+    <h4><a href='https://computerhoy.com/apps/peligroso-magis-tv-como-funciona-app-iptv-ver-peliculas-series-futbol-limites-casi-gratis-1385250'>¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis</a></h4>
+    <a href='https://computerhoy.com/apps/peligroso-magis-tv-como-funciona-app-iptv-ver-peliculas-series-futbol-limites-casi-gratis-1385250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-1385199'>Disney y Warner Bros lanzan un paquete de streaming con Disney+, Hulu y HBO Max</a></h4>
-    <a href='https://computerhoy.com/tv/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-1385199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-3309921.jpg?tf=1200x' alt='Disney y Warner Bros lanzan un paquete de streaming con Disney+, Hulu y HBO Max' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-peludo-boston-dynamics-sparkles-adorable-1383033'>El nuevo robot peludo de Boston Dynamics es adorable y nos demuestra una cosa muy importante</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-peludo-boston-dynamics-sparkles-adorable-1383033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics es adorable y nos demuestra una cosa muy importante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220'>Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-ceo-apple-3309977.jpg?tf=1200x' alt='Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?' />
+    <h4><a href='https://computerhoy.com/apps/apps-comparar-precios-supermercados-ahorrar-cientos-euros-cada-mes-1385228'>Apps para comparar precios en supermercados y ahorrar cientos de euros cada mes</a></h4>
+    <a href='https://computerhoy.com/apps/apps-comparar-precios-supermercados-ahorrar-cientos-euros-cada-mes-1385228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-compras-supermercado-3309996.jpg?tf=1200x' alt='Apps para comparar precios en supermercados y ahorrar cientos de euros cada mes' />
     </a>
 </div>
 
