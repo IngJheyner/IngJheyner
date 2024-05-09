@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460'>Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata</a></h4>
+    <a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-3310398.jpg?tf=1200x' alt='Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/lg-artcool-gallery-dispositivo-aire-acondicionado-invisible-1385469'>LG Artcool Gallery, el dispositivo de aire acondicionado invisible</a></h4>
+    <a href='https://computerhoy.com/hogar/lg-artcool-gallery-dispositivo-aire-acondicionado-invisible-1385469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-estrena-artcool-dispositivo-aire-acondicionado-invisible-3310292.jpg?tf=1200x' alt='LG Artcool Gallery, el dispositivo de aire acondicionado invisible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444'>¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?</a></h4>
     <a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3310345.jpg?tf=1200x' alt='¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383'>Primer país del mundo en prohibir las contraseñas fáciles de adivinar</a></h4>
     <a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-facil-adivinar-3310231.jpg?tf=1200x' alt='Primer país del mundo en prohibir las contraseñas fáciles de adivinar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-cascos-moda-shokz-openmove-conduccion-osea-desploman-precio-oferta-1385312'>Son los cascos de moda: los Shokz OpenMove de conducción ósea desploman su precio con esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-cascos-moda-shokz-openmove-conduccion-osea-desploman-precio-oferta-1385312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Son los cascos de moda: los Shokz OpenMove de conducción ósea desploman su precio con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408'>Cómo crear tu propio Flipper Zero con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-propio-flipper-zero-raspberry-pi-3310321.jpg?tf=1200x' alt='Cómo crear tu propio Flipper Zero con una Raspberry Pi' />
     </a>
 </div>
 
