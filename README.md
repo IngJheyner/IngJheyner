@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798'>5 amenazas online de las que tu VPN no puede protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-amenazas-online-vpn-no-puede-protegerte-3309263.jpg?tf=1200x' alt='5 amenazas online de las que tu VPN no puede protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347'>Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayor-estafa-online-deja-800000-victimas-comprar-tiendas-falsas-internet-3310214.jpg?tf=1200x' alt='Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275'>El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”</a></h4>
     <a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/warren-buffett-3310108.jpg?tf=1200x' alt='El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310'>Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo' />
     </a>
 </div>
 
