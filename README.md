@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444'>¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?</a></h4>
+    <a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3310345.jpg?tf=1200x' alt='¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/senor-anillos-caza-gollum-andy-serkis-1385456'>La nueva película de El Señor de los Anillos estará dirigida y protagonizada por Gollum</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/senor-anillos-caza-gollum-andy-serkis-1385456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-pelicula-senor-anillos-va-ser-dirigida-protagonizada-gollum-3310328.jpg?tf=1200x' alt='La nueva película de El Señor de los Anillos estará dirigida y protagonizada por Gollum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383'>Primer país del mundo en prohibir las contraseñas fáciles de adivinar</a></h4>
     <a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-facil-adivinar-3310231.jpg?tf=1200x' alt='Primer país del mundo en prohibir las contraseñas fáciles de adivinar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408'>Cómo crear tu propio Flipper Zero con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-propio-flipper-zero-raspberry-pi-3310321.jpg?tf=1200x' alt='Cómo crear tu propio Flipper Zero con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-robots-poco-conocidas-1385044'>5 películas de robots poco conocidas que la crítica adora (y tienes que ver)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-robots-poco-conocidas-1385044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-peliculas-robots-poco-conocidas-critica-adora-tienes-ver-3309614.jpg?tf=1200x' alt='5 películas de robots poco conocidas que la crítica adora (y tienes que ver)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798'>5 amenazas online de las que tu VPN no puede protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-amenazas-online-vpn-no-puede-protegerte-3309263.jpg?tf=1200x' alt='5 amenazas online de las que tu VPN no puede protegerte' />
     </a>
 </div>
 
