@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-guerra-fabricantes-placas-base-fallos-cpu-gama-alta-1385211'>Intel en guerra con los fabricantes de placas base por los fallos de las CPU de gama alta</a></h4>
+    <a href='https://computerhoy.com/pc/intel-guerra-fabricantes-placas-base-fallos-cpu-gama-alta-1385211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Intel en guerra con los fabricantes de placas base por los fallos de las CPU de gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710'>Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
     <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667'>Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/matebook-d16-3247279.jpg?tf=1200x' alt='Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros' />
     </a>
 </div>
 
