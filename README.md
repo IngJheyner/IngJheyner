@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-avisa-palabra-prohibida-no-debes-decir-jamas-no-caer-estafas-telefonicas-1384654'>La OCU avisa: la palabra prohibida que no debes decir jamás para no caer en estafas telefónicas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ocu-avisa-palabra-prohibida-no-debes-decir-jamas-no-caer-estafas-telefonicas-1384654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-telefonica-3309574.jpg?tf=1200x' alt='La OCU avisa: la palabra prohibida que no debes decir jamás para no caer en estafas telefónicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-1381013'>7 apps que he probado este mes y me han servido para aprovechar al máximo la cámara del móvil</a></h4>
+    <a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-1381013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-camara-movil-3302348.jpg?tf=1200x' alt='7 apps que he probado este mes y me han servido para aprovechar al máximo la cámara del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/primera-casa-construida-setas-micelio-1385167'>La primera casa construida con setas, hará las delicias de los amantes de la música</a></h4>
+    <a href='https://computerhoy.com/life/primera-casa-construida-setas-micelio-1385167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primera-casa-construida-setas-hara-delicias-amantes-musica-3309847.jpg?tf=1200x' alt='La primera casa construida con setas, hará las delicias de los amantes de la música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/brokewell-peligroso-troyano-google-chrome-1384714'>Así es Brokewell, el peligroso troyano que se hace pasar por una actualización de Google Chrome</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/brokewell-peligroso-troyano-google-chrome-1384714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brokewell-peligroso-troyano-hace-pasar-actualizacion-google-chrome-3309051.jpg?tf=1200x' alt='Así es Brokewell, el peligroso troyano que se hace pasar por una actualización de Google Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157'>25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube</a></h4>
     <a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128'>Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-1385128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-pc-sobremesa-ventajas-desventajas-cual-deberias-comprar-3309819.jpg?tf=1200x' alt='Mini PC vs. PC de sobremesa: ventajas, desventajas y cuál deberías comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036'>Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado</a></h4>
-    <a href='https://computerhoy.com/android/tablet-samsung-rivaliza-ipad-barata-viene-lapiz-amazon-ha-rebajado-1385036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-tab-s9-fe-3275178.jpg?tf=1200x' alt='Esta tablet Samsung rivaliza con el iPad y es más barata: viene con lápiz y Amazon la ha rebajado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/revelan-identidad-hacker-ruso-lockbitsupp-1385133'>Revelan la identidad del hacker ruso más peligroso, ofrecen 10 millones de dólares por su captura</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/revelan-identidad-hacker-ruso-lockbitsupp-1385133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-revela-identidad-hacker-ruso-peligroso-ofrece-10-millones-dolares-captura-3309759.jpg?tf=1200x' alt='Revelan la identidad del hacker ruso más peligroso, ofrecen 10 millones de dólares por su captura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077'>Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-reclama-2-millones-euros-chico-14-anos-vender-llaveros-logo-tesla-1385077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nino-llavero-tesla-3309673.jpg?tf=1200x' alt='Elon Musk reclama más de 2 millones de euros a un chico de 14 años por vender llaveros con el logo de Tesla' />
     </a>
 </div>
 
