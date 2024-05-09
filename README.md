@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ocu-avisa-palabra-prohibida-no-debes-decir-jamas-no-caer-estafas-telefonicas-1384654'>La OCU avisa: la palabra prohibida que no debes decir jamás para no caer en estafas telefónicas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ocu-avisa-palabra-prohibida-no-debes-decir-jamas-no-caer-estafas-telefonicas-1384654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-telefonica-3309574.jpg?tf=1200x' alt='La OCU avisa: la palabra prohibida que no debes decir jamás para no caer en estafas telefónicas' />
+    <h4><a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033'>Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo</a></h4>
+    <a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/firefox-3309592.jpg?tf=1200x' alt='Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-1381013'>7 apps que he probado este mes y me han servido para aprovechar al máximo la cámara del móvil</a></h4>
-    <a href='https://computerhoy.com/apps/apps-aprovechar-camara-movil-1381013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/apps-camara-movil-3302348.jpg?tf=1200x' alt='7 apps que he probado este mes y me han servido para aprovechar al máximo la cámara del móvil' />
+    <h4><a href='https://computerhoy.com/tecnologia/trucos-midjourney-mejorar-imagenes-1382863'>Los 7 parámetros y comandos esenciales de Midjourney para obtener mejores resultados al generar tus imágenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trucos-midjourney-mejorar-imagenes-1382863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/midjourney-3309736.jpg?tf=1200x' alt='Los 7 parámetros y comandos esenciales de Midjourney para obtener mejores resultados al generar tus imágenes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-casa-construida-setas-micelio-1385167'>La primera casa construida con setas, hará las delicias de los amantes de la música</a></h4>
-    <a href='https://computerhoy.com/life/primera-casa-construida-setas-micelio-1385167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primera-casa-construida-setas-hara-delicias-amantes-musica-3309847.jpg?tf=1200x' alt='La primera casa construida con setas, hará las delicias de los amantes de la música' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-raspberry-pi-servidor-web-1381407'>Cómo convertir una Raspberry Pi en un servidor web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-raspberry-pi-servidor-web-1381407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-raspberry-pi-servidor-web-3302975.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un servidor web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/brokewell-peligroso-troyano-google-chrome-1384714'>Así es Brokewell, el peligroso troyano que se hace pasar por una actualización de Google Chrome</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/brokewell-peligroso-troyano-google-chrome-1384714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brokewell-peligroso-troyano-hace-pasar-actualizacion-google-chrome-3309051.jpg?tf=1200x' alt='Así es Brokewell, el peligroso troyano que se hace pasar por una actualización de Google Chrome' />
+    <h4><a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736'>He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales</a></h4>
+    <a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-zephyrus-g16-3309109.jpg?tf=1200x' alt='He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157'>25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube</a></h4>
-    <a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-apple-carplay-marcas-coches-1382866'>Estas son las marcas de coche que integrarán el nuevo Apple CarPlay</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-apple-carplay-marcas-coches-1382866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-sabe-nueva-generacion-carplay-algunas-marcas-odian-3305672.jpg?tf=1200x' alt='Estas son las marcas de coche que integrarán el nuevo Apple CarPlay' />
     </a>
 </div>
 
