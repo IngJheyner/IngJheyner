@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347'>Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayor-estafa-online-deja-800000-victimas-comprar-tiendas-falsas-internet-3310214.jpg?tf=1200x' alt='Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161'>Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/arduino-vs-raspberry-pi-principales-diferencias-cual-mejor-opcion-proyectos-3309846.jpg?tf=1200x' alt='Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331'>Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?</a></h4>
     <a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg?tf=1200x' alt='Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310'>Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo</a></h4>
     <a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-andador-resiste-golpes-bate-1385359'>A este robot andador no lo tumban ni los Ewoks: resiste golpes con un bate</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-andador-resiste-golpes-bate-1385359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715129464324-3309291.jpg?tf=1200x' alt='A este robot andador no lo tumban ni los Ewoks: resiste golpes con un bate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/truco-policia-nacional-evitar-ofertas-empleo-fraudulentas-1384312'>Son falsas: el truco de la Policía Nacional para evitar las ofertas de empleo fraudulentas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/truco-policia-nacional-evitar-ofertas-empleo-fraudulentas-1384312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafas-movil-3310103.jpg?tf=1200x' alt='Son falsas: el truco de la Policía Nacional para evitar las ofertas de empleo fraudulentas' />
     </a>
 </div>
 
