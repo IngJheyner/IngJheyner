@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/mucha-gente-volviendo-windows-11-windows-10-tienen-razones-peso-ello-1385256'>Mucha gente está volviendo de Windows 11 a Windows 10 y tienen razones de peso para ello</a></h4>
+    <a href='https://computerhoy.com/windows/mucha-gente-volviendo-windows-11-windows-10-tienen-razones-peso-ello-1385256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gente-abucheando-windows-11-3310087.jpg?tf=1200x' alt='Mucha gente está volviendo de Windows 11 a Windows 10 y tienen razones de peso para ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiar-navegador-privado-opciones-1380569'>Estas son tus opciones si quieres usar un navegador web más privado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiar-navegador-privado-opciones-1380569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hora-abandonar-chrome-cambiar-navegador-privado-3301490.jpg?tf=1200x' alt='Estas son tus opciones si quieres usar un navegador web más privado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/cierre-bestbuy-iptv-futbol-1383280'>BestBuy IPTV daba todo el fútbol y más de 10.000 canales por 50 euros al año, hasta que les han pillado</a></h4>
     <a href='https://computerhoy.com/internet/cierre-bestbuy-iptv-futbol-1383280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-futbol-10000-canales-50-euros-ano-cae-mayores-redes-iptv-mundo-3306711.jpg?tf=1200x' alt='BestBuy IPTV daba todo el fútbol y más de 10.000 canales por 50 euros al año, hasta que les han pillado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/peligroso-magis-tv-como-funciona-app-iptv-ver-peliculas-series-futbol-limites-casi-gratis-1385250'>¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis</a></h4>
     <a href='https://computerhoy.com/apps/peligroso-magis-tv-como-funciona-app-iptv-ver-peliculas-series-futbol-limites-casi-gratis-1385250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='¿Es peligroso Magis TV? Qué es y cómo funciona la app IPTV para ver películas, series y fútbol sin límites casi gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-peludo-boston-dynamics-sparkles-adorable-1383033'>El nuevo robot peludo de Boston Dynamics es adorable y nos demuestra una cosa muy importante</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-peludo-boston-dynamics-sparkles-adorable-1383033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics es adorable y nos demuestra una cosa muy importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/apps-comparar-precios-supermercados-ahorrar-cientos-euros-cada-mes-1385228'>Apps para comparar precios en supermercados y ahorrar cientos de euros cada mes</a></h4>
-    <a href='https://computerhoy.com/apps/apps-comparar-precios-supermercados-ahorrar-cientos-euros-cada-mes-1385228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-compras-supermercado-3309996.jpg?tf=1200x' alt='Apps para comparar precios en supermercados y ahorrar cientos de euros cada mes' />
     </a>
 </div>
 
