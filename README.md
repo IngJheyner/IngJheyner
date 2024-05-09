@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667'>Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/matebook-d16-3247279.jpg?tf=1200x' alt='Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033'>Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo</a></h4>
     <a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/firefox-3309592.jpg?tf=1200x' alt='Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736'>He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales</a></h4>
     <a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-zephyrus-g16-3309109.jpg?tf=1200x' alt='He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-apple-carplay-marcas-coches-1382866'>Estas son las marcas de coche que integrarán el nuevo Apple CarPlay</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-apple-carplay-marcas-coches-1382866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todo-sabe-nueva-generacion-carplay-algunas-marcas-odian-3305672.jpg?tf=1200x' alt='Estas son las marcas de coche que integrarán el nuevo Apple CarPlay' />
     </a>
 </div>
 
