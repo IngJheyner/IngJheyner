@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-guerra-fabricantes-placas-base-fallos-cpu-gama-alta-1385211'>Intel en guerra con los fabricantes de placas base por los fallos de las CPU de gama alta</a></h4>
-    <a href='https://computerhoy.com/pc/intel-guerra-fabricantes-placas-base-fallos-cpu-gama-alta-1385211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Intel en guerra con los fabricantes de placas base por los fallos de las CPU de gama alta' />
+    <h4><a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206'>Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio</a></h4>
+    <a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710'>Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950'>Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-1381950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-cec-sirve-como-usarlo-smart-tv-3303905.jpg?tf=1200x' alt='Qué es el puerto HDMI CEC, para qué sirve y cómo usarlo en tu Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/ventas-coches-electricos-peligro-faltan-estaciones-carga-1382910'>Se necesitan 440.000 nuevas estaciones de carga en Europa si queremos que el coche eléctrico sea viable en 2030, y España va con retraso</a></h4>
-    <a href='https://computerhoy.com/motor/ventas-coches-electricos-peligro-faltan-estaciones-carga-1382910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estacion-carga-coche-electrico-3309739.jpg?tf=1200x' alt='Se necesitan 440.000 nuevas estaciones de carga en Europa si queremos que el coche eléctrico sea viable en 2030, y España va con retraso' />
+    <h4><a href='https://computerhoy.com/tv/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-1385199'>Disney y Warner Bros lanzan un paquete de streaming con Disney+, Hulu y HBO Max</a></h4>
+    <a href='https://computerhoy.com/tv/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-1385199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disney-warner-bros-lanzan-paquete-streaming-disney-hulu-hbo-max-3309921.jpg?tf=1200x' alt='Disney y Warner Bros lanzan un paquete de streaming con Disney+, Hulu y HBO Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/revivir-muertos-ia-ultima-moda-causa-furor-china-1385196'>Revivir a los muertos con inteligencia artificial: la última moda que causa furor en China</a></h4>
-    <a href='https://computerhoy.com/tecnologia/revivir-muertos-ia-ultima-moda-causa-furor-china-1385196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-fallecidos-3309926.jpg?tf=1200x' alt='Revivir a los muertos con inteligencia artificial: la última moda que causa furor en China' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220'>Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-ceo-apple-3309977.jpg?tf=1200x' alt='Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
-    <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
+    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-1382350'>Banana Pi es la alternativa perfecta a Raspberry Pi, y es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-1382350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-3304640.jpg?tf=1200x' alt='Banana Pi es la alternativa perfecta a Raspberry Pi, y es mucho más barato' />
     </a>
 </div>
 
