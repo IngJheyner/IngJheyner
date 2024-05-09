@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383'>Primer país del mundo en prohibir las contraseñas fáciles de adivinar</a></h4>
+    <a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-facil-adivinar-3310231.jpg?tf=1200x' alt='Primer país del mundo en prohibir las contraseñas fáciles de adivinar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-cascos-moda-shokz-openmove-conduccion-osea-desploman-precio-oferta-1385312'>Son los cascos de moda: los Shokz OpenMove de conducción ósea desploman su precio con esta oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-cascos-moda-shokz-openmove-conduccion-osea-desploman-precio-oferta-1385312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/shokz-openmove-3241568.jpg?tf=1200x' alt='Son los cascos de moda: los Shokz OpenMove de conducción ósea desploman su precio con esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408'>Cómo crear tu propio Flipper Zero con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-propio-flipper-zero-raspberry-pi-3310321.jpg?tf=1200x' alt='Cómo crear tu propio Flipper Zero con una Raspberry Pi' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798'>5 amenazas online de las que tu VPN no puede protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-amenazas-online-vpn-no-puede-protegerte-3309263.jpg?tf=1200x' alt='5 amenazas online de las que tu VPN no puede protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347'>Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/destapan-mayores-estafas-compra-online-historia-800000-victimas-todo-mundo-1385347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayor-estafa-online-deja-800000-victimas-comprar-tiendas-falsas-internet-3310214.jpg?tf=1200x' alt='Destapan una de las mayores estafas de compra online de la historia con más de 800.000 víctimas en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161'>Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/arduino-vs-raspberry-pi-principales-diferencias-cual-mejor-opcion-proyectos-3309846.jpg?tf=1200x' alt='Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos' />
     </a>
 </div>
 
