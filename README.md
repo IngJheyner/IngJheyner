@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-lanza-solucion-fallos-inestabilidad-cpu-pero-genera-mucha-confusion-1385223'>Intel lanza una solución para los fallos de inestabilidad de la CPU, pero genera mucha más confusión</a></h4>
+    <a href='https://computerhoy.com/pc/intel-lanza-solucion-fallos-inestabilidad-cpu-pero-genera-mucha-confusion-1385223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel lanza una solución para los fallos de inestabilidad de la CPU, pero genera mucha más confusión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206'>Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio</a></h4>
     <a href='https://computerhoy.com/pc/i9-pone-ordenador-6-ghz-amazon-ha-rebajado-bastante-precio-1385206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='Este i9 pone tu ordenador a 6 GHz y Amazon lo ha rebajado bastante de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220'>Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?</a></h4>
     <a href='https://computerhoy.com/apple/tim-cook-no-eterno-quien-sucedera-como-ceo-apple-1385220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-ceo-apple-3309977.jpg?tf=1200x' alt='Tim Cook no es eterno: ¿Quién le sucederá como CEO de Apple?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-1382350'>Banana Pi es la alternativa perfecta a Raspberry Pi, y es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banana-pi-alternativa-barata-raspberry-pi-1382350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banana-pi-3304640.jpg?tf=1200x' alt='Banana Pi es la alternativa perfecta a Raspberry Pi, y es mucho más barato' />
     </a>
 </div>
 
