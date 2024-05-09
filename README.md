@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331'>Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?</a></h4>
+    <a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg?tf=1200x' alt='Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275'>El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/warren-buffett-3310108.jpg?tf=1200x' alt='El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310'>Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo</a></h4>
     <a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/truco-policia-nacional-evitar-ofertas-empleo-fraudulentas-1384312'>Son falsas: el truco de la Policía Nacional para evitar las ofertas de empleo fraudulentas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/truco-policia-nacional-evitar-ofertas-empleo-fraudulentas-1384312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafas-movil-3310103.jpg?tf=1200x' alt='Son falsas: el truco de la Policía Nacional para evitar las ofertas de empleo fraudulentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/mucha-gente-volviendo-windows-11-windows-10-tienen-razones-peso-ello-1385256'>Mucha gente está volviendo de Windows 11 a Windows 10 y tienen razones de peso para ello</a></h4>
-    <a href='https://computerhoy.com/windows/mucha-gente-volviendo-windows-11-windows-10-tienen-razones-peso-ello-1385256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gente-abucheando-windows-11-3310087.jpg?tf=1200x' alt='Mucha gente está volviendo de Windows 11 a Windows 10 y tienen razones de peso para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiar-navegador-privado-opciones-1380569'>Estas son tus opciones si quieres usar un navegador web más privado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiar-navegador-privado-opciones-1380569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hora-abandonar-chrome-cambiar-navegador-privado-3301490.jpg?tf=1200x' alt='Estas son tus opciones si quieres usar un navegador web más privado' />
     </a>
 </div>
 
