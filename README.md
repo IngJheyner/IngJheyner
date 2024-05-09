@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157'>25 años después, vuelve el mítico Nokia 3210 con 4G y apps en la nube</a></h4>
+    <h4><a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157'>25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube</a></h4>
     <a href='https://computerhoy.com/moviles/vuelve-mitico-nokia-3210-4g-apps-nube-1385157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='25 años después, vuelve el mítico Nokia 3210 con 4G y apps en la nube' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='25 años después vuelve el mítico Nokia 3210, con 4G y apps en la nube' />
     </a>
 </div>
 
