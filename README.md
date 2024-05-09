@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408'>Cómo crear tu propio Flipper Zero con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-crear-propio-flipper-zero-raspberry-pi-1385408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-propio-flipper-zero-raspberry-pi-3310321.jpg?tf=1200x' alt='Cómo crear tu propio Flipper Zero con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-robots-poco-conocidas-1385044'>5 películas de robots poco conocidas que la crítica adora (y tienes que ver)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-robots-poco-conocidas-1385044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-peliculas-robots-poco-conocidas-critica-adora-tienes-ver-3309614.jpg?tf=1200x' alt='5 películas de robots poco conocidas que la crítica adora (y tienes que ver)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798'>5 amenazas online de las que tu VPN no puede protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/amenazas-online-vpn-no-puede-protegerte-1384798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-amenazas-online-vpn-no-puede-protegerte-3309263.jpg?tf=1200x' alt='5 amenazas online de las que tu VPN no puede protegerte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161'>Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos</a></h4>
     <a href='https://computerhoy.com/tecnologia/arduino-vs-raspberry-pi-principales-diferencias-1385161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/arduino-vs-raspberry-pi-principales-diferencias-cual-mejor-opcion-proyectos-3309846.jpg?tf=1200x' alt='Arduino vs. Raspberry Pi: principales diferencias y cuál es la mejor opción para tus proyectos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331'>Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?</a></h4>
-    <a href='https://computerhoy.com/gaming/ahora-nintendo-switch-2-realidad-debe-tener-convencer-jugadores-1385331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/analisis-nintendo-switch-oled-2508427.jpg?tf=1200x' alt='Ahora que Nintendo Switch 2 es una realidad: ¿qué debe tener para convencer a los jugadores?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275'>El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/warren-buffett-advierte-poder-ia-similar-armas-nucleares-1385275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/warren-buffett-3310108.jpg?tf=1200x' alt='El multimillonario Warren Buffett advierte del poder de la IA: “es algo similar a las armas nucleares”' />
     </a>
 </div>
 
