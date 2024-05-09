@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710'>Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/kobo-reta-kindle-rebaja-libra-2-audiolibros-ebliblio-cae-menos-200-euros-1384710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/kobo-libra-2-3201546.jpg?tf=1200x' alt='Kobo reta a los Kindle con esta rebaja: su Libra 2 con audiolibros y eBliblio cae a menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/ventas-coches-electricos-peligro-faltan-estaciones-carga-1382910'>Se necesitan 440.000 nuevas estaciones de carga en Europa si queremos que el coche eléctrico sea viable en 2030, y España va con retraso</a></h4>
+    <a href='https://computerhoy.com/motor/ventas-coches-electricos-peligro-faltan-estaciones-carga-1382910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estacion-carga-coche-electrico-3309739.jpg?tf=1200x' alt='Se necesitan 440.000 nuevas estaciones de carga en Europa si queremos que el coche eléctrico sea viable en 2030, y España va con retraso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/revivir-muertos-ia-ultima-moda-causa-furor-china-1385196'>Revivir a los muertos con inteligencia artificial: la última moda que causa furor en China</a></h4>
+    <a href='https://computerhoy.com/tecnologia/revivir-muertos-ia-ultima-moda-causa-furor-china-1385196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-fallecidos-3309926.jpg?tf=1200x' alt='Revivir a los muertos con inteligencia artificial: la última moda que causa furor en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879'>El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal</a></h4>
+    <a href='https://computerhoy.com/ciencia/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-1382879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/primer-dispositivo-funciona-como-cerebro-humano-fabricado-agua-sal-3305794.jpg?tf=1200x' alt='El primer dispositivo que funciona como el cerebro humano fabricado con agua y sal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667'>Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/huawei-te-pone-portatil-top-bandeja-windows-11-pantalla-16-precio-apenas-500-euros-1384667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/matebook-d16-3247279.jpg?tf=1200x' alt='Huawei te pone un portátil top en bandeja: Windows 11, pantalla de 16" y precio de apenas 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033'>Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo</a></h4>
-    <a href='https://computerhoy.com/internet/mujer-ha-mantenido-abiertas-7400-pestanas-navegador-durante-anos-curioso-motivo-1385033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/firefox-3309592.jpg?tf=1200x' alt='Esta mujer ha mantenido abiertas más de 7.400 pestañas del navegador durante años por un curioso motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trucos-midjourney-mejorar-imagenes-1382863'>Los 7 parámetros y comandos esenciales de Midjourney para obtener mejores resultados al generar tus imágenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trucos-midjourney-mejorar-imagenes-1382863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/midjourney-3309736.jpg?tf=1200x' alt='Los 7 parámetros y comandos esenciales de Midjourney para obtener mejores resultados al generar tus imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-raspberry-pi-servidor-web-1381407'>Cómo convertir una Raspberry Pi en un servidor web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-raspberry-pi-servidor-web-1381407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-configurar-raspberry-pi-servidor-web-3302975.jpg?tf=1200x' alt='Cómo convertir una Raspberry Pi en un servidor web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736'>He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales</a></h4>
-    <a href='https://computerhoy.com/analisis/asus-rog-zephyrus-g16-2024-analisis-caracteristicas-opinion-1384736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-zephyrus-g16-3309109.jpg?tf=1200x' alt='He probado el Asus ROG Zephyrus G16, un portátil gaming que convence por su diseño (casi) discreto y potencia a raudales' />
     </a>
 </div>
 
