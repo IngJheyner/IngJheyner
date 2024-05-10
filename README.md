@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-estafa-1383019'>Te compras una NVIDIA GeForce RTX 4090 y te viene vacía porque es una estafa y está de moda</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-estafa-1383019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3306081.jpg?tf=1200x' alt='Te compras una NVIDIA GeForce RTX 4090 y te viene vacía porque es una estafa y está de moda' />
+    <h4><a href='https://computerhoy.com/apps/peligrosa-funcion-telegram-debes-desactivar-ahora-mismo-agujero-seguridad-1385529'>La peligrosa función de Telegram que debes desactivar ahora mismo: "es un agujero de seguridad"</a></h4>
+    <a href='https://computerhoy.com/apps/peligrosa-funcion-telegram-debes-desactivar-ahora-mismo-agujero-seguridad-1385529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/telegram-ciberseguridad-3310554.jpg?tf=1200x' alt='La peligrosa función de Telegram que debes desactivar ahora mismo: "es un agujero de seguridad"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498'>Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-oled-edicion-mario-3122838.jpg?tf=1200x' alt='Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-1385515'>WhatsApp cambia su imagen radicalmente: nuevos iconos, colores y un modo oscuro mejorado </a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-1385515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-3310502.jpg?tf=1200x' alt='WhatsApp cambia su imagen radicalmente: nuevos iconos, colores y un modo oscuro mejorado ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-lia-pide-disculpas-como-anuncio-ipad-pro-2024-1385502'>Apple la lía y pide disculpas por cómo anunció su iPad Pro 2024 en el evento</a></h4>
-    <a href='https://computerhoy.com/apple/apple-lia-pide-disculpas-como-anuncio-ipad-pro-2024-1385502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-anuncio-ipad-pro-3310486.jpg?tf=1200x' alt='Apple la lía y pide disculpas por cómo anunció su iPad Pro 2024 en el evento' />
+    <h4><a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-estafa-amazon-1383055'>Con cepillos de dientes y facturas falsas han perpetrado una de las mayores estafas a Amazon</a></h4>
+    <a href='https://computerhoy.com/amazon/cepillos-dientes-facturas-falsas-estafa-amazon-1383055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cepillos-dientes-facturas-falsas-lograron-estafar-amazon-17-millones-euros-3306183.jpg?tf=1200x' alt='Con cepillos de dientes y facturas falsas han perpetrado una de las mayores estafas a Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/marines-estados-unidos-perros-robots-rifles-ia-1385501'>Estados Unidos está probando perros robots armados con rifles que apuntan usando una IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/marines-estados-unidos-perros-robots-rifles-ia-1385501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-probando-perros-robots-armados-rifles-apuntan-usando-ia-3310440.jpg?tf=1200x' alt='Estados Unidos está probando perros robots armados con rifles que apuntan usando una IA' />
+    <h4><a href='https://computerhoy.com/apple/todo-queda-casa-apple-usara-servidores-chips-m2-ultra-ia-iphone-1385506'>Todo queda en casa: Apple usará sus servidores con chips M2 Ultra para la IA del iPhone </a></h4>
+    <a href='https://computerhoy.com/apple/todo-queda-casa-apple-usara-servidores-chips-m2-ultra-ia-iphone-1385506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iphone-ia-3310509.jpg?tf=1200x' alt='Todo queda en casa: Apple usará sus servidores con chips M2 Ultra para la IA del iPhone ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916'>¡Ya está en tu quiosco el número 668 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-668-3308340.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 668 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/windows/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-1385492'>Es oficial: Windows 10 es un grave problema para Microsoft y tiene muy mala solución</a></h4>
+    <a href='https://computerhoy.com/windows/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-1385492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3310489.jpg?tf=1200x' alt='Es oficial: Windows 10 es un grave problema para Microsoft y tiene muy mala solución' />
     </a>
 </div>
 
