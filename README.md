@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310'>Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo' />
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498'>Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-oled-edicion-mario-3122838.jpg?tf=1200x' alt='Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786'>Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él' />
+    <h4><a href='https://computerhoy.com/apple/apple-lia-pide-disculpas-como-anuncio-ipad-pro-2024-1385502'>Apple la lía y pide disculpas por cómo anunció su iPad Pro 2024 en el evento</a></h4>
+    <a href='https://computerhoy.com/apple/apple-lia-pide-disculpas-como-anuncio-ipad-pro-2024-1385502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-anuncio-ipad-pro-3310486.jpg?tf=1200x' alt='Apple la lía y pide disculpas por cómo anunció su iPad Pro 2024 en el evento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973'>Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería</a></h4>
-    <a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-movil-3305210.jpg?tf=1200x' alt='Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería' />
+    <h4><a href='https://computerhoy.com/tecnologia/marines-estados-unidos-perros-robots-rifles-ia-1385501'>Estados Unidos está probando perros robots armados con rifles que apuntan usando una IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/marines-estados-unidos-perros-robots-rifles-ia-1385501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-probando-perros-robots-armados-rifles-apuntan-usando-ia-3310440.jpg?tf=1200x' alt='Estados Unidos está probando perros robots armados con rifles que apuntan usando una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875587.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916'>¡Ya está en tu quiosco el número 668 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-668-3308340.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 668 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793'>Por qué me compré un iPod classic 10 años después de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipod-classic-manu-contreras-3305482.jpg?tf=1200x' alt='Por qué me compré un iPod classic 10 años después de su lanzamiento' />
+    <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-listado-marcas-1383018'>Estos son los coches que menos se estropean, y los que más pasan por el taller</a></h4>
+    <a href='https://computerhoy.com/motor/coches-fiables-2024-listado-marcas-1383018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/coches-estropean-3310119.jpg?tf=1200x' alt='Estos son los coches que menos se estropean, y los que más pasan por el taller' />
     </a>
 </div>
 
