@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/peligrosa-funcion-telegram-debes-desactivar-ahora-mismo-agujero-seguridad-1385529'>La peligrosa función de Telegram que debes desactivar ahora mismo: "es un agujero de seguridad"</a></h4>
-    <a href='https://computerhoy.com/apps/peligrosa-funcion-telegram-debes-desactivar-ahora-mismo-agujero-seguridad-1385529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/telegram-ciberseguridad-3310554.jpg?tf=1200x' alt='La peligrosa función de Telegram que debes desactivar ahora mismo: "es un agujero de seguridad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-1385515'>WhatsApp cambia su imagen radicalmente: nuevos iconos, colores y un modo oscuro mejorado </a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-1385515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-cambia-imagen-radicalmente-nuevos-iconos-colores-modo-oscuro-mejorado-3310502.jpg?tf=1200x' alt='WhatsApp cambia su imagen radicalmente: nuevos iconos, colores y un modo oscuro mejorado ' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/windows/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-1385492'>Es oficial: Windows 10 es un grave problema para Microsoft y tiene muy mala solución</a></h4>
     <a href='https://computerhoy.com/windows/oficial-windows-10-grave-problema-microsoft-tiene-muy-mala-solucion-1385492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3310489.jpg?tf=1200x' alt='Es oficial: Windows 10 es un grave problema para Microsoft y tiene muy mala solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-rebajado-1750-frigorias-1385000'>El calor aprieta y aún es primavera: este aire acondicionado portátil es una buena solución a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aire-acondicionado-portatil-barato-rebajado-1750-frigorias-1385000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cecotec-forceclima-7100-soundless-3309078.jpg?tf=1200x' alt='El calor aprieta y aún es primavera: este aire acondicionado portátil es una buena solución a precio de locos' />
     </a>
 </div>
 
