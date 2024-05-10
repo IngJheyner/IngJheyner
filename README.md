@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chip-neuralink-implantado-primer-paciente-soltando-cerebro-1385485'>El chip de Neuralink implantado en el primer paciente, se está soltando del cerebro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chip-neuralink-implantado-primer-paciente-soltando-cerebro-1385485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='El chip de Neuralink implantado en el primer paciente, se está soltando del cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/miravia-deja-ko-amazon-rebaja-samsung-galaxy-watch-6-lte-cae-menos-200-euros-1385184'>Miravia deja KO a Amazon con esta rebaja: el Samsung Galaxy Watch 6 con LTE cae a menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/miravia-deja-ko-amazon-rebaja-samsung-galaxy-watch-6-lte-cae-menos-200-euros-1385184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110572.jpg?tf=1200x' alt='Miravia deja KO a Amazon con esta rebaja: el Samsung Galaxy Watch 6 con LTE cae a menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-tamano-pantalla-ideal-smart-tv-salon-habitacion-1381413'>Cómo elegir el tamaño de pantalla ideal para una Smart TV según tu salón o habitación</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-elegir-tamano-pantalla-ideal-smart-tv-salon-habitacion-1381413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/smart-tv-gigante-3310120.jpg?tf=1200x' alt='Cómo elegir el tamaño de pantalla ideal para una Smart TV según tu salón o habitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/tdt-canales-tv-gratis-movil-instalar-nada-1382470'>Así puedes ver la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/internet/tdt-canales-tv-gratis-movil-instalar-nada-1382470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-3304964.jpg?tf=1200x' alt='Así puedes ver la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-encontrar-clave-licencia-windows-11-3309327.jpg?tf=1200x' alt='Cómo encontrar la clave de licencia en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-movil-android-debes-desactivar-ahora-1263410'>Deja lo que estés haciendo y desactiva esta función de tu móvil Android ahora mismo</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/funcion-movil-android-debes-desactivar-ahora-1263410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-android-llave-3063264.jpg?tf=1200x' alt='Deja lo que estés haciendo y desactiva esta función de tu móvil Android ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460'>Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata</a></h4>
-    <a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-3310398.jpg?tf=1200x' alt='Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/lg-artcool-gallery-dispositivo-aire-acondicionado-invisible-1385469'>LG Artcool Gallery, el dispositivo de aire acondicionado invisible</a></h4>
-    <a href='https://computerhoy.com/hogar/lg-artcool-gallery-dispositivo-aire-acondicionado-invisible-1385469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lg-estrena-artcool-dispositivo-aire-acondicionado-invisible-3310292.jpg?tf=1200x' alt='LG Artcool Gallery, el dispositivo de aire acondicionado invisible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444'>¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?</a></h4>
-    <a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3310345.jpg?tf=1200x' alt='¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?' />
     </a>
 </div>
 
