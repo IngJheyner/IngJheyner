@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chip-neuralink-implantado-primer-paciente-soltando-cerebro-1385485'>El chip de Neuralink implantado en el primer paciente, se está soltando del cerebro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chip-neuralink-implantado-primer-paciente-soltando-cerebro-1385485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/neuralink-elon-musk-3139386.jpg?tf=1200x' alt='El chip de Neuralink implantado en el primer paciente, se está soltando del cerebro' />
+    <h4><a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973'>Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería</a></h4>
+    <a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-movil-3305210.jpg?tf=1200x' alt='Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/miravia-deja-ko-amazon-rebaja-samsung-galaxy-watch-6-lte-cae-menos-200-euros-1385184'>Miravia deja KO a Amazon con esta rebaja: el Samsung Galaxy Watch 6 con LTE cae a menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/miravia-deja-ko-amazon-rebaja-samsung-galaxy-watch-6-lte-cae-menos-200-euros-1385184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110572.jpg?tf=1200x' alt='Miravia deja KO a Amazon con esta rebaja: el Samsung Galaxy Watch 6 con LTE cae a menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875587.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-elegir-tamano-pantalla-ideal-smart-tv-salon-habitacion-1381413'>Cómo elegir el tamaño de pantalla ideal para una Smart TV según tu salón o habitación</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-elegir-tamano-pantalla-ideal-smart-tv-salon-habitacion-1381413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/smart-tv-gigante-3310120.jpg?tf=1200x' alt='Cómo elegir el tamaño de pantalla ideal para una Smart TV según tu salón o habitación' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786'>Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/tdt-canales-tv-gratis-movil-instalar-nada-1382470'>Así puedes ver la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/internet/tdt-canales-tv-gratis-movil-instalar-nada-1382470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/toda-tdt-4000-canales-tv-gratis-todo-mundo-movil-instalar-nada-3304964.jpg?tf=1200x' alt='Así puedes ver la TDT y más de 4.000 canales de TV gratis de todo el mundo en tu móvil sin instalar nada' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793'>Por qué me compré un iPod classic 10 años después de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipod-classic-manu-contreras-3305482.jpg?tf=1200x' alt='Por qué me compré un iPod classic 10 años después de su lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-encontrar-clave-licencia-windows-11-3309327.jpg?tf=1200x' alt='Cómo encontrar la clave de licencia en Windows 11' />
+    <h4><a href='https://computerhoy.com/tv/usos-sorprendentes-puedes-dar-viejo-televisor-1385165'>No lo tires: ideas y usos sorprendentes que le puedes dar a tu viejo televisor</a></h4>
+    <a href='https://computerhoy.com/tv/usos-sorprendentes-puedes-dar-viejo-televisor-1385165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usos-televisor-viejo-3310118.jpg?tf=1200x' alt='No lo tires: ideas y usos sorprendentes que le puedes dar a tu viejo televisor' />
     </a>
 </div>
 
