@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310'>Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llega-memoria-ram-actualizable-mayores-evoluciones-historia-informatica-pero-no-todo-positivo-1385310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='Llega la memoria RAM actualizable, una de las mayores evoluciones en la historia de la informática, pero no todo es positivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786'>Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973'>Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería</a></h4>
     <a href='https://computerhoy.com/moviles/cargo-movil-trucos-optimizar-bateria-1378973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-movil-3305210.jpg?tf=1200x' alt='Cargo mi móvil cada 2 días: los trucos que utilizo para optimizar la batería' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786'>Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-modo-dios-android-auto-1284786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-activar-modo-dios-android-auto-todo-puedes-hacer-3309861.jpg?tf=1200x' alt='Cómo activar el Modo Dios de Android Auto y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793'>Por qué me compré un iPod classic 10 años después de su lanzamiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/me-compre-ipod-classic-10-anos-despues-lanzamiento-1382793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ipod-classic-manu-contreras-3305482.jpg?tf=1200x' alt='Por qué me compré un iPod classic 10 años después de su lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/usos-sorprendentes-puedes-dar-viejo-televisor-1385165'>No lo tires: ideas y usos sorprendentes que le puedes dar a tu viejo televisor</a></h4>
-    <a href='https://computerhoy.com/tv/usos-sorprendentes-puedes-dar-viejo-televisor-1385165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usos-televisor-viejo-3310118.jpg?tf=1200x' alt='No lo tires: ideas y usos sorprendentes que le puedes dar a tu viejo televisor' />
     </a>
 </div>
 
