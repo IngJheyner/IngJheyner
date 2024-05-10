@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730'>Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros</a></h4>
+    <a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-juegos-anaden-salon-fama-videojuegos-2024-son-autenticos-creadores-generos-3310860.jpg?tf=1200x' alt='Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710'>Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683'>El verdadero peligro de Flipper Zero que nadie es capaz de ver</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verdadero-peligro-flipper-zero-nadie-capaz-ver-3310831.jpg?tf=1200x' alt='El verdadero peligro de Flipper Zero que nadie es capaz de ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972'>¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-3309478.jpg?tf=1200x' alt='¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo' />
     </a>
 </div>
 
