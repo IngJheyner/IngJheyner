@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319'>3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)</a></h4>
+    <a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-3310125.jpg?tf=1200x' alt='3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662'>Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-3310798.jpg?tf=1200x' alt='Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069'> Cómo cambiar la resolución de un PDF</a></h4>
     <a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-resolucion-pdf-3310453.jpg?tf=1200x' alt=' Cómo cambiar la resolución de un PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/productos-apple-llevan-pegatinas-cajas-ahora-1385592'>Por qué los productos de Apple llevan pegatinas en sus cajas (hasta ahora)</a></h4>
-    <a href='https://computerhoy.com/apple/productos-apple-llevan-pegatinas-cajas-ahora-1385592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pegatina-apple-3310683.jpg?tf=1200x' alt='Por qué los productos de Apple llevan pegatinas en sus cajas (hasta ahora)' />
     </a>
 </div>
 
