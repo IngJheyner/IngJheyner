@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-1385339'>Así ayudó Google Maps a resolver el caso de una mujer de 83 años desaparecida</a></h4>
+    <a href='https://computerhoy.com/apps/ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-1385339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-3310153.jpg?tf=1200x' alt='Así ayudó Google Maps a resolver el caso de una mujer de 83 años desaparecida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069'> Cómo cambiar la resolución de un PDF</a></h4>
     <a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-resolucion-pdf-3310453.jpg?tf=1200x' alt=' Cómo cambiar la resolución de un PDF' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-95-vuelve-vida-final-eurovision-2024-1385561'>Windows 95 vuelve a la vida para la final de Eurovisión 2024</a></h4>
     <a href='https://computerhoy.com/windows/windows-95-vuelve-vida-final-eurovision-2024-1385561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-95-vuelve-vida-final-eurovision-2024-3310623.jpg?tf=1200x' alt='Windows 95 vuelve a la vida para la final de Eurovisión 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/excel-permitira-escribir-mano-1383089'>El sueño de todo contable: vas a poder escribir a mano en Excel</a></h4>
-    <a href='https://computerhoy.com/apps/excel-permitira-escribir-mano-1383089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trae-actualizacion-excel-permitira-escribir-mano-3306246.jpg?tf=1200x' alt='El sueño de todo contable: vas a poder escribir a mano en Excel' />
     </a>
 </div>
 
