@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-estafa-1383019'>Te compras una NVIDIA GeForce RTX 4090 y te viene vacía porque es una estafa y está de moda</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-geforce-rtx-4090-estafa-1383019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tarjeta-grafica-3306081.jpg?tf=1200x' alt='Te compras una NVIDIA GeForce RTX 4090 y te viene vacía porque es una estafa y está de moda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498'>Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-llegaria-importante-mejora-memoria-ram-nueva-filtracion-1385498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/nintendo-switch-oled-edicion-mario-3122838.jpg?tf=1200x' alt='Nintendo Switch 2 llegaría con una importante mejora en la memoria RAM, según una nueva filtración' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916'>¡Ya está en tu quiosco el número 668 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-668-computer-hoy-1381916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-668-3308340.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 668 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coches-fiables-2024-listado-marcas-1383018'>Estos son los coches que menos se estropean, y los que más pasan por el taller</a></h4>
-    <a href='https://computerhoy.com/motor/coches-fiables-2024-listado-marcas-1383018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/coches-estropean-3310119.jpg?tf=1200x' alt='Estos son los coches que menos se estropean, y los que más pasan por el taller' />
     </a>
 </div>
 
