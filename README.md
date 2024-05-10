@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299'>Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-3310105.jpg?tf=1200x' alt='Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683'>El verdadero peligro de Flipper Zero que nadie es capaz de ver</a></h4>
     <a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verdadero-peligro-flipper-zero-nadie-capaz-ver-3310831.jpg?tf=1200x' alt='El verdadero peligro de Flipper Zero que nadie es capaz de ver' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662'>Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-3310798.jpg?tf=1200x' alt='Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/delirante-forma-gigante-informatico-dell-controlar-teletrabajo-banderitas-colores-1385518'>La delirante forma del gigante informático Dell de controlar el teletrabajo: con banderitas de colores</a></h4>
-    <a href='https://computerhoy.com/industria/delirante-forma-gigante-informatico-dell-controlar-teletrabajo-banderitas-colores-1385518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/banderas-colores-oficina-3310616.jpg?tf=1200x' alt='La delirante forma del gigante informático Dell de controlar el teletrabajo: con banderitas de colores' />
     </a>
 </div>
 
