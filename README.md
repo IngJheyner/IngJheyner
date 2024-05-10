@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683'>El verdadero peligro de Flipper Zero que nadie es capaz de ver</a></h4>
+    <a href='https://computerhoy.com/tecnologia/verdadero-peligro-flipper-zero-nadie-capaz-ver-1385683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verdadero-peligro-flipper-zero-nadie-capaz-ver-3310831.jpg?tf=1200x' alt='El verdadero peligro de Flipper Zero que nadie es capaz de ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972'>¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-3309478.jpg?tf=1200x' alt='¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319'>3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)</a></h4>
     <a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-3310125.jpg?tf=1200x' alt='3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/industria/delirante-forma-gigante-informatico-dell-controlar-teletrabajo-banderitas-colores-1385518'>La delirante forma del gigante informático Dell de controlar el teletrabajo: con banderitas de colores</a></h4>
     <a href='https://computerhoy.com/industria/delirante-forma-gigante-informatico-dell-controlar-teletrabajo-banderitas-colores-1385518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/banderas-colores-oficina-3310616.jpg?tf=1200x' alt='La delirante forma del gigante informático Dell de controlar el teletrabajo: con banderitas de colores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-1385339'>Así ayudó Google Maps a resolver el caso de una mujer de 83 años desaparecida</a></h4>
-    <a href='https://computerhoy.com/apps/ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-1385339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ayudo-google-maps-resolver-caso-mujer-83-anos-desaparecida-3310153.jpg?tf=1200x' alt='Así ayudó Google Maps a resolver el caso de una mujer de 83 años desaparecida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069'> Cómo cambiar la resolución de un PDF</a></h4>
-    <a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-resolucion-pdf-3310453.jpg?tf=1200x' alt=' Cómo cambiar la resolución de un PDF' />
     </a>
 </div>
 
