@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710'>Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630'>LEGO presenta una preciosa radio portátil retro que además "funciona"</a></h4>
     <a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lego-10334-3310715.jpg?tf=1200x' alt='LEGO presenta una preciosa radio portátil retro que además "funciona"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972'>¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-1384972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-seran-ordenadores-futuro-ia-otros-avances-cambiaran-todo-3309478.jpg?tf=1200x' alt='¿Cómo serán los ordenadores del futuro? La IA y otros avances que lo cambiarán todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319'>3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)</a></h4>
-    <a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-3310125.jpg?tf=1200x' alt='3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)' />
     </a>
 </div>
 
