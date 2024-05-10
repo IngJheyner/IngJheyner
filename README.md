@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630'>LEGO presenta una preciosa radio portátil retro que además "funciona"</a></h4>
+    <a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lego-10334-3310715.jpg?tf=1200x' alt='LEGO presenta una preciosa radio portátil retro que además "funciona"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299'>Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes</a></h4>
     <a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-3310105.jpg?tf=1200x' alt='Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319'>3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)</a></h4>
     <a href='https://computerhoy.com/tv/3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-1385319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-3-razones-no-deberias-subir-demasiado-volumen-televisor-oms-confirma-3310125.jpg?tf=1200x' alt='3 razones por las que no deberías subir demasiado el volumen de tu televisor (y la OMS lo confirma)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662'>Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/android/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-1385662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-lanza-sorpresa-android-auto-12-novedades-como-actualizar-ahora-mismo-3310798.jpg?tf=1200x' alt='Google lanza por sorpresa Android Auto 12: novedades y cómo actualizar ahora mismo' />
     </a>
 </div>
 
