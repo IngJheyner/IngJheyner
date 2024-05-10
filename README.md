@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069'> Cómo cambiar la resolución de un PDF</a></h4>
+    <a href='https://computerhoy.com/noticias/software/como-cambiar-resolucion-pdf-79069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-resolucion-pdf-3310453.jpg?tf=1200x' alt=' Cómo cambiar la resolución de un PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/productos-apple-llevan-pegatinas-cajas-ahora-1385592'>Por qué los productos de Apple llevan pegatinas en sus cajas (hasta ahora)</a></h4>
+    <a href='https://computerhoy.com/apple/productos-apple-llevan-pegatinas-cajas-ahora-1385592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pegatina-apple-3310683.jpg?tf=1200x' alt='Por qué los productos de Apple llevan pegatinas en sus cajas (hasta ahora)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-1285654'>No es un portátil con puertos USB en una escultura griega de hace 2.000 años, pero lo parece</a></h4>
+    <a href='https://computerhoy.com/life/portatil-puertos-usb-escultura-griega-1285654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/viajes-tiempo-portatil-puertos-usb-escultura-griega-hace-2000-anos-3289576.jpg?tf=1200x' alt='No es un portátil con puertos USB en una escultura griega de hace 2.000 años, pero lo parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-95-vuelve-vida-final-eurovision-2024-1385561'>Windows 95 vuelve a la vida para la final de Eurovisión 2024</a></h4>
     <a href='https://computerhoy.com/windows/windows-95-vuelve-vida-final-eurovision-2024-1385561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-95-vuelve-vida-final-eurovision-2024-3310623.jpg?tf=1200x' alt='Windows 95 vuelve a la vida para la final de Eurovisión 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/excel-permitira-escribir-mano-1383089'>El sueño de todo contable: vas a poder escribir a mano en Excel</a></h4>
     <a href='https://computerhoy.com/apps/excel-permitira-escribir-mano-1383089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/microsoft-trae-actualizacion-excel-permitira-escribir-mano-3306246.jpg?tf=1200x' alt='El sueño de todo contable: vas a poder escribir a mano en Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/openai-lista-comenzar-asalto-google-anuncio-podria-ser-inminente-1385539'>OpenAI lista comenzar su asalto a Google, el anuncio podría ser inminente</a></h4>
-    <a href='https://computerhoy.com/apps/openai-lista-comenzar-asalto-google-anuncio-podria-ser-inminente-1385539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-podrian-estar-preparando-gran-anuncio-competidor-google-3310576.jpg?tf=1200x' alt='OpenAI lista comenzar su asalto a Google, el anuncio podría ser inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/macbook-air-m3-mejor-portatil-mayoria-ya-cuesta-150-euros-menos-amazon-1385494'>El MacBook Air con M3, el mejor portátil para la mayoría, ya cuesta 150 euros menos en Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/macbook-air-m3-mejor-portatil-mayoria-ya-cuesta-150-euros-menos-amazon-1385494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288639.jpg?tf=1200x' alt='El MacBook Air con M3, el mejor portátil para la mayoría, ya cuesta 150 euros menos en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-porque-es-cara-1383111'>¿Por qué la IA es tan cara?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-porque-es-cara-1383111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inversion-inteligencia-artificial-3306303.jpg?tf=1200x' alt='¿Por qué la IA es tan cara?' />
     </a>
 </div>
 
