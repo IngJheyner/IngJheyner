@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769'>Cómo encontrar la clave de licencia en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-encontrar-clave-licencia-windows-11-1010769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-encontrar-clave-licencia-windows-11-3309327.jpg?tf=1200x' alt='Cómo encontrar la clave de licencia en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/funcion-movil-android-debes-desactivar-ahora-1263410'>Deja lo que estés haciendo y desactiva esta función de tu móvil Android ahora mismo</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/funcion-movil-android-debes-desactivar-ahora-1263410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/movil-android-llave-3063264.jpg?tf=1200x' alt='Deja lo que estés haciendo y desactiva esta función de tu móvil Android ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460'>Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata</a></h4>
     <a href='https://computerhoy.com/internet/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-1385460' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-3310398.jpg?tf=1200x' alt='Duro golpe contra el fútbol gratis: cae Beats TV, una de las mayores redes de IPTV pirata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444'>¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?</a></h4>
     <a href='https://computerhoy.com/life/tim-cook-sigue-guardando-numero-steve-jobs-iphone-1385444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3310345.jpg?tf=1200x' alt='¿Por qué Tim Cook sigue guardando el número de Steve Jobs en su iPhone?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/senor-anillos-caza-gollum-andy-serkis-1385456'>La nueva película de El Señor de los Anillos estará dirigida y protagonizada por Gollum</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/senor-anillos-caza-gollum-andy-serkis-1385456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-pelicula-senor-anillos-va-ser-dirigida-protagonizada-gollum-3310328.jpg?tf=1200x' alt='La nueva película de El Señor de los Anillos estará dirigida y protagonizada por Gollum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383'>Primer país del mundo en prohibir las contraseñas fáciles de adivinar</a></h4>
-    <a href='https://computerhoy.com/internet/primer-pais-mundo-prohibir-contrasenas-faciles-adivinar-1385383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-facil-adivinar-3310231.jpg?tf=1200x' alt='Primer país del mundo en prohibir las contraseñas fáciles de adivinar' />
     </a>
 </div>
 
