@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479'>7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-3310425.jpg?tf=1200x' alt='7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022'>Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ram-consejos-compra-3310607.jpg?tf=1200x' alt='Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/biblia-codigos-secretos-android-1383962'>La biblia de los códigos secretos para Android: desbloquea cientos de funciones ocultas en tu móvil</a></h4>
     <a href='https://computerhoy.com/android/biblia-codigos-secretos-android-1383962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigos-secretos-android-3310565.jpg?tf=1200x' alt='La biblia de los códigos secretos para Android: desbloquea cientos de funciones ocultas en tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/baterias-litio-podria-duplicar-vida-util-1380119'>¿Y si pudiéramos duplicar la vida útil de las baterías de litio actuales, simplemente cargándolas de otra manera?</a></h4>
     <a href='https://computerhoy.com/tecnologia/baterias-litio-podria-duplicar-vida-util-1380119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pilas-3310588.jpg?tf=1200x' alt='¿Y si pudiéramos duplicar la vida útil de las baterías de litio actuales, simplemente cargándolas de otra manera?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-pulsera-huawei-band-9-1383278'>Esto es lo que más me ha gustado de la Huawei Band 9, una pulsera que podría mejorar la calidad de tu sueño</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-pulsera-huawei-band-9-1383278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306592.jpg?tf=1200x' alt='Esto es lo que más me ha gustado de la Huawei Band 9, una pulsera que podría mejorar la calidad de tu sueño' />
     </a>
 </div>
 
