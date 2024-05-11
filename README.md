@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-quiere-ofrecer-herramienta-perfecta-profesores-1385836'>Copilot quiere ofrecer la herramienta perfecta para los profesores</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-quiere-ofrecer-herramienta-perfecta-profesores-1385836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Copilot quiere ofrecer la herramienta perfecta para los profesores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ventilador-techo-esconde-aspas-increiblemente-barato-hora-pensar-comprarlo-1385804'>Este ventilador de techo esconde sus aspas y es increíblemente barato: es hora de pensar en comprarlo</a></h4>
+    <a href='https://computerhoy.com/hogar/ventilador-techo-esconde-aspas-increiblemente-barato-hora-pensar-comprarlo-1385804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cecotec-energysilence-aero-4280-3311006.jpg?tf=1200x' alt='Este ventilador de techo esconde sus aspas y es increíblemente barato: es hora de pensar en comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/acabaron-esperas-google-play-ahora-te-permite-descargar-dos-aplicaciones-mismo-tiempo-1385835'>Se acabaron las esperas: Google Play ahora te permite descargar dos aplicaciones al mismo tiempo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acabaron-esperas-google-play-ahora-te-permite-descargar-dos-aplicaciones-mismo-tiempo-1385835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Se acabaron las esperas: Google Play ahora te permite descargar dos aplicaciones al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832'>Actualiza ya: Google acaba de lanzar un parche urgente para Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza ya: Google acaba de lanzar un parche urgente para Chrome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/40-horas-bateria-anc-primer-nivel-realme-pone-sector-auriculares-patas-arriba-rebaja-1385755'>40 horas de batería y ANC de primer nivel: realme pone el sector de los auriculares patas arriba con esta rebaja</a></h4>
     <a href='https://computerhoy.com/audio/40-horas-bateria-anc-primer-nivel-realme-pone-sector-auriculares-patas-arriba-rebaja-1385755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-buds-air-5-pro-3310942.jpg?tf=1200x' alt='40 horas de batería y ANC de primer nivel: realme pone el sector de los auriculares patas arriba con esta rebaja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815'>Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona</a></h4>
-    <a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810'>Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-3311014.jpg?tf=1200x' alt='Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793'>Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-coches-electricos-3310986.jpg?tf=1200x' alt='Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos' />
     </a>
 </div>
 
