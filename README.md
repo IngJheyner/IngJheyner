@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793'>Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-coches-electricos-3310986.jpg?tf=1200x' alt='Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791'>Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-edge-windows-11-3310985.jpg?tf=1200x' alt='Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860'>Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming</a></h4>
     <a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-3309319.jpg?tf=1200x' alt='Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-android-tv-1381208'>Esta Orange Pi es parecida a la Raspberry pero mucho más barata y admite Android TV 12</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-android-tv-1381208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orange-pi-zero-3-3310624.jpg?tf=1200x' alt='Esta Orange Pi es parecida a la Raspberry pero mucho más barata y admite Android TV 12' />
     </a>
 </div>
 
