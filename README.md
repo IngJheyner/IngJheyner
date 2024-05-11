@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/alternativa-kindle-tiene-pantalla-color-lee-epub-conecta-biblioteca-publica-1385301'>Esta alternativa al Kindle tiene pantalla a color, lee EPUB y se conecta a la biblioteca pública</a></h4>
-    <a href='https://computerhoy.com/tecnologia/alternativa-kindle-tiene-pantalla-color-lee-epub-conecta-biblioteca-publica-1385301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kobo-clara-colour-3309020.jpg?tf=1200x' alt='Esta alternativa al Kindle tiene pantalla a color, lee EPUB y se conecta a la biblioteca pública' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271'>Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/aire-acondicionado-portatil-consejos-compra-451271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/donde-debes-colocar-rejilla-aire-acondicionado-3102906.jpg?tf=1200x' alt='Comprar un aire acondicionado portátil, ¿qué debemos tener en cuenta en 2024?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/son-fraudes-basados-ingenieria-social-alerta-ocu-1385371'>Qué son los fraudes basados en la ingeniería social de los que alerta la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/son-fraudes-basados-ingenieria-social-alerta-ocu-1385371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fraudes-basados-ingenieria-social-alerta-ocu-3310198.jpg?tf=1200x' alt='Qué son los fraudes basados en la ingeniería social de los que alerta la OCU' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-pulsera-huawei-band-9-1383278'>Esto es lo que más me ha gustado de la Huawei Band 9, una pulsera que podría mejorar la calidad de tu sueño</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-pulsera-huawei-band-9-1383278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-band-9-3306592.jpg?tf=1200x' alt='Esto es lo que más me ha gustado de la Huawei Band 9, una pulsera que podría mejorar la calidad de tu sueño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610'>¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás</a></h4>
-    <a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/coche-electrico-3310736.jpg?tf=1200x' alt='¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-probando-nueva-funcion-menu-inicio-widgets-flotantes-1385741'>Windows 11 está probando una nueva función en el Menú de Inicio, que nadie ha pedido</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-probando-nueva-funcion-menu-inicio-widgets-flotantes-1385741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevos-widgets-flotantes-menu-inicio-windows-11-3310924.jpg?tf=1200x' alt='Windows 11 está probando una nueva función en el Menú de Inicio, que nadie ha pedido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-1385722'>Cómo tener Android Auto en cualquier coche con una Raspberry Pi y un móvil viejo</a></h4>
-    <a href='https://computerhoy.com/android/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-1385722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-3310911.jpg?tf=1200x' alt='Cómo tener Android Auto en cualquier coche con una Raspberry Pi y un móvil viejo' />
+    <h4><a href='https://computerhoy.com/analisis/he-probado-huawei-watch-4-pro-space-edition-elegante-resistente-perfecto-te-gusta-astronomia-1384445'>He probado el Huawei Watch 4 Pro Space Edition, un reloj de lujo, resistente y perfecto para amantes de la exploración espacial</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-huawei-watch-4-pro-space-edition-elegante-resistente-perfecto-te-gusta-astronomia-1384445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3310170.jpg?tf=1200x' alt='He probado el Huawei Watch 4 Pro Space Edition, un reloj de lujo, resistente y perfecto para amantes de la exploración espacial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730'>Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-juegos-anaden-salon-fama-videojuegos-2024-son-autenticos-creadores-generos-3310860.jpg?tf=1200x' alt='Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros' />
+    <h4><a href='https://computerhoy.com/tecnologia/risc-v-promete-revolucionar-sector-procesadores-1384044'>Qué es RISC-V y por qué promete revolucionar el sector de los procesadores </a></h4>
+    <a href='https://computerhoy.com/tecnologia/risc-v-promete-revolucionar-sector-procesadores-1384044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715341564846-3310692.jpg?tf=1200x' alt='Qué es RISC-V y por qué promete revolucionar el sector de los procesadores ' />
     </a>
 </div>
 
