@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815'>Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona</a></h4>
+    <a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810'>Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-3311014.jpg?tf=1200x' alt='Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795'>Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-3305474.jpg?tf=1200x' alt='Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774'>OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asistente-voz-openai-3310966.jpg?tf=1200x' alt='OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri' />
     </a>
 </div>
 
