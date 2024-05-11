@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832'>Actualiza ya: Google acaba de lanzar un parche urgente para Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza ya: Google acaba de lanzar un parche urgente para Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/40-horas-bateria-anc-primer-nivel-realme-pone-sector-auriculares-patas-arriba-rebaja-1385755'>40 horas de batería y ANC de primer nivel: realme pone el sector de los auriculares patas arriba con esta rebaja</a></h4>
+    <a href='https://computerhoy.com/audio/40-horas-bateria-anc-primer-nivel-realme-pone-sector-auriculares-patas-arriba-rebaja-1385755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-buds-air-5-pro-3310942.jpg?tf=1200x' alt='40 horas de batería y ANC de primer nivel: realme pone el sector de los auriculares patas arriba con esta rebaja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815'>Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona</a></h4>
     <a href='https://computerhoy.com/windows/ahora-herramienta-recortes-windows-11-te-permitira-buscar-imagenes-web-funciona-1385815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Ahora la herramienta de recortes de Windows 11 te permitirá buscar imágenes en la web: así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793'>Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-coches-electricos-3310986.jpg?tf=1200x' alt='Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791'>Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-edge-windows-11-3310985.jpg?tf=1200x' alt='Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795'>Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-3305474.jpg?tf=1200x' alt='Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada' />
     </a>
 </div>
 
