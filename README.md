@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-2-reloj-trail-running-top-acumula-300eu-descuento-1385517'>Garmin es protagonista en Amazon otra vez: el Epix 2 es el reloj ideal para el trail running y tiene más de 300 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-epix-2-reloj-trail-running-top-acumula-300eu-descuento-1385517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Garmin es protagonista en Amazon otra vez: el Epix 2 es el reloj ideal para el trail running y tiene más de 300 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-1385149'>Qué hacer cuando Windows 10 y 11 no responde y no permite hacer absolutamente nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-1385149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-3309841.jpg?tf=1200x' alt='Qué hacer cuando Windows 10 y 11 no responde y no permite hacer absolutamente nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-1269702'>Esta es la regla de los 5 minutos para proteger tu móvil que recomiendan los expertos en ciberseguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/regla-5-minutos-proteger-movil-1269702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/regla-5-minutos-proteger-movil-3310619.jpg?tf=1200x' alt='Esta es la regla de los 5 minutos para proteger tu móvil que recomiendan los expertos en ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/google-maps-vecinal-te-desvela-persona-famosa-barrio-1385753'>El Google Maps vecinal que te desvela la persona más famosa de tu barrio</a></h4>
     <a href='https://computerhoy.com/life/google-maps-vecinal-te-desvela-persona-famosa-barrio-1385753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-te-desvela-persona-famosa-barrio-3310925.jpg?tf=1200x' alt='El Google Maps vecinal que te desvela la persona más famosa de tu barrio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/minimalismo-emocional-llevar-vida-simple-puede-aumentar-felicidad-1384353'>Minimalismo emocional: cómo llevar una vida más simple puede aumentar tu felicidad en la era de las redes sociales</a></h4>
     <a href='https://computerhoy.com/life/minimalismo-emocional-llevar-vida-simple-puede-aumentar-felicidad-1384353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/minimalismo-emocional-como-llevar-vida-simple-puede-aumentar-felicidad-era-redes-sociales-3308465.jpg?tf=1200x' alt='Minimalismo emocional: cómo llevar una vida más simple puede aumentar tu felicidad en la era de las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chromebook-top-ventas-caracteristicas-principales-1382771'>Este es el portátil Chromebook de apenas 200 euros que lo está rompiendo en ventas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chromebook-top-ventas-caracteristicas-principales-1382771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acer-chromebook-314-3310612.jpg?tf=1200x' alt='Este es el portátil Chromebook de apenas 200 euros que lo está rompiendo en ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479'>7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-3310425.jpg?tf=1200x' alt='7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022'>Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ram-consejos-compra-3310607.jpg?tf=1200x' alt='Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos' />
     </a>
 </div>
 
