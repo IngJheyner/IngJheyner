@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/alternativa-kindle-tiene-pantalla-color-lee-epub-conecta-biblioteca-publica-1385301'>Esta alternativa al Kindle tiene pantalla a color, lee EPUB y se conecta a la biblioteca pública</a></h4>
+    <a href='https://computerhoy.com/tecnologia/alternativa-kindle-tiene-pantalla-color-lee-epub-conecta-biblioteca-publica-1385301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kobo-clara-colour-3309020.jpg?tf=1200x' alt='Esta alternativa al Kindle tiene pantalla a color, lee EPUB y se conecta a la biblioteca pública' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/son-fraudes-basados-ingenieria-social-alerta-ocu-1385371'>Qué son los fraudes basados en la ingeniería social de los que alerta la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/son-fraudes-basados-ingenieria-social-alerta-ocu-1385371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fraudes-basados-ingenieria-social-alerta-ocu-3310198.jpg?tf=1200x' alt='Qué son los fraudes basados en la ingeniería social de los que alerta la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610'>¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás</a></h4>
     <a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/coche-electrico-3310736.jpg?tf=1200x' alt='¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730'>Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros</a></h4>
     <a href='https://computerhoy.com/gaming/nuevos-juegos-salon-fama-2024-1385730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-juegos-anaden-salon-fama-videojuegos-2024-son-autenticos-creadores-generos-3310860.jpg?tf=1200x' alt='Los nuevos juegos del Salón de la Fama en 2024, son auténticos creadores de géneros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710'>Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-1385710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-convertir-casa-zona-segura-libre-contrasenas-desbloqueo-3310875.jpg?tf=1200x' alt='Cómo convertir tu casa en una zona segura libre de contraseñas de desbloqueo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630'>LEGO presenta una preciosa radio portátil retro que además "funciona"</a></h4>
-    <a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lego-10334-3310715.jpg?tf=1200x' alt='LEGO presenta una preciosa radio portátil retro que además "funciona"' />
     </a>
 </div>
 
