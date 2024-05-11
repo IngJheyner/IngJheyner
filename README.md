@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810'>Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/malware-quiere-robar-contrasenas-haciendose-pasar-instagram-whatsapp-1385810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-3311014.jpg?tf=1200x' alt='Este malware quiere robar tus contraseñas haciéndose pasar por Instagram y WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793'>Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-mejora-visibilidad-estaciones-carga-coches-electricos-1385793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-coches-electricos-3310986.jpg?tf=1200x' alt='Google Maps mejora la visibilidad de las estaciones de carga para los coches eléctricos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774'>OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asistente-voz-openai-3310966.jpg?tf=1200x' alt='OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860'>Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming</a></h4>
-    <a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-3309319.jpg?tf=1200x' alt='Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming' />
     </a>
 </div>
 
