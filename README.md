@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791'>Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-te-dejara-personalizar-navegador-edge-windows-11-no-genuino-1385791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegador-edge-windows-11-3310985.jpg?tf=1200x' alt='Microsoft no te dejará personalizar el navegador Edge si tu Windows 11 no es genuino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795'>Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-1382795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-grabar-llamada-iphone-aplicaciones-ni-instalar-nada-3305474.jpg?tf=1200x' alt='Cómo grabar una llamada en iPhone sin aplicaciones ni instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774'>OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-trabajaria-nuevo-asistente-voz-ia-competir-google-assistant-siri-1385774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asistente-voz-openai-3310966.jpg?tf=1200x' alt='OpenAI trabajaría en un nuevo asistente de voz de IA para competir con Google Assistant y Siri' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860'>Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming</a></h4>
     <a href='https://computerhoy.com/pc/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-1384860' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-cantidad-memoria-ram-adecuada-jugar-pc-gaming-3309319.jpg?tf=1200x' alt='Cuál es la cantidad de memoria RAM adecuada para jugar en un PC Gaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/orange-pi-android-tv-1381208'>Esta Orange Pi es parecida a la Raspberry pero mucho más barata y admite Android TV 12</a></h4>
     <a href='https://computerhoy.com/tecnologia/orange-pi-android-tv-1381208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orange-pi-zero-3-3310624.jpg?tf=1200x' alt='Esta Orange Pi es parecida a la Raspberry pero mucho más barata y admite Android TV 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-openai-han-llegado-acuerdo-llevar-funciones-chatgpt-iphone-bloomberg-1385764'>Apple y OpenAI han llegado a un acuerdo para llevar las funciones de ChatGPT al iPhone, según Bloomberg</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-openai-han-llegado-acuerdo-llevar-funciones-chatgpt-iphone-bloomberg-1385764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-apple-3310956.jpg?tf=1200x' alt='Apple y OpenAI han llegado a un acuerdo para llevar las funciones de ChatGPT al iPhone, según Bloomberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-epix-2-reloj-trail-running-top-acumula-300eu-descuento-1385517'>Garmin es protagonista en Amazon otra vez: el Epix 2 es el reloj ideal para el trail running y tiene más de 300 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-epix-2-reloj-trail-running-top-acumula-300eu-descuento-1385517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Garmin es protagonista en Amazon otra vez: el Epix 2 es el reloj ideal para el trail running y tiene más de 300 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-1385149'>Qué hacer cuando Windows 10 y 11 no responde y no permite hacer absolutamente nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-1385149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hacer-cuando-windows-10-11-no-responde-no-permite-hacer-absolutamente-nada-3309841.jpg?tf=1200x' alt='Qué hacer cuando Windows 10 y 11 no responde y no permite hacer absolutamente nada' />
     </a>
 </div>
 
