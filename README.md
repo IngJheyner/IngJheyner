@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610'>¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás</a></h4>
+    <a href='https://computerhoy.com/motor/golpe-coche-electrico-primera-marca-arrepiente-da-marcha-atras-1385610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/coche-electrico-3310736.jpg?tf=1200x' alt='¡Golpe al coche eléctrico! Primera marca que se arrepiente y da marcha atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-1385722'>Cómo tener Android Auto en cualquier coche con una Raspberry Pi y un móvil viejo</a></h4>
     <a href='https://computerhoy.com/android/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-1385722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-tener-android-auto-cualquier-coche-raspberry-pi-movil-viejo-3310911.jpg?tf=1200x' alt='Cómo tener Android Auto en cualquier coche con una Raspberry Pi y un móvil viejo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630'>LEGO presenta una preciosa radio portátil retro que además "funciona"</a></h4>
     <a href='https://computerhoy.com/life/lego-presenta-preciosa-radio-portatil-retro-ademas-funciona-1385630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lego-10334-3310715.jpg?tf=1200x' alt='LEGO presenta una preciosa radio portátil retro que además "funciona"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299'>Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-1385299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disney-echa-freno-peliculas-marvel-sera-futuro-superheroes-3310105.jpg?tf=1200x' alt='Disney echa el freno a las películas de Marvel: así será el futuro de sus superhéroes' />
     </a>
 </div>
 
