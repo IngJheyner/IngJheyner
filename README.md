@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/google-maps-vecinal-te-desvela-persona-famosa-barrio-1385753'>El Google Maps vecinal que te desvela la persona más famosa de tu barrio</a></h4>
+    <a href='https://computerhoy.com/life/google-maps-vecinal-te-desvela-persona-famosa-barrio-1385753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-te-desvela-persona-famosa-barrio-3310925.jpg?tf=1200x' alt='El Google Maps vecinal que te desvela la persona más famosa de tu barrio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/minimalismo-emocional-llevar-vida-simple-puede-aumentar-felicidad-1384353'>Minimalismo emocional: cómo llevar una vida más simple puede aumentar tu felicidad en la era de las redes sociales</a></h4>
+    <a href='https://computerhoy.com/life/minimalismo-emocional-llevar-vida-simple-puede-aumentar-felicidad-1384353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/minimalismo-emocional-como-llevar-vida-simple-puede-aumentar-felicidad-era-redes-sociales-3308465.jpg?tf=1200x' alt='Minimalismo emocional: cómo llevar una vida más simple puede aumentar tu felicidad en la era de las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chromebook-top-ventas-caracteristicas-principales-1382771'>Este es el portátil Chromebook de apenas 200 euros que lo está rompiendo en ventas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chromebook-top-ventas-caracteristicas-principales-1382771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acer-chromebook-314-3310612.jpg?tf=1200x' alt='Este es el portátil Chromebook de apenas 200 euros que lo está rompiendo en ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479'>7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-1385479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-trucos-infalibles-mejorar-rendimiento-velocidad-microsoft-excel-3310425.jpg?tf=1200x' alt='7 trucos infalibles para mejorar el rendimiento y la velocidad de Microsoft Excel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022'>Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos</a></h4>
     <a href='https://computerhoy.com/pc/memoria-ram-pc-consejos-1380022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ram-consejos-compra-3310607.jpg?tf=1200x' alt='Si vas a comprar memoria RAM para mejorar tu PC, ten en cuenta estos consejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/biblia-codigos-secretos-android-1383962'>La biblia de los códigos secretos para Android: desbloquea cientos de funciones ocultas en tu móvil</a></h4>
-    <a href='https://computerhoy.com/android/biblia-codigos-secretos-android-1383962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigos-secretos-android-3310565.jpg?tf=1200x' alt='La biblia de los códigos secretos para Android: desbloquea cientos de funciones ocultas en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dj-crea-musica-codigo-algoritmos-vivi-sesion-live-coding-directo-1384783'>¿Un DJ que crea música con código y algoritmos? Así viví una sesión de 'live coding' en directo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dj-crea-musica-codigo-algoritmos-vivi-sesion-live-coding-directo-1384783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/live-coding-3309600.jpg?tf=1200x' alt='¿Un DJ que crea música con código y algoritmos? Así viví una sesión de 'live coding' en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/baterias-litio-podria-duplicar-vida-util-1380119'>¿Y si pudiéramos duplicar la vida útil de las baterías de litio actuales, simplemente cargándolas de otra manera?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/baterias-litio-podria-duplicar-vida-util-1380119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pilas-3310588.jpg?tf=1200x' alt='¿Y si pudiéramos duplicar la vida útil de las baterías de litio actuales, simplemente cargándolas de otra manera?' />
     </a>
 </div>
 
