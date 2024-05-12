@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915'>Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA</a></h4>
+    <a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/filtran-nuevos-portatiles-windows-dell-snapdragon-x-elite-centrados-ia-3311205.jpg?tf=1200x' alt='Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-tablet-pone-amazon-patas-arriba-precio-pero-mucho-barata-aliexpress-1384981'>Xiaomi tiene una tablet que pone Amazon patas arriba con su precio, pero es mucho más barata en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-tablet-pone-amazon-patas-arriba-precio-pero-mucho-barata-aliexpress-1384981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Xiaomi tiene una tablet que pone Amazon patas arriba con su precio, pero es mucho más barata en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882'>Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/avatar-virtual-3311129.jpg?tf=1200x' alt='Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/expertos-avisan-riesgos-conectarte-wifi-aerolinea-proximo-viaje-1385880'>Los expertos avisan sobre los riesgos de conectarte al WiFi de tu aerolínea en tu próximo viaje</a></h4>
-    <a href='https://computerhoy.com/tecnologia/expertos-avisan-riesgos-conectarte-wifi-aerolinea-proximo-viaje-1385880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-wifi-3311126.jpg?tf=1200x' alt='Los expertos avisan sobre los riesgos de conectarte al WiFi de tu aerolínea en tu próximo viaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593'>Cómo grabar una llamada en Android sin aplicaciones ni instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-llamada-android-aplicaciones-ni-instalar-nada-3309750.jpg?tf=1200x' alt='Cómo grabar una llamada en Android sin aplicaciones ni instalar nada' />
     </a>
 </div>
 
