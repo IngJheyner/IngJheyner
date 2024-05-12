@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928'>Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/voltara-robot-vidente-predice-futuro-construyelo-mismo-raspberry-pi-3311225.jpg?tf=1200x' alt='Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920'>Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes</a></h4>
     <a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884'>Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome' />
     </a>
 </div>
 
