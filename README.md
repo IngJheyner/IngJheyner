@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884'>Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882'>Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/avatar-virtual-3311129.jpg?tf=1200x' alt='Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876'>Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chrome-visor-pdf-3311111.jpg?tf=1200x' alt='Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868'>ChatGPT cerca de ofrecer la integración con tus archivos más esperada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-integra-google-drive-3311095.jpg?tf=1200x' alt='ChatGPT cerca de ofrecer la integración con tus archivos más esperada' />
     </a>
 </div>
 
