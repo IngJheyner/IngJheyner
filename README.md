@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884'>Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593'>Cómo grabar una llamada en Android sin aplicaciones ni instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-llamada-android-aplicaciones-ni-instalar-nada-3309750.jpg?tf=1200x' alt='Cómo grabar una llamada en Android sin aplicaciones ni instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876'>Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chrome-visor-pdf-3311111.jpg?tf=1200x' alt='Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF' />
     </a>
 </div>
 
