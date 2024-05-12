@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882'>Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/avatar-virtual-3311129.jpg?tf=1200x' alt='Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/expertos-avisan-riesgos-conectarte-wifi-aerolinea-proximo-viaje-1385880'>Los expertos avisan sobre los riesgos de conectarte al WiFi de tu aerolínea en tu próximo viaje</a></h4>
+    <a href='https://computerhoy.com/tecnologia/expertos-avisan-riesgos-conectarte-wifi-aerolinea-proximo-viaje-1385880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-wifi-3311126.jpg?tf=1200x' alt='Los expertos avisan sobre los riesgos de conectarte al WiFi de tu aerolínea en tu próximo viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593'>Cómo grabar una llamada en Android sin aplicaciones ni instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-grabar-llamada-android-1384593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-llamada-android-aplicaciones-ni-instalar-nada-3309750.jpg?tf=1200x' alt='Cómo grabar una llamada en Android sin aplicaciones ni instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876'>Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF</a></h4>
     <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chrome-visor-pdf-3311111.jpg?tf=1200x' alt='Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868'>ChatGPT cerca de ofrecer la integración con tus archivos más esperada</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-integra-google-drive-3311095.jpg?tf=1200x' alt='ChatGPT cerca de ofrecer la integración con tus archivos más esperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-funciones-indispensables-poder-acabar-dominio-windows-10-1384755'>Windows 12: funciones indispensables para poder acabar con el dominio de Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-funciones-indispensables-poder-acabar-dominio-windows-10-1384755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/principales-caracteristicas-nos-gustaria-ver-windows-12-3309198.jpg?tf=1200x' alt='Windows 12: funciones indispensables para poder acabar con el dominio de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hdmi-smart-tv-diferente-estas-utilizando-mal-1258014'>Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
-    <a href='https://computerhoy.com/tv/hdmi-smart-tv-diferente-estas-utilizando-mal-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095'>Cómo crear un grupo de correo en Gmail y para qué sirve</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-grupo-correo-gmail-sirve-3309772.jpg?tf=1200x' alt='Cómo crear un grupo de correo en Gmail y para qué sirve' />
     </a>
 </div>
 
