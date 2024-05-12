@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nordvpn-3281651.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
+    <h4><a href='https://computerhoy.com/tecnologia/huawei-vende-reloj-identico-apple-watch-series-9-ahora-auriculares-gratis-1385205'>Huawei vende un reloj idéntico al Apple Watch Series 9, y ahora con auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/huawei-vende-reloj-identico-apple-watch-series-9-ahora-auriculares-gratis-1385205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-fit-3-3309882.jpg?tf=1200x' alt='Huawei vende un reloj idéntico al Apple Watch Series 9, y ahora con auriculares gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-quiere-ofrecer-herramienta-perfecta-profesores-1385836'>Copilot quiere ofrecer la herramienta perfecta para los profesores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-quiere-ofrecer-herramienta-perfecta-profesores-1385836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/diferencias-copilot-copilot-pro-merece-pena-pagar-ia-windows-11-3262591.jpg?tf=1200x' alt='Copilot quiere ofrecer la herramienta perfecta para los profesores' />
+    <h4><a href='https://computerhoy.com/apps/cual-gasolinera-barata-cercana-tienes-app-ha-convertido-mi-salvacion-1384784'>¿Cuál es la gasolinera más barata y cercana que tienes? Esta app se ha convertido en mi salvación</a></h4>
+    <a href='https://computerhoy.com/apps/cual-gasolinera-barata-cercana-tienes-app-ha-convertido-mi-salvacion-1384784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicacion-gasolineras-3310277.jpg?tf=1200x' alt='¿Cuál es la gasolinera más barata y cercana que tienes? Esta app se ha convertido en mi salvación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ventilador-techo-esconde-aspas-increiblemente-barato-hora-pensar-comprarlo-1385804'>Este ventilador de techo esconde sus aspas y es increíblemente barato: es hora de pensar en comprarlo</a></h4>
-    <a href='https://computerhoy.com/hogar/ventilador-techo-esconde-aspas-increiblemente-barato-hora-pensar-comprarlo-1385804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cecotec-energysilence-aero-4280-3311006.jpg?tf=1200x' alt='Este ventilador de techo esconde sus aspas y es increíblemente barato: es hora de pensar en comprarlo' />
+    <h4><a href='https://computerhoy.com/alimentacion/compra-inversa-supermercado-1383107'>La lista de la compra inversa puede ayudarte a ahorrar dinero y desperdiciar menos comida</a></h4>
+    <a href='https://computerhoy.com/alimentacion/compra-inversa-supermercado-1383107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lista-compra-3310655.jpg?tf=1200x' alt='La lista de la compra inversa puede ayudarte a ahorrar dinero y desperdiciar menos comida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acabaron-esperas-google-play-ahora-te-permite-descargar-dos-aplicaciones-mismo-tiempo-1385835'>Se acabaron las esperas: Google Play ahora te permite descargar dos aplicaciones al mismo tiempo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acabaron-esperas-google-play-ahora-te-permite-descargar-dos-aplicaciones-mismo-tiempo-1385835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/google-play-store-2810081.jpg?tf=1200x' alt='Se acabaron las esperas: Google Play ahora te permite descargar dos aplicaciones al mismo tiempo' />
+    <h4><a href='https://computerhoy.com/tecnologia/crean-espejo-magico-capaz-ejecutar-juegos-retro-gracias-raspberry-pi-5-1385834'>Crean "un espejo mágico" capaz de ejecutar juegos retro gracias a una Raspberry Pi 5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-espejo-magico-capaz-ejecutar-juegos-retro-gracias-raspberry-pi-5-1385834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crean-espejo-magico-capaz-ejecutar-juegos-retro-gracias-raspberry-pi-5-3311031.jpg?tf=1200x' alt='Crean "un espejo mágico" capaz de ejecutar juegos retro gracias a una Raspberry Pi 5' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832'>Actualiza ya: Google acaba de lanzar un parche urgente para Chrome</a></h4>
-    <a href='https://computerhoy.com/tecnologia/actualiza-ya-google-acaba-lanzar-parche-urgente-chrome-1385832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza ya: Google acaba de lanzar un parche urgente para Chrome' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-comida-domicilio-mi-favorita-1382250'>He probado todas las apps de comida a domicilio: esta es mi favorita</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-probado-todas-apps-comida-domicilio-mi-favorita-1382250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/comida-domicilio-3305273.jpg?tf=1200x' alt='He probado todas las apps de comida a domicilio: esta es mi favorita' />
     </a>
 </div>
 
