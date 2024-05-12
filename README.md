@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876'>Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chrome-pronto-te-permitira-agregar-firmas-manuscritas-archivos-pdf-1385876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chrome-visor-pdf-3311111.jpg?tf=1200x' alt='Chrome pronto te permitirá agregar firmas manuscritas a los archivos PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868'>ChatGPT cerca de ofrecer la integración con tus archivos más esperada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-cerca-ofrecer-integracion-archivos-esperada-1385868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-integra-google-drive-3311095.jpg?tf=1200x' alt='ChatGPT cerca de ofrecer la integración con tus archivos más esperada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-12-funciones-indispensables-poder-acabar-dominio-windows-10-1384755'>Windows 12: funciones indispensables para poder acabar con el dominio de Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-funciones-indispensables-poder-acabar-dominio-windows-10-1384755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/principales-caracteristicas-nos-gustaria-ver-windows-12-3309198.jpg?tf=1200x' alt='Windows 12: funciones indispensables para poder acabar con el dominio de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/hdmi-smart-tv-diferente-estas-utilizando-mal-1258014'>Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal</a></h4>
+    <a href='https://computerhoy.com/tv/hdmi-smart-tv-diferente-estas-utilizando-mal-1258014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/conexion-hdmi-3054724.jpg?tf=1200x' alt='Uno de los HDMI de tu Smart TV es diferente al resto y seguramente lo estés utilizando mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095'>Cómo crear un grupo de correo en Gmail y para qué sirve</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-grupo-correo-gmail-sirve-3309772.jpg?tf=1200x' alt='Cómo crear un grupo de correo en Gmail y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-tiene-ryzen-5-16-gb-ram-cuesta-menos-300-euros-1384324'>Olvida las Raspberry Pi: este Mini PC tiene Ryzen 5, 16 GB de RAM y cuesta menos de 300 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-tiene-ryzen-5-16-gb-ram-cuesta-menos-300-euros-1384324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beelink-ser5-3254285.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC tiene Ryzen 5, 16 GB de RAM y cuesta menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-tarjeta-grafica-1381713'>Cómo limpiar tu tarjeta gráfica para que dure más y funcione mejor</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-tarjeta-grafica-1381713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/limpiar-tarjeta-grafica-3310661.jpg?tf=1200x' alt='Cómo limpiar tu tarjeta gráfica para que dure más y funcione mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/oled-vs-qled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-1385384'>OLED vs. QLED: cuál es mejor, en qué se diferencian y qué tipo de televisor deberías comprar</a></h4>
-    <a href='https://computerhoy.com/tv/oled-vs-qled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-1385384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/qled-vs-oled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-3310287.jpg?tf=1200x' alt='OLED vs. QLED: cuál es mejor, en qué se diferencian y qué tipo de televisor deberías comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/limpiar-correctamente-movil-tutorial-1381573'>Lo que debes y no debes hacer para limpiar tu móvil a fondo sin cargártelo en el intento</a></h4>
-    <a href='https://computerhoy.com/moviles/limpiar-correctamente-movil-tutorial-1381573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-limpiar-fondo-movil-danarlo-consejos-3304851.jpg?tf=1200x' alt='Lo que debes y no debes hacer para limpiar tu móvil a fondo sin cargártelo en el intento' />
     </a>
 </div>
 
