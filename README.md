@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920'>Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915'>Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA</a></h4>
     <a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/filtran-nuevos-portatiles-windows-dell-snapdragon-x-elite-centrados-ia-3311205.jpg?tf=1200x' alt='Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884'>Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-permitira-ahorrar-memoria-forma-agresiva-utilizar-chrome-1385884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-formas-solucionar-error-memoria-insuficiente-google-chrome-3259276.jpg?tf=1200x' alt='Google permitirá ahorrar memoria “de forma agresiva” al utilizar Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882'>Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-planea-tecnologia-generar-avatares-virtuales-hiperrealistas-basados-rostro-usuarios-1385882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/avatar-virtual-3311129.jpg?tf=1200x' alt='Microsoft planea una tecnología para generar avatares virtuales hiperrealistas basados en el rostro de los usuarios' />
     </a>
 </div>
 
