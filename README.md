@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095'>Cómo crear un grupo de correo en Gmail y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-grupo-correo-gmail-1385095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-grupo-correo-gmail-sirve-3309772.jpg?tf=1200x' alt='Cómo crear un grupo de correo en Gmail y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-tiene-ryzen-5-16-gb-ram-cuesta-menos-300-euros-1384324'>Olvida las Raspberry Pi: este Mini PC tiene Ryzen 5, 16 GB de RAM y cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-raspberry-pi-mini-pc-tiene-ryzen-5-16-gb-ram-cuesta-menos-300-euros-1384324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beelink-ser5-3254285.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC tiene Ryzen 5, 16 GB de RAM y cuesta menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-tarjeta-grafica-1381713'>Cómo limpiar tu tarjeta gráfica para que dure más y funcione mejor</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-tarjeta-grafica-1381713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/limpiar-tarjeta-grafica-3310661.jpg?tf=1200x' alt='Cómo limpiar tu tarjeta gráfica para que dure más y funcione mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/oled-vs-qled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-1385384'>OLED vs. QLED: cuál es mejor, en qué se diferencian y qué tipo de televisor deberías comprar</a></h4>
     <a href='https://computerhoy.com/tv/oled-vs-qled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-1385384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/qled-vs-oled-cual-mejor-diferencian-tipo-televisor-deberias-comprar-3310287.jpg?tf=1200x' alt='OLED vs. QLED: cuál es mejor, en qué se diferencian y qué tipo de televisor deberías comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/limpiar-correctamente-movil-tutorial-1381573'>Lo que debes y no debes hacer para limpiar tu móvil a fondo sin cargártelo en el intento</a></h4>
     <a href='https://computerhoy.com/moviles/limpiar-correctamente-movil-tutorial-1381573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-limpiar-fondo-movil-danarlo-consejos-3304851.jpg?tf=1200x' alt='Lo que debes y no debes hacer para limpiar tu móvil a fondo sin cargártelo en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-herramientas-ia-estudiantes-profesores-1385475'>Las 15 mejores herramientas de IA para estudiantes y profesores</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-herramientas-ia-estudiantes-profesores-1385475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/15-mejores-herramientas-ia-estudiantes-profesores-3310422.jpg?tf=1200x' alt='Las 15 mejores herramientas de IA para estudiantes y profesores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/arc-windows-navegador-1383361'>Arc, el navegador web que intenta innovar, ya se puede instalar en Windows 11</a></h4>
-    <a href='https://computerhoy.com/apps/arc-windows-navegador-1383361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/arc-llega-windows-navegador-reemplazando-chrome-3306815.jpg?tf=1200x' alt='Arc, el navegador web que intenta innovar, ya se puede instalar en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-vs-hdd-diferencias-cual-mejor-ti-1383991'>SSD vs. HDD: Diferencias y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-vs-hdd-diferencias-cual-mejor-ti-1383991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ssd-vs-hdd-diferencias-cual-mejor-ti-3307864.jpg?tf=1200x' alt='SSD vs. HDD: Diferencias y cuál es mejor para ti' />
     </a>
 </div>
 
