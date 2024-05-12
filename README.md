@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tormentas-solares-estan-desactivando-gps-granjas-vital-plantar-maiz-1385932'>Las tormentas solares están desactivando el GPS de las granjas, vital para plantar el maíz</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tormentas-solares-estan-desactivando-gps-granjas-vital-plantar-maiz-1385932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tormentas-solares-estan-desactivando-gps-granjas-vitales-planta-maiz-3311229.jpg?tf=1200x' alt='Las tormentas solares están desactivando el GPS de las granjas, vital para plantar el maíz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928'>Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/voltara-robot-vidente-predice-futuro-construyelo-mismo-raspberry-pi-3311225.jpg?tf=1200x' alt='Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-tiene-tablet-pone-amazon-patas-arriba-precio-pero-mucho-barata-aliexpress-1384981'>Xiaomi tiene una tablet que pone Amazon patas arriba con su precio, pero es mucho más barata en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-tiene-tablet-pone-amazon-patas-arriba-precio-pero-mucho-barata-aliexpress-1384981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Xiaomi tiene una tablet que pone Amazon patas arriba con su precio, pero es mucho más barata en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544'>Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-modificar-cambiar-direccion-ip-1382544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-cambiar-direccion-ip-deberias-hacerlo-ahora-mismo-3305057.jpg?tf=1200x' alt='Cómo cambiar tu dirección IP y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
