@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199'>Microsoft cierra WordPad: estas son las mejores alternativas gratuitas</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Microsoft cierra WordPad: estas son las mejores alternativas gratuitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200'>OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617'>Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/materia-oscura-dark-matter-joel-edgerton-jennifer-connelly-3305524.jpg?tf=1200x' alt='Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-lanzamiento-europa-asia-1386195'>Apple Vision Pro se prepara para su expansión en Europa, pero no en España</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-lanzamiento-europa-asia-1386195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276014.jpg?tf=1200x' alt='Apple Vision Pro se prepara para su expansión en Europa, pero no en España' />
     </a>
 </div>
 
