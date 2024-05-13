@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/version-windows-10-quedara-soporte-siempre-solo-30-dias-1386188'>Esta versión de Windows 10 se quedará sin soporte para siempre en solo 30 días</a></h4>
-    <a href='https://computerhoy.com/windows/version-windows-10-quedara-soporte-siempre-solo-30-dias-1386188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Esta versión de Windows 10 se quedará sin soporte para siempre en solo 30 días' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200'>OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-error-molesto-word-aunque-no-todo-mundo-1386036'>Microsoft corrige el error más molesto de Word, aunque no para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-corrige-error-molesto-word-aunque-no-todo-mundo-1386036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-word-3311434.jpg?tf=1200x' alt='Microsoft corrige el error más molesto de Word, aunque no para todo el mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176'>HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-3311690.jpg?tf=1200x' alt='HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058'>No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien</a></h4>
-    <a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixel-buds-3311456.jpg?tf=1200x' alt='No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien' />
+    <h4><a href='https://computerhoy.com/entretenimiento/te-gusta-futbol-movistar-plus-tambien-dinero-sube-precio-tarifas-deportes-1386192'>¿Te gusta el fútbol? A Movistar Plus+ también tu dinero: sube el precio de las tarifas con deportes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/te-gusta-futbol-movistar-plus-tambien-dinero-sube-precio-tarifas-deportes-1386192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/movistar-plus-3289517.jpg?tf=1200x' alt='¿Te gusta el fútbol? A Movistar Plus+ también tu dinero: sube el precio de las tarifas con deportes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/casa-vecino-hace-sombra-placas-solares-1383861'>Imagina que prohíben construir tu casa porque hace sombra sobre las placas solares del vecino</a></h4>
-    <a href='https://computerhoy.com/energia/casa-vecino-hace-sombra-placas-solares-1383861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/placas-solares-3311636.jpg?tf=1200x' alt='Imagina que prohíben construir tu casa porque hace sombra sobre las placas solares del vecino' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617'>Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/materia-oscura-dark-matter-joel-edgerton-jennifer-connelly-3305524.jpg?tf=1200x' alt='Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734'>Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-3310918.jpg?tf=1200x' alt='Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar' />
+    <h4><a href='https://computerhoy.com/apple/apple-vision-lanzamiento-europa-asia-1386195'>Apple Vision Pro se prepara para su expansión en Europa, pero no en España</a></h4>
+    <a href='https://computerhoy.com/apple/apple-vision-lanzamiento-europa-asia-1386195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276014.jpg?tf=1200x' alt='Apple Vision Pro se prepara para su expansión en Europa, pero no en España' />
     </a>
 </div>
 
