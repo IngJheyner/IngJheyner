@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518'>Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables</a></h4>
+    <a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/yo-haciendo-deporte-tenis-reloj-google-pixel-watch-2-3305037.jpg?tf=1200x' alt='Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338'>¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?</a></h4>
+    <a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagar-tarjeta-3310675.jpg?tf=1200x' alt='¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-kindle-pasate-epub-lector-libros-electronicos-barato-puede-hacer-frente-1385221'>Olvida el Kindle, pásate al EPUB: este lector de libros electrónicos es barato y le puede hacer frente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-kindle-pasate-epub-lector-libros-electronicos-barato-puede-hacer-frente-1385221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spc-dickens-light-pro-3309957.jpg?tf=1200x' alt='Olvida el Kindle, pásate al EPUB: este lector de libros electrónicos es barato y le puede hacer frente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944'>El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo</a></h4>
     <a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/experimento-laboratorio-largo-acerca-100-anos-puedes-verlo-directo-3311249.jpg?tf=1200x' alt='El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936'>28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64</a></h4>
     <a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/28-anos-despues-descubren-como-abrir-puerta-cerrada-super-mario-64-3311233.jpg?tf=1200x' alt='28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tormentas-solares-estan-desactivando-gps-granjas-vital-plantar-maiz-1385932'>Las tormentas solares están desactivando el GPS de las granjas, vital para plantar el maíz</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tormentas-solares-estan-desactivando-gps-granjas-vital-plantar-maiz-1385932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tormentas-solares-estan-desactivando-gps-granjas-vitales-planta-maiz-3311229.jpg?tf=1200x' alt='Las tormentas solares están desactivando el GPS de las granjas, vital para plantar el maíz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928'>Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/voltara-robot-vidente-predice-futuro-raspberry-pi-1385928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/voltara-robot-vidente-predice-futuro-construyelo-mismo-raspberry-pi-3311225.jpg?tf=1200x' alt='Voltara, el robot vidente que predice tu futuro, constrúyelo con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920'>Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes' />
     </a>
 </div>
 
