@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171'>Cómo saber quién está conectado a mi red WiFi</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-quien-conectado-mi-red-wifi-3310920.jpg?tf=1200x' alt='Cómo saber quién está conectado a mi red WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/errores-muy-frecuentes-estas-acortando-vida-util-movil-1386016'>Errores muy frecuentes con lo que estás acortando la vida útil de tu móvil</a></h4>
+    <a href='https://computerhoy.com/moviles/errores-muy-frecuentes-estas-acortando-vida-util-movil-1386016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peligros-movil-3311450.jpg?tf=1200x' alt='Errores muy frecuentes con lo que estás acortando la vida útil de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028'>InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta</a></h4>
+    <a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ver-stories-instagram-3311411.jpg?tf=1200x' alt='InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065'>Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-intel-aurora-3311458.jpg?tf=1200x' alt='Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003'>Cómo calcular tu sueldo neto a partir del salario bruto en Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sueldo-calcular-excel-3311379.jpg?tf=1200x' alt='Cómo calcular tu sueldo neto a partir del salario bruto en Excel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-1385978'>La aterradora razón por la que la IA dice que jamás encontraremos extraterrestes</a></h4>
-    <a href='https://computerhoy.com/espacio/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-1385978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-3311297.jpg?tf=1200x' alt='La aterradora razón por la que la IA dice que jamás encontraremos extraterrestes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-garmin-fenix-7-dos-versiones-buscadas-200-euros-descuento-1385958'>Liquidación en el Garmin Fenix 7: dos de sus versiones más buscadas, con hasta 200 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-garmin-fenix-7-dos-versiones-buscadas-200-euros-descuento-1385958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Liquidación en el Garmin Fenix 7: dos de sus versiones más buscadas, con hasta 200 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004'>El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro</a></h4>
-    <a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/monstruo-devorando-disco-duro-3311402.jpg?tf=1200x' alt='El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro' />
     </a>
 </div>
 
