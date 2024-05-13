@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jubila-cuenta-drive-disco-duro-te-da-4tb-nube-siempre-pagas-sola-vez-1385289'>Jubila tu cuenta de Drive: este disco duro te da 4TB en la nube para siempre y lo pagas una sola vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jubila-cuenta-drive-disco-duro-te-da-4tb-nube-siempre-pagas-sola-vez-1385289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wd-my-cloud-ex2-2786865.jpg?tf=1200x' alt='Jubila tu cuenta de Drive: este disco duro te da 4TB en la nube para siempre y lo pagas una sola vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980'>Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-os-centro-todo-3268710.jpg?tf=1200x' alt='Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568'>Nintendo Switch 2 podría estar más lejos de lo que imaginabas</a></h4>
     <a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 podría estar más lejos de lo que imaginabas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/forma-correcta-limpiar-airpods-apple-1383678'>Esta es la forma correcta de limpiar tus AirPods, según la propia Apple</a></h4>
     <a href='https://computerhoy.com/apple/forma-correcta-limpiar-airpods-apple-1383678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/limpiar-airpods-3310695.jpg?tf=1200x' alt='Esta es la forma correcta de limpiar tus AirPods, según la propia Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518'>Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables</a></h4>
-    <a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/yo-haciendo-deporte-tenis-reloj-google-pixel-watch-2-3305037.jpg?tf=1200x' alt='Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338'>¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?</a></h4>
-    <a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagar-tarjeta-3310675.jpg?tf=1200x' alt='¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?' />
     </a>
 </div>
 
