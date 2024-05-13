@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/version-windows-10-quedara-soporte-siempre-solo-30-dias-1386188'>Esta versión de Windows 10 se quedará sin soporte para siempre en solo 30 días</a></h4>
+    <a href='https://computerhoy.com/windows/version-windows-10-quedara-soporte-siempre-solo-30-dias-1386188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/windows-10-2482401.jpg?tf=1200x' alt='Esta versión de Windows 10 se quedará sin soporte para siempre en solo 30 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-corrige-error-molesto-word-aunque-no-todo-mundo-1386036'>Microsoft corrige el error más molesto de Word, aunque no para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-corrige-error-molesto-word-aunque-no-todo-mundo-1386036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-word-3311434.jpg?tf=1200x' alt='Microsoft corrige el error más molesto de Word, aunque no para todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058'>No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien</a></h4>
     <a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixel-buds-3311456.jpg?tf=1200x' alt='No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734'>Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-3310918.jpg?tf=1200x' alt='Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-1386138'>OrangePi Kunpeng Pro, la misteriosa alternativa a Raspberry Pi con IA integrada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-1386138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-3311628.jpg?tf=1200x' alt='OrangePi Kunpeng Pro, la misteriosa alternativa a Raspberry Pi con IA integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732'>Qué es un archivo EPS, para qué sirve y cómo abrirlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/archivo-eps-sirve-como-abrirlo-3310915.jpg?tf=1200x' alt='Qué es un archivo EPS, para qué sirve y cómo abrirlo' />
     </a>
 </div>
 
