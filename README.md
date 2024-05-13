@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944'>El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo</a></h4>
+    <a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/experimento-laboratorio-largo-acerca-100-anos-puedes-verlo-directo-3311249.jpg?tf=1200x' alt='El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936'>28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64</a></h4>
     <a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/28-anos-despues-descubren-como-abrir-puerta-cerrada-super-mario-64-3311233.jpg?tf=1200x' alt='28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920'>Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes</a></h4>
     <a href='https://computerhoy.com/tecnologia/escaneo-cerebro-milimetro-neuronas-14-petabytes-1385920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='Nueva técnica de escaneo del cerebro tiene que parar: un milímetro de neuronas ocupa 1,4 Petabytes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915'>Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA</a></h4>
-    <a href='https://computerhoy.com/pc/nuevos-portatiles-windows-dell-snapdragon-x-elite-1385915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/filtran-nuevos-portatiles-windows-dell-snapdragon-x-elite-centrados-ia-3311205.jpg?tf=1200x' alt='Se filtran los nuevos portátiles Windows de Dell con Snapdragon X Elite, centrados en la IA' />
     </a>
 </div>
 
