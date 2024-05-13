@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058'>No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien</a></h4>
+    <a href='https://computerhoy.com/google/no-son-xiaomi-son-google-estos-cascos-bluetooth-son-increiblemente-baratos-suenan-muy-bien-1386058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixel-buds-3311456.jpg?tf=1200x' alt='No son Xiaomi, son de Google: estos cascos bluetooth son increíblemente baratos y suenan muy bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/casa-vecino-hace-sombra-placas-solares-1383861'>Imagina que prohíben construir tu casa porque hace sombra sobre las placas solares del vecino</a></h4>
+    <a href='https://computerhoy.com/energia/casa-vecino-hace-sombra-placas-solares-1383861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/placas-solares-3311636.jpg?tf=1200x' alt='Imagina que prohíben construir tu casa porque hace sombra sobre las placas solares del vecino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734'>Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-1385734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-vs-portatil-ventajas-desventajas-cual-deberias-comprar-3310918.jpg?tf=1200x' alt='Mini PC vs. Portátil: ventajas, desventajas y cuál deberías comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-1386138'>OrangePi Kunpeng Pro, la misteriosa alternativa a Raspberry Pi con IA integrada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-1386138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orangepi-kunpeng-pro-misteriosa-alternativa-raspberry-pi-ia-integrada-3311628.jpg?tf=1200x' alt='OrangePi Kunpeng Pro, la misteriosa alternativa a Raspberry Pi con IA integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732'>Qué es un archivo EPS, para qué sirve y cómo abrirlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/archivo-eps-sirve-como-abrirlo-3310915.jpg?tf=1200x' alt='Qué es un archivo EPS, para qué sirve y cómo abrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737'>Cómo liberar memoria RAM en un PC con Windows sin reiniciar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-liberar-memoria-ram-pc-windows-reiniciar-3310919.jpg?tf=1200x' alt='Cómo liberar memoria RAM en un PC con Windows sin reiniciar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171'>Cómo saber quién está conectado a mi red WiFi</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-quien-conectado-mi-red-wifi-3310920.jpg?tf=1200x' alt='Cómo saber quién está conectado a mi red WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/errores-muy-frecuentes-estas-acortando-vida-util-movil-1386016'>Errores muy frecuentes con lo que estás acortando la vida útil de tu móvil</a></h4>
-    <a href='https://computerhoy.com/moviles/errores-muy-frecuentes-estas-acortando-vida-util-movil-1386016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peligros-movil-3311450.jpg?tf=1200x' alt='Errores muy frecuentes con lo que estás acortando la vida útil de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028'>InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta</a></h4>
-    <a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ver-stories-instagram-3311411.jpg?tf=1200x' alt='InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta' />
     </a>
 </div>
 
