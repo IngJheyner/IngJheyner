@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065'>Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-intel-aurora-3311458.jpg?tf=1200x' alt='Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003'>Cómo calcular tu sueldo neto a partir del salario bruto en Excel</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sueldo-calcular-excel-3311379.jpg?tf=1200x' alt='Cómo calcular tu sueldo neto a partir del salario bruto en Excel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004'>El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro</a></h4>
     <a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/monstruo-devorando-disco-duro-3311402.jpg?tf=1200x' alt='El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000'>Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/imagenes-inteligencia-artificial-3311342.jpg?tf=1200x' alt='Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA' />
     </a>
 </div>
 
