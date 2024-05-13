@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003'>Cómo calcular tu sueldo neto a partir del salario bruto en Excel</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sueldo-calcular-excel-3311379.jpg?tf=1200x' alt='Cómo calcular tu sueldo neto a partir del salario bruto en Excel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-1385978'>La aterradora razón por la que la IA dice que jamás encontraremos extraterrestes</a></h4>
+    <a href='https://computerhoy.com/espacio/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-1385978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aterradora-razon-ia-dice-jamas-encontraremos-extraterrestes-3311297.jpg?tf=1200x' alt='La aterradora razón por la que la IA dice que jamás encontraremos extraterrestes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-garmin-fenix-7-dos-versiones-buscadas-200-euros-descuento-1385958'>Liquidación en el Garmin Fenix 7: dos de sus versiones más buscadas, con hasta 200 euros de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/liquidacion-garmin-fenix-7-dos-versiones-buscadas-200-euros-descuento-1385958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/garmin-fenix-7s-3189996.jpg?tf=1200x' alt='Liquidación en el Garmin Fenix 7: dos de sus versiones más buscadas, con hasta 200 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004'>El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro</a></h4>
     <a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/monstruo-devorando-disco-duro-3311402.jpg?tf=1200x' alt='El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000'>Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/imagenes-inteligencia-artificial-3311342.jpg?tf=1200x' alt='Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ia-diferencia-ordenador-siempre-1385982'>Qué es un PC con inteligencia artificial, cómo funciona y ¿deberías comprarte uno?</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ia-diferencia-ordenador-siempre-1385982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-inteligencia-artificial-3311315.jpg?tf=1200x' alt='Qué es un PC con inteligencia artificial, cómo funciona y ¿deberías comprarte uno?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jubila-cuenta-drive-disco-duro-te-da-4tb-nube-siempre-pagas-sola-vez-1385289'>Jubila tu cuenta de Drive: este disco duro te da 4TB en la nube para siempre y lo pagas una sola vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jubila-cuenta-drive-disco-duro-te-da-4tb-nube-siempre-pagas-sola-vez-1385289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/wd-my-cloud-ex2-2786865.jpg?tf=1200x' alt='Jubila tu cuenta de Drive: este disco duro te da 4TB en la nube para siempre y lo pagas una sola vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980'>Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-os-centro-todo-3268710.jpg?tf=1200x' alt='Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada' />
     </a>
 </div>
 
