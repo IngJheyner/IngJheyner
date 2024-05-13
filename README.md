@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568'>Nintendo Switch 2 podría estar más lejos de lo que imaginabas</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 podría estar más lejos de lo que imaginabas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-rompe-cadenas-ip-tiene-antivirus-ahora-da-tres-meses-extra-totalmente-gratis-1385271'>Esta VPN rompe las cadenas de tu IP y tiene hasta antivirus: ahora da tres meses extra totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-rompe-cadenas-ip-tiene-antivirus-ahora-da-tres-meses-extra-totalmente-gratis-1385271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Esta VPN rompe las cadenas de tu IP y tiene hasta antivirus: ahora da tres meses extra totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/forma-correcta-limpiar-airpods-apple-1383678'>Esta es la forma correcta de limpiar tus AirPods, según la propia Apple</a></h4>
+    <a href='https://computerhoy.com/apple/forma-correcta-limpiar-airpods-apple-1383678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/limpiar-airpods-3310695.jpg?tf=1200x' alt='Esta es la forma correcta de limpiar tus AirPods, según la propia Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518'>Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables</a></h4>
     <a href='https://computerhoy.com/life/5-trucos-deportista-habitual-sacarle-partido-wearable-1381518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/yo-haciendo-deporte-tenis-reloj-google-pixel-watch-2-3305037.jpg?tf=1200x' alt='Hago deporte 4 veces por semana y estos son mis trucos para sacarle más partido a los wearables' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338'>¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?</a></h4>
     <a href='https://computerhoy.com/life/obligacion-pagar-tarjeta-1383338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagar-tarjeta-3310675.jpg?tf=1200x' alt='¿Pueden obligarte por ley en un comercio a pagar con tarjeta aunque quieras pagar en efectivo? ¿Y viceversa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-kindle-pasate-epub-lector-libros-electronicos-barato-puede-hacer-frente-1385221'>Olvida el Kindle, pásate al EPUB: este lector de libros electrónicos es barato y le puede hacer frente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-kindle-pasate-epub-lector-libros-electronicos-barato-puede-hacer-frente-1385221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/spc-dickens-light-pro-3309957.jpg?tf=1200x' alt='Olvida el Kindle, pásate al EPUB: este lector de libros electrónicos es barato y le puede hacer frente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944'>El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo</a></h4>
-    <a href='https://computerhoy.com/ciencia/experimento-gota-brea-mas-largo-1385944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/experimento-laboratorio-largo-acerca-100-anos-puedes-verlo-directo-3311249.jpg?tf=1200x' alt='El experimento de laboratorio más largo se acerca a los 100 años, y puedes verlo en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936'>28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64</a></h4>
-    <a href='https://computerhoy.com/gaming/super-mario-64-28-anos-despues-descubren-abrir-puerta-cerrada-1385936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/28-anos-despues-descubren-como-abrir-puerta-cerrada-super-mario-64-3311233.jpg?tf=1200x' alt='28 años después, descubren cómo abrir una puerta cerrada en Super Mario 64' />
     </a>
 </div>
 
