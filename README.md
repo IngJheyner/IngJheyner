@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737'>Cómo liberar memoria RAM en un PC con Windows sin reiniciar</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-liberar-memoria-ram-pc-windows-reiniciar-3310919.jpg?tf=1200x' alt='Cómo liberar memoria RAM en un PC con Windows sin reiniciar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171'>Cómo saber quién está conectado a mi red WiFi</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-quien-conectado-mi-red-wifi-1062171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-quien-conectado-mi-red-wifi-3310920.jpg?tf=1200x' alt='Cómo saber quién está conectado a mi red WiFi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065'>Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-intel-aurora-3311458.jpg?tf=1200x' alt='Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003'>Cómo calcular tu sueldo neto a partir del salario bruto en Excel</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-calcular-sueldo-neto-partir-salario-bruto-excel-1386003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sueldo-calcular-excel-3311379.jpg?tf=1200x' alt='Cómo calcular tu sueldo neto a partir del salario bruto en Excel' />
     </a>
 </div>
 
