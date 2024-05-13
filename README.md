@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732'>Qué es un archivo EPS, para qué sirve y cómo abrirlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/archivo-eps-sirve-como-abrirlo-1385732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/archivo-eps-sirve-como-abrirlo-3310915.jpg?tf=1200x' alt='Qué es un archivo EPS, para qué sirve y cómo abrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737'>Cómo liberar memoria RAM en un PC con Windows sin reiniciar</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-liberar-memoria-ram-pc-windows-reiniciar-1385737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-liberar-memoria-ram-pc-windows-reiniciar-3310919.jpg?tf=1200x' alt='Cómo liberar memoria RAM en un PC con Windows sin reiniciar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028'>InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta</a></h4>
     <a href='https://computerhoy.com/tutoriales/instastoriesviewer-como-ver-stories-instagram-otros-den-cuenta-1386028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ver-stories-instagram-3311411.jpg?tf=1200x' alt='InstaStoriesViewer: cómo ver las stories de Instagram de otros sin que se den cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065'>Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-anuncia-aurora-superordenador-rapido-mundo-ia-1386065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-intel-aurora-3311458.jpg?tf=1200x' alt='Intel se corona y anuncia que Aurora, su superordenador, es el más rápido del mundo para IA' />
     </a>
 </div>
 
