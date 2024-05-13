@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004'>El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro</a></h4>
+    <a href='https://computerhoy.com/gaming/motivo-videojuegos-estan-creciendo-control-devorando-disco-duro-1386004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/monstruo-devorando-disco-duro-3311402.jpg?tf=1200x' alt='El motivo por el que los videojuegos están creciendo sin control devorando tu disco duro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000'>Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-crear-imagenes-buenos-dias-buenas-noches-enviar-whatsapp-utilizando-ia-1386000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/imagenes-inteligencia-artificial-3311342.jpg?tf=1200x' alt='Cómo crear imágenes de buenos días y buenas noches para enviar por WhatsApp utilizando la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/pc-ia-diferencia-ordenador-siempre-1385982'>Qué es un PC con inteligencia artificial, cómo funciona y ¿deberías comprarte uno?</a></h4>
     <a href='https://computerhoy.com/pc/pc-ia-diferencia-ordenador-siempre-1385982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ordenador-inteligencia-artificial-3311315.jpg?tf=1200x' alt='Qué es un PC con inteligencia artificial, cómo funciona y ¿deberías comprarte uno?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980'>Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada</a></h4>
     <a href='https://computerhoy.com/tecnologia/tecnologia-medias-dispositivos-prometieron-mucho-2024-pero-quedaron-nada-1385980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/rabbit-os-centro-todo-3268710.jpg?tf=1200x' alt='Tecnología a medias: dispositivos que prometieron mucho en 2024, pero quedaron en la nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568'>Nintendo Switch 2 podría estar más lejos de lo que imaginabas</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-podria-estar-lejos-imaginabas-1385568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Nintendo Switch 2 podría estar más lejos de lo que imaginabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-rompe-cadenas-ip-tiene-antivirus-ahora-da-tres-meses-extra-totalmente-gratis-1385271'>Esta VPN rompe las cadenas de tu IP y tiene hasta antivirus: ahora da tres meses extra totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-rompe-cadenas-ip-tiene-antivirus-ahora-da-tres-meses-extra-totalmente-gratis-1385271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-vpn-3309985.jpg?tf=1200x' alt='Esta VPN rompe las cadenas de tu IP y tiene hasta antivirus: ahora da tres meses extra totalmente gratis' />
     </a>
 </div>
 
