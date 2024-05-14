@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504'>Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/anillos-poder-casa-dragon-nuevos-traileres-fechas-estreno-1386515'>Los Anillos de Poder y La Casa del Dragón: nuevos tráileres y fechas de estreno</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/anillos-poder-casa-dragon-nuevos-traileres-fechas-estreno-1386515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715712953284-3312260.jpg?tf=1200x' alt='Los Anillos de Poder y La Casa del Dragón: nuevos tráileres y fechas de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ocu-acusa-dazn-tramposos-no-respetar-normas-darse-baja-toda-odisea-1386509'>La OCU acusa a DAZN de tramposos y no respetar las normas: "Darse de baja es toda una odisea”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ocu-acusa-dazn-tramposos-no-respetar-normas-darse-baja-toda-odisea-1386509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='La OCU acusa a DAZN de tramposos y no respetar las normas: "Darse de baja es toda una odisea”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508'>Google renueva por completo su buscador con la IA generativa como protagonista</a></h4>
     <a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ai-overviews-3312258.jpg?tf=1200x' alt='Google renueva por completo su buscador con la IA generativa como protagonista' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507'>Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga</a></h4>
     <a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/francia-suma-lucha-servicios-iptv-piratas-bloquea-webs-ilegales-laliga-3312240.jpg?tf=1200x' alt='Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-parece-estar-retirando-avisar-otra-funcion-google-maps-no-todo-mundo-1386506'>Google parece estar retirando sin avisar otra función de Google Maps, y no para todo el mundo</a></h4>
-    <a href='https://computerhoy.com/apps/google-parece-estar-retirando-avisar-otra-funcion-google-maps-no-todo-mundo-1386506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Google parece estar retirando sin avisar otra función de Google Maps, y no para todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/cual-diferencia-google-tv-android-tv-1386471'>¿Cuál es la diferencia entre Google TV y Android TV?</a></h4>
-    <a href='https://computerhoy.com/android/cual-diferencia-google-tv-android-tv-1386471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-diferencia-google-tv-android-tv-3312245.jpg?tf=1200x' alt='¿Cuál es la diferencia entre Google TV y Android TV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mitico-stephen-king-rendido-nueva-serie-netflix-extraordinaria-1386368'>El mítico Stephen King, rendido ante esta nueva serie de Netflix: “es extraordinaria”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mitico-stephen-king-rendido-nueva-serie-netflix-extraordinaria-1386368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3292147.jpg?tf=1200x' alt='El mítico Stephen King, rendido ante esta nueva serie de Netflix: “es extraordinaria”' />
     </a>
 </div>
 
