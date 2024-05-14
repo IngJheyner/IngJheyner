@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269'>ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3191572.jpg?tf=1200x' alt='ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-recibes-caja-misteriosa-shein-1383300'>Así es la estafa de la caja misteriosa de Shein</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-recibes-caja-misteriosa-shein-1383300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Así es la estafa de la caja misteriosa de Shein' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985'>Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles</a></h4>
     <a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073'>Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella</a></h4>
     <a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-3311528.jpg?tf=1200x' alt='Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aparato-hara-televisor-sea-mejor-tiene-android-13-cuesta-menos-30-euros-1385963'>Este aparato hará que tu televisor sea mejor: tiene Android 13 y cuesta menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aparato-hara-televisor-sea-mejor-tiene-android-13-cuesta-menos-30-euros-1385963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/x88-pro-13-3311262.jpg?tf=1200x' alt='Este aparato hará que tu televisor sea mejor: tiene Android 13 y cuesta menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bateria-portatil-lidl-puedes-usar-todos-dispositivos-1385631'>Rápida, barata y cómoda: así es la batería portátil de Lidl que puedes usar en todos tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bateria-portatil-lidl-puedes-usar-todos-dispositivos-1385631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bateria-lidl-3311579.jpg?tf=1200x' alt='Rápida, barata y cómoda: así es la batería portátil de Lidl que puedes usar en todos tus dispositivos' />
     </a>
 </div>
 
