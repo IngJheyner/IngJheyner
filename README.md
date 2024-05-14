@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305'>Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear</a></h4>
+    <a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consiguen-hackear-switch-windows-11-pero-resultado-no-esperado-3311909.jpg?tf=1200x' alt='Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856'>Internet entero depende de estos servidores 13 servidores DNS</a></h4>
+    <a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Internet entero depende de estos servidores 13 servidores DNS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/novedades-trae-nuevo-modelo-openai-gpt-4o-chatgpt-1386331'>¿Qué novedades trae el nuevo modelo de OpenAI GPT-4o a ChatGPT?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/novedades-trae-nuevo-modelo-openai-gpt-4o-chatgpt-1386331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/novedades-gpt-4o-3311955.jpg?tf=1200x' alt='¿Qué novedades trae el nuevo modelo de OpenAI GPT-4o a ChatGPT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/buenas-noticias-netflix-posiciona-espana-dentro-elite-paises-1386271'>Buenas noticias: Netflix posiciona a España dentro de su élite de países</a></h4>
     <a href='https://computerhoy.com/tv/buenas-noticias-netflix-posiciona-espana-dentro-elite-paises-1386271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-3311927.jpg?tf=1200x' alt='Buenas noticias: Netflix posiciona a España dentro de su élite de países' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/realme-12-vs-realme-12-pantalla-camara-bateria-pero-cual-ti-1386061'>Realme 12 vs Realme 12+: pantalla, cámara y batería, ¿pero cuál es para ti?</a></h4>
     <a href='https://computerhoy.com/analisis/realme-12-vs-realme-12-pantalla-camara-bateria-pero-cual-ti-1386061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-vs-realme-12-3311934.jpg?tf=1200x' alt='Realme 12 vs Realme 12+: pantalla, cámara y batería, ¿pero cuál es para ti?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mienten-fabricantes-velocidad-real-memoria-ram-1386316'>¿Mienten los fabricantes sobre la velocidad real de la memoria RAM?</a></h4>
-    <a href='https://computerhoy.com/pc/mienten-fabricantes-velocidad-real-memoria-ram-1386316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ram-3311923.jpg?tf=1200x' alt='¿Mienten los fabricantes sobre la velocidad real de la memoria RAM?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-reinventa-pulsera-inteligente-band-8-pro-parece-reloj-aunque-precio-bajisimo-1386278'>Xiaomi reinventa su pulsera inteligente: la Band 8 Pro parece un reloj, aunque su precio es bajísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-reinventa-pulsera-inteligente-band-8-pro-parece-reloj-aunque-precio-bajisimo-1386278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290723.jpg?tf=1200x' alt='Xiaomi reinventa su pulsera inteligente: la Band 8 Pro parece un reloj, aunque su precio es bajísimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/porque-memoria-ram-soldada-motivos-1382802'>Este es el motivo real por el que cada vez más portátiles llevan la memoria RAM soldada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/porque-memoria-ram-soldada-motivos-1382802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Este es el motivo real por el que cada vez más portátiles llevan la memoria RAM soldada' />
     </a>
 </div>
 
