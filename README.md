@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398'>La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-whatsapp-preocupa-expertos-no-compartas-ningun-codigo-verificacion-3312049.jpg?tf=1200x' alt='La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113'>La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-3311529.jpg?tf=1200x' alt='La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305'>Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear</a></h4>
     <a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consiguen-hackear-switch-windows-11-pero-resultado-no-esperado-3311909.jpg?tf=1200x' alt='Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856'>Internet entero depende de estos servidores 13 servidores DNS</a></h4>
-    <a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Internet entero depende de estos servidores 13 servidores DNS' />
     </a>
 </div>
 
