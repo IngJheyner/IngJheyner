@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445'>¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-3312190.jpg?tf=1200x' alt='¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/fue-primera-calle-iluminada-artificialmente-mundo-gracias-thomas-alva-edison-luces-led-1386349'>Esta fue la primera calle iluminada artificialmente del mundo, gracias Thomas Alva Edison (y sin luces LED)</a></h4>
+    <a href='https://computerhoy.com/energia/fue-primera-calle-iluminada-artificialmente-mundo-gracias-thomas-alva-edison-luces-led-1386349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fue-primera-calle-iluminada-mundo-gracias-thomas-alva-edison-luces-led-3311988.jpg?tf=1200x' alt='Esta fue la primera calle iluminada artificialmente del mundo, gracias Thomas Alva Edison (y sin luces LED)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398'>La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-whatsapp-preocupa-expertos-no-compartas-ningun-codigo-verificacion-3312049.jpg?tf=1200x' alt='La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387'>Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores</a></h4>
     <a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3312069.jpg?tf=1200x' alt='Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/banco-santander-confirma-accesos-no-autorizados-base-datos-hacer-eres-cliente-tienes-alli-ahorros-1386409'>Banco Santander confirma accesos no autorizados a su base de datos: ¿qué hacer si eres cliente y tienes allí tus ahorros?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/banco-santander-confirma-accesos-no-autorizados-base-datos-hacer-eres-cliente-tienes-alli-ahorros-1386409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/banco-santander-3282264.jpg?tf=1200x' alt='Banco Santander confirma accesos no autorizados a su base de datos: ¿qué hacer si eres cliente y tienes allí tus ahorros?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305'>Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear</a></h4>
-    <a href='https://computerhoy.com/gaming/consiguen-instalar-windows-11-nintendo-switch-pero-resultado-deja-mucho-desear-1386305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consiguen-hackear-switch-windows-11-pero-resultado-no-esperado-3311909.jpg?tf=1200x' alt='Consiguen instalar Windows 11 en una Nintendo Switch, pero el resultado deja mucho que desear' />
     </a>
 </div>
 
