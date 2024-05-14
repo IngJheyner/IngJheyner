@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-todas-novedades-gemini-ia-google-1386462'>Google anuncia novedades en Gemini 1.5 Pro: su IA quiere organizar todos tus correos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-todas-novedades-gemini-ia-google-1386462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sundar-pichai-ceo-google-i-2024-gemini-3312233.jpg?tf=1200x' alt='Google anuncia novedades en Gemini 1.5 Pro: su IA quiere organizar todos tus correos' />
+    <h4><a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508'>Google renueva por completo su buscador con la IA generativa como protagonista</a></h4>
+    <a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ai-overviews-3312258.jpg?tf=1200x' alt='Google renueva por completo su buscador con la IA generativa como protagonista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-funciona-google-flights-buscador-vuelos-baratos-google-3311756.jpg?tf=1200x' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
+    <h4><a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507'>Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga</a></h4>
+    <a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/francia-suma-lucha-servicios-iptv-piratas-bloquea-webs-ilegales-laliga-3312240.jpg?tf=1200x' alt='Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445'>¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-3312190.jpg?tf=1200x' alt='¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis' />
+    <h4><a href='https://computerhoy.com/apps/google-parece-estar-retirando-avisar-otra-funcion-google-maps-no-todo-mundo-1386506'>Google parece estar retirando sin avisar otra función de Google Maps, y no para todo el mundo</a></h4>
+    <a href='https://computerhoy.com/apps/google-parece-estar-retirando-avisar-otra-funcion-google-maps-no-todo-mundo-1386506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-aumentar-reducir-mapas-google-maps-solo-dedo-3301720.jpg?tf=1200x' alt='Google parece estar retirando sin avisar otra función de Google Maps, y no para todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/fue-primera-calle-iluminada-artificialmente-mundo-gracias-thomas-alva-edison-luces-led-1386349'>Esta fue la primera calle iluminada artificialmente del mundo, gracias Thomas Alva Edison (y sin luces LED)</a></h4>
-    <a href='https://computerhoy.com/energia/fue-primera-calle-iluminada-artificialmente-mundo-gracias-thomas-alva-edison-luces-led-1386349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fue-primera-calle-iluminada-mundo-gracias-thomas-alva-edison-luces-led-3311988.jpg?tf=1200x' alt='Esta fue la primera calle iluminada artificialmente del mundo, gracias Thomas Alva Edison (y sin luces LED)' />
+    <h4><a href='https://computerhoy.com/android/cual-diferencia-google-tv-android-tv-1386471'>¿Cuál es la diferencia entre Google TV y Android TV?</a></h4>
+    <a href='https://computerhoy.com/android/cual-diferencia-google-tv-android-tv-1386471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cual-diferencia-google-tv-android-tv-3312245.jpg?tf=1200x' alt='¿Cuál es la diferencia entre Google TV y Android TV?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398'>La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-whatsapp-preocupa-expertos-no-compartas-ningun-codigo-verificacion-3312049.jpg?tf=1200x' alt='La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mitico-stephen-king-rendido-nueva-serie-netflix-extraordinaria-1386368'>El mítico Stephen King, rendido ante esta nueva serie de Netflix: “es extraordinaria”</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mitico-stephen-king-rendido-nueva-serie-netflix-extraordinaria-1386368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/problema-3-cuerpos-3292147.jpg?tf=1200x' alt='El mítico Stephen King, rendido ante esta nueva serie de Netflix: “es extraordinaria”' />
     </a>
 </div>
 
