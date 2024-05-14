@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113'>La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-3311529.jpg?tf=1200x' alt='La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387'>Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores</a></h4>
     <a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3312069.jpg?tf=1200x' alt='Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856'>Internet entero depende de estos servidores 13 servidores DNS</a></h4>
     <a href='https://computerhoy.com/internet/internet-depende-servidores-dns-1383856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-internet-depende-estos-servidores-dns-solo-hay-13-mundo-3307640.jpg?tf=1200x' alt='Internet entero depende de estos servidores 13 servidores DNS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/novedades-trae-nuevo-modelo-openai-gpt-4o-chatgpt-1386331'>¿Qué novedades trae el nuevo modelo de OpenAI GPT-4o a ChatGPT?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/novedades-trae-nuevo-modelo-openai-gpt-4o-chatgpt-1386331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/novedades-gpt-4o-3311955.jpg?tf=1200x' alt='¿Qué novedades trae el nuevo modelo de OpenAI GPT-4o a ChatGPT?' />
     </a>
 </div>
 
