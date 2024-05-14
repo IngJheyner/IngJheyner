@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/5-diferencias-portatiles-gaming-pc-tradicionales-me-han-sorprendido-1385074'>Las 5 diferencias entre portátiles gaming y PC tradicionales que más me han sorprendido</a></h4>
+    <a href='https://computerhoy.com/gaming/5-diferencias-portatiles-gaming-pc-tradicionales-me-han-sorprendido-1385074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-rog-zephyrus-g16-2024-3310514.jpg?tf=1200x' alt='Las 5 diferencias entre portátiles gaming y PC tradicionales que más me han sorprendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/dyson-washg1-fregona-futuro-marca-inglesa-1379070'>He probado unos minutos Dyson WashG1, el futuro del fregado de suelos para amantes de la marca</a></h4>
+    <a href='https://computerhoy.com/hogar/dyson-washg1-fregona-futuro-marca-inglesa-1379070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-washg1-3299598.jpg?tf=1200x' alt='He probado unos minutos Dyson WashG1, el futuro del fregado de suelos para amantes de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199'>Microsoft cierra WordPad: estas son las mejores alternativas gratuitas</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Microsoft cierra WordPad: estas son las mejores alternativas gratuitas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176'>HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
     <a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-3311690.jpg?tf=1200x' alt='HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/te-gusta-futbol-movistar-plus-tambien-dinero-sube-precio-tarifas-deportes-1386192'>¿Te gusta el fútbol? A Movistar Plus+ también tu dinero: sube el precio de las tarifas con deportes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/te-gusta-futbol-movistar-plus-tambien-dinero-sube-precio-tarifas-deportes-1386192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/movistar-plus-3289517.jpg?tf=1200x' alt='¿Te gusta el fútbol? A Movistar Plus+ también tu dinero: sube el precio de las tarifas con deportes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617'>Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ni-fallout-problema-tres-cuerpos-nueva-serie-ciencia-ficcion-revolucionaria-ultimos-tiempos-1385617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/materia-oscura-dark-matter-joel-edgerton-jennifer-connelly-3305524.jpg?tf=1200x' alt='Ni Fallout o El problema de los tres cuerpos: esta es la nueva serie de ciencia ficción más revolucionaria de los últimos tiempos' />
     </a>
 </div>
 
