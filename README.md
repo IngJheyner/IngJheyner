@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-todas-novedades-gemini-ia-google-1386462'>Google anuncia novedades en Gemini 1.5 Pro: su IA quiere organizar todos tus correos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-todas-novedades-gemini-ia-google-1386462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sundar-pichai-ceo-google-i-2024-gemini-3312233.jpg?tf=1200x' alt='Google anuncia novedades en Gemini 1.5 Pro: su IA quiere organizar todos tus correos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos'>Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/google-flights-trucos-vuelos-baratos' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-funciona-google-flights-buscador-vuelos-baratos-google-3311756.jpg?tf=1200x' alt='Qué es y cómo funciona Google Flights, el buscador de vuelos baratos de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445'>¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/internet/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-1386445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acabo-chollo-telegram-claudica-suma-lucha-contras-iptv-futbol-gratis-3312190.jpg?tf=1200x' alt='¿Se acabó el chollo? Telegram claudica y se suma a la lucha contras las IPTV y el fútbol gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398'>La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafa-whatsapp-preocupa-no-compartas-ningun-codigo-verificacion-1386398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-whatsapp-preocupa-expertos-no-compartas-ningun-codigo-verificacion-3312049.jpg?tf=1200x' alt='La estafa de WhatsApp que preocupa a los expertos: no compartas ningún código de verificación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113'>La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-1386113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/policia-advierte-estafa-dgt-llega-movil-cada-dia-engana-gente-3311529.jpg?tf=1200x' alt='La Policía advierte: la estafa de la DGT que llega al móvil y cada día engaña a más gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387'>Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores</a></h4>
-    <a href='https://computerhoy.com/android/android-auto-lia-desactiva-error-funciones-utiles-muchos-conductores-1386387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3312069.jpg?tf=1200x' alt='Android Auto la lía y desactiva por error una de las funciones más útiles para muchos conductores' />
     </a>
 </div>
 
