@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045'>Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-1383510'>Windows 11 sigue perdiendo usuarios mientras Windows 10 vuelve a superar el 70%</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-1383510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios mientras Windows 10 vuelve a superar el 70%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269'>ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3191572.jpg?tf=1200x' alt='ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985'>Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060'>La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-3311584.jpg?tf=1200x' alt='La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073'>Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella</a></h4>
-    <a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-3311528.jpg?tf=1200x' alt='Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella' />
     </a>
 </div>
 
