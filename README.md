@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/5-diferencias-portatiles-gaming-pc-tradicionales-me-han-sorprendido-1385074'>Las 5 diferencias entre portátiles gaming y PC tradicionales que más me han sorprendido</a></h4>
-    <a href='https://computerhoy.com/gaming/5-diferencias-portatiles-gaming-pc-tradicionales-me-han-sorprendido-1385074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-rog-zephyrus-g16-2024-3310514.jpg?tf=1200x' alt='Las 5 diferencias entre portátiles gaming y PC tradicionales que más me han sorprendido' />
+    <h4><a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985'>Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estos-auriculares-conduccion-osea-cuestan-mitad-otros-modelos-son-lenovo-100-sumergibles-1385985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Estos auriculares de conducción ósea cuestan la mitad que otros modelos, son Lenovo y 100% sumergibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/dyson-washg1-fregona-futuro-marca-inglesa-1379070'>He probado unos minutos Dyson WashG1, el futuro del fregado de suelos para amantes de la marca</a></h4>
-    <a href='https://computerhoy.com/hogar/dyson-washg1-fregona-futuro-marca-inglesa-1379070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-washg1-3299598.jpg?tf=1200x' alt='He probado unos minutos Dyson WashG1, el futuro del fregado de suelos para amantes de la marca' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060'>La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-3311584.jpg?tf=1200x' alt='La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199'>Microsoft cierra WordPad: estas son las mejores alternativas gratuitas</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-1386199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-cierra-wordpad-estas-son-mejores-alternativas-gratuitas-3311706.jpg?tf=1200x' alt='Microsoft cierra WordPad: estas son las mejores alternativas gratuitas' />
+    <h4><a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073'>Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella</a></h4>
+    <a href='https://computerhoy.com/gaming/era-relleno-muchos-expertos-afirman-nintendo-switch-ella-1386073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nintendo-switch-3311528.jpg?tf=1200x' alt='Qué es la "era de relleno" y por qué muchos expertos afirman que Nintendo Switch está en ella' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200'>OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-lanza-gpt-4o-1386200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='OpenAI lanza GPT-4o, el primer modelo de lenguaje que trabaja en tiempo real, sin latencia' />
+    <h4><a href='https://computerhoy.com/tecnologia/aparato-hara-televisor-sea-mejor-tiene-android-13-cuesta-menos-30-euros-1385963'>Este aparato hará que tu televisor sea mejor: tiene Android 13 y cuesta menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aparato-hara-televisor-sea-mejor-tiene-android-13-cuesta-menos-30-euros-1385963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/x88-pro-13-3311262.jpg?tf=1200x' alt='Este aparato hará que tu televisor sea mejor: tiene Android 13 y cuesta menos de 30 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176'>HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
-    <a href='https://computerhoy.com/tecnologia/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-1386176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hdmi-21-vs-21a-diferencian-sirve-cada-cual-mejor-3311690.jpg?tf=1200x' alt='HDMI 2.1 vs. 2.1a: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
+    <h4><a href='https://computerhoy.com/tecnologia/bateria-portatil-lidl-puedes-usar-todos-dispositivos-1385631'>Rápida, barata y cómoda: así es la batería portátil de Lidl que puedes usar en todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bateria-portatil-lidl-puedes-usar-todos-dispositivos-1385631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bateria-lidl-3311579.jpg?tf=1200x' alt='Rápida, barata y cómoda: así es la batería portátil de Lidl que puedes usar en todos tus dispositivos' />
     </a>
 </div>
 
