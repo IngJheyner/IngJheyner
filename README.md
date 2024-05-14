@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-web-christies-antes-subasta-arte-valorada-778-millones-euros-1386293'>Hackean la web Christie's antes de una subasta de arte valorada en más de 778 millones de euros</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackean-web-christies-antes-subasta-arte-valorada-778-millones-euros-1386293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/casa-subastas-3311919.jpg?tf=1200x' alt='Hackean la web Christie's antes de una subasta de arte valorada en más de 778 millones de euros' />
+    <h4><a href='https://computerhoy.com/tv/buenas-noticias-netflix-posiciona-espana-dentro-elite-paises-1386271'>Buenas noticias: Netflix posiciona a España dentro de su élite de países</a></h4>
+    <a href='https://computerhoy.com/tv/buenas-noticias-netflix-posiciona-espana-dentro-elite-paises-1386271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-3311927.jpg?tf=1200x' alt='Buenas noticias: Netflix posiciona a España dentro de su élite de países' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/configuracion-protegida-wifi-wps-deberias-usarla-1386292'>¿Qué es la configuración protegida del WiFi (WPS)? ¿Deberías usarla?</a></h4>
-    <a href='https://computerhoy.com/redes/configuracion-protegida-wifi-wps-deberias-usarla-1386292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wps-wifi-3311893.jpg?tf=1200x' alt='¿Qué es la configuración protegida del WiFi (WPS)? ¿Deberías usarla?' />
+    <h4><a href='https://computerhoy.com/analisis/realme-12-vs-realme-12-pantalla-camara-bateria-pero-cual-ti-1386061'>Realme 12 vs Realme 12+: pantalla, cámara y batería, ¿pero cuál es para ti?</a></h4>
+    <a href='https://computerhoy.com/analisis/realme-12-vs-realme-12-pantalla-camara-bateria-pero-cual-ti-1386061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/realme-12-vs-realme-12-3311934.jpg?tf=1200x' alt='Realme 12 vs Realme 12+: pantalla, cámara y batería, ¿pero cuál es para ti?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/problema-spotify-radio-algoritmo-burbuja-1383817'>Spotify tiene un problema que no tenía la radio: el algoritmo burbuja</a></h4>
-    <a href='https://computerhoy.com/audio/problema-spotify-radio-algoritmo-burbuja-1383817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/olvidate-spotify-forma-escuchar-musica-arrasa-android-auto-3204398.jpg?tf=1200x' alt='Spotify tiene un problema que no tenía la radio: el algoritmo burbuja' />
+    <h4><a href='https://computerhoy.com/pc/mienten-fabricantes-velocidad-real-memoria-ram-1386316'>¿Mienten los fabricantes sobre la velocidad real de la memoria RAM?</a></h4>
+    <a href='https://computerhoy.com/pc/mienten-fabricantes-velocidad-real-memoria-ram-1386316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ram-3311923.jpg?tf=1200x' alt='¿Mienten los fabricantes sobre la velocidad real de la memoria RAM?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-funciones-favoritas-google-maps-ellas-estaria-perdida-1386272'>Estas son mis funciones favoritas de Google Maps: sin ellas estaría perdida</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-funciones-favoritas-google-maps-ellas-estaria-perdida-1386272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mapa-google-maps-no-te-funciona-no-encuentras-boton-mapas-no-bug-ley-mercados-digitales-3285214.jpg?tf=1200x' alt='Estas son mis funciones favoritas de Google Maps: sin ellas estaría perdida' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-reinventa-pulsera-inteligente-band-8-pro-parece-reloj-aunque-precio-bajisimo-1386278'>Xiaomi reinventa su pulsera inteligente: la Band 8 Pro parece un reloj, aunque su precio es bajísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-reinventa-pulsera-inteligente-band-8-pro-parece-reloj-aunque-precio-bajisimo-1386278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290723.jpg?tf=1200x' alt='Xiaomi reinventa su pulsera inteligente: la Band 8 Pro parece un reloj, aunque su precio es bajísimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045'>Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos' />
+    <h4><a href='https://computerhoy.com/tecnologia/porque-memoria-ram-soldada-motivos-1382802'>Este es el motivo real por el que cada vez más portátiles llevan la memoria RAM soldada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/porque-memoria-ram-soldada-motivos-1382802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Este es el motivo real por el que cada vez más portátiles llevan la memoria RAM soldada' />
     </a>
 </div>
 
