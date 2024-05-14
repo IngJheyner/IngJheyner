@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackean-web-christies-antes-subasta-arte-valorada-778-millones-euros-1386293'>Hackean la web Christie's antes de una subasta de arte valorada en más de 778 millones de euros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackean-web-christies-antes-subasta-arte-valorada-778-millones-euros-1386293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/casa-subastas-3311919.jpg?tf=1200x' alt='Hackean la web Christie's antes de una subasta de arte valorada en más de 778 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/configuracion-protegida-wifi-wps-deberias-usarla-1386292'>¿Qué es la configuración protegida del WiFi (WPS)? ¿Deberías usarla?</a></h4>
+    <a href='https://computerhoy.com/redes/configuracion-protegida-wifi-wps-deberias-usarla-1386292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wps-wifi-3311893.jpg?tf=1200x' alt='¿Qué es la configuración protegida del WiFi (WPS)? ¿Deberías usarla?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/problema-spotify-radio-algoritmo-burbuja-1383817'>Spotify tiene un problema que no tenía la radio: el algoritmo burbuja</a></h4>
+    <a href='https://computerhoy.com/audio/problema-spotify-radio-algoritmo-burbuja-1383817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/olvidate-spotify-forma-escuchar-musica-arrasa-android-auto-3204398.jpg?tf=1200x' alt='Spotify tiene un problema que no tenía la radio: el algoritmo burbuja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-son-funciones-favoritas-google-maps-ellas-estaria-perdida-1386272'>Estas son mis funciones favoritas de Google Maps: sin ellas estaría perdida</a></h4>
+    <a href='https://computerhoy.com/apps/estas-son-funciones-favoritas-google-maps-ellas-estaria-perdida-1386272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/mapa-google-maps-no-te-funciona-no-encuentras-boton-mapas-no-bug-ley-mercados-digitales-3285214.jpg?tf=1200x' alt='Estas son mis funciones favoritas de Google Maps: sin ellas estaría perdida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045'>Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos</a></h4>
     <a href='https://computerhoy.com/tecnologia/microsoft-google-6tb-almacenamiento-onedrive-todo-office-precio-locos-1386045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/microsoft-aplicaciones-3232280.jpg?tf=1200x' alt='Microsoft, a por Google: 6TB de almacenamiento en OneDrive y todo Office a precio de locos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-1383510'>Windows 11 sigue perdiendo usuarios mientras Windows 10 vuelve a superar el 70%</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-sigue-perdiendo-usuarios-1383510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-sigue-perdiendo-usuarios-windows-10-vuelve-superar-70-3307081.jpg?tf=1200x' alt='Windows 11 sigue perdiendo usuarios mientras Windows 10 vuelve a superar el 70%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269'>ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-actualiza-vuelve-tan-humano-pone-pelos-punta-1386269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/inteligencia-artificial-3191572.jpg?tf=1200x' alt='ChatGPT se actualiza y sus respuestas son tan humanas que ponen los pelos de punta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-estafa-recibes-caja-misteriosa-shein-1383300'>Así es la estafa de la caja misteriosa de Shein</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-estafa-recibes-caja-misteriosa-shein-1383300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/alerta-nueva-estafa-recibes-caja-misteriosa-shein-no-abras-3306854.jpg?tf=1200x' alt='Así es la estafa de la caja misteriosa de Shein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060'>La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/practica-ciberseguridad-ocu-recomienda-generacion-z-realiza-querer-1386060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-3311584.jpg?tf=1200x' alt='La práctica en ciberseguridad que la OCU recomienda y que la generación Z realiza sin querer' />
     </a>
 </div>
 
