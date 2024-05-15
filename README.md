@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-1386612'>Cargar el móvil en el coche destruye la batería: ¿realidad o leyenda urbana?</a></h4>
+    <a href='https://computerhoy.com/moviles/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-1386612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-3313414.jpg?tf=1200x' alt='Cargar el móvil en el coche destruye la batería: ¿realidad o leyenda urbana?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625'>Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/controlar-movil-ojos-funcion-prevenir-mareos-novedades-ios-18-3313165.jpg?tf=1200x' alt='Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609'>Netflix se carga una de las funciones más usadas de la app de Windows</a></h4>
     <a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-carga-funciones-usadas-app-windows-3312978.jpg?tf=1200x' alt='Netflix se carga una de las funciones más usadas de la app de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600'>Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros</a></h4>
-    <a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-lp75-3312969.jpg?tf=1200x' alt='Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros' />
     </a>
 </div>
 
