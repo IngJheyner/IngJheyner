@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-anuncia-serie-tomb-raider-1386570'>Tras el éxito de Fallout, Prime Video anuncia la serie de Tomb Raider</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/prime-video-anuncia-serie-tomb-raider-1386570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exito-fallout-prime-video-anuncia-serie-tomb-raider-3312373.jpg?tf=1200x' alt='Tras el éxito de Fallout, Prime Video anuncia la serie de Tomb Raider' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/laliga-iptv-borrar-resultados-google-1383914'>LaLiga va a borrar este artículo sobre IPTV de los resultados de búsqueda de Google</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-iptv-borrar-resultados-google-1383914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-3307747.jpg?tf=1200x' alt='LaLiga va a borrar este artículo sobre IPTV de los resultados de búsqueda de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555'>Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo</a></h4>
     <a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anuncia-android-15-beta-2-estas-son-novedades-como-conseguirlo-3312343.jpg?tf=1200x' alt='Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353'>Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido</a></h4>
     <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-10-vi-3312037.jpg?tf=1200x' alt='Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/recuperar-archivos-borrados-windows-11-1386211'>Los métodos más efectivos para recuperar archivos borrados en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/recuperar-archivos-borrados-windows-11-1386211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/metodos-efectivos-recuperar-archivos-borrados-windows-11-3311740.jpg?tf=1200x' alt='Los métodos más efectivos para recuperar archivos borrados en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797'>La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?</a></h4>
-    <a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/television-apagon-3310303.jpg?tf=1200x' alt='La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?' />
     </a>
 </div>
 
