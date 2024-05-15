@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633'>Reescala cualquier vídeo de YouTube o Netflix a 4K HDR con una tarjeta RTX y Firefox</a></h4>
+    <a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-3313662.jpg?tf=1200x' alt='Reescala cualquier vídeo de YouTube o Netflix a 4K HDR con una tarjeta RTX y Firefox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627'>El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-3313596.jpg?tf=1200x' alt='El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625'>Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/controlar-movil-ojos-funcion-prevenir-mareos-novedades-ios-18-3313165.jpg?tf=1200x' alt='Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623'>El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad' />
     </a>
 </div>
 
