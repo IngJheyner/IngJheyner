@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/prime-video-anuncia-serie-tomb-raider-1386570'>Tras el éxito de Fallout, Prime Video anuncia la serie de Tomb Raider</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/prime-video-anuncia-serie-tomb-raider-1386570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exito-fallout-prime-video-anuncia-serie-tomb-raider-3312373.jpg?tf=1200x' alt='Tras el éxito de Fallout, Prime Video anuncia la serie de Tomb Raider' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033'>El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-iptv-borrar-resultados-google-1383914'>LaLiga va a borrar este artículo sobre IPTV de los resultados de búsqueda de Google</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-iptv-borrar-resultados-google-1383914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/laliga-no-solo-quiere-no-uses-iptv-ver-futbol-tampoco-quiere-hables-ello-3307747.jpg?tf=1200x' alt='LaLiga va a borrar este artículo sobre IPTV de los resultados de búsqueda de Google' />
+    <h4><a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580'>Si usas una VPN con Windows 10 y 11, debes instalar esta actualización con urgencia</a></h4>
+    <a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usas-vpn-windows-11-debes-instalar-actualizacion-urgencia-3312415.jpg?tf=1200x' alt='Si usas una VPN con Windows 10 y 11, debes instalar esta actualización con urgencia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555'>Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo</a></h4>
-    <a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anuncia-android-15-beta-2-estas-son-novedades-como-conseguirlo-3312343.jpg?tf=1200x' alt='Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo' />
+    <h4><a href='https://computerhoy.com/android/tablet-android-tiene-pantalla-tinta-electronica-mucho-mejor-cualquier-cuaderno-1386566'>Esta tablet Android tiene pantalla de tinta electrónica y es mucho mejor que cualquier cuaderno</a></h4>
+    <a href='https://computerhoy.com/android/tablet-android-tiene-pantalla-tinta-electronica-mucho-mejor-cualquier-cuaderno-1386566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/onyx-boox-3-3312391.jpg?tf=1200x' alt='Esta tablet Android tiene pantalla de tinta electrónica y es mucho mejor que cualquier cuaderno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/jubila-firestick-dispositivo-tiene-android-mucho-barato-1386442'>Jubila tu Firestick: este dispositivo sí tiene Android y es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/android/jubila-firestick-dispositivo-tiene-android-mucho-barato-1386442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/m98-y10-tv-android-3312117.jpg?tf=1200x' alt='Jubila tu Firestick: este dispositivo sí tiene Android y es mucho más barato' />
+    <h4><a href='https://computerhoy.com/gaming/coleccionistas-videojuegos-cartuchos-cd-no-duran-siempre-como-evitar-estropeen-1386450'>Coleccionistas de videojuegos, los cartuchos y CD no duran para siempre: cómo evitar que se estropeen</a></h4>
+    <a href='https://computerhoy.com/gaming/coleccionistas-videojuegos-cartuchos-cd-no-duran-siempre-como-evitar-estropeen-1386450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ojo-coleccionistas-videojuegos-cartuchos-cds-no-duran-siempre-como-evitar-estropeen-3312160.jpg?tf=1200x' alt='Coleccionistas de videojuegos, los cartuchos y CD no duran para siempre: cómo evitar que se estropeen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353'>Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido</a></h4>
-    <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-10-vi-3312037.jpg?tf=1200x' alt='Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido' />
+    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616'>El problema matemático que tiene una solución diferente dependiendo de dónde vivas</a></h4>
+    <a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que tiene una solución diferente dependiendo de dónde vivas' />
     </a>
 </div>
 
