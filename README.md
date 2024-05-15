@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609'>Netflix se carga una de las funciones más usadas de la app de Windows</a></h4>
+    <a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-carga-funciones-usadas-app-windows-3312978.jpg?tf=1200x' alt='Netflix se carga una de las funciones más usadas de la app de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600'>Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros</a></h4>
+    <a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-lp75-3312969.jpg?tf=1200x' alt='Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596'>Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pack-4-airtag-rebajado-regalo-muy-practico-san-valentin-2942770.jpg?tf=1200x' alt='Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591'>Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/claude-gran-rival-chatgpt-ya-disponible-espana-puedes-probarlo-gratis-3312529.jpg?tf=1200x' alt='Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/whatsapp-deja-funcionar-lista-moviles-1383973'>Lista completa de móviles donde WhatsApp deja de funcionar este mes</a></h4>
-    <a href='https://computerhoy.com/moviles/whatsapp-deja-funcionar-lista-moviles-1383973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-no-funciona-3311982.jpg?tf=1200x' alt='Lista completa de móviles donde WhatsApp deja de funcionar este mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386'>No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi</a></h4>
-    <a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-3312199.jpg?tf=1200x' alt='No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi' />
     </a>
 </div>
 
