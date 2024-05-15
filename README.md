@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265'>De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504'>Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508'>Google renueva por completo su buscador con la IA generativa como protagonista</a></h4>
     <a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ai-overviews-3312258.jpg?tf=1200x' alt='Google renueva por completo su buscador con la IA generativa como protagonista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507'>Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga</a></h4>
-    <a href='https://computerhoy.com/internet/francia-tambien-bloquea-servicios-iptv-piratas-laliga-1386507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/francia-suma-lucha-servicios-iptv-piratas-bloquea-webs-ilegales-laliga-3312240.jpg?tf=1200x' alt='Golpe al fútbol gratis: Francia también bloquea los servicios IPTV piratas de LaLiga' />
     </a>
 </div>
 
