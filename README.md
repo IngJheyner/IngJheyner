@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/openai-ha-puesto-cuerdas-estrategia-google-recuperar-trono-ia-1386493'>OpenAI les ha puesto contra las cuerdas: esta es la estrategia de Google para recuperar el trono de la IA</a></h4>
-    <a href='https://computerhoy.com/google/openai-ha-puesto-cuerdas-estrategia-google-recuperar-trono-ia-1386493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sundar-pichai-google-io-2024-3312286.jpg?tf=1200x' alt='OpenAI les ha puesto contra las cuerdas: esta es la estrategia de Google para recuperar el trono de la IA' />
+    <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353'>Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido</a></h4>
+    <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-10-vi-3312037.jpg?tf=1200x' alt='Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/fallout-4-otros-juegos-windows-tablet-movil-android-emulador-winlator-1386539'>Ya puedes jugar a Fallout 4 y otros juegos de Windows en tu móvil o tablet Android</a></h4>
-    <a href='https://computerhoy.com/gaming/fallout-4-otros-juegos-windows-tablet-movil-android-emulador-winlator-1386539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-jugar-fallout-4-otros-juegos-windows-movil-tablet-android-3312313.jpg?tf=1200x' alt='Ya puedes jugar a Fallout 4 y otros juegos de Windows en tu móvil o tablet Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/recuperar-archivos-borrados-windows-11-1386211'>Los métodos más efectivos para recuperar archivos borrados en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/recuperar-archivos-borrados-windows-11-1386211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/metodos-efectivos-recuperar-archivos-borrados-windows-11-3311740.jpg?tf=1200x' alt='Los métodos más efectivos para recuperar archivos borrados en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-no-puede-windows-10-exito-1383799'>Windows 11 no puede con Windows 10, y a Microsoft más le vale que Windows 12 sea un éxito</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-no-puede-windows-10-exito-1383799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hombre-desesperado-windows-3307539.jpg?tf=1200x' alt='Windows 11 no puede con Windows 10, y a Microsoft más le vale que Windows 12 sea un éxito' />
+    <h4><a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797'>La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?</a></h4>
+    <a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/television-apagon-3310303.jpg?tf=1200x' alt='La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265'>De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295'>El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez</a></h4>
+    <a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504'>Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10' />
+    <h4><a href='https://computerhoy.com/tutoriales/biblia-tiny-11-herramienta-hackear-forma-legal-windows-11-personalizarlo-gusto-1385669'>La biblia de Tiny11, la herramienta para hackear de forma legal Windows 11 y personalizarlo a tu gusto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/biblia-tiny-11-herramienta-hackear-forma-legal-windows-11-personalizarlo-gusto-1385669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiny11-3312103.jpg?tf=1200x' alt='La biblia de Tiny11, la herramienta para hackear de forma legal Windows 11 y personalizarlo a tu gusto' />
     </a>
 </div>
 
