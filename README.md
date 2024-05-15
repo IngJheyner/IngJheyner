@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596'>Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pack-4-airtag-rebajado-regalo-muy-practico-san-valentin-2942770.jpg?tf=1200x' alt='Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-malos-rumores-podrian-ser-reales-1383142'>Tus peores augurios sobre Nintendo Switch 2 podrían hacerse realidad</a></h4>
+    <a href='https://computerhoy.com/gaming/nintendo-switch-2-malos-rumores-podrian-ser-reales-1383142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Tus peores augurios sobre Nintendo Switch 2 podrían hacerse realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591'>Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/claude-gran-rival-chatgpt-ya-disponible-espana-puedes-probarlo-gratis-3312529.jpg?tf=1200x' alt='Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386'>No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi</a></h4>
     <a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-3312199.jpg?tf=1200x' alt='No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033'>El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580'>Si usas una VPN con Windows 10 y 11, instala esta actualización con urgencia</a></h4>
-    <a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usas-vpn-windows-11-debes-instalar-actualizacion-urgencia-3312415.jpg?tf=1200x' alt='Si usas una VPN con Windows 10 y 11, instala esta actualización con urgencia' />
     </a>
 </div>
 
