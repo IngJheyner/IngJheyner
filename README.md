@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625'>Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/controlar-movil-ojos-funcion-prevenir-mareos-novedades-ios-18-3313165.jpg?tf=1200x' alt='Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623'>El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/sol-ha-lanzado-llamarada-potente-cinco-anos-podria-afectar-satelites-1386619'>El Sol ha lanzado su llamarada más potente en cinco años: Así podría afectar a los satélites</a></h4>
+    <a href='https://computerhoy.com/espacio/sol-ha-lanzado-llamarada-potente-cinco-anos-podria-afectar-satelites-1386619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamarada-solar-3313291.jpg?tf=1200x' alt='El Sol ha lanzado su llamarada más potente en cinco años: Así podría afectar a los satélites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609'>Netflix se carga una de las funciones más usadas de la app de Windows</a></h4>
     <a href='https://computerhoy.com/apps/netflix-app-windows-adios-descargas-1386609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-carga-funciones-usadas-app-windows-3312978.jpg?tf=1200x' alt='Netflix se carga una de las funciones más usadas de la app de Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600'>Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros</a></h4>
     <a href='https://computerhoy.com/audio/estos-auriculares-bluetooth-baratos-lenovo-jamas-caen-oreja-cuestan-menos-15-euros-1386600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-lp75-3312969.jpg?tf=1200x' alt='Estos auriculares Bluetooth baratos de Lenovo jamás se caen de la oreja y cuestan menos de 15 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596'>Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-apple-estandar-dust-impedir-rastreo-airtag-1386596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/pack-4-airtag-rebajado-regalo-muy-practico-san-valentin-2942770.jpg?tf=1200x' alt='Google y Apple se alían para presentar DUST: adiós a los rastreos con AirTag y similares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nintendo-switch-2-malos-rumores-podrian-ser-reales-1383142'>Tus peores augurios sobre Nintendo Switch 2 podrían hacerse realidad</a></h4>
-    <a href='https://computerhoy.com/gaming/nintendo-switch-2-malos-rumores-podrian-ser-reales-1383142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sabemos-nintendo-switch-pro-switch-2-caracteristicas-precio-fecha-lanzamiento-3281259.jpg?tf=1200x' alt='Tus peores augurios sobre Nintendo Switch 2 podrían hacerse realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591'>Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/claude-gran-rival-chatgpt-ya-disponible-espana-gratis-1386591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/claude-gran-rival-chatgpt-ya-disponible-espana-puedes-probarlo-gratis-3312529.jpg?tf=1200x' alt='Claude, el gran rival de ChatGPT, ya está disponible en España, y puedes probarlo gratis' />
     </a>
 </div>
 
