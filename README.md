@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/openai-ha-puesto-cuerdas-estrategia-google-recuperar-trono-ia-1386493'>OpenAI les ha puesto contra las cuerdas: esta es la estrategia de Google para recuperar el trono de la IA</a></h4>
+    <a href='https://computerhoy.com/google/openai-ha-puesto-cuerdas-estrategia-google-recuperar-trono-ia-1386493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sundar-pichai-google-io-2024-3312286.jpg?tf=1200x' alt='OpenAI les ha puesto contra las cuerdas: esta es la estrategia de Google para recuperar el trono de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/fallout-4-otros-juegos-windows-tablet-movil-android-emulador-winlator-1386539'>Ya puedes jugar a Fallout 4 y otros juegos de Windows en tu móvil o tablet Android</a></h4>
+    <a href='https://computerhoy.com/gaming/fallout-4-otros-juegos-windows-tablet-movil-android-emulador-winlator-1386539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-jugar-fallout-4-otros-juegos-windows-movil-tablet-android-3312313.jpg?tf=1200x' alt='Ya puedes jugar a Fallout 4 y otros juegos de Windows en tu móvil o tablet Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-no-puede-windows-10-exito-1383799'>Windows 11 no puede con Windows 10, y a Microsoft más le vale que Windows 12 sea un éxito</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-no-puede-windows-10-exito-1383799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hombre-desesperado-windows-3307539.jpg?tf=1200x' alt='Windows 11 no puede con Windows 10, y a Microsoft más le vale que Windows 12 sea un éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265'>De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/xiaomi-barato-como-pocos-redmi-note-13-5g-hunde-precio-aliexpress-supera-amazon-1386265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-note-13-5g-3272587.jpg?tf=1200x' alt='De Xiaomi y barato como pocos: el Redmi Note 13 5G hunde su precio en AliExpress, que supera a Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504'>Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-1386504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='Intel y AMD podrían convertirse en los mejores aliados de Microsoft para acabar con Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/anillos-poder-casa-dragon-nuevos-traileres-fechas-estreno-1386515'>Los Anillos de Poder y La Casa del Dragón: nuevos tráileres y fechas de estreno</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/anillos-poder-casa-dragon-nuevos-traileres-fechas-estreno-1386515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715712953284-3312260.jpg?tf=1200x' alt='Los Anillos de Poder y La Casa del Dragón: nuevos tráileres y fechas de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ocu-acusa-dazn-tramposos-no-respetar-normas-darse-baja-toda-odisea-1386509'>La OCU acusa a DAZN de tramposos y no respetar las normas: "Darse de baja es toda una odisea”</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ocu-acusa-dazn-tramposos-no-respetar-normas-darse-baja-toda-odisea-1386509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/dazn-sube-nuevos-precios-ver-futbol-formula-1-motogp-caro-2023-2930824.jpg?tf=1200x' alt='La OCU acusa a DAZN de tramposos y no respetar las normas: "Darse de baja es toda una odisea”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508'>Google renueva por completo su buscador con la IA generativa como protagonista</a></h4>
-    <a href='https://computerhoy.com/google/google-renueva-buscador-ia-generativa-como-protagonista-1386508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ai-overviews-3312258.jpg?tf=1200x' alt='Google renueva por completo su buscador con la IA generativa como protagonista' />
     </a>
 </div>
 
