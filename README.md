@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386'>No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi</a></h4>
+    <a href='https://computerhoy.com/hogar/no-bulo-internet-aleja-electrodomestico-router-quieres-mejorar-senal-wifi-1386386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-3312199.jpg?tf=1200x' alt='No es un bulo de Internet: aleja este electrodoméstico del router si quieres mejorar la señal del WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033'>El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuqui-robot-peludo-boston-dynamics-percepcion-1383033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/verticalimage1714419012392-3306109.jpg?tf=1200x' alt='El nuevo robot peludo de Boston Dynamics es muy cuqui y nos demuestra la importancia de la percepción' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580'>Si usas una VPN con Windows 10 y 11, debes instalar esta actualización con urgencia</a></h4>
+    <h4><a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580'>Si usas una VPN con Windows 10 y 11, instala esta actualización con urgencia</a></h4>
     <a href='https://computerhoy.com/windows/usas-vpn-windows-10-11-debes-instalar-actualizacion-urgencia-1386580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usas-vpn-windows-11-debes-instalar-actualizacion-urgencia-3312415.jpg?tf=1200x' alt='Si usas una VPN con Windows 10 y 11, debes instalar esta actualización con urgencia' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usas-vpn-windows-11-debes-instalar-actualizacion-urgencia-3312415.jpg?tf=1200x' alt='Si usas una VPN con Windows 10 y 11, instala esta actualización con urgencia' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/coleccionistas-videojuegos-cartuchos-cd-no-duran-siempre-como-evitar-estropeen-1386450'>Coleccionistas de videojuegos, los cartuchos y CD no duran para siempre: cómo evitar que se estropeen</a></h4>
     <a href='https://computerhoy.com/gaming/coleccionistas-videojuegos-cartuchos-cd-no-duran-siempre-como-evitar-estropeen-1386450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ojo-coleccionistas-videojuegos-cartuchos-cds-no-duran-siempre-como-evitar-estropeen-3312160.jpg?tf=1200x' alt='Coleccionistas de videojuegos, los cartuchos y CD no duran para siempre: cómo evitar que se estropeen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616'>El problema matemático que tiene una solución diferente dependiendo de dónde vivas</a></h4>
-    <a href='https://computerhoy.com/ciencia/problema-matematico-dos-soluciones-diferentes-1235616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/problema-matematico-sigue-dividiendo-internet-cada-persona-obtiene-resultado-diferente-3017698.jpg?tf=1200x' alt='El problema matemático que tiene una solución diferente dependiendo de dónde vivas' />
     </a>
 </div>
 
