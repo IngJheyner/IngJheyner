@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-smartphone-premium-5000-mah-bateria-telefoto-infarto-1386474'>Sony Xperia 1 VI: un smartphone premium con 5.000 mAh de batería y un telefoto de infarto</a></h4>
+    <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-smartphone-premium-5000-mah-bateria-telefoto-infarto-1386474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-1-vi-3312219.jpg?tf=1200x' alt='Sony Xperia 1 VI: un smartphone premium con 5.000 mAh de batería y un telefoto de infarto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353'>Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido</a></h4>
     <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-movil-brutal-fotografia-pantalla-sonido-1386353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-10-vi-3312037.jpg?tf=1200x' alt='Sony Xperia 1 VI, un móvil con telefoto único que apuesta por una experiencia brutal en pantalla y sonido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295'>El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez</a></h4>
     <a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/biblia-tiny-11-herramienta-hackear-forma-legal-windows-11-personalizarlo-gusto-1385669'>La biblia de Tiny11, la herramienta para hackear de forma legal Windows 11 y personalizarlo a tu gusto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/biblia-tiny-11-herramienta-hackear-forma-legal-windows-11-personalizarlo-gusto-1385669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiny11-3312103.jpg?tf=1200x' alt='La biblia de Tiny11, la herramienta para hackear de forma legal Windows 11 y personalizarlo a tu gusto' />
     </a>
 </div>
 
