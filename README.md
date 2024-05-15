@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627'>El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-3313596.jpg?tf=1200x' alt='El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628'>Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5</a></h4>
     <a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-i-dia-2-novedades-android-auto-android-tv-wear-os-3313415.jpg?tf=1200x' alt='Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623'>El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/plan-google-acabar-llamadas-spam-puede-perjudicar-privacidad-1386623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/como-llamar-numero-oculto-todas-opciones-posibles-iphone-android-2479273.jpg?tf=1200x' alt='El plan de Google para acabar con las llamadas spam que puede perjudicar tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/sol-ha-lanzado-llamarada-potente-cinco-anos-podria-afectar-satelites-1386619'>El Sol ha lanzado su llamarada más potente en cinco años: Así podría afectar a los satélites</a></h4>
-    <a href='https://computerhoy.com/espacio/sol-ha-lanzado-llamarada-potente-cinco-anos-podria-afectar-satelites-1386619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamarada-solar-3313291.jpg?tf=1200x' alt='El Sol ha lanzado su llamarada más potente en cinco años: Así podría afectar a los satélites' />
     </a>
 </div>
 
