@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sony-xperia-1-vi-smartphone-premium-5000-mah-bateria-telefoto-infarto-1386474'>Sony Xperia 1 VI: un smartphone premium con 5.000 mAh de batería y un telefoto de infarto</a></h4>
-    <a href='https://computerhoy.com/moviles/sony-xperia-1-vi-smartphone-premium-5000-mah-bateria-telefoto-infarto-1386474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-xperia-1-vi-3312219.jpg?tf=1200x' alt='Sony Xperia 1 VI: un smartphone premium con 5.000 mAh de batería y un telefoto de infarto' />
+    <h4><a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555'>Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo</a></h4>
+    <a href='https://computerhoy.com/android/android-15-beta-2-novedades-descarga-1386555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-anuncia-android-15-beta-2-estas-son-novedades-como-conseguirlo-3312343.jpg?tf=1200x' alt='Google anuncia Android 15 beta 2: estas son sus novedades, y cómo descargarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/jubila-firestick-dispositivo-tiene-android-mucho-barato-1386442'>Jubila tu Firestick: este dispositivo sí tiene Android y es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/android/jubila-firestick-dispositivo-tiene-android-mucho-barato-1386442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/m98-y10-tv-android-3312117.jpg?tf=1200x' alt='Jubila tu Firestick: este dispositivo sí tiene Android y es mucho más barato' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797'>La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?</a></h4>
     <a href='https://computerhoy.com/tv/tdt-espana-futuro-muy-negro-pese-hd-cual-proximo-cambio-avecina-1384797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/television-apagon-3310303.jpg?tf=1200x' alt='La TDT en España: un futuro muy negro pese al HD, ¿cuál es el próximo cambio que se avecina?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295'>El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-15-ahora-barato-miravia-vende-menos-800-euros-primera-vez-1386295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/iphone-15-3264693.jpg?tf=1200x' alt='El iPhone 15 ahora sí está barato: Miravia lo vende por menos de 800 euros por primera vez' />
     </a>
 </div>
 
