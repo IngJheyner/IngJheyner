@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677'>Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo</a></h4>
+    <a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-i5-3227268.jpg?tf=1200x' alt='Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-1386784'>Steve Jobs inventó hasta escaleras: las puedes ver en las Apple Store y cuentan con un sistema antipervertidos</a></h4>
+    <a href='https://computerhoy.com/life/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-1386784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Steve Jobs inventó hasta escaleras: las puedes ver en las Apple Store y cuentan con un sistema antipervertidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/libros-exito-seran-peliculas-series-ya-puedes-leer-1386127'>Adelántate a Hollywood: 5 libros de éxito que serán películas y series y que ya puedes leer</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/libros-exito-seran-peliculas-series-ya-puedes-leer-1386127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peliculas-series-basadas-libros-3315661.jpg?tf=1200x' alt='Adelántate a Hollywood: 5 libros de éxito que serán películas y series y que ya puedes leer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693'>Qué es Wero, la app para enviar dinero que hace temblar a Bizum</a></h4>
     <a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wero-3315656.jpg?tf=1200x' alt='Qué es Wero, la app para enviar dinero que hace temblar a Bizum' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084'>Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217'>WeTransfer en 2024: trucos y guía completa para compartir archivos grandes</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wetransfer-2024-trucos-guia-completa-compartir-archivos-grandes-3312325.jpg?tf=1200x' alt='WeTransfer en 2024: trucos y guía completa para compartir archivos grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714'>La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700'>No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-gemini-3315463.jpg?tf=1200x' alt='No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google' />
     </a>
 </div>
 
