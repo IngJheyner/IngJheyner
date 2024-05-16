@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825'>Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-3317193.jpg?tf=1200x' alt='Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815'>Linux y su importante papel en el futuro de la computación cuántica</a></h4>
     <a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linux-importante-papel-futuro-computacion-cuantica-3317290.jpg?tf=1200x' alt='Linux y su importante papel en el futuro de la computación cuántica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-bizum-pueden-quitarte-500-euros-1386762'>La Policía advierte: así es la estafa de Bizum con la que pueden quitarte 500 euros</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-bizum-pueden-quitarte-500-euros-1386762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-bizum-3316721.jpg?tf=1200x' alt='La Policía advierte: así es la estafa de Bizum con la que pueden quitarte 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-desconocida-pelicula-espanola-digna-sueno-oscuro-coen-1386718'>Stephen King fascinado con una desconocida película española: "digna de un sueño oscuro de los Coen"</a></h4>
-    <a href='https://computerhoy.com/tv/stephen-king-fascinado-desconocida-pelicula-espanola-digna-sueno-oscuro-coen-1386718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/stephen-king-mesita-comedor-3315579.jpg?tf=1200x' alt='Stephen King fascinado con una desconocida película española: "digna de un sueño oscuro de los Coen"' />
     </a>
 </div>
 
