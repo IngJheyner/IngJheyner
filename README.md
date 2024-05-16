@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714'>La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700'>No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-gemini-3315463.jpg?tf=1200x' alt='No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685'>Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia</a></h4>
     <a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3315359.jpg?tf=1200x' alt='Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668'>La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayores-apps-emulacion-juegos-retro-android-acaba-llegar-ios-3315096.jpg?tf=1200x' alt='La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV' />
     </a>
 </div>
 
