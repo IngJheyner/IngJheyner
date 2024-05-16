@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476'>Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano</a></h4>
+    <a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/paneles-solares-3311925.jpg?tf=1200x' alt='Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351'>Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/totalpure-2in1-moonstyle-dark-3311984.jpg?tf=1200x' alt='Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627'>El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil</a></h4>
     <a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-3313596.jpg?tf=1200x' alt='El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628'>Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5</a></h4>
-    <a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-i-dia-2-novedades-android-auto-android-tv-wear-os-3313415.jpg?tf=1200x' alt='Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5' />
     </a>
 </div>
 
