@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-1386799'>Tim Robbins resuelve la gran incógnita del final de Cadena Perpetua, para muchos, la mejor película de la historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-1386799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-3316906.jpg?tf=1200x' alt='Tim Robbins resuelve la gran incógnita del final de Cadena Perpetua, para muchos, la mejor película de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-pro-pagar-poder-utilizar-google-maps-android-auto-1386630'>Google Maps Pro: ¿pagar por poder utilizar Google Maps en Android Auto?</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-pro-pagar-poder-utilizar-google-maps-android-auto-1386630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-pro-3316007.jpg?tf=1200x' alt='Google Maps Pro: ¿pagar por poder utilizar Google Maps en Android Auto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677'>Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo</a></h4>
     <a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-i5-3227268.jpg?tf=1200x' alt='Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/libros-exito-seran-peliculas-series-ya-puedes-leer-1386127'>Adelántate a Hollywood: 5 libros de éxito que serán películas y series y que ya puedes leer</a></h4>
     <a href='https://computerhoy.com/entretenimiento/libros-exito-seran-peliculas-series-ya-puedes-leer-1386127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peliculas-series-basadas-libros-3315661.jpg?tf=1200x' alt='Adelántate a Hollywood: 5 libros de éxito que serán películas y series y que ya puedes leer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693'>Qué es Wero, la app para enviar dinero que hace temblar a Bizum</a></h4>
-    <a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wero-3315656.jpg?tf=1200x' alt='Qué es Wero, la app para enviar dinero que hace temblar a Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084'>Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse' />
     </a>
 </div>
 
