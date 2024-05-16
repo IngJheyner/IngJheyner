@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084'>Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217'>WeTransfer en 2024: trucos y guía completa para compartir archivos grandes</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wetransfer-2024-trucos-guia-completa-compartir-archivos-grandes-3312325.jpg?tf=1200x' alt='WeTransfer en 2024: trucos y guía completa para compartir archivos grandes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647'>realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros</a></h4>
     <a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-vs-realme-12-pro-3289952.jpg?tf=1200x' alt='realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690'>Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-mal-uso-universidad-3315283.jpg?tf=1200x' alt='Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad' />
     </a>
 </div>
 
