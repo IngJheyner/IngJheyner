@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658'>Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"</a></h4>
+    <a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3315093.jpg?tf=1200x' alt='Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mantiene-abiertas-7400-pestanas-firefox-sin-problemas-rendimiento-1384035'>Esta auténtica heroína ha mantenido más de 7400 pestañas de Firefox abiertas durante dos años, sin que le pete el navegador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mantiene-abiertas-7400-pestanas-firefox-sin-problemas-rendimiento-1384035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/logo-firefox-3311991.jpg?tf=1200x' alt='Esta auténtica heroína ha mantenido más de 7400 pestañas de Firefox abiertas durante dos años, sin que le pete el navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408'>Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia</a></h4>
     <a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bluetti-eb3a-3312059.jpg?tf=1200x' alt='Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934'>"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo</a></h4>
     <a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/michael-tamblyn-ceo-rakuten-kobo-3310578.jpg?tf=1200x' alt='"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476'>Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano</a></h4>
-    <a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/paneles-solares-3311925.jpg?tf=1200x' alt='Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351'>Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/totalpure-2in1-moonstyle-dark-3311984.jpg?tf=1200x' alt='Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato' />
     </a>
 </div>
 
