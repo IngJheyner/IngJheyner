@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815'>Linux y su importante papel en el futuro de la computación cuántica</a></h4>
+    <a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linux-importante-papel-futuro-computacion-cuantica-3317290.jpg?tf=1200x' alt='Linux y su importante papel en el futuro de la computación cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821'>Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/ocu-pone-punto-mira-temu-alerta-usuarios-1386819'>La OCU pone en el punto de mira a Temu y alerta a sus usuarios</a></h4>
+    <a href='https://computerhoy.com/life/ocu-pone-punto-mira-temu-alerta-usuarios-1386819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/temu-3218590.jpg?tf=1200x' alt='La OCU pone en el punto de mira a Temu y alerta a sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-bizum-pueden-quitarte-500-euros-1386762'>La Policía advierte: así es la estafa de Bizum con la que pueden quitarte 500 euros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-estafa-bizum-pueden-quitarte-500-euros-1386762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafa-bizum-3316721.jpg?tf=1200x' alt='La Policía advierte: así es la estafa de Bizum con la que pueden quitarte 500 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-desconocida-pelicula-espanola-digna-sueno-oscuro-coen-1386718'>Stephen King fascinado con una desconocida película española: "digna de un sueño oscuro de los Coen"</a></h4>
     <a href='https://computerhoy.com/tv/stephen-king-fascinado-desconocida-pelicula-espanola-digna-sueno-oscuro-coen-1386718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/stephen-king-mesita-comedor-3315579.jpg?tf=1200x' alt='Stephen King fascinado con una desconocida película española: "digna de un sueño oscuro de los Coen"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-1386799'>Tim Robbins resuelve la gran incógnita del final de Cadena Perpetua, para muchos, la mejor película de la historia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-1386799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-robbins-resuelve-gran-incognita-final-cadena-perpetua-muchos-mejor-pelicula-historia-3316906.jpg?tf=1200x' alt='Tim Robbins resuelve la gran incógnita del final de Cadena Perpetua, para muchos, la mejor película de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-pro-pagar-poder-utilizar-google-maps-android-auto-1386630'>Google Maps Pro: ¿pagar por poder utilizar Google Maps en Android Auto?</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-pro-pagar-poder-utilizar-google-maps-android-auto-1386630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-pro-3316007.jpg?tf=1200x' alt='Google Maps Pro: ¿pagar por poder utilizar Google Maps en Android Auto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677'>Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo</a></h4>
-    <a href='https://computerhoy.com/hogar/roomba-rompe-amazon-robot-friega-aspira-precio-saldo-1386677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-i5-3227268.jpg?tf=1200x' alt='Roomba rompe Amazon con este robot: friega y aspira y está a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-1386784'>Steve Jobs inventó hasta escaleras: las puedes ver en las Apple Store y cuentan con un sistema antipervertidos</a></h4>
-    <a href='https://computerhoy.com/life/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-1386784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-jobs-invento-escaleras-puedes-ver-apple-store-cuentan-sistema-antipervertidos-3316717.jpg?tf=1200x' alt='Steve Jobs inventó hasta escaleras: las puedes ver en las Apple Store y cuentan con un sistema antipervertidos' />
     </a>
 </div>
 
