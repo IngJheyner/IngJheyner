@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693'>Qué es Wero, la app para enviar dinero que hace temblar a Bizum</a></h4>
+    <a href='https://computerhoy.com/apps/wero-app-enviar-dinero-hace-temblar-bizum-1386693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wero-3315656.jpg?tf=1200x' alt='Qué es Wero, la app para enviar dinero que hace temblar a Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084'>Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/router-puede-tener-virus-estas-son-formas-habituales-infectarse-1386084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Sí, tu router también puede tener un virus, y estas son las formas más habituales de infectarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700'>No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google</a></h4>
     <a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-gemini-3315463.jpg?tf=1200x' alt='No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647'>realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-vs-realme-12-pro-3289952.jpg?tf=1200x' alt='realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros' />
     </a>
 </div>
 
