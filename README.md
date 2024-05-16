@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690'>Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-mal-uso-universidad-3315283.jpg?tf=1200x' alt='Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685'>Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia</a></h4>
+    <a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3315359.jpg?tf=1200x' alt='Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668'>La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV</a></h4>
     <a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayores-apps-emulacion-juegos-retro-android-acaba-llegar-ios-3315096.jpg?tf=1200x' alt='La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651'>No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bmax-b6-power-3314799.jpg?tf=1200x' alt='No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-juice-jacking-1377958'>¿Qué es juice jacking? Deberías pensarte dos veces dónde cargas tu móvil</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/que-es-juice-jacking-1377958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715683637969-3312001.jpg?tf=1200x' alt='¿Qué es juice jacking? Deberías pensarte dos veces dónde cargas tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658'>Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"</a></h4>
-    <a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3315093.jpg?tf=1200x' alt='Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"' />
     </a>
 </div>
 
