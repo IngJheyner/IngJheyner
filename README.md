@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408'>Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bluetti-eb3a-3312059.jpg?tf=1200x' alt='Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/correr-primeros-10k-dispositivos-ayuda-1382797'>Los gadgets que me ayudaron a correr mi primer 10k después de 15 años sin hacer deporte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/correr-primeros-10k-dispositivos-ayuda-1382797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ana-munoz-10k-3306377.jpg?tf=1200x' alt='Los gadgets que me ayudaron a correr mi primer 10k después de 15 años sin hacer deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934'>"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo</a></h4>
+    <a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/michael-tamblyn-ceo-rakuten-kobo-3310578.jpg?tf=1200x' alt='"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476'>Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano</a></h4>
     <a href='https://computerhoy.com/energia/paneles-solares-contaminacion-china-1284476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/paneles-solares-3311925.jpg?tf=1200x' alt='Los paneles solares podrían contaminar hasta 5 veces más de lo que pensábamos, según este estudio italiano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351'>Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/totalpure-2in1-moonstyle-dark-3311984.jpg?tf=1200x' alt='Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/ssd-m2-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-1386641'>Ya puedes añadir un SSD M.2 a tu Raspberry Pi 5, con Raspberry Pi M.2 HAT+</a></h4>
-    <a href='https://computerhoy.com/pc/ssd-m2-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-1386641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-anadir-lector-ssd-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-3314423.jpg?tf=1200x' alt='Ya puedes añadir un SSD M.2 a tu Raspberry Pi 5, con Raspberry Pi M.2 HAT+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633'>Reescala cualquier vídeo de YouTube o Netflix a 4K HDR usando IA, con una tarjeta RTX y Firefox</a></h4>
-    <a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-3313662.jpg?tf=1200x' alt='Reescala cualquier vídeo de YouTube o Netflix a 4K HDR usando IA, con una tarjeta RTX y Firefox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627'>El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-1386627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sencillo-codigo-secreto-evitar-nadie-escuche-llamadas-valido-cualquier-movil-3313596.jpg?tf=1200x' alt='El sencillo código secreto para evitar que nadie escuche tus llamadas, válido para cualquier móvil' />
     </a>
 </div>
 
