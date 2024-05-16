@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217'>WeTransfer en 2024: trucos y guía completa para compartir archivos grandes</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/wetransfer-que-es-como-funciona-trucos-compartir-archivos-77217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wetransfer-2024-trucos-guia-completa-compartir-archivos-grandes-3312325.jpg?tf=1200x' alt='WeTransfer en 2024: trucos y guía completa para compartir archivos grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714'>La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-septiembre-actualizacion-enorme-1359714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-12-3305084.jpg?tf=1200x' alt='La actualización de Windows 11 de septiembre es enorme y podría ser directamente Windows 12' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690'>Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-mal-uso-universidad-3315283.jpg?tf=1200x' alt='Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685'>Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia</a></h4>
-    <a href='https://computerhoy.com/apps/google-traera-juegos-aplicaciones-streaming-android-auto-1386685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-3315359.jpg?tf=1200x' alt='Llegan el streaming y los juegos a Android Auto, la mayor revolución de su historia' />
     </a>
 </div>
 
