@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633'>Reescala cualquier vídeo de YouTube o Netflix a 4K HDR con una tarjeta RTX y Firefox</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351'>Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-tiene-rival-cecotec-vende-ya-ventilador-aspas-tambien-purificador-mucho-barato-1386351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/totalpure-2in1-moonstyle-dark-3311984.jpg?tf=1200x' alt='Dyson tiene rival: Cecotec vende ya un ventilador sin aspas que es también purificador, y es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/ssd-m2-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-1386641'>Ya puedes añadir un SSD M.2 a tu Raspberry Pi 5, con Raspberry Pi M.2 HAT+</a></h4>
+    <a href='https://computerhoy.com/pc/ssd-m2-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-1386641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-puedes-anadir-lector-ssd-aceleradores-ia-raspberry-pi-5-raspberry-pi-m2-hat-3314423.jpg?tf=1200x' alt='Ya puedes añadir un SSD M.2 a tu Raspberry Pi 5, con Raspberry Pi M.2 HAT+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633'>Reescala cualquier vídeo de YouTube o Netflix a 4K HDR usando IA, con una tarjeta RTX y Firefox</a></h4>
     <a href='https://computerhoy.com/pc/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-1386633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-3313662.jpg?tf=1200x' alt='Reescala cualquier vídeo de YouTube o Netflix a 4K HDR con una tarjeta RTX y Firefox' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reescala-cualquier-video-youtube-4k-hdr-tarjeta-rtx-firefox-3313662.jpg?tf=1200x' alt='Reescala cualquier vídeo de YouTube o Netflix a 4K HDR usando IA, con una tarjeta RTX y Firefox' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628'>Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5</a></h4>
     <a href='https://computerhoy.com/google/google-io-dia-2-novedades-android-auto-android-tv-14-wear-os-5-1386628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-i-dia-2-novedades-android-auto-android-tv-wear-os-3313415.jpg?tf=1200x' alt='Google I/O Día 2: novedades de Android Auto, Android TV 14, y Wear OS 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-1386612'>Cargar el móvil en el coche destruye la batería: ¿realidad o leyenda urbana?</a></h4>
-    <a href='https://computerhoy.com/moviles/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-1386612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-3313414.jpg?tf=1200x' alt='Cargar el móvil en el coche destruye la batería: ¿realidad o leyenda urbana?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625'>Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/ios18-novedades-controlar-movil-ojos-funcion-prevenir-mareos-1386625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/controlar-movil-ojos-funcion-prevenir-mareos-novedades-ios-18-3313165.jpg?tf=1200x' alt='Controlar el móvil con los ojos y una función para prevenir mareos, más novedades de iOS 18' />
     </a>
 </div>
 
