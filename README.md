@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668'>La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayores-apps-emulacion-juegos-retro-android-acaba-llegar-ios-3315096.jpg?tf=1200x' alt='La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/actualiza-ordenador-intel-emite-alertas-seguridad-90-vulnerabilidades-1386675'>Actualiza tu ordenador: Intel emite alertas de seguridad para más de 90 vulnerabilidades</a></h4>
+    <a href='https://computerhoy.com/pc/actualiza-ordenador-intel-emite-alertas-seguridad-90-vulnerabilidades-1386675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Actualiza tu ordenador: Intel emite alertas de seguridad para más de 90 vulnerabilidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651'>No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bmax-b6-power-3314799.jpg?tf=1200x' alt='No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/que-es-juice-jacking-1377958'>¿Qué es juice jacking? Deberías pensarte dos veces dónde cargas tu móvil</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/que-es-juice-jacking-1377958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715683637969-3312001.jpg?tf=1200x' alt='¿Qué es juice jacking? Deberías pensarte dos veces dónde cargas tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658'>Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"</a></h4>
     <a href='https://computerhoy.com/google/google-no-volvera-ser-mismo-todo-ia-gemini-google-hara-busqueda-google-ti-1386658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3315093.jpg?tf=1200x' alt='Google no volverá a ser el mismo y todo por la IA de Gemini: "Google hará la búsqueda en Google por ti"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mantiene-abiertas-7400-pestanas-firefox-sin-problemas-rendimiento-1384035'>Esta auténtica heroína ha mantenido más de 7400 pestañas de Firefox abiertas durante dos años, sin que le pete el navegador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mantiene-abiertas-7400-pestanas-firefox-sin-problemas-rendimiento-1384035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/logo-firefox-3311991.jpg?tf=1200x' alt='Esta auténtica heroína ha mantenido más de 7400 pestañas de Firefox abiertas durante dos años, sin que le pete el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408'>Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-desploma-precio-generador-solar-bluetti-1200w-potencia-1386408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bluetti-eb3a-3312059.jpg?tf=1200x' alt='Amazon desploma el precio de un generador solar Bluetti con hasta 1.200W de potencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/correr-primeros-10k-dispositivos-ayuda-1382797'>Los gadgets que me ayudaron a correr mi primer 10k después de 15 años sin hacer deporte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/correr-primeros-10k-dispositivos-ayuda-1382797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ana-munoz-10k-3306377.jpg?tf=1200x' alt='Los gadgets que me ayudaron a correr mi primer 10k después de 15 años sin hacer deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934'>"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo</a></h4>
-    <a href='https://computerhoy.com/hogar/ereaders-no-bajaron-ventas-pandemia-ceo-kobo-1383934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/michael-tamblyn-ceo-rakuten-kobo-3310578.jpg?tf=1200x' alt='"El interés en los lectores electrónicos no ha bajado después de la pandemia", según el CEO de Kobo' />
     </a>
 </div>
 
