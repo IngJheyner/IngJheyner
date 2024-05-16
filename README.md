@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700'>No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-chatgpt-arrasa-deja-tiritando-otras-ia-como-gemini-google-1386700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-gemini-3315463.jpg?tf=1200x' alt='No tiene rival: el nuevo ChatGPT arrasa y deja tiritando otras IA como Gemini de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647'>realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/realme-pega-bombazo-movil-top-ahora-roza-300-euros-1386647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/realme-12-pro-vs-realme-12-pro-3289952.jpg?tf=1200x' alt='realme pega el bombazo: su móvil más top tiene pantalla 120 Hz y ahora roza los 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690'>Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/flipper-zero-vuelve-sembrar-caos-vez-universidad-1386690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-mal-uso-universidad-3315283.jpg?tf=1200x' alt='Un Flipper Zero vuelve a sembrar el caos, esta vez en una universidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668'>La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV</a></h4>
     <a href='https://computerhoy.com/apps/mejor-app-emulacion-juegos-retro-android-acaba-llegar-iphone-ipad-apple-tv-1386668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mayores-apps-emulacion-juegos-retro-android-acaba-llegar-ios-3315096.jpg?tf=1200x' alt='La mejor app de emulación de juegos retro para Android acaba de llegar a iPhone, iPad y Apple TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/actualiza-ordenador-intel-emite-alertas-seguridad-90-vulnerabilidades-1386675'>Actualiza tu ordenador: Intel emite alertas de seguridad para más de 90 vulnerabilidades</a></h4>
-    <a href='https://computerhoy.com/pc/actualiza-ordenador-intel-emite-alertas-seguridad-90-vulnerabilidades-1386675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-ciberseguridad-3315192.jpg?tf=1200x' alt='Actualiza tu ordenador: Intel emite alertas de seguridad para más de 90 vulnerabilidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651'>No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-mini-pc-tiene-1tb-ssd-16gb-ram-precio-nunca-visto-1386651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bmax-b6-power-3314799.jpg?tf=1200x' alt='No es un error: este Mini PC tiene 1TB de SSD y 16GB de RAM a precio nunca visto' />
     </a>
 </div>
 
