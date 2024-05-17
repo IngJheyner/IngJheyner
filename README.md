@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-no-quiere-distracciones-volante-android-auto-toma-estas-medidas-1387015'>Google no quiere distracciones al volante con Android Auto y toma estas medidas</a></h4>
-    <a href='https://computerhoy.com/apps/google-no-quiere-distracciones-volante-android-auto-toma-estas-medidas-1387015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/android-auto-coolwalk-2870275.jpg?tf=1200x' alt='Google no quiere distracciones al volante con Android Auto y toma estas medidas' />
+    <h4><a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014'>5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema</a></h4>
+    <a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-trucos-imprescindibles-ver-televisor-luz-ambiental-sea-problema-3322568.jpg?tf=1200x' alt='5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/hoy-dia-twitter-muere-definitivamente-1387013'>Hoy es el día en el que Twitter muere definitivamente</a></h4>
-    <a href='https://computerhoy.com/redes/hoy-dia-twitter-muere-definitivamente-1387013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hoy-dia-twitter-muere-definitivamente-3321972.jpg?tf=1200x' alt='Hoy es el día en el que Twitter muere definitivamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/trabajadores-chatgpt-abandonan-empresa-perdida-confianza-1386962'>Miedo a la IA: trabajadores de ChatGPT abandonan la empresa por “pérdida de confianza”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/trabajadores-chatgpt-abandonan-empresa-perdida-confianza-1386962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/miedo-ia-trabajadores-chatgpt-abandonan-empresa-perdida-confianza-3320815.jpg?tf=1200x' alt='Miedo a la IA: trabajadores de ChatGPT abandonan la empresa por “pérdida de confianza”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-fantasticas-80-casi-tan-epicas-como-senor-anillos-1385649'>5 películas fantásticas de los 80 (casi) tan épicas como El señor de los anillos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-fantasticas-80-casi-tan-epicas-como-senor-anillos-1385649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-peliculas-fantasticas-80-casi-tan-epicas-como-senor-anillos-3310742.jpg?tf=1200x' alt='5 películas fantásticas de los 80 (casi) tan épicas como El señor de los anillos' />
+    <h4><a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017'>Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-1387003'>Ni Google Maps ni Waze: esta es la mejor experiencia de navegación para Android Auto</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-1387003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-3322208.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor experiencia de navegación para Android Auto' />
+    <h4><a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588'>Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fitbit-sense-2-3312534.jpg?tf=1200x' alt='Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desconcertarte-misterio-xiaomi-su7-39-kilometros-1386957'>El desconcertarte misterio del Xiaomi SU7 y los 39 kilómetros</a></h4>
-    <a href='https://computerhoy.com/motor/desconcertarte-misterio-xiaomi-su7-39-kilometros-1386957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3294252.jpg?tf=1200x' alt='El desconcertarte misterio del Xiaomi SU7 y los 39 kilómetros' />
+    <h4><a href='https://computerhoy.com/motor/semaforos-cuatro-colores-parece-locura-pero-estan-cerca-piensas-1386950'>¿Semáforos con cuatro colores? Parece una locura, pero están más cerca de los que piensas </a></h4>
+    <a href='https://computerhoy.com/motor/semaforos-cuatro-colores-parece-locura-pero-estan-cerca-piensas-1386950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/semaforo-cuatro-colores-3320677.jpg?tf=1200x' alt='¿Semáforos con cuatro colores? Parece una locura, pero están más cerca de los que piensas ' />
     </a>
 </div>
 
