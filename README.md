@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-1387003'>Ni Google Maps ni Waze: esta es la mejor experiencia de navegación para Android Auto</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-1387003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-google-maps-ni-waze-mejor-experiencia-navegacion-android-auto-3322208.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor experiencia de navegación para Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/desconcertarte-misterio-xiaomi-su7-39-kilometros-1386957'>El desconcertarte misterio del Xiaomi SU7 y los 39 kilómetros</a></h4>
+    <a href='https://computerhoy.com/motor/desconcertarte-misterio-xiaomi-su7-39-kilometros-1386957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3294252.jpg?tf=1200x' alt='El desconcertarte misterio del Xiaomi SU7 y los 39 kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/mapa-pueblos-bonitos-espana-por-provincia-1155725'>El mapa de los 50 pueblos más bonitos de España, uno por cada provincia</a></h4>
+    <a href='https://computerhoy.com/noticias/life/mapa-pueblos-bonitos-espana-por-provincia-1155725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mapa-espana-pueblos-bonitos-3320439.jpg?tf=1200x' alt='El mapa de los 50 pueblos más bonitos de España, uno por cada provincia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/multimillonaria-obsesion-elon-musk-chatgpt-pretende-gastar-10000-millones-derrotar-openai-1386949'>La multimillonaria obsesión de Elon Musk con ChatGPT: pretende gastar 10.000 millones para derrotar a OpenAI</a></h4>
     <a href='https://computerhoy.com/tecnologia/multimillonaria-obsesion-elon-musk-chatgpt-pretende-gastar-10000-millones-derrotar-openai-1386949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='La multimillonaria obsesión de Elon Musk con ChatGPT: pretende gastar 10.000 millones para derrotar a OpenAI' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-1386992'>Todo el mundo dice que usa una, pero: ¿cómo se crea una contraseña segura?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-1386992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-3321851.jpg?tf=1200x' alt='Todo el mundo dice que usa una, pero: ¿cómo se crea una contraseña segura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/como-instalar-mirilla-digital-casa-no-meterte-lios-legales-1386755'>Esto debes saber para instalar una mirilla digital en casa y no meterte en líos legales</a></h4>
-    <a href='https://computerhoy.com/hogar/como-instalar-mirilla-digital-casa-no-meterte-lios-legales-1386755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mirilla-digital-3320559.jpg?tf=1200x' alt='Esto debes saber para instalar una mirilla digital en casa y no meterte en líos legales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-son-apps-enganchan-espana-nuevo-estudio-1386933'>Estas son las apps que más enganchan en España, según un nuevo estudio</a></h4>
-    <a href='https://computerhoy.com/apps/estas-son-apps-enganchan-espana-nuevo-estudio-1386933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-apps-enganchan-espana-nuevo-estudio-3320551.jpg?tf=1200x' alt='Estas son las apps que más enganchan en España, según un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/identidad-digital-aprobada-europa-dni-futuro-1386714'>Así es la identidad digital aprobada por Europa, ¿el DNI del futuro?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/identidad-digital-aprobada-europa-dni-futuro-1386714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/identidad-digital-aprobada-europa-dni-futuro-3315462.jpg?tf=1200x' alt='Así es la identidad digital aprobada por Europa, ¿el DNI del futuro?' />
     </a>
 </div>
 
