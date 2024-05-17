@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/siete-senales-indican-datos-estan-manos-ciberdelincuentes-1386915'>Siete señales que indican que tus datos están en manos de ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/siete-senales-indican-datos-estan-manos-ciberdelincuentes-1386915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberdelincuentes-robo-datos-3320322.jpg?tf=1200x' alt='Siete señales que indican que tus datos están en manos de ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/emulacion-nativa-mejorada-juegos-ps2-podria-llegar-muy-pronto-playstation-5-mejoras-nunca-vistas-1386930'>La emulación nativa mejorada de juegos de PS2 podría llegar muy pronto a PlayStation 5 con mejoras nunca vistas</a></h4>
+    <a href='https://computerhoy.com/gaming/emulacion-nativa-mejorada-juegos-ps2-podria-llegar-muy-pronto-playstation-5-mejoras-nunca-vistas-1386930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-podria-estar-emulando-juegos-ps2-ps5-anadira-mejoras-nunca-vistas-3320546.jpg?tf=1200x' alt='La emulación nativa mejorada de juegos de PS2 podría llegar muy pronto a PlayStation 5 con mejoras nunca vistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913'>Si utilizas una VPN, esta actualización de Windows 11 te interesa</a></h4>
     <a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/actualizacion-windows-11-te-interesa-utilizas-vpn-3320312.jpg?tf=1200x' alt='Si utilizas una VPN, esta actualización de Windows 11 te interesa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/videos-4k-montana-agua-camara-alternativa-gopro-55-euros-1386867'>Vídeos 4K en la montaña o bajo el agua con la cámara alternativa a las GoPro de 55 euros</a></h4>
     <a href='https://computerhoy.com/tv/videos-4k-montana-agua-camara-alternativa-gopro-55-euros-1386867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ek7000-3319853.jpg?tf=1200x' alt='Vídeos 4K en la montaña o bajo el agua con la cámara alternativa a las GoPro de 55 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/bateria-arena-quiere-revolucionar-almacenamiento-energia-1386904'>Así funciona la batería de arena que quiere revolucionar el almacenamiento de energía</a></h4>
-    <a href='https://computerhoy.com/energia/bateria-arena-quiere-revolucionar-almacenamiento-energia-1386904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715927323253-3319507.jpg?tf=1200x' alt='Así funciona la batería de arena que quiere revolucionar el almacenamiento de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significa-ipad-pro-2024-apple-tenga-doble-pantalla-oled-1386868'>¿Qué significa que el iPad Pro 2024 de Apple tenga "doble pantalla OLED"?</a></h4>
-    <a href='https://computerhoy.com/apple/significa-ipad-pro-2024-apple-tenga-doble-pantalla-oled-1386868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-2024-3309128.jpg?tf=1200x' alt='¿Qué significa que el iPad Pro 2024 de Apple tenga "doble pantalla OLED"?' />
     </a>
 </div>
 
