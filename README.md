@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
+    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199982.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-1386770'>Google usará la inteligencia artificial para poner fin a las estafas telefónicas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-1386770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-3316180.jpg?tf=1200x' alt='Google usará la inteligencia artificial para poner fin a las estafas telefónicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740'>Cómo desactivar las nuevas funciones de IA del buscador de Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-desactivar-ia-buscador-google-3315745.jpg?tf=1200x' alt='Cómo desactivar las nuevas funciones de IA del buscador de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825'>Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple</a></h4>
     <a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-3317193.jpg?tf=1200x' alt='Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815'>Linux y su importante papel en el futuro de la computación cuántica</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linux-importante-papel-futuro-computacion-cuantica-1386815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linux-importante-papel-futuro-computacion-cuantica-3317290.jpg?tf=1200x' alt='Linux y su importante papel en el futuro de la computación cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821'>Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo' />
     </a>
 </div>
 
