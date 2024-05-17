@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-1386878'>Cómo identificar las placas Arduino originales, las copias de terceros y las falsificaciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-1386878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-3319961.jpg?tf=1200x' alt='Cómo identificar las placas Arduino originales, las copias de terceros y las falsificaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-2024-3314731.jpg?tf=1200x' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/emulacion-nativa-mejorada-juegos-ps2-podria-llegar-muy-pronto-playstation-5-mejoras-nunca-vistas-1386930'>La emulación nativa mejorada de juegos de PS2 podría llegar muy pronto a PlayStation 5 con mejoras nunca vistas</a></h4>
     <a href='https://computerhoy.com/gaming/emulacion-nativa-mejorada-juegos-ps2-podria-llegar-muy-pronto-playstation-5-mejoras-nunca-vistas-1386930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sony-podria-estar-emulando-juegos-ps2-ps5-anadira-mejoras-nunca-vistas-3320546.jpg?tf=1200x' alt='La emulación nativa mejorada de juegos de PS2 podría llegar muy pronto a PlayStation 5 con mejoras nunca vistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913'>Si utilizas una VPN, esta actualización de Windows 11 te interesa</a></h4>
-    <a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/actualizacion-windows-11-te-interesa-utilizas-vpn-3320312.jpg?tf=1200x' alt='Si utilizas una VPN, esta actualización de Windows 11 te interesa' />
     </a>
 </div>
 
