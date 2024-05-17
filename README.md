@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/aire-acondicionado-no-requiere-instalacion-solo-necesita-10-electricidad-enfriar-habitacion-30-minutos-1386852'>Este aire acondicionado no requiere instalación y solo necesita un 10% de electricidad para enfriar una habitación en 30 minutos </a></h4>
+    <a href='https://computerhoy.com/life/aire-acondicionado-no-requiere-instalacion-solo-necesita-10-electricidad-enfriar-habitacion-30-minutos-1386852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aire-acondicionado-no-requiere-instalacion-enfria-habitacion-30-minutos-3319613.jpg?tf=1200x' alt='Este aire acondicionado no requiere instalación y solo necesita un 10% de electricidad para enfriar una habitación en 30 minutos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/piratean-playstation-utilizando-sistema-operativo-smart-tv-1386855'>Consiguen piratear una PlayStation utilizando el sistema operativo de un Smart TV</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/piratean-playstation-utilizando-sistema-operativo-smart-tv-1386855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/piratean-ps4-3319722.jpg?tf=1200x' alt='Consiguen piratear una PlayStation utilizando el sistema operativo de un Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310'>Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3310172.jpg?tf=1200x' alt='Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410'>Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión</a></h4>
     <a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wifi-senal-3317289.jpg?tf=1200x' alt='Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527'>Cómo saber si alguien ha bloqueado tu número en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-ha-bloqueado-numero-movil-android-3312314.jpg?tf=1200x' alt='Cómo saber si alguien ha bloqueado tu número en un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576'>El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wd-elements-5-tb-3312392.jpg?tf=1200x' alt='El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta' />
     </a>
 </div>
 
