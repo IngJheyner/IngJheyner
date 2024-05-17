@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-2024-3314731.jpg?tf=1200x' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-cuesta-menos-movil-xiaomi-1335360'>32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi y cabe en la palma de la mano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-cuesta-menos-movil-xiaomi-1335360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mini-pc-trigkey-speed-s5-3222386.jpg?tf=1200x' alt='32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi y cabe en la palma de la mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/siete-senales-indican-datos-estan-manos-ciberdelincuentes-1386915'>Siete señales que indican que tus datos están en manos de ciberdelincuentes</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/siete-senales-indican-datos-estan-manos-ciberdelincuentes-1386915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberdelincuentes-robo-datos-3320322.jpg?tf=1200x' alt='Siete señales que indican que tus datos están en manos de ciberdelincuentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913'>Si utilizas una VPN, esta actualización de Windows 11 te interesa</a></h4>
     <a href='https://computerhoy.com/windows/utilizas-vpn-actualizacion-windows-11-te-interesa-1386913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/actualizacion-windows-11-te-interesa-utilizas-vpn-3320312.jpg?tf=1200x' alt='Si utilizas una VPN, esta actualización de Windows 11 te interesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/funciones-google-maps-ia-he-probado-te-encantaran-1386896'>Funciones de Google Maps con IA que he probado y que te encantarán para tu día a día</a></h4>
-    <a href='https://computerhoy.com/google/funciones-google-maps-ia-he-probado-te-encantaran-1386896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-funciones-ia-3320185.jpg?tf=1200x' alt='Funciones de Google Maps con IA que he probado y que te encantarán para tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/videos-4k-montana-agua-camara-alternativa-gopro-55-euros-1386867'>Vídeos 4K en la montaña o bajo el agua con la cámara alternativa a las GoPro de 55 euros</a></h4>
-    <a href='https://computerhoy.com/tv/videos-4k-montana-agua-camara-alternativa-gopro-55-euros-1386867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ek7000-3319853.jpg?tf=1200x' alt='Vídeos 4K en la montaña o bajo el agua con la cámara alternativa a las GoPro de 55 euros' />
     </a>
 </div>
 
