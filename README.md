@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/bateria-arena-quiere-revolucionar-almacenamiento-energia-1386904'>Así funciona la batería de arena que quiere revolucionar el almacenamiento de energía</a></h4>
+    <a href='https://computerhoy.com/energia/bateria-arena-quiere-revolucionar-almacenamiento-energia-1386904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715927323253-3319507.jpg?tf=1200x' alt='Así funciona la batería de arena que quiere revolucionar el almacenamiento de energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/significa-ipad-pro-2024-apple-tenga-doble-pantalla-oled-1386868'>¿Qué significa que el iPad Pro 2024 de Apple tenga "doble pantalla OLED"?</a></h4>
+    <a href='https://computerhoy.com/apple/significa-ipad-pro-2024-apple-tenga-doble-pantalla-oled-1386868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-2024-3309128.jpg?tf=1200x' alt='¿Qué significa que el iPad Pro 2024 de Apple tenga "doble pantalla OLED"?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/exoesqueleto-combate-ejercito-espana-1277222'>Así es el exoesqueleto de combate para el ejército de España que está desarrollando una empresa vasca</a></h4>
+    <a href='https://computerhoy.com/tecnologia/exoesqueleto-combate-ejercito-espana-1277222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/exoesqueleto-combate-3087052.jpg?tf=1200x' alt='Así es el exoesqueleto de combate para el ejército de España que está desarrollando una empresa vasca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/aire-acondicionado-no-requiere-instalacion-solo-necesita-10-electricidad-enfriar-habitacion-30-minutos-1386852'>Este aire acondicionado no requiere instalación y solo necesita un 10% de electricidad para enfriar una habitación en 30 minutos </a></h4>
     <a href='https://computerhoy.com/life/aire-acondicionado-no-requiere-instalacion-solo-necesita-10-electricidad-enfriar-habitacion-30-minutos-1386852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aire-acondicionado-no-requiere-instalacion-enfria-habitacion-30-minutos-3319613.jpg?tf=1200x' alt='Este aire acondicionado no requiere instalación y solo necesita un 10% de electricidad para enfriar una habitación en 30 minutos ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/piratean-playstation-utilizando-sistema-operativo-smart-tv-1386855'>Consiguen piratear una PlayStation utilizando el sistema operativo de un Smart TV</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/piratean-playstation-utilizando-sistema-operativo-smart-tv-1386855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/piratean-ps4-3319722.jpg?tf=1200x' alt='Consiguen piratear una PlayStation utilizando el sistema operativo de un Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310'>Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3310172.jpg?tf=1200x' alt='Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ciberseguridad-prueba-sobreviviria-windows-xp-funcionase-2024-1386849'>Ciberseguridad a prueba: ¿Sobreviviría Windows XP si funcionase en 2024?</a></h4>
-    <a href='https://computerhoy.com/windows/ciberseguridad-prueba-sobreviviria-windows-xp-funcionase-2024-1386849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Ciberseguridad a prueba: ¿Sobreviviría Windows XP si funcionase en 2024?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410'>Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión</a></h4>
-    <a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wifi-senal-3317289.jpg?tf=1200x' alt='Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión' />
     </a>
 </div>
 
