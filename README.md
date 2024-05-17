@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024'>El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web</a></h4>
+    <a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-google-ya-no-buscador-eso-ha-estrenado-boton-web-3322688.jpg?tf=1200x' alt='El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014'>5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema</a></h4>
     <a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-trucos-imprescindibles-ver-televisor-luz-ambiental-sea-problema-3322568.jpg?tf=1200x' alt='5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588'>Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fitbit-sense-2-3312534.jpg?tf=1200x' alt='Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/semaforos-cuatro-colores-parece-locura-pero-estan-cerca-piensas-1386950'>¿Semáforos con cuatro colores? Parece una locura, pero están más cerca de los que piensas </a></h4>
-    <a href='https://computerhoy.com/motor/semaforos-cuatro-colores-parece-locura-pero-estan-cerca-piensas-1386950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/semaforo-cuatro-colores-3320677.jpg?tf=1200x' alt='¿Semáforos con cuatro colores? Parece una locura, pero están más cerca de los que piensas ' />
     </a>
 </div>
 
