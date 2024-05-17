@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310'>Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-huawei-smartwatch-top-titanio-zafiro-baja-100eu-ademas-tiene-auriculares-gratis-1386310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-watch-4-pro-space-edition-3310172.jpg?tf=1200x' alt='Locura de Huawei: su smartwatch más top, de titanio y zafiro, baja 100€ y además tiene auriculares gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ciberseguridad-prueba-sobreviviria-windows-xp-funcionase-2024-1386849'>Ciberseguridad a prueba: ¿Sobreviviría Windows XP si funcionase en 2024?</a></h4>
+    <a href='https://computerhoy.com/windows/ciberseguridad-prueba-sobreviviria-windows-xp-funcionase-2024-1386849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-xp-3319714.jpg?tf=1200x' alt='Ciberseguridad a prueba: ¿Sobreviviría Windows XP si funcionase en 2024?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410'>Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión</a></h4>
+    <a href='https://computerhoy.com/redes/dispositivos-baja-senal-router-wifi-desconectar-1364410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wifi-senal-3317289.jpg?tf=1200x' alt='Este tipo de dispositivos están arruinando la señal de tu router WiFi, desconectarlos mejorará tu conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527'>Cómo saber si alguien ha bloqueado tu número en un móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-ha-bloqueado-numero-movil-android-3312314.jpg?tf=1200x' alt='Cómo saber si alguien ha bloqueado tu número en un móvil Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576'>El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta</a></h4>
     <a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wd-elements-5-tb-3312392.jpg?tf=1200x' alt='El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/hdmi-arc-puerto-como-usarlo-1380621'>Qué es el puerto HDMI ARC, para qué sirve realmente y cómo usarlo en tu TV</a></h4>
-    <a href='https://computerhoy.com/tv/hdmi-arc-puerto-como-usarlo-1380621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve realmente y cómo usarlo en tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578'>Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono</a></h4>
-    <a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-microfono-3316806.jpg?tf=1200x' alt='Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836'>Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/abren-portal-nueva-york-dublin-cierran-semana-comportamiento-indecente-3319096.jpg?tf=1200x' alt='Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"' />
     </a>
 </div>
 
