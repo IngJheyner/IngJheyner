@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870'>Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados</a></h4>
-    <a href='https://computerhoy.com/mejores/relojes-inteligentes-relacion-calidad-precio-modelos-recomendados-1176870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199982.jpg?tf=1200x' alt='Mejores relojes inteligentes en relación calidad-precio: cuál comprar y modelos recomendados' />
+    <h4><a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578'>Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono</a></h4>
+    <a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-microfono-3316806.jpg?tf=1200x' alt='Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-1386770'>Google usará la inteligencia artificial para poner fin a las estafas telefónicas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-1386770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-usara-inteligencia-artificial-poner-fin-estafas-telefonicas-3316180.jpg?tf=1200x' alt='Google usará la inteligencia artificial para poner fin a las estafas telefónicas' />
+    <h4><a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836'>Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/abren-portal-nueva-york-dublin-cierran-semana-comportamiento-indecente-3319096.jpg?tf=1200x' alt='Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740'>Cómo desactivar las nuevas funciones de IA del buscador de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-desactivar-ia-buscador-google-3315745.jpg?tf=1200x' alt='Cómo desactivar las nuevas funciones de IA del buscador de Google' />
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-8a-opinion-caracteristicas-analisis-1386220'>He probado el Google Pixel 8a y lleva el rendimiento de la gama media cerca de la premium, pero no todo está a la altura</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-8a-opinion-caracteristicas-analisis-1386220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3312066.jpg?tf=1200x' alt='He probado el Google Pixel 8a y lleva el rendimiento de la gama media cerca de la premium, pero no todo está a la altura' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828'>Si envuelves las llaves del coche en papel de aluminio, hay un método mejor</a></h4>
-    <a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-3317703.jpg?tf=1200x' alt='Si envuelves las llaves del coche en papel de aluminio, hay un método mejor' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/dos-ciberdelincuentes-roban-25-millones-dolares-criptomonedas-solo-12-segundos-1386757'>Dos ciberdelincuentes roban 25 millones de dólares en criptomonedas en solo 12 segundos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/dos-ciberdelincuentes-roban-25-millones-dolares-criptomonedas-solo-12-segundos-1386757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estafas-bitcoin-3289223.jpg?tf=1200x' alt='Dos ciberdelincuentes roban 25 millones de dólares en criptomonedas en solo 12 segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825'>Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-1386825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-estrena-anuncio-burlarse-desafortunado-anuncio-apple-3317193.jpg?tf=1200x' alt='Samsung estrena un anuncio para burlarse del desafortunado anuncio de Apple' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-no-debes-decir-jamas-no-caer-estafas-ocu-1384654'>Esta es la palabra que no deberías decir jamás por teléfono para no caer en estafas, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/palabra-no-debes-decir-jamas-no-caer-estafas-ocu-1384654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/palabra-prohibida-ocu-3317288.jpg?tf=1200x' alt='Esta es la palabra que no deberías decir jamás por teléfono para no caer en estafas, según la OCU' />
     </a>
 </div>
 
