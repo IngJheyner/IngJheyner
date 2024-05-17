@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740'>Cómo desactivar las nuevas funciones de IA del buscador de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-desactivar-nuevas-funciones-ia-buscador-google-1386740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-desactivar-ia-buscador-google-3315745.jpg?tf=1200x' alt='Cómo desactivar las nuevas funciones de IA del buscador de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828'>Si envuelves las llaves del coche en papel de aluminio, hay un método mejor</a></h4>
     <a href='https://computerhoy.com/motor/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-1386828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/envuelves-llaves-coche-papel-aluminio-hay-metodo-mejor-3317703.jpg?tf=1200x' alt='Si envuelves las llaves del coche en papel de aluminio, hay un método mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821'>Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo</a></h4>
     <a href='https://computerhoy.com/entretenimiento/datos-dan-razon-netflix-nadie-hubiera-apostado-ello-pero-exito-rotundo-1386821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/trampa-netflix-plan-anuncios-parezca-atractivo-2934360.jpg?tf=1200x' alt='Los datos dan la razón a Netflix: nadie hubiera apostado por ello, pero es un éxito rotundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/ocu-pone-punto-mira-temu-alerta-usuarios-1386819'>La OCU pone en el punto de mira a Temu y alerta a sus usuarios</a></h4>
-    <a href='https://computerhoy.com/life/ocu-pone-punto-mira-temu-alerta-usuarios-1386819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/temu-3218590.jpg?tf=1200x' alt='La OCU pone en el punto de mira a Temu y alerta a sus usuarios' />
     </a>
 </div>
 
