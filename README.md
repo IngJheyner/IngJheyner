@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/multimillonaria-obsesion-elon-musk-chatgpt-pretende-gastar-10000-millones-derrotar-openai-1386949'>La multimillonaria obsesión de Elon Musk con ChatGPT: pretende gastar 10.000 millones para derrotar a OpenAI</a></h4>
+    <a href='https://computerhoy.com/tecnologia/multimillonaria-obsesion-elon-musk-chatgpt-pretende-gastar-10000-millones-derrotar-openai-1386949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/fortuna-elon-musk-esfuma-twitter-tesla-son-agujero-perdidas-millonarias-2880111.jpg?tf=1200x' alt='La multimillonaria obsesión de Elon Musk con ChatGPT: pretende gastar 10.000 millones para derrotar a OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-1386992'>Todo el mundo dice que usa una, pero: ¿cómo se crea una contraseña segura?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-1386992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-3321851.jpg?tf=1200x' alt='Todo el mundo dice que usa una, pero: ¿cómo se crea una contraseña segura?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/como-instalar-mirilla-digital-casa-no-meterte-lios-legales-1386755'>Esto debes saber para instalar una mirilla digital en casa y no meterte en líos legales</a></h4>
+    <a href='https://computerhoy.com/hogar/como-instalar-mirilla-digital-casa-no-meterte-lios-legales-1386755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mirilla-digital-3320559.jpg?tf=1200x' alt='Esto debes saber para instalar una mirilla digital en casa y no meterte en líos legales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estas-son-apps-enganchan-espana-nuevo-estudio-1386933'>Estas son las apps que más enganchan en España, según un nuevo estudio</a></h4>
     <a href='https://computerhoy.com/apps/estas-son-apps-enganchan-espana-nuevo-estudio-1386933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-apps-enganchan-espana-nuevo-estudio-3320551.jpg?tf=1200x' alt='Estas son las apps que más enganchan en España, según un nuevo estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/identidad-digital-aprobada-europa-dni-futuro-1386714'>Así es la identidad digital aprobada por Europa, ¿el DNI del futuro?</a></h4>
     <a href='https://computerhoy.com/tecnologia/identidad-digital-aprobada-europa-dni-futuro-1386714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/identidad-digital-aprobada-europa-dni-futuro-3315462.jpg?tf=1200x' alt='Así es la identidad digital aprobada por Europa, ¿el DNI del futuro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-1386878'>Cómo identificar las placas Arduino originales, las copias de terceros y las falsificaciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-1386878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-identificar-placas-arduino-originales-copias-terceros-falsificaciones-3319961.jpg?tf=1200x' alt='Cómo identificar las placas Arduino originales, las copias de terceros y las falsificaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405'>Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-834405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guia-iniciacion-kahoot-como-funciona-como-crear-primeros-tests-2024-3314731.jpg?tf=1200x' alt='Guía de iniciación a Kahoot!: qué es, cómo funciona y cómo crear tus primeros tests en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-cuesta-menos-movil-xiaomi-1335360'>32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi y cabe en la palma de la mano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mini-pc-ryzen-7-cuesta-menos-movil-xiaomi-1335360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/mini-pc-trigkey-speed-s5-3222386.jpg?tf=1200x' alt='32 GB de RAM y Ryzen 7: este PC es un cañón que cuesta menos que un Xiaomi y cabe en la palma de la mano' />
     </a>
 </div>
 
