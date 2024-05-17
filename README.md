@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527'>Cómo saber si alguien ha bloqueado tu número en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-ha-bloqueado-numero-movil-android-1386527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-ha-bloqueado-numero-movil-android-3312314.jpg?tf=1200x' alt='Cómo saber si alguien ha bloqueado tu número en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576'>El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-top-ventas-34000-comentarios-amazon-5tb-ahora-oferta-1386576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wd-elements-5-tb-3312392.jpg?tf=1200x' alt='El disco duro top ventas con 34.000 comentarios en Amazon, de 5TB ahora de oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/hdmi-arc-puerto-como-usarlo-1380621'>Qué es el puerto HDMI ARC, para qué sirve realmente y cómo usarlo en tu TV</a></h4>
+    <a href='https://computerhoy.com/tv/hdmi-arc-puerto-como-usarlo-1380621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/puerto-hdmi-arc-sirve-como-usarlo-smart-tv-3301530.jpg?tf=1200x' alt='Qué es el puerto HDMI ARC, para qué sirve realmente y cómo usarlo en tu TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578'>Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono</a></h4>
     <a href='https://computerhoy.com/apps/elimina-app-movil-ahora-mismo-te-ha-estado-espiando-mediante-microfono-1250578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-android-microfono-3316806.jpg?tf=1200x' alt='Elimina esta aplicación de tu móvil ahora mismo: te ha estado espiando mediante el micrófono' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836'>Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"</a></h4>
     <a href='https://computerhoy.com/tecnologia/portal-nueva-york-dublin-comportamiento-indecente-1386836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/abren-portal-nueva-york-dublin-cierran-semana-comportamiento-indecente-3319096.jpg?tf=1200x' alt='Abren un Portal entre Nueva York y Dublín, y lo cierran a la semana por "comportamiento indecente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-8a-opinion-caracteristicas-analisis-1386220'>He probado el Google Pixel 8a y lleva el rendimiento de la gama media cerca de la premium, pero no todo está a la altura</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-8a-opinion-caracteristicas-analisis-1386220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3312066.jpg?tf=1200x' alt='He probado el Google Pixel 8a y lleva el rendimiento de la gama media cerca de la premium, pero no todo está a la altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/dos-ciberdelincuentes-roban-25-millones-dolares-criptomonedas-solo-12-segundos-1386757'>Dos ciberdelincuentes roban 25 millones de dólares en criptomonedas en solo 12 segundos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/dos-ciberdelincuentes-roban-25-millones-dolares-criptomonedas-solo-12-segundos-1386757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/estafas-bitcoin-3289223.jpg?tf=1200x' alt='Dos ciberdelincuentes roban 25 millones de dólares en criptomonedas en solo 12 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/palabra-no-debes-decir-jamas-no-caer-estafas-ocu-1384654'>Esta es la palabra que no deberías decir jamás por teléfono para no caer en estafas, según la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/palabra-no-debes-decir-jamas-no-caer-estafas-ocu-1384654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/palabra-prohibida-ocu-3317288.jpg?tf=1200x' alt='Esta es la palabra que no deberías decir jamás por teléfono para no caer en estafas, según la OCU' />
     </a>
 </div>
 
