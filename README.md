@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047'>Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro</a></h4>
+    <a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/winamp-3326002.jpg?tf=1200x' alt='Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/no-tiene-no-compres-tirar-dinero-caracteristicas-debe-tener-movil-nuevo-2024-1386822'>Si no las tiene, no lo compres, es tirar el dinero: características que debe tener un móvil nuevo en 2024</a></h4>
+    <a href='https://computerhoy.com/moviles/no-tiene-no-compres-tirar-dinero-caracteristicas-debe-tener-movil-nuevo-2024-1386822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/comprar-movil-2024-3320321.jpg?tf=1200x' alt='Si no las tiene, no lo compres, es tirar el dinero: características que debe tener un móvil nuevo en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576'>El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921'>La obra maestra que inventó el ciberpunk tendrá serie de TV, aunque haya tardado 40 años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='La obra maestra que inventó el ciberpunk tendrá serie de TV, aunque haya tardado 40 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/dime-como-usas-dedos-movil-te-dire-edad-tienes-1385990'>Dime cómo usas los dedos en el móvil y te diré la edad que tienes</a></h4>
     <a href='https://computerhoy.com/moviles/dime-como-usas-dedos-movil-te-dire-edad-tienes-1385990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mujer-utilizando-movil-3320269.jpg?tf=1200x' alt='Dime cómo usas los dedos en el móvil y te diré la edad que tienes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-espanoles-comunidad-autonoma-opinion-1236976'>Esto es lo que opina ChatGPT de los españoles según su comunidad autónoma: chulos, vagos, elitistas...</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-espanoles-comunidad-autonoma-opinion-1236976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='Esto es lo que opina ChatGPT de los españoles según su comunidad autónoma: chulos, vagos, elitistas...' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/errores-cometi-montar-mi-primer-pc-1386122'>10 errores que cometí al montar mi primer PC que me han costado mucho tiempo y dinero</a></h4>
-    <a href='https://computerhoy.com/pc/errores-cometi-montar-mi-primer-pc-1386122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/montar-pc-3320080.jpg?tf=1200x' alt='10 errores que cometí al montar mi primer PC que me han costado mucho tiempo y dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/liquidacion-aspiradora-rival-dyson-amazon-1350166'>Amazon liquida stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/liquidacion-aspiradora-rival-dyson-amazon-1350166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/conga-rockstar-1600-x-treme-3249405.jpg?tf=1200x' alt='Amazon liquida stock de la rival barata de Dyson: cuesta mucho menos y es bastante potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/jan-leike-openai-dimite-problemas-seguridad-1387033'>OpenAI cierra el equipo encargado de proteger a la humanidad de la IA: 'la seguridad ha pasado al asiento de atrás'</a></h4>
-    <a href='https://computerhoy.com/tecnologia/jan-leike-openai-dimite-problemas-seguridad-1387033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/open-ai-cierra-equipo-encargado-proteger-humanidad-ia-seguridad-ha-pasado-asiento-atras-3325145.jpg?tf=1200x' alt='OpenAI cierra el equipo encargado de proteger a la humanidad de la IA: 'la seguridad ha pasado al asiento de atrás'' />
     </a>
 </div>
 
