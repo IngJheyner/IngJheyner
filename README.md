@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/jan-leike-openai-dimite-problemas-seguridad-1387033'>OpenAI cierra el equipo encargado de proteger a la humanidad de la IA: 'la seguridad ha pasado al asiento de atrás'</a></h4>
+    <a href='https://computerhoy.com/tecnologia/jan-leike-openai-dimite-problemas-seguridad-1387033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/open-ai-cierra-equipo-encargado-proteger-humanidad-ia-seguridad-ha-pasado-asiento-atras-3325145.jpg?tf=1200x' alt='OpenAI cierra el equipo encargado de proteger a la humanidad de la IA: 'la seguridad ha pasado al asiento de atrás'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/odio-parquimetros-madrid-aplicacion-ha-convertido-mi-gran-salvadora-1386617'>Odio los parquímetros de Madrid y esta aplicación se ha convertido en mi gran salvadora </a></h4>
+    <a href='https://computerhoy.com/apps/odio-parquimetros-madrid-aplicacion-ha-convertido-mi-gran-salvadora-1386617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/parquimetro-coches-3316811.jpg?tf=1200x' alt='Odio los parquímetros de Madrid y esta aplicación se ha convertido en mi gran salvadora ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-tan-simple-me-encantando-puedes-probar-gratis-1386705'>Esta VPN es tan simple que me está encantando: la puedes probar gratis y, si te gusya, ahora cuesta un 82% menos</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-tan-simple-me-encantando-puedes-probar-gratis-1386705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cyberghost-3279015.jpg?tf=1200x' alt='Esta VPN es tan simple que me está encantando: la puedes probar gratis y, si te gusya, ahora cuesta un 82% menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-tarjeta-grafica-windows-1382303'>Cómo reiniciar la tarjeta gráfica en Windows 11 y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-reiniciar-tarjeta-grafica-windows-1382303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar la tarjeta gráfica en Windows 11 y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/uso-mac-hace-ya-20-anos-11-trucos-clave-dominarlo-1380672'>Uso Mac desde hace ya más de 20 años: los 11 trucos clave para pasar de noob a experto si acabas de pasarte al software de Apple </a></h4>
-    <a href='https://computerhoy.com/apple/uso-mac-hace-ya-20-anos-11-trucos-clave-dominarlo-1380672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-mac-3301705.jpg?tf=1200x' alt='Uso Mac desde hace ya más de 20 años: los 11 trucos clave para pasar de noob a experto si acabas de pasarte al software de Apple ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mis-aplicaciones-imprescindibles-viajar-1385846'>Mis 3 aplicaciones que de verdad son imprescindibles a la hora de viajar</a></h4>
-    <a href='https://computerhoy.com/apps/mis-aplicaciones-imprescindibles-viajar-1385846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-3311044.jpg?tf=1200x' alt='Mis 3 aplicaciones que de verdad son imprescindibles a la hora de viajar' />
     </a>
 </div>
 
