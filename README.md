@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/acciones-puedes-hacer-ahora-movil-android-mejorar-instante-rendimiento-1387067'>Acciones que puedes hacer ahora en tu móvil Android para mejorar al instante su rendimiento</a></h4>
+    <a href='https://computerhoy.com/android/acciones-puedes-hacer-ahora-movil-android-mejorar-instante-rendimiento-1387067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejorar-rendimiento-movil-android-3327193.jpg?tf=1200x' alt='Acciones que puedes hacer ahora en tu móvil Android para mejorar al instante su rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ipad-pro-m2-pantallon-129-pulgadas-saldo-back-market-400-euros-menos-1387043'>El iPad Pro con M2 y pantallón de 12,9 pulgadas está de saldo en Back Market por 400 euros menos</a></h4>
+    <a href='https://computerhoy.com/apple/ipad-pro-m2-pantallon-129-pulgadas-saldo-back-market-400-euros-menos-1387043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/analisis-ipad-pro-m2-2022-2875587.jpg?tf=1200x' alt='El iPad Pro con M2 y pantallón de 12,9 pulgadas está de saldo en Back Market por 400 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065'>Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR</a></h4>
     <a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-3327059.jpg?tf=1200x' alt='Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832'>PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-realme-pad-mini-2706321.jpg?tf=1200x' alt='PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060'>Google Maps se renueva simplificando la interfaz de pantalla en Android</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-3318203.jpg?tf=1200x' alt='Google Maps se renueva simplificando la interfaz de pantalla en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389'>Cómo cambiar el tipo de letra en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-tipo-letra-movil-android-3306883.jpg?tf=1200x' alt='Cómo cambiar el tipo de letra en un móvil Android' />
     </a>
 </div>
 
