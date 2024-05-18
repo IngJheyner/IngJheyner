@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sorprendente-aparato-te-dara-tranquilidad-acaba-mosquitos-instantes-1386649'>Este sorprendente aparato te dará tranquilidad: acaba con los mosquitos en instantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sorprendente-aparato-te-dara-tranquilidad-acaba-mosquitos-instantes-1386649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exterminador-mosquitos-electrico-3314865.jpg?tf=1200x' alt='Este sorprendente aparato te dará tranquilidad: acaba con los mosquitos en instantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024'>El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web</a></h4>
     <a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-google-ya-no-buscador-eso-ha-estrenado-boton-web-3322688.jpg?tf=1200x' alt='El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017'>Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588'>Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/fitbit-derriba-precio-smartwatch-top-sense-2-amazon-1386588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fitbit-sense-2-3312534.jpg?tf=1200x' alt='Fitbit derriba el precio de su smartwatch más top, el Sense 2, y en Amazon' />
     </a>
 </div>
 
