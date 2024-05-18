@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060'>Google Maps se renueva simplificando la interfaz de pantalla en Android</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-3318203.jpg?tf=1200x' alt='Google Maps se renueva simplificando la interfaz de pantalla en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389'>Cómo cambiar el tipo de letra en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-tipo-letra-movil-android-3306883.jpg?tf=1200x' alt='Cómo cambiar el tipo de letra en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053'>Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max</a></h4>
     <a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iphone-13-pro-3326265.jpg?tf=1200x' alt='Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047'>Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro</a></h4>
     <a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/winamp-3326002.jpg?tf=1200x' alt='Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/no-tiene-no-compres-tirar-dinero-caracteristicas-debe-tener-movil-nuevo-2024-1386822'>Si no las tiene, no lo compres, es tirar el dinero: características que debe tener un móvil nuevo en 2024</a></h4>
-    <a href='https://computerhoy.com/moviles/no-tiene-no-compres-tirar-dinero-caracteristicas-debe-tener-movil-nuevo-2024-1386822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/comprar-movil-2024-3320321.jpg?tf=1200x' alt='Si no las tiene, no lo compres, es tirar el dinero: características que debe tener un móvil nuevo en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576'>El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo' />
     </a>
 </div>
 
