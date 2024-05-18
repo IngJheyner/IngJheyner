@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-pone-seria-eliminando-374-millones-cuentas-fraudulentas-tienda-1387085'>Apple se pone seria eliminando 374 millones de cuentas fraudulentas de su tienda</a></h4>
+    <a href='https://computerhoy.com/apple/apple-pone-seria-eliminando-374-millones-cuentas-fraudulentas-tienda-1387085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-pone-seria-eliminando-374-millones-cuentas-fraudulentas-tienda-3328147.jpg?tf=1200x' alt='Apple se pone seria eliminando 374 millones de cuentas fraudulentas de su tienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-presume-android-auto-decada-despues-estreno-1387081'>Google presume de Android Auto una década después de su estreno</a></h4>
     <a href='https://computerhoy.com/apps/google-presume-android-auto-decada-despues-estreno-1387081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg?tf=1200x' alt='Google presume de Android Auto una década después de su estreno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065'>Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR</a></h4>
     <a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-3327059.jpg?tf=1200x' alt='Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064'>Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles</a></h4>
-    <a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles' />
     </a>
 </div>
 
