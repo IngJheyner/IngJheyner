@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053'>Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max</a></h4>
+    <a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iphone-13-pro-3326265.jpg?tf=1200x' alt='Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-1386603'>Acortar URL: cómo acortar enlaces gratis, para qué sirve y qué peligros tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-1386603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-3313106.jpg?tf=1200x' alt='Acortar URL: cómo acortar enlaces gratis, para qué sirve y qué peligros tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047'>Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro</a></h4>
     <a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/winamp-3326002.jpg?tf=1200x' alt='Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576'>El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo</a></h4>
     <a href='https://computerhoy.com/tecnologia/rival-xiaomi-apple-watch-ultra-venta-wear-os-google-precio-muchisimo-1322576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/xiaomi-watch-2-pro-3200208.jpg?tf=1200x' alt='El rival Xiaomi del Apple Watch Ultra está a la venta: con Wear OS de Google y un precio muchísimo más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921'>La obra maestra que inventó el ciberpunk tendrá serie de TV, aunque haya tardado 40 años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='La obra maestra que inventó el ciberpunk tendrá serie de TV, aunque haya tardado 40 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/dime-como-usas-dedos-movil-te-dire-edad-tienes-1385990'>Dime cómo usas los dedos en el móvil y te diré la edad que tienes</a></h4>
-    <a href='https://computerhoy.com/moviles/dime-como-usas-dedos-movil-te-dire-edad-tienes-1385990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mujer-utilizando-movil-3320269.jpg?tf=1200x' alt='Dime cómo usas los dedos en el móvil y te diré la edad que tienes' />
     </a>
 </div>
 
