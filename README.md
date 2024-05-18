@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064'>Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles</a></h4>
+    <a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832'>PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-realme-pad-mini-2706321.jpg?tf=1200x' alt='PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060'>Google Maps se renueva simplificando la interfaz de pantalla en Android</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-renueva-simplificando-interfaz-pantalla-android-1387060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-3318203.jpg?tf=1200x' alt='Google Maps se renueva simplificando la interfaz de pantalla en Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053'>Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max</a></h4>
     <a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iphone-13-pro-3326265.jpg?tf=1200x' alt='Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-1386603'>Acortar URL: cómo acortar enlaces gratis, para qué sirve y qué peligros tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-1386603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acortar-url-como-acortar-enlaces-gratis-sirve-peligros-tiene-3313106.jpg?tf=1200x' alt='Acortar URL: cómo acortar enlaces gratis, para qué sirve y qué peligros tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047'>Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro</a></h4>
-    <a href='https://computerhoy.com/apps/winamp-sera-codigo-abierto-finales-ano-supone-futuro-1387047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/winamp-3326002.jpg?tf=1200x' alt='Winamp será de código abierto a finales de año, y esto es lo que supone para su futuro' />
     </a>
 </div>
 
