@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-presume-android-auto-decada-despues-estreno-1387081'>Google presume de Android Auto una década después de su estreno</a></h4>
+    <a href='https://computerhoy.com/apps/google-presume-android-auto-decada-despues-estreno-1387081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/android-auto-2602277.jpg?tf=1200x' alt='Google presume de Android Auto una década después de su estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/acciones-puedes-hacer-ahora-movil-android-mejorar-instante-rendimiento-1387067'>Acciones que puedes hacer ahora en tu móvil Android para mejorar al instante su rendimiento</a></h4>
     <a href='https://computerhoy.com/android/acciones-puedes-hacer-ahora-movil-android-mejorar-instante-rendimiento-1387067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejorar-rendimiento-movil-android-3327193.jpg?tf=1200x' alt='Acciones que puedes hacer ahora en tu móvil Android para mejorar al instante su rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064'>Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles</a></h4>
     <a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832'>PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pccomponentes-liquidando-tablet-realme-nos-gusto-mucho-roza-100-euros-1313832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/analisis-realme-pad-mini-2706321.jpg?tf=1200x' alt='PcComponentes está liquidando una tablet de realme que nos gustó mucho y que roza los 100 euros' />
     </a>
 </div>
 
