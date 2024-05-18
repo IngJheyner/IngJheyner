@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sorprendente-aparato-te-dara-tranquilidad-acaba-mosquitos-instantes-1386649'>Este sorprendente aparato te dará tranquilidad: acaba con los mosquitos en instantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sorprendente-aparato-te-dara-tranquilidad-acaba-mosquitos-instantes-1386649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exterminador-mosquitos-electrico-3314865.jpg?tf=1200x' alt='Este sorprendente aparato te dará tranquilidad: acaba con los mosquitos en instantes' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-tan-simple-me-encantando-puedes-probar-gratis-1386705'>Esta VPN es tan simple que me está encantando: la puedes probar gratis y, si te gusya, ahora cuesta un 82% menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-tan-simple-me-encantando-puedes-probar-gratis-1386705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/cyberghost-3279015.jpg?tf=1200x' alt='Esta VPN es tan simple que me está encantando: la puedes probar gratis y, si te gusya, ahora cuesta un 82% menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024'>El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web</a></h4>
-    <a href='https://computerhoy.com/google/buscador-google-ya-no-buscador-boton-web-1387024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-google-ya-no-buscador-eso-ha-estrenado-boton-web-3322688.jpg?tf=1200x' alt='El buscador de Google ya no es un buscador, por eso ha estrenado el botón Web' />
+    <h4><a href='https://computerhoy.com/internet/llevo-anos-usando-kindle-estos-son-peligros-descargar-libros-gratis-epub-pdf-cualquier-web-1382966'>Llevo años usando Kindle y estos son los peligros de descargar libros gratis en ePub o PDF en cualquier web</a></h4>
+    <a href='https://computerhoy.com/internet/llevo-anos-usando-kindle-estos-son-peligros-descargar-libros-gratis-epub-pdf-cualquier-web-1382966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-kindle-3319968.jpg?tf=1200x' alt='Llevo años usando Kindle y estos son los peligros de descargar libros gratis en ePub o PDF en cualquier web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014'>5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema</a></h4>
-    <a href='https://computerhoy.com/tv/5-trucos-ver-televisor-luz-ambiental-sea-problema-1387014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-trucos-imprescindibles-ver-televisor-luz-ambiental-sea-problema-3322568.jpg?tf=1200x' alt='5 trucos imprescindibles para ver tu televisor sin que la luz ambiental sea un problema' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-tarjeta-grafica-windows-1382303'>Cómo reiniciar la tarjeta gráfica en Windows 11 y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reiniciar-tarjeta-grafica-windows-1382303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-reiniciar-controlador-grafico-windows-11-3304593.jpg?tf=1200x' alt='Cómo reiniciar la tarjeta gráfica en Windows 11 y qué beneficios tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/trabajadores-chatgpt-abandonan-empresa-perdida-confianza-1386962'>Miedo a la IA: trabajadores de ChatGPT abandonan la empresa por “pérdida de confianza”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/trabajadores-chatgpt-abandonan-empresa-perdida-confianza-1386962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/miedo-ia-trabajadores-chatgpt-abandonan-empresa-perdida-confianza-3320815.jpg?tf=1200x' alt='Miedo a la IA: trabajadores de ChatGPT abandonan la empresa por “pérdida de confianza”' />
+    <h4><a href='https://computerhoy.com/apple/uso-mac-hace-ya-20-anos-11-trucos-clave-dominarlo-1380672'>Uso Mac desde hace ya más de 20 años: los 11 trucos clave para pasar de noob a experto si acabas de pasarte al software de Apple </a></h4>
+    <a href='https://computerhoy.com/apple/uso-mac-hace-ya-20-anos-11-trucos-clave-dominarlo-1380672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/carlos-mac-3301705.jpg?tf=1200x' alt='Uso Mac desde hace ya más de 20 años: los 11 trucos clave para pasar de noob a experto si acabas de pasarte al software de Apple ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017'>Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-desvela-regla-50-debes-seguir-no-quieres-destrozar-bateria-iphone-1387017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='Apple desvela la regla del 50% que debes seguir si no quieres destrozar la batería del iPhone' />
+    <h4><a href='https://computerhoy.com/apps/mis-aplicaciones-imprescindibles-viajar-1385846'>Mis 3 aplicaciones que de verdad son imprescindibles a la hora de viajar</a></h4>
+    <a href='https://computerhoy.com/apps/mis-aplicaciones-imprescindibles-viajar-1385846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-3311044.jpg?tf=1200x' alt='Mis 3 aplicaciones que de verdad son imprescindibles a la hora de viajar' />
     </a>
 </div>
 
