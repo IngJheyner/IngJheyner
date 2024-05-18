@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065'>Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR</a></h4>
+    <a href='https://computerhoy.com/windows/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-1387065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fin-windows-11-totalmente-compatible-archivos-7-zip-tar-3327059.jpg?tf=1200x' alt='Por fin Windows 11 es totalmente compatible con archivos 7-zip y TAR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064'>Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles</a></h4>
     <a href='https://computerhoy.com/android/android-15-mejorara-autonomia-bateria-3-horas-algunos-moviles-1387064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-bateria-movil-android-no-agote-tan-rapido-3290868.jpg?tf=1200x' alt='Android 15 mejorará la autonomía de la batería hasta en 3 horas en algunos móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389'>Cómo cambiar el tipo de letra en un móvil Android</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-tipo-letra-movil-android-1383389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-tipo-letra-movil-android-3306883.jpg?tf=1200x' alt='Cómo cambiar el tipo de letra en un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053'>Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max</a></h4>
-    <a href='https://computerhoy.com/apple/apple-planea-iphone-ultradelgado-premium-seria-caro-modelo-pro-max-1387053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iphone-13-pro-3326265.jpg?tf=1200x' alt='Apple planea un iPhone ultradelgado premium que sería más caro que el modelo Pro Max' />
     </a>
 </div>
 
