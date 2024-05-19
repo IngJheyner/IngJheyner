@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-1386829'>Uso Google Maps cada día y estas son las 10 funciones sin las que no podría vivir</a></h4>
+    <a href='https://computerhoy.com/google/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-1386829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Uso Google Maps cada día y estas son las 10 funciones sin las que no podría vivir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531'>Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial</a></h4>
     <a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-smart-tv-deberias-activar-ahora-mismo-sacarle-maximo-partido-3286118.jpg?tf=1200x' alt='Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056'>¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?</a></h4>
     <a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/porsche-taycan-electrico-3320784.jpg?tf=1200x' alt='¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156'>Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC</a></h4>
-    <a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjetas-graficas-3316718.jpg?tf=1200x' alt='Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC' />
     </a>
 </div>
 
