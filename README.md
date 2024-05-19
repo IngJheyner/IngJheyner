@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127'>Este pendrive dura 200 años, pero solo contiene 8 KB de memoria FRAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Este pendrive dura 200 años, pero solo contiene 8 KB de memoria FRAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118'>Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad</a></h4>
     <a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/android/funciona-espacio-privado-aplicaciones-android-15-1387109'>Así funciona “el espacio privado” para aplicaciones en Android 15</a></h4>
     <a href='https://computerhoy.com/android/funciona-espacio-privado-aplicaciones-android-15-1387109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-15-seguridad-3332705.jpg?tf=1200x' alt='Así funciona “el espacio privado” para aplicaciones en Android 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/wiseplay-como-instalar-mejor-app-reproducir-listas-iptv-smart-tv-1386637'>Wiseplay: cómo instalar la mejor app para reproducir listas IPTV en tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tutoriales/wiseplay-como-instalar-mejor-app-reproducir-listas-iptv-smart-tv-1386637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/wiseplay-como-instalar-mejor-app-reproducir-listas-iptv-smart-tv-3314221.jpg?tf=1200x' alt='Wiseplay: cómo instalar la mejor app para reproducir listas IPTV en tu Smart TV' />
     </a>
 </div>
 
