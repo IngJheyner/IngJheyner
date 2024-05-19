@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132'>Blue Origin envía al espacio con éxito a otros seis turistas espaciales</a></h4>
+    <a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-3334521.jpg?tf=1200x' alt='Blue Origin envía al espacio con éxito a otros seis turistas espaciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/back-market-vende-iphone-14-precio-saldo-reacondicionado-garantia-menos-600-euros-1387125'>Back Market vende el iPhone 14 a precio de saldo: reacondicionado y con garantía por menos de 600 euros</a></h4>
     <a href='https://computerhoy.com/apple/back-market-vende-iphone-14-precio-saldo-reacondicionado-garantia-menos-600-euros-1387125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821551.jpg?tf=1200x' alt='Back Market vende el iPhone 14 a precio de saldo: reacondicionado y con garantía por menos de 600 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112'>Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados</a></h4>
     <a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-3332767.jpg?tf=1200x' alt='Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-domicilio-fiscal-1383564'>Cómo cambiar online el domicilio fiscal</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-domicilio-fiscal-1383564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-online-domicilio-fiscal-3307164.jpg?tf=1200x' alt='Cómo cambiar online el domicilio fiscal' />
     </a>
 </div>
 
