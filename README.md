@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133'>La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-llega-auriculares-cancelacion-ruido-eliges-ruido-filtrar-ampliar-3335216.jpg?tf=1200x' alt='La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132'>Blue Origin envía al espacio con éxito a otros seis turistas espaciales</a></h4>
     <a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-3334521.jpg?tf=1200x' alt='Blue Origin envía al espacio con éxito a otros seis turistas espaciales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118'>Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad</a></h4>
     <a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112'>Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-3332767.jpg?tf=1200x' alt='Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados' />
     </a>
 </div>
 
