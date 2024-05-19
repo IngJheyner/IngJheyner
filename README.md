@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/compite-amazon-apple-pequena-marca-ereaders-1384669'>Los secretos para competir con las mayores tecnológicas siendo solo una marca de eReaders, según el CEO de Kobo</a></h4>
-    <a href='https://computerhoy.com/hogar/compite-amazon-apple-pequena-marca-ereaders-1384669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/kobo-amazon-3311333.jpg?tf=1200x' alt='Los secretos para competir con las mayores tecnológicas siendo solo una marca de eReaders, según el CEO de Kobo' />
+    <h4><a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156'>Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC</a></h4>
+    <a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjetas-graficas-3316718.jpg?tf=1200x' alt='Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ps4-calienta-suena-mucho-hora-limpiarla-dentro-1385709'>Mi PS4 se calentaba y sonaba como un avión al despegar: la he desmontado y ahora está como nueva</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ps4-calienta-suena-mucho-hora-limpiarla-dentro-1385709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/limpiar-ps4-desmontar-3320783.jpg?tf=1200x' alt='Mi PS4 se calentaba y sonaba como un avión al despegar: la he desmontado y ahora está como nueva' />
+    <h4><a href='https://computerhoy.com/apps/llevo-anos-jugando-padel-pero-no-sabia-app-podia-mejorar-deporte-1386616'>Llevo años jugando a pádel, pero no sabía que una app podía mejorar este deporte</a></h4>
+    <a href='https://computerhoy.com/apps/llevo-anos-jugando-padel-pero-no-sabia-app-podia-mejorar-deporte-1386616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicacion-padel-3316808.jpg?tf=1200x' alt='Llevo años jugando a pádel, pero no sabía que una app podía mejorar este deporte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/construyen-game-boy-gigante-raspberry-pi-5-1387089'>Construyen una Game Boy gigante con una Raspberry Pi 5, para los que tienen manos grandes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/construyen-game-boy-gigante-raspberry-pi-5-1387089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/construyen-gameboy-gigante-raspberry-pi-5-tienen-manos-grandes-3330592.jpg?tf=1200x' alt='Construyen una Game Boy gigante con una Raspberry Pi 5, para los que tienen manos grandes' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-365-oferta-almacenamiento-antivirus-gratis-1341028'>Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-365-oferta-almacenamiento-antivirus-gratis-1341028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/verano-2023-fue-caluroso-hemisferio-norte-ultimos-2000-anos-1387082'>El verano de 2023 fue el más caluroso en el hemisferio norte de los últimos 2000 años</a></h4>
-    <a href='https://computerhoy.com/life/verano-2023-fue-caluroso-hemisferio-norte-ultimos-2000-anos-1387082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ola-calor-3328145.jpg?tf=1200x' alt='El verano de 2023 fue el más caluroso en el hemisferio norte de los últimos 2000 años' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-4o-puede-crearte-videojuego-clasico-segundos-1387080'>ChatGPT-4o puede crearte un videojuego clásico en segundos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-4o-puede-crearte-videojuego-clasico-segundos-1387080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-breakout-3328010.jpg?tf=1200x' alt='ChatGPT-4o puede crearte un videojuego clásico en segundos ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-pulsera-xiaomi-huawei-tiene-muy-superior-casi-todo-59-euros-1386954'>Olvida la pulsera Xiaomi: Huawei tiene una muy superior en casi todo por 59 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-pulsera-xiaomi-huawei-tiene-muy-superior-casi-todo-59-euros-1386954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-band-9-3320666.jpg?tf=1200x' alt='Olvida la pulsera Xiaomi: Huawei tiene una muy superior en casi todo por 59 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/github-hogar-millones-desarrolladores-1384041'>¿Qué es GitHub y por qué es el hogar de millones de desarrolladores?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/github-hogar-millones-desarrolladores-1384041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715938283030-3320206.jpg?tf=1200x' alt='¿Qué es GitHub y por qué es el hogar de millones de desarrolladores?' />
     </a>
 </div>
 
