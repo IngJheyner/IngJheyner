@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-1386829'>Uso Google Maps cada día y estas son las 10 funciones sin las que no podría vivir</a></h4>
-    <a href='https://computerhoy.com/google/uso-google-maps-cada-dia-estas-son-10-funciones-no-podria-vivir-1386829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Uso Google Maps cada día y estas son las 10 funciones sin las que no podría vivir' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-1387104'>ChatGPT ahora puede generar gráficos interactivos para mejorar el análisis de datos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-1387104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-3332491.jpg?tf=1200x' alt='ChatGPT ahora puede generar gráficos interactivos para mejorar el análisis de datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531'>Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial</a></h4>
-    <a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-smart-tv-deberias-activar-ahora-mismo-sacarle-maximo-partido-3286118.jpg?tf=1200x' alt='Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial' />
+    <h4><a href='https://computerhoy.com/windows/son-nuevos-cuadros-dialogo-veras-windows-11-1387102'>Así son los nuevos cuadros de diálogo que verás en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/son-nuevos-cuadros-dialogo-veras-windows-11-1387102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-nuevos-cuadros-dialogo-veras-windows-11-3332356.jpg?tf=1200x' alt='Así son los nuevos cuadros de diálogo que verás en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-1386831'>Así puedes mejorar el rendimiento de tu PC sin actualizar ni un solo componente</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-1386831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-3318603.jpg?tf=1200x' alt='Así puedes mejorar el rendimiento de tu PC sin actualizar ni un solo componente' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-velocidad-conexion-smart-tv-evitar-cortes-netflix-otras-plataformas-1386516'>Como mejorar la velocidad de conexión de un Smart TV y evitar cortes en Netflix y otras plataformas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mejorar-velocidad-conexion-smart-tv-evitar-cortes-netflix-otras-plataformas-1386516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-smart-tv-3320428.jpg?tf=1200x' alt='Como mejorar la velocidad de conexión de un Smart TV y evitar cortes en Netflix y otras plataformas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-pedido-aliexpress-revienta-precio-tiene-envio-tres-dias-1386892'>El portátil chino más pedido de AliExpress revienta su precio y tiene envío en tres días</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-pedido-aliexpress-revienta-precio-tiene-envio-tres-dias-1386892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclast-f15-plus2-3319963.jpg?tf=1200x' alt='El portátil chino más pedido de AliExpress revienta su precio y tiene envío en tres días' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-parecido-apple-watch-oferta-primera-vez-tiene-ya-50eu-descuento-1372907'>El Garmin más parecido al Apple Watch está en oferta por primera vez: tiene ya 50€ de descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-parecido-apple-watch-oferta-primera-vez-tiene-ya-50eu-descuento-1372907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/garmin-venu-3-vo2-max-3284998.jpg?tf=1200x' alt='El Garmin más parecido al Apple Watch está en oferta por primera vez: tiene ya 50€ de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056'>¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?</a></h4>
-    <a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/porsche-taycan-electrico-3320784.jpg?tf=1200x' alt='¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-calcular-vida-util-1372531'>Cuánto tiempo dura un disco SSD y cómo se puede calcular su vida útil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuanto-dura-disco-ssd-calcular-vida-util-1372531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-disco-ssd-como-puedes-calcular-vida-util-3287783.jpg?tf=1200x' alt='Cuánto tiempo dura un disco SSD y cómo se puede calcular su vida útil' />
     </a>
 </div>
 
