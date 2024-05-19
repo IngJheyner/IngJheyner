@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112'>Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-1387112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todas-novedades-llegan-outlook-luchar-correos-electronicos-no-deseados-3332767.jpg?tf=1200x' alt='Todas las novedades que llegan a Outlook para luchar contra los correos electrónicos no deseados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-online-domicilio-fiscal-1383564'>Cómo cambiar online el domicilio fiscal</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-online-domicilio-fiscal-1383564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-online-domicilio-fiscal-3307164.jpg?tf=1200x' alt='Cómo cambiar online el domicilio fiscal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/funciona-espacio-privado-aplicaciones-android-15-1387109'>Así funciona “el espacio privado” para aplicaciones en Android 15</a></h4>
     <a href='https://computerhoy.com/android/funciona-espacio-privado-aplicaciones-android-15-1387109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-15-seguridad-3332705.jpg?tf=1200x' alt='Así funciona “el espacio privado” para aplicaciones en Android 15' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-1387104'>ChatGPT ahora puede generar gráficos interactivos para mejorar el análisis de datos</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-1387104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-ahora-puede-generar-graficos-interactivos-mejorar-analisis-datos-3332491.jpg?tf=1200x' alt='ChatGPT ahora puede generar gráficos interactivos para mejorar el análisis de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/son-nuevos-cuadros-dialogo-veras-windows-11-1387102'>Así son los nuevos cuadros de diálogo que verás en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/son-nuevos-cuadros-dialogo-veras-windows-11-1387102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-nuevos-cuadros-dialogo-veras-windows-11-3332356.jpg?tf=1200x' alt='Así son los nuevos cuadros de diálogo que verás en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-velocidad-conexion-smart-tv-evitar-cortes-netflix-otras-plataformas-1386516'>Como mejorar la velocidad de conexión de un Smart TV y evitar cortes en Netflix y otras plataformas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-velocidad-conexion-smart-tv-evitar-cortes-netflix-otras-plataformas-1386516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-smart-tv-3320428.jpg?tf=1200x' alt='Como mejorar la velocidad de conexión de un Smart TV y evitar cortes en Netflix y otras plataformas' />
     </a>
 </div>
 
