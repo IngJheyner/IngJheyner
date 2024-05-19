@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136'>Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno</a></h4>
+    <a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-3335635.jpg?tf=1200x' alt='Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133'>La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-llega-auriculares-cancelacion-ruido-eliges-ruido-filtrar-ampliar-3335216.jpg?tf=1200x' alt='La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127'>Este pendrive dura 200 años, pero solo contiene 8 KB de memoria FRAM</a></h4>
     <a href='https://computerhoy.com/tecnologia/pendrive-dura-200-anos-pero-solo-contiene-8-kb-memoria-fram-1387127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pendrive-dura-200-anos-gracias-memoria-fram-3334218.jpg?tf=1200x' alt='Este pendrive dura 200 años, pero solo contiene 8 KB de memoria FRAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118'>Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad</a></h4>
-    <a href='https://computerhoy.com/internet/motivos-cambiar-nombre-wifi-hogar-no-solo-seguridad-1387118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/router-wifi-3045536.jpg?tf=1200x' alt='Motivos para cambiar el nombre del WiFi de tu hogar, y no es solo por seguridad' />
     </a>
 </div>
 
