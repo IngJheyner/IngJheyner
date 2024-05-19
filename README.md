@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531'>Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial</a></h4>
+    <a href='https://computerhoy.com/tv/smart-tv-funciones-deberias-activar-1371531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/5-funciones-smart-tv-deberias-activar-ahora-mismo-sacarle-maximo-partido-3286118.jpg?tf=1200x' alt='Si no tienes activadas estas 5 funciones de tu Smart TV, estás desaprovechando su potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-1386831'>Así puedes mejorar el rendimiento de tu PC sin actualizar ni un solo componente</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-1386831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-mejorar-rendimiento-pc-actualizar-ni-solo-componente-3318603.jpg?tf=1200x' alt='Así puedes mejorar el rendimiento de tu PC sin actualizar ni un solo componente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-pedido-aliexpress-revienta-precio-tiene-envio-tres-dias-1386892'>El portátil chino más pedido de AliExpress revienta su precio y tiene envío en tres días</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chino-pedido-aliexpress-revienta-precio-tiene-envio-tres-dias-1386892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclast-f15-plus2-3319963.jpg?tf=1200x' alt='El portátil chino más pedido de AliExpress revienta su precio y tiene envío en tres días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056'>¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?</a></h4>
+    <a href='https://computerhoy.com/motor/impuesto-extra-coches-electricos-1250056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/porsche-taycan-electrico-3320784.jpg?tf=1200x' alt='¿Deben pagar un impuesto extra por kilómetro recorrido los coches eléctricos si es verdad que desgastan más las carreteras?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156'>Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC</a></h4>
     <a href='https://computerhoy.com/gaming/todo-debes-saber-antes-comprar-tarjeta-grafica-pc-1386156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tarjetas-graficas-3316718.jpg?tf=1200x' alt='Todo lo que debes saber y entender antes de comprar una tarjeta gráfica para tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/llevo-anos-jugando-padel-pero-no-sabia-app-podia-mejorar-deporte-1386616'>Llevo años jugando a pádel, pero no sabía que una app podía mejorar este deporte</a></h4>
-    <a href='https://computerhoy.com/apps/llevo-anos-jugando-padel-pero-no-sabia-app-podia-mejorar-deporte-1386616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicacion-padel-3316808.jpg?tf=1200x' alt='Llevo años jugando a pádel, pero no sabía que una app podía mejorar este deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-365-oferta-almacenamiento-antivirus-gratis-1341028'>Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-365-oferta-almacenamiento-antivirus-gratis-1341028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft hunde a Google con esta oferta: 1TB de almacenamiento, todos sus programas premium y además antivirus de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-4o-puede-crearte-videojuego-clasico-segundos-1387080'>ChatGPT-4o puede crearte un videojuego clásico en segundos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-4o-puede-crearte-videojuego-clasico-segundos-1387080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-breakout-3328010.jpg?tf=1200x' alt='ChatGPT-4o puede crearte un videojuego clásico en segundos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/github-hogar-millones-desarrolladores-1384041'>¿Qué es GitHub y por qué es el hogar de millones de desarrolladores?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/github-hogar-millones-desarrolladores-1384041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715938283030-3320206.jpg?tf=1200x' alt='¿Qué es GitHub y por qué es el hogar de millones de desarrolladores?' />
     </a>
 </div>
 
