@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162'>Los disquetes se resisten a morir: se utilizan en muchas más lugares de los que imaginas</a></h4>
+    <a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disquetes-3338705.jpg?tf=1200x' alt='Los disquetes se resisten a morir: se utilizan en muchas más lugares de los que imaginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161'>El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo</a></h4>
+    <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-explorador-archivos-3338704.jpg?tf=1200x' alt='El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557'>Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770'>YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?</a></h4>
     <a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-music-frente-otras-plataformas-streaming-3307531.jpg?tf=1200x' alt='YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-32gb-ram-raspberry-pi-alternativa-1360433'>Tiene hasta 32GB de RAM y deja KO a las Raspberry Pi: esta alternativa tiene stock y es más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-32gb-ram-raspberry-pi-alternativa-1360433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-5-plus-3266296.jpg?tf=1200x' alt='Tiene hasta 32GB de RAM y deja KO a las Raspberry Pi: esta alternativa tiene stock y es más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137'>Slack usa los mensajes privados de los usuarios, para entrenar a su IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack usa los mensajes privados de los usuarios, para entrenar a su IA' />
     </a>
 </div>
 
