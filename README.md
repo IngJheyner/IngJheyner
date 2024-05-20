@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162'>Los disquetes se resisten a morir: se utilizan en muchas más lugares de los que imaginas</a></h4>
+    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188'>Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)</a></h4>
+    <a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168'>No todo en Chrome: 5 navegadores top que deberías probar</a></h4>
+    <a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegadores-internet-3339008.jpg?tf=1200x' alt='No todo en Chrome: 5 navegadores top que deberías probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/70-km-bateria-ir-volando-bici-electrica-pone-sector-patas-arriba-1386959'>70 km de batería para ir volando: esta bici eléctrica pone el sector patas arriba</a></h4>
+    <a href='https://computerhoy.com/tecnologia/70-km-bateria-ir-volando-bici-electrica-pone-sector-patas-arriba-1386959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sprint-silver-3296942.jpg?tf=1200x' alt='70 km de batería para ir volando: esta bici eléctrica pone el sector patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162'>Los disquetes se resisten a morir: se utilizan en muchos más lugares de los que imaginas</a></h4>
     <a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disquetes-3338705.jpg?tf=1200x' alt='Los disquetes se resisten a morir: se utilizan en muchas más lugares de los que imaginas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disquetes-3338705.jpg?tf=1200x' alt='Los disquetes se resisten a morir: se utilizan en muchos más lugares de los que imaginas' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161'>El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo</a></h4>
     <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-explorador-archivos-3338704.jpg?tf=1200x' alt='El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557'>Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142'>No es un tanque: es una silla de ordenador con tres monitores y dos metralletas</a></h4>
-    <a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-tanque-silla-ordenador-trabajar-tres-monitores-3337573.jpg?tf=1200x' alt='No es un tanque: es una silla de ordenador con tres monitores y dos metralletas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770'>YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?</a></h4>
-    <a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-music-frente-otras-plataformas-streaming-3307531.jpg?tf=1200x' alt='YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?' />
     </a>
 </div>
 
