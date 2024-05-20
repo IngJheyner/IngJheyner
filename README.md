@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/localizar-eliminar-carpetas-vacias-windows-11-1387025'>Con estos métodos podrás localizar y eliminar carpetas vacías en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/localizar-eliminar-carpetas-vacias-windows-11-1387025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-metodos-podras-localizar-eliminar-carpetas-vacias-windows-11-3323305.jpg?tf=1200x' alt='Con estos métodos podrás localizar y eliminar carpetas vacías en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/brutal-contestacion-stephen-king-trol-x-puro-estilo-harry-sucio-1387202'>La brutal contestación de Stephen King a un trol en X, al más puro estilo Harry El Sucio</a></h4>
     <a href='https://computerhoy.com/redes/brutal-contestacion-stephen-king-trol-x-puro-estilo-harry-sucio-1387202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brutal-contestacion-stephen-king-trol-x-estilo-harry-sucio-3339351.jpg?tf=1200x' alt='La brutal contestación de Stephen King a un trol en X, al más puro estilo Harry El Sucio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222'>Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café</a></h4>
     <a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/problema-matematicas-3339790.jpg?tf=1200x' alt='Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875'>No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg?tf=1200x' alt='No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros' />
     </a>
 </div>
 
