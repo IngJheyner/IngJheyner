@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944'>Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica</a></h4>
+    <a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-3321628.jpg?tf=1200x' alt='Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222'>Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café</a></h4>
     <a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/problema-matematicas-3339790.jpg?tf=1200x' alt='Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183'>Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs</a></h4>
     <a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-wozniak-destaca-momentos-importantes-vida-no-nombra-cofundacion-apple-3339012.jpg?tf=1200x' alt='Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188'>Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)</a></h4>
-    <a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)' />
     </a>
 </div>
 
