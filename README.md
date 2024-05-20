@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142'>No es un tanque: es una silla de ordenador con tres monitores y dos metralletas</a></h4>
+    <a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-tanque-silla-ordenador-trabajar-tres-monitores-3337573.jpg?tf=1200x' alt='No es un tanque: es una silla de ordenador con tres monitores y dos metralletas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770'>YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?</a></h4>
     <a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-music-frente-otras-plataformas-streaming-3307531.jpg?tf=1200x' alt='YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136'>Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno</a></h4>
     <a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-3335635.jpg?tf=1200x' alt='Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133'>La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-llega-auriculares-cancelacion-ruido-eliges-ruido-filtrar-ampliar-3335216.jpg?tf=1200x' alt='La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar' />
     </a>
 </div>
 
