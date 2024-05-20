@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-1387321'>Hackbat, la nueva alternativa a Flipper Zero que puedes crear tú mismo: más potente y de código abierto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-1387321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-potente-codigo-abierto-3342583.jpg?tf=1200x' alt='Hackbat, la nueva alternativa a Flipper Zero que puedes crear tú mismo: más potente y de código abierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/microsoft-copilot-plus-pc-ia-surface-snapdragon-x-elite-1387332'>Microsoft presenta Copilot+, la nueva era de los PC con IA, y dos Surface con Snapdragon X Elite</a></h4>
     <a href='https://computerhoy.com/pc/microsoft-copilot-plus-pc-ia-surface-snapdragon-x-elite-1387332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-nueva-era-pc-ia-dos-surface-snapdragon-elite-x-3342424.jpg?tf=1200x' alt='Microsoft presenta Copilot+, la nueva era de los PC con IA, y dos Surface con Snapdragon X Elite' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324'>Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3342281.jpg?tf=1200x' alt='Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-1387128'>5 mejores películas de terror que ningún fan de H.P. Lovecraft debe perderse</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-1387128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-3334359.jpg?tf=1200x' alt='5 mejores películas de terror que ningún fan de H.P. Lovecraft debe perderse' />
     </a>
 </div>
 
