@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875'>No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg?tf=1200x' alt='No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/influencer-trucar-streamings-moviles-miles-1384864'>Detenido un influencer por pasarse de listo con 4.600 móviles en casa: los usaba para trucar sus streamings</a></h4>
+    <a href='https://computerhoy.com/redes/influencer-trucar-streamings-moviles-miles-1384864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/detienen-influencer-4600-moviles-casa-usaba-trucar-streamings-3309295.jpg?tf=1200x' alt='Detenido un influencer por pasarse de listo con 4.600 móviles en casa: los usaba para trucar sus streamings' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183'>Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-wozniak-destaca-momentos-importantes-vida-no-nombra-cofundacion-apple-3339012.jpg?tf=1200x' alt='Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188'>Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168'>No todo en Chrome: 5 navegadores top que deberías probar</a></h4>
     <a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegadores-internet-3339008.jpg?tf=1200x' alt='No todo en Chrome: 5 navegadores top que deberías probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/70-km-bateria-ir-volando-bici-electrica-pone-sector-patas-arriba-1386959'>70 km de batería para ir volando: esta bici eléctrica pone el sector patas arriba</a></h4>
-    <a href='https://computerhoy.com/tecnologia/70-km-bateria-ir-volando-bici-electrica-pone-sector-patas-arriba-1386959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sprint-silver-3296942.jpg?tf=1200x' alt='70 km de batería para ir volando: esta bici eléctrica pone el sector patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162'>Los disquetes se resisten a morir: se utilizan en muchos más lugares de los que imaginas</a></h4>
-    <a href='https://computerhoy.com/life/disquetes-resisten-morir-utilizan-muchas-lugares-imaginas-1387162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/disquetes-3338705.jpg?tf=1200x' alt='Los disquetes se resisten a morir: se utilizan en muchos más lugares de los que imaginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161'>El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo</a></h4>
-    <a href='https://computerhoy.com/windows/explorador-archivos-windows-11-renovando-pero-necesitas-truco-verlo-1387161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-explorador-archivos-3338704.jpg?tf=1200x' alt='El Explorador de archivos de Windows 11 se está renovando, pero necesitas un truco para verlo' />
     </a>
 </div>
 
