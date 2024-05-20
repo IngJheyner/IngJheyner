@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557'>Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7x-carga-solar-rebajado-amazon-1353557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/garmin-fenix-7x-solar-2591043.jpg?tf=1200x' alt='Amazon revienta el precio del Garmin más buscado: el Fenix 7X con carga solar, linterna y un mes de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142'>No es un tanque: es una silla de ordenador con tres monitores y dos metralletas</a></h4>
     <a href='https://computerhoy.com/pc/silla-ordenador-tres-monitores-dos-metralletas-gatling-cluvens-1387142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-tanque-silla-ordenador-trabajar-tres-monitores-3337573.jpg?tf=1200x' alt='No es un tanque: es una silla de ordenador con tres monitores y dos metralletas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137'>Slack usa los mensajes privados de los usuarios, para entrenar a su IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack usa los mensajes privados de los usuarios, para entrenar a su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136'>Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno</a></h4>
-    <a href='https://computerhoy.com/gaming/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-1387136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hace-dias-microsoft-cerro-cuatro-estudios-videojuegos-ahora-ha-abierto-3335635.jpg?tf=1200x' alt='Hace unos días, Microsoft cerró cuatro estudios de videojuegos: ahora ha abierto uno' />
     </a>
 </div>
 
