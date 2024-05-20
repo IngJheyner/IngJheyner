@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/como-puede-afectar-ia-bots-internet-amenaza-preocupa-expertos-1384684'>¿Cómo puede afectar la IA a los bots de Internet? La amenaza que preocupa a los expertos</a></h4>
+    <a href='https://computerhoy.com/redes/como-puede-afectar-ia-bots-internet-amenaza-preocupa-expertos-1384684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-puede-afectar-ia-bots-internet-amenaza-preocupa-expertos-3308966.jpg?tf=1200x' alt='¿Cómo puede afectar la IA a los bots de Internet? La amenaza que preocupa a los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gama-alta-oneplus-cuesta-menos-xiaomi-tiene-carga-ultrarrapida-150w-1387193'>Este gama alta de OnePlus cuesta menos que un Xiaomi y tiene carga ultrarrápida a 150W</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gama-alta-oneplus-cuesta-menos-xiaomi-tiene-carga-ultrarrapida-150w-1387193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-10t-5g-3339013.jpg?tf=1200x' alt='Este gama alta de OnePlus cuesta menos que un Xiaomi y tiene carga ultrarrápida a 150W' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-mejor-ti-1387284'>¿Google Maps o Waze? Dime cómo conduces y te diré cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-waze-dime-como-conduces-te-dire-cual-mejor-ti-1387284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-waze-dime-como-conduces-te-dire-cual-mejor-ti-3341383.jpg?tf=1200x' alt='¿Google Maps o Waze? Dime cómo conduces y te diré cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-abrir-archivo-excel-modo-seguro-sirve-1387021'>Cómo abrir un archivo de Excel en modo seguro y para qué sirve</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-abrir-archivo-excel-modo-seguro-sirve-1387021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-abrir-archivo-excel-modo-seguro-sirve-3323056.jpg?tf=1200x' alt='Cómo abrir un archivo de Excel en modo seguro y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/localizar-eliminar-carpetas-vacias-windows-11-1387025'>Con estos métodos podrás localizar y eliminar carpetas vacías en Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/localizar-eliminar-carpetas-vacias-windows-11-1387025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-metodos-podras-localizar-eliminar-carpetas-vacias-windows-11-3323305.jpg?tf=1200x' alt='Con estos métodos podrás localizar y eliminar carpetas vacías en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/brutal-contestacion-stephen-king-trol-x-puro-estilo-harry-sucio-1387202'>La brutal contestación de Stephen King a un trol en X, al más puro estilo Harry El Sucio</a></h4>
-    <a href='https://computerhoy.com/redes/brutal-contestacion-stephen-king-trol-x-puro-estilo-harry-sucio-1387202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brutal-contestacion-stephen-king-trol-x-estilo-harry-sucio-3339351.jpg?tf=1200x' alt='La brutal contestación de Stephen King a un trol en X, al más puro estilo Harry El Sucio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138'>Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-apuntarse-lista-robinson-evitar-spam-telefonico-llamadas-no-deseadas-3324904.jpg?tf=1200x' alt='Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944'>Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica</a></h4>
-    <a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-3321628.jpg?tf=1200x' alt='Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222'>Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café</a></h4>
-    <a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/problema-matematicas-3339790.jpg?tf=1200x' alt='Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café' />
     </a>
 </div>
 
