@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138'>Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/lista-robinson-todos-pasos-apuntarse-evitar-publicidad-no-deseada-1211138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-apuntarse-lista-robinson-evitar-spam-telefonico-llamadas-no-deseadas-3324904.jpg?tf=1200x' alt='Cómo apuntarse a la Lista Robinson para evitar el spam telefónico y las llamadas no deseadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944'>Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica</a></h4>
     <a href='https://computerhoy.com/motor/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-1386944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/despidos-tesla-siguen-aumentando-elon-musk-ha-vuelto-protagonizar-polemica-3321628.jpg?tf=1200x' alt='Los despidos en Tesla siguen aumentando y Elon Musk ha vuelto a protagonizar una polémica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/influencer-trucar-streamings-moviles-miles-1384864'>Detenido un influencer por pasarse de listo con 4.600 móviles en casa: los usaba para trucar sus streamings</a></h4>
     <a href='https://computerhoy.com/redes/influencer-trucar-streamings-moviles-miles-1384864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/detienen-influencer-4600-moviles-casa-usaba-trucar-streamings-3309295.jpg?tf=1200x' alt='Detenido un influencer por pasarse de listo con 4.600 móviles en casa: los usaba para trucar sus streamings' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183'>Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/life/steve-wozniak-destaca-momentos-importantes-vida-olvida-apple-steve-jobs-1387183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/steve-wozniak-destaca-momentos-importantes-vida-no-nombra-cofundacion-apple-3339012.jpg?tf=1200x' alt='Steve Wozniak destaca los momentos importantes de su vida, se olvida de Apple y Steve Jobs' />
     </a>
 </div>
 
