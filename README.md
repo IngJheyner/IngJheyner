@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342'>Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/shoichiro-irimajiri-3080624.jpg?tf=1200x' alt='Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-1387321'>Hackbat, la nueva alternativa a Flipper Zero que puedes crear tú mismo: más potente y de código abierto</a></h4>
     <a href='https://computerhoy.com/tecnologia/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-1387321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hackbat-nueva-alternativa-flipper-zero-puedes-crear-mismo-potente-codigo-abierto-3342583.jpg?tf=1200x' alt='Hackbat, la nueva alternativa a Flipper Zero que puedes crear tú mismo: más potente y de código abierto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265'>Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga</a></h4>
     <a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/instax-sq40-3340903.jpg?tf=1200x' alt='Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324'>Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer</a></h4>
-    <a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3342281.jpg?tf=1200x' alt='Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer' />
     </a>
 </div>
 
