@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/microsoft-copilot-plus-pc-ia-surface-snapdragon-x-elite-1387332'>Microsoft presenta Copilot+, la nueva era de los PC con IA, y dos Surface con Snapdragon X Elite</a></h4>
+    <a href='https://computerhoy.com/pc/microsoft-copilot-plus-pc-ia-surface-snapdragon-x-elite-1387332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-nueva-era-pc-ia-dos-surface-snapdragon-elite-x-3342424.jpg?tf=1200x' alt='Microsoft presenta Copilot+, la nueva era de los PC con IA, y dos Surface con Snapdragon X Elite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/descubren-curioso-sistema-saltar-limite-pantallas-simultaneas-netflix-1387326'>Descubren un curioso sistema para saltar el límite de pantallas simultáneas en Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/descubren-curioso-sistema-saltar-limite-pantallas-simultaneas-netflix-1387326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ver-netflix-3342284.jpg?tf=1200x' alt='Descubren un curioso sistema para saltar el límite de pantallas simultáneas en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265'>Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/instax-sq40-3340903.jpg?tf=1200x' alt='Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324'>Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer</a></h4>
     <a href='https://computerhoy.com/tecnologia/funciones-pago-chatgpt-ahora-son-100-gratis-te-interesa-conocer-1387324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3342281.jpg?tf=1200x' alt='Funciones de pago en ChatGPT que ahora son 100% gratis y que te interesa conocer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-1387128'>5 mejores películas de terror que ningún fan de H.P. Lovecraft debe perderse</a></h4>
     <a href='https://computerhoy.com/entretenimiento/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-1387128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-mejores-peliculas-terror-ningun-fan-hp-lovecraft-debe-perderse-3334359.jpg?tf=1200x' alt='5 mejores películas de terror que ningún fan de H.P. Lovecraft debe perderse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-presenta-pc-ia-fecha-galaxy-book-4-edge-1387293'>Samsung presenta su PC más centrado en IA hasta la fecha, Galaxy Book 4 Edge</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-presenta-pc-ia-fecha-galaxy-book-4-edge-1387293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-book-4-edge-3341535.jpg?tf=1200x' alt='Samsung presenta su PC más centrado en IA hasta la fecha, Galaxy Book 4 Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/linus-torvalds-inventor-linux-tiene-claro-criptomonedas-gran-forma-ser-estafado-1387305'>Linus Torvalds, inventor de Linux, lo tiene claro con las criptomonedas: "una gran forma de ser estafado"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/linus-torvalds-inventor-linux-tiene-claro-criptomonedas-gran-forma-ser-estafado-1387305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linus-torvalds-inventor-linux-tiene-claro-criptomonedas-gran-forma-ser-estafado-3341984.jpg?tf=1200x' alt='Linus Torvalds, inventor de Linux, lo tiene claro con las criptomonedas: "una gran forma de ser estafado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/bombazo-prime-video-ya-ha-superado-fallout-arrasa-mundo-1387267'>El bombazo de Amazon Prime Video que ya ha superado a Fallout y arrasa en todo el mundo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/bombazo-prime-video-ya-ha-superado-fallout-arrasa-mundo-1387267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bombazo-amazon-prime-video-ya-ha-superado-fallout-arrasa-todo-mundo-3340433.jpg?tf=1200x' alt='El bombazo de Amazon Prime Video que ya ha superado a Fallout y arrasa en todo el mundo' />
     </a>
 </div>
 
