@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770'>YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?</a></h4>
+    <a href='https://computerhoy.com/internet/youtube-music-mejores-productos-google-tan-poco-conocido-1383770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-music-frente-otras-plataformas-streaming-3307531.jpg?tf=1200x' alt='YouTube Music es uno de los mejores productos de Google, ¿por qué tan poca gente lo usa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-32gb-ram-raspberry-pi-alternativa-1360433'>Tiene hasta 32GB de RAM y deja KO a las Raspberry Pi: esta alternativa tiene stock y es más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-32gb-ram-raspberry-pi-alternativa-1360433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-5-plus-3266296.jpg?tf=1200x' alt='Tiene hasta 32GB de RAM y deja KO a las Raspberry Pi: esta alternativa tiene stock y es más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137'>Slack usa los mensajes privados de los usuarios, para entrenar a su IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/slack-usa-mensajes-privados-usuarios-entrenar-ia-1387137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/slack-ha-estado-usando-mensajes-privados-usuarios-entrenar-ia-3336051.jpg?tf=1200x' alt='Slack usa los mensajes privados de los usuarios, para entrenar a su IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133'>La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-auriculares-cancelacion-ruido-1387133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-llega-auriculares-cancelacion-ruido-eliges-ruido-filtrar-ampliar-3335216.jpg?tf=1200x' alt='La IA llega a los auriculares con cancelación de ruido: eliges qué ruido filtrar o ampliar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132'>Blue Origin envía al espacio con éxito a otros seis turistas espaciales</a></h4>
-    <a href='https://computerhoy.com/espacio/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-1387132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/blue-origin-envia-espacio-exito-otros-seis-turistas-espaciales-3334521.jpg?tf=1200x' alt='Blue Origin envía al espacio con éxito a otros seis turistas espaciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/back-market-vende-iphone-14-precio-saldo-reacondicionado-garantia-menos-600-euros-1387125'>Back Market vende el iPhone 14 a precio de saldo: reacondicionado y con garantía por menos de 600 euros</a></h4>
-    <a href='https://computerhoy.com/apple/back-market-vende-iphone-14-precio-saldo-reacondicionado-garantia-menos-600-euros-1387125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/analisis-iphone-14-2821551.jpg?tf=1200x' alt='Back Market vende el iPhone 14 a precio de saldo: reacondicionado y con garantía por menos de 600 euros' />
     </a>
 </div>
 
