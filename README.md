@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222'>Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café</a></h4>
+    <a href='https://computerhoy.com/ciencia/problema-matematico-hace-500-anos-sirve-crear-reactores-nucleares-buen-cafe-1387222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/problema-matematicas-3339790.jpg?tf=1200x' alt='Este problema matemático de hace 500 años sirve para crear reactores nucleares y un buen café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875'>No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-error-precio-mejores-smartwatch-android-cuesta-apenas-150-euros-1386875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/analisis-ticwatch-pro-3-ultra-2607453.jpg?tf=1200x' alt='No es error de precio: uno de los mejores smartwatch Android cuesta apenas 150 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188'>Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)</a></h4>
     <a href='https://computerhoy.com/motor/nueva-bicicleta-ruedas-cuadradas-1230188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/llega-bicicleta-ruedas-cuadradas-realmente-funciona-video-3008494.jpg?tf=1200x' alt='Ya está aquí la bicicleta con ruedas cuadradas que realmente funciona (vídeo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168'>No todo en Chrome: 5 navegadores top que deberías probar</a></h4>
-    <a href='https://computerhoy.com/internet/no-todo-chrome-5-navegadores-top-deberias-probar-1387168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/navegadores-internet-3339008.jpg?tf=1200x' alt='No todo en Chrome: 5 navegadores top que deberías probar' />
     </a>
 </div>
 
