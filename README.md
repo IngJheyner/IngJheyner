@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435'>Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/errores-seguridad-3347423.jpg?tf=1200x' alt='Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/sonos-ace-auriculares-over-ear-caracteristicas-precio-informacion-1387129'>Sonos se lanza a por Sony y Apple con Ace, sus primeros auriculares</a></h4>
+    <a href='https://computerhoy.com/audio/sonos-ace-auriculares-over-ear-caracteristicas-precio-informacion-1387129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sonos-ace-3334508.jpg?tf=1200x' alt='Sonos se lanza a por Sony y Apple con Ace, sus primeros auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-desactivar-buzon-voz-44296'>Cómo desactivar el buzón de voz en cada una de las 17 compañías de telefonía de España</a></h4>
+    <a href='https://computerhoy.com/moviles/como-desactivar-buzon-voz-44296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/usar-movil.jpg?tf=1200x' alt='Cómo desactivar el buzón de voz en cada una de las 17 compañías de telefonía de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/pasa-descuento-50-hbo-max-ser-max-1387450'>Esto es lo que pasa con el descuento del 50% de HBO Max: podrás disfrutarlo en Max, aunque con una letra pequeña que igual no te convence</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pasa-descuento-50-hbo-max-ser-max-1387450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hbo-max-2882517.jpg?tf=1200x' alt='Esto es lo que pasa con el descuento del 50% de HBO Max: podrás disfrutarlo en Max, aunque con una letra pequeña que igual no te convence' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111'>Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/oficial-microsoft-olvida-windows-12-1387407'>Es oficial: Microsoft se olvida de Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/oficial-microsoft-olvida-windows-12-1387407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-seguira-trabajando-windows-11-windows-12-sigue-estando-lejos-3346638.jpg?tf=1200x' alt='Es oficial: Microsoft se olvida de Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/powerpoint-fiestas-nueva-tendencia-viral-1383830'>Aunque parezca increíble, las fiestas de PowerPoint son el nuevo pasatiempo de la Generación Z</a></h4>
-    <a href='https://computerhoy.com/tecnologia/powerpoint-fiestas-nueva-tendencia-viral-1383830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Aunque parezca increíble, las fiestas de PowerPoint son el nuevo pasatiempo de la Generación Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430'>Cómo detectar qué extensión de Chrome está ralentizando más el navegador</a></h4>
-    <a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Cómo detectar qué extensión de Chrome está ralentizando más el navegador' />
     </a>
 </div>
 
