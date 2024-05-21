@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814'>Disfruta de Android Auto en cualquier coche con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-tener-android-auto-inalambrico-raspberry-pi-3278186.jpg?tf=1200x' alt='Disfruta de Android Auto en cualquier coche con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386'>El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente</a></h4>
     <a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-chip-desprendiendo-cerebro-pero-neuralink-va-implantarlo-segundo-paciente-3345861.jpg?tf=1200x' alt='El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374'>Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-3346013.jpg?tf=1200x' alt='Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373'>Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/scarlett-johansson-3345870.jpg?tf=1200x' alt='Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT' />
     </a>
 </div>
 
