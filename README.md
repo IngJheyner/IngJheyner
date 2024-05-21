@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348'>La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante</a></h4>
+    <a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-3344579.jpg?tf=1200x' alt='La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356'>Los 50 mejores atajos de Excel para dominarlos a todos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 mejores atajos de Excel para dominarlos a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252'>Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatbot-internet-3346940.jpg?tf=1200x' alt='Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435'>Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/errores-seguridad-3347423.jpg?tf=1200x' alt='Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/sonos-ace-auriculares-over-ear-caracteristicas-precio-informacion-1387129'>Sonos se lanza a por Sony y Apple con Ace, sus primeros auriculares</a></h4>
-    <a href='https://computerhoy.com/audio/sonos-ace-auriculares-over-ear-caracteristicas-precio-informacion-1387129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sonos-ace-3334508.jpg?tf=1200x' alt='Sonos se lanza a por Sony y Apple con Ace, sus primeros auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-desactivar-buzon-voz-44296'>Cómo desactivar el buzón de voz en cada una de las 17 compañías de telefonía de España</a></h4>
-    <a href='https://computerhoy.com/moviles/como-desactivar-buzon-voz-44296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/09/usar-movil.jpg?tf=1200x' alt='Cómo desactivar el buzón de voz en cada una de las 17 compañías de telefonía de España' />
     </a>
 </div>
 
