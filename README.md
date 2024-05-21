@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111'>Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/oficial-microsoft-olvida-windows-12-1387407'>Es oficial: Microsoft se olvida de Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/oficial-microsoft-olvida-windows-12-1387407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-seguira-trabajando-windows-11-windows-12-sigue-estando-lejos-3346638.jpg?tf=1200x' alt='Es oficial: Microsoft se olvida de Windows 12' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/powerpoint-fiestas-nueva-tendencia-viral-1383830'>Aunque parezca increíble, las fiestas de PowerPoint son el nuevo pasatiempo de la Generación Z</a></h4>
+    <a href='https://computerhoy.com/tecnologia/powerpoint-fiestas-nueva-tendencia-viral-1383830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/generacion-z-empezando-hacer-fiestas-powerpoint-3307574.jpg?tf=1200x' alt='Aunque parezca increíble, las fiestas de PowerPoint son el nuevo pasatiempo de la Generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430'>Cómo detectar qué extensión de Chrome está ralentizando más el navegador</a></h4>
     <a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Cómo detectar qué extensión de Chrome está ralentizando más el navegador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404'>Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam</a></h4>
     <a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/consiguen-superar-rendimiento-nvidia-rtx-4080-rtx-4070-ti-modificada-1387362'>Consiguen superar el rendimiento de una Nvidia RTX 4080 con una RTX 4070 Ti modificada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/consiguen-superar-rendimiento-nvidia-rtx-4080-rtx-4070-ti-modificada-1387362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nvidia-rtx-4070-ti-ha-superado-rtx-4080-mod-memoria-3346178.jpg?tf=1200x' alt='Consiguen superar el rendimiento de una Nvidia RTX 4080 con una RTX 4070 Ti modificada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-1101877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814'>Disfruta de Android Auto en cualquier coche con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-tener-android-auto-inalambrico-raspberry-pi-3278186.jpg?tf=1200x' alt='Disfruta de Android Auto en cualquier coche con una Raspberry Pi' />
     </a>
 </div>
 
