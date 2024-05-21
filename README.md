@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/xiaomi-pad-6s-pro-124-analisis-opinion-1386066'>Llevo usando Xiaomi Pad 6S Pro 12.4 dos semanas y es la mejor tablet "Pro" con Android</a></h4>
+    <a href='https://computerhoy.com/analisis/xiaomi-pad-6s-pro-124-analisis-opinion-1386066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-pad-6s-pro-124-00004jpg-3311486.jpg?tf=1200x' alt='Llevo usando Xiaomi Pad 6S Pro 12.4 dos semanas y es la mejor tablet "Pro" con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-1386638'>Papelera de reciclaje Android: dónde está y cómo utilizar para recuperar archivos eliminados</a></h4>
+    <a href='https://computerhoy.com/tutoriales/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-1386638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-3314422.jpg?tf=1200x' alt='Papelera de reciclaje Android: dónde está y cómo utilizar para recuperar archivos eliminados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/manera-proteger-flipper-zero-ataque-movil-1330258'>Hay una manera infalible de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/manera-proteger-flipper-zero-ataque-movil-1330258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/solo-hay-forma-proteger-movil-ataque-flipper-zero-pero-no-te-va-gustar-3213636.jpg?tf=1200x' alt='Hay una manera infalible de proteger tu móvil del ataque de Flipper Zero, pero no te va a gustar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/china-toma-delantera-colmi-ya-vende-anillo-inteligente-mide-actividades-deportivas-1387338'>China toma la delantera: Colmi ya vende un anillo inteligente que mide actividades deportivas</a></h4>
     <a href='https://computerhoy.com/tecnologia/china-toma-delantera-colmi-ya-vende-anillo-inteligente-mide-actividades-deportivas-1387338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-02-3342581.jpg?tf=1200x' alt='China toma la delantera: Colmi ya vende un anillo inteligente que mide actividades deportivas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/paginas-torrent-descargas-pirata-grandes-mundo-vuelve-privada-1387229'>Una de las páginas de torrent y descargas pirata más grandes del mundo se vuelve privada</a></h4>
     <a href='https://computerhoy.com/tv/paginas-torrent-descargas-pirata-grandes-mundo-vuelve-privada-1387229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/paginas-torrent-descargas-pirata-grandes-mundo-vuelve-privada-3339794.jpg?tf=1200x' alt='Una de las páginas de torrent y descargas pirata más grandes del mundo se vuelve privada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/prueba-cafe-entrevistas-trabajo-1181802'>Si te invitan a un café durante una entrevista de trabajo, lava la taza después, es una prueba</a></h4>
-    <a href='https://computerhoy.com/life/prueba-cafe-entrevistas-trabajo-1181802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/entrevista-cafe-2924052.jpg?tf=1200x' alt='Si te invitan a un café durante una entrevista de trabajo, lava la taza después, es una prueba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/filosofia-omdenken-como-convertir-problemas-oportunidades-1381866'>Qué es la filosofía omdenken, y cómo convertir los problemas en oportunidades</a></h4>
-    <a href='https://computerhoy.com/life/filosofia-omdenken-como-convertir-problemas-oportunidades-1381866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/filosofia-omdenken-como-convertir-problemas-oportunidades-3303747.jpg?tf=1200x' alt='Qué es la filosofía omdenken, y cómo convertir los problemas en oportunidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342'>Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/shoichiro-irimajiri-3080624.jpg?tf=1200x' alt='Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar' />
     </a>
 </div>
 
