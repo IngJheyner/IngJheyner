@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386'>El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente</a></h4>
+    <a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-chip-desprendiendo-cerebro-pero-neuralink-va-implantarlo-segundo-paciente-3345861.jpg?tf=1200x' alt='El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-estos-cascos-sony-no-cambio-ahora-amazon-vende-poco-200-euros-1387250'>Tengo estos cascos de Sony y no los cambio: ahora Amazon los vende por poco más de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-estos-cascos-sony-no-cambio-ahora-amazon-vende-poco-200-euros-1387250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg?tf=1200x' alt='Tengo estos cascos de Sony y no los cambio: ahora Amazon los vende por poco más de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783'>Aumenta la cobertura de tu WiFi en casa y navega sin problemas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg?tf=1200x' alt='Aumenta la cobertura de tu WiFi en casa y navega sin problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374'>Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-3346013.jpg?tf=1200x' alt='Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373'>Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT</a></h4>
     <a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/scarlett-johansson-3345870.jpg?tf=1200x' alt='Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/lista-todos-pc-copilot-plus-1387363'>La guerra contra el MacBook Air ha empezado: estos son todos los PC con Copilot+</a></h4>
-    <a href='https://computerhoy.com/pc/lista-todos-pc-copilot-plus-1387363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-vivobook-s-15-3345717.jpg?tf=1200x' alt='La guerra contra el MacBook Air ha empezado: estos son todos los PC con Copilot+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-casio-garmin-muy-barato-instinct-2-hunde-precio-amazon-1386908'>No es un Casio, es un Garmin y muy barato: el Instinct 2 hunde su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-casio-garmin-muy-barato-instinct-2-hunde-precio-amazon-1386908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-instinct-2s-3320191.jpg?tf=1200x' alt='No es un Casio, es un Garmin y muy barato: el Instinct 2 hunde su precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/trucos-mejorar-rendimiento-movil-android-1387067'>Dale vida a tu móvil Android con estos trucos para mejorar su rendimiento</a></h4>
-    <a href='https://computerhoy.com/android/trucos-mejorar-rendimiento-movil-android-1387067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejorar-rendimiento-movil-android-3327193.jpg?tf=1200x' alt='Dale vida a tu móvil Android con estos trucos para mejorar su rendimiento' />
     </a>
 </div>
 
