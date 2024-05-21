@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/macbook-pro-esteroides-baja-precio-18gb-ram-procesador-m3-pro-ahora-260-euros-barato-1387212'>El MacBook Pro con esteroides baja de precio: 18GB de RAM y procesador M3 Pro es ahora 260 euros más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/macbook-pro-esteroides-baja-precio-18gb-ram-procesador-m3-pro-ahora-260-euros-barato-1387212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/macbook-pro-3339349.jpg?tf=1200x' alt='El MacBook Pro con esteroides baja de precio: 18GB de RAM y procesador M3 Pro es ahora 260 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517'>¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-fire-tv-stick-3349156.jpg?tf=1200x' alt='¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-1387503'>Funciones ocultas de Google Maps que seguramente no has utilizado nunca</a></h4>
     <a href='https://computerhoy.com/google/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-1387503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-3349149.jpg?tf=1200x' alt='Funciones ocultas de Google Maps que seguramente no has utilizado nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/remake-amazon-prime-video-ha-dejado-stephen-king-palabras-1387390'>El remake de Amazon Prime Video que ha dejado a Stephen King sin palabras (y nunca adivinarías)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/remake-amazon-prime-video-ha-dejado-stephen-king-palabras-1387390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/jake-gyllenhaal-road-house-profesion-duro-3266057.jpg?tf=1200x' alt='El remake de Amazon Prime Video que ha dejado a Stephen King sin palabras (y nunca adivinarías)' />
     </a>
 </div>
 
