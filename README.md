@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pasa-descuento-50-hbo-max-ser-max-1387450'>Esto es lo que pasa con el descuento del 50% de HBO Max: podrás disfrutarlo en Max, aunque con una letra pequeña que igual no te convence</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pasa-descuento-50-hbo-max-ser-max-1387450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/hbo-max-2882517.jpg?tf=1200x' alt='Esto es lo que pasa con el descuento del 50% de HBO Max: podrás disfrutarlo en Max, aunque con una letra pequeña que igual no te convence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111'>Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal</a></h4>
     <a href='https://computerhoy.com/tecnologia/problema-olor-corporal-steve-jobs-1158111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/steve-jobs-joven-3271860.jpg?tf=1200x' alt='Los compañeros de un joven Steve Jobs no querían trabajar con él porque no soportaban su olor corporal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430'>Cómo detectar qué extensión de Chrome está ralentizando más el navegador</a></h4>
     <a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Cómo detectar qué extensión de Chrome está ralentizando más el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404'>Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam</a></h4>
-    <a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam' />
     </a>
 </div>
 
