@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/filosofia-omdenken-como-convertir-problemas-oportunidades-1381866'>Qué es la filosofía omdenken, y cómo convertir los problemas en oportunidades</a></h4>
+    <a href='https://computerhoy.com/life/filosofia-omdenken-como-convertir-problemas-oportunidades-1381866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/filosofia-omdenken-como-convertir-problemas-oportunidades-3303747.jpg?tf=1200x' alt='Qué es la filosofía omdenken, y cómo convertir los problemas en oportunidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342'>Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar</a></h4>
     <a href='https://computerhoy.com/tecnologia/shoichiro-irimajiri-presidente-sega-presto-dinero-nvidia-cuando-iba-quebrar-1387342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/shoichiro-irimajiri-3080624.jpg?tf=1200x' alt='Shoichiro Irimajiri, el presidente de Sega que prestó dinero a Nvidia cuando iba a quebrar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/descubren-curioso-sistema-saltar-limite-pantallas-simultaneas-netflix-1387326'>Descubren un curioso sistema para saltar el límite de pantallas simultáneas en Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/descubren-curioso-sistema-saltar-limite-pantallas-simultaneas-netflix-1387326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ver-netflix-3342284.jpg?tf=1200x' alt='Descubren un curioso sistema para saltar el límite de pantallas simultáneas en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265'>Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/camaras-tipo-polaroid-estan-moda-tiene-algunas-sorpresas-manga-1387265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/instax-sq40-3340903.jpg?tf=1200x' alt='Las cámaras tipo Polaroid están de moda, y esta tiene algunas sorpresas bajo la manga' />
     </a>
 </div>
 
