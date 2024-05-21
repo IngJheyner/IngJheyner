@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430'>Cómo detectar qué extensión de Chrome está ralentizando más el navegador</a></h4>
+    <a href='https://computerhoy.com/internet/como-detectar-extension-chrome-ralentizando-navegador-1387430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/configuracion-perfecta-acelerar-google-chrome-instante-3303927.jpg?tf=1200x' alt='Cómo detectar qué extensión de Chrome está ralentizando más el navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404'>Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam</a></h4>
+    <a href='https://computerhoy.com/pc/intel-core-i7-16-gb-ram-portatil-potente-barato-vas-quemar-steam-1387404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/asus-tuf-gaming-f15-3294143.jpg?tf=1200x' alt='Intel Core i7 y 16 GB de RAM: con este portátil potente y barato vas a quemar Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/consiguen-superar-rendimiento-nvidia-rtx-4080-rtx-4070-ti-modificada-1387362'>Consiguen superar el rendimiento de una Nvidia RTX 4080 con una RTX 4070 Ti modificada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/consiguen-superar-rendimiento-nvidia-rtx-4080-rtx-4070-ti-modificada-1387362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nvidia-rtx-4070-ti-ha-superado-rtx-4080-mod-memoria-3346178.jpg?tf=1200x' alt='Consiguen superar el rendimiento de una Nvidia RTX 4080 con una RTX 4070 Ti modificada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-1101877'>¿Qué son los Smart Rings y cuál es su utilidad?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/smart-ring-que-es-1101877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/son-smart-rings-cual-utilidad-3266657.jpg?tf=1200x' alt='¿Qué son los Smart Rings y cuál es su utilidad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814'>Disfruta de Android Auto en cualquier coche con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tutoriales/android-auto-cualquier-coche-raspberry-pi-1366814' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-tener-android-auto-inalambrico-raspberry-pi-3278186.jpg?tf=1200x' alt='Disfruta de Android Auto en cualquier coche con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386'>El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente</a></h4>
-    <a href='https://computerhoy.com/tecnologia/neuralink-implantar-chip-segundo-paciente-1387386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-chip-desprendiendo-cerebro-pero-neuralink-va-implantarlo-segundo-paciente-3345861.jpg?tf=1200x' alt='El primer chip se está soltando del cerebro, pero Neuralink va a implantarlo en un segundo paciente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tengo-estos-cascos-sony-no-cambio-ahora-amazon-vende-poco-200-euros-1387250'>Tengo estos cascos de Sony y no los cambio: ahora Amazon los vende por poco más de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tengo-estos-cascos-sony-no-cambio-ahora-amazon-vende-poco-200-euros-1387250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/auriculares-sony-wh1000xm4-cancelacion-ruido-son-deseados-hoy-tienen-132-euros-descuento-precio-minimo-2582311.jpg?tf=1200x' alt='Tengo estos cascos de Sony y no los cambio: ahora Amazon los vende por poco más de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783'>Aumenta la cobertura de tu WiFi en casa y navega sin problemas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-mejorar-senal-wifi-aumentar-cobertura-casa-1126783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/01/red-wifi-2594201.jpg?tf=1200x' alt='Aumenta la cobertura de tu WiFi en casa y navega sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374'>Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-3346013.jpg?tf=1200x' alt='Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max' />
     </a>
 </div>
 
