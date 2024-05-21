@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483'>La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-3348401.jpg?tf=1200x' alt='La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-puntos-restauracion-windows-como-crear-1387347'>Qué son los puntos de restauración de Windows y cómo crear uno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-puntos-restauracion-windows-como-crear-1387347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-puntos-restauracion-windows-como-crear-3344294.jpg?tf=1200x' alt='Qué son los puntos de restauración de Windows y cómo crear uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348'>La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante</a></h4>
     <a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-3344579.jpg?tf=1200x' alt='La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252'>Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatbot-internet-3346940.jpg?tf=1200x' alt='Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/freidoras-aire-posible-foco-intoxicaciones-1223136'>Ojo con las freidoras de aire porque son un posible foco de intoxicaciones alimentarias</a></h4>
-    <a href='https://computerhoy.com/hogar/freidoras-aire-posible-foco-intoxicaciones-1223136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/freidora-aire-aceite-2875957.jpg?tf=1200x' alt='Ojo con las freidoras de aire porque son un posible foco de intoxicaciones alimentarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435'>Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estos-son-5-errores-ciberseguridad-comunes-debes-evitar-toda-costa-1387435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/errores-seguridad-3347423.jpg?tf=1200x' alt='Estos son los 5 errores de ciberseguridad más comunes que debes evitar a toda costa' />
     </a>
 </div>
 
