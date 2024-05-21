@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/contradiccion-jovenes-utilizan-ia-pero-temen-quite-trabajo-1386998'>La contradicción de la generación Z y los millennials: muchos utilizan la IA, pero tienen miedo de que les quite su trabajo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/contradiccion-jovenes-utilizan-ia-pero-temen-quite-trabajo-1386998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contradiccion-generacion-z-millennials-muchos-utilizan-ia-pero-tienen-miedo-quite-trabajo-3321625.jpg?tf=1200x' alt='La contradicción de la generación Z y los millennials: muchos utilizan la IA, pero tienen miedo de que les quite su trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483'>La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película</a></h4>
     <a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-3348401.jpg?tf=1200x' alt='La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356'>Los 50 mejores atajos de Excel para dominarlos a todos</a></h4>
     <a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 mejores atajos de Excel para dominarlos a todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252'>Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/4-formas-detectar-estas-hablando-chatbot-ia-internet-1387252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatbot-internet-3346940.jpg?tf=1200x' alt='Que no te la den: 4 formas de detectar que estás hablando con el chatbot de una IA por Internet' />
     </a>
 </div>
 
