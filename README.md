@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/deepfake-elon-musk-estafa-47000-euros-mujer-1387358'>Se hace pasar por Elon Musk usando IA, y estafa 47.000 euros a una mujer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/deepfake-elon-musk-estafa-47000-euros-mujer-1387358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hacen-pasar-elon-musk-usando-ia-venden-mujer-dni-marte-50000-dolares-3344720.jpg?tf=1200x' alt='Se hace pasar por Elon Musk usando IA, y estafa 47.000 euros a una mujer' />
+    <h4><a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374'>Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/max-ya-aqui-precios-dispositivos-compatibles-hacer-ya-tienes-cuenta-hbo-max-1387374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-3346013.jpg?tf=1200x' alt='Max ya está aquí: precios, dispositivos compatibles y qué hacer si ya tienes cuenta de HBO Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/samsung-presenta-pc-ia-fecha-galaxy-book-4-edge-1387293'>Samsung presenta su PC más centrado en IA hasta la fecha, Galaxy Book 4 Edge</a></h4>
-    <a href='https://computerhoy.com/pc/samsung-presenta-pc-ia-fecha-galaxy-book-4-edge-1387293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-book-4-edge-3345425.jpg?tf=1200x' alt='Samsung presenta su PC más centrado en IA hasta la fecha, Galaxy Book 4 Edge' />
+    <h4><a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373'>Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/scarlett-johansson-confirma-openai-robo-voz-chatgpt-1387373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/scarlett-johansson-3345870.jpg?tf=1200x' alt='Scarlett Johansson confirma que OpenAI robó su voz para ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-conectado-alternativa-drive-dropbox-oferta-amazon-1337248'>Google y Dropbox quedan KO con esta oferta: un disco duro de 4TB que será tu nube personal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-conectado-alternativa-drive-dropbox-oferta-amazon-1337248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/wd-my-cloud-home-2211419.jpg?tf=1200x' alt='Google y Dropbox quedan KO con esta oferta: un disco duro de 4TB que será tu nube personal' />
+    <h4><a href='https://computerhoy.com/pc/lista-todos-pc-copilot-plus-1387363'>La guerra contra el MacBook Air ha empezado: estos son todos los PC con Copilot+</a></h4>
+    <a href='https://computerhoy.com/pc/lista-todos-pc-copilot-plus-1387363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-vivobook-s-15-3345717.jpg?tf=1200x' alt='La guerra contra el MacBook Air ha empezado: estos son todos los PC con Copilot+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/xiaomi-pad-6s-pro-124-analisis-opinion-1386066'>Llevo usando Xiaomi Pad 6S Pro 12.4 dos semanas y es la mejor tablet "Pro" con Android</a></h4>
-    <a href='https://computerhoy.com/analisis/xiaomi-pad-6s-pro-124-analisis-opinion-1386066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-pad-6s-pro-124-00004jpg-3311486.jpg?tf=1200x' alt='Llevo usando Xiaomi Pad 6S Pro 12.4 dos semanas y es la mejor tablet "Pro" con Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-casio-garmin-muy-barato-instinct-2-hunde-precio-amazon-1386908'>No es un Casio, es un Garmin y muy barato: el Instinct 2 hunde su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-casio-garmin-muy-barato-instinct-2-hunde-precio-amazon-1386908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-instinct-2s-3320191.jpg?tf=1200x' alt='No es un Casio, es un Garmin y muy barato: el Instinct 2 hunde su precio en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-1386638'>Papelera de reciclaje Android: dónde está y cómo utilizar para recuperar archivos eliminados</a></h4>
-    <a href='https://computerhoy.com/tutoriales/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-1386638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/papelera-reciclaje-android-donde-como-utilizar-recuperar-archivos-eliminados-3314422.jpg?tf=1200x' alt='Papelera de reciclaje Android: dónde está y cómo utilizar para recuperar archivos eliminados' />
+    <h4><a href='https://computerhoy.com/android/trucos-mejorar-rendimiento-movil-android-1387067'>Dale vida a tu móvil Android con estos trucos para mejorar su rendimiento</a></h4>
+    <a href='https://computerhoy.com/android/trucos-mejorar-rendimiento-movil-android-1387067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mejorar-rendimiento-movil-android-3327193.jpg?tf=1200x' alt='Dale vida a tu móvil Android con estos trucos para mejorar su rendimiento' />
     </a>
 </div>
 
