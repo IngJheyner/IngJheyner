@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/contradiccion-jovenes-utilizan-ia-pero-temen-quite-trabajo-1386998'>La contradicción de la generación Z y los millennials: muchos utilizan la IA, pero tienen miedo de que les quite su trabajo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/contradiccion-jovenes-utilizan-ia-pero-temen-quite-trabajo-1386998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contradiccion-generacion-z-millennials-muchos-utilizan-ia-pero-tienen-miedo-quite-trabajo-3321625.jpg?tf=1200x' alt='La contradicción de la generación Z y los millennials: muchos utilizan la IA, pero tienen miedo de que les quite su trabajo' />
+    <h4><a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517'>¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-fire-tv-stick-3349156.jpg?tf=1200x' alt='¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483'>La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-1387483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/escena-final-cadena-perpetua-morgan-freeman-nego-filmar-pudo-arruinar-pelicula-3348401.jpg?tf=1200x' alt='La escena final de Cadena Perpetua que Morgan Freeman se negó a filmar y que pudo arruinar la película' />
+    <h4><a href='https://computerhoy.com/tecnologia/build-2024-microsoft-team-copilot-agentes-gpt-40o-1387522'>Build 2024 de Microsoft: Team Copilot, agentes de IA, GPT-4o, doblaje de vídeos de YouTube, y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/build-2024-microsoft-team-copilot-agentes-gpt-40o-1387522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/build-2024-microsoft-team-copilot-agentes-ia-doblaje-videos-youtube-3349153.jpg?tf=1200x' alt='Build 2024 de Microsoft: Team Copilot, agentes de IA, GPT-4o, doblaje de vídeos de YouTube, y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-puntos-restauracion-windows-como-crear-1387347'>Qué son los puntos de restauración de Windows y cómo crear uno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-puntos-restauracion-windows-como-crear-1387347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-puntos-restauracion-windows-como-crear-3344294.jpg?tf=1200x' alt='Qué son los puntos de restauración de Windows y cómo crear uno' />
+    <h4><a href='https://computerhoy.com/tecnologia/salvador-utiliza-energia-volcan-minar-bitcoin-ya-ha-ganado-26-millones-euros-1387515'>El Salvador utiliza la energía de un volcán para minar Bitcoin y ya ha ganado más de 30 millones de euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/salvador-utiliza-energia-volcan-minar-bitcoin-ya-ha-ganado-26-millones-euros-1387515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bitcoin-salvador-3349151.jpg?tf=1200x' alt='El Salvador utiliza la energía de un volcán para minar Bitcoin y ya ha ganado más de 30 millones de euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348'>La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante</a></h4>
-    <a href='https://computerhoy.com/tutoriales/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-1387348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carpeta-maldita-windows-11-borrarla-mejora-velocidad-pc-instante-3344579.jpg?tf=1200x' alt='La carpeta maldita de Windows 11: borrarla mejora la velocidad de tu PC al instante' />
+    <h4><a href='https://computerhoy.com/google/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-1387503'>Funciones ocultas de Google Maps que seguramente no has utilizado nunca</a></h4>
+    <a href='https://computerhoy.com/google/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-1387503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-ocultas-google-maps-seguramente-no-has-utilizado-nunca-3349149.jpg?tf=1200x' alt='Funciones ocultas de Google Maps que seguramente no has utilizado nunca' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356'>Los 50 mejores atajos de Excel para dominarlos a todos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/mejores-atajos-teclado-excel-todos-1381356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/50-atajos-teclado-imprescindibles-excel-2024-3302932.jpg?tf=1200x' alt='Los 50 mejores atajos de Excel para dominarlos a todos' />
+    <h4><a href='https://computerhoy.com/entretenimiento/remake-amazon-prime-video-ha-dejado-stephen-king-palabras-1387390'>El remake de Amazon Prime Video que ha dejado a Stephen King sin palabras (y nunca adivinarías)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/remake-amazon-prime-video-ha-dejado-stephen-king-palabras-1387390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/jake-gyllenhaal-road-house-profesion-duro-3266057.jpg?tf=1200x' alt='El remake de Amazon Prime Video que ha dejado a Stephen King sin palabras (y nunca adivinarías)' />
     </a>
 </div>
 
