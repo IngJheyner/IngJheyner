@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/frases-prohibidas-ocu-escuchas-llamada-cuelga-inmediatamente-estafa-1387613'>Frases prohibidas, según la OCU: si las escuchas en una llamada cuelga inmediatamente, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/frases-prohibidas-ocu-escuchas-llamada-cuelga-inmediatamente-estafa-1387613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mujer-sorprendida-hablando-movil-3353986.jpg?tf=1200x' alt='Frases prohibidas, según la OCU: si las escuchas en una llamada cuelga inmediatamente, es una estafa' />
+    <h4><a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710'>Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-12-3356344.jpg?tf=1200x' alt='Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/primer-trailer-witcher-liam-hemsworth-como-geralt-rivia-1387692'>Primer tráiler de The Witcher con Liam Hemsworth como Geralt de Rivia</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/primer-trailer-witcher-liam-hemsworth-como-geralt-rivia-1387692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716397189365-3355644.jpg?tf=1200x' alt='Primer tráiler de The Witcher con Liam Hemsworth como Geralt de Rivia' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709'>Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-invierte-15700-millones-euros-centros-datos-aragon-mayor-inversion-sur-europa-3356067.jpg?tf=1200x' alt='Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/han-pirateado-cuenta-gmail-descubrelo-2-minutos-1387666'>¿Han pirateado tu cuenta de Gmail? Descúbrelo en 2 minutos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/han-pirateado-cuenta-gmail-descubrelo-2-minutos-1387666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/han-pirateado-cuenta-gmail-descubrelo-2-minutos-3355646.jpg?tf=1200x' alt='¿Han pirateado tu cuenta de Gmail? Descúbrelo en 2 minutos' />
+    <h4><a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706'>La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-3356316.jpg?tf=1200x' alt='La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-busquedas-menu-inicio-windows-11-1386830'>Cómo ocultar las búsquedas del menú de inicio de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-busquedas-menu-inicio-windows-11-1386830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ocultar-busquedas-menu-inicio-windows-11-3318401.jpg?tf=1200x' alt='Cómo ocultar las búsquedas del menú de inicio de Windows 11' />
+    <h4><a href='https://computerhoy.com/google/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-1387675'>¿Cómo captura Google Maps los lugares donde no se permiten coches? La curiosa historia de la Isla Mackinac</a></h4>
+    <a href='https://computerhoy.com/google/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-1387675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-3356172.jpg?tf=1200x' alt='¿Cómo captura Google Maps los lugares donde no se permiten coches? La curiosa historia de la Isla Mackinac' />
     </a>
 </div>
 
