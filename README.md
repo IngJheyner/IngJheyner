@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-consuma-desproposito-busca-comprador-semanas-despues-lanzamiento-1387578'>Humane AI consuma el despropósito y busca comprador semanas después de su lanzamiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humane-ai-consuma-desproposito-busca-comprador-semanas-despues-lanzamiento-1387578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-busca-compradores-apenas-unas-semanas-lanzamiento-primer-wearable-3353077.jpg?tf=1200x' alt='Humane AI consuma el despropósito y busca comprador semanas después de su lanzamiento' />
+    <h4><a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957'>El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución</a></h4>
+    <a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3294252.jpg?tf=1200x' alt='El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raton-vertical-me-ayuda-trabajar-te-preocupa-salud-te-recomiendo-comprarlo-1387561'>Este ratón vertical me ayuda a trabajar y, si te preocupa tu salud, te recomiendo comprarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raton-vertical-me-ayuda-trabajar-te-preocupa-salud-te-recomiendo-comprarlo-1387561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Este ratón vertical me ayuda a trabajar y, si te preocupa tu salud, te recomiendo comprarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597'>El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-3353382.jpg?tf=1200x' alt='El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/lucha-pirateria-iptv-ilegales-chivatos-recompensas-1385067'>La lucha contra la piratería y las IPTV ilegales tiene una nueva estrategia: dar recompensas a los chivatos</a></h4>
-    <a href='https://computerhoy.com/internet/lucha-pirateria-iptv-ilegales-chivatos-recompensas-1385067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-3309690.jpg?tf=1200x' alt='La lucha contra la piratería y las IPTV ilegales tiene una nueva estrategia: dar recompensas a los chivatos' />
+    <h4><a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568'>Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cooler-master-pasta-termica-3353827.jpg?tf=1200x' alt='Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380'>Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-3306870.jpg?tf=1200x' alt='Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones' />
+    <h4><a href='https://computerhoy.com/apps/app-musica-gratis-spotify-youtube-music-spotube-1353824'>Así es Spotube, la app donde puedes escuchar tus canciones de Spotify gratis, sin anuncios y de manera legal</a></h4>
+    <a href='https://computerhoy.com/apps/app-musica-gratis-spotify-youtube-music-spotube-1353824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-escuchar-musica-gratis-spotify-youtube-music-anuncios-manera-legal-3256020.jpg?tf=1200x' alt='Así es Spotube, la app donde puedes escuchar tus canciones de Spotify gratis, sin anuncios y de manera legal' />
     </a>
 </div>
 
