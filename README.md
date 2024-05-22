@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiar-smartwatch-premium-smartband-bateria-1382965'>He abandonado un smartwatch premium y he vuelto a mi smartband un año después: la razón detrás del cambio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiar-smartwatch-premium-smartband-bateria-1382965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306758.jpg?tf=1200x' alt='He abandonado un smartwatch premium y he vuelto a mi smartband un año después: la razón detrás del cambio' />
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567'>La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3296274.jpg?tf=1200x' alt='La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/grok-ia-elon-musk-ya-tiene-ojos-1387553'>Grok, la IA de Elon Musk, ya tiene ojos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/grok-ia-elon-musk-ya-tiene-ojos-1387553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, la IA de Elon Musk, ya tiene ojos' />
+    <h4><a href='https://computerhoy.com/windows/queja-error-administrador-tareas-windows-inventor-ha-respondido-30-anos-despues-1387562'>Se queja de un error del Administrador de tareas de Windows y su inventor le ha respondido, 30 años después</a></h4>
+    <a href='https://computerhoy.com/windows/queja-error-administrador-tareas-windows-inventor-ha-respondido-30-anos-despues-1387562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuario-queja-administrador-tareas-windows-inventor-ha-respondido-3352755.jpg?tf=1200x' alt='Se queja de un error del Administrador de tareas de Windows y su inventor le ha respondido, 30 años después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-cada-modelo-caracteristicas-unicas-1383058'>Raspberry Pi: conoce cada modelo y sus especificaciones únicas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-cada-modelo-caracteristicas-unicas-1383058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Raspberry Pi: conoce cada modelo y sus especificaciones únicas' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241'>No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/antivirus-3339793.jpg?tf=1200x' alt='No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117'>He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332925.jpg?tf=1200x' alt='He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google' />
+    <h4><a href='https://computerhoy.com/windows/encender-apagar-pc-windows-error-1358506'>Este es el mayor error que estás cometiendo al encender y apagar tu PC con Windows</a></h4>
+    <a href='https://computerhoy.com/windows/encender-apagar-pc-windows-error-1358506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apagar-ordenador-3263866.jpg?tf=1200x' alt='Este es el mayor error que estás cometiendo al encender y apagar tu PC con Windows' />
     </a>
 </div>
 
