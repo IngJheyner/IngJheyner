@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/protege-privacidad-12-formas-movil-te-espia-sin-sospechas-1383938'>Aprende a proteger tu privacidad: 12 formas en que tu móvil te espía sin que lo sospeches</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protege-privacidad-12-formas-movil-te-espia-sin-sospechas-1383938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-formas-movil-te-espia-recopila-datos-sepas-3307828.jpg?tf=1200x' alt='Aprende a proteger tu privacidad: 12 formas en que tu móvil te espía sin que lo sospeches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117'>He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332925.jpg?tf=1200x' alt='He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-pc-teclado-1387027'>Con este truco he conseguido reiniciar mi PC desde el teclado y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reiniciar-pc-teclado-1387027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-he-conseguido-reiniciar-mi-pc-teclado-instalar-nada-3323428.jpg?tf=1200x' alt='Con este truco he conseguido reiniciar mi PC desde el teclado y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/agencia-espacial-europea-pondra-rover-marte-nasa-1387539'>Tras romper con Rusia, la Agencia Espacial Europea pondrá un rover en Marte con la NASA</a></h4>
     <a href='https://computerhoy.com/espacio/agencia-espacial-europea-pondra-rover-marte-nasa-1387539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/romper-rusia-agencia-espacial-europea-pondra-rover-marte-ayuda-nasa-3351365.jpg?tf=1200x' alt='Tras romper con Rusia, la Agencia Espacial Europea pondrá un rover en Marte con la NASA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/conceptos-nunca-debes-usar-hacer-bizum-no-quieres-meterte-lio-1387458'>Los conceptos que nunca debes usar al hacer un Bizum, si no quieres meterte en un lío</a></h4>
     <a href='https://computerhoy.com/apps/conceptos-nunca-debes-usar-hacer-bizum-no-quieres-meterte-lio-1387458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/posible-usar-bizum-dos-bancos-vez-unica-forma-conseguirlo-2965572.jpg?tf=1200x' alt='Los conceptos que nunca debes usar al hacer un Bizum, si no quieres meterte en un lío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nordvpn-he-probado-vpn-rapida-aplicacion-firestick-1372252'>Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nordvpn-he-probado-vpn-rapida-aplicacion-firestick-1372252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-3305525.jpg?tf=1200x' alt='Es la VPN más rápida que he probado y en mi Firestick no falta, e incluye una cosa que me encanta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tantos-ejecutivos-marchan-empresas-inteligencia-artificial-1387440'>Espantada general: ¿por qué tantos ejecutivos se marchan de las empresas de inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tantos-ejecutivos-marchan-empresas-inteligencia-artificial-1387440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/espantada-general-tantos-ejecutivos-marchan-empresas-inteligencia-artificial-3346945.jpg?tf=1200x' alt='Espantada general: ¿por qué tantos ejecutivos se marchan de las empresas de inteligencia artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-proyectos-1387533'>Raspberry Pi 5 vs. Orange Pi 5 Pro: diferencias y cuál es la mejor opción</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-proyectos-1387533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-3350410.jpg?tf=1200x' alt='Raspberry Pi 5 vs. Orange Pi 5 Pro: diferencias y cuál es la mejor opción' />
     </a>
 </div>
 
