@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622'>Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/opcion-recall-copilot-no-supone-riesgo-privacidad-como-parecia-3353825.jpg?tf=1200x' alt='Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957'>El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución</a></h4>
     <a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3294252.jpg?tf=1200x' alt='El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568'>Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cooler-master-pasta-termica-3353827.jpg?tf=1200x' alt='Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-musica-gratis-spotify-youtube-music-spotube-1353824'>Así es Spotube, la app donde puedes escuchar tus canciones de Spotify gratis, sin anuncios y de manera legal</a></h4>
-    <a href='https://computerhoy.com/apps/app-musica-gratis-spotify-youtube-music-spotube-1353824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/puedes-escuchar-musica-gratis-spotify-youtube-music-anuncios-manera-legal-3256020.jpg?tf=1200x' alt='Así es Spotube, la app donde puedes escuchar tus canciones de Spotify gratis, sin anuncios y de manera legal' />
     </a>
 </div>
 
