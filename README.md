@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193'>12 juegos para dos o tres personas desde el móvil que funcionan online</a></h4>
+    <a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-juegos-dos-tres-personas-movil-funcionan-online-3352330.jpg?tf=1200x' alt='12 juegos para dos o tres personas desde el móvil que funcionan online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tengo-ventilador-xiaomi-precio-tiene-me-volveria-comprar-dudarlo-1387545'>Tengo este ventilador Xiaomi y por el precio que tiene me lo volvería a comprar sin dudarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tengo-ventilador-xiaomi-precio-tiene-me-volveria-comprar-dudarlo-1387545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/08/ventilador-xiaomi-startmi-standing-fan-2s.jpg?tf=1200x' alt='Tengo este ventilador Xiaomi y por el precio que tiene me lo volvería a comprar sin dudarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/5-formas-ver-fps-juegos-pc-windows-11-1385482'>5 formas para ver los FPS de tus juegos en tu PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-formas-ver-fps-juegos-pc-windows-11-1385482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-ver-fps-juegos-pc-windows-11-3310435.jpg?tf=1200x' alt='5 formas para ver los FPS de tus juegos en tu PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/george-zhao-ceo-honor-ia-democratizada-empoderara-aun-personas-1387625'>George Zhao, CEO de Honor: "Una IA democratizada empoderará aún más a la personas"</a></h4>
     <a href='https://computerhoy.com/tecnologia/george-zhao-ceo-honor-ia-democratizada-empoderara-aun-personas-1387625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/honor-vivatech-3355047.jpg?tf=1200x' alt='George Zhao, CEO de Honor: "Una IA democratizada empoderará aún más a la personas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-1387537'>Cómo saber cuánta memoria RAM tiene tu ordenador con Windows, Mac o móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-1387537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-3351913.jpg?tf=1200x' alt='Cómo saber cuánta memoria RAM tiene tu ordenador con Windows, Mac o móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/todo-sobre-cache-cpu-rendimiento-pc-1383060'>Todo lo que debes saber sobre la caché de la CPU y su impacto en el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/pc/todo-sobre-cache-cpu-rendimiento-pc-1383060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cache-cpu-sirve-tan-importante-pc-3306197.jpg?tf=1200x' alt='Todo lo que debes saber sobre la caché de la CPU y su impacto en el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537'>Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-3312320.jpg?tf=1200x' alt='Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene' />
     </a>
 </div>
 
