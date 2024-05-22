@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/george-zhao-ceo-honor-ia-democratizada-empoderara-aun-personas-1387625'>George Zhao, CEO de Honor: "Una IA democratizada empoderará aún más a la personas"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/george-zhao-ceo-honor-ia-democratizada-empoderara-aun-personas-1387625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/honor-vivatech-3355047.jpg?tf=1200x' alt='George Zhao, CEO de Honor: "Una IA democratizada empoderará aún más a la personas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-1387537'>Cómo saber cuánta memoria RAM tiene tu ordenador con Windows, Mac o móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-1387537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-cuanta-memoria-ram-tiene-ordenador-windows-mac-movil-3351913.jpg?tf=1200x' alt='Cómo saber cuánta memoria RAM tiene tu ordenador con Windows, Mac o móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/todo-sobre-cache-cpu-rendimiento-pc-1383060'>Todo lo que debes saber sobre la caché de la CPU y su impacto en el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.com/pc/todo-sobre-cache-cpu-rendimiento-pc-1383060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/cache-cpu-sirve-tan-importante-pc-3306197.jpg?tf=1200x' alt='Todo lo que debes saber sobre la caché de la CPU y su impacto en el rendimiento de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537'>Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-3312320.jpg?tf=1200x' alt='Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-remake-peliculas-1355378'>5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake a gritos</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-remake-peliculas-1355378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake a gritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-cada-vez-engana-usuarios-1387447'>Sí, la inteligencia artificial cada vez engaña más a los usuarios</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-cada-vez-engana-usuarios-1387447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-cada-vez-engana-usuarios-revela-estudio-3347093.jpg?tf=1200x' alt='Sí, la inteligencia artificial cada vez engaña más a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162'>Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas' />
     </a>
 </div>
 
