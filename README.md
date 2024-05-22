@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380'>Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-3306870.jpg?tf=1200x' alt='Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567'>La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3296274.jpg?tf=1200x' alt='La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241'>No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/antivirus-3339793.jpg?tf=1200x' alt='No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/encender-apagar-pc-windows-error-1358506'>Este es el mayor error que estás cometiendo al encender y apagar tu PC con Windows</a></h4>
-    <a href='https://computerhoy.com/windows/encender-apagar-pc-windows-error-1358506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/apagar-ordenador-3263866.jpg?tf=1200x' alt='Este es el mayor error que estás cometiendo al encender y apagar tu PC con Windows' />
     </a>
 </div>
 
