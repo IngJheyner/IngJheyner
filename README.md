@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-proyectos-1387533'>Raspberry Pi 5 vs. Orange Pi 5 Pro: diferencias y cuál es la mejor opción</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-proyectos-1387533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-pi-5-vs-orange-pi-5-pro-diferencias-cual-mejor-opcion-3350410.jpg?tf=1200x' alt='Raspberry Pi 5 vs. Orange Pi 5 Pro: diferencias y cuál es la mejor opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/pixar-despidos-streaming-fracaso-1387534'>Pixar despide al 14% de su plantilla, centrarse en el streaming ha sido un fracaso</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pixar-despidos-streaming-fracaso-1387534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pixar-despide-14-ce-plantilla-reconoce-centrarse-streaming-ha-sido-fracaso-3350000.jpg?tf=1200x' alt='Pixar despide al 14% de su plantilla, centrarse en el streaming ha sido un fracaso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/smart-tv-va-lenta-estos-sencillos-trucos-solucionaran-problema-instante-1387523'>¿Tu Smart TV va lenta? Estos sencillos trucos solucionarán el problema al instante</a></h4>
     <a href='https://computerhoy.com/tv/smart-tv-va-lenta-estos-sencillos-trucos-solucionaran-problema-instante-1387523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/smart-tv-va-lenta-estos-sencillos-trucos-solucionaran-problema-instante-3349587.jpg?tf=1200x' alt='¿Tu Smart TV va lenta? Estos sencillos trucos solucionarán el problema al instante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517'>¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/aleluya-gran-problema-compatibilidad-amazon-fire-tv-ya-historia-1387517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/max-fire-tv-stick-3349156.jpg?tf=1200x' alt='¡Aleluya! El gran problema de compatibilidad de los Amazon Fire TV ya es historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/build-2024-microsoft-team-copilot-agentes-gpt-40o-1387522'>Build 2024 de Microsoft: Team Copilot, agentes de IA, GPT-4o, doblaje de vídeos de YouTube, y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/build-2024-microsoft-team-copilot-agentes-gpt-40o-1387522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/build-2024-microsoft-team-copilot-agentes-ia-doblaje-videos-youtube-3349153.jpg?tf=1200x' alt='Build 2024 de Microsoft: Team Copilot, agentes de IA, GPT-4o, doblaje de vídeos de YouTube, y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/salvador-utiliza-energia-volcan-minar-bitcoin-ya-ha-ganado-26-millones-euros-1387515'>El Salvador utiliza la energía de un volcán para minar Bitcoin y ya ha ganado más de 30 millones de euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/salvador-utiliza-energia-volcan-minar-bitcoin-ya-ha-ganado-26-millones-euros-1387515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bitcoin-salvador-3349151.jpg?tf=1200x' alt='El Salvador utiliza la energía de un volcán para minar Bitcoin y ya ha ganado más de 30 millones de euros' />
     </a>
 </div>
 
