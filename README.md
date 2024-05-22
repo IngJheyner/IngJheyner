@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-consuma-desproposito-busca-comprador-semanas-despues-lanzamiento-1387578'>Humane AI consuma el despropósito y busca comprador semanas después de su lanzamiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humane-ai-consuma-desproposito-busca-comprador-semanas-despues-lanzamiento-1387578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-busca-compradores-apenas-unas-semanas-lanzamiento-primer-wearable-3353077.jpg?tf=1200x' alt='Humane AI consuma el despropósito y busca comprador semanas después de su lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raton-vertical-me-ayuda-trabajar-te-preocupa-salud-te-recomiendo-comprarlo-1387561'>Este ratón vertical me ayuda a trabajar y, si te preocupa tu salud, te recomiendo comprarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raton-vertical-me-ayuda-trabajar-te-preocupa-salud-te-recomiendo-comprarlo-1387561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/logitech-lift-2997880.jpg?tf=1200x' alt='Este ratón vertical me ayuda a trabajar y, si te preocupa tu salud, te recomiendo comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/lucha-pirateria-iptv-ilegales-chivatos-recompensas-1385067'>La lucha contra la piratería y las IPTV ilegales tiene una nueva estrategia: dar recompensas a los chivatos</a></h4>
+    <a href='https://computerhoy.com/internet/lucha-pirateria-iptv-ilegales-chivatos-recompensas-1385067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultima-tactica-acabar-pirateria-iptv-ofrecer-recompensas-chivatos-3309690.jpg?tf=1200x' alt='La lucha contra la piratería y las IPTV ilegales tiene una nueva estrategia: dar recompensas a los chivatos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380'>Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones</a></h4>
     <a href='https://computerhoy.com/tutoriales/modo-confidencial-gmail-protege-correos-filtraciones-1383380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-enviar-correos-confidenciales-gmail-deberias-hacerlo-3306870.jpg?tf=1200x' alt='Aprende a usar el modo confidencial de Gmail: protege tus correos y evita filtraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567'>La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-ofrecera-ancho-banda-10-veces-mayor-ddr4-1387567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/memoria-ram-3296274.jpg?tf=1200x' alt='La memoria DDR6 para PC ofrecerá un ancho de banda 10 veces mayor que la DDR4, según Synopsys' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/queja-error-administrador-tareas-windows-inventor-ha-respondido-30-anos-despues-1387562'>Se queja de un error del Administrador de tareas de Windows y su inventor le ha respondido, 30 años después</a></h4>
-    <a href='https://computerhoy.com/windows/queja-error-administrador-tareas-windows-inventor-ha-respondido-30-anos-despues-1387562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuario-queja-administrador-tareas-windows-inventor-ha-respondido-3352755.jpg?tf=1200x' alt='Se queja de un error del Administrador de tareas de Windows y su inventor le ha respondido, 30 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241'>No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-te-juegues-datos-estos-5-antivirus-son-conocidos-baratos-solo-14-euros-1387241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/antivirus-3339793.jpg?tf=1200x' alt='No te la juegues con tus datos: estos 5 antivirus son conocidos y baratos, desde solo 14 euros' />
     </a>
 </div>
 
