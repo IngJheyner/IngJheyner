@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696'>Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosas-dudosas-no-puedes-hacer-flipper-zero-3357176.jpg?tf=1200x' alt='Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710'>Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-12-3356344.jpg?tf=1200x' alt='Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706'>La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone</a></h4>
     <a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-3356316.jpg?tf=1200x' alt='La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-1387675'>¿Cómo captura Google Maps los lugares donde no se permiten coches? La curiosa historia de la Isla Mackinac</a></h4>
-    <a href='https://computerhoy.com/google/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-1387675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-captura-google-maps-lugares-donde-no-permiten-coches-curiosa-historia-isla-mackinac-3356172.jpg?tf=1200x' alt='¿Cómo captura Google Maps los lugares donde no se permiten coches? La curiosa historia de la Isla Mackinac' />
     </a>
 </div>
 
