@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162'>Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622'>Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/opcion-recall-copilot-no-supone-riesgo-privacidad-como-parecia-3353825.jpg?tf=1200x' alt='Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597'>El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-3353382.jpg?tf=1200x' alt='El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568'>Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cooler-master-estrena-pasta-termica-colores-tecnologia-nanodiamantes-1387568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cooler-master-pasta-termica-3353827.jpg?tf=1200x' alt='Cooler Master estrena una pasta térmica de colores que viene con tecnología de nanodiamantes' />
     </a>
 </div>
 
