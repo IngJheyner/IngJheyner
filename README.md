@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiar-smartwatch-premium-smartband-bateria-1382965'>He abandonado un smartwatch premium y he vuelto a mi smartband un año después: la razón detrás del cambio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiar-smartwatch-premium-smartband-bateria-1382965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/galaxy-watch-6-3306758.jpg?tf=1200x' alt='He abandonado un smartwatch premium y he vuelto a mi smartband un año después: la razón detrás del cambio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/grok-ia-elon-musk-ya-tiene-ojos-1387553'>Grok, la IA de Elon Musk, ya tiene ojos</a></h4>
     <a href='https://computerhoy.com/tecnologia/grok-ia-elon-musk-ya-tiene-ojos-1387553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok, la IA de Elon Musk, ya tiene ojos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117'>He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google</a></h4>
     <a href='https://computerhoy.com/analisis/huawei-pura-70-ultra-analisis-opinion-1387117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332925.jpg?tf=1200x' alt='He probado el Huawei Pura 70 Ultra, sus cámaras son alucinantes y sí, hay vida más allá de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reiniciar-pc-teclado-1387027'>Con este truco he conseguido reiniciar mi PC desde el teclado y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reiniciar-pc-teclado-1387027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-he-conseguido-reiniciar-mi-pc-teclado-instalar-nada-3323428.jpg?tf=1200x' alt='Con este truco he conseguido reiniciar mi PC desde el teclado y sin instalar nada' />
     </a>
 </div>
 
