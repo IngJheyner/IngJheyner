@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/frases-prohibidas-ocu-escuchas-llamada-cuelga-inmediatamente-estafa-1387613'>Frases prohibidas, según la OCU: si las escuchas en una llamada cuelga inmediatamente, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/frases-prohibidas-ocu-escuchas-llamada-cuelga-inmediatamente-estafa-1387613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mujer-sorprendida-hablando-movil-3353986.jpg?tf=1200x' alt='Frases prohibidas, según la OCU: si las escuchas en una llamada cuelga inmediatamente, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/primer-trailer-witcher-liam-hemsworth-como-geralt-rivia-1387692'>Primer tráiler de The Witcher con Liam Hemsworth como Geralt de Rivia</a></h4>
     <a href='https://computerhoy.com/entretenimiento/primer-trailer-witcher-liam-hemsworth-como-geralt-rivia-1387692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716397189365-3355644.jpg?tf=1200x' alt='Primer tráiler de The Witcher con Liam Hemsworth como Geralt de Rivia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-busquedas-menu-inicio-windows-11-1386830'>Cómo ocultar las búsquedas del menú de inicio de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ocultar-busquedas-menu-inicio-windows-11-1386830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ocultar-busquedas-menu-inicio-windows-11-3318401.jpg?tf=1200x' alt='Cómo ocultar las búsquedas del menú de inicio de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193'>12 juegos para dos o tres personas desde el móvil que funcionan online</a></h4>
-    <a href='https://computerhoy.com/listas/gaming/juegos-dos-tres-personas-movil-online-611193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-juegos-dos-tres-personas-movil-funcionan-online-3352330.jpg?tf=1200x' alt='12 juegos para dos o tres personas desde el móvil que funcionan online' />
     </a>
 </div>
 
