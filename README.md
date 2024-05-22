@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537'>Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-1386537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-forzar-uso-wifi-5-ghz-windows-11-beneficios-tiene-3312320.jpg?tf=1200x' alt='Cómo forzar el uso del WiFi de 5 GHz en Windows 11 y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-remake-peliculas-1355378'>5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake a gritos</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ciencia-ficcion-remake-peliculas-1355378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/5-miticas-peliculas-ciencia-ficcion-80-piden-remake-gritos-3258544.jpg?tf=1200x' alt='5 películas míticas de ciencia ficción de los 80 que están pidiendo un remake a gritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-cada-vez-engana-usuarios-1387447'>Sí, la inteligencia artificial cada vez engaña más a los usuarios</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-cada-vez-engana-usuarios-1387447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-cada-vez-engana-usuarios-revela-estudio-3347093.jpg?tf=1200x' alt='Sí, la inteligencia artificial cada vez engaña más a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162'>Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas</a></h4>
     <a href='https://computerhoy.com/tecnologia/seeds-ia-google-predicciones-tiempo-catastrofes-1384162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-crea-inteligencia-artificial-capaz-predecir-futuras-catastrofes-climaticas-3308104.jpg?tf=1200x' alt='Así es SEEDS: la IA de Google que mejora las predicciones del tiempo y posibles catástrofes climáticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622'>Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-asegura-informacion-recall-ha-sido-manipulada-no-riesgo-privacidad-1387622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/opcion-recall-copilot-no-supone-riesgo-privacidad-como-parecia-3353825.jpg?tf=1200x' alt='Microsoft asegura que la información sobre Recall ha sido manipulada: "no es un riesgo para tu privacidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957'>El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución</a></h4>
-    <a href='https://computerhoy.com/motor/enigma-xiaomi-su7-averia-39-kilometros-sin-solucion-1386957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-su7-3294252.jpg?tf=1200x' alt='El enigma de este Xiaomi SU7 desconcierta a los expertos: se avería a los 39 km y no tiene solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597'>El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-1387597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-marcas-peor-pronunciadas-mundo-ojo-espanola-3353382.jpg?tf=1200x' alt='El Google Maps de las marcas peor pronunciadas del mundo: ojo a la española' />
     </a>
 </div>
 
