@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912'>Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo</a></h4>
     <a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899'>Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886'>PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis</a></h4>
-    <a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-3363002.jpg?tf=1200x' alt='PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis' />
     </a>
 </div>
 
