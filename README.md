@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208'>7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ajustes-tv-3361393.jpg?tf=1200x' alt='7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863'>Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-3362431.jpg?tf=1200x' alt='Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
-    <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
+    <h4><a href='https://computerhoy.com/hogar/5-ofertas-ventiladores-adelantarte-primeros-dias-calor-1387688'>5 ofertas en ventiladores para adelantarte a los primeros días de calor</a></h4>
+    <a href='https://computerhoy.com/hogar/5-ofertas-ventiladores-adelantarte-primeros-dias-calor-1387688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3055272.jpg?tf=1200x' alt='5 ofertas en ventiladores para adelantarte a los primeros días de calor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063'>Cómo grabar la pantalla en Windows 10 sin programas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-pantalla-windows-10-programas-3358704.jpg?tf=1200x' alt='Cómo grabar la pantalla en Windows 10 sin programas' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569'>La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
-    <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640'>Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cientificos-pelos-lengua-inteligencia-artificial-podria-suponer-fin-humanidad-3354425.jpg?tf=1200x' alt='Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”' />
     </a>
 </div>
 
