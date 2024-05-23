@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063'>Cómo grabar la pantalla en Windows 10 sin programas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-pantalla-windows-10-programas-3358704.jpg?tf=1200x' alt='Cómo grabar la pantalla en Windows 10 sin programas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
     <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804'>Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-12-pc-3360934.jpg?tf=1200x' alt='Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927'>Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM</a></h4>
-    <a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-3264445.jpg?tf=1200x' alt='Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM' />
     </a>
 </div>
 
