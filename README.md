@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meses-espera-llega-waze-funcion-solicitada-usuarios-1387775'>Tras meses de espera llega a Waze la función más solicitada por sus usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/meses-espera-llega-waze-funcion-solicitada-usuarios-1387775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/meses-espera-llega-waze-funcion-solicitada-usuarios-3360001.jpg?tf=1200x' alt='Tras meses de espera llega a Waze la función más solicitada por sus usuarios' />
+    <h4><a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927'>Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM</a></h4>
+    <a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-3264445.jpg?tf=1200x' alt='Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218'>32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top</a></h4>
-    <a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-windows-11-menos-200-euros-1333712'>No es un error de precio: este portátil con Windows 11 y solo 1,5 kg cuesta menos de 200€</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-chino-windows-11-menos-200-euros-1333712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No es un error de precio: este portátil con Windows 11 y solo 1,5 kg cuesta menos de 200€' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/perdido-google-maps-calibrar-brujula-evita-errores-ruta-1353785'>¿Perdido con Google Maps? Aprende a calibrar tu brújula y evita errores en tu próxima ruta</a></h4>
-    <a href='https://computerhoy.com/apps/perdido-google-maps-calibrar-brujula-evita-errores-ruta-1353785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-puedes-mejorar-precision-funcionamiento-google-maps-3255973.jpg?tf=1200x' alt='¿Perdido con Google Maps? Aprende a calibrar tu brújula y evita errores en tu próxima ruta' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?</a></h4>
-    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?' />
+    <h4><a href='https://computerhoy.com/tecnologia/activa-magia-pip-smart-tv-entretenimiento-1352556'>Activa la magia del PiP en tu Smart TV y multiplica tu entretenimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/activa-magia-pip-smart-tv-entretenimiento-1352556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-pip-smart-tv-funcion-no-sabias-necesitabas-3253709.jpg?tf=1200x' alt='Activa la magia del PiP en tu Smart TV y multiplica tu entretenimiento' />
     </a>
 </div>
 
