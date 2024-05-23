@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719'>Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa</a></h4>
+    <a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-estan-aqui-nuevos-emojis-cara-ojeras-seguro-arrasa-3356485.jpg?tf=1200x' alt='Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696'>Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosas-dudosas-no-puedes-hacer-flipper-zero-3357176.jpg?tf=1200x' alt='Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709'>Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa</a></h4>
     <a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-invierte-15700-millones-euros-centros-datos-aragon-mayor-inversion-sur-europa-3356067.jpg?tf=1200x' alt='Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706'>La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/persona-puso-i-productos-apple-cree-deberia-eliminar-iphone-1387706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-3356316.jpg?tf=1200x' alt='La persona que puso la 'i' a los productos Apple cree que se debería eliminar de los iPhone' />
     </a>
 </div>
 
