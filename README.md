@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912'>Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886'>PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis</a></h4>
     <a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-3363002.jpg?tf=1200x' alt='PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663'>No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-solo-furiosa-5-peliculas-claramente-inspiradas-saga-mad-max-3354885.jpg?tf=1200x' alt='No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max' />
     </a>
 </div>
 
