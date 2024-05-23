@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/3-decisiones-hacen-vida-sea-feliz-experto-harvard-1381788'>3 decisiones que hacen que tu vida sea más feliz, según un experto de Harvard</a></h4>
+    <a href='https://computerhoy.com/life/3-decisiones-hacen-vida-sea-feliz-experto-harvard-1381788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-decisiones-hacen-vida-sea-feliz-experto-harvard-3303621.jpg?tf=1200x' alt='3 decisiones que hacen que tu vida sea más feliz, según un experto de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722'>Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica</a></h4>
     <a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-music-desvela-lista-10-mejores-albumes-musica-historia-3357593.jpg?tf=1200x' alt='Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719'>Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa</a></h4>
     <a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-estan-aqui-nuevos-emojis-cara-ojeras-seguro-arrasa-3356485.jpg?tf=1200x' alt='Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696'>Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosas-dudosas-no-puedes-hacer-flipper-zero-3357176.jpg?tf=1200x' alt='Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero' />
     </a>
 </div>
 
