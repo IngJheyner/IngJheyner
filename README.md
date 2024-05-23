@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493'>LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732'>Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie</a></h4>
     <a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716440179358-3358982.jpg?tf=1200x' alt='Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633'>Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria</a></h4>
     <a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cerebro-bill-gates-3355493.jpg?tf=1200x' alt='Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746'>Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientos-productos-amazon-ebay-llaman-siento-peticion-va-politica-openai-3260887.jpg?tf=1200x' alt='Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"' />
     </a>
 </div>
 
