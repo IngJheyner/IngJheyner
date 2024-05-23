@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722'>Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica</a></h4>
+    <a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-music-desvela-lista-10-mejores-albumes-musica-historia-3357593.jpg?tf=1200x' alt='Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717'>Mini PC como ordenador gaming: ¿son una buena opción para jugar?</a></h4>
     <a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-3357594.jpg?tf=1200x' alt='Mini PC como ordenador gaming: ¿son una buena opción para jugar?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696'>Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero</a></h4>
     <a href='https://computerhoy.com/tecnologia/cosas-dudosas-no-puedes-hacer-flipper-zero-1387696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosas-dudosas-no-puedes-hacer-flipper-zero-3357176.jpg?tf=1200x' alt='Cosas "dudosas" (o no) que puedes hacer con un Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710'>Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-12-3356344.jpg?tf=1200x' alt='Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene' />
     </a>
 </div>
 
