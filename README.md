@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
+    <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063'>Cómo grabar la pantalla en Windows 10 sin programas</a></h4>
     <a href='https://computerhoy.com/tutoriales/tecnologia/como-grabar-pantalla-windows-10-programas-287063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-grabar-pantalla-windows-10-programas-3358704.jpg?tf=1200x' alt='Cómo grabar la pantalla en Windows 10 sin programas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242'>Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos</a></h4>
     <a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804'>Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-12-pc-3360934.jpg?tf=1200x' alt='Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto' />
     </a>
 </div>
 
