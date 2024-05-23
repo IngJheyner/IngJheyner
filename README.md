@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/meses-espera-llega-waze-funcion-solicitada-usuarios-1387775'>Tras meses de espera llega a Waze la función más solicitada por sus usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/meses-espera-llega-waze-funcion-solicitada-usuarios-1387775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/meses-espera-llega-waze-funcion-solicitada-usuarios-3360001.jpg?tf=1200x' alt='Tras meses de espera llega a Waze la función más solicitada por sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218'>32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top</a></h4>
     <a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?</a></h4>
     <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746'>Crecen los rumores de un nuevo canal de TDT generalista, el primero en muchos años</a></h4>
-    <a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-3359699.jpg?tf=1200x' alt='Crecen los rumores de un nuevo canal de TDT generalista, el primero en muchos años' />
     </a>
 </div>
 
