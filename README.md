@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816'>Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo</a></h4>
+    <a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tom-hanks-salvar-soldado-ryan-3361390.jpg?tf=1200x' alt='Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863'>Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-3362431.jpg?tf=1200x' alt='Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569'>La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640'>Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cientificos-pelos-lengua-inteligencia-artificial-podria-suponer-fin-humanidad-3354425.jpg?tf=1200x' alt='Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”' />
     </a>
 </div>
 
