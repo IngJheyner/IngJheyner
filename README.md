@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744'>La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5</a></h4>
+    <a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/primera-bateria-agua-china-doble-capacidad-litio-1384318'>La primera batería de agua de China promete el doble de capacidad que las de litio</a></h4>
+    <a href='https://computerhoy.com/energia/primera-bateria-agua-china-doble-capacidad-litio-1384318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-3308409.jpg?tf=1200x' alt='La primera batería de agua de China promete el doble de capacidad que las de litio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/5-televisores-oled-buen-precio-dar-salto-antes-eurocopa-2024-1387585'>5 televisores OLED a buen precio para dar el salto antes de la Eurocopa 2024</a></h4>
+    <a href='https://computerhoy.com/tv/5-televisores-oled-buen-precio-dar-salto-antes-eurocopa-2024-1387585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/disfruta-eurocopa-manera-inteligente-mejor-calidad-imagen-televisores-lg-2378623.jpg?tf=1200x' alt='5 televisores OLED a buen precio para dar el salto antes de la Eurocopa 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493'>LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV</a></h4>
     <a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732'>Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie</a></h4>
-    <a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716440179358-3358982.jpg?tf=1200x' alt='Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/6-cosas-solo-notas-movil-reloj-despues-varios-meses-1383838'>Llevo años probando tecnología y hay 6 cosas que solo noto después de muchos meses de uso en un móvil o reloj</a></h4>
-    <a href='https://computerhoy.com/tecnologia/6-cosas-solo-notas-movil-reloj-despues-varios-meses-1383838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-pro-google-pixel-watch-2-3308474.jpg?tf=1200x' alt='Llevo años probando tecnología y hay 6 cosas que solo noto después de muchos meses de uso en un móvil o reloj' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633'>Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria</a></h4>
-    <a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cerebro-bill-gates-3355493.jpg?tf=1200x' alt='Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria' />
     </a>
 </div>
 
