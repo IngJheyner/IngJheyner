@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-quiere-destronar-ipad-140-euros-barata-va-agotar-1387493'>La tablet de Samsung que quiere destronar al iPad es 140 euros más barata, y se va a agotar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tablet-samsung-quiere-destronar-ipad-140-euros-barata-va-agotar-1387493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-tab-s9-fe-3348249.jpg?tf=1200x' alt='La tablet de Samsung que quiere destronar al iPad es 140 euros más barata, y se va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752'>Bill Gates ya tiene planes para el verano y estos son los libros que te recomienda</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates ya tiene planes para el verano y estos son los libros que te recomienda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/final-teletrabajo-sam-altman-creador-chatgpt-error-1384339'>¿Es el fin del teletrabajo? Sam Altman, creador de ChatGPT, cree que "ha sido un error”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/final-teletrabajo-sam-altman-creador-chatgpt-error-1384339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='¿Es el fin del teletrabajo? Sam Altman, creador de ChatGPT, cree que "ha sido un error”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744'>La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5</a></h4>
     <a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/primera-bateria-agua-china-doble-capacidad-litio-1384318'>La primera batería de agua de China promete el doble de capacidad que las de litio</a></h4>
-    <a href='https://computerhoy.com/energia/primera-bateria-agua-china-doble-capacidad-litio-1384318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-creado-primera-bateria-agua-doble-capacidad-litio-3308409.jpg?tf=1200x' alt='La primera batería de agua de China promete el doble de capacidad que las de litio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/5-televisores-oled-buen-precio-dar-salto-antes-eurocopa-2024-1387585'>5 televisores OLED a buen precio para dar el salto antes de la Eurocopa 2024</a></h4>
-    <a href='https://computerhoy.com/tv/5-televisores-oled-buen-precio-dar-salto-antes-eurocopa-2024-1387585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/disfruta-eurocopa-manera-inteligente-mejor-calidad-imagen-televisores-lg-2378623.jpg?tf=1200x' alt='5 televisores OLED a buen precio para dar el salto antes de la Eurocopa 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493'>LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/internet/laliga-no-tregua-pueden-rastrearte-futbol-gratis-iptv-1384493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/formas-puedes-ser-rastreado-ver-futbol-gratis-iptv-3308686.jpg?tf=1200x' alt='LaLiga no da tregua: así pueden rastrearte si ves fútbol gratis por IPTV' />
     </a>
 </div>
 
