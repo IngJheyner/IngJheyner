@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899'>Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663'>No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-solo-furiosa-5-peliculas-claramente-inspiradas-saga-mad-max-3354885.jpg?tf=1200x' alt='No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816'>Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo</a></h4>
-    <a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tom-hanks-salvar-soldado-ryan-3361390.jpg?tf=1200x' alt='Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo' />
     </a>
 </div>
 
