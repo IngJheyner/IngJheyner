@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tablet-samsung-quiere-destronar-ipad-140-euros-barata-va-agotar-1387493'>La tablet de Samsung que quiere destronar al iPad es 140 euros más barata, y se va a agotar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tablet-samsung-quiere-destronar-ipad-140-euros-barata-va-agotar-1387493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-tab-s9-fe-3348249.jpg?tf=1200x' alt='La tablet de Samsung que quiere destronar al iPad es 140 euros más barata, y se va a agotar' />
+    <h4><a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218'>32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top</a></h4>
+    <a href='https://computerhoy.com/tecnologia/32gb-ram-intel-core-i9-bestia-pc-pone-amazon-patas-arriba-oferta-top-1387218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/intel-core-i9-3209128.jpg?tf=1200x' alt='32GB de RAM e Intel Core i9: esta bestia de PC pone Amazon patas arriba con una oferta top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752'>Bill Gates ya tiene planes para el verano y estos son los libros que te recomienda</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates ya tiene planes para el verano y estos son los libros que te recomienda' />
+    <h4><a href='https://computerhoy.com/apps/perdido-google-maps-calibrar-brujula-evita-errores-ruta-1353785'>¿Perdido con Google Maps? Aprende a calibrar tu brújula y evita errores en tu próxima ruta</a></h4>
+    <a href='https://computerhoy.com/apps/perdido-google-maps-calibrar-brujula-evita-errores-ruta-1353785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-puedes-mejorar-precision-funcionamiento-google-maps-3255973.jpg?tf=1200x' alt='¿Perdido con Google Maps? Aprende a calibrar tu brújula y evita errores en tu próxima ruta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/final-teletrabajo-sam-altman-creador-chatgpt-error-1384339'>¿Es el fin del teletrabajo? Sam Altman, creador de ChatGPT, cree que "ha sido un error”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/final-teletrabajo-sam-altman-creador-chatgpt-error-1384339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='¿Es el fin del teletrabajo? Sam Altman, creador de ChatGPT, cree que "ha sido un error”' />
+    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?</a></h4>
+    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='¿Es cierto que pulsar este botón de WhatsApp evita que te rastreen?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744'>La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5</a></h4>
-    <a href='https://computerhoy.com/pc/memoria-ddr6-pc-llegaria-21-gbps-casi-triplicando-velocidades-ddr5-1387744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/informatica-viviendo-mayor-cambio-ram-ultimos-anos-3310121.jpg?tf=1200x' alt='La memoria DDR6 para PC llegaría hasta los 21 Gbps, casi triplicando velocidades de DDR5' />
+    <h4><a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746'>Crecen los rumores de un nuevo canal de TDT generalista, el primero en muchos años</a></h4>
+    <a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-3359699.jpg?tf=1200x' alt='Crecen los rumores de un nuevo canal de TDT generalista, el primero en muchos años' />
     </a>
 </div>
 
