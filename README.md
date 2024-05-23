@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208'>7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ajustes-tv-3361393.jpg?tf=1200x' alt='7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
     <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
     <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242'>Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos</a></h4>
-    <a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos' />
     </a>
 </div>
 
