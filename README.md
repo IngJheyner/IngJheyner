@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
+    <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242'>Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos</a></h4>
+    <a href='https://computerhoy.com/moviles/poco-f6-poco-f6-pro-caracteristicas-precios-informacion-1387242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='Así son los nuevos POCO F6 y F6 Pro, que puedes cargar al 100% en menos de 19 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804'>Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-12-pc-3360934.jpg?tf=1200x' alt='Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927'>Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM</a></h4>
     <a href='https://computerhoy.com/pc/segunda-vida-pc-linux-lite-distro-ligera-1358927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/linux-lite-como-devolver-vida-cualquier-pc-muy-viejo-sea-3264445.jpg?tf=1200x' alt='Da una segunda vida a tu PC con Linux Lite: la distro que funciona con menos de 1 GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-chino-windows-11-menos-200-euros-1333712'>No es un error de precio: este portátil con Windows 11 y solo 1,5 kg cuesta menos de 200€</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-chino-windows-11-menos-200-euros-1333712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='No es un error de precio: este portátil con Windows 11 y solo 1,5 kg cuesta menos de 200€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/activa-magia-pip-smart-tv-entretenimiento-1352556'>Activa la magia del PiP en tu Smart TV y multiplica tu entretenimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/activa-magia-pip-smart-tv-entretenimiento-1352556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-activar-pip-smart-tv-funcion-no-sabias-necesitabas-3253709.jpg?tf=1200x' alt='Activa la magia del PiP en tu Smart TV y multiplica tu entretenimiento' />
     </a>
 </div>
 
