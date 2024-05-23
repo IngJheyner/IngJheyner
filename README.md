@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717'>Mini PC como ordenador gaming: ¿son una buena opción para jugar?</a></h4>
+    <a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-3357594.jpg?tf=1200x' alt='Mini PC como ordenador gaming: ¿son una buena opción para jugar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719'>Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa</a></h4>
     <a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-estan-aqui-nuevos-emojis-cara-ojeras-seguro-arrasa-3356485.jpg?tf=1200x' alt='Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710'>Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-12-ya-disponible-todos-como-actualizar-ultima-version-novedades-tiene-1387710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-12-3356344.jpg?tf=1200x' alt='Android Auto 12 ya disponible para todos: cómo actualizar a la última versión y qué novedades tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709'>Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-invierte-15700-millones-euros-centros-datos-aragon-1387709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/amazon-invierte-15700-millones-euros-centros-datos-aragon-mayor-inversion-sur-europa-3356067.jpg?tf=1200x' alt='Amazon invierte 15.700 millones de euros en centros de datos en Aragón, la mayor inversión en el sur de Europa' />
     </a>
 </div>
 
