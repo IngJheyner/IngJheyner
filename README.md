@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/3-decisiones-hacen-vida-sea-feliz-experto-harvard-1381788'>3 decisiones que hacen que tu vida sea más feliz, según un experto de Harvard</a></h4>
-    <a href='https://computerhoy.com/life/3-decisiones-hacen-vida-sea-feliz-experto-harvard-1381788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/3-decisiones-hacen-vida-sea-feliz-experto-harvard-3303621.jpg?tf=1200x' alt='3 decisiones que hacen que tu vida sea más feliz, según un experto de Harvard' />
+    <h4><a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746'>Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientos-productos-amazon-ebay-llaman-siento-peticion-va-politica-openai-3260887.jpg?tf=1200x' alt='Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722'>Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica</a></h4>
-    <a href='https://computerhoy.com/apple/apple-music-10-mejores-albumes-musica-historia-1387722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-music-desvela-lista-10-mejores-albumes-musica-historia-3357593.jpg?tf=1200x' alt='Apple Music elige los 10 mejores álbumes de música de la historia, y hay polémica' />
+    <h4><a href='https://computerhoy.com/tecnologia/mas-ha-gustado-xiaomi-pad-6s-pro-12-4-pantalla-tamano-1386430'>Lo que más me ha gustado de Xiaomi Pad 6S Pro 12.4 es su pantalla y tamaño</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mas-ha-gustado-xiaomi-pad-6s-pro-12-4-pantalla-tamano-1386430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-pad-6s-pro-124-00004jpg-3311476.jpg?tf=1200x' alt='Lo que más me ha gustado de Xiaomi Pad 6S Pro 12.4 es su pantalla y tamaño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717'>Mini PC como ordenador gaming: ¿son una buena opción para jugar?</a></h4>
-    <a href='https://computerhoy.com/pc/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-1387717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mini-pc-como-ordenador-gaming-son-buena-opcion-jugar-3357594.jpg?tf=1200x' alt='Mini PC como ordenador gaming: ¿son una buena opción para jugar?' />
+    <h4><a href='https://computerhoy.com/motor/hypersquare-peugeot-volante-coche-futuro-1387630'>¿Es el Hypersquare de Peugeot el volante del coche del futuro? </a></h4>
+    <a href='https://computerhoy.com/motor/hypersquare-peugeot-volante-coche-futuro-1387630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peugeot-inception-concept-hypersquare-3354136.jpg?tf=1200x' alt='¿Es el Hypersquare de Peugeot el volante del coche del futuro? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719'>Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa</a></h4>
-    <a href='https://computerhoy.com/internet/siete-nuevos-emojis-cara-ojeras-1387719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ya-estan-aqui-nuevos-emojis-cara-ojeras-seguro-arrasa-3356485.jpg?tf=1200x' alt='Se presentan siete nuevos emojis, la cara con ojeras seguro que arrasa' />
+    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-rebaja-aliexpress-1317024'>Xiaomi la lía y desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-rebaja-aliexpress-1317024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi la lía y desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED' />
     </a>
 </div>
 
