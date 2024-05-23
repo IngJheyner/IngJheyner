@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899'>Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886'>PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis</a></h4>
+    <a href='https://computerhoy.com/apps/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-1387886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/potplayer-alternativa-vlc-muchos-mejor-reproductor-multimedia-gratis-3363002.jpg?tf=1200x' alt='PotPlayer, la alternativa a VLC y para muchos el mejor reproductor multimedia gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663'>No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-solo-furiosa-5-peliculas-claramente-inspiradas-saga-mad-max-3354885.jpg?tf=1200x' alt='No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816'>Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo</a></h4>
     <a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tom-hanks-salvar-soldado-ryan-3361390.jpg?tf=1200x' alt='Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863'>Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-3362431.jpg?tf=1200x' alt='Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/5-ofertas-ventiladores-adelantarte-primeros-dias-calor-1387688'>5 ofertas en ventiladores para adelantarte a los primeros días de calor</a></h4>
-    <a href='https://computerhoy.com/hogar/5-ofertas-ventiladores-adelantarte-primeros-dias-calor-1387688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/ventilador-3055272.jpg?tf=1200x' alt='5 ofertas en ventiladores para adelantarte a los primeros días de calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569'>La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona' />
     </a>
 </div>
 
