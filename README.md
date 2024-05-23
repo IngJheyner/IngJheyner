@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732'>Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie</a></h4>
+    <a href='https://computerhoy.com/life/seabike-pro-pedales-acuaticos-nadar-bucear-rapido-1387732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716440179358-3358982.jpg?tf=1200x' alt='Seabike Pro, los pedales acuáticos para nadar y bucear más rápido que nadie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/6-cosas-solo-notas-movil-reloj-despues-varios-meses-1383838'>Llevo años probando tecnología y hay 6 cosas que solo noto después de muchos meses de uso en un móvil o reloj</a></h4>
+    <a href='https://computerhoy.com/tecnologia/6-cosas-solo-notas-movil-reloj-despues-varios-meses-1383838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-pro-google-pixel-watch-2-3308474.jpg?tf=1200x' alt='Llevo años probando tecnología y hay 6 cosas que solo noto después de muchos meses de uso en un móvil o reloj' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633'>Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria</a></h4>
+    <a href='https://computerhoy.com/life/juego-favorito-recurre-bill-gates-fortalecer-memoria-1387633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cerebro-bill-gates-3355493.jpg?tf=1200x' alt='Este es el juego favorito al que recurre Bill Gates para fortalecer su memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746'>Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"</a></h4>
     <a href='https://computerhoy.com/tecnologia/productos-amazon-chatgpt-spam-1356746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/cientos-productos-amazon-ebay-llaman-siento-peticion-va-politica-openai-3260887.jpg?tf=1200x' alt='Cada vez más productos de Amazon y eBay se llaman "Su petición va en contra de la política de OpenAI"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mas-ha-gustado-xiaomi-pad-6s-pro-12-4-pantalla-tamano-1386430'>Lo que más me ha gustado de Xiaomi Pad 6S Pro 12.4 es su pantalla y tamaño</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mas-ha-gustado-xiaomi-pad-6s-pro-12-4-pantalla-tamano-1386430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-pad-6s-pro-124-00004jpg-3311476.jpg?tf=1200x' alt='Lo que más me ha gustado de Xiaomi Pad 6S Pro 12.4 es su pantalla y tamaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/hypersquare-peugeot-volante-coche-futuro-1387630'>¿Es el Hypersquare de Peugeot el volante del coche del futuro? </a></h4>
-    <a href='https://computerhoy.com/motor/hypersquare-peugeot-volante-coche-futuro-1387630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/peugeot-inception-concept-hypersquare-3354136.jpg?tf=1200x' alt='¿Es el Hypersquare de Peugeot el volante del coche del futuro? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-rebaja-aliexpress-1317024'>Xiaomi la lía y desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.com/tecnologia/movil-xiaomi-5g-rebaja-aliexpress-1317024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-redmi-note-13-pro-5g-3283385.jpg?tf=1200x' alt='Xiaomi la lía y desploma el precio de uno de sus móviles más top, con 5G y pantalla AMOLED' />
     </a>
 </div>
 
