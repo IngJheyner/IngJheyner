@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
+    <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad-precio que puedes comprar</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad-precio que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
     <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663'>No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-solo-furiosa-5-peliculas-claramente-inspiradas-saga-mad-max-3354885.jpg?tf=1200x' alt='No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/grandes-peliculas-culto-hoy-estarian-completamente-prohibidas-1387880'>5 grandes películas de culto que hoy estarían completamente prohibidas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/grandes-peliculas-culto-hoy-estarian-completamente-prohibidas-1387880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-grandes-peliculas-culto-hoy-estarian-completamente-prohibidas-3362277.jpg?tf=1200x' alt='5 grandes películas de culto que hoy estarían completamente prohibidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052'>¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones</a></h4>
-    <a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-3369581.jpg?tf=1200x' alt='¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
-    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
     </a>
 </div>
 
