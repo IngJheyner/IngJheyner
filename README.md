@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917'>Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam</a></h4>
     <a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/baldurs-gate-3-analisis-opinion-ps5-3125018.jpg?tf=1200x' alt='Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912'>Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo</a></h4>
     <a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
-    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
     </a>
 </div>
 
