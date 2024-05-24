@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protege-privacidad-12-formas-movil-te-espia-sin-sospechas-1383938'>Aprende a proteger tu privacidad: 12 formas en que tu móvil te espía sin que lo sospeches</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protege-privacidad-12-formas-movil-te-espia-sin-sospechas-1383938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/12-formas-movil-te-espia-recopila-datos-sepas-3307828.jpg?tf=1200x' alt='Aprende a proteger tu privacidad: 12 formas en que tu móvil te espía sin que lo sospeches' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949'>Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-669-computer-hoy-1386487'>¡Ya está en tu quiosco el número 669 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-669-computer-hoy-1386487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-669-3346535.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 669 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752'>Bill Gates actualiza su clásica recomendación de libros para leer este verano</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates actualiza su clásica recomendación de libros para leer este verano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-era-estafas-telefonicas-inteligencia-artificial-copia-voz-1360650'>La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nueva-era-estafas-telefonicas-inteligencia-artificial-copia-voz-1360650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz' />
+    <h4><a href='https://computerhoy.com/tecnologia/viejo-pc-mejores-distros-linux-ligeras-instalar-1360745'>Saca tu viejo PC del cajón: estas son las distros Linux más ligeras que puedes instalar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viejo-pc-mejores-distros-linux-ligeras-instalar-1360745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-tires-viejo-pc-distribuciones-linux-ligeras-puedes-instalar-ordenador-3267556.jpg?tf=1200x' alt='Saca tu viejo PC del cajón: estas son las distros Linux más ligeras que puedes instalar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/aprende-sacar-dinero-cajeros-tarjeta-telefono-movil-1186326'>Aprende a sacar dinero en cajeros sin tarjeta, solo con tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.com/tutoriales/aprende-sacar-dinero-cajeros-tarjeta-telefono-movil-1186326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-cajero-2931202.jpg?tf=1200x' alt='Aprende a sacar dinero en cajeros sin tarjeta, solo con tu teléfono móvil' />
+    <h4><a href='https://computerhoy.com/ciencia/rios-naranjas-alaska-deshielo-permafrost-1387952'>Los ríos cristalinos de Alaska se están volviendo naranjas, por el deshielo del permafrost</a></h4>
+    <a href='https://computerhoy.com/ciencia/rios-naranjas-alaska-deshielo-permafrost-1387952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rios-cristalinos-alaska-estan-volviendo-naranjas-deshielo-permafrost-3366462.jpg?tf=1200x' alt='Los ríos cristalinos de Alaska se están volviendo naranjas, por el deshielo del permafrost' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929'>Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez</a></h4>
-    <a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/elon-musk-aparece-sorpresa-foro-mundial-agua-solucion-escasez-3365760.jpg?tf=1200x' alt='Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez' />
+    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
+    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
     </a>
 </div>
 
