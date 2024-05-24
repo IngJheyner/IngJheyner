@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949'>Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos' />
+    <h4><a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866'>La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas</a></h4>
+    <a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-3307745.jpg?tf=1200x' alt='La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752'>Bill Gates actualiza su clásica recomendación de libros para leer este verano</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates actualiza su clásica recomendación de libros para leer este verano' />
+    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen</a></h4>
+    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/viejo-pc-mejores-distros-linux-ligeras-instalar-1360745'>Saca tu viejo PC del cajón: estas son las distros Linux más ligeras que puedes instalar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/viejo-pc-mejores-distros-linux-ligeras-instalar-1360745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/no-tires-viejo-pc-distribuciones-linux-ligeras-puedes-instalar-ordenador-3267556.jpg?tf=1200x' alt='Saca tu viejo PC del cajón: estas son las distros Linux más ligeras que puedes instalar' />
+    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
+    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/rios-naranjas-alaska-deshielo-permafrost-1387952'>Los ríos cristalinos de Alaska se están volviendo naranjas, por el deshielo del permafrost</a></h4>
-    <a href='https://computerhoy.com/ciencia/rios-naranjas-alaska-deshielo-permafrost-1387952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rios-cristalinos-alaska-estan-volviendo-naranjas-deshielo-permafrost-3366462.jpg?tf=1200x' alt='Los ríos cristalinos de Alaska se están volviendo naranjas, por el deshielo del permafrost' />
+    <h4><a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976'>Google pone fin a uno de los últimos y más pesados errores de Chrome en Android </a></h4>
+    <a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Google pone fin a uno de los últimos y más pesados errores de Chrome en Android ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
-    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
+    <h4><a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746'>Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa</a></h4>
+    <a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-3359699.jpg?tf=1200x' alt='Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa' />
     </a>
 </div>
 
