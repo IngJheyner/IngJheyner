@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
+    <h4><a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612'>¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería</a></h4>
+    <a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-3313414.jpg?tf=1200x' alt='¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866'>La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas</a></h4>
-    <a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-3307745.jpg?tf=1200x' alt='La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas' />
+    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
+    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen</a></h4>
-    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen' />
+    <h4><a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995'>Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia</a></h4>
+    <a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
-    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976'>Google pone fin a uno de los últimos y más pesados errores de Chrome en Android </a></h4>
-    <a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Google pone fin a uno de los últimos y más pesados errores de Chrome en Android ' />
+    <h4><a href='https://computerhoy.com/tecnologia/terrorifico-uso-flipper-zero-jaque-seguridad-1384821'>El terrorífico nuevo uso del Flipper Zero pone en jaque tu seguridad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/terrorifico-uso-flipper-zero-jaque-seguridad-1384821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-3309277.jpg?tf=1200x' alt='El terrorífico nuevo uso del Flipper Zero pone en jaque tu seguridad' />
     </a>
 </div>
 
