@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-reiniciar-windows-1385737'>Cómo optimizar la memoria RAM de tu PC sin reiniciar en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-reiniciar-windows-1385737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-liberar-memoria-ram-pc-windows-reiniciar-3310919.jpg?tf=1200x' alt='Cómo optimizar la memoria RAM de tu PC sin reiniciar en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-aire-acondicionado-portatil-barato-instala-segundos-1387621'>Ahora es el momento: este aire acondicionado portátil es barato y se instala en segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/ahora-momento-aire-acondicionado-portatil-barato-instala-segundos-1387621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hisense-patagonia-apc09nj-3353980.jpg?tf=1200x' alt='Ahora es el momento: este aire acondicionado portátil es barato y se instala en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804'>Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-12-pc-3360934.jpg?tf=1200x' alt='Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612'>¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería</a></h4>
-    <a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-3313414.jpg?tf=1200x' alt='¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería' />
     </a>
 </div>
 
