@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tomb-raider-lego-star-wars-iii-fallout-3-juegazos-gratis-steam-epic-amazon-1388085'>Tomb Raider, Lego Star Wars III, Fallout 3, Warhammer y más, los juegazos gratis de hoy</a></h4>
+    <a href='https://computerhoy.com/gaming/tomb-raider-lego-star-wars-iii-fallout-3-juegazos-gratis-steam-epic-amazon-1388085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tomb-raider-lego-star-wars-iii-fallout-3-warhammer-juegazos-gratis-hoy-3370261.jpg?tf=1200x' alt='Tomb Raider, Lego Star Wars III, Fallout 3, Warhammer y más, los juegazos gratis de hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
     <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443'>Estos son los mejores móviles POCO calidad-precio que puedes comprar</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-poco-893443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='Estos son los mejores móviles POCO calidad-precio que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
-    <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
     </a>
 </div>
 
