@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929'>Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez</a></h4>
+    <a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/elon-musk-aparece-sorpresa-foro-mundial-agua-solucion-escasez-3365760.jpg?tf=1200x' alt='Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-google-drive-nas-3tb-inversion-muy-rentable-corto-plazo-1387755'>Di adiós a Google Drive: este NAS de 3TB es una inversión muy rentable a corto plazo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-google-drive-nas-3tb-inversion-muy-rentable-corto-plazo-1387755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-my-cloud-3284004.jpg?tf=1200x' alt='Di adiós a Google Drive: este NAS de 3TB es una inversión muy rentable a corto plazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084'>Protege tu router: Descubre cómo prevenir ataques de virus y malware</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Protege tu router: Descubre cómo prevenir ataques de virus y malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245'>He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-tablet-3340120.jpg?tf=1200x' alt='He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843'>Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/quieres-navegar-seguro-red-veterano-navegador-da-mil-vueltas-google-chrome-3361392.jpg?tf=1200x' alt='Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-mejores-aplicaciones-privacidad-1347332'>No todo es Google Maps: estas aplicaciones respetan tu privacidad y puedes navegar sin conexión</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-mejores-aplicaciones-privacidad-1347332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='No todo es Google Maps: estas aplicaciones respetan tu privacidad y puedes navegar sin conexión' />
     </a>
 </div>
 
