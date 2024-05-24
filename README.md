@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-669-computer-hoy-1386487'>¡Ya está en tu quiosco el número 669 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-669-computer-hoy-1386487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-669-3346535.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 669 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nueva-era-estafas-telefonicas-inteligencia-artificial-copia-voz-1360650'>La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nueva-era-estafas-telefonicas-inteligencia-artificial-copia-voz-1360650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/voces-clonadas-ia-3268665.jpg?tf=1200x' alt='La nueva era de estafas telefónicas: descubre cómo la IA puede engañarnos copiando la voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/aprende-sacar-dinero-cajeros-tarjeta-telefono-movil-1186326'>Aprende a sacar dinero en cajeros sin tarjeta, solo con tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.com/tutoriales/aprende-sacar-dinero-cajeros-tarjeta-telefono-movil-1186326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/smartphone-cajero-2931202.jpg?tf=1200x' alt='Aprende a sacar dinero en cajeros sin tarjeta, solo con tu teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929'>Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez</a></h4>
     <a href='https://computerhoy.com/energia/elon-musk-foro-mundial-agua-solucion-1387929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/elon-musk-aparece-sorpresa-foro-mundial-agua-solucion-escasez-3365760.jpg?tf=1200x' alt='Elon Musk aparece por sorpresa en el Foro Mundial del Agua con una solución para la escasez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/di-adios-google-drive-nas-3tb-inversion-muy-rentable-corto-plazo-1387755'>Di adiós a Google Drive: este NAS de 3TB es una inversión muy rentable a corto plazo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/di-adios-google-drive-nas-3tb-inversion-muy-rentable-corto-plazo-1387755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/wd-my-cloud-3284004.jpg?tf=1200x' alt='Di adiós a Google Drive: este NAS de 3TB es una inversión muy rentable a corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084'>Protege tu router: Descubre cómo prevenir ataques de virus y malware</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Protege tu router: Descubre cómo prevenir ataques de virus y malware' />
     </a>
 </div>
 
