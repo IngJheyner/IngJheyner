@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052'>¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones</a></h4>
+    <a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-3369581.jpg?tf=1200x' alt='¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
+    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540'>Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-3312322.jpg?tf=1200x' alt='Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816'>Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo</a></h4>
+    <a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tom-hanks-salvar-soldado-ryan-3361390.jpg?tf=1200x' alt='Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/pixel-8-baja-precio-queda-nivel-8a-magia-aliexpress-1387969'>El Pixel 8 baja de precio y queda al nivel del 8a: es la magia de AliExpress</a></h4>
     <a href='https://computerhoy.com/android/pixel-8-baja-precio-queda-nivel-8a-magia-aliexpress-1387969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8-3366926.jpg?tf=1200x' alt='El Pixel 8 baja de precio y queda al nivel del 8a: es la magia de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569'>La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918'>Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-sandbox-sirve-como-activa-windows-11-3365487.jpg?tf=1200x' alt='Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640'>Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cientificos-pelos-lengua-inteligencia-artificial-podria-suponer-fin-humanidad-3354425.jpg?tf=1200x' alt='Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
     </a>
 </div>
 
