@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
+    <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-momento-aire-acondicionado-portatil-barato-instala-segundos-1387621'>Ahora es el momento: este aire acondicionado portátil es barato y se instala en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-momento-aire-acondicionado-portatil-barato-instala-segundos-1387621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hisense-patagonia-apc09nj-3353980.jpg?tf=1200x' alt='Ahora es el momento: este aire acondicionado portátil es barato y se instala en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804'>Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-traeria-cambio-radical-dejara-pc-actual-totalmente-obsoleto-1387804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-12-pc-3360934.jpg?tf=1200x' alt='Windows 12 traería un cambio radical que dejará tu PC actual totalmente obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612'>¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería</a></h4>
     <a href='https://computerhoy.com/moviles/seguro-cargar-movil-coche-hacerlo-sin-romper-bateria-1386612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cargar-movil-coche-destruye-bateria-realidad-leyenda-urbana-3313414.jpg?tf=1200x' alt='¿Es seguro cargar el móvil en el coche? Así puedes hacerlo sin dañar la batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
-    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995'>Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia</a></h4>
-    <a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, alerta, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/terrorifico-uso-flipper-zero-jaque-seguridad-1384821'>El terrorífico nuevo uso del Flipper Zero pone en jaque tu seguridad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/terrorifico-uso-flipper-zero-jaque-seguridad-1384821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ultimo-uso-conocido-flipper-zero-absolutamente-aterrador-3309277.jpg?tf=1200x' alt='El terrorífico nuevo uso del Flipper Zero pone en jaque tu seguridad' />
     </a>
 </div>
 
