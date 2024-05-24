@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866'>La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas</a></h4>
     <a href='https://computerhoy.com/tv/guerra-google-contra-iptv-piratas-webs-bloqueadas-1383866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ha-bloqueado-10000-webs-ofrecen-publicitan-iptv-piratas-ver-futbol-3307745.jpg?tf=1200x' alt='La guerra de Google contra las IPTV piratas: más de 10.000 webs bloqueadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976'>Google pone fin a uno de los últimos y más pesados errores de Chrome en Android </a></h4>
     <a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Google pone fin a uno de los últimos y más pesados errores de Chrome en Android ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746'>Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa</a></h4>
-    <a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-3359699.jpg?tf=1200x' alt='Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa' />
     </a>
 </div>
 
