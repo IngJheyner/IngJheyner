@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418'>Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees</a></h4>
+    <a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332917.jpg?tf=1200x' alt='Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830'>Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nunca-debes-hacer-sufres-chantaje-correo-ocu-3361092.jpg?tf=1200x' alt='Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/rival-chino-fire-tv-stick-amazon-mas-barato-android-1328754'>El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/rival-chino-fire-tv-stick-amazon-mas-barato-android-1328754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
     <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917'>Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam</a></h4>
-    <a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/baldurs-gate-3-analisis-opinion-ps5-3125018.jpg?tf=1200x' alt='Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912'>Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/servidores-microsoft-caen-cuatro-horas-copilot-bing-duckduckgo-1387912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-va-chatgpt-tira-toalla-bing-lanza-app-android-copilot-3253166.jpg?tf=1200x' alt='Los servidores de Microsoft se caen cuatro horas y dejan mudos a Copilot, Bing y DuckDuckGo' />
     </a>
 </div>
 
