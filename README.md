@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
     <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663'>No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-claramente-inspiradas-saga-mad-max-1387663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/no-solo-furiosa-5-peliculas-claramente-inspiradas-saga-mad-max-3354885.jpg?tf=1200x' alt='No solo Furiosa: 5 películas claramente inspiradas por la saga Mad Max' />
     </a>
 </div>
 
