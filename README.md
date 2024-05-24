@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044'>Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-3368884.jpg?tf=1200x' alt='Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208'>7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ajustes-tv-3361393.jpg?tf=1200x' alt='7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
     <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
     <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-reiniciar-windows-1385737'>Cómo optimizar la memoria RAM de tu PC sin reiniciar en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/optimizar-memoria-ram-pc-reiniciar-windows-1385737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-liberar-memoria-ram-pc-windows-reiniciar-3310919.jpg?tf=1200x' alt='Cómo optimizar la memoria RAM de tu PC sin reiniciar en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
     </a>
 </div>
 
