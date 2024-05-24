@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418'>Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees</a></h4>
-    <a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332917.jpg?tf=1200x' alt='Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084'>Protege tu router: Descubre cómo prevenir ataques de virus y malware</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/protege-router-ataques-prevenir-virus-malware-1386084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-tambien-puede-tener-virus-estas-son-formas-habituales-infectarse-3311494.jpg?tf=1200x' alt='Protege tu router: Descubre cómo prevenir ataques de virus y malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830'>Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nunca-debes-hacer-sufres-chantaje-correo-ocu-3361092.jpg?tf=1200x' alt='Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU' />
+    <h4><a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245'>He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras</a></h4>
+    <a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-tablet-3340120.jpg?tf=1200x' alt='He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/rival-chino-fire-tv-stick-amazon-mas-barato-android-1328754'>El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/rival-chino-fire-tv-stick-amazon-mas-barato-android-1328754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/dq06-atv-mini-tv-stick-3210922.jpg?tf=1200x' alt='El Firestick tiene rival chino: cuesta menos de la mitad, tiene Android y con 4K' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843'>Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/quieres-navegar-seguro-red-veterano-navegador-da-mil-vueltas-google-chrome-3361392.jpg?tf=1200x' alt='Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-mejores-aplicaciones-privacidad-1347332'>No todo es Google Maps: estas aplicaciones respetan tu privacidad y puedes navegar sin conexión</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-mejores-aplicaciones-privacidad-1347332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/truco-secreto-google-maps-casi-nadie-conoce-puede-ayudarte-planificar-viajes-como-experto-3237494.jpg?tf=1200x' alt='No todo es Google Maps: estas aplicaciones respetan tu privacidad y puedes navegar sin conexión' />
     </a>
 </div>
 
