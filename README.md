@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917'>Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam</a></h4>
+    <a href='https://computerhoy.com/gaming/nuevos-portatiles-snapdragon-x-elite-pueden-juegos-top-steam-1387917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/baldurs-gate-3-analisis-opinion-ps5-3125018.jpg?tf=1200x' alt='Los nuevos portátiles con Snapdragon X Elite pueden con juegos top de Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899'>Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-no-forzara-instalacion-actualizaciones-funciones-windows-11-1387899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-actualizacion-3363140.jpg?tf=1200x' alt='Microsoft no forzará la instalación de actualizaciones de funciones en Windows 11' />
     </a>
 </div>
 
