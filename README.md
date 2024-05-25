@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121'>Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
+    <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/3200-servidores-todos-dispositivos-quieras-vpn-supera-competencia-aspectos-clave-1387780'>3.200 servidores y todos los dispositivos que quieras: esta VPN supera a la competencia en aspectos clave</a></h4>
+    <a href='https://computerhoy.com/tecnologia/3200-servidores-todos-dispositivos-quieras-vpn-supera-competencia-aspectos-clave-1387780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3360004.jpg?tf=1200x' alt='3.200 servidores y todos los dispositivos que quieras: esta VPN supera a la competencia en aspectos clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
     <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/icq-apaga-siempre-despues-28-anos-fin-era-mensajeria-instantanea-1388110'>ICQ se apaga para siempre después de 28 años: el fin de una era en la mensajería instantánea</a></h4>
-    <a href='https://computerhoy.com/apps/icq-apaga-siempre-despues-28-anos-fin-era-mensajeria-instantanea-1388110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/icq-3374445.jpg?tf=1200x' alt='ICQ se apaga para siempre después de 28 años: el fin de una era en la mensajería instantánea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, desconfía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, desconfía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/secretos-impuestos-pagas-comprar-tecnologia-espana-1381122'>Los secretos de los impuestos que pagas al comprar tecnología en España</a></h4>
-    <a href='https://computerhoy.com/industria/secretos-impuestos-pagas-comprar-tecnologia-espana-1381122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Los secretos de los impuestos que pagas al comprar tecnología en España' />
     </a>
 </div>
 
