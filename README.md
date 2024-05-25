@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
+    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/icq-apaga-siempre-despues-28-anos-fin-era-mensajeria-instantanea-1388110'>ICQ se apaga para siempre después de 28 años: el fin de una era en la mensajería instantánea</a></h4>
+    <a href='https://computerhoy.com/apps/icq-apaga-siempre-despues-28-anos-fin-era-mensajeria-instantanea-1388110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/icq-3374445.jpg?tf=1200x' alt='ICQ se apaga para siempre después de 28 años: el fin de una era en la mensajería instantánea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791'>Si te llega un mensaje de WhatsApp con uno de estos prefijos, desconfía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/te-llega-mensaje-whatsapp-estos-prefijos-alerta-estafa-1387791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Si te llega un mensaje de WhatsApp con uno de estos prefijos, desconfía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/secretos-impuestos-pagas-comprar-tecnologia-espana-1381122'>Los secretos de los impuestos que pagas al comprar tecnología en España</a></h4>
     <a href='https://computerhoy.com/industria/secretos-impuestos-pagas-comprar-tecnologia-espana-1381122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/impuestos-espana-3302680.jpg?tf=1200x' alt='Los secretos de los impuestos que pagas al comprar tecnología en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-1388107'>¿Cansado del verde? WhatsApp está probando nuevos colores en las burbujas de chat</a></h4>
-    <a href='https://computerhoy.com/apps/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-1388107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cansado-verde-whatsapp-probando-nuevos-colores-burbujas-chat-3374166.jpg?tf=1200x' alt='¿Cansado del verde? WhatsApp está probando nuevos colores en las burbujas de chat' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
-    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
     </a>
 </div>
 
