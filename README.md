@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-permitira-responder-mensajes-super-chat-transmisiones-vivo-1388138'>YouTube permitirá responder a los mensajes de Super Chat en las transmisiones en vivo</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-permitira-responder-mensajes-super-chat-transmisiones-vivo-1388138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3376145.jpg?tf=1200x' alt='YouTube permitirá responder a los mensajes de Super Chat en las transmisiones en vivo' />
+    <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
-    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
+    <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
+    <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540'>Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-3312322.jpg?tf=1200x' alt='Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada' />
+    <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
+    <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816'>Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo</a></h4>
-    <a href='https://computerhoy.com/tv/steven-spielberg-comporto-como-tirano-tom-hanks-salvar-soldado-ryan-pero-tenia-motivo-1387816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tom-hanks-salvar-soldado-ryan-3361390.jpg?tf=1200x' alt='Steven Spielberg se comportó como un tirano con Tom Hanks en Salvar al soldado Ryan, pero tenía un motivo' />
+    <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
+    <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/spotify-anuncia-fin-car-thing-dispositivos-dejaran-funcionar-finales-ano-1388137'>Spotify anuncia el fin de Car Thing: los dispositivos dejarán de funcionar a finales de año</a></h4>
-    <a href='https://computerhoy.com/tecnologia/spotify-anuncia-fin-car-thing-dispositivos-dejaran-funcionar-finales-ano-1388137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/car-thing-2771297.jpg?tf=1200x' alt='Spotify anuncia el fin de Car Thing: los dispositivos dejarán de funcionar a finales de año' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-acelerar-forma-liberar-espacio-almacenamiento-movil-1388140'>WhatsApp quiere acelerar la forma de liberar espacio de almacenamiento en el móvil</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-quiere-acelerar-forma-liberar-espacio-almacenamiento-movil-1388140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/espacio-almacenamiento-whatsapp-3376284.jpg?tf=1200x' alt='WhatsApp quiere acelerar la forma de liberar espacio de almacenamiento en el móvil' />
     </a>
 </div>
 
