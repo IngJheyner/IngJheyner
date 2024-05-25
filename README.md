@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863'>Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-1387863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-fracasa-ultimos-anuncios-aumenta-miedo-abandonar-windows-10-3362431.jpg?tf=1200x' alt='Microsoft fracasa: sus últimos anuncios aumenta el miedo a abandonar Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569'>La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-llega-powertoys-windows-pegado-avanzado-funciona-1387569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/powertoys-2693149.jpg?tf=1200x' alt='La IA llega a las PowerToys de Windows con el "pegado avanzado", así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-recuerda-windows-10-cerca-finalizar-soporte-1388124'>Microsoft te recuerda que Windows 10 está cerca de finalizar su soporte</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-te-recuerda-windows-10-cerca-finalizar-soporte-1388124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Microsoft te recuerda que Windows 10 está cerca de finalizar su soporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640'>Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-creen-inteligencia-artificial-podria-suponer-fin-humanidad-1387640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cientificos-pelos-lengua-inteligencia-artificial-podria-suponer-fin-humanidad-3354425.jpg?tf=1200x' alt='Científicos sin pelos en la lengua: “la inteligencia artificial podría suponer el fin para la humanidad”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-respuestas-programacion-incorrectas-52-veces-estudio-1388123'>ChatGPT ofrece respuestas de programación incorrectas el 52% de las veces, según un estudio</a></h4>
     <a href='https://computerhoy.com/tecnologia/chatgpt-ofrece-respuestas-programacion-incorrectas-52-veces-estudio-1388123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGPT ofrece respuestas de programación incorrectas el 52% de las veces, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208'>7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/7-ajustes-imprescindibles-mejorar-calidad-imagen-smart-tv-1386208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ajustes-tv-3361393.jpg?tf=1200x' alt='7 ajustes imprescindibles para mejorar la calidad de imagen de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
-    <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
-    <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
     </a>
 </div>
 
