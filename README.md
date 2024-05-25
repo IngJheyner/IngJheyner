@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/crees-robo-identidad-senales-confirman-1386915'>¿Crees que han robado tu identidad? Estas 7 señales lo confirman</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/crees-robo-identidad-senales-confirman-1386915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberdelincuentes-robo-datos-3320322.jpg?tf=1200x' alt='¿Crees que han robado tu identidad? Estas 7 señales lo confirman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121'>Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
     <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/3200-servidores-todos-dispositivos-quieras-vpn-supera-competencia-aspectos-clave-1387780'>3.200 servidores y todos los dispositivos que quieras: esta VPN supera a la competencia en aspectos clave</a></h4>
-    <a href='https://computerhoy.com/tecnologia/3200-servidores-todos-dispositivos-quieras-vpn-supera-competencia-aspectos-clave-1387780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3360004.jpg?tf=1200x' alt='3.200 servidores y todos los dispositivos que quieras: esta VPN supera a la competencia en aspectos clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
-    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
     </a>
 </div>
 
