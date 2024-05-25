@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
+    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/adios-tranquilidad-cambios-publicidad-prime-video-debes-conocer-1384890'>Adiós a la tranquilidad: los cambios en la publicidad de Amazon Prime Video que debes conocer</a></h4>
+    <a href='https://computerhoy.com/amazon/adios-tranquilidad-cambios-publicidad-prime-video-debes-conocer-1384890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pesadilla-anuncios-prime-video-llegara-menu-pausa-3309346.jpg?tf=1200x' alt='Adiós a la tranquilidad: los cambios en la publicidad de Amazon Prime Video que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/he-convertido-telegram-mi-propia-nube-personal-gratis-funciona-mejor-google-drive-1386975'>He convertido Telegram en mi propia nube personal: es gratis y funciona mejor que Google Drive</a></h4>
-    <a href='https://computerhoy.com/apps/he-convertido-telegram-mi-propia-nube-personal-gratis-funciona-mejor-google-drive-1386975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/telegram-3354886.jpg?tf=1200x' alt='He convertido Telegram en mi propia nube personal: es gratis y funciona mejor que Google Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anillo-inteligente-chino-ya-venta-aliexpress-1387338'>Ni pulsera ni reloj: este anillo inteligente de 22 euros mide tu actividad física y ya está a la venta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anillo-inteligente-chino-ya-venta-aliexpress-1387338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Ni pulsera ni reloj: este anillo inteligente de 22 euros mide tu actividad física y ya está a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
-    <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
     </a>
 </div>
 
