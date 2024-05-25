@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901'>El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo</a></h4>
     <a href='https://computerhoy.com/espacio/telescopio-james-webb-nasa-confirma-no-sabemos-nada-casi-nada-universo-1387901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/telescopio-james-webb-nasa-descubre-seis-galaxias-tan-antiguas-no-deberian-existir-2965940.jpg?tf=1200x' alt='El telescopio James Webb de la NASA confirma que no sabemos nada (o casi nada) del Universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
-    <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
     </a>
 </div>
 
