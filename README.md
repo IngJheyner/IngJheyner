@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/diez-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-1388097'>Diez cosas estúpidas y peligrosas que recomienda la IA del buscador de Google</a></h4>
+    <a href='https://computerhoy.com/google/diez-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-1388097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cinco-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-3373172.jpg?tf=1200x' alt='Diez cosas estúpidas y peligrosas que recomienda la IA del buscador de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949'>Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240'>El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-parece-sacado-ano-2000-pero-incluso-ocu-advierte-3339943.jpg?tf=1200x' alt='El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
     <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
     <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/adios-tranquilidad-cambios-publicidad-prime-video-debes-conocer-1384890'>Adiós a la tranquilidad: los cambios en la publicidad de Amazon Prime Video que debes conocer</a></h4>
-    <a href='https://computerhoy.com/amazon/adios-tranquilidad-cambios-publicidad-prime-video-debes-conocer-1384890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pesadilla-anuncios-prime-video-llegara-menu-pausa-3309346.jpg?tf=1200x' alt='Adiós a la tranquilidad: los cambios en la publicidad de Amazon Prime Video que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
     </a>
 </div>
 
