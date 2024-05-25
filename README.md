@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/allpowers-r600-generador-solar-placa-top-ventas-amazon-1335856'>Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/allpowers-r600-generador-solar-placa-top-ventas-amazon-1335856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
+    <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-explica-fallo-fotos-borradas-iphone-1388089'>Apple explica por qué han resucitado fotos borradas en muchos iPhone</a></h4>
     <a href='https://computerhoy.com/apple/apple-explica-fallo-fotos-borradas-iphone-1388089' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-primeras-impresiones-3140300.jpg?tf=1200x' alt='Apple explica por qué han resucitado fotos borradas en muchos iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
     <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tomb-raider-lego-star-wars-iii-fallout-3-juegazos-gratis-steam-epic-amazon-1388085'>Tomb Raider, Lego Star Wars III, Fallout 3, Warhammer y más, los juegazos gratis de hoy</a></h4>
-    <a href='https://computerhoy.com/gaming/tomb-raider-lego-star-wars-iii-fallout-3-juegazos-gratis-steam-epic-amazon-1388085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tomb-raider-lego-star-wars-iii-fallout-3-warhammer-juegazos-gratis-hoy-3370261.jpg?tf=1200x' alt='Tomb Raider, Lego Star Wars III, Fallout 3, Warhammer y más, los juegazos gratis de hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
     </a>
 </div>
 
