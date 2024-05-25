@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/he-convertido-telegram-mi-propia-nube-personal-gratis-funciona-mejor-google-drive-1386975'>He convertido Telegram en mi propia nube personal: es gratis y funciona mejor que Google Drive</a></h4>
+    <a href='https://computerhoy.com/apps/he-convertido-telegram-mi-propia-nube-personal-gratis-funciona-mejor-google-drive-1386975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/telegram-3354886.jpg?tf=1200x' alt='He convertido Telegram en mi propia nube personal: es gratis y funciona mejor que Google Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anillo-inteligente-chino-ya-venta-aliexpress-1387338'>Ni pulsera ni reloj: este anillo inteligente de 22 euros mide tu actividad física y ya está a la venta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anillo-inteligente-chino-ya-venta-aliexpress-1387338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/colmi-r02-3359999.jpg?tf=1200x' alt='Ni pulsera ni reloj: este anillo inteligente de 22 euros mide tu actividad física y ya está a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
     <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
     <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245'>He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras</a></h4>
-    <a href='https://computerhoy.com/analisis/google-pixel-tablet-opinion-caracteristicas-analisis-1387245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-tablet-3340120.jpg?tf=1200x' alt='He probado la Pixel Tablet, la primera tablet de Google: tiene gran rendimiento pero con luces y sombras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091'>Los semáforos para camellos existen, porque en el desierto también hay atascos</a></h4>
-    <a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/semaforos-camellos-existen-porque-desierto-tambien-hay-atascos-3372615.jpg?tf=1200x' alt='Los semáforos para camellos existen, porque en el desierto también hay atascos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843'>Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/quieres-navegar-seguro-navegador-da-mil-vueltas-google-chrome-1387843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/quieres-navegar-seguro-red-veterano-navegador-da-mil-vueltas-google-chrome-3361392.jpg?tf=1200x' alt='Si quieres navegar seguro por internet, este veterano navegador le da mil vueltas a Google Chrome' />
     </a>
 </div>
 
