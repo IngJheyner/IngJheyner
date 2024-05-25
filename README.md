@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
+    <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800'>Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude</a></h4>
+    <a href='https://computerhoy.com/apps/estafado-wallapop-pasos-seguir-debes-hacer-fraude-1386800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estafado-wallapop-3321158.jpg?tf=1200x' alt='Estafado en Wallapop: pasos a seguir y qué debes hacer si has sido víctima de un fraude' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121'>Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuidado-dinero-apps-google-play-ahora-pueden-cobrarte-1000-euros-1388121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='Cuidado con tu dinero: las apps de Google Play ahora pueden cobrarte hasta 1.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803'>VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente</a></h4>
-    <a href='https://computerhoy.com/windows/vbscript-ultima-victima-llegada-windows-24h2-1387803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vbscript-ultima-victima-llegada-windows-24h2-microsoft-eliminara-progresivamente-3360482.jpg?tf=1200x' alt='VBScript es la última víctima de la llegada de Windows 24H2: Microsoft lo eliminará progresivamente' />
     </a>
 </div>
 
