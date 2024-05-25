@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350'>Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclado-limpiar-pc-3310262.jpg?tf=1200x' alt='Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418'>Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees</a></h4>
+    <a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332917.jpg?tf=1200x' alt='Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830'>Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nunca-debes-hacer-sufres-chantaje-correo-ocu-3361092.jpg?tf=1200x' alt='Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/allpowers-r600-generador-solar-placa-top-ventas-amazon-1335856'>Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad</a></h4>
     <a href='https://computerhoy.com/tecnologia/allpowers-r600-generador-solar-placa-top-ventas-amazon-1335856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/allpowers-r600-3234326.jpg?tf=1200x' alt='Este generador solar pone Amazon patas arriba: es top ventas y te permitirá ahorrar electricidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
     <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-explica-fallo-fotos-borradas-iphone-1388089'>Apple explica por qué han resucitado fotos borradas en muchos iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/apple-explica-fallo-fotos-borradas-iphone-1388089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-primeras-impresiones-3140300.jpg?tf=1200x' alt='Apple explica por qué han resucitado fotos borradas en muchos iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907'>Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-1387907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/truco-puedes-saber-pareja-espia-conversaciones-whatsapp-3363855.jpg?tf=1200x' alt='Con este truco puedes saber si tu pareja espía tus conversaciones de WhatsApp' />
     </a>
 </div>
 
