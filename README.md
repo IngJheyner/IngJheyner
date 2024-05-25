@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/diez-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-1388097'>Diez cosas estúpidas y peligrosas que recomienda la IA del buscador de Google</a></h4>
-    <a href='https://computerhoy.com/google/diez-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-1388097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cinco-cosas-estupidas-peligrosas-recomienda-ia-buscador-google-3373172.jpg?tf=1200x' alt='Diez cosas estúpidas y peligrosas que recomienda la IA del buscador de Google' />
+    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
+    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949'>Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-justifica-eliminacion-varias-aplicaciones-clasicas-actualizacion-windows-11-24h2-1388102'>Microsoft justifica la eliminación de varias aplicaciones clásicas en la actualización de Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-justifica-eliminacion-varias-aplicaciones-clasicas-actualizacion-windows-11-24h2-1388102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-windows-11-3374157.jpg?tf=1200x' alt='Microsoft justifica la eliminación de varias aplicaciones clásicas en la actualización de Windows 11 24H2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240'>El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-parece-sacado-ano-2000-pero-incluso-ocu-advierte-3339943.jpg?tf=1200x' alt='El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte' />
+    <h4><a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976'>Google pone fin a uno de los últimos y más pesados errores de Chrome en Android </a></h4>
+    <a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Google pone fin a uno de los últimos y más pesados errores de Chrome en Android ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
-    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914'>Cómo descargar vídeos de X en el móvil (Android o iPhone)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-descargar-videos-x-movil-android-iphone-3364397.jpg?tf=1200x' alt='Cómo descargar vídeos de X en el móvil (Android o iPhone)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-abandona-error-critico-windows-10-11-usuarios-no-solucion-1384345'>Microsoft abandona este error crítico en Windows 10 y 11 y los usuarios no encuentran una solución</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-abandona-error-critico-windows-10-11-usuarios-no-solucion-1384345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-grave-windows-10-windows-11-3308451.jpg?tf=1200x' alt='Microsoft abandona este error crítico en Windows 10 y 11 y los usuarios no encuentran una solución' />
     </a>
 </div>
 
