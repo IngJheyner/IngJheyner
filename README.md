@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/xai-elon-musk-quiere-construir-supercomputadora-proxima-version-grok-1388171'>xAI de Elon Musk quiere construir una supercomputadora para la próxima versión de Grok</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xai-elon-musk-quiere-construir-supercomputadora-proxima-version-grok-1388171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='xAI de Elon Musk quiere construir una supercomputadora para la próxima versión de Grok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/movil-top-google-hunde-precio-pixel-8-pro-ya-mucho-barato-iphone-1388164'>El móvil top de Google hunde su precio: el Pixel 8 Pro es ya mucho más barato que el iPhone</a></h4>
     <a href='https://computerhoy.com/android/movil-top-google-hunde-precio-pixel-8-pro-ya-mucho-barato-iphone-1388164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191832.jpg?tf=1200x' alt='El móvil top de Google hunde su precio: el Pixel 8 Pro es ya mucho más barato que el iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995'>Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia</a></h4>
     <a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo poner contraseña a las notas del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo poner contraseña a las notas del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
     </a>
 </div>
 
