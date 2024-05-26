@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/fallo-obliga-usuarios-android-auto-volver-clasicos-cables-1388160'>Este fallo obliga a los usuarios de Android Auto a volver a los clásicos cables</a></h4>
-    <a href='https://computerhoy.com/apps/fallo-obliga-usuarios-android-auto-volver-clasicos-cables-1388160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallo-android-auto-3307842.jpg?tf=1200x' alt='Este fallo obliga a los usuarios de Android Auto a volver a los clásicos cables' />
+    <h4><a href='https://computerhoy.com/android/movil-top-google-hunde-precio-pixel-8-pro-ya-mucho-barato-iphone-1388164'>El móvil top de Google hunde su precio: el Pixel 8 Pro es ya mucho más barato que el iPhone</a></h4>
+    <a href='https://computerhoy.com/android/movil-top-google-hunde-precio-pixel-8-pro-ya-mucho-barato-iphone-1388164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191832.jpg?tf=1200x' alt='El móvil top de Google hunde su precio: el Pixel 8 Pro es ya mucho más barato que el iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
+    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
+    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554'>Cómo poner contraseña a las fotos del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-poner-contrasena-fotos-iphone-3312913.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos del iPhone' />
+    <h4><a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995'>Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia</a></h4>
+    <a href='https://computerhoy.com/gaming/cambio-ultimo-momento-puede-convertir-nintendo-switch-2-bestia-1387995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Un cambio de último momento puede convertir a Nintendo Switch 2 en una bestia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo poner contraseña a las notas del iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo poner contraseña a las notas del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/windows-11-solo-143-kg-peso-portatil-rompe-esquemas-amazon-1388153'>Windows 11 y solo 1,43 kg de peso: este portátil rompe esquemas en Amazon</a></h4>
-    <a href='https://computerhoy.com/pc/windows-11-solo-143-kg-peso-portatil-rompe-esquemas-amazon-1388153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acer-sf314-3380387.jpg?tf=1200x' alt='Windows 11 y solo 1,43 kg de peso: este portátil rompe esquemas en Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
     </a>
 </div>
 
