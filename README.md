@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266'>He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/jellyfin-netflix-casero-gratis-musica-peliculas-series-3341196.jpg?tf=1200x' alt='He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-puedes-enemigo-empresa-traduccion-espanola-tiene-claro-hacer-ia-1387870'>Si no puedes contra tu enemigo...: esta empresa de traducción española tiene claro qué hacer con la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-puedes-enemigo-empresa-traduccion-espanola-tiene-claro-hacer-ia-1387870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/traduccion-ia-3362581.jpg?tf=1200x' alt='Si no puedes contra tu enemigo...: esta empresa de traducción española tiene claro qué hacer con la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748'>No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon</a></h4>
     <a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
-    <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
     </a>
 </div>
 
