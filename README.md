@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189'>La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande</a></h4>
+    <a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-3383991.jpg?tf=1200x' alt='La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/familiares-victimas-masacre-uvalde-denuncian-call-fo-duty-1388188'>Familiares de las víctimas de la masacre de Uvalde denuncian a Call of Duty</a></h4>
+    <a href='https://computerhoy.com/gaming/familiares-victimas-masacre-uvalde-denuncian-call-fo-duty-1388188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/call-duty-modern-warfare-3-3307318.jpg?tf=1200x' alt='Familiares de las víctimas de la masacre de Uvalde denuncian a Call of Duty' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
     <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-openai-acuerdo-integrar-gpt-ios-18-1388187'>Apple y OpenAI habrían llegado a un acuerdo para integrar GPT en iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-openai-acuerdo-integrar-gpt-ios-18-1388187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-planes-secretos-apple-ia-desvelara-wwdc-3308165.jpg?tf=1200x' alt='Apple y OpenAI habrían llegado a un acuerdo para integrar GPT en iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077'>Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin</a></h4>
-    <a href='https://computerhoy.com/internet/muere-kabosu-shiba-inu-meme-doge-1388077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/muere-kabosu-perra-shiba-inu-puso-rostro-famoso-meme-uso-dogecoin-3369709.jpg?tf=1200x' alt='Muere Kabosu, la shiba inu que puso rostro al famoso meme de Dogecoin' />
     </a>
 </div>
 
