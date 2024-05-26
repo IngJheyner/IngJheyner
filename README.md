@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052'>¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones</a></h4>
+    <a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-3369581.jpg?tf=1200x' alt='¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/desvela-auto-sr-microsoft-alternativa-dlss-nvidia-1388184'>Se desvela Auto SR de Microsoft, la alternativa a DLSS de NVIDIA</a></h4>
+    <a href='https://computerhoy.com/windows/desvela-auto-sr-microsoft-alternativa-dlss-nvidia-1388184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desvela-auto-sr-alternativa-dlss-nvidia-microsoft-3382783.jpg?tf=1200x' alt='Se desvela Auto SR de Microsoft, la alternativa a DLSS de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
+    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540'>Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-1386540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-restablecer-aplicacion-windows-11-facilmente-instalar-nada-3312322.jpg?tf=1200x' alt='Cómo restablecer una aplicación en Windows 11 fácilmente y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178'>Descubren un Tetris oculto en el primer iPod, que Apple no utilizó</a></h4>
-    <a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-version-tetris-oculta-primer-ipod-apple-no-utilizo-3382214.jpg?tf=1200x' alt='Descubren un Tetris oculto en el primer iPod, que Apple no utilizó' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
-    <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172'>WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mensajes-whatsapp-3381084.jpg?tf=1200x' alt='WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos' />
     </a>
 </div>
 
