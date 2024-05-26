@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266'>He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/jellyfin-netflix-casero-gratis-musica-peliculas-series-3341196.jpg?tf=1200x' alt='He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/dyson-barata-ahora-baja-poco-precio-239-euros-cepillo-omnidireccional-1387997'>La Dyson más barata ahora baja un poco más de precio: 239 euros y cepillo omnidireccional</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dyson-barata-ahora-baja-poco-precio-239-euros-cepillo-omnidireccional-1387997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dyson-omni-glide-3367556.jpg?tf=1200x' alt='La Dyson más barata ahora baja un poco más de precio: 239 euros y cepillo omnidireccional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-puedes-enemigo-empresa-traduccion-espanola-tiene-claro-hacer-ia-1387870'>Si no puedes contra tu enemigo...: esta empresa de traducción española tiene claro qué hacer con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-puedes-enemigo-empresa-traduccion-espanola-tiene-claro-hacer-ia-1387870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/traduccion-ia-3362581.jpg?tf=1200x' alt='Si no puedes contra tu enemigo...: esta empresa de traducción española tiene claro qué hacer con la IA' />
+    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
+    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748'>No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724'>Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-3358565.jpg?tf=1200x' alt='Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
+    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
+    <h4><a href='https://computerhoy.com/moviles/nokia-3210-regresa-ideal-desintoxicarse-smartphone-1385157'>El Nokia 3210 regresa con 4G: ideal para desintoxicarse del smartphone</a></h4>
+    <a href='https://computerhoy.com/moviles/nokia-3210-regresa-ideal-desintoxicarse-smartphone-1385157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='El Nokia 3210 regresa con 4G: ideal para desintoxicarse del smartphone' />
     </a>
 </div>
 
