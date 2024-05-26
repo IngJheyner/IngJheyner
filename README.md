@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178'>Descubren un Tetris oculto en el primer iPod, que Apple no utilizó</a></h4>
     <a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-version-tetris-oculta-primer-ipod-apple-no-utilizo-3382214.jpg?tf=1200x' alt='Descubren un Tetris oculto en el primer iPod, que Apple no utilizó' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172'>WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mensajes-whatsapp-3381084.jpg?tf=1200x' alt='WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
     </a>
 </div>
 
