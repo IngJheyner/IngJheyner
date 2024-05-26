@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
+    <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172'>WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-trabaja-boton-dedicado-borrar-golpe-recuento-mensajes-no-leidos-1388172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mensajes-whatsapp-3381084.jpg?tf=1200x' alt='WhatsApp trabaja en un botón dedicado para borrar de golpe el recuento de mensajes no leídos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
     <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xai-elon-musk-quiere-construir-supercomputadora-proxima-version-grok-1388171'>xAI de Elon Musk quiere construir una supercomputadora para la próxima versión de Grok</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xai-elon-musk-quiere-construir-supercomputadora-proxima-version-grok-1388171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='xAI de Elon Musk quiere construir una supercomputadora para la próxima versión de Grok' />
     </a>
 </div>
 
