@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418'>Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees</a></h4>
-    <a href='https://computerhoy.com/moviles/me-gusto-huawei-pura-70-ultra-camara-pero-no-crees-1387418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-pura-70-ultra-3332917.jpg?tf=1200x' alt='Lo que más me gustó de Huawei Pura 70 Ultra es su cámara, pero no la que crees' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748'>No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-reacondicionado-amazon-intel-core-i7-barato-1328748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/hp-elite-8300-3210846.jpg?tf=1200x' alt='No le falta un cero al precio: este PC con Intel Core i7 cuesta 139 euros y es el más vendido en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830'>Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/nunca-debes-hacer-sufres-chantaje-correo-ocu-1387830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nunca-debes-hacer-sufres-chantaje-correo-ocu-3361092.jpg?tf=1200x' alt='Esto es lo que nunca debes hacer si sufres un chantaje por correo, según la OCU' />
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/mando-pro-alexa-fire-tv-stick-desconocido-util-1239654'>Si tienes un Firestick, Amazon vende por separado un accesorio que le da un gran salto de calidad</a></h4>
-    <a href='https://computerhoy.com/tv/mando-pro-alexa-fire-tv-stick-desconocido-util-1239654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mando-voz-alexa-pro-3360633.jpg?tf=1200x' alt='Si tienes un Firestick, Amazon vende por separado un accesorio que le da un gran salto de calidad' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849'>¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía</a></h4>
-    <a href='https://computerhoy.com/tecnologia/corre-tesla-peligro-afronta-elon-musk-delicado-momento-compania-1387849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-marte-colonizacion-spacex-3213542.jpg?tf=1200x' alt='¿Corre Tesla peligro? Así afronta Elon Musk el delicado momento de su compañía' />
+    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
+    <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
+    <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
     </a>
 </div>
 
