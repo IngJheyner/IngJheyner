@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949'>Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-quiere-convencerte-nueva-funcion-windows-11-no-revelara-secretos-1387949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Microsoft quiere convencerte de que esta nueva función de Windows 11 no revelará tus secretos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752'>Bill Gates actualiza su clásica recomendación de libros para leer este verano</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ya-tiene-planes-verano-estos-son-libros-te-recomienda-1387752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/bill-gates-2967358.jpg?tf=1200x' alt='Bill Gates actualiza su clásica recomendación de libros para leer este verano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915'>Qué es el doxing y cómo protegerte de este peligroso acoso en internet</a></h4>
+    <a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/doxing-como-protegerte-peligroso-acoso-internet-3364669.jpg?tf=1200x' alt='Qué es el doxing y cómo protegerte de este peligroso acoso en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/dyson-barata-ahora-baja-poco-precio-239-euros-cepillo-omnidireccional-1387997'>La Dyson más barata ahora baja un poco más de precio: 239 euros y cepillo omnidireccional</a></h4>
     <a href='https://computerhoy.com/tecnologia/dyson-barata-ahora-baja-poco-precio-239-euros-cepillo-omnidireccional-1387997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dyson-omni-glide-3367556.jpg?tf=1200x' alt='La Dyson más barata ahora baja un poco más de precio: 239 euros y cepillo omnidireccional' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir a adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
-    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir a adiós al buscador de Google con IA será la nueva decisión que tome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724'>Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-3358565.jpg?tf=1200x' alt='Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nokia-3210-regresa-ideal-desintoxicarse-smartphone-1385157'>El Nokia 3210 regresa con 4G: ideal para desintoxicarse del smartphone</a></h4>
-    <a href='https://computerhoy.com/moviles/nokia-3210-regresa-ideal-desintoxicarse-smartphone-1385157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/25-anos-despues-vuelve-mitico-nokia-3210-4g-otras-sorpresas-3309809.jpg?tf=1200x' alt='El Nokia 3210 regresa con 4G: ideal para desintoxicarse del smartphone' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240'>El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-parece-sacado-ano-2000-pero-incluso-ocu-advierte-3339943.jpg?tf=1200x' alt='El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte' />
     </a>
 </div>
 
