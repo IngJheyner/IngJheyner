@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
-    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
+    <h4><a href='https://computerhoy.com/apps/fallo-obliga-usuarios-android-auto-volver-clasicos-cables-1388160'>Este fallo obliga a los usuarios de Android Auto a volver a los clásicos cables</a></h4>
+    <a href='https://computerhoy.com/apps/fallo-obliga-usuarios-android-auto-volver-clasicos-cables-1388160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fallo-android-auto-3307842.jpg?tf=1200x' alt='Este fallo obliga a los usuarios de Android Auto a volver a los clásicos cables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-quiere-generes-fotos-perfil-unicas-gracias-ia-1388159'>WhatsApp quiere que generes fotos de perfil únicas gracias a su IA</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-quiere-generes-fotos-perfil-unicas-gracias-ia-1388159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ia-3380528.jpg?tf=1200x' alt='WhatsApp quiere que generes fotos de perfil únicas gracias a su IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976'>Google pone fin a uno de los últimos y más pesados errores de Chrome en Android </a></h4>
-    <a href='https://computerhoy.com/google/google-pone-fin-ultimos-pesados-errores-chrome-android-1387976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Google pone fin a uno de los últimos y más pesados errores de Chrome en Android ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554'>Cómo poner contraseña a las fotos del iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-poner-contrasena-fotos-iphone-3312913.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746'>Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa</a></h4>
-    <a href='https://computerhoy.com/tv/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-1387746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crecen-rumores-nuevo-canal-tdt-generalista-primero-muchos-anos-3359699.jpg?tf=1200x' alt='Crecen los rumores de un nuevo canal de TDT generalista de la mano de Prisa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914'>Cómo descargar vídeos de X en el móvil (Android o iPhone)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-descargar-videos-x-movil-android-iphone-3364397.jpg?tf=1200x' alt='Cómo descargar vídeos de X en el móvil (Android o iPhone)' />
+    <h4><a href='https://computerhoy.com/pc/windows-11-solo-143-kg-peso-portatil-rompe-esquemas-amazon-1388153'>Windows 11 y solo 1,43 kg de peso: este portátil rompe esquemas en Amazon</a></h4>
+    <a href='https://computerhoy.com/pc/windows-11-solo-143-kg-peso-portatil-rompe-esquemas-amazon-1388153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/acer-sf314-3380387.jpg?tf=1200x' alt='Windows 11 y solo 1,43 kg de peso: este portátil rompe esquemas en Amazon' />
     </a>
 </div>
 
