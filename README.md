@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178'>Descubren un Tetris oculto en el primer iPod, que Apple no utilizó</a></h4>
+    <a href='https://computerhoy.com/apple/tetris-oculto-primer-ipod-apple-1388178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/descubren-version-tetris-oculta-primer-ipod-apple-no-utilizo-3382214.jpg?tf=1200x' alt='Descubren un Tetris oculto en el primer iPod, que Apple no utilizó' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
     <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940'>Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/alerta-policia-nacional-recibes-llamada-te-dicen-frase-cuelga-inmediatamente-1387940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/persona-asustada-hablando-telefono-movil-3366604.jpg?tf=1200x' alt='Alerta de la Policía Nacional: si recibes una llamada y te dicen esta frase, cuelga inmediatamente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/descubre-poder-github-como-funciona-plataforma-desarrolladores-1384041'>Descubre el poder de GitHub: ¿Qué es y cómo funciona esta plataforma para desarrolladores?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/descubre-poder-github-como-funciona-plataforma-desarrolladores-1384041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1715938283030-3320206.jpg?tf=1200x' alt='Descubre el poder de GitHub: ¿Qué es y cómo funciona esta plataforma para desarrolladores?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004'>La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/memoria-ddr6-pc-parece-inminente-pasara-actuales-ddr5-1388004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/memoria-ddr6-pc-cada-vez-cerca-pero-ddr5-aun-tiene-anos-vida-3367561.jpg?tf=1200x' alt='La memoria DDR6 para PC parece inminente: ¿qué pasará con las actuales DDR5?' />
     </a>
 </div>
 
