@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392'>Copilot, la IA de Microsoft, ya está en Telegram: así puedes usarla gratis</a></h4>
+    <a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-ya-telegram-puedes-usarla-gratis-3390698.jpg?tf=1200x' alt='Copilot, la IA de Microsoft, ya está en Telegram: así puedes usarla gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386'>Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-3390836.jpg?tf=1200x' alt='Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387'>Tus juegos de Steam te los llevarás a la tumba</a></h4>
     <a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/juegos-steam-te-llevaras-tumba-3389851.jpg?tf=1200x' alt='Tus juegos de Steam te los llevarás a la tumba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327'>La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pelicula-movistar-mejor-explora-mundo-ia-impactante-cuanta-mitico-actor-aliens-terminator-3388568.jpg?tf=1200x' alt='La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-muy-caro-pero-reacondicionado-no-tanto-rebajado-600-euros-1388369'>El Apple Watch Ultra es muy caro, pero reacondicionado no tanto: está rebajado a 600 euros</a></h4>
-    <a href='https://computerhoy.com/apple/apple-watch-ultra-muy-caro-pero-reacondicionado-no-tanto-rebajado-600-euros-1388369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='El Apple Watch Ultra es muy caro, pero reacondicionado no tanto: está rebajado a 600 euros' />
     </a>
 </div>
 
