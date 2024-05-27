@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222'>Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/correo-gmail-3387648.jpg?tf=1200x' alt='Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo poner contraseña a las notas del iPhone</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo poner contraseña a las notas del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
     </a>
 </div>
 
