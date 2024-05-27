@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/mejores/5-aires-acondicionados-portatiles-menos-300-euros-perfectos-vives-alquiler-1388236'>5 aires acondicionados portátiles de menos de 300 euros perfectos si vives de alquiler</a></h4>
+    <a href='https://computerhoy.com/mejores/5-aires-acondicionados-portatiles-menos-300-euros-perfectos-vives-alquiler-1388236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comfee-aire-acondicionado-portatil-2757201.jpg?tf=1200x' alt='5 aires acondicionados portátiles de menos de 300 euros perfectos si vives de alquiler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299'>El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-3387955.jpg?tf=1200x' alt='El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/como-montar-pc-sin-errores-consejos-ahorrar-tiempo-dinero-1386122'>Cómo montar un PC sin errores: 10 consejos para ahorrar tiempo y dinero</a></h4>
     <a href='https://computerhoy.com/pc/como-montar-pc-sin-errores-consejos-ahorrar-tiempo-dinero-1386122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/montar-pc-3320080.jpg?tf=1200x' alt='Cómo montar un PC sin errores: 10 consejos para ahorrar tiempo y dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273'>Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera</a></h4>
-    <a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guardia-civil-control-3387636.jpg?tf=1200x' alt='Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo poner contraseña a las notas del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo poner contraseña a las notas del iPhone' />
     </a>
 </div>
 
