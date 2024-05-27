@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-caigas-trampa-riesgos-conectarte-wifi-aerolinea-aeropuerto-1385880'>No caigas en la trampa: estos son los riesgos de conectarte al WiFi de tu aerolínea en el aeropuerto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-caigas-trampa-riesgos-conectarte-wifi-aerolinea-aeropuerto-1385880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-wifi-3311126.jpg?tf=1200x' alt='No caigas en la trampa: estos son los riesgos de conectarte al WiFi de tu aerolínea en el aeropuerto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191'>El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-bioprocesador-mundo-online-tiene-16-minicerebros-conectados-3385596.jpg?tf=1200x' alt='El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768'>Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM</a></h4>
     <a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189'>La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande</a></h4>
     <a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-3383991.jpg?tf=1200x' alt='La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/familiares-victimas-masacre-uvalde-denuncian-call-fo-duty-1388188'>Familiares de las víctimas de la masacre de Uvalde denuncian a Call of Duty</a></h4>
-    <a href='https://computerhoy.com/gaming/familiares-victimas-masacre-uvalde-denuncian-call-fo-duty-1388188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/call-duty-modern-warfare-3-3307318.jpg?tf=1200x' alt='Familiares de las víctimas de la masacre de Uvalde denuncian a Call of Duty' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
     </a>
 </div>
 
