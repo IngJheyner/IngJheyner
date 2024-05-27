@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-caigas-trampa-riesgos-conectarte-wifi-aerolinea-aeropuerto-1385880'>No caigas en la trampa: estos son los riesgos de conectarte al WiFi de tu aerolínea en el aeropuerto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-caigas-trampa-riesgos-conectarte-wifi-aerolinea-aeropuerto-1385880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aeropuerto-wifi-3311126.jpg?tf=1200x' alt='No caigas en la trampa: estos son los riesgos de conectarte al WiFi de tu aerolínea en el aeropuerto' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410'>El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-fenix-7-3361014.jpg?tf=1200x' alt='El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191'>El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-bioprocesador-mundo-online-tiene-16-minicerebros-conectados-3385596.jpg?tf=1200x' alt='El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768'>Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM' />
+    <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
+    <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
+    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189'>La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande</a></h4>
-    <a href='https://computerhoy.com/apps/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-1388189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-app-tiempo-windows-estrena-ia-cuatro-veces-grande-3383991.jpg?tf=1200x' alt='La nueva app de El Tiempo de Windows estrena una IA cuatro veces más grande' />
+    <h4><a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091'>Los semáforos para camellos existen, porque en el desierto también hay atascos</a></h4>
+    <a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/semaforos-camellos-existen-porque-desierto-tambien-hay-atascos-3372615.jpg?tf=1200x' alt='Los semáforos para camellos existen, porque en el desierto también hay atascos' />
     </a>
 </div>
 
