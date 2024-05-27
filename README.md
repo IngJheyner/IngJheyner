@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-acceder-chatgpt-gpt-4o-forma-totalmente-gratis-1388211'>Cómo acceder a ChatGPT con GPT-4o de forma totalmente gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-acceder-chatgpt-gpt-4o-forma-totalmente-gratis-1388211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='Cómo acceder a ChatGPT con GPT-4o de forma totalmente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724'>Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-3358565.jpg?tf=1200x' alt='Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947'>Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect</a></h4>
     <a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410'>El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-fenix-7-3361014.jpg?tf=1200x' alt='El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
-    <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
     </a>
 </div>
 
