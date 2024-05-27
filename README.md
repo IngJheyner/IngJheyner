@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087'>Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-tops-sirven-son-tan-importantes-futuro-pc-ia-3371785.jpg?tf=1200x' alt='Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tv-gratis-iptv-pantalla-coche-android-auto-1388344'>Cómo ver la TV gratis por IPTV en la pantalla del coche con Android Auto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tv-gratis-iptv-pantalla-coche-android-auto-1388344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ver-tv-gratis-iptv-pantalla-coche-android-auto-3389573.jpg?tf=1200x' alt='Cómo ver la TV gratis por IPTV en la pantalla del coche con Android Auto' />
+    <h4><a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388'>Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos</a></h4>
+    <a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/mejores/5-aires-acondicionados-portatiles-menos-300-euros-perfectos-vives-alquiler-1388236'>5 aires acondicionados portátiles de menos de 300 euros perfectos si vives de alquiler</a></h4>
-    <a href='https://computerhoy.com/mejores/5-aires-acondicionados-portatiles-menos-300-euros-perfectos-vives-alquiler-1388236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/comfee-aire-acondicionado-portatil-2757201.jpg?tf=1200x' alt='5 aires acondicionados portátiles de menos de 300 euros perfectos si vives de alquiler' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387'>Tus juegos de Steam te los llevarás a la tumba</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/juegos-steam-te-llevaras-tumba-3389851.jpg?tf=1200x' alt='Tus juegos de Steam te los llevarás a la tumba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299'>El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-3387955.jpg?tf=1200x' alt='El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora' />
+    <h4><a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327'>La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pelicula-movistar-mejor-explora-mundo-ia-impactante-cuanta-mitico-actor-aliens-terminator-3388568.jpg?tf=1200x' alt='La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
+    <h4><a href='https://computerhoy.com/apple/apple-watch-ultra-muy-caro-pero-reacondicionado-no-tanto-rebajado-600-euros-1388369'>El Apple Watch Ultra es muy caro, pero reacondicionado no tanto: está rebajado a 600 euros</a></h4>
+    <a href='https://computerhoy.com/apple/apple-watch-ultra-muy-caro-pero-reacondicionado-no-tanto-rebajado-600-euros-1388369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apple-watch-ultra-3086866.jpg?tf=1200x' alt='El Apple Watch Ultra es muy caro, pero reacondicionado no tanto: está rebajado a 600 euros' />
     </a>
 </div>
 
