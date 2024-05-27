@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947'>Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect</a></h4>
+    <a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410'>El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar</a></h4>
     <a href='https://computerhoy.com/tecnologia/garmin-fenix-7-oferta-varias-tiendas-mejor-reloj-deportivo-1177410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-fenix-7-3361014.jpg?tf=1200x' alt='El Garmin Fenix 7 desata la guerra de precios, y Amazon la va ganando con una rebaja difícil de igualar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227'>Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno</a></h4>
     <a href='https://computerhoy.com/aplicaicones/maldita-nostalgia-muchos-emuladores-iphone-pero-ningun-juego-bueno-1387227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/emuladores-iphone-3339788.jpg?tf=1200x' alt='Maldita nostalgia: muchos emuladores para iPhone, pero ningún juego bueno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091'>Los semáforos para camellos existen, porque en el desierto también hay atascos</a></h4>
-    <a href='https://computerhoy.com/motor/semaforos-camellos-existen-desierto-atascos-1388091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/semaforos-camellos-existen-porque-desierto-tambien-hay-atascos-3372615.jpg?tf=1200x' alt='Los semáforos para camellos existen, porque en el desierto también hay atascos' />
     </a>
 </div>
 
