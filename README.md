@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768'>Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/redmi-13c-movil-xiaomi-barato-oferta-aliexpress-1377768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-13c-3296725.jpg?tf=1200x' alt='Tan barato como los Xiaomi de antaño pero más potente: cuesta 104 euros y tiene hasta 8GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
     </a>
 </div>
 
