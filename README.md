@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-acceder-chatgpt-gpt-4o-forma-totalmente-gratis-1388211'>Cómo acceder a ChatGPT con GPT-4o de forma totalmente gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-acceder-chatgpt-gpt-4o-forma-totalmente-gratis-1388211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-lanza-gpt-4o-primer-modelo-lengua-trabaja-tiempo-real-latencia-3311692.jpg?tf=1200x' alt='Cómo acceder a ChatGPT con GPT-4o de forma totalmente gratis' />
+    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
+    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724'>Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-1387724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-11-modo-s-version-ultrasegura-microsoft-sirve-como-desactivarlo-pc-3358565.jpg?tf=1200x' alt='Windows 11 en modo S, la versión ultrasegura de Microsoft: qué es, para qué sirve y cómo desactivarlo de tu PC' />
+    <h4><a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215'>¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo</a></h4>
+    <a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916'>¿Dónde se guardan los certificados digitales en Windows 10 y 11?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/donde-guardan-certificados-digitales-windows-10-11-1387916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/donde-guardan-certificados-digitales-windows-10-11-3365077.jpg?tf=1200x' alt='¿Dónde se guardan los certificados digitales en Windows 10 y 11?' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-airtag-modelo-barato-funciona-ios-android-1387207'>Olvida los Airtag: este modelo es más barato y funciona con iOS y Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-airtag-modelo-barato-funciona-ios-android-1387207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/eufy-security-smarttrack-link-3339352.jpg?tf=1200x' alt='Olvida los Airtag: este modelo es más barato y funciona con iOS y Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947'>Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect</a></h4>
-    <a href='https://computerhoy.com/tecnologia/controla-raspberry-pi-remoto-pc-connect-1384947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/raspberry-mejora-conectividad-remoto-nueva-funcion-raspberry-pi-connect-3309459.jpg?tf=1200x' alt='Controla tu Raspberry Pi en remoto desde tu PC con Raspberry Pi Connect' />
+    <h4><a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915'>Qué es el doxing y cómo protegerte de este peligroso acoso en internet</a></h4>
+    <a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/doxing-como-protegerte-peligroso-acoso-internet-3364669.jpg?tf=1200x' alt='Qué es el doxing y cómo protegerte de este peligroso acoso en internet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298'>Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/administraciones-publicas-espanolas-son-caramelo-ciberdelincuentes-ocurriendo-1387298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aapp-ciberseguridad-3363149.jpg?tf=1200x' alt='Las Administraciones Públicas españolas son un caramelo para los ciberdelincuentes: ¿Qué está ocurriendo? ' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240'>El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-parece-sacado-ano-2000-pero-incluso-ocu-advierte-3339943.jpg?tf=1200x' alt='El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte' />
     </a>
 </div>
 
