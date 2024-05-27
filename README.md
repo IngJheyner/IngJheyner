@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234'>Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80</a></h4>
-    <a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/space-quest-ii-3387196.jpg?tf=1200x' alt='Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80' />
+    <h4><a href='https://computerhoy.com/tutoriales/errores-comunes-cuando-disco-ssd-esta-lleno-como-solucionarlos-1383990'>Errores comunes cuando tu disco SSD está lleno y cómo solucionarlos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/errores-comunes-cuando-disco-ssd-esta-lleno-como-solucionarlos-1383990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-3307863.jpg?tf=1200x' alt='Errores comunes cuando tu disco SSD está lleno y cómo solucionarlos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914'>Cómo descargar vídeos de X (Twitter) en un móvil Android o en iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-videos-x-movil-android-iphone-1387914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-descargar-videos-x-movil-android-iphone-3364397.jpg?tf=1200x' alt='Cómo descargar vídeos de X (Twitter) en un móvil Android o en iPhone' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252'>Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/contrasenas-seguras-consejos-proteger-cuentas-evitar-hackers-1386992'>¿Tus contraseñas son seguras? Consejos para proteger tus cuentas y evitar a los hackers</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/contrasenas-seguras-consejos-proteger-cuentas-evitar-hackers-1386992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-mundo-dice-usa-pero-como-crea-contrasena-segura-3321851.jpg?tf=1200x' alt='¿Tus contraseñas son seguras? Consejos para proteger tus cuentas y evitar a los hackers' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554'>Cómo poner contraseña a las fotos del iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-iphone-1386554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-poner-contrasena-fotos-iphone-3312913.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos del iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
-    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215'>¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo</a></h4>
-    <a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo' />
+    <h4><a href='https://computerhoy.com/tecnologia/16gb-ram-android-casi-como-google-oneplus-nord-3-nos-encanta-amazon-vende-barato-1388197'>16GB de RAM y Android casi como Google: el OnePlus Nord 3 nos encanta y Amazon lo vende barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/16gb-ram-android-casi-como-google-oneplus-nord-3-nos-encanta-amazon-vende-barato-1388197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-nord-3-3386136.jpg?tf=1200x' alt='16GB de RAM y Android casi como Google: el OnePlus Nord 3 nos encanta y Amazon lo vende barato' />
     </a>
 </div>
 
