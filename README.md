@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222'>Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/correo-gmail-3387648.jpg?tf=1200x' alt='Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/como-montar-pc-sin-errores-consejos-ahorrar-tiempo-dinero-1386122'>Cómo montar un PC sin errores: 10 consejos para ahorrar tiempo y dinero</a></h4>
     <a href='https://computerhoy.com/pc/como-montar-pc-sin-errores-consejos-ahorrar-tiempo-dinero-1386122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/montar-pc-3320080.jpg?tf=1200x' alt='Cómo montar un PC sin errores: 10 consejos para ahorrar tiempo y dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/errores-comunes-cuando-disco-ssd-esta-lleno-como-solucionarlos-1383990'>Errores comunes cuando tu disco SSD está lleno y cómo solucionarlos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/errores-comunes-cuando-disco-ssd-esta-lleno-como-solucionarlos-1383990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-hacer-cuando-disco-ssd-llena-empieza-dar-errores-3307863.jpg?tf=1200x' alt='Errores comunes cuando tu disco SSD está lleno y cómo solucionarlos' />
     </a>
 </div>
 
