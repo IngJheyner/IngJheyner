@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414'>Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido</a></h4>
+    <a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/decadencia-digital-40-webs-publicadas-hace-10-anos-han-desaparecido-3392787.jpg?tf=1200x' alt='Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210'>Razones por las que todavía deberías comprar un disco duro HDD</a></h4>
+    <a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/4-razones-deberias-comprar-disco-duro-hdd-3311736.jpg?tf=1200x' alt='Razones por las que todavía deberías comprar un disco duro HDD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545'>Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida</a></h4>
     <a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-mi-smart-standing-fan-2-3386410.jpg?tf=1200x' alt='Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/poco-f6-pro-analisis-opinion-1388135'>Tras dos semanas de prueba, POCO demuestra por qué POCO F6 Pro se mantiene como el rey de la gama media</a></h4>
-    <a href='https://computerhoy.com/analisis/poco-f6-pro-analisis-opinion-1388135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376136.jpg?tf=1200x' alt='Tras dos semanas de prueba, POCO demuestra por qué POCO F6 Pro se mantiene como el rey de la gama media' />
     </a>
 </div>
 
