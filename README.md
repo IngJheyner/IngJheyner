@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
+    <h4><a href='https://computerhoy.com/tecnologia/locura-oneplus-carga-150w-snapdragon-8-gen-1-menos-cuesta-xiaomi-gama-media-1388434'>Esto es una locura de OnePlus: carga a 150W y Snapdragon 8+ Gen 1 por menos de lo que cuesta un Xiaomi de gama media</a></h4>
+    <a href='https://computerhoy.com/tecnologia/locura-oneplus-carga-150w-snapdragon-8-gen-1-menos-cuesta-xiaomi-gama-media-1388434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg?tf=1200x' alt='Esto es una locura de OnePlus: carga a 150W y Snapdragon 8+ Gen 1 por menos de lo que cuesta un Xiaomi de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-da-campanada-adelanta-ofertas-fire-tv-stick-no-espera-prime-day-1388406'>Amazon da la campanada: adelanta las ofertas de los Fire TV Stick y no espera al Prime Day</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-da-campanada-adelanta-ofertas-fire-tv-stick-no-espera-prime-day-1388406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Amazon da la campanada: adelanta las ofertas de los Fire TV Stick y no espera al Prime Day' />
+    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
+    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322'>El modo secreto de tu router WiFi que deberías activar ya</a></h4>
-    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='El modo secreto de tu router WiFi que deberías activar ya' />
+    <h4><a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426'>No se puede confiar en la IA tanto como Google nos quiere hacer creer</a></h4>
+    <a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-ia-google-3394001.jpg?tf=1200x' alt='No se puede confiar en la IA tanto como Google nos quiere hacer creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414'>Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido</a></h4>
-    <a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/decadencia-digital-40-webs-publicadas-hace-10-anos-han-desaparecido-3392787.jpg?tf=1200x' alt='Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido' />
+    <h4><a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215'>¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo</a></h4>
+    <a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210'>Razones por las que todavía deberías comprar un disco duro HDD</a></h4>
-    <a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/4-razones-deberias-comprar-disco-duro-hdd-3311736.jpg?tf=1200x' alt='Razones por las que todavía deberías comprar un disco duro HDD' />
+    <h4><a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915'>Qué es el doxing y cómo protegerte de este peligroso acoso en internet</a></h4>
+    <a href='https://computerhoy.com/internet/doxing-como-protegerte-peligroso-acoso-internet-1387915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/doxing-como-protegerte-peligroso-acoso-internet-3364669.jpg?tf=1200x' alt='Qué es el doxing y cómo protegerte de este peligroso acoso en internet' />
     </a>
 </div>
 
