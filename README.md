@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-desploma-precio-movil-xiaomi-carga-120w-1295174'>Se desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-desploma-precio-movil-xiaomi-carga-120w-1295174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-redmi-note-13-pro-5g-xiaomi-redmi-note-13-pro-plus-5g-3366920.jpg?tf=1200x' alt='Se desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397'>Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo</a></h4>
+    <a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dos-estudios-aseguran-youtubers-nos-hacen-felices-amigos-3391257.jpg?tf=1200x' alt='Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394'>5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento</a></h4>
     <a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386'>Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte</a></h4>
     <a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-3390836.jpg?tf=1200x' alt='Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388'>Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos</a></h4>
-    <a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos' />
     </a>
 </div>
 
