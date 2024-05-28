@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234'>Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80</a></h4>
-    <a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/space-quest-ii-3387196.jpg?tf=1200x' alt='Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80' />
+    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422'>¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-ransomware-consigue-acceder-datos-encriptados-bitlocker-3393667.jpg?tf=1200x' alt='¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761'>Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/onlyfans-como-funciona-red-social-adultos-polemica-809761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/onlyfans-3387943.jpg?tf=1200x' alt='Qué es OnlyFans, cómo funciona y cómo ganar dinero en la red social más polémica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448'>Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-aurora-intel-3394150.jpg?tf=1200x' alt='Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?' />
+    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
+    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/bloqueo-impedia-usuarios-actualizar-windows-1379322'>Microsoft levantó el mes pasado un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/bloqueo-impedia-usuarios-actualizar-windows-1379322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/4-formas-ejecutar-cualquier-archivo-programa-como-administrador-windows-11-3290165.jpg?tf=1200x' alt='Microsoft levantó el mes pasado un bloqueo de dos años que impedía a estos usuarios de Windows 10 actualizar a Windows 11' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252'>Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/locura-oneplus-carga-150w-snapdragon-8-gen-1-menos-cuesta-xiaomi-gama-media-1388434'>Esto es una locura de OnePlus: carga a 150W y Snapdragon 8+ Gen 1 por menos de lo que cuesta un Xiaomi de gama media</a></h4>
-    <a href='https://computerhoy.com/tecnologia/locura-oneplus-carga-150w-snapdragon-8-gen-1-menos-cuesta-xiaomi-gama-media-1388434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/oneplus-10t-5g-oficial-movil-premium-snapdragon-8-gen-1-carga-superrapida-150-w-2776619.jpg?tf=1200x' alt='Esto es una locura de OnePlus: carga a 150W y Snapdragon 8+ Gen 1 por menos de lo que cuesta un Xiaomi de gama media' />
+    <h4><a href='https://computerhoy.com/apps/llega-waze-funcion-mas-esperada-1387775'>Llega a Waze una de las funciones más solicitadas por sus usuarios tras meses de espera</a></h4>
+    <a href='https://computerhoy.com/apps/llega-waze-funcion-mas-esperada-1387775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/meses-espera-llega-waze-funcion-solicitada-usuarios-3360001.jpg?tf=1200x' alt='Llega a Waze una de las funciones más solicitadas por sus usuarios tras meses de espera' />
     </a>
 </div>
 
