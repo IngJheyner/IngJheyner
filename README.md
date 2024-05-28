@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/iptv-sportscasts-futbol-pirata-produccion-comentaristas-1377242'>El caso de Sportscasts, el surrealista canal IPTV que retransmite fútbol pirata con producción y comentaristas propios</a></h4>
-    <a href='https://computerhoy.com/internet/iptv-sportscasts-futbol-pirata-produccion-comentaristas-1377242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/sportscasts-surrealista-canal-iptv-retransmite-partidos-futbol-pirata-como-fueran-legales-3295979.jpg?tf=1200x' alt='El caso de Sportscasts, el surrealista canal IPTV que retransmite fútbol pirata con producción y comentaristas propios' />
+    <h4><a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545'>Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-mi-smart-standing-fan-2-3386410.jpg?tf=1200x' alt='Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191'>El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-bioprocesador-mundo-disponible-online-tiene-16-minicerebros-vivos-1388191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-bioprocesador-mundo-online-tiene-16-minicerebros-conectados-3385596.jpg?tf=1200x' alt='El primer bioprocesador del mundo disponible online, tiene 16 minicerebros vivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839'>Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rutinas-huawei-watch-fit-3-3307643.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297'>Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-ofertas-empleo-demasiado-buenas-son-portales-falsos-advierte-guardia-civil-3387791.jpg?tf=1200x' alt='Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil' />
+    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-desploma-precio-movil-xiaomi-carga-120w-1295174'>Se desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-desploma-precio-movil-xiaomi-carga-120w-1295174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-redmi-note-13-pro-5g-xiaomi-redmi-note-13-pro-plus-5g-3366920.jpg?tf=1200x' alt='Se desploma el precio del móvil más bestial de Xiaomi: carga a 120W y cámara de 200 megapíxeles' />
+    <h4><a href='https://computerhoy.com/analisis/poco-f6-pro-analisis-opinion-1388135'>Tras dos semanas de prueba, POCO demuestra por qué POCO F6 Pro se mantiene como el rey de la gama media</a></h4>
+    <a href='https://computerhoy.com/analisis/poco-f6-pro-analisis-opinion-1388135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376136.jpg?tf=1200x' alt='Tras dos semanas de prueba, POCO demuestra por qué POCO F6 Pro se mantiene como el rey de la gama media' />
     </a>
 </div>
 
