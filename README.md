@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484'>Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini</a></h4>
+    <a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-3394773.jpg?tf=1200x' alt='Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273'>Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera</a></h4>
     <a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guardia-civil-control-3387636.jpg?tf=1200x' alt='Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/mensaje-whatsapp-estos-prefijos-alerta-1387791'>Los mensajes de Whatsapp que llegan desde números con estos prefijos suelen ser estafas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mensaje-whatsapp-estos-prefijos-alerta-1387791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Los mensajes de Whatsapp que llegan desde números con estos prefijos suelen ser estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo poner contraseña a las notas del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo poner contraseña a las notas del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264'>Esta es la altura perfecta a la que debes colocar tu router WiFi en casa</a></h4>
-    <a href='https://computerhoy.com/tutoriales/altura-perfecta-debes-colocar-router-wifi-casa-1220264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/senal-router-wifi-2992564.jpg?tf=1200x' alt='Esta es la altura perfecta a la que debes colocar tu router WiFi en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
     </a>
 </div>
 
