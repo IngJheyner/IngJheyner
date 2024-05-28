@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
     <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral' />
     </a>
 </div>
 
