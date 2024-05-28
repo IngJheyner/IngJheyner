@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535'>Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones</a></h4>
     <a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-3396428.jpg?tf=1200x' alt='Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
     </a>
 </div>
 
