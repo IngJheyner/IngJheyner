@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394'>5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento</a></h4>
+    <a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392'>Copilot, la IA de Microsoft, ya está en Telegram: así puedes usarla gratis</a></h4>
     <a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-ya-telegram-puedes-usarla-gratis-3390698.jpg?tf=1200x' alt='Copilot, la IA de Microsoft, ya está en Telegram: así puedes usarla gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388'>Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos</a></h4>
     <a href='https://computerhoy.com/life/primera-provincia-implantar-dni-expres-foto-cuestion-minutos-1388388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/alemania-permitira-usar-iphone-como-dni-pronto-podria-llegar-espana.jpg?tf=1200x' alt='Primera provincia en implantar el DNI exprés: sin foto y en cuestión de minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387'>Tus juegos de Steam te los llevarás a la tumba</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-steam-te-llevaras-tumba-1388387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/juegos-steam-te-llevaras-tumba-3389851.jpg?tf=1200x' alt='Tus juegos de Steam te los llevarás a la tumba' />
     </a>
 </div>
 
