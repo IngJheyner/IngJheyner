@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586'>Gemini, la IA de Google, también se integra en otro navegador que no es Chrome</a></h4>
+    <a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-ia-google-tambien-integra-otro-navegador-no-chrome-3397172.jpg?tf=1200x' alt='Gemini, la IA de Google, también se integra en otro navegador que no es Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
+    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580'>Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad</a></h4>
     <a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
     </a>
 </div>
 
