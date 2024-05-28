@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593'>Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares </a></h4>
+    <a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-preocupada-tinnitus-acufenos-sufren-usuarios-auriculares-3397896.jpg?tf=1200x' alt='Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586'>Gemini, la IA de Google, también se integra en otro navegador que no es Chrome</a></h4>
     <a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-ia-google-tambien-integra-otro-navegador-no-chrome-3397172.jpg?tf=1200x' alt='Gemini, la IA de Google, también se integra en otro navegador que no es Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579'>Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024</a></h4>
     <a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sistema-solar-3397176.jpg?tf=1200x' alt='Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
     </a>
 </div>
 
