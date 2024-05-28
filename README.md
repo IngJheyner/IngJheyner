@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484'>Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini</a></h4>
     <a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-3394773.jpg?tf=1200x' alt='Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps se convierte en la prueba definitiva para demostrar este accidente laboral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273'>Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera</a></h4>
-    <a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guardia-civil-control-3387636.jpg?tf=1200x' alt='Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mensaje-whatsapp-estos-prefijos-alerta-1387791'>Los mensajes de Whatsapp que llegan desde números con estos prefijos suelen ser estafas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mensaje-whatsapp-estos-prefijos-alerta-1387791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-ciberseguridad-3360485.jpg?tf=1200x' alt='Los mensajes de Whatsapp que llegan desde números con estos prefijos suelen ser estafas' />
     </a>
 </div>
 
