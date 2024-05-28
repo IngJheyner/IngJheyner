@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580'>Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad</a></h4>
+    <a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579'>Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024</a></h4>
+    <a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sistema-solar-3397176.jpg?tf=1200x' alt='Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
     <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535'>Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones</a></h4>
-    <a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-3396428.jpg?tf=1200x' alt='Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395'>Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-ajustes-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-3392091.jpg?tf=1200x' alt='Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11' />
     </a>
 </div>
 
