@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395'>Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-ajustes-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-3392091.jpg?tf=1200x' alt='Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484'>Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini</a></h4>
     <a href='https://computerhoy.com/google/portatiles-chromebook-plus-buscan-revalorizarse-inteligencia-artificial-gracias-gemini-1388484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/asus-chromebook-plus-3394773.jpg?tf=1200x' alt='Los portátiles Chromebook Plus buscan revalorizarse con inteligencia artificial gracias a Gemini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
     </a>
 </div>
 
