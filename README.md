@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amazon-da-campanada-adelanta-ofertas-fire-tv-stick-no-espera-prime-day-1388406'>Amazon da la campanada: adelanta las ofertas de los Fire TV Stick y no espera al Prime Day</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amazon-da-campanada-adelanta-ofertas-fire-tv-stick-no-espera-prime-day-1388406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Amazon da la campanada: adelanta las ofertas de los Fire TV Stick y no espera al Prime Day' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322'>El modo secreto de tu router WiFi que deberías activar ya</a></h4>
+    <a href='https://computerhoy.com/internet/modo-secreto-router-wifi-deberias-activar-ahora-mismo-1189322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='El modo secreto de tu router WiFi que deberías activar ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414'>Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido</a></h4>
     <a href='https://computerhoy.com/internet/decadencia-digital-webs-publicadas-hace-10-anos-han-desaparecido-1388414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/decadencia-digital-40-webs-publicadas-hace-10-anos-han-desaparecido-3392787.jpg?tf=1200x' alt='Decadencia digital: el 25% de las webs publicadas en los últimos 10 años, han desaparecido' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210'>Razones por las que todavía deberías comprar un disco duro HDD</a></h4>
     <a href='https://computerhoy.com/pc/razones-todavia-deberias-comprar-disco-duro-hdd-1386210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/4-razones-deberias-comprar-disco-duro-hdd-3311736.jpg?tf=1200x' alt='Razones por las que todavía deberías comprar un disco duro HDD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545'>Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ventilador-wifi-xiaomi-merece-pena-comprar-1387545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-mi-smart-standing-fan-2-3386410.jpg?tf=1200x' alt='Me compré el ventilador Xiaomi y ahora no puedo volver a los ventiladores sin WiFi de toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
-    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043'>¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/rootkit-como-podria-acabar-ordenador-te-enteres-1384043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/verticalimage1716539886649-3366939.jpg?tf=1200x' alt='¿Qué es rootkit y cómo podría acabar con tu ordenador sin que te enteres?' />
     </a>
 </div>
 
