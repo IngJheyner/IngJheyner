@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cuesta-8-euros-vas-agradecer-cable-pone-internet-40-gbps-segundo-1388712'>Cuesta 8 euros y lo vas a agradecer: este cable pone internet a 40 Gbps por segundo</a></h4>
-    <a href='https://computerhoy.com/redes/cuesta-8-euros-vas-agradecer-cable-pone-internet-40-gbps-segundo-1388712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ugreen-cat-8-3402608.jpg?tf=1200x' alt='Cuesta 8 euros y lo vas a agradecer: este cable pone internet a 40 Gbps por segundo' />
+    <h4><a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052'>¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones</a></h4>
+    <a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-3369581.jpg?tf=1200x' alt='¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918'>Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-sandbox-sirve-como-activa-windows-11-3365487.jpg?tf=1200x' alt='Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11' />
+    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
+    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-1388732'>Google Maps necesita mantenimiento: debes hacerlo regularmente para que no pierda precisión</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-1388732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-3403400.jpg?tf=1200x' alt='Google Maps necesita mantenimiento: debes hacerlo regularmente para que no pierda precisión' />
+    <h4><a href='https://computerhoy.com/pc/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-1388748'>HWiNFO, el software de diagnóstico gratis para Windows que utilizan incluso en la NASA</a></h4>
+    <a href='https://computerhoy.com/pc/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-1388748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-3403837.jpg?tf=1200x' alt='HWiNFO, el software de diagnóstico gratis para Windows que utilizan incluso en la NASA' />
     </a>
 </div>
 
