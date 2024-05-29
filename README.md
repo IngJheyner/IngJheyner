@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
+    <h4><a href='https://computerhoy.com/redes/cuesta-8-euros-vas-agradecer-cable-pone-internet-40-gbps-segundo-1388712'>Cuesta 8 euros y lo vas a agradecer: este cable pone internet a 40 Gbps por segundo</a></h4>
+    <a href='https://computerhoy.com/redes/cuesta-8-euros-vas-agradecer-cable-pone-internet-40-gbps-segundo-1388712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ugreen-cat-8-3402608.jpg?tf=1200x' alt='Cuesta 8 euros y lo vas a agradecer: este cable pone internet a 40 Gbps por segundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044'>Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-3368884.jpg?tf=1200x' alt='Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo' />
+    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    <h4><a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918'>Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/windows-sandbox-sirve-como-activa-windows-11-1387918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-sandbox-sirve-como-activa-windows-11-3365487.jpg?tf=1200x' alt='Qué es Windows Sandbox, para qué sirve y cómo se activa en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/google/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-1388732'>Google Maps necesita mantenimiento: debes hacerlo regularmente para que no pierda precisión</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-1388732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-necesita-mantenimiento-debes-hacerlo-regularmente-no-pierda-precision-3403400.jpg?tf=1200x' alt='Google Maps necesita mantenimiento: debes hacerlo regularmente para que no pierda precisión' />
     </a>
 </div>
 
