@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052'>¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones</a></h4>
-    <a href='https://computerhoy.com/apps/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-1388052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dejar-google-maps-waze-cada-vez-hay-gente-hace-tienen-buenas-razones-3369581.jpg?tf=1200x' alt='¿Dejar Google Maps por Waze? Cada vez hay más gente que lo hace, y tienen buenas razones' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
+    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014'>Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)</a></h4>
-    <a href='https://computerhoy.com/apple/bill-gates-estos-son-unicos-trabajos-no-seran-reemplazados-ia-1388014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-son-unicos-trabajos-no-seran-reemplazados-ia-apple-preparando-3368745.jpg?tf=1200x' alt='Para Bill Gates estos son los únicos trabajos que no serán reemplazados por la IA (y Apple lleva ventaja)' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-1388748'>HWiNFO, el software de diagnóstico gratis para Windows que utilizan incluso en la NASA</a></h4>
-    <a href='https://computerhoy.com/pc/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-1388748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/hwinfo-software-diagnostico-gratis-windows-utilizan-incluso-nasa-3403837.jpg?tf=1200x' alt='HWiNFO, el software de diagnóstico gratis para Windows que utilizan incluso en la NASA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639'>Cómo bloquear un programa o aplicación en el firewall de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-programa-aplicacion-firewall-windows-11-3314574.jpg?tf=1200x' alt='Cómo bloquear un programa o aplicación en el firewall de Windows 11' />
     </a>
 </div>
 
