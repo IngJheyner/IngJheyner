@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357'>He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%</a></h4>
+    <a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389287.jpg?tf=1200x' alt='He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495'>En qué deberías fijarte antes de comprar un robot de limpieza para casa</a></h4>
+    <a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232704.jpg?tf=1200x' alt='En qué deberías fijarte antes de comprar un robot de limpieza para casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544'>Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/futurama-3396123.jpg?tf=1200x' alt='Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
     <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596'>Así explotó el cohete que transportaba el satélite espía de Corea del Norte</a></h4>
     <a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exploto-cohete-transportaba-satelite-espia-corea-norte-3398598.jpg?tf=1200x' alt='Así explotó el cohete que transportaba el satélite espía de Corea del Norte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593'>Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares </a></h4>
-    <a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-preocupada-tinnitus-acufenos-sufren-usuarios-auriculares-3397896.jpg?tf=1200x' alt='Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586'>Gemini, la IA de Google, también se integra en otro navegador que no es Chrome</a></h4>
-    <a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-ia-google-tambien-integra-otro-navegador-no-chrome-3397172.jpg?tf=1200x' alt='Gemini, la IA de Google, también se integra en otro navegador que no es Chrome' />
     </a>
 </div>
 
