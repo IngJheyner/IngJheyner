@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
+    <h4><a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988'>El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema</a></h4>
+    <a href='https://computerhoy.com/criptos/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-1387988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/valor-9999999-criptomonedas-sera-cero-pero-no-unico-problema-3367313.jpg?tf=1200x' alt='El valor del 99,99999% de las criptomonedas será de cero, pero no es el único problema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
-    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252'>Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar' />
+    <h4><a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273'>Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera</a></h4>
+    <a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guardia-civil-control-3387636.jpg?tf=1200x' alt='Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
+    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646'>Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas</a></h4>
+    <a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/implante-cerebro-3401231.jpg?tf=1200x' alt='Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/sencillo-truco-evitar-movil-escuche-conversaciones-1326762'>Evita que tu móvil escuche tus conversaciones con este truco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/sencillo-truco-evitar-movil-escuche-conversaciones-1326762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/sencillo-truco-evitar-movil-escuche-conversaciones-3207452.jpg?tf=1200x' alt='Evita que tu móvil escuche tus conversaciones con este truco' />
     </a>
 </div>
 
