@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596'>Así explotó el cohete que transportaba el satélite espía de Corea del Norte</a></h4>
     <a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exploto-cohete-transportaba-satelite-espia-corea-norte-3398598.jpg?tf=1200x' alt='Así explotó el cohete que transportaba el satélite espía de Corea del Norte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586'>Gemini, la IA de Google, también se integra en otro navegador que no es Chrome</a></h4>
     <a href='https://computerhoy.com/google/gemini-ia-google-integra-navegador-opera-1388586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-ia-google-tambien-integra-otro-navegador-no-chrome-3397172.jpg?tf=1200x' alt='Gemini, la IA de Google, también se integra en otro navegador que no es Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
-    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
     </a>
 </div>
 
