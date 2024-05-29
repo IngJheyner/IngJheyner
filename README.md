@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
+    <h4><a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629'>La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?</a></h4>
+    <a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
-    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir adiós al buscador de Google con IA será la nueva decisión que tome' />
+    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
+    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/video-muestra-cuatro-peces-cebra-estacion-espacial-china-1388625'>Un vídeo muestra los cuatro "acuastronautas" de la estación espacial china</a></h4>
-    <a href='https://computerhoy.com/espacio/video-muestra-cuatro-peces-cebra-estacion-espacial-china-1388625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/video-muestra-cuatro-acuastronautas-llevan-20-dias-estacion-espacial-china-3400161.jpg?tf=1200x' alt='Un vídeo muestra los cuatro "acuastronautas" de la estación espacial china' />
+    <h4><a href='https://computerhoy.com/windows/nueva-funcion-windows-11-no-revelara-secretos-musk-1387949'>Elon Musk compara esta nueva función IA de Windows 11 con Black Mirror, pero no es para tanto</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-funcion-windows-11-no-revelara-secretos-musk-1387949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Elon Musk compara esta nueva función IA de Windows 11 con Black Mirror, pero no es para tanto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610'>Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días' />
+    <h4><a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426'>No se puede confiar en la IA tanto como Google nos quiere hacer creer</a></h4>
+    <a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-ia-google-3394001.jpg?tf=1200x' alt='No se puede confiar en la IA tanto como Google nos quiere hacer creer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
+    <h4><a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215'>¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo</a></h4>
+    <a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo' />
     </a>
 </div>
 
