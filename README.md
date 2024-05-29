@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615'>Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas</a></h4>
-    <a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
+    <h4><a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947'>Decir adiós al buscador de Google con IA será la nueva decisión que tome</a></h4>
+    <a href='https://computerhoy.com/google/decir-adios-buscador-google-ia-sera-nueva-decision-tome-1387947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-ia-3366752.jpg?tf=1200x' alt='Decir adiós al buscador de Google con IA será la nueva decisión que tome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/air-fryer-cosori-oferta-amazon-1205240'>La freidora Cosori que arrasa Amazon, de rebajas con un 39% de descuento</a></h4>
-    <a href='https://computerhoy.com/hogar/air-fryer-cosori-oferta-amazon-1205240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosori-caf-li401s-3387497.jpg?tf=1200x' alt='La freidora Cosori que arrasa Amazon, de rebajas con un 39% de descuento' />
+    <h4><a href='https://computerhoy.com/espacio/video-muestra-cuatro-peces-cebra-estacion-espacial-china-1388625'>Un vídeo muestra los cuatro "acuastronautas" de la estación espacial china</a></h4>
+    <a href='https://computerhoy.com/espacio/video-muestra-cuatro-peces-cebra-estacion-espacial-china-1388625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/video-muestra-cuatro-acuastronautas-llevan-20-dias-estacion-espacial-china-3400161.jpg?tf=1200x' alt='Un vídeo muestra los cuatro "acuastronautas" de la estación espacial china' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357'>He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389287.jpg?tf=1200x' alt='He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610'>Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
-    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
     </a>
 </div>
 
