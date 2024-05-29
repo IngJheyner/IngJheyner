@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615'>Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas</a></h4>
+    <a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762'>Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/problemas-openai-multiplican-pasando-sam-altman-1387762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3361990.jpg?tf=1200x' alt='Los problemas de OpenAI se multiplican: ¿qué está pasando con Sam Altman?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/air-fryer-cosori-oferta-amazon-1205240'>La freidora Cosori que arrasa Amazon, de rebajas con un 39% de descuento</a></h4>
+    <a href='https://computerhoy.com/hogar/air-fryer-cosori-oferta-amazon-1205240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cosori-caf-li401s-3387497.jpg?tf=1200x' alt='La freidora Cosori que arrasa Amazon, de rebajas con un 39% de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357'>He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-nuevo-ipad-pro-m4-13-pulgadas-bestia-no-consigo-aprovechar-ni-50-1388357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389287.jpg?tf=1200x' alt='He probado el nuevo iPad Pro M4 de 13 pulgadas: es una bestia que no consigo aprovechar ni al 50%' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495'>En qué deberías fijarte antes de comprar un robot de limpieza para casa</a></h4>
-    <a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232704.jpg?tf=1200x' alt='En qué deberías fijarte antes de comprar un robot de limpieza para casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544'>Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/futurama-3396123.jpg?tf=1200x' alt='Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596'>Así explotó el cohete que transportaba el satélite espía de Corea del Norte</a></h4>
-    <a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exploto-cohete-transportaba-satelite-espia-corea-norte-3398598.jpg?tf=1200x' alt='Así explotó el cohete que transportaba el satélite espía de Corea del Norte' />
+    <h4><a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314'>Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado</a></h4>
+    <a href='https://computerhoy.com/moviles/memoria-moviles-ya-supera-256-gb-ha-crecido-1384314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Memoria grande, ande o no ande: los móviles con 256 GB o más ya son la mitad del mercado' />
     </a>
 </div>
 
