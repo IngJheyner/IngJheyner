@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596'>Así explotó el cohete que transportaba el satélite espía de Corea del Norte</a></h4>
+    <a href='https://computerhoy.com/espacio/exploto-cohete-transportaba-satelite-espia-corea-norte-1388596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/exploto-cohete-transportaba-satelite-espia-corea-norte-3398598.jpg?tf=1200x' alt='Así explotó el cohete que transportaba el satélite espía de Corea del Norte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593'>Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares </a></h4>
     <a href='https://computerhoy.com/apple/apple-preocupada-tinnitus-acufenos-usuarios-auriculares-1388593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-preocupada-tinnitus-acufenos-sufren-usuarios-auriculares-3397896.jpg?tf=1200x' alt='Apple está preocupada por los tinnitus o acúfenos que sufren los usuarios de auriculares ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
     <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580'>Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad</a></h4>
-    <a href='https://computerhoy.com/apple/apple-podria-tener-cambiar-orientacion-logo-parte-trasera-ipad-1388580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ipad-pro-3126616.jpg?tf=1200x' alt='Apple podría tener que cambiar la orientación de su logo en la parte trasera de los iPad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579'>Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024</a></h4>
-    <a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sistema-solar-3397176.jpg?tf=1200x' alt='Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024' />
     </a>
 </div>
 
