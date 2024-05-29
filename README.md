@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-activar-doble-check-gmail-1358038'>Cómo activar la confirmación de lectura en Gmail para saber si tus correos son leídos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-activar-doble-check-gmail-1358038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-doble-check-gmail-saber-correos-han-sido-leidos-3263133.jpg?tf=1200x' alt='Cómo activar la confirmación de lectura en Gmail para saber si tus correos son leídos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946'>Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-cree-ia-terminara-empleos-pero-no-hay-preocuparse-1387946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-ofrece-1000-millones-wikipedia-3204184.jpg?tf=1200x' alt='Elon Musk cree que la inteligencia artificial terminará con los empleos, pero no hay que preocuparse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044'>Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/android/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-1388044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/modo-deep-sleep-android-sirve-deberias-activarlo-ahora-mismo-3368884.jpg?tf=1200x' alt='Qué es el modo deep sleep en Android, para qué sirve y por qué deberías activarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
     <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889'>5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido</a></h4>
-    <a href='https://computerhoy.com/ciencia/avances-tecnologicos-todo-mundo-daba-hecho-no-han-cumplido-1384889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-avances-tecnologicos-todo-mundo-daba-hecho-pasado-no-han-cumplido-3309345.jpg?tf=1200x' alt='5 avances tecnológicos que todo el mundo daba por hecho en el pasado y no se han cumplido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654'>Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cloudflare-iptv-futbol-3401691.jpg?tf=1200x' alt='Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
     </a>
 </div>
 
