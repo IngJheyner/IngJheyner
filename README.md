@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
+    <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
+    <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
+    <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639'>Cómo bloquear un programa o aplicación en el firewall de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-programa-aplicacion-firewall-windows-11-3314574.jpg?tf=1200x' alt='Cómo bloquear un programa o aplicación en el firewall de Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
     </a>
 </div>
 
