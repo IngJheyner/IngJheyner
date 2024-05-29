@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629'>La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?</a></h4>
-    <a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?' />
+    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
-    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
+    <h4><a href='https://computerhoy.com/tecnologia/8tb-vez-siempre-precio-regalo-oferta-1388238'>8TB tuyos, de una vez y para siempre, y a precio de regalo con esta oferta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/8tb-vez-siempre-precio-regalo-oferta-1388238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/seagate-barracuda-3386890.jpg?tf=1200x' alt='8TB tuyos, de una vez y para siempre, y a precio de regalo con esta oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-funcion-windows-11-no-revelara-secretos-musk-1387949'>Elon Musk compara esta nueva función IA de Windows 11 con Black Mirror, pero no es para tanto</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-funcion-windows-11-no-revelara-secretos-musk-1387949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-presenta-copilot-pc-ia-dos-surface-snapdragon-elite-x-3341986.jpg?tf=1200x' alt='Elon Musk compara esta nueva función IA de Windows 11 con Black Mirror, pero no es para tanto' />
+    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen</a></h4>
+    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426'>No se puede confiar en la IA tanto como Google nos quiere hacer creer</a></h4>
-    <a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-ia-google-3394001.jpg?tf=1200x' alt='No se puede confiar en la IA tanto como Google nos quiere hacer creer' />
+    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
+    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215'>¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo</a></h4>
-    <a href='https://computerhoy.com/google/quieres-acabar-buscador-google-ia-truco-definitivo-1388215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='¿Quieres acabar con el buscador de Google con IA o publicidad? Este es el truco definitivo' />
+    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
+    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
     </a>
 </div>
 
