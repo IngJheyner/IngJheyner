@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
+    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252'>Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987'>Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/puedes-ocultar-chats-whatsapp-codigo-secreto-evitar-cotillas-1387987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ocultar-chats-whatsapp-3367553.jpg?tf=1200x' alt='Así puedes ocultar chats en WhatsApp con un código secreto para evitar cotillas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
     <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/8tb-vez-siempre-precio-regalo-oferta-1388238'>8TB tuyos, de una vez y para siempre, y a precio de regalo con esta oferta</a></h4>
-    <a href='https://computerhoy.com/tecnologia/8tb-vez-siempre-precio-regalo-oferta-1388238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/seagate-barracuda-3386890.jpg?tf=1200x' alt='8TB tuyos, de una vez y para siempre, y a precio de regalo con esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764'>Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen</a></h4>
-    <a href='https://computerhoy.com/apps/cierto-pulsar-boton-whatsapp-evita-te-rastreen-1387764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/privacidad-whatsapp-3360330.jpg?tf=1200x' alt='Pulsar este botón de WhatsApp esconde tu IP pero no evita que te rastreen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
-    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965'>La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata</a></h4>
-    <a href='https://computerhoy.com/tv/justicia-da-razon-netflix-disney-cierre-masivo-paginas-iptv-descargas-pirata-1387965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/orden-judicial-da-razon-netflix-disney-han-empezado-cerrar-cientos-webs-ilegales-3366921.jpg?tf=1200x' alt='La justicia da la razón a Netflix y Disney: cierre masivo de páginas IPTV y descargas pirata' />
     </a>
 </div>
 
