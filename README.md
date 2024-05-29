@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784'>Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076'>Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-1388076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-saber-movil-segunda-mano-perfecto-estado-antes-comprarlo-3370381.jpg?tf=1200x' alt='Así puedes saber si un móvil de segunda mano está en perfecto estado antes de comprarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
+    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082'>Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/eres-padre-te-interesa-crean-maquina-contar-cuentos-raspberry-pi-ia-1388082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fably-3370123.jpg?tf=1200x' alt='Si eres padre te interesa: crean una máquina de contar cuentos con una Raspberry Pi y la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080'>Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología</a></h4>
-    <a href='https://computerhoy.com/gaming/finaliza-guerras-companias-antiguas-historia-tecnologia-1388080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/atari-intellivision-3370121.jpg?tf=1200x' alt='Finaliza una de las guerras entre compañías más antiguas de la historia de la tecnología' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
     </a>
 </div>
 
