@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ver-numero-seguridad-social-cinco-metodos-sencillos-obtenerlo-3365761.jpg?tf=1200x' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797'>Bark Air, la primera aerolínea para perros, completa su primer vuelo</a></h4>
     <a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bark-air-primera-aerolinea-perros-completa-primer-vuelo-3406802.jpg?tf=1200x' alt='Bark Air, la primera aerolínea para perros, completa su primer vuelo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
     <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
     </a>
 </div>
 
