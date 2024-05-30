@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
-    <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amazon-garmin-rompen-web-forerunner-barato-baja-precio-ya-top-ventas-1386853'>Amazon y Garmin rompen su web: el Forerunner más barato baja de precio y es ya top ventas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amazon-garmin-rompen-web-forerunner-barato-baja-precio-ya-top-ventas-1386853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-55-3319609.jpg?tf=1200x' alt='Amazon y Garmin rompen su web: el Forerunner más barato baja de precio y es ya top ventas' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535'>Cómo saber el modelo exacto de tu PC Windows de manera sencilla</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-modelo-exacto-pc-windows-manera-sencilla-3406645.jpg?tf=1200x' alt='Cómo saber el modelo exacto de tu PC Windows de manera sencilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
+    <h4><a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519'>Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pizza-pegamento-3400920.jpg?tf=1200x' alt='Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672'>Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud</a></h4>
-    <a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-3401695.jpg?tf=1200x' alt='Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud' />
+    <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
     </a>
 </div>
 
