@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-samsung-galaxy-watch-lte-rebaja-precio-1352363'>Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-samsung-galaxy-watch-lte-rebaja-precio-1352363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397'>Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo</a></h4>
+    <a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dos-estudios-aseguran-youtubers-nos-hacen-felices-amigos-3391257.jpg?tf=1200x' alt='Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
-    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392'>Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis</a></h4>
-    <a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-ya-telegram-puedes-usarla-gratis-3390698.jpg?tf=1200x' alt='Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386'>Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-3390836.jpg?tf=1200x' alt='Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte' />
     </a>
 </div>
 
