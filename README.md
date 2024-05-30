@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
     <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386'>Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte</a></h4>
     <a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-3390836.jpg?tf=1200x' alt='Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784'>Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales ' />
     </a>
 </div>
 
