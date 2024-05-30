@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839'>Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rutinas-huawei-watch-fit-3-3307643.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador' />
+    <h4><a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797'>Bark Air, la primera aerolínea para perros, completa su primer vuelo</a></h4>
+    <a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bark-air-primera-aerolinea-perros-completa-primer-vuelo-3406802.jpg?tf=1200x' alt='Bark Air, la primera aerolínea para perros, completa su primer vuelo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350'>Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclado-limpiar-pc-3310262.jpg?tf=1200x' alt='Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297'>Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-ofertas-empleo-demasiado-buenas-son-portales-falsos-advierte-guardia-civil-3387791.jpg?tf=1200x' alt='Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil' />
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    <h4><a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015'>Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevo-usando-estas-apps-hace-meses-mi-productividad-ha-aumentado-muchisimo-1388015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-productividad-3368147.jpg?tf=1200x' alt='Llevo usando estas apps desde hace unos meses y mi productividad ha aumentado muchísimo' />
     </a>
 </div>
 
