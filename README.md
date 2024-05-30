@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-inteligente-samsung-galaxy-watch-lte-rebaja-precio-1352363'>Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-inteligente-samsung-galaxy-watch-lte-rebaja-precio-1352363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/samsung-galaxy-watch6-classic-3110558.jpg?tf=1200x' alt='Samsung se quita de encima sus smartwatch: el Galaxy Watch6 está a precio récord con LTE' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839'>Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rutinas-huawei-watch-fit-3-3307643.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397'>Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo</a></h4>
-    <a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dos-estudios-aseguran-youtubers-nos-hacen-felices-amigos-3391257.jpg?tf=1200x' alt='Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350'>Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limpiar-fondo-pc-dejarlo-como-nuevo-3-sencillos-pasos-1385350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/teclado-limpiar-pc-3310262.jpg?tf=1200x' alt='Cómo limpiar correctamente el PC: así puedes dejarlo como nuevo en 3 sencillos pasos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297'>Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-ofertas-empleo-demasiado-buenas-son-portales-falsos-advierte-guardia-civil-3387791.jpg?tf=1200x' alt='Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084'>Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-1388084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-mejorar-perfil-linkedin-estas-herramientas-ia-gratuitas-3371225.jpg?tf=1200x' alt='Cómo mejorar tu perfil de LinkedIn con estas herramientas de IA gratuitas' />
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
     </a>
 </div>
 
