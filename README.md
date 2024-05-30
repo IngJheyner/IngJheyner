@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
+    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639'>La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar</a></h4>
-    <a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barbra-streisand-3401844.jpg?tf=1200x' alt='La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-1388836'>5 franquicias míticas de dibujos que merecen una película live action como Masters del Universo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-1388836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-3408124.jpg?tf=1200x' alt='5 franquicias míticas de dibujos que merecen una película live action como Masters del Universo' />
     </a>
 </div>
 
