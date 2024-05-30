@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/funciones-deberias-desactivar-windows-11-mejor-experiencia-1388953'>Funciones que deberías desactivar en Windows 11 para una mejor experiencia</a></h4>
+    <a href='https://computerhoy.com/tutoriales/funciones-deberias-desactivar-windows-11-mejor-experiencia-1388953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Funciones que deberías desactivar en Windows 11 para una mejor experiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
+    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/datos-miles-clientes-banco-santander-iberdrola-ya-estan-venta-dark-web-1388969'>Los datos de miles de clientes del Banco Santander e Iberdrola ya están a la venta en la Dark Web</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/datos-miles-clientes-banco-santander-iberdrola-ya-estan-venta-dark-web-1388969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-informatico-3411664.jpg?tf=1200x' alt='Los datos de miles de clientes del Banco Santander e Iberdrola ya están a la venta en la Dark Web' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/malware-destruye-600000-routers-proveedor-internet-1388968'>Un malware desconocido destruye 600.000 routers de un proveedor de Internet</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/malware-destruye-600000-routers-proveedor-internet-1388968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/malware-desconocido-destruye-600000-routers-proveedor-internet-3411082.jpg?tf=1200x' alt='Un malware desconocido destruye 600.000 routers de un proveedor de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967'>La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España</a></h4>
-    <a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
     </a>
 </div>
 
