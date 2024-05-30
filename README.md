@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    <h4><a href='https://computerhoy.com/tv/amazon-rescate-deja-qled-precio-ridiculo-tiempo-eurocopa-1388872'>Amazon al rescate: deja una QLED a precio ridículo y a tiempo para la Eurocopa</a></h4>
+    <a href='https://computerhoy.com/tv/amazon-rescate-deja-qled-precio-ridiculo-tiempo-eurocopa-1388872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tcl-55t7b-3408803.jpg?tf=1200x' alt='Amazon al rescate: deja una QLED a precio ridículo y a tiempo para la Eurocopa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    <h4><a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925'>Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
+    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
-    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240'>ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él' />
     </a>
 </div>
 
