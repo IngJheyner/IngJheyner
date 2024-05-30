@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/amazon-rescate-deja-qled-precio-ridiculo-tiempo-eurocopa-1388872'>Amazon al rescate: deja una QLED a precio ridículo y a tiempo para la Eurocopa</a></h4>
-    <a href='https://computerhoy.com/tv/amazon-rescate-deja-qled-precio-ridiculo-tiempo-eurocopa-1388872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tcl-55t7b-3408803.jpg?tf=1200x' alt='Amazon al rescate: deja una QLED a precio ridículo y a tiempo para la Eurocopa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925'>Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12' />
+    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639'>La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar</a></h4>
+    <a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barbra-streisand-3401844.jpg?tf=1200x' alt='La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240'>ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él' />
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
     </a>
 </div>
 
