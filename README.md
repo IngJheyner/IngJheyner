@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229'>Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-saber-numero-seguridad-social-894229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-ver-numero-seguridad-social-cinco-metodos-sencillos-obtenerlo-3365761.jpg?tf=1200x' alt='Cómo ver el número de la Seguridad Social: cinco métodos sencillos para obtenerlo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240'>El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberataque-parece-ano-2000-pero-incluso-ocu-advierte-1387240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-parece-sacado-ano-2000-pero-incluso-ocu-advierte-3339943.jpg?tf=1200x' alt='El ciberataque que parece sacado del año 2000, pero del que incluso la OCU advierte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797'>Bark Air, la primera aerolínea para perros, completa su primer vuelo</a></h4>
-    <a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bark-air-primera-aerolinea-perros-completa-primer-vuelo-3406802.jpg?tf=1200x' alt='Bark Air, la primera aerolínea para perros, completa su primer vuelo' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610'>Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
     </a>
 </div>
 
