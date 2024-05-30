@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
-    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
+    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-24h2-vendria-problemas-algunos-usuarios-1388839'>La actualización de Windows 11 24H2 vendría con problemas para algunos usuarios</a></h4>
-    <a href='https://computerhoy.com/windows/actualizacion-windows-11-24h2-vendria-problemas-algunos-usuarios-1388839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-microsoft-3254538.jpg?tf=1200x' alt='La actualización de Windows 11 24H2 vendría con problemas para algunos usuarios' />
+    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
+    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626'>China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza</a></h4>
-    <a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-lanzado-nuevo-objeto-ultrasecreto-ha-entrado-orbita-3400769.jpg?tf=1200x' alt='China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/escuchar-capaz-hacer-barra-sonido-lg-no-quiero-volver-atras-pese-precio-1388837'>Tras escuchar lo que es capaz de hacer esta barra de sonido de LG no quiero volver atrás, pese al precio</a></h4>
-    <a href='https://computerhoy.com/audio/escuchar-capaz-hacer-barra-sonido-lg-no-quiero-volver-atras-pese-precio-1388837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barra-sonido-lg-s90tr-3407960.jpg?tf=1200x' alt='Tras escuchar lo que es capaz de hacer esta barra de sonido de LG no quiero volver atrás, pese al precio' />
+    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
     </a>
 </div>
 
