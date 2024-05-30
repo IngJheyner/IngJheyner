@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535'>Cómo saber el modelo exacto de tu PC Windows de manera sencilla</a></h4>
     <a href='https://computerhoy.com/noticias/tecnologia/como-saber-modelo-exacto-pc-windows-10-626535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-modelo-exacto-pc-windows-manera-sencilla-3406645.jpg?tf=1200x' alt='Cómo saber el modelo exacto de tu PC Windows de manera sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519'>Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pizza-pegamento-3400920.jpg?tf=1200x' alt='Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
     </a>
 </div>
 
