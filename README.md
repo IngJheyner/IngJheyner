@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
-    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298'>Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-iphone-tener-desinstalar-nada-1386298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/apps-iphone-3075832.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en iPhone sin tener que desinstalar nada' />
+    <h4><a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846'>La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión</a></h4>
+    <a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copiar-pegar-windows-3408962.jpg?tf=1200x' alt='La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
+    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646'>Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas</a></h4>
+    <a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/implante-cerebro-3401231.jpg?tf=1200x' alt='Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas' />
     </a>
 </div>
 
