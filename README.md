@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-xiaomi-fin-semana-dejan-ko-otras-marcas-1389068'>5 ofertas Xiaomi para el fin de semana que dejan KO a las otras marcas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/5-ofertas-xiaomi-fin-semana-dejan-ko-otras-marcas-1389068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290720.jpg?tf=1200x' alt='5 ofertas Xiaomi para el fin de semana que dejan KO a las otras marcas' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577'>Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conversacion-whatsapp-3416167.jpg?tf=1200x' alt='Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925'>Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12</a></h4>
-    <a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12' />
+    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639'>La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar</a></h4>
+    <a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barbra-streisand-3401844.jpg?tf=1200x' alt='La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar' />
     </a>
 </div>
 
