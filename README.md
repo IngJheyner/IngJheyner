@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
+    <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672'>Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-3401695.jpg?tf=1200x' alt='Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846'>La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión</a></h4>
-    <a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copiar-pegar-windows-3408962.jpg?tf=1200x' alt='La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo proteger con contraseña las notas del iPhone</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo proteger con contraseña las notas del iPhone' />
     </a>
 </div>
 
