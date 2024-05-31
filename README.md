@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    <h4><a href='https://computerhoy.com/tecnologia/oneplus-nord-3-5g-rebaja-amazon-16gb-ram-1388197'>OnePlus sacude Amazon: su móvil de gama media rival de los Xiaomi desploma su precio y tiene 16GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/oneplus-nord-3-5g-rebaja-amazon-16gb-ram-1388197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-nord-3-3386136.jpg?tf=1200x' alt='OnePlus sacude Amazon: su móvil de gama media rival de los Xiaomi desploma su precio y tiene 16GB de RAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-nas-conectado-mas-barato-dropbox-1387755'>Dropbox te cobra 200 euros, pero este disco duro con internet te da 3TB para siempre por muchísimo menos dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/disco-duro-nas-conectado-mas-barato-dropbox-1387755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Dropbox te cobra 200 euros, pero este disco duro con internet te da 3TB para siempre por muchísimo menos dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528'>Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139'>Copilot te ayudará en tus videojuegos favoritos de Xbox y PC</a></h4>
+    <a href='https://computerhoy.com/tecnologia/copilot-te-ayudara-videojuegos-favoritos-xbox-pc-1388139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-minecraft-3376281.jpg?tf=1200x' alt='Copilot te ayudará en tus videojuegos favoritos de Xbox y PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-probando-boton-desactivar-hdr-tiene-sentido-1388994'>Netflix está probando un botón para desactivar el HDR, ¿tiene sentido?</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-probando-boton-desactivar-hdr-tiene-sentido-1388994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/netflix-probando-boton-desactivar-hdr-tiene-sentido-3414074.jpg?tf=1200x' alt='Netflix está probando un botón para desactivar el HDR, ¿tiene sentido?' />
     </a>
 </div>
 
