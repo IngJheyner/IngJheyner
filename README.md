@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528'>Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987'>Fire TV recibe la búsqueda con IA, y es la mejor novedad en años</a></h4>
     <a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-reciben-busqueda-ia-mejor-novedad-anos-3411952.jpg?tf=1200x' alt='Fire TV recibe la búsqueda con IA, y es la mejor novedad en años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
     <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-deberias-desactivar-windows-11-mejor-experiencia-1388953'>Funciones que deberías desactivar en Windows 11 para una mejor experiencia</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-deberias-desactivar-windows-11-mejor-experiencia-1388953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Funciones que deberías desactivar en Windows 11 para una mejor experiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
-    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
     </a>
 </div>
 
