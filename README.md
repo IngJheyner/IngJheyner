@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987'>Fire TV recibe la búsqueda con IA, y es la mejor novedad en años</a></h4>
+    <a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-reciben-busqueda-ia-mejor-novedad-anos-3411952.jpg?tf=1200x' alt='Fire TV recibe la búsqueda con IA, y es la mejor novedad en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
     <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
     <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/datos-miles-clientes-banco-santander-iberdrola-ya-estan-venta-dark-web-1388969'>Los datos de miles de clientes del Banco Santander e Iberdrola ya están a la venta en la Dark Web</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/datos-miles-clientes-banco-santander-iberdrola-ya-estan-venta-dark-web-1388969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberataque-informatico-3411664.jpg?tf=1200x' alt='Los datos de miles de clientes del Banco Santander e Iberdrola ya están a la venta en la Dark Web' />
     </a>
 </div>
 
