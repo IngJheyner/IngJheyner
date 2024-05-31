@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
+    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
+    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519'>Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala</a></h4>
-    <a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pizza-pegamento-3400920.jpg?tf=1200x' alt='Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021'>Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-3415085.jpg?tf=1200x' alt='Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida' />
     </a>
 </div>
 
