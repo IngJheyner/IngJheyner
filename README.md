@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093'>Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cubo-rubik-3416598.jpg?tf=1200x' alt='Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/filtran-modelos-iphone-mac-seran-compatibles-ia-no-hay-buenas-noticias-1389139'>Se filtran los modelos de iPhone y Mac que serán compatibles con la IA, y no hay buenas noticias</a></h4>
     <a href='https://computerhoy.com/apple/filtran-modelos-iphone-mac-seran-compatibles-ia-no-hay-buenas-noticias-1389139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-inteligencia-artificial-3418150.jpg?tf=1200x' alt='Se filtran los modelos de iPhone y Mac que serán compatibles con la IA, y no hay buenas noticias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ocu-denuncia-meta-quieren-datos-entrenar-ia-puedes-evitarlo-1389137'>La OCU denuncia a Meta: quieren tus datos para entrenar la IA y así puedes evitarlo</a></h4>
-    <a href='https://computerhoy.com/apps/ocu-denuncia-meta-quieren-datos-entrenar-ia-puedes-evitarlo-1389137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/meta-privacidad-3418149.jpg?tf=1200x' alt='La OCU denuncia a Meta: quieren tus datos para entrenar la IA y así puedes evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
     </a>
 </div>
 
