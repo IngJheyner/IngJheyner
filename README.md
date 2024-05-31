@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
+    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147'>Google Cloud borró por error una cuenta que gestionaba 135.000 millones de 600.000 pensionistas</a></h4>
     <a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-cloud-borro-error-cuenta-gestionaba-135000-millones-600000-pensionistas-3418285.jpg?tf=1200x' alt='Google Cloud borró por error una cuenta que gestionaba 135.000 millones de 600.000 pensionistas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093'>Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cubo-rubik-3416598.jpg?tf=1200x' alt='Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)' />
     </a>
 </div>
 
