@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615'>Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas</a></h4>
-    <a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266'>He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/he-creado-mi-propio-netflix-casero-jellyfin-ya-estoy-pensando-dar-baja-todas-suscripciones-1387266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/jellyfin-netflix-casero-gratis-musica-peliculas-series-3341196.jpg?tf=1200x' alt='He creado mi propio Netflix casero con Jellyfin y ya estoy pensando en dar de baja todas mis suscripciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/oneplus-nord-3-5g-rebaja-amazon-16gb-ram-1388197'>OnePlus sacude Amazon: su móvil de gama media rival de los Xiaomi desploma su precio y tiene 16GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/oneplus-nord-3-5g-rebaja-amazon-16gb-ram-1388197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/oneplus-nord-3-3386136.jpg?tf=1200x' alt='OnePlus sacude Amazon: su móvil de gama media rival de los Xiaomi desploma su precio y tiene 16GB de RAM' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610'>Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-1388610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Internet Archive ha sufrido un ciberataque que ha dejado la web inoperativa durante días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/disco-duro-nas-conectado-mas-barato-dropbox-1387755'>Dropbox te cobra 200 euros, pero este disco duro con internet te da 3TB para siempre por muchísimo menos dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/disco-duro-nas-conectado-mas-barato-dropbox-1387755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/wd-my-cloud-3246100.jpg?tf=1200x' alt='Dropbox te cobra 200 euros, pero este disco duro con internet te da 3TB para siempre por muchísimo menos dinero' />
+    <h4><a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006'>Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reclusos-prision-van-usar-realidad-virtual-trabajar-fuera-carcel-3414630.jpg?tf=1200x' alt='Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel' />
     </a>
 </div>
 
