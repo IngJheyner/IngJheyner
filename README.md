@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214'>Convierte tu Amazon Fire TV en un Chromecast con el Modo espejo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-1355214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/modo-espejo-truco-convertir-amazon-fire-tv-chromecast-3258246.jpg?tf=1200x' alt='Convierte tu Amazon Fire TV en un Chromecast con el Modo espejo' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011'>Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037'>Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm </a></h4>
-    <a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-hacker-3415529.jpg?tf=1200x' alt='Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm ' />
+    <h4><a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846'>La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión</a></h4>
+    <a href='https://computerhoy.com/windows/ia-windows-11-lleva-algo-tan-sencillo-como-copiar-pegar-otra-dimension-1388846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copiar-pegar-windows-3408962.jpg?tf=1200x' alt='La IA de Windows 11 lleva algo tan sencillo como copiar y pegar a otra dimensión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393'>Cómo proteger con contraseña las notas del iPhone</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-notas-iphone-1387393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/codigo-desbloqueo-iphone-3367562.jpg?tf=1200x' alt='Cómo proteger con contraseña las notas del iPhone' />
     </a>
 </div>
 
