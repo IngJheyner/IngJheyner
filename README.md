@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
-    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    <h4><a href='https://computerhoy.com/tecnologia/5-ofertas-xiaomi-fin-semana-dejan-ko-otras-marcas-1389068'>5 ofertas Xiaomi para el fin de semana que dejan KO a las otras marcas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/5-ofertas-xiaomi-fin-semana-dejan-ko-otras-marcas-1389068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/xiaomi-smart-band-8-pro-3290720.jpg?tf=1200x' alt='5 ofertas Xiaomi para el fin de semana que dejan KO a las otras marcas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    <h4><a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925'>Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
+    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
     </a>
 </div>
 
