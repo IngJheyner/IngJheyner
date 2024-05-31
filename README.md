@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017'>Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sightful-portatil-gafas-rv-3415094.jpg?tf=1200x' alt='Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple' />
+    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
+    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004'>Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux</a></h4>
-    <a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux' />
+    <h4><a href='https://computerhoy.com/windows/actualizacion-windows-11-24h2-vendria-problemas-algunos-usuarios-1388839'>La actualización de Windows 11 24H2 vendría con problemas para algunos usuarios</a></h4>
+    <a href='https://computerhoy.com/windows/actualizacion-windows-11-24h2-vendria-problemas-algunos-usuarios-1388839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-microsoft-3254538.jpg?tf=1200x' alt='La actualización de Windows 11 24H2 vendría con problemas para algunos usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823'>Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio' />
+    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
+    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824'>Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-3407952.jpg?tf=1200x' alt='Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes' />
+    <h4><a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626'>China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza</a></h4>
+    <a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-lanzado-nuevo-objeto-ultrasecreto-ha-entrado-orbita-3400769.jpg?tf=1200x' alt='China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza' />
     </a>
 </div>
 
