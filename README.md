@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577'>Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conversacion-whatsapp-3416167.jpg?tf=1200x' alt='Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada' />
+    <h4><a href='https://computerhoy.com/apple/filtran-modelos-iphone-mac-seran-compatibles-ia-no-hay-buenas-noticias-1389139'>Se filtran los modelos de iPhone y Mac que serán compatibles con la IA, y no hay buenas noticias</a></h4>
+    <a href='https://computerhoy.com/apple/filtran-modelos-iphone-mac-seran-compatibles-ia-no-hay-buenas-noticias-1389139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apple-inteligencia-artificial-3418150.jpg?tf=1200x' alt='Se filtran los modelos de iPhone y Mac que serán compatibles con la IA, y no hay buenas noticias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
+    <h4><a href='https://computerhoy.com/apps/ocu-denuncia-meta-quieren-datos-entrenar-ia-puedes-evitarlo-1389137'>La OCU denuncia a Meta: quieren tus datos para entrenar la IA y así puedes evitarlo</a></h4>
+    <a href='https://computerhoy.com/apps/ocu-denuncia-meta-quieren-datos-entrenar-ia-puedes-evitarlo-1389137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/meta-privacidad-3418149.jpg?tf=1200x' alt='La OCU denuncia a Meta: quieren tus datos para entrenar la IA y así puedes evitarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639'>La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar</a></h4>
-    <a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barbra-streisand-3401844.jpg?tf=1200x' alt='La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
     </a>
 </div>
 
