@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528'>Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-cocina-xiaomi-rival-thermomix-mas-barato-1357528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-smart-cooking-robot-3262308.jpg?tf=1200x' alt='Xiaomi deja KO a Thermomix: su robot de cocina llega a España y es más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987'>Fire TV recibe la búsqueda con IA, y es la mejor novedad en años</a></h4>
-    <a href='https://computerhoy.com/amazon/fire-tv-recibe-busqueda-inteligencia-artificial-1388987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-reciben-busqueda-ia-mejor-novedad-anos-3411952.jpg?tf=1200x' alt='Fire TV recibe la búsqueda con IA, y es la mejor novedad en años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
-    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
     </a>
 </div>
 
