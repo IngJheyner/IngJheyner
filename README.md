@@ -58,14 +58,6 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143'>Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?</a></h4>
-    <a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-3418850.jpg?tf=1200x' alt='Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389'>La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/letra-magica-hace-contrasenas-sean-mucho-dificiles-descifrar-1388389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='La letra mágica que hace que tus contraseñas sean mucho más difíciles de descifrar' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327'>La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator</a></h4>
     <a href='https://computerhoy.com/entretenimiento/pelicula-movistar-explora-ia-cuanta-actor-aliens-1388327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pelicula-movistar-mejor-explora-mundo-ia-impactante-cuanta-mitico-actor-aliens-terminator-3388568.jpg?tf=1200x' alt='La película de Movistar+ que mejor explora el mundo de la IA: es impactante y cuanta con un mítico actor de Aliens y Terminator' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093'>Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cubo-rubik-3416598.jpg?tf=1200x' alt='Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)' />
     </a>
 </div>
 
