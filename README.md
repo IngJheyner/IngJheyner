@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
-    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979'>El truco definitivo para mantener todos los drivers actualizados en Windows 11 sin hacer nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-mantener-drivers-actualizados-windows-11-automaticamente-1358979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/08/como-descargar-instalar-drivers-tu-pc.jpg?tf=1200x' alt='El truco definitivo para mantener todos los drivers actualizados en Windows 11 sin hacer nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-vision-pro-llegaria-mercados-internacionales-julio-pero-espana-no-estaria-lista-inicial-1389164'>Apple Vision Pro llegaría a mercados internacionales en julio pero España no estaría en la lista inicial</a></h4>
-    <a href='https://computerhoy.com/apple/apple-vision-pro-llegaria-mercados-internacionales-julio-pero-espana-no-estaria-lista-inicial-1389164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple Vision Pro llegaría a mercados internacionales en julio pero España no estaría en la lista inicial' />
+    <h4><a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011'>Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234'>Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80</a></h4>
-    <a href='https://computerhoy.com/gaming/como-olvido-revelo-secreto-mejor-guardado-empresa-videojuegos-80-1388234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/space-quest-ii-3387196.jpg?tf=1200x' alt='Así es como un olvido reveló el secreto mejor guardado de esta empresa de videojuegos en los 80' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252'>Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-dios-gracias-ia-pero-hay-peaje-tienes-pagar-1388252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3320317.jpg?tf=1200x' alt='Google Maps se convierte en Dios gracias a la IA, pero hay un peaje que tienes que pagar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003'>Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg?tf=1200x' alt='Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037'>Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm </a></h4>
+    <a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-hacker-3415529.jpg?tf=1200x' alt='Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm ' />
     </a>
 </div>
 
