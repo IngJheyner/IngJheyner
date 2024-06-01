@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/iphone-5s-despide-apple-declara-oficialmente-obsoleto-1389180'>El iPhone 5s se despide: Apple lo declara oficialmente obsoleto</a></h4>
+    <a href='https://computerhoy.com/apple/iphone-5s-despide-apple-declara-oficialmente-obsoleto-1389180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-5s-3423263.jpg?tf=1200x' alt='El iPhone 5s se despide: Apple lo declara oficialmente obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
+    <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273'>Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera</a></h4>
-    <a href='https://computerhoy.com/apps/guardia-civil-multa-dos-grupos-whatsapp-alertaban-controles-carretera-1388273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/guardia-civil-control-3387636.jpg?tf=1200x' alt='Guardia Civil multa dos grupos de WhatsApp que alertaban de controles en carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171'>Cómo cambiar la contraseña de Google</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-contrasena-google-1387171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-cambiar-contrasena-google-3338273.jpg?tf=1200x' alt='Cómo cambiar la contraseña de Google' />
     </a>
 </div>
 
