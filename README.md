@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702'>Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152'>Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? </a></h4>
     <a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-queja-gente-va-pillar-ia-buscador-esperaba-3418987.jpg?tf=1200x' alt='Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
     <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147'>Google Cloud borró por error una cuenta que gestionaba 135.000 millones de dólares de 600.000 pensionistas</a></h4>
-    <a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-cloud-borro-error-cuenta-gestionaba-135000-millones-600000-pensionistas-3418285.jpg?tf=1200x' alt='Google Cloud borró por error una cuenta que gestionaba 135.000 millones de dólares de 600.000 pensionistas' />
     </a>
 </div>
 
