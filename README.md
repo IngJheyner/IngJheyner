@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/orden-menos-problemas-apple-simplificara-aplicacion-configuracion-ios-18-macos-15-1389183'>¡Más orden, menos problemas! Apple simplificará la aplicación de configuración en iOS 18 y macOS 15</a></h4>
-    <a href='https://computerhoy.com/apple/orden-menos-problemas-apple-simplificara-aplicacion-configuracion-ios-18-macos-15-1389183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ios-18-iphone-actualizacion-3267080.jpg?tf=1200x' alt='¡Más orden, menos problemas! Apple simplificará la aplicación de configuración en iOS 18 y macOS 15' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
-    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889'>El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-3409113.jpg?tf=1200x' alt='El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240'>ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182'>YouTube Music se actualiza con una función que cambiará tu experiencia musical</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/youtube-music.jpg?tf=1200x' alt='YouTube Music se actualiza con una función que cambiará tu experiencia musical' />
+    <h4><a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299'>El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-3387955.jpg?tf=1200x' alt='El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora' />
     </a>
 </div>
 
