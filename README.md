@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bioprocesador-disponible-online-1388191'>El primer bioprocesador del mundo que funciona con neuronas vivas ya está online</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bioprocesador-disponible-online-1388191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-bioprocesador-mundo-online-tiene-16-minicerebros-conectados-3385596.jpg?tf=1200x' alt='El primer bioprocesador del mundo que funciona con neuronas vivas ya está online' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
+    <h4><a href='https://computerhoy.com/motor/isla-japonesa-semaforo-verde-1389154'>En esta isla japonesa hay un semáforo que solo se pone verde una vez al año</a></h4>
+    <a href='https://computerhoy.com/motor/isla-japonesa-semaforo-verde-1389154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isla-japonesa-hay-semaforo-solo-pone-verde-vez-ano-3420902.jpg?tf=1200x' alt='En esta isla japonesa hay un semáforo que solo se pone verde una vez al año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702'>Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir' />
+    <h4><a href='https://computerhoy.com/moviles/memoria-rom-256gb-media-1384314'>Si te has comprado un móvil con menos de 256 GB de almacenamiento, estás por debajo de la media</a></h4>
+    <a href='https://computerhoy.com/moviles/memoria-rom-256gb-media-1384314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Si te has comprado un móvil con menos de 256 GB de almacenamiento, estás por debajo de la media' />
     </a>
 </div>
 
