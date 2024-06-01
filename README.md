@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152'>Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? </a></h4>
+    <a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-queja-gente-va-pillar-ia-buscador-esperaba-3418987.jpg?tf=1200x' alt='Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo</a></h4>
     <a href='https://computerhoy.com/tutoriales/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-1389146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147'>Google Cloud borró por error una cuenta que gestionaba 135.000 millones de 600.000 pensionistas</a></h4>
+    <h4><a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147'>Google Cloud borró por error una cuenta que gestionaba 135.000 millones de dólares de 600.000 pensionistas</a></h4>
     <a href='https://computerhoy.com/google/google-cloud-borro-error-cuenta-pensionistas-1389147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-cloud-borro-error-cuenta-gestionaba-135000-millones-600000-pensionistas-3418285.jpg?tf=1200x' alt='Google Cloud borró por error una cuenta que gestionaba 135.000 millones de 600.000 pensionistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143'>Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?</a></h4>
-    <a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-3418850.jpg?tf=1200x' alt='Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-cloud-borro-error-cuenta-gestionaba-135000-millones-600000-pensionistas-3418285.jpg?tf=1200x' alt='Google Cloud borró por error una cuenta que gestionaba 135.000 millones de dólares de 600.000 pensionistas' />
     </a>
 </div>
 
