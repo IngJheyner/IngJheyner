@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639'>Cómo bloquear un programa o aplicación en el firewall de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-bloquear-programa-aplicacion-firewall-windows-11-1386639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-bloquear-programa-aplicacion-firewall-windows-11-3314574.jpg?tf=1200x' alt='Cómo bloquear un programa o aplicación en el firewall de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902'>Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-3409408.jpg?tf=1200x' alt='Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913'>Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro</a></h4>
-    <a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087'>Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-tops-sirven-son-tan-importantes-futuro-pc-ia-3371785.jpg?tf=1200x' alt='Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA' />
     </a>
 </div>
 
