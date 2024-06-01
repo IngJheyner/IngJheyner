@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889'>El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-3409113.jpg?tf=1200x' alt='El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta' />
+    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240'>ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-panacea-estos-son-trabajos-nunca-deberias-sustituir-1388240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-3409409.jpg?tf=1200x' alt='ChatGPT no es la panacea: estos son los trabajos que nunca deberías sustituir por él' />
+    <h4><a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913'>Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro</a></h4>
+    <a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299'>El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-1388299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ejercito-chino-empezando-usar-perros-robots-pueden-disparar-ametralladora-3387955.jpg?tf=1200x' alt='El ejército chino está empezando a usar perros robots que pueden disparar una ametralladora' />
+    <h4><a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087'>Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-tops-sirven-son-importantes-futuro-pc-ia-1388087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-tops-sirven-son-tan-importantes-futuro-pc-ia-3371785.jpg?tf=1200x' alt='Qué son los TOPS, para qué sirven y por qué son tan importantes para el futuro de los PC con IA' />
     </a>
 </div>
 
