@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316'>Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo</a></h4>
-    <a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desempolva-walkman-razones-cintas-casete-podrian-volver-igual-vinilo-3388429.jpg?tf=1200x' alt='Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo' />
+    <h4><a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017'>Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sightful-portatil-gafas-rv-3415094.jpg?tf=1200x' alt='Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
+    <h4><a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004'>Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux</a></h4>
+    <a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813'>Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   </a></h4>
-    <a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/billetera-criptomonedas-3407805.jpg?tf=1200x' alt='Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   ' />
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823'>Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006'>Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reclusos-prision-van-usar-realidad-virtual-trabajar-fuera-carcel-3414630.jpg?tf=1200x' alt='Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel' />
+    <h4><a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212'>Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables</a></h4>
+    <a href='https://computerhoy.com/windows/windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-1388212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/microsoft-windows-24h2-eliminara-dos-aplicaciones-ahora-indispensables-3386712.jpg?tf=1200x' alt='Windows 24H2 eliminará dos aplicaciones hasta ahora indispensables' />
     </a>
 </div>
 
