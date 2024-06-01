@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736'>He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/explorerpatcher-3403239.jpg?tf=1200x' alt='He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 ' />
+    <h4><a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316'>Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo</a></h4>
+    <a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desempolva-walkman-razones-cintas-casete-podrian-volver-igual-vinilo-3388429.jpg?tf=1200x' alt='Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752'>Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagos-movil-3403843.jpg?tf=1200x' alt='Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo' />
+    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/oferta-xbox-series-s-barata-consola-game-pass-1197088'>Cientos de juegos de primera calidad: la promesa de Xbox Series S se cumple y ahora es la consola más barata de su generación</a></h4>
-    <a href='https://computerhoy.com/gaming/oferta-xbox-series-s-barata-consola-game-pass-1197088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xbox-series-s-3080940.jpg?tf=1200x' alt='Cientos de juegos de primera calidad: la promesa de Xbox Series S se cumple y ahora es la consola más barata de su generación' />
+    <h4><a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813'>Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   </a></h4>
+    <a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/billetera-criptomonedas-3407805.jpg?tf=1200x' alt='Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797'>Bark Air, la primera aerolínea para perros, completa su primer vuelo</a></h4>
-    <a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bark-air-primera-aerolinea-perros-completa-primer-vuelo-3406802.jpg?tf=1200x' alt='Bark Air, la primera aerolínea para perros, completa su primer vuelo' />
+    <h4><a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006'>Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reclusos-prision-van-usar-realidad-virtual-trabajar-fuera-carcel-3414630.jpg?tf=1200x' alt='Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel' />
     </a>
 </div>
 
