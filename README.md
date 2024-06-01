@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
+    <h4><a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736'>He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 </a></h4>
+    <a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/explorerpatcher-3403239.jpg?tf=1200x' alt='He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/isla-japonesa-semaforo-verde-1389154'>En esta isla japonesa hay un semáforo que solo se pone verde una vez al año</a></h4>
-    <a href='https://computerhoy.com/motor/isla-japonesa-semaforo-verde-1389154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/isla-japonesa-hay-semaforo-solo-pone-verde-vez-ano-3420902.jpg?tf=1200x' alt='En esta isla japonesa hay un semáforo que solo se pone verde una vez al año' />
+    <h4><a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752'>Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagos-movil-3403843.jpg?tf=1200x' alt='Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
+    <h4><a href='https://computerhoy.com/gaming/oferta-xbox-series-s-barata-consola-game-pass-1197088'>Cientos de juegos de primera calidad: la promesa de Xbox Series S se cumple y ahora es la consola más barata de su generación</a></h4>
+    <a href='https://computerhoy.com/gaming/oferta-xbox-series-s-barata-consola-game-pass-1197088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/xbox-series-s-3080940.jpg?tf=1200x' alt='Cientos de juegos de primera calidad: la promesa de Xbox Series S se cumple y ahora es la consola más barata de su generación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/memoria-rom-256gb-media-1384314'>Si te has comprado un móvil con menos de 256 GB de almacenamiento, estás por debajo de la media</a></h4>
-    <a href='https://computerhoy.com/moviles/memoria-rom-256gb-media-1384314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/almacenamiento-3308544.jpg?tf=1200x' alt='Si te has comprado un móvil con menos de 256 GB de almacenamiento, estás por debajo de la media' />
+    <h4><a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797'>Bark Air, la primera aerolínea para perros, completa su primer vuelo</a></h4>
+    <a href='https://computerhoy.com/life/bark-air-primera-aerolinea-perros-completa-primer-vuelo-1388797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/bark-air-primera-aerolinea-perros-completa-primer-vuelo-3406802.jpg?tf=1200x' alt='Bark Air, la primera aerolínea para perros, completa su primer vuelo' />
     </a>
 </div>
 
