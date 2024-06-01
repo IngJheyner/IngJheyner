@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/bioprocesador-disponible-online-1388191'>El primer bioprocesador del mundo que funciona con neuronas vivas ya está online</a></h4>
+    <a href='https://computerhoy.com/tecnologia/bioprocesador-disponible-online-1388191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/primer-bioprocesador-mundo-online-tiene-16-minicerebros-conectados-3385596.jpg?tf=1200x' alt='El primer bioprocesador del mundo que funciona con neuronas vivas ya está online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702'>Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir</a></h4>
     <a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Simple, veloz y con la IP dedicada más barata: hemos probado la VPN de CyberGhost y merece mucho la pena, aunque con cosas por pulir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152'>Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? </a></h4>
-    <a href='https://computerhoy.com/google/google-explica-fallos-buscador-ia-1389152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-queja-gente-va-pillar-ia-buscador-esperaba-3418987.jpg?tf=1200x' alt='Google se queja de que la gente hace preguntas trampa a la IA de su buscador, ¿qué esperaba? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-1389146'>El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-1389146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-magico-deja-windows-10-como-primer-dia-perder-solo-archivo-3419399.jpg?tf=1200x' alt='El comando mágico que deja Windows 10 como el primer día sin perder un solo archivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
-    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
     </a>
 </div>
 
