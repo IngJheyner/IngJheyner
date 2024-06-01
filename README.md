@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/orden-menos-problemas-apple-simplificara-aplicacion-configuracion-ios-18-macos-15-1389183'>¡Más orden, menos problemas! Apple simplificará la aplicación de configuración en iOS 18 y macOS 15</a></h4>
+    <a href='https://computerhoy.com/apple/orden-menos-problemas-apple-simplificara-aplicacion-configuracion-ios-18-macos-15-1389183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ios-18-iphone-actualizacion-3267080.jpg?tf=1200x' alt='¡Más orden, menos problemas! Apple simplificará la aplicación de configuración en iOS 18 y macOS 15' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
+    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182'>YouTube Music se actualiza con una función que cambiará tu experiencia musical</a></h4>
     <a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/youtube-music.jpg?tf=1200x' alt='YouTube Music se actualiza con una función que cambiará tu experiencia musical' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
-    <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
     </a>
 </div>
 
