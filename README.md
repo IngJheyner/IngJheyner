@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222'>Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-recuperar-correos-eliminados-gmail-rapido-instalar-nada-1388222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/correo-gmail-3387648.jpg?tf=1200x' alt='Cómo recuperar los correos eliminados de Gmail rápido y sin instalar nada' />
+    <h4><a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182'>YouTube Music se actualiza con una función que cambiará tu experiencia musical</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-music-actualiza-funcion-cambiara-experiencia-musical-1389182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/youtube-music.jpg?tf=1200x' alt='YouTube Music se actualiza con una función que cambiará tu experiencia musical' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021'>Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-3415085.jpg?tf=1200x' alt='Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/iphone-5s-despide-apple-declara-oficialmente-obsoleto-1389180'>El iPhone 5s se despide: Apple lo declara oficialmente obsoleto</a></h4>
-    <a href='https://computerhoy.com/apple/iphone-5s-despide-apple-declara-oficialmente-obsoleto-1389180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-5s-3423263.jpg?tf=1200x' alt='El iPhone 5s se despide: Apple lo declara oficialmente obsoleto' />
+    <h4><a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287'>Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-1388287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/error-waze-provoca-algunos-usuarios-amenacen-pasarse-google-maps-3387635.jpg?tf=1200x' alt='Un error de Waze provoca que algunos usuarios amenacen con pasarse a Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
-    <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
     </a>
 </div>
 
