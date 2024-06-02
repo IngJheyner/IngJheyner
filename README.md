@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839'>Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rutinas-huawei-watch-fit-3-3307643.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador' />
+    <h4><a href='https://computerhoy.com/tecnologia/potencia-precio-escandaloso-mini-pc-windows-11-1199624'>Este Mini PC presume de potencia y precio escandaloso con 16GB de RAM, Ryzen 7 y Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/potencia-precio-escandaloso-mini-pc-windows-11-1199624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nipogi-am02-2954956.jpg?tf=1200x' alt='Este Mini PC presume de potencia y precio escandaloso con 16GB de RAM, Ryzen 7 y Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
+    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297'>Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-ofertas-empleo-demasiado-buenas-son-portales-falsos-advierte-guardia-civil-3387791.jpg?tf=1200x' alt='Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    <h4><a href='https://computerhoy.com/tecnologia/dile-adios-ebook-muchos-lectores-estan-abandonando-dispositivo-todos-tenemos-1388798'>Dile adiós al eBook: muchos lectores lo están abandonando por este dispositivo que todos tenemos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dile-adios-ebook-muchos-lectores-estan-abandonando-dispositivo-todos-tenemos-1388798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dile-adios-ebook-muchos-lectores-estan-pasando-moviles-3407365.jpg?tf=1200x' alt='Dile adiós al eBook: muchos lectores lo están abandonando por este dispositivo que todos tenemos' />
     </a>
 </div>
 
