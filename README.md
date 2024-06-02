@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-huawei-barato-alternativa-garmin-1349100'>Huawei va a por Garmin: este reloj deportivo con GPS tiene una rebaja radical de precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-huawei-barato-alternativa-garmin-1349100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Huawei va a por Garmin: este reloj deportivo con GPS tiene una rebaja radical de precio en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397'>Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo</a></h4>
+    <a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dos-estudios-aseguran-youtubers-nos-hacen-felices-amigos-3391257.jpg?tf=1200x' alt='Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394'>5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento</a></h4>
     <a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392'>Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis</a></h4>
     <a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-ya-telegram-puedes-usarla-gratis-3390698.jpg?tf=1200x' alt='Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386'>Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/tv/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-1388386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/algunos-smart-tv-android-tv-estan-lanzando-ataques-ddos-ordenadores-windows-puedes-protegerte-3390836.jpg?tf=1200x' alt='Algunos Smart TV con Android TV están lanzando ataques DDoS a ordenadores Windows, así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143'>Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?</a></h4>
-    <a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-3418850.jpg?tf=1200x' alt='Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?' />
     </a>
 </div>
 
