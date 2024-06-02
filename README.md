@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472'>Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-usa-nombre-unisex-natural-chatgpt-gemini-1388472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ia-usa-nombre-unisex-natural-chatgpt-gemini-casi-nadie-conoce-3394456.jpg?tf=1200x' alt='Así es la IA que usa nombre unisex, es más natural que ChatGPT o Gemini y casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090'>Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven</a></h4>
+    <a href='https://computerhoy.com/windows/windows-tiene-miles-archivos-secretos-son-sirven-1388090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-tiene-miles-archivos-secretos-quizas-no-conocias-son-sirven-3372614.jpg?tf=1200x' alt='Windows tiene miles de archivos secretos que quizás no conocías: qué son y para qué sirven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021'>Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-3415085.jpg?tf=1200x' alt='Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
     <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-podrias-cargar-bateria-movil-solo-minuto-1389226'>Con esta tecnología podrías cargar la batería de tu móvil en solo un minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tecnologia-podrias-cargar-bateria-movil-solo-minuto-1389226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-telefono-movil-3429261.jpg?tf=1200x' alt='Con esta tecnología podrías cargar la batería de tu móvil en solo un minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220'>Windows 11 te permitirá capturar texto de tus fotos de Android</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phone-link-3429031.jpg?tf=1200x' alt='Windows 11 te permitirá capturar texto de tus fotos de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral' />
     </a>
 </div>
 
