@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535'>Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones</a></h4>
+    <a href='https://computerhoy.com/apps/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-1388535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/app-gratis-detectar-radares-android-auto-mejor-waze-alerta-pegasus-dgt-incluso-drones-3396428.jpg?tf=1200x' alt='Esta app gratis para detectar radares en Android Auto es mejor que Waze: alerta del Pegasus de la DGT e incluso de drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889'>El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-1388889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/consejo-guardia-civil-debes-hacer-no-te-estafen-pagar-tarjeta-3409113.jpg?tf=1200x' alt='El consejo de la Guardia Civil: esto debes hacer para que no te estafen al pagar con tarjeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/xiaomi-tiene-air-fryer-muy-pro-pero-ahora-mismo-precio-normales-1389199'>Xiaomi tiene una air fryer muy pro, pero ahora está al mismo precio que las normales</a></h4>
     <a href='https://computerhoy.com/hogar/xiaomi-tiene-air-fryer-muy-pro-pero-ahora-mismo-precio-normales-1389199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/xiaomi-smart-air-fryer-pro-3141312.jpg?tf=1200x' alt='Xiaomi tiene una air fryer muy pro, pero ahora está al mismo precio que las normales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044'>Las 10 mejores distros Linux de 2024, según el tipo de usuario</a></h4>
     <a href='https://computerhoy.com/tecnologia/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-1358044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/10-mejores-distribuciones-linux-2024-cada-tipo-usuario-3263142.jpg?tf=1200x' alt='Las 10 mejores distros Linux de 2024, según el tipo de usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-presenta-g-assist-ia-generativa-gamers-1389237'>Nvidia presenta G-Assist, la IA generativa para gamers</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-presenta-g-assist-ia-generativa-gamers-1389237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nvidia-presenta-g-assist-ia-generativa-gamers-3430482.jpg?tf=1200x' alt='Nvidia presenta G-Assist, la IA generativa para gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
-    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395'>Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/ajustes-registro-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-1388395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-ajustes-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-3392091.jpg?tf=1200x' alt='Ajustes del registro con los que he conseguido mejorar el rendimiento de mi PC con Windows 11' />
     </a>
 </div>
 
