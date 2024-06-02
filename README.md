@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902'>Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-3409408.jpg?tf=1200x' alt='Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240'>Descubren cómo fueron hackeados el Santander y TickerMaster, y es solo la punta del iceberg</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banco-santander-personas-caminan-reflejo-3297938.jpg?tf=1200x' alt='Descubren cómo fueron hackeados el Santander y TickerMaster, y es solo la punta del iceberg' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
     <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487'>Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-chatgpt-grok-ias-famosas-tienen-esos-nombres-1388487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/gemini-chatgpt-grok-inteligencias-artificiales-famosas-tienen-nombres-tienen-3394768.jpg?tf=1200x' alt='Gemini, ChatGPT, Grok… ¿por qué las inteligencias artificiales más famosas tienen los nombres que tienen?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913'>Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro</a></h4>
-    <a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro' />
     </a>
 </div>
 
