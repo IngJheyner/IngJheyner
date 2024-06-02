@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-activar-doble-check-gmail-1358038'>Cómo activar la confirmación de lectura en Gmail para saber si tus correos son leídos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-activar-doble-check-gmail-1358038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-activar-doble-check-gmail-saber-correos-han-sido-leidos-3263133.jpg?tf=1200x' alt='Cómo activar la confirmación de lectura en Gmail para saber si tus correos son leídos' />
+    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407'>Las 3 reglas de oro para exprimir al máximo ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Las 3 reglas de oro para exprimir al máximo ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419'>El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nuevo-uso-flipper-zero-taylor-swift-fans-no-estaran-muy-acuerdo-1388419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/flipper-zero-taylor-swift-3393669.jpg?tf=1200x' alt='El nuevo uso del Flipper Zero con el que Taylor Swift y sus fans no estarán muy de acuerdo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169'>Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-nube-3415696.jpg?tf=1200x' alt='Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi' />
+    <h4><a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006'>Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reclusas-prision-realidad-virtual-trabajar-fuera-carcel-1389006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reclusos-prision-van-usar-realidad-virtual-trabajar-fuera-carcel-3414630.jpg?tf=1200x' alt='Reclusas de una prisión van a usar la realidad virtual para trabajar fuera de la cárcel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
-    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791'>Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-3406383.jpg?tf=1200x' alt='Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
-    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
+    <h4><a href='https://computerhoy.com/tutoriales/modo-fastboot-android-como-activarlo-desactivarlo-1388978'>Modo fastboot de Android: para qué sirve y cómo activarlo (o desactivarlo)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/modo-fastboot-android-como-activarlo-desactivarlo-1388978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/modo-fastboot-android-sirve-como-activarlo-desactivarlo-3412983.jpg?tf=1200x' alt='Modo fastboot de Android: para qué sirve y cómo activarlo (o desactivarlo)' />
     </a>
 </div>
 
