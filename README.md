@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-huawei-barato-alternativa-garmin-1349100'>Huawei va a por Garmin: este reloj deportivo con GPS tiene una rebaja radical de precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-huawei-barato-alternativa-garmin-1349100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/huawei-watch-gt-4-3253338.jpg?tf=1200x' alt='Huawei va a por Garmin: este reloj deportivo con GPS tiene una rebaja radical de precio en Amazon' />
+    <h4><a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839'>Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/me-ha-gustado-huawei-watch-fit-3-no-tiene-ver-diseno-precio-entrenador-1383839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/rutinas-huawei-watch-fit-3-3307643.jpg?tf=1200x' alt='Lo que más me ha gustado de Huawei Watch Fit 3 no tiene que ver con diseño o precio, es su entrenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397'>Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo</a></h4>
-    <a href='https://computerhoy.com/internet/estudio-asegura-youtubers-nos-hacen-felices-companeros-trabajo-1388397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dos-estudios-aseguran-youtubers-nos-hacen-felices-amigos-3391257.jpg?tf=1200x' alt='Un estudio asegura que los youtubers nos hacen más felices que los compañeros del trabajo' />
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394'>5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento</a></h4>
-    <a href='https://computerhoy.com/windows/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-1388394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='5 formas de acelerar Windows 11 al máximo para tener el mejor rendimiento' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297'>Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuidado-ofertas-empleo-demasiado-buenas-advierte-guardia-civil-1388297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-ofertas-empleo-demasiado-buenas-son-portales-falsos-advierte-guardia-civil-3387791.jpg?tf=1200x' alt='Cuidado con las ofertas de empleo demasiado buenas, son portales falsos, advierte la Guardia Civil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392'>Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis</a></h4>
-    <a href='https://computerhoy.com/internet/copilot-ia-microsoft-telegram-gratis-1388392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/copilot-ia-microsoft-ya-telegram-puedes-usarla-gratis-3390698.jpg?tf=1200x' alt='Telegram estrena Copilot, la IA de Microsoft: así puedes usarla gratis' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
     </a>
 </div>
 
