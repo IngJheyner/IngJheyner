@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346'>¿Qué contenido está prohibido en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/internet/contenido-prohibido-onlyfans-1387346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contenido-prohibido-onlyfans-3343718.jpg?tf=1200x' alt='¿Qué contenido está prohibido en OnlyFans?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
     <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral</a></h4>
     <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
     </a>
 </div>
 
