@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220'>Windows 11 te permitirá capturar texto de tus fotos de Android</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phone-link-3429031.jpg?tf=1200x' alt='Windows 11 te permitirá capturar texto de tus fotos de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493'>Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-convierte-prueba-definitiva-demostrar-accidente-laboral-1388493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-juez-3394932.jpg?tf=1200x' alt='Google Maps es la prueba definitiva y ayuda a demostrar este accidente laboral' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314'>Cómo encontrar y eliminar los programas que se inician con Windows para mejorar el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-deshabilitar-programas-inician-windows-mejorar-rendimiento-pc-3261987.jpg?tf=1200x' alt='Cómo encontrar y eliminar los programas que se inician con Windows para mejorar el rendimiento de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217'>Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión</a></h4>
     <a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/equipaje-mano-avion-3428888.jpg?tf=1200x' alt='Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
-    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011'>Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
-    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037'>Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm </a></h4>
-    <a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-hacker-3415529.jpg?tf=1200x' alt='Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm ' />
     </a>
 </div>
 
