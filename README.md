@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017'>Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sightful-portatil-gafas-rv-3415094.jpg?tf=1200x' alt='Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple' />
+    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
+    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004'>Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux</a></h4>
-    <a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux' />
+    <h4><a href='https://computerhoy.com/windows/pronostico-tiempo-windows-11-nombrado-preciso-mundo-1389214'>El pronóstico del tiempo de Windows 11 es nombrado el más preciso del mundo </a></h4>
+    <a href='https://computerhoy.com/windows/pronostico-tiempo-windows-11-nombrado-preciso-mundo-1389214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pronostico-tiempo-windows-3428887.jpg?tf=1200x' alt='El pronóstico del tiempo de Windows 11 es nombrado el más preciso del mundo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426'>No se puede confiar en la IA tanto como Google nos quiere hacer creer</a></h4>
-    <a href='https://computerhoy.com/google/no-puede-confiar-ia-tanto-como-google-nos-quiere-hacer-creer-1388426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/buscador-ia-google-3394001.jpg?tf=1200x' alt='No se puede confiar en la IA tanto como Google nos quiere hacer creer' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422'>¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-ransomware-consigue-acceder-datos-encriptados-bitlocker-3393667.jpg?tf=1200x' alt='¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971'>ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una</a></h4>
-    <a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iso-personalizas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-3412400.jpg?tf=1200x' alt='ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una' />
+    <h4><a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448'>Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-aurora-intel-3394150.jpg?tf=1200x' alt='Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316'>Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo</a></h4>
-    <a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desempolva-walkman-razones-cintas-casete-podrian-volver-igual-vinilo-3388429.jpg?tf=1200x' alt='Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003'>Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg?tf=1200x' alt='Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows' />
     </a>
 </div>
 
