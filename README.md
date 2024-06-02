@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
-    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
+    <h4><a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217'>Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión</a></h4>
+    <a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/equipaje-mano-avion-3428888.jpg?tf=1200x' alt='Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/pronostico-tiempo-windows-11-nombrado-preciso-mundo-1389214'>El pronóstico del tiempo de Windows 11 es nombrado el más preciso del mundo </a></h4>
-    <a href='https://computerhoy.com/windows/pronostico-tiempo-windows-11-nombrado-preciso-mundo-1389214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pronostico-tiempo-windows-3428887.jpg?tf=1200x' alt='El pronóstico del tiempo de Windows 11 es nombrado el más preciso del mundo ' />
+    <h4><a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456'>Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo</a></h4>
+    <a href='https://computerhoy.com/apps/telegram-convierte-foco-noticias-falsas-ue-tiene-problemas-resolverlo-1388456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/telegram-app-espana-3291956.jpg?tf=1200x' alt='Telegram se convierte en un foco de noticias falsas y la UE tiene problemas para resolverlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422'>¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/alerta-nuevo-ransomware-consigue-acceder-datos-cifrados-bitlocker-windows-1388422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nuevo-ransomware-consigue-acceder-datos-encriptados-bitlocker-3393667.jpg?tf=1200x' alt='¡Alerta! Un nuevo ransomware consigue acceder a los datos cifrados de BitLocker en Windows' />
+    <h4><a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011'>Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448'>Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/intel-dice-aurora-superordenador-rompio-barrera-exaescala-pero-significa-1388448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/superordenador-aurora-intel-3394150.jpg?tf=1200x' alt='Intel dice que Aurora, su superordenador, rompió la barrera de la exaescala, pero ¿qué significa?' />
+    <h4><a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453'>¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador</a></h4>
+    <a href='https://computerhoy.com/apps/videos-youtube-saltan-directamente-final-no-eres-culpa-opcion-navegador-1388453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/youtube-3394449.jpg?tf=1200x' alt='¿Los vídeos de YouTube saltan directamente al final? No eres tú, es culpa de esta opción de tu navegador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003'>Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg?tf=1200x' alt='Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037'>Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm </a></h4>
+    <a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-hacker-3415529.jpg?tf=1200x' alt='Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm ' />
     </a>
 </div>
 
