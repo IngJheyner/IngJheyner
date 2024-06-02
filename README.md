@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
+    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
     <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579'>Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024</a></h4>
     <a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sistema-solar-3397176.jpg?tf=1200x' alt='Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
     </a>
 </div>
 
