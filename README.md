@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242'>Napster cumple 25 años, la primera red P2P que cambió la música para siempre</a></h4>
+    <a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/napster.png?tf=1200x' alt='Napster cumple 25 años, la primera red P2P que cambió la música para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093'>Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cubo-rubik-3416598.jpg?tf=1200x' alt='Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579'>Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024</a></h4>
+    <a href='https://computerhoy.com/espacio/como-cuando-ver-desfile-planetas-gran-evento-astronomico-2024-1388579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sistema-solar-3397176.jpg?tf=1200x' alt='Cómo y cuándo ver "el desfile de planetas", el gran evento astronómico de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
     <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115'>¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-miedo-ambientadas-supermercados-1388115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/crees-hacer-compra-horror-pues-no-te-pierdas-estas-5-sorprendentes-peliculas-miedo-ambientadas-supermercados-3374509.jpg?tf=1200x' alt='¿Crees que hacer la compra es un horror? Pues no te pierdas estas 5 sorprendentes películas de miedo ambientadas en supermercados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902'>Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-1388902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/confirma-coherence-2-secuela-pelicula-ciencia-ficcion-sorprendente-ultimos-anos-3409408.jpg?tf=1200x' alt='Se confirma Coherence 2, la secuela de la película de ciencia ficción más sorprendente de los últimos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240'>Descubren cómo fueron hackeados el Santander y TickerMaster, y es solo la punta del iceberg</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banco-santander-personas-caminan-reflejo-3297938.jpg?tf=1200x' alt='Descubren cómo fueron hackeados el Santander y TickerMaster, y es solo la punta del iceberg' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557'>Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada</a></h4>
-    <a href='https://computerhoy.com/tecnologia/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-1388557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/convierte-raspberry-pi-pc-gaming-iluminacion-rgb-soporte-nvme-ssd-refrigeracion-mejorada-3396726.jpg?tf=1200x' alt='Convierte tu Raspberry Pi en un PC gaming con iluminación RGB, soporte NVMe SSD y refrigeración mejorada' />
     </a>
 </div>
 
