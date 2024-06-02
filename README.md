@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473'>Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/apple-traera-iphone-10-funciones-nuevas-ia-ios-18-1388473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Apple traerá al los iPhone hasta 10 funciones nuevas de IA con iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tecnologia-podrias-cargar-bateria-movil-solo-minuto-1389226'>Con esta tecnología podrías cargar la batería de tu móvil en solo un minuto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tecnologia-podrias-cargar-bateria-movil-solo-minuto-1389226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-telefono-movil-3429261.jpg?tf=1200x' alt='Con esta tecnología podrías cargar la batería de tu móvil en solo un minuto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220'>Windows 11 te permitirá capturar texto de tus fotos de Android</a></h4>
     <a href='https://computerhoy.com/windows/windows-11-te-permitira-capturar-texto-fotos-android-1389220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/phone-link-3429031.jpg?tf=1200x' alt='Windows 11 te permitirá capturar texto de tus fotos de Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314'>Cómo encontrar y eliminar los programas que se inician con Windows para mejorar el rendimiento de tu PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-encontrar-eliminar-programas-inician-windows-1357314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-encontrar-deshabilitar-programas-inician-windows-mejorar-rendimiento-pc-3261987.jpg?tf=1200x' alt='Cómo encontrar y eliminar los programas que se inician con Windows para mejorar el rendimiento de tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217'>Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión</a></h4>
-    <a href='https://computerhoy.com/life/nuevas-medidas-equipaje-mano-debes-tener-cuenta-antes-subir-proximo-avion-1389217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/equipaje-mano-avion-3428888.jpg?tf=1200x' alt='Las nuevas medidas de equipaje de mano que debes tener en cuenta antes de subir a tu próximo avión' />
     </a>
 </div>
 
