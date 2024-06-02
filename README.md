@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/potencia-precio-escandaloso-mini-pc-windows-11-1199624'>Este Mini PC presume de potencia y precio escandaloso con 16GB de RAM, Ryzen 7 y Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/potencia-precio-escandaloso-mini-pc-windows-11-1199624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nipogi-am02-2954956.jpg?tf=1200x' alt='Este Mini PC presume de potencia y precio escandaloso con 16GB de RAM, Ryzen 7 y Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407'>Las 3 reglas de oro para exprimir al máximo ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tutoriales/reglas-oro-exprimir-maximo-chatgpt-1359407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/chatgpt-3265351.jpg?tf=1200x' alt='Las 3 reglas de oro para exprimir al máximo ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
+    <h4><a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169'>Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-nube-3415696.jpg?tf=1200x' alt='Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
+    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
+    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dile-adios-ebook-muchos-lectores-estan-abandonando-dispositivo-todos-tenemos-1388798'>Dile adiós al eBook: muchos lectores lo están abandonando por este dispositivo que todos tenemos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dile-adios-ebook-muchos-lectores-estan-abandonando-dispositivo-todos-tenemos-1388798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dile-adios-ebook-muchos-lectores-estan-pasando-moviles-3407365.jpg?tf=1200x' alt='Dile adiós al eBook: muchos lectores lo están abandonando por este dispositivo que todos tenemos' />
+    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
+    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
     </a>
 </div>
 
