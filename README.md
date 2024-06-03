@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
-    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
+    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626'>China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza</a></h4>
-    <a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-lanzado-nuevo-objeto-ultrasecreto-ha-entrado-orbita-3400769.jpg?tf=1200x' alt='China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza' />
+    <h4><a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790'>3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/3-metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-3405960.jpg?tf=1200x' alt='3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/guerra-sucia-microsoft-funciones-molestas-odiadas-windows-11-llega-windows-10-1389268'>Guerra sucia de Microsoft: una de las funciones más molestas y odiadas de Windows 11 llega a Windows 10</a></h4>
-    <a href='https://computerhoy.com/windows/guerra-sucia-microsoft-funciones-molestas-odiadas-windows-11-llega-windows-10-1389268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciones-molestas-windows-11-llega-tambien-windows-10-3435256.jpg?tf=1200x' alt='Guerra sucia de Microsoft: una de las funciones más molestas y odiadas de Windows 11 llega a Windows 10' />
+    <h4><a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308'>¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-1388779'>Todo el mundo habla de ella, pero: ¿cómo funciona la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-1388779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-3404832.jpg?tf=1200x' alt='Todo el mundo habla de ella, pero: ¿cómo funciona la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291'>Historia y todo lo que debes saber sobre los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/historia-todo-debes-saber-airpods-apple-1388291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todos-airpods-apple-3388288.jpg?tf=1200x' alt='Historia y todo lo que debes saber sobre los AirPods de Apple' />
     </a>
 </div>
 
