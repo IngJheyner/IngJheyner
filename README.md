@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672'>Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud</a></h4>
+    <a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-3401695.jpg?tf=1200x' alt='Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-huawei-casi-clon-apple-watch-viene-auriculares-gratis-1388249'>Este smartwatch Huawei es casi un clon del Apple Watch, y viene con auriculares gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-huawei-casi-clon-apple-watch-viene-auriculares-gratis-1388249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2766155.jpg?tf=1200x' alt='Este smartwatch Huawei es casi un clon del Apple Watch, y viene con auriculares gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
     <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716'>Mejores alternativas a Photoshop para editar fotos sin instalar nada y gratis</a></h4>
     <a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/photoshop-3253540.jpg?tf=1200x' alt='Mejores alternativas a Photoshop para editar fotos sin instalar nada y gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
     </a>
 </div>
 
