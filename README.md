@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
-    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
+    <h4><a href='https://computerhoy.com/gaming/adaptador-pc-ps-vr2-sony-conectar-ps-vr2-pc-1389427'>Ya está aquí el adaptador de Sony para conectar las PS VR2 al PC</a></h4>
+    <a href='https://computerhoy.com/gaming/adaptador-pc-ps-vr2-sony-conectar-ps-vr2-pc-1389427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-aqui-adaptador-sony-conectar-ps-vr2-pc-3437964.jpg?tf=1200x' alt='Ya está aquí el adaptador de Sony para conectar las PS VR2 al PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/10-chollos-aliexpress-choice-day-marcas-como-apple-samsung-oneplus-tienen-envio-espana-1389347'>10 chollos del AliExpress Choice Day de marcas como Apple, Samsung o OnePlus que tienen envío desde España</a></h4>
-    <a href='https://computerhoy.com/android/10-chollos-aliexpress-choice-day-marcas-como-apple-samsung-oneplus-tienen-envio-espana-1389347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='10 chollos del AliExpress Choice Day de marcas como Apple, Samsung o OnePlus que tienen envío desde España' />
+    <h4><a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401'>Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)</a></h4>
+    <a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639'>La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar</a></h4>
+    <a href='https://computerhoy.com/life/mujer-rica-australia-topa-bruces-efecto-streisand-porque-hay-cosas-ni-dinero-puede-comprar-1388639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/barbra-streisand-3401844.jpg?tf=1200x' alt='La mujer más rica de Australia se topa de bruces con el efecto Streisand, porque hay cosas que ni el dinero puede comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150'>IP estática vs. IP dinámica: qué son y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ip-estatica-vs-ip-dinamica-son-diferencian-3419944.jpg?tf=1200x' alt='IP estática vs. IP dinámica: qué son y en qué se diferencian' />
+    <h4><a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120'>Qué significa SATA: puertos, conectores, tipos y velocidad</a></h4>
+    <a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-sata-puertos-conectores-tipos-velocidad-3418428.jpg?tf=1200x' alt='Qué significa SATA: puertos, conectores, tipos y velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819'>Este mod gratuito permite jugar a 11.000 juegos de PC en realidad virtual</a></h4>
-    <a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-puedes-descargar-uevr-mod-gratuito-permite-jugar-11000-juegos-pc-realidad-virtual-3255998.jpg?tf=1200x' alt='Este mod gratuito permite jugar a 11.000 juegos de PC en realidad virtual' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193'>Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original' />
     </a>
 </div>
 
