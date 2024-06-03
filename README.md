@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519'>Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala</a></h4>
+    <a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pizza-pegamento-3400920.jpg?tf=1200x' alt='Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
+    <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672'>Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-3401695.jpg?tf=1200x' alt='Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
     <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646'>Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas</a></h4>
-    <a href='https://computerhoy.com/ciencia/implante-cerebral-ia-permite-paciente-habla-hablar-dos-idiomas-1388646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/implante-cerebro-3401231.jpg?tf=1200x' alt='Un implante cerebral con IA permite a un paciente sin habla hablar en dos idiomas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716'>Mejores alternativas a Photoshop para editar fotos sin instalar nada y gratis</a></h4>
-    <a href='https://computerhoy.com/apps/photoshop-gratis-mejores-alternativas-editar-fotos-1351716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/photoshop-3253540.jpg?tf=1200x' alt='Mejores alternativas a Photoshop para editar fotos sin instalar nada y gratis' />
     </a>
 </div>
 
