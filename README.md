@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440'>Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movistar-plus-3438848.jpg?tf=1200x' alt='Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436'>Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-121-3438842.jpg?tf=1200x' alt='Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
+    <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566'>Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-1388566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/street-fighter-otras-peliculas-videojuegos-verdad-ofendieron-fans-estas-son-razones-3396576.jpg?tf=1200x' alt='Street Fighter y otras películas de videojuegos que de verdad ofendieron a los fans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241'>5 películas de coches y velocidad que adelantan claramente a Fast & Furious</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-9-3189112.jpg?tf=1200x' alt='5 películas de coches y velocidad que adelantan claramente a Fast & Furious' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/adaptador-pc-ps-vr2-sony-conectar-ps-vr2-pc-1389427'>Ya está aquí el adaptador de Sony para conectar las PS VR2 a PC</a></h4>
-    <a href='https://computerhoy.com/gaming/adaptador-pc-ps-vr2-sony-conectar-ps-vr2-pc-1389427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-aqui-adaptador-sony-conectar-ps-vr2-pc-3437964.jpg?tf=1200x' alt='Ya está aquí el adaptador de Sony para conectar las PS VR2 a PC' />
     </a>
 </div>
 
