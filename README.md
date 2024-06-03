@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/he-montado-mi-setup-gaming-solo-raton-teclado-made-spain-1387685'>He montado mi setup gaming con tan solo un ratón y un teclado 'made in Spain'</a></h4>
+    <a href='https://computerhoy.com/analisis/he-montado-mi-setup-gaming-solo-raton-teclado-made-spain-1387685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/newskill-chiron-pro-wireless-gungnyr-pro-3390011.jpg?tf=1200x' alt='He montado mi setup gaming con tan solo un ratón y un teclado 'made in Spain'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
+    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855'>Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga</a></h4>
     <a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055'>AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA</a></h4>
-    <a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/coche-ataud-legal-tiene-permiso-circular-1389246'>Este coche ataúd es legal, tiene permiso para circular</a></h4>
-    <a href='https://computerhoy.com/motor/coche-ataud-legal-tiene-permiso-circular-1389246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-ataud-legal-tiene-permiso-circular-3432340.jpg?tf=1200x' alt='Este coche ataúd es legal, tiene permiso para circular' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
-    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
     </a>
 </div>
 
