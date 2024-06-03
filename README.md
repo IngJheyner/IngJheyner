@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/asus-renueva-portatiles-inteligencia-artificial-presente-1387788'>Asus lanza nuevos modelos de portátiles para ofrecer todos los avances de la IA</a></h4>
+    <a href='https://computerhoy.com/pc/asus-renueva-portatiles-inteligencia-artificial-presente-1387788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-zenbook-s-16-3432003.jpg?tf=1200x' alt='Asus lanza nuevos modelos de portátiles para ofrecer todos los avances de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629'>La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?</a></h4>
+    <a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971'>ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una</a></h4>
+    <a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iso-personalizas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-3412400.jpg?tf=1200x' alt='ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261'>Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería</a></h4>
     <a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-lite-3435090.jpg?tf=1200x' alt='Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858'>Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país</a></h4>
     <a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
     </a>
 </div>
 
