@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615'>Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas</a></h4>
-    <a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas' />
+    <h4><a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261'>Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-lite-3435090.jpg?tf=1200x' alt='Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
-    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
+    <h4><a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858'>Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país</a></h4>
+    <a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
+    <h4><a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623'>Cuando la IA se comporta como los humanos: también tiene números favoritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuando-ia-comporta-como-humanos-tambien-tiene-numeros-favoritos-1388623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-numeros-3400768.jpg?tf=1200x' alt='Cuando la IA se comporta como los humanos: también tiene números favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
-    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
+    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946'>Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-s1-active-3415081.jpg?tf=1200x' alt='Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre' />
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
     </a>
 </div>
 
