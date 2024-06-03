@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615'>Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas</a></h4>
+    <a href='https://computerhoy.com/android/alerta-tienes-android-90-apps-maliciosas-detectadas-5-millones-descargas-1388615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta si tienes Android: 90 apps maliciosas detectadas con más de 5 millones de descargas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
+    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
+    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946'>Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre</a></h4>
     <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-s1-active-3415081.jpg?tf=1200x' alt='Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951'>He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-apps-movilidad-3416747.jpg?tf=1200x' alt='He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495'>En qué deberías fijarte antes de comprar un robot de limpieza para casa</a></h4>
-    <a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232704.jpg?tf=1200x' alt='En qué deberías fijarte antes de comprar un robot de limpieza para casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544'>Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/futurama-3396123.jpg?tf=1200x' alt='Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama' />
     </a>
 </div>
 
