@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784'>Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales </a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440'>Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movistar-plus-3438848.jpg?tf=1200x' alt='Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436'>Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión</a></h4>
     <a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-121-3438842.jpg?tf=1200x' alt='Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
-    <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764'>7 señales de alerta que indican que tu webcam ha sido hackeada</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/7-senales-alerta-indican-webcam-ha-sido-hackeada-1388764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/7-senales-alerta-indican-webcam-ha-sido-hackeada-3404273.jpg?tf=1200x' alt='7 señales de alerta que indican que tu webcam ha sido hackeada' />
     </a>
 </div>
 
