@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654'>Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cloudflare-iptv-futbol-3401691.jpg?tf=1200x' alt='Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamando por teléfono</a></h4>
+    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/listaspam-otras-webs-saber-quien-te-llamado-telefono-3421040.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamando por teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519'>Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala</a></h4>
     <a href='https://computerhoy.com/alimentacion/comienzan-seguir-consejos-locos-ia-google-pizza-pegamento-no-tan-mala-1388519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pizza-pegamento-3400920.jpg?tf=1200x' alt='Comienzan a seguir los consejos locos de la IA de Google: Pizza con pegamento, y no está tan mala' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672'>Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud</a></h4>
     <a href='https://computerhoy.com/audio/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-1388672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/auriculares-ia-futuro-permitiran-escuchar-persona-multitud-3401695.jpg?tf=1200x' alt='Los auriculares con IA del futuro permitirán escuchar a una persona entre una multitud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-huawei-casi-clon-apple-watch-viene-auriculares-gratis-1388249'>Este smartwatch Huawei es casi un clon del Apple Watch, y viene con auriculares gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-huawei-casi-clon-apple-watch-viene-auriculares-gratis-1388249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/huawei-watch-fit-2-2766155.jpg?tf=1200x' alt='Este smartwatch Huawei es casi un clon del Apple Watch, y viene con auriculares gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
-    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
     </a>
 </div>
 
