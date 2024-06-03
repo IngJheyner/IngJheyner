@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386'>Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo' />
+    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
+    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
+    <h4><a href='https://computerhoy.com/android/10-chollos-aliexpress-choice-day-marcas-como-apple-samsung-oneplus-tienen-envio-espana-1389347'>10 chollos del AliExpress Choice Day de marcas como Apple, Samsung o OnePlus que tienen envío desde España</a></h4>
+    <a href='https://computerhoy.com/android/10-chollos-aliexpress-choice-day-marcas-como-apple-samsung-oneplus-tienen-envio-espana-1389347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/aliexpress-choice-day-3281542.jpg?tf=1200x' alt='10 chollos del AliExpress Choice Day de marcas como Apple, Samsung o OnePlus que tienen envío desde España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595'>Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-perfiles-icc-windows-sirven-como-instalar-1388595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-perfiles-icc-windows-sirven-como-instalar-3399357.jpg?tf=1200x' alt='Qué son los perfiles ICC de Windows, para qué sirven y cómo instalar uno' />
+    <h4><a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594'>Luz roja en la placa base: qué significa y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.com/pc/luz-roja-placa-base-significa-como-solucionarlo-1388594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/luz-roja-placa-base-significa-como-solucionarlo-3399160.jpg?tf=1200x' alt='Luz roja en la placa base: qué significa y cómo solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654'>Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cloudflare-convierte-sorprendente-aliado-ver-futbol-gratis-iptv-1388654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cloudflare-iptv-futbol-3401691.jpg?tf=1200x' alt='Cloudflare se convierte en un sorprendente aliado para ver el fútbol gratis por IPTV' />
+    <h4><a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150'>IP estática vs. IP dinámica: qué son y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ip-estatica-vs-ip-dinamica-son-diferencian-3419944.jpg?tf=1200x' alt='IP estática vs. IP dinámica: qué son y en qué se diferencian' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamando por teléfono</a></h4>
-    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/listaspam-otras-webs-saber-quien-te-llamado-telefono-3421040.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamando por teléfono' />
+    <h4><a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819'>Este mod gratuito permite jugar a 11.000 juegos de PC en realidad virtual</a></h4>
+    <a href='https://computerhoy.com/gaming/uevr-mod-permite-jugar-11000-juegos-pc-realidad-virtual-1353819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/ya-puedes-descargar-uevr-mod-gratuito-permite-jugar-11000-juegos-pc-realidad-virtual-3255998.jpg?tf=1200x' alt='Este mod gratuito permite jugar a 11.000 juegos de PC en realidad virtual' />
     </a>
 </div>
 
