@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055'>AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA</a></h4>
+    <a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/coche-ataud-legal-tiene-permiso-circular-1389246'>Este coche ataúd es legal, tiene permiso para circular</a></h4>
     <a href='https://computerhoy.com/motor/coche-ataud-legal-tiene-permiso-circular-1389246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-ataud-legal-tiene-permiso-circular-3432340.jpg?tf=1200x' alt='Este coche ataúd es legal, tiene permiso para circular' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242'>Napster cumple 25 años, la primera red P2P que cambió la música para siempre</a></h4>
     <a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/napster.png?tf=1200x' alt='Napster cumple 25 años, la primera red P2P que cambió la música para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093'>Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pestaneas-te-pierdes-robot-resuelve-cubo-rubik-milisegundos-video-1389093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cubo-rubik-3416598.jpg?tf=1200x' alt='Si pestañeas te lo pierdes: este robot resuelve el cubo de Rubik en milisegundos (vídeo)' />
     </a>
 </div>
 
