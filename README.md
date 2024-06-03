@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453'>Cuidado, Qualcomm también va a competir con Intel y AMD en los PC de sobremesa</a></h4>
+    <a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuidado-qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-3439304.jpg?tf=1200x' alt='Cuidado, Qualcomm también va a competir con Intel y AMD en los PC de sobremesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
+    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
     <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440'>Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador</a></h4>
     <a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movistar-plus-3438848.jpg?tf=1200x' alt='Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781'>¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-moda-pasajera-datos-sugieren-casi-nadie-utiliza-1388781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='¿Es la inteligencia artificial una moda pasajera? Los datos sugieren que sí, casi nadie la utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436'>Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-121-ya-disponible-todos-novedades-como-actualizar-ultima-version-1389436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-121-3438842.jpg?tf=1200x' alt='Android Auto 12.1 ya disponible para todos: novedades y cómo actualizar a la última versión' />
     </a>
 </div>
 
