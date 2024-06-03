@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-renueva-portatiles-inteligencia-artificial-presente-1387788'>Asus lanza nuevos modelos de portátiles para ofrecer todos los avances de la IA</a></h4>
-    <a href='https://computerhoy.com/pc/asus-renueva-portatiles-inteligencia-artificial-presente-1387788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-zenbook-s-16-3432003.jpg?tf=1200x' alt='Asus lanza nuevos modelos de portátiles para ofrecer todos los avances de la IA' />
+    <h4><a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647'>La función de Google Maps que nunca llegará a Waze: "no tendría sentido"</a></h4>
+    <a href='https://computerhoy.com/android/funcion-google-maps-nunca-llegara-waze-no-tendria-sentido-1388647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/waze-android-auto-3106244.jpg?tf=1200x' alt='La función de Google Maps que nunca llegará a Waze: "no tendría sentido"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629'>La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?</a></h4>
-    <a href='https://computerhoy.com/windows/situacion-microsoft-windows-11-arde-windows-12-solucion-1388629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-windows-tengo-instalado-ordenador-3308772.jpg?tf=1200x' alt='La situación en Microsoft con Windows 11 está que arde: ¿Es Windows 12 la solución?' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971'>ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una</a></h4>
-    <a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iso-personalizas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-3412400.jpg?tf=1200x' alt='ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una' />
+    <h4><a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626'>China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza</a></h4>
+    <a href='https://computerhoy.com/espacio/china-ha-puesto-orbita-extrano-objeto-nadie-sabe-supone-algun-tipo-amenaza-1388626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/china-ha-lanzado-nuevo-objeto-ultrasecreto-ha-entrado-orbita-3400769.jpg?tf=1200x' alt='China ha puesto en órbita un extraño objeto: nadie sabe qué es y si supone algún tipo de amenaza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261'>Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-200-lite-gama-media-camara-principal-108-mpx-dimensity-6080-4500-mah-bateria-1389261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-lite-3435090.jpg?tf=1200x' alt='Honor 200 lite: un gama media con cámara principal de 108 Mpx, Dimensity 6080 y 4.500 mAh de batería' />
+    <h4><a href='https://computerhoy.com/windows/guerra-sucia-microsoft-funciones-molestas-odiadas-windows-11-llega-windows-10-1389268'>Guerra sucia de Microsoft: una de las funciones más molestas y odiadas de Windows 11 llega a Windows 10</a></h4>
+    <a href='https://computerhoy.com/windows/guerra-sucia-microsoft-funciones-molestas-odiadas-windows-11-llega-windows-10-1389268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/funciones-molestas-windows-11-llega-tambien-windows-10-3435256.jpg?tf=1200x' alt='Guerra sucia de Microsoft: una de las funciones más molestas y odiadas de Windows 11 llega a Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858'>Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país</a></h4>
-    <a href='https://computerhoy.com/tecnologia/llevate-netflix-prime-video-otras-plataformas-vacaciones-vpn-te-sirve-catalogo-cualquier-pais-1388858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Llévate Netflix, Prime Video y otras plataformas de vacaciones: esta VPN te sirve tu catálogo en cualquier país' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-1388779'>Todo el mundo habla de ella, pero: ¿cómo funciona la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-1388779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/todo-mundo-habla-ella-pero-como-funciona-inteligencia-artificial-3404832.jpg?tf=1200x' alt='Todo el mundo habla de ella, pero: ¿cómo funciona la inteligencia artificial?' />
     </a>
 </div>
 
