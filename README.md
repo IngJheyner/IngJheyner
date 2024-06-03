@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855'>Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055'>AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA</a></h4>
     <a href='https://computerhoy.com/gaming/amd-presenta-ryzen-9000-procesador-potente-junto-nuevas-graficas-radeon-chips-ia-1389055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD presenta Ryzen 9000, su procesador más potente, junto a nuevas gráficas Radeon y chips para la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
     <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568'>Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una</a></h4>
-    <a href='https://computerhoy.com/pc/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-1388568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/son-fuentes-alimentacion-modulares-proximo-pc-deberia-tener-3397473.jpg?tf=1200x' alt='Qué son las fuentes de alimentación modulares y por qué tu próximo PC debería tener una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242'>Napster cumple 25 años, la primera red P2P que cambió la música para siempre</a></h4>
-    <a href='https://computerhoy.com/audio/napster-cumple-25-anos-primera-red-p2p-cambio-musica-siempre-1389242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/napster.png?tf=1200x' alt='Napster cumple 25 años, la primera red P2P que cambió la música para siempre' />
     </a>
 </div>
 
