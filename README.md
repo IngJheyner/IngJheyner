@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946'>Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-xiaomi-gps-oferta-rival-garmin-1186946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-s1-active-3415081.jpg?tf=1200x' alt='Xiaomi va a por Garmin: su reloj deportivo barato tiene Alexa, GPS y mide oxígeno en sangre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-montado-mi-setup-gaming-solo-raton-teclado-made-spain-1387685'>He montado mi setup gaming con tan solo un ratón y un teclado 'made in Spain'</a></h4>
-    <a href='https://computerhoy.com/analisis/he-montado-mi-setup-gaming-solo-raton-teclado-made-spain-1387685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/newskill-chiron-pro-wireless-gungnyr-pro-3390011.jpg?tf=1200x' alt='He montado mi setup gaming con tan solo un ratón y un teclado 'made in Spain'' />
+    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205'>Así puedes optimizar y mejorar Ubuntu sin abrir la terminal</a></h4>
-    <a href='https://computerhoy.com/tecnologia/puedes-optimizar-mejorar-ubuntu-abrir-terminal-1386205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/puedes-optimizar-mejorar-ubuntu-tocar-terminal-3311727.jpg?tf=1200x' alt='Así puedes optimizar y mejorar Ubuntu sin abrir la terminal' />
+    <h4><a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951'>He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-apps-movilidad-3416747.jpg?tf=1200x' alt='He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855'>Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-auto-apple-carplay-pantalla-inteligente-barata-aliexpress-1364855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/podofo-pantalla-inteligente-carplay-android-auto-3274595.jpg?tf=1200x' alt='Tu coche puede ser inteligente, incluso si es de 2005: esta pantalla inteligente le pone Android Auto o CarPlay a precio de ganga' />
+    <h4><a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495'>En qué deberías fijarte antes de comprar un robot de limpieza para casa</a></h4>
+    <a href='https://computerhoy.com/hogar/deberias-fijarte-antes-comprar-robot-limpieza-casa-1387495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232704.jpg?tf=1200x' alt='En qué deberías fijarte antes de comprar un robot de limpieza para casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476'>Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tiempo-maximo-debes-estar-apagar-movil-permanecer-seguro-1388476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/reiniciar-movil-3395094.jpg?tf=1200x' alt='Este es el tiempo máximo que debes estar sin apagar el móvil para permanecer seguro' />
+    <h4><a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544'>Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiarte-cabeza-robot-ia-tecnica-parece-sacada-futurama-1388544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/futurama-3396123.jpg?tf=1200x' alt='Cambiarte la cabeza por un robot con IA: la técnica que parece sacada de Futurama' />
     </a>
 </div>
 
