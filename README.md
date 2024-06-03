@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453'>Cuidado, Qualcomm también va a competir con Intel y AMD en los PC de sobremesa</a></h4>
+    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
+    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453'>Cuidado Intel y AMD, Qualcomm también va a competir en los PC de sobremesa</a></h4>
     <a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuidado-qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-3439304.jpg?tf=1200x' alt='Cuidado, Qualcomm también va a competir con Intel y AMD en los PC de sobremesa' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuidado-qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-3439304.jpg?tf=1200x' alt='Cuidado Intel y AMD, Qualcomm también va a competir en los PC de sobremesa' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784'>Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales </a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-1388784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-dos-vpn-gratuitas-usan-direcciones-ip-usuarios-realizar-actos-criminales-3404133.jpg?tf=1200x' alt='Estas dos VPN gratuitas usan las direcciones IP de los usuarios para realizar actos criminales ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440'>Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/como-tener-movistar-plus-10-euros-mes-permanencia-ni-cambiar-operador-1389440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movistar-plus-3438848.jpg?tf=1200x' alt='Cómo tener Movistar Plus+ por 10 euros al mes, sin permanencia ni cambiar de operador' />
     </a>
 </div>
 
