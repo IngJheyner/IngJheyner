@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491'>Este botón secreto del Amazon Fire TV soluciona errores y bloqueos de rendimiento</a></h4>
-    <a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-segundos-3260510.jpg?tf=1200x' alt='Este botón secreto del Amazon Fire TV soluciona errores y bloqueos de rendimiento' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vpn-3415384.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
+    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
-    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
-    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
+    <h4><a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813'>Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   </a></h4>
+    <a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/billetera-criptomonedas-3407805.jpg?tf=1200x' alt='Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   ' />
     </a>
 </div>
 
