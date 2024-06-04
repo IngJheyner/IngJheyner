@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/oppo-find-x7-ultra-tiene-fotografia-top-he-visto-movil-android-ia-altura-1388980'>El Oppo Find X7 Ultra tiene la fotografía más top que he visto en un móvil Android y una IA a la altura</a></h4>
-    <a href='https://computerhoy.com/analisis/oppo-find-x7-ultra-tiene-fotografia-top-he-visto-movil-android-ia-altura-1388980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-find-x7-ultra-3436390.jpg?tf=1200x' alt='El Oppo Find X7 Ultra tiene la fotografía más top que he visto en un móvil Android y una IA a la altura' />
+    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
+    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
+    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-oferta-historica-google-pixel-8-pro-1359344'>AliExpress va a agotar el móvil top de Google: lo vende 200 euros más barato que en Amazon con este código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-oferta-historica-google-pixel-8-pro-1359344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191830.jpg?tf=1200x' alt='AliExpress va a agotar el móvil top de Google: lo vende 200 euros más barato que en Amazon con este código descuento' />
+    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
+    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/fondo-ambiental-nueva-funcion-nuevos-amazon-fire-tv-stick-wifi-6e-1389457'>Qué es el Fondo Ambiental, la nueva función de los nuevos Amazon Fire TV Stick con WiFi 6E</a></h4>
-    <a href='https://computerhoy.com/amazon/fondo-ambiental-nueva-funcion-nuevos-amazon-fire-tv-stick-wifi-6e-1389457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-ambiental-nueva-funcion-nuevos-fire-tv-wifi-6e-amazon-3440034.jpg?tf=1200x' alt='Qué es el Fondo Ambiental, la nueva función de los nuevos Amazon Fire TV Stick con WiFi 6E' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
+    <h4><a href='https://computerhoy.com/industria/genio-programacion-trabaja-nuevo-lenguaje-evitara-vulnerabilidades-1388467'>Este genio de la programación trabaja en un nuevo lenguaje que evitará las vulnerabilidades</a></h4>
+    <a href='https://computerhoy.com/industria/genio-programacion-trabaja-nuevo-lenguaje-evitara-vulnerabilidades-1388467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/douglas-krockford-creador-lenguaje-programacion-json-3395974.jpg?tf=1200x' alt='Este genio de la programación trabaja en un nuevo lenguaje que evitará las vulnerabilidades' />
     </a>
 </div>
 
