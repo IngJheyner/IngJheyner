@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637'>Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
+    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967'>La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España</a></h4>
     <a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
-    <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
     </a>
 </div>
 
