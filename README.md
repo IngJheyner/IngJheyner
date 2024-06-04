@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
+    <h4><a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491'>Este botón secreto del Amazon Fire TV soluciona errores y bloqueos de rendimiento</a></h4>
+    <a href='https://computerhoy.com/amazon/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-1356491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/boton-secreto-amazon-fire-tv-soluciona-error-bloqueo-segundos-3260510.jpg?tf=1200x' alt='Este botón secreto del Amazon Fire TV soluciona errores y bloqueos de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551'>Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi</a></h4>
-    <a href='https://computerhoy.com/moviles/samsung-comienza-2024-como-marca-moviles-vendida-espana-desbancando-xiaomi-1388551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tienda-moviles-bandera-espana-3402615.jpg?tf=1200x' alt='Samsung comienza 2024 como la marca de móviles más vendida en España desbancando a Xiaomi' />
+    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198'>Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta</a></h4>
-    <a href='https://computerhoy.com/moviles/me-ha-gustado-poco-f6-pro-poco-he-echado-menos-mi-movil-gama-alta-1388198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3376282.jpg?tf=1200x' alt='Lo que más me ha gustado de POCO F6 Pro es lo poco que he echado de menos mi móvil de gama alta' />
+    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
+    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
+    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/genio-programacion-trabaja-nuevo-lenguaje-evitara-vulnerabilidades-1388467'>Este genio de la programación trabaja en un nuevo lenguaje que evitará las vulnerabilidades</a></h4>
-    <a href='https://computerhoy.com/industria/genio-programacion-trabaja-nuevo-lenguaje-evitara-vulnerabilidades-1388467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/douglas-krockford-creador-lenguaje-programacion-json-3395974.jpg?tf=1200x' alt='Este genio de la programación trabaja en un nuevo lenguaje que evitará las vulnerabilidades' />
+    <h4><a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981'>Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor</a></h4>
+    <a href='https://computerhoy.com/hogar/conectar-pc-smart-tv-todas-opciones-ver-imagen-1386981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conectar-pc-smart-tv-3341195.jpg?tf=1200x' alt='Conectar el PC a una Smart TV: todas las opciones disponibles para ver la imagen del ordenador en el televisor' />
     </a>
 </div>
 
