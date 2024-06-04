@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/oppo-find-x7-ultra-tiene-fotografia-top-he-visto-movil-android-ia-altura-1388980'>El Oppo Find X7 Ultra tiene la fotografía más top que he visto en un móvil Android y una IA a la altura</a></h4>
+    <a href='https://computerhoy.com/analisis/oppo-find-x7-ultra-tiene-fotografia-top-he-visto-movil-android-ia-altura-1388980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-find-x7-ultra-3436390.jpg?tf=1200x' alt='El Oppo Find X7 Ultra tiene la fotografía más top que he visto en un móvil Android y una IA a la altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-oferta-historica-google-pixel-8-pro-1359344'>AliExpress va a agotar el móvil top de Google: lo vende 200 euros más barato que en Amazon con este código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aliexpress-oferta-historica-google-pixel-8-pro-1359344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191830.jpg?tf=1200x' alt='AliExpress va a agotar el móvil top de Google: lo vende 200 euros más barato que en Amazon con este código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/amazon/fondo-ambiental-nueva-funcion-nuevos-amazon-fire-tv-stick-wifi-6e-1389457'>Qué es el Fondo Ambiental, la nueva función de los nuevos Amazon Fire TV Stick con WiFi 6E</a></h4>
     <a href='https://computerhoy.com/amazon/fondo-ambiental-nueva-funcion-nuevos-amazon-fire-tv-stick-wifi-6e-1389457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-ambiental-nueva-funcion-nuevos-fire-tv-wifi-6e-amazon-3440034.jpg?tf=1200x' alt='Qué es el Fondo Ambiental, la nueva función de los nuevos Amazon Fire TV Stick con WiFi 6E' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787'>Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar</a></h4>
-    <a href='https://computerhoy.com/espacio/eclipse-solar-objetos-voladores-cientificos-no-saben-explicar-1388787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/mientras-grababa-eclipse-solar-descubre-dos-objetos-voladores-cientificos-no-saben-explicar-3405114.jpg?tf=1200x' alt='Mientras grababa el eclipse solar, descubre dos objetos voladores que los científicos no saben explicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453'>Cuidado Intel y AMD, Qualcomm también va a competir en los PC de sobremesa</a></h4>
-    <a href='https://computerhoy.com/pc/qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-1389453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cuidado-qualcomm-tambien-va-competir-intel-amd-pc-sobremesa-3439304.jpg?tf=1200x' alt='Cuidado Intel y AMD, Qualcomm también va a competir en los PC de sobremesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
-    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
     </a>
 </div>
 
