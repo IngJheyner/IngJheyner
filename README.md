@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
+    <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-1388876'>Google no para y sigue cerrando servicios, ahora le toca a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-1388876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3408967.jpg?tf=1200x' alt='Google no para y sigue cerrando servicios, ahora le toca a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521'>Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas</a></h4>
     <a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545'>Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento</a></h4>
     <a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/monitores-samsung-3443239.jpg?tf=1200x' alt='Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
-    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
     </a>
 </div>
 
