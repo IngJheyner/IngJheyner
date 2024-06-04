@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823'>Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-contraataca-pixel-galaxy-s24-hunde-precio-codigo-descuento-1389310'>Samsung contraataca a los Pixel: el Galaxy S24 hunde su precio con un código descuento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-contraataca-pixel-galaxy-s24-hunde-precio-codigo-descuento-1389310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='Samsung contraataca a los Pixel: el Galaxy S24 hunde su precio con un código descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492'>Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?</a></h4>
-    <a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-24h2-problemas-nas-actualizacion-1388839'>Si usas un NAS, lee esto antes de actualizar a Windows 11 24H2 porque podría darte problemas</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-24h2-problemas-nas-actualizacion-1388839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-microsoft-3254538.jpg?tf=1200x' alt='Si usas un NAS, lee esto antes de actualizar a Windows 11 24H2 porque podría darte problemas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824'>Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-3407952.jpg?tf=1200x' alt='Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vpn-3415384.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
+    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
     </a>
 </div>
 
