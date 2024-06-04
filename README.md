@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330'>¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?</a></h4>
-    <a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/supremo-anula-traspaso-competencias-trafico-guardia-civil-navarra-3277103.jpg?tf=1200x' alt='¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?' />
+    <h4><a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386'>Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo</a></h4>
+    <a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026'>Mercadona no está haciendo ninguna promoción, cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/mercadona-no-haciendo-ninguna-promocion-cuidado-estafa-1388026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/mercadona-2828789.jpg?tf=1200x' alt='Mercadona no está haciendo ninguna promoción, cuidado con esta estafa' />
+    <h4><a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761'>Escribe qué quieres dibujar y la IA de Wombo.art los hace por ti</a></h4>
+    <a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/escribe-quieres-dibujar-ia-womboart-hace-ti-3441216.jpg?tf=1200x' alt='Escribe qué quieres dibujar y la IA de Wombo.art los hace por ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamando por teléfono</a></h4>
-    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/listaspam-otras-webs-saber-quien-te-llamado-telefono-3421040.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamando por teléfono' />
+    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
-    <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
     </a>
 </div>
 
