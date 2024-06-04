@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823'>Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-pone-dieta-futuras-rtx-5090-filtraciones-eficiencia-menos-espacio-1388823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Nvidia pone a dieta sus futuras RTX 5090 según filtraciones: más eficiencia en menos espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492'>Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?</a></h4>
+    <a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824'>Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-1388824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estados-unidos-ha-desmantelado-redes-ciberdelincuencia-grandes-3407952.jpg?tf=1200x' alt='Estados Unidos ha desmantelado una de las redes de ciberdelincuencia más grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911'>Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-servicios-vpn-1117911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/vpn-3415384.jpg?tf=1200x' alt='Estas son las mejores VPN de 2024 para proteger tu privacidad en PC, Android, Mac y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
     <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813'>Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   </a></h4>
-    <a href='https://computerhoy.com/criptos/hackers-descifran-contrasena-hace-11-anos-recuperan-3-millones-criptomonedas-1388813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/billetera-criptomonedas-3407805.jpg?tf=1200x' alt='Hackers descifran una contraseña de hace 11 años y recuperan 3 millones en criptomonedas   ' />
     </a>
 </div>
 
