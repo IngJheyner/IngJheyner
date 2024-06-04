@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939'>Cómo configurar niveles de volumen diferentes para cada programa en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-niveles-volumen-diferentes-cada-programa-windows-1388939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-configurar-niveles-volumen-diferentes-cada-programa-windows-3410932.jpg?tf=1200x' alt='Cómo configurar niveles de volumen diferentes para cada programa en Windows' />
+    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
+    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120'>Qué significa SATA: puertos, conectores, tipos y velocidad</a></h4>
-    <a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-sata-puertos-conectores-tipos-velocidad-3418428.jpg?tf=1200x' alt='Qué significa SATA: puertos, conectores, tipos y velocidad' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/utilizar-internet-aumenta-bienestar-respuesta-ciencia-1388019'>¿Utilizar Internet aumenta el bienestar? Esta es la sorprendente respuesta de la ciencia</a></h4>
-    <a href='https://computerhoy.com/ciencia/utilizar-internet-aumenta-bienestar-respuesta-ciencia-1388019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/utilizar-internet-aumenta-bienestar-sorprendente-respuesta-ciencia-3367995.jpg?tf=1200x' alt='¿Utilizar Internet aumenta el bienestar? Esta es la sorprendente respuesta de la ciencia' />
+    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553'>Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"</a></h4>
+    <a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-3443550.jpg?tf=1200x' alt='Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544'>Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan</a></h4>
-    <a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3443860.jpg?tf=1200x' alt='Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan' />
+    <h4><a href='https://computerhoy.com/entretenimiento/franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-1388836'>5 franquicias míticas de dibujos que merecen una película live action como Masters del Universo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-1388836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-franquicias-miticas-dibujos-merecen-pelicula-live-action-como-masters-universo-3408124.jpg?tf=1200x' alt='5 franquicias míticas de dibujos que merecen una película live action como Masters del Universo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
-    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241'>5 películas de coches y velocidad que adelantan claramente a Fast & Furious</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-9-3189112.jpg?tf=1200x' alt='5 películas de coches y velocidad que adelantan claramente a Fast & Furious' />
     </a>
 </div>
 
