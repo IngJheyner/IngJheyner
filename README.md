@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997'>ListaSpam y otras webs para saber quién te está llamando por teléfono</a></h4>
+    <a href='https://computerhoy.com/listas/industria/8-mejores-paginas-web-saber-quien-me-ha-llamado-420997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/listaspam-otras-webs-saber-quien-te-llamado-telefono-3421040.jpg?tf=1200x' alt='ListaSpam y otras webs para saber quién te está llamando por teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
+    <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891'>TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod</a></h4>
     <a href='https://computerhoy.com/apple/tinypod-convierte-apple-watch-smartphone-miniatura-estilo-ipod-1388891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tinypod-quiere-convertir-apple-watch-moviles-tan-pequenos-parecen-ipod-3409260.jpg?tf=1200x' alt='TinyPod: convierte tu Apple Watch en un smartphone en miniatura al estilo iPod' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-1388876'>Google no para y sigue cerrando servicios, ahora le toca a Google Maps</a></h4>
     <a href='https://computerhoy.com/apps/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-1388876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3408967.jpg?tf=1200x' alt='Google no para y sigue cerrando servicios, ahora le toca a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521'>Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas</a></h4>
-    <a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/asus-zenbook-s-16-informacion-portatil-copilot-plus-1389402'>Me ha impresionado el portátil ASUS Zenbook S 16, el primero que promete IA con Copilot+ gracias a las gráficas de AMD</a></h4>
-    <a href='https://computerhoy.com/pc/asus-zenbook-s-16-informacion-portatil-copilot-plus-1389402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-zenbook-s-16-3437648.jpg?tf=1200x' alt='Me ha impresionado el portátil ASUS Zenbook S 16, el primero que promete IA con Copilot+ gracias a las gráficas de AMD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545'>Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/monitores-samsung-3443239.jpg?tf=1200x' alt='Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento' />
     </a>
 </div>
 
