@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-contraataca-pixel-galaxy-s24-hunde-precio-codigo-descuento-1389310'>Samsung contraataca a los Pixel: el Galaxy S24 hunde su precio con un código descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-contraataca-pixel-galaxy-s24-hunde-precio-codigo-descuento-1389310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='Samsung contraataca a los Pixel: el Galaxy S24 hunde su precio con un código descuento' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-24h2-problemas-nas-actualizacion-1388839'>Si usas un NAS, lee esto antes de actualizar a Windows 11 24H2 porque podría darte problemas</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-24h2-problemas-nas-actualizacion-1388839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/windows-11-microsoft-3254538.jpg?tf=1200x' alt='Si usas un NAS, lee esto antes de actualizar a Windows 11 24H2 porque podría darte problemas' />
+    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
+    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
+    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
+    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
+    <h4><a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308'>¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos' />
     </a>
 </div>
 
