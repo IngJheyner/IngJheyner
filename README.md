@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386'>Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo' />
+    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
+    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761'>Escribe qué quieres dibujar y la IA de Wombo.art los hace por ti</a></h4>
-    <a href='https://computerhoy.com/noticias/tecnologia/escribe-quieres-dibujar-ia-womboart-hace-ti-991761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/escribe-quieres-dibujar-ia-womboart-hace-ti-3441216.jpg?tf=1200x' alt='Escribe qué quieres dibujar y la IA de Wombo.art los hace por ti' />
+    <h4><a href='https://computerhoy.com/hogar/xiaomi-va-roomba-robot-potente-limpia-solo-va-agotar-oferta-1389522'>Xiaomi va a por Roomba: su robot potente se limpia solo y se va a agotar en esta oferta</a></h4>
+    <a href='https://computerhoy.com/hogar/xiaomi-va-roomba-robot-potente-limpia-solo-va-agotar-oferta-1389522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-robot-vacuum-x10-3443394.jpg?tf=1200x' alt='Xiaomi va a por Roomba: su robot potente se limpia solo y se va a agotar en esta oferta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
+    <h4><a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925'>Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12</a></h4>
+    <a href='https://computerhoy.com/windows/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-1388925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Funciones de Linux que Microsoft debería copiar y que harían mucho mejor a Windows 12' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337'>¿Cómo buscar personas en OnlyFans?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-buscar-personas-onlyfans-1387337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-buscar-personas-onlyfans-3343437.jpg?tf=1200x' alt='¿Cómo buscar personas en OnlyFans?' />
+    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
     </a>
 </div>
 
