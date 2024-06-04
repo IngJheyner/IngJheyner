@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
+    <h4><a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521'>Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas</a></h4>
+    <a href='https://computerhoy.com/apple/locura-iphone-15-pro-cupon-descuento-aliexpress-catapulta-top-ventas-1389521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Locura por el iPhone 15 Pro: este cupón descuento de AliExpress lo catapulta al top ventas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
+    <h4><a href='https://computerhoy.com/pc/asus-zenbook-s-16-informacion-portatil-copilot-plus-1389402'>Me ha impresionado el portátil ASUS Zenbook S 16, el primero que promete IA con Copilot+ gracias a las gráficas de AMD</a></h4>
+    <a href='https://computerhoy.com/pc/asus-zenbook-s-16-informacion-portatil-copilot-plus-1389402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-zenbook-s-16-3437648.jpg?tf=1200x' alt='Me ha impresionado el portátil ASUS Zenbook S 16, el primero que promete IA con Copilot+ gracias a las gráficas de AMD' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
-    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
+    <h4><a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545'>Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento</a></h4>
+    <a href='https://computerhoy.com/tecnologia/samsung-presenta-nueva-linea-monitores-gaming-productividad-entretenimiento-1389545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/monitores-samsung-3443239.jpg?tf=1200x' alt='Samsung presenta su nueva línea de monitores para gaming, productividad y entretenimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854'>Las mejores páginas para crear imágenes con IA 100% gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-paginas-crear-imagenes-ia-100-gratis-1388854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/inteligencia-artificial-imagenes-3408642.jpg?tf=1200x' alt='Las mejores páginas para crear imágenes con IA 100% gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308'>¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos' />
+    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
+    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
     </a>
 </div>
 
