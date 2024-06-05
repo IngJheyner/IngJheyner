@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660'>Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-5-ya-tiene-propio-chip-ia-barato-13-tops-3447336.jpg?tf=1200x' alt='Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
+    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
+    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637'>Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
-    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-4k-resucita-viejo-televisor-aliexpress-1362301'>Tu televisor no es lento, solo es viejo: este aparato de 18 euros le dará una nueva vida con Android TV 4K</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-tv-box-4k-resucita-viejo-televisor-aliexpress-1362301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/android-tv-box-mxq-pro-5g-4k-3237256.jpg?tf=1200x' alt='Tu televisor no es lento, solo es viejo: este aparato de 18 euros le dará una nueva vida con Android TV 4K' />
     </a>
 </div>
 
