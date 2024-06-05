@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
     <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
     <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
     </a>
 </div>
 
