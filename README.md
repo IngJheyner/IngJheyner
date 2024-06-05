@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
-    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577'>Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-mensaje-eliminado-whatsapp-1388577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/conversacion-whatsapp-3416167.jpg?tf=1200x' alt='Cómo ver un mensaje eliminado de WhatsApp sin aplicaciones ni instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
+    <h4><a href='https://computerhoy.com/apps/waze-otras-apps-navegacion-android-auto-tienen-casi-imposible-superar-google-maps-1389760'>Waze y otras apps de navegación para Android Auto tienen casi imposible superar a Google Maps</a></h4>
+    <a href='https://computerhoy.com/apps/waze-otras-apps-navegacion-android-auto-tienen-casi-imposible-superar-google-maps-1389760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-otras-apps-navegacion-android-auto-tienen-casi-imposible-superar-google-maps-3452576.jpg?tf=1200x' alt='Waze y otras apps de navegación para Android Auto tienen casi imposible superar a Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-reloj-no-tienes-quitarte-ir-elegante-inteligente-deportivo-ahora-mucho-barato-1389355'>Xiaomi vende un reloj que no tienes que quitarte para ir elegante: inteligente, deportivo y ahora mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-reloj-no-tienes-quitarte-ir-elegante-inteligente-deportivo-ahora-mucho-barato-1389355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-watch-s3-3436358.jpg?tf=1200x' alt='Xiaomi vende un reloj que no tienes que quitarte para ir elegante: inteligente, deportivo y ahora mucho más barato' />
+    <h4><a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113'>Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-1389113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/usuarios-waze-ya-saben-como-saltarse-prohibicion-anunciar-presencia-radares-3417741.jpg?tf=1200x' alt='Los usuarios de Waze ya saben cómo saltarse la prohibición de anunciar la presencia de radares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
+    <h4><a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120'>Qué significa SATA: puertos, conectores, tipos y velocidad</a></h4>
+    <a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-sata-puertos-conectores-tipos-velocidad-3418428.jpg?tf=1200x' alt='Qué significa SATA: puertos, conectores, tipos y velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-1389747'>Cara o cruz: la función que podría convertir Nintendo Switch 2 en un éxito histórico en peligro</a></h4>
-    <a href='https://computerhoy.com/gaming/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-1389747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-3452243.jpg?tf=1200x' alt='Cara o cruz: la función que podría convertir Nintendo Switch 2 en un éxito histórico en peligro' />
+    <h4><a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913'>Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro</a></h4>
+    <a href='https://computerhoy.com/redes/razon-elon-musk-convencido-whatsapp-no-seguro-1388913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-acusa-whatsapp-espiarte-mientras-duermes-hay-cierto-3030026.jpg?tf=1200x' alt='Esta es la razón por la que Elon Musk está convencido de que WhatsApp no es seguro' />
     </a>
 </div>
 
