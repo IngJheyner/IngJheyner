@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143'>Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?</a></h4>
+    <a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-3418850.jpg?tf=1200x' alt='Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/mejor-waze-colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-1389785'>¡Mejor que Waze! Colocan falsos policías para hacer que los conductores reduzcan la velocidad</a></h4>
-    <a href='https://computerhoy.com/life/mejor-waze-colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-1389785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-3453193.jpg?tf=1200x' alt='¡Mejor que Waze! Colocan falsos policías para hacer que los conductores reduzcan la velocidad' />
     </a>
 </div>
 
