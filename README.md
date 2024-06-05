@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/boeing-starliner-astronautas-orbita-rival-spacex-1389796'>Boeing pone a dos astronautas en órbita, y ya es el nuevo rival de SpaceX</a></h4>
+    <a href='https://computerhoy.com/espacio/boeing-starliner-astronautas-orbita-rival-spacex-1389796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-pone-dos-astronautas-orbita-ya-nuevo-rival-spacex-3453804.jpg?tf=1200x' alt='Boeing pone a dos astronautas en órbita, y ya es el nuevo rival de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143'>Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?</a></h4>
     <a href='https://computerhoy.com/windows/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-1389143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/proceso-wsappx-windows-maquina-comer-recursos-puede-eliminar-3418850.jpg?tf=1200x' alt='Proceso WSAPPX en Windows, una máquina de comer recursos: ¿se puede eliminar?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790'>Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/verano-joven-2024-como-conseguir-billetes-tren-autobus-90-descuento-1389787'>Verano Joven 2024: cómo conseguir billetes de tren y autobús con hasta un 90% de descuento</a></h4>
-    <a href='https://computerhoy.com/life/verano-joven-2024-como-conseguir-billetes-tren-autobus-90-descuento-1389787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3453195.jpg?tf=1200x' alt='Verano Joven 2024: cómo conseguir billetes de tren y autobús con hasta un 90% de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
     </a>
 </div>
 
