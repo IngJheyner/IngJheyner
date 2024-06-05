@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637'>Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/windows/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-1389637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-finalice-soporte-windows-10-todo-necesitas-saber-3446763.jpg?tf=1200x' alt='Qué hacer cuando finalice el soporte de Windows 10: Todo lo que necesitas saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967'>La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España</a></h4>
-    <a href='https://computerhoy.com/apps/voz-google-maps-desvela-divertido-bug-aplicacion-solo-ocurre-espana-1388967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='La voz de Google Maps desvela un divertido bug de la aplicación que solo ocurre en España' />
     </a>
 </div>
 
