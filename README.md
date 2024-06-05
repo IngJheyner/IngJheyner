@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gemini-llega-espana-cuela-directamente-ios-app-google-1389570'>Gemini llega a España y se cuela directamente en iOS con la app de Google</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gemini-llega-espana-cuela-directamente-ios-app-google-1389570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Gemini llega a España y se cuela directamente en iOS con la app de Google' />
+    <h4><a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315'>Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN</a></h4>
+    <a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999'>¿Qué es un año luz? Así se usa esta medida en astronomía</a></h4>
-    <a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='¿Qué es un año luz? Así se usa esta medida en astronomía' />
+    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
+    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
-    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353'>Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”' />
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
     </a>
 </div>
 
