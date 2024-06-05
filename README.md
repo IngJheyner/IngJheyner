@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/buscas-aire-acondicionado-portatil-barato-tiene-2000-frigorias-casi-seguro-va-agotar-1389726'>Si buscas aire acondicionado portátil, este es barato y tiene 2000 frigorías: casi seguro se va a agotar</a></h4>
+    <a href='https://computerhoy.com/hogar/buscas-aire-acondicionado-portatil-barato-tiene-2000-frigorias-casi-seguro-va-agotar-1389726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/comfee-mpph-07crn7-3254086.jpg?tf=1200x' alt='Si buscas aire acondicionado portátil, este es barato y tiene 2000 frigorías: casi seguro se va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
     <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583'>Qué es WhatsApp Web, cómo funciona y diferencias con WhatsApp en tu móvil</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg?tf=1200x' alt='Qué es WhatsApp Web, cómo funciona y diferencias con WhatsApp en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/metodos-eliminar-spam-gmail-1361413'>6 métodos efectivos para eliminar el spam de Gmail y mantener tu bandeja de entrada más limpia y organizada</a></h4>
-    <a href='https://computerhoy.com/google/metodos-eliminar-spam-gmail-1361413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-formas-eliminar-spam-gmail-mantener-bandeja-entrada-limpia-organizada-3268783.jpg?tf=1200x' alt='6 métodos efectivos para eliminar el spam de Gmail y mantener tu bandeja de entrada más limpia y organizada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
     </a>
 </div>
 
