@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-fitbit-rival-apple-watch-rebajado-amazon-1316392'>El reloj Fitbit que quiere pararle los pies a Apple desploma su precio a menos de 200 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-fitbit-rival-apple-watch-rebajado-amazon-1316392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='El reloj Fitbit que quiere pararle los pies a Apple desploma su precio a menos de 200 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/gemini-llega-espana-cuela-directamente-ios-app-google-1389570'>Gemini llega a España y se cuela directamente en iOS con la app de Google</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gemini-llega-espana-cuela-directamente-ios-app-google-1389570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/tim-cook-sundar-pichai-negocian-llegada-ia-gemini-iphone-3288986.jpg?tf=1200x' alt='Gemini llega a España y se cuela directamente en iOS con la app de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/dreame-l10s-pro-ultra-heat-robot-aspirador-analisis-opinion-1386505'>He probado el robot Dreame L10s Pro Ultra Heat y definitivamente es la solución ideal para tener el suelo de casa impecable</a></h4>
-    <a href='https://computerhoy.com/analisis/dreame-l10s-pro-ultra-heat-robot-aspirador-analisis-opinion-1386505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dreame-l10s-pro-ultra-heat-3339011.jpg?tf=1200x' alt='He probado el robot Dreame L10s Pro Ultra Heat y definitivamente es la solución ideal para tener el suelo de casa impecable' />
+    <h4><a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999'>¿Qué es un año luz? Así se usa esta medida en astronomía</a></h4>
+    <a href='https://computerhoy.com/espacio/exactamente-ano-luz-usa-medida-astronomia-1356999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/universo-3261763.jpg?tf=1200x' alt='¿Qué es un año luz? Así se usa esta medida en astronomía' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
-    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
+    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-1389274'>El problema asociado a los teléfonos móviles que afecta a la salud mental de los jóvenes, según un estudio</a></h4>
-    <a href='https://computerhoy.com/life/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-1389274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-3435102.jpg?tf=1200x' alt='El problema asociado a los teléfonos móviles que afecta a la salud mental de los jóvenes, según un estudio' />
+    <h4><a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255'>Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos</a></h4>
+    <a href='https://computerhoy.com/ciencia/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-1389255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/descubre-tres-esqueletos-mamut-mientras-ampliaba-bodega-vinos-3434369.jpg?tf=1200x' alt='Descubre tres esqueletos de mamut mientras ampliaba su bodega de vinos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/me-ha-gustado-pixel-tablet-recuerda-olvidados-altavoces-inteligentes-nest-home-1388746'>Lo que más me ha gustado de la Pixel Tablet es que recuerda a los olvidados altavoces inteligentes Nest y Home</a></h4>
-    <a href='https://computerhoy.com/android/me-ha-gustado-pixel-tablet-recuerda-olvidados-altavoces-inteligentes-nest-home-1388746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-tablet-base-carga-altavoz-3403395.jpg?tf=1200x' alt='Lo que más me ha gustado de la Pixel Tablet es que recuerda a los olvidados altavoces inteligentes Nest y Home' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353'>Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”' />
     </a>
 </div>
 
