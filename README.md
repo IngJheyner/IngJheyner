@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
-    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
+    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
+    <h4><a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011'>Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.com/google/ahora-puedes-minimizar-pestanas-chrome-movil-android-puedes-hacerlo-1389011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-chrome-3269664.jpg?tf=1200x' alt='Ahora puedes minimizar pestañas de Chrome en tu móvil Android: así puedes hacerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
+    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
+    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003'>Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg?tf=1200x' alt='Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows' />
+    <h4><a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037'>Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm </a></h4>
+    <a href='https://computerhoy.com/tecnologia/hacker-crea-version-chatgpt-da-instrucciones-fabricar-metanfetamina-napalm-1389037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-hacker-3415529.jpg?tf=1200x' alt='Un hacker crea una versión de ChatGPT que da instrucciones para fabricar metanfetamina y napalm ' />
     </a>
 </div>
 
