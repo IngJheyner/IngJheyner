@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748'>6 errores al montar o instalar un televisor y cómo evitarlos</a></h4>
-    <a href='https://computerhoy.com/tv/errores-instalar-televisor-1361748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/6-errores-comunes-montar-instalar-televisor-como-evitarlos-3269344.jpg?tf=1200x' alt='6 errores al montar o instalar un televisor y cómo evitarlos' />
+    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
+    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386'>Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo</a></h4>
-    <a href='https://computerhoy.com/internet/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-1389386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/golpe-mortal-iptv-dazn-gana-sentencia-historica-puede-cambiarlo-todo-3437670.jpg?tf=1200x' alt='Golpe mortal a las IPTV: DAZN gana una sentencia histórica que puede cambiarlo todo' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635'>Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ocultar-aplicaciones-windows-tener-desinstalar-nada-1388635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/apps-windows-3416163.jpg?tf=1200x' alt='Cómo ocultar aplicaciones en Windows sin tener que desinstalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-vende-reloj-no-tienes-quitarte-ir-elegante-inteligente-deportivo-ahora-mucho-barato-1389355'>Xiaomi vende un reloj que no tienes que quitarte para ir elegante: inteligente, deportivo y ahora mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-vende-reloj-no-tienes-quitarte-ir-elegante-inteligente-deportivo-ahora-mucho-barato-1389355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-watch-s3-3436358.jpg?tf=1200x' alt='Xiaomi vende un reloj que no tienes que quitarte para ir elegante: inteligente, deportivo y ahora mucho más barato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
+    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311'>Así son los juegos de LinkedIn con los que puedes estimular la mente</a></h4>
-    <a href='https://computerhoy.com/redes/son-juegos-linkedin-puedes-estimular-mente-1388311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/linkedin-3416154.jpg?tf=1200x' alt='Así son los juegos de LinkedIn con los que puedes estimular la mente' />
+    <h4><a href='https://computerhoy.com/gaming/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-1389747'>Cara o cruz: la función que podría convertir Nintendo Switch 2 en un éxito histórico en peligro</a></h4>
+    <a href='https://computerhoy.com/gaming/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-1389747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cara-cruz-funcion-podria-convertir-nintendo-switch-2-exito-historico-peligro-3452243.jpg?tf=1200x' alt='Cara o cruz: la función que podría convertir Nintendo Switch 2 en un éxito histórico en peligro' />
     </a>
 </div>
 
