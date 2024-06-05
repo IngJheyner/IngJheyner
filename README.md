@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932'>Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-1388932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuidado-reservar-vacaciones-tienes-saber-no-te-timen-policia-3410322.jpg?tf=1200x' alt='Cuidado al reservar tus vacaciones: lo que tienes que saber para que no te timen, según la Policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
     <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
     </a>
 </div>
 
