@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017'>Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple</a></h4>
-    <a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sightful-portatil-gafas-rv-3415094.jpg?tf=1200x' alt='Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004'>Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux</a></h4>
-    <a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux' />
+    <h4><a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029'>Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver</a></h4>
+    <a href='https://computerhoy.com/google/google-tiene-deuda-pendiente-estos-son-grandes-fallos-android-auto-deberia-resolver-1389029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/he-personalizado-android-auto-mi-gusto-recomiendo-todo-mundo-3287309.jpg?tf=1200x' alt='Google tiene una deuda pendiente y estos son los grandes fallos de Android Auto que debería resolver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
-    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315'>Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN</a></h4>
-    <a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN' />
+    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003'>Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-eliminara-herramienta-clave-identificar-problemas-drivers-futuras-versiones-windows-1389003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/drivers-windows-11-2842217.jpg?tf=1200x' alt='Microsoft eliminará una herramienta clave para identificar problemas con los drivers de futuras versiones de Windows' />
     </a>
 </div>
 
