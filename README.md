@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790'>Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553'>Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"</a></h4>
-    <a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-3443550.jpg?tf=1200x' alt='Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"' />
+    <h4><a href='https://computerhoy.com/life/verano-joven-2024-como-conseguir-billetes-tren-autobus-90-descuento-1389787'>Verano Joven 2024: cómo conseguir billetes de tren y autobús con hasta un 90% de descuento</a></h4>
+    <a href='https://computerhoy.com/life/verano-joven-2024-como-conseguir-billetes-tren-autobus-90-descuento-1389787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3453195.jpg?tf=1200x' alt='Verano Joven 2024: cómo conseguir billetes de tren y autobús con hasta un 90% de descuento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241'>5 películas de coches y velocidad que adelantan claramente a Fast & Furious</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-9-3189112.jpg?tf=1200x' alt='5 películas de coches y velocidad que adelantan claramente a Fast & Furious' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619'>5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-3445146.jpg?tf=1200x' alt='5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)' />
+    <h4><a href='https://computerhoy.com/life/mejor-waze-colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-1389785'>¡Mejor que Waze! Colocan falsos policías para hacer que los conductores reduzcan la velocidad</a></h4>
+    <a href='https://computerhoy.com/life/mejor-waze-colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-1389785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/colocan-falsos-policias-hacer-conductores-reduzcan-velocidad-3453193.jpg?tf=1200x' alt='¡Mejor que Waze! Colocan falsos policías para hacer que los conductores reduzcan la velocidad' />
     </a>
 </div>
 
