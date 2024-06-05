@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021'>Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-1389021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ni-te-ocurra-tirarlo-4-usos-puedes-dar-ordenador-viejo-segunda-vida-3415085.jpg?tf=1200x' alt='Ni se te ocurra tirarlo: los 4 usos que puedes dar a tu ordenador viejo para una segunda vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
+    <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/buscas-aire-acondicionado-portatil-barato-tiene-2000-frigorias-casi-seguro-va-agotar-1389726'>Si buscas aire acondicionado portátil, este es barato y tiene 2000 frigorías: casi seguro se va a agotar</a></h4>
-    <a href='https://computerhoy.com/hogar/buscas-aire-acondicionado-portatil-barato-tiene-2000-frigorias-casi-seguro-va-agotar-1389726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/comfee-mpph-07crn7-3254086.jpg?tf=1200x' alt='Si buscas aire acondicionado portátil, este es barato y tiene 2000 frigorías: casi seguro se va a agotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
-    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048'>Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/desvelado-misterio-llamadas-fantasma-te-llaman-contestas-cuelgan-1389048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/llamadas-telefono-fantasma-3415534.jpg?tf=1200x' alt='Desvelado el misterio de las llamadas fantasma: ¿por qué te llaman, contestas y cuelgan?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583'>Qué es WhatsApp Web, cómo funciona y diferencias con WhatsApp en tu móvil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/whatsapp-web-como-funciona-diferencias-whatsapp-movil-1130583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/whatsapp-web-2824571.jpg?tf=1200x' alt='Qué es WhatsApp Web, cómo funciona y diferencias con WhatsApp en tu móvil' />
     </a>
 </div>
 
