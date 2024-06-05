@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017'>Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple</a></h4>
+    <a href='https://computerhoy.com/pc/portatil-pantalla-gafas-ar-incluidas-quiere-quitarle-trono-vision-pro-apple-1389017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sightful-portatil-gafas-rv-3415094.jpg?tf=1200x' alt='Este portátil sin pantalla y con gafas AR incluidas quiere quitarle el trono a las Vision Pro de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004'>Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux</a></h4>
+    <a href='https://computerhoy.com/microsoft-revela-importantes-actualizaciones-subsistema-windows-linux-1389004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-linux-microsoft-deberia-copiar-harian-mucho-mejor-windows-12-3410632.jpg?tf=1200x' alt='Microsoft revela importantes actualizaciones para el Subsistema de Windows para Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
+    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315'>Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN</a></h4>
     <a href='https://computerhoy.com/tecnologia/acabo-memorizar-contrasenas-aplicacion-hace-ti-te-avisa-filtra-alguna-puedes-incluirle-vpn-1389315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Se acabó lo de memorizar contraseñas: esta aplicación lo hace por ti, te avisa si se filtra alguna y puedes incluirle VPN' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
     <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005'>Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido</a></h4>
-    <a href='https://computerhoy.com/tutoriales/gmail-no-quiere-pierdas-tiempo-anade-funcion-responder-correos-rapido-1389005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/truco-oculto-gmail-te-permite-seguir-usando-correo-aunque-te-quedes-espacio-3281253.jpg?tf=1200x' alt='Gmail no quiere que pierdas el tiempo y añade esta función para responder tus correos más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
     </a>
 </div>
 
