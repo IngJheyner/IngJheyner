@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660'>Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-5-ya-tiene-propio-chip-ia-barato-13-tops-3447336.jpg?tf=1200x' alt='Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-deportivo-fitbit-rival-apple-watch-rebajado-amazon-1316392'>El reloj Fitbit que quiere pararle los pies a Apple desploma su precio a menos de 200 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-deportivo-fitbit-rival-apple-watch-rebajado-amazon-1316392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/fitbit-versa-4-2927658.jpg?tf=1200x' alt='El reloj Fitbit que quiere pararle los pies a Apple desploma su precio a menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
-    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
+    <h4><a href='https://computerhoy.com/analisis/dreame-l10s-pro-ultra-heat-robot-aspirador-analisis-opinion-1386505'>He probado el robot Dreame L10s Pro Ultra Heat y definitivamente es la solución ideal para tener el suelo de casa impecable</a></h4>
+    <a href='https://computerhoy.com/analisis/dreame-l10s-pro-ultra-heat-robot-aspirador-analisis-opinion-1386505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dreame-l10s-pro-ultra-heat-3339011.jpg?tf=1200x' alt='He probado el robot Dreame L10s Pro Ultra Heat y definitivamente es la solución ideal para tener el suelo de casa impecable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
+    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
+    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679'>Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-encontro-trabajo-vida-apple-despues-curiosa-conversacion-5-minutos-steve-jobs-1388679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/tim-cook-3409410.jpg?tf=1200x' alt='Tim Cook encontró el trabajo de su vida en Apple después de una curiosa conversación de 5 minutos con Steve Jobs' />
+    <h4><a href='https://computerhoy.com/life/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-1389274'>El problema asociado a los teléfonos móviles que afecta a la salud mental de los jóvenes, según un estudio</a></h4>
+    <a href='https://computerhoy.com/life/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-1389274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/problema-asociado-telefonos-moviles-afecta-salud-mental-jovenes-estudio-3435102.jpg?tf=1200x' alt='El problema asociado a los teléfonos móviles que afecta a la salud mental de los jóvenes, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-4k-resucita-viejo-televisor-aliexpress-1362301'>Tu televisor no es lento, solo es viejo: este aparato de 18 euros le dará una nueva vida con Android TV 4K</a></h4>
-    <a href='https://computerhoy.com/tecnologia/android-tv-box-4k-resucita-viejo-televisor-aliexpress-1362301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/android-tv-box-mxq-pro-5g-4k-3237256.jpg?tf=1200x' alt='Tu televisor no es lento, solo es viejo: este aparato de 18 euros le dará una nueva vida con Android TV 4K' />
+    <h4><a href='https://computerhoy.com/android/me-ha-gustado-pixel-tablet-recuerda-olvidados-altavoces-inteligentes-nest-home-1388746'>Lo que más me ha gustado de la Pixel Tablet es que recuerda a los olvidados altavoces inteligentes Nest y Home</a></h4>
+    <a href='https://computerhoy.com/android/me-ha-gustado-pixel-tablet-recuerda-olvidados-altavoces-inteligentes-nest-home-1388746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-tablet-base-carga-altavoz-3403395.jpg?tf=1200x' alt='Lo que más me ha gustado de la Pixel Tablet es que recuerda a los olvidados altavoces inteligentes Nest y Home' />
     </a>
 </div>
 
