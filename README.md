@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151'>Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-restablecer-drivers-tarjeta-grafica-windows-11-3420218.jpg?tf=1200x' alt='Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
+    <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330'>¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?</a></h4>
-    <a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/supremo-anula-traspaso-competencias-trafico-guardia-civil-navarra-3277103.jpg?tf=1200x' alt='¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
-    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-direccion-ip-mi-ordenador-como-saber-ip-todos-dispositivos-3455173.jpg?tf=1200x' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
     </a>
 </div>
 
