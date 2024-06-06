@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
-    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/menos-samsung-google-apple-confirma-cuanto-te-dura-iphone-como-minimo-1389820'>Menos que Samsung o Google: Apple confirma cuánto te dura un iPhone como mínimo</a></h4>
-    <a href='https://computerhoy.com/apple/menos-samsung-google-apple-confirma-cuanto-te-dura-iphone-como-minimo-1389820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-enfado-hombre-3457009.jpg?tf=1200x' alt='Menos que Samsung o Google: Apple confirma cuánto te dura un iPhone como mínimo' />
+    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-x-pro-2024-analisis-opinion-1388916'>Dos semanas con el Huawei MateBook X Pro: un portátil potente, verdaderamente ligero y con el que casi te olvidas del cargador</a></h4>
-    <a href='https://computerhoy.com/analisis/huawei-matebook-x-pro-2024-analisis-opinion-1388916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417464.jpg?tf=1200x' alt='Dos semanas con el Huawei MateBook X Pro: un portátil potente, verdaderamente ligero y con el que casi te olvidas del cargador' />
+    <h4><a href='https://computerhoy.com/windows/nueva-funcion-ia-windows-11-agujero-seguridad-microsoft-pide-calma-1389835'>Esta nueva función con IA de Windows 11 es un agujero de seguridad y Microsoft pide calma</a></h4>
+    <a href='https://computerhoy.com/windows/nueva-funcion-ia-windows-11-agujero-seguridad-microsoft-pide-calma-1389835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-ciberseguridad-3457193.jpg?tf=1200x' alt='Esta nueva función con IA de Windows 11 es un agujero de seguridad y Microsoft pide calma' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316'>Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo</a></h4>
-    <a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desempolva-walkman-razones-cintas-casete-podrian-volver-igual-vinilo-3388429.jpg?tf=1200x' alt='Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695'>España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-router-wifi-3449976.jpg?tf=1200x' alt='España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
+    <h4><a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474'>Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?</a></h4>
+    <a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-microsoft-onedrive-cual-mejor-cada-caso-3442114.jpg?tf=1200x' alt='Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?' />
     </a>
 </div>
 
