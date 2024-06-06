@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
+    <h4><a href='https://computerhoy.com/tecnologia/ia-vence-moviles-nvidia-mas-valiosa-apple-1389975'>La IA vence a los móviles: Nvidia ya es más valiosa que Apple</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-vence-moviles-nvidia-mas-valiosa-apple-1389975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='La IA vence a los móviles: Nvidia ya es más valiosa que Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970'>Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá</a></h4>
-    <a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/paneles-solares-3460579.jpg?tf=1200x' alt='Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá' />
+    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
+    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966'>Windows 12 se aleja y Microsoft tiene buenas razones para ello</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-12-aleja-microsoft-tiene-buenas-razones-ello-3460732.jpg?tf=1200x' alt='Windows 12 se aleja y Microsoft tiene buenas razones para ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553'>Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"</a></h4>
-    <a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-3443550.jpg?tf=1200x' alt='Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"' />
+    <h4><a href='https://computerhoy.com/life/consejo-guardia-civil-cuando-pagues-tarjeta-solo-son-necesarios-segundos-1389971'>El consejo de la Guardia Civil cuando pagues con tarjeta: "solo son necesarios unos segundos"</a></h4>
+    <a href='https://computerhoy.com/life/consejo-guardia-civil-cuando-pagues-tarjeta-solo-son-necesarios-segundos-1389971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarjeta-credito-3460582.jpg?tf=1200x' alt='El consejo de la Guardia Civil cuando pagues con tarjeta: "solo son necesarios unos segundos"' />
     </a>
 </div>
 
