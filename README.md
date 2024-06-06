@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660'>Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-5-ya-tiene-propio-chip-ia-barato-13-tops-3447336.jpg?tf=1200x' alt='Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS' />
+    <h4><a href='https://computerhoy.com/motor/android-auto-carplay-radio-inteligente-barata-aliexpress-1202242'>Moderniza tu coche a precio de ganga: pantalla con Android o CarPlay por menos de 50 euros y con WiFi</a></h4>
+    <a href='https://computerhoy.com/motor/android-auto-carplay-radio-inteligente-barata-aliexpress-1202242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/podofo-radio-3415238.jpg?tf=1200x' alt='Moderniza tu coche a precio de ganga: pantalla con Android o CarPlay por menos de 50 euros y con WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871'>Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-pro-m4-reemplaza-mi-portatil-pero-no-como-crees-1388871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Pro M4 es que reemplaza mi portátil, pero no como crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
-    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quieres son los BloomerX y cuál es su relación con la tecnología?</a></h4>
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quienes son los BloomerX y cuál es su relación con la tecnología?</a></h4>
     <a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quieres son los BloomerX y cuál es su relación con la tecnología?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quienes son los BloomerX y cuál es su relación con la tecnología?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-acuaticos-lenovo-1356256'>Estos auriculares de conducción ósea no se caen y además se pueden mojar sin problemas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-conduccion-osea-acuaticos-lenovo-1356256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/lenovo-x5-3297332.jpg?tf=1200x' alt='Estos auriculares de conducción ósea no se caen y además se pueden mojar sin problemas' />
+    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
+    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951'>He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero</a></h4>
+    <a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-apps-movilidad-3416747.jpg?tf=1200x' alt='He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
     </a>
 </div>
 
