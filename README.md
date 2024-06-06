@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pesa-solo-13-kg-tiene-windows-11-precio-no-llega-200-euros-portatil-chino-asalta-aliexpress-1389847'>Pesa solo 1,3 kg, tiene Windows 11 y su precio no llega a 200 euros: este portátil chino asalta AliExpress</a></h4>
-    <a href='https://computerhoy.com/pc/pesa-solo-13-kg-tiene-windows-11-precio-no-llega-200-euros-portatil-chino-asalta-aliexpress-1389847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chuwi-herobook-pro-2081823.jpg?tf=1200x' alt='Pesa solo 1,3 kg, tiene Windows 11 y su precio no llega a 200 euros: este portátil chino asalta AliExpress' />
+    <h4><a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953'>¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-3460274.jpg?tf=1200x' alt='¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193'>Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
+    <h4><a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544'>Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan</a></h4>
+    <a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3443860.jpg?tf=1200x' alt='Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723'>Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-salto-linea-whatsapp-web-windows-mac-3358288.jpg?tf=1200x' alt='Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac' />
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448'>Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-3440035.jpg?tf=1200x' alt='Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?' />
     </a>
 </div>
 
