@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833'>Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo</a></h4>
+    <a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raton-8bitdo-3457028.jpg?tf=1200x' alt='Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883'>La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-1-inteligencia-artificial-3458206.jpg?tf=1200x' alt='La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843'>5 formas de sacarle partido a tu PC con Windows 10 en 2025</a></h4>
+    <a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='5 formas de sacarle partido a tu PC con Windows 10 en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340'>5 cosas que debes saber para elegir entre Amazon Fire TV Stick y Google Chromecast</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-stick-4k-max-google-chromecast-google-tv-3238578.jpg?tf=1200x' alt='5 cosas que debes saber para elegir entre Amazon Fire TV Stick y Google Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
     <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
-    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852'>Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790'>3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/3-metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-3405960.jpg?tf=1200x' alt='3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/juega-limites-movil-game-pass-mando-convierte-telefono-consola-1389841'>Juega sin límites, en tu móvil y con Game Pass: este mando convierte tu teléfono en una consola</a></h4>
-    <a href='https://computerhoy.com/tecnologia/juega-limites-movil-game-pass-mando-convierte-telefono-consola-1389841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gamesir-x2s-3457190.jpg?tf=1200x' alt='Juega sin límites, en tu móvil y con Game Pass: este mando convierte tu teléfono en una consola' />
     </a>
 </div>
 
