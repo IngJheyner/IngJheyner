@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845'>Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión</a></h4>
+    <a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aeropuerto-2711597.jpg?tf=1200x' alt='Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833'>Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo</a></h4>
     <a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raton-8bitdo-3457028.jpg?tf=1200x' alt='Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883'>La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-1-inteligencia-artificial-3458206.jpg?tf=1200x' alt='La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843'>5 formas de sacarle partido a tu PC con Windows 10 en 2025</a></h4>
-    <a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='5 formas de sacarle partido a tu PC con Windows 10 en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340'>5 cosas que debes saber para elegir entre Amazon Fire TV Stick y Google Chromecast</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cosas-debes-saber-decidirte-amazon-fire-tv-stick-google-chromecast-1344340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/amazon-fire-tv-stick-4k-max-google-chromecast-google-tv-3238578.jpg?tf=1200x' alt='5 cosas que debes saber para elegir entre Amazon Fire TV Stick y Google Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
     </a>
 </div>
 
