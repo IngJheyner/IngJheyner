@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953'>¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-3460274.jpg?tf=1200x' alt='¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?' />
+    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
+    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
+    <h4><a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970'>Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá</a></h4>
+    <a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/paneles-solares-3460579.jpg?tf=1200x' alt='Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193'>Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original</a></h4>
-    <a href='https://computerhoy.com/tecnologia/microsoft-trabaja-tecnologia-convertir-pdf-no-editables-documentos-editables-conservando-diseno-original-1389193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenador-portatil-archivo-pdf-3424229.jpg?tf=1200x' alt='Microsoft trabaja en una tecnología para convertir PDF no editables en documentos editables conservando su diseño original' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544'>Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan</a></h4>
-    <a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3443860.jpg?tf=1200x' alt='Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196'>¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-aplicacion-pero-no-puedes-pagarla-google-play-tiene-solucion-pide-alguien-compre-ti-1389196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-play-store-recaudacion-3374736.jpg?tf=1200x' alt='¿Quieres una aplicación pero no puedes pagarla? Google Play tiene la solución: ¡Pide a alguien que la compre por ti!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448'>Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-3440035.jpg?tf=1200x' alt='Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?' />
+    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553'>Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"</a></h4>
+    <a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-3443550.jpg?tf=1200x' alt='Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"' />
     </a>
 </div>
 
