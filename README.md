@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330'>¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?</a></h4>
+    <a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/supremo-anula-traspaso-competencias-trafico-guardia-civil-navarra-3277103.jpg?tf=1200x' alt='¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
     <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-direccion-ip-mi-ordenador-como-saber-ip-todos-dispositivos-3455173.jpg?tf=1200x' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
     </a>
 </div>
 
