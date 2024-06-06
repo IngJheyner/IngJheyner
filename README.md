@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    <h4><a href='https://computerhoy.com/pc/pesa-solo-13-kg-tiene-windows-11-precio-no-llega-200-euros-portatil-chino-asalta-aliexpress-1389847'>Pesa solo 1,3 kg, tiene Windows 11 y su precio no llega a 200 euros: este portátil chino asalta AliExpress</a></h4>
+    <a href='https://computerhoy.com/pc/pesa-solo-13-kg-tiene-windows-11-precio-no-llega-200-euros-portatil-chino-asalta-aliexpress-1389847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/chuwi-herobook-pro-2081823.jpg?tf=1200x' alt='Pesa solo 1,3 kg, tiene Windows 11 y su precio no llega a 200 euros: este portátil chino asalta AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151'>Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-restablecer-drivers-tarjeta-grafica-windows-11-3420218.jpg?tf=1200x' alt='Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723'>Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-salto-linea-whatsapp-web-windows-mac-3358288.jpg?tf=1200x' alt='Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac' />
     </a>
 </div>
 
