@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/boeing-starliner-astronautas-orbita-rival-spacex-1389796'>Boeing pone a dos astronautas en órbita, y ya es el nuevo rival de SpaceX</a></h4>
     <a href='https://computerhoy.com/espacio/boeing-starliner-astronautas-orbita-rival-spacex-1389796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-pone-dos-astronautas-orbita-ya-nuevo-rival-spacex-3453804.jpg?tf=1200x' alt='Boeing pone a dos astronautas en órbita, y ya es el nuevo rival de SpaceX' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790'>Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-1389790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ver-creer-microsoft-lanza-primera-beta-windows-10-2021-nuevas-funciones-mejoras-3452735.jpg?tf=1200x' alt='Ver para creer: Microsoft anuncia la primera beta de Windows 10 desde 2021, con "nuevas funciones y mejoras"' />
     </a>
 </div>
 
