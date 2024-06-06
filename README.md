@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
+    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
+    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
+    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/nueva-funcion-ia-windows-11-agujero-seguridad-microsoft-pide-calma-1389835'>Esta nueva función con IA de Windows 11 es un agujero de seguridad y Microsoft pide calma</a></h4>
-    <a href='https://computerhoy.com/windows/nueva-funcion-ia-windows-11-agujero-seguridad-microsoft-pide-calma-1389835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-ciberseguridad-3457193.jpg?tf=1200x' alt='Esta nueva función con IA de Windows 11 es un agujero de seguridad y Microsoft pide calma' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852'>Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695'>España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-router-wifi-3449976.jpg?tf=1200x' alt='España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa' />
+    <h4><a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790'>3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-1388790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/3-metodos-infalibles-recuperar-archivos-word-guardar-windows-mac-3405960.jpg?tf=1200x' alt='3 métodos infalibles para recuperar archivos de Word sin guardar en Windows y Mac' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474'>Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?</a></h4>
-    <a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-microsoft-onedrive-cual-mejor-cada-caso-3442114.jpg?tf=1200x' alt='Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?' />
+    <h4><a href='https://computerhoy.com/tecnologia/juega-limites-movil-game-pass-mando-convierte-telefono-consola-1389841'>Juega sin límites, en tu móvil y con Game Pass: este mando convierte tu teléfono en una consola</a></h4>
+    <a href='https://computerhoy.com/tecnologia/juega-limites-movil-game-pass-mando-convierte-telefono-consola-1389841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gamesir-x2s-3457190.jpg?tf=1200x' alt='Juega sin límites, en tu móvil y con Game Pass: este mando convierte tu teléfono en una consola' />
     </a>
 </div>
 
