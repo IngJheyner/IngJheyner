@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347'>¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos</a></h4>
+    <a href='https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-direccion-ip-mi-ordenador-como-saber-ip-todos-dispositivos-3455173.jpg?tf=1200x' alt='¿Cuál es la dirección IP de mi ordenador? Cómo saber la IP en todos tus dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
     <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845'>Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión</a></h4>
-    <a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aeropuerto-2711597.jpg?tf=1200x' alt='Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833'>Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo</a></h4>
-    <a href='https://computerhoy.com/pc/raton-nostalgicos-nintendo-barato-luego-llamativo-1389833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raton-8bitdo-3457028.jpg?tf=1200x' alt='Este ratón para nostálgicos de Nintendo es barato y desde luego llamativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883'>La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-1-inteligencia-artificial-3458206.jpg?tf=1200x' alt='La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA' />
     </a>
 </div>
 
