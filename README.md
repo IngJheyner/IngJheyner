@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
+    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/menos-samsung-google-apple-confirma-cuanto-te-dura-iphone-como-minimo-1389820'>Menos que Samsung o Google: Apple confirma cuánto te dura un iPhone como mínimo</a></h4>
+    <a href='https://computerhoy.com/apple/menos-samsung-google-apple-confirma-cuanto-te-dura-iphone-como-minimo-1389820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-enfado-hombre-3457009.jpg?tf=1200x' alt='Menos que Samsung o Google: Apple confirma cuánto te dura un iPhone como mínimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/analisis/huawei-matebook-x-pro-2024-analisis-opinion-1388916'>Dos semanas con el Huawei MateBook X Pro: un portátil potente, verdaderamente ligero y con el que casi te olvidas del cargador</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-matebook-x-pro-2024-analisis-opinion-1388916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417464.jpg?tf=1200x' alt='Dos semanas con el Huawei MateBook X Pro: un portátil potente, verdaderamente ligero y con el que casi te olvidas del cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316'>Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo</a></h4>
+    <a href='https://computerhoy.com/life/desempolva-walkman-razones-cintas-casete-podrian-volver-1388316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/desempolva-walkman-razones-cintas-casete-podrian-volver-igual-vinilo-3388429.jpg?tf=1200x' alt='Desempolva tu walkman: razones por las que las cintas de casete podrían volver igual que el vinilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-arde-empresa-alerta-fallos-estuche-carga-riesgo-incendio-1389816'>El Humane Ai Pin está que arde: la empresa alerta de fallos en el estuche de carga y riesgo de incendio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-arde-empresa-alerta-fallos-estuche-carga-riesgo-incendio-1389816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-pin-humane-fuego-3456850.jpg?tf=1200x' alt='El Humane Ai Pin está que arde: la empresa alerta de fallos en el estuche de carga y riesgo de incendio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
-    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
     </a>
 </div>
 
