@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736'>He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 </a></h4>
-    <a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/explorerpatcher-3403239.jpg?tf=1200x' alt='He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 ' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743'>Estas son las mejores tablets para estudiantes</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-estudiantes-1113743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389286.jpg?tf=1200x' alt='Estas son las mejores tablets para estudiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/carl-pei-desvela-primeros-secretos-nothing-phone-3-ia-1389810'>Carl Pei desvela los primeros secretos del Nothing Phone (3), rediseñado para la IA</a></h4>
-    <a href='https://computerhoy.com/moviles/carl-pei-desvela-primeros-secretos-nothing-phone-3-ia-1389810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carl-pei-desvela-primeros-secretos-nothing-phone-3-redisenado-ia-3456139.jpg?tf=1200x' alt='Carl Pei desvela los primeros secretos del Nothing Phone (3), rediseñado para la IA' />
+    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914'>Cómo llevar tus listas de reproducción de Spotify a Apple Music</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-llevar-listas-reproduccion-spotify-apple-music-3309714.jpg?tf=1200x' alt='Cómo llevar tus listas de reproducción de Spotify a Apple Music' />
+    <h4><a href='https://computerhoy.com/tecnologia/humane-ai-pin-arde-empresa-alerta-fallos-estuche-carga-riesgo-incendio-1389816'>El Humane Ai Pin está que arde: la empresa alerta de fallos en el estuche de carga y riesgo de incendio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/humane-ai-pin-arde-empresa-alerta-fallos-estuche-carga-riesgo-incendio-1389816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-pin-humane-fuego-3456850.jpg?tf=1200x' alt='El Humane Ai Pin está que arde: la empresa alerta de fallos en el estuche de carga y riesgo de incendio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752'>Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagos-movil-3403843.jpg?tf=1200x' alt='Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo' />
+    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
+    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
     </a>
 </div>
 
