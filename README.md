@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/android-auto-carplay-radio-inteligente-barata-aliexpress-1202242'>Moderniza tu coche a precio de ganga: pantalla con Android o CarPlay por menos de 50 euros y con WiFi</a></h4>
-    <a href='https://computerhoy.com/motor/android-auto-carplay-radio-inteligente-barata-aliexpress-1202242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/podofo-radio-3415238.jpg?tf=1200x' alt='Moderniza tu coche a precio de ganga: pantalla con Android o CarPlay por menos de 50 euros y con WiFi' />
+    <h4><a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736'>He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 </a></h4>
+    <a href='https://computerhoy.com/windows/he-probado-explorerpatcher-mejor-forma-windows-11-parezca-windows-10-1388736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/explorerpatcher-3403239.jpg?tf=1200x' alt='He probado ExplorerPatcher y es la mejor forma de que Windows 11 se parezca a Windows 10 ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quienes son los BloomerX y cuál es su relación con la tecnología?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quienes son los BloomerX y cuál es su relación con la tecnología?' />
+    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
-    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
+    <h4><a href='https://computerhoy.com/moviles/carl-pei-desvela-primeros-secretos-nothing-phone-3-ia-1389810'>Carl Pei desvela los primeros secretos del Nothing Phone (3), rediseñado para la IA</a></h4>
+    <a href='https://computerhoy.com/moviles/carl-pei-desvela-primeros-secretos-nothing-phone-3-ia-1389810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/carl-pei-desvela-primeros-secretos-nothing-phone-3-redisenado-ia-3456139.jpg?tf=1200x' alt='Carl Pei desvela los primeros secretos del Nothing Phone (3), rediseñado para la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951'>He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero</a></h4>
-    <a href='https://computerhoy.com/tecnologia/he-usado-cabify-uber-freenow-tengo-claro-cual-gastas-menos-dinero-1388951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/carlos-apps-movilidad-3416747.jpg?tf=1200x' alt='He usado Cabify, Uber y Freenow y tengo claro con cuál gastas menos dinero' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914'>Cómo llevar tus listas de reproducción de Spotify a Apple Music</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-llevar-listas-reproduccion-spotify-apple-music-3309714.jpg?tf=1200x' alt='Cómo llevar tus listas de reproducción de Spotify a Apple Music' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
-    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
+    <h4><a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752'>Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pagos-nfc-movil-siempre-me-han-generado-desconfianza-pero-tengo-clave-solucionarlo-1388752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pagos-movil-3403843.jpg?tf=1200x' alt='Pagos NFC con el móvil: siempre me han generado desconfianza, pero tengo la clave para solucionarlo' />
     </a>
 </div>
 
