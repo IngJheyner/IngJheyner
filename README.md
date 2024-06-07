@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/tinder-como-funciona-aplicacion-ligar-311547'>Qué es Tinder, cómo funciona y trucos de la aplicación para ligar más conocida</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/tinder-como-funciona-aplicacion-ligar-311547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-app-ligar-citas-3459816.jpg?tf=1200x' alt='Qué es Tinder, cómo funciona y trucos de la aplicación para ligar más conocida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
     <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente</a></h4>
     <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-3463335.jpg?tf=1200x' alt='Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021'>Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019'>AMD se la juega y abandona definitivamente a Windows 10</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='AMD se la juega y abandona definitivamente a Windows 10' />
     </a>
 </div>
 
