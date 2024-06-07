@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-carga-infinita-precio-amazon-1356703'>Este Garmin con GPS y batería casi infinita se carga con el sol y Amazon ha rebajado radicalmente su precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-carga-infinita-precio-amazon-1356703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin con GPS y batería casi infinita se carga con el sol y Amazon ha rebajado radicalmente su precio' />
+    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-670-computer-hoy-1388731'>¡Ya está en tu quiosco el número 670 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-670-computer-hoy-1388731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-670-3415247.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 670 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
+    <h4><a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841'>La regla del metro: El secreto para mejorar la velocidad de tu conexión WiFi en casa</a></h4>
+    <a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/regla-metro-podria-mejorar-notablemente-velocidad-conexion-wifi-casa-3271295.jpg?tf=1200x' alt='La regla del metro: El secreto para mejorar la velocidad de tu conexión WiFi en casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/duckduckgo-ai-chat-chatbot-buscador-privacidad-1389990'>DuckDuckGo da una lección de cómo hay que integrar la IA generativa en un buscador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/duckduckgo-ai-chat-chatbot-buscador-privacidad-1389990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/duckduckgo-da-leccion-como-hay-introducir-chatbot-buscador-3463631.jpg?tf=1200x' alt='DuckDuckGo da una lección de cómo hay que integrar la IA generativa en un buscador' />
+    <h4><a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169'>Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi</a></h4>
+    <a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-nube-3415696.jpg?tf=1200x' alt='Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
+    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
+    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
-    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914'>Cómo llevar tus listas de reproducción de Spotify a Apple Music</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-llevar-listas-reproduccion-spotify-apple-music-3309714.jpg?tf=1200x' alt='Cómo llevar tus listas de reproducción de Spotify a Apple Music' />
     </a>
 </div>
 
