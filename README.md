@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076'>Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente</a></h4>
+    <a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048'>Qué son las puertas lógicas, para qué sirven y cómo funcionan</a></h4>
+    <a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circuito-ordenador-duda-3465194.jpg?tf=1200x' alt='Qué son las puertas lógicas, para qué sirven y cómo funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que debes saber antes de dejar Windows y cambiar a Linux</a></h4>
     <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que debes saber antes de dejar Windows y cambiar a Linux' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
     <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-triunfo-black-friday-vuelve-estar-rebajado-90eu-1389905'>El robot aspirador que triunfó en el Black Friday vuelve a estar rebajado a 90€</a></h4>
-    <a href='https://computerhoy.com/hogar/robot-aspirador-triunfo-black-friday-vuelve-estar-rebajado-90eu-1389905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lefant-m210-3077986.jpg?tf=1200x' alt='El robot aspirador que triunfó en el Black Friday vuelve a estar rebajado a 90€' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-cambia-garantia-iphone-apple-watch-ahora-pagaras-algo-antes-era-gratis-1390041'>Apple cambia la garantía del iPhone y Apple Watch y  ahora pagarás por algo que antes era gratis</a></h4>
-    <a href='https://computerhoy.com/apple/apple-cambia-garantia-iphone-apple-watch-ahora-pagaras-algo-antes-era-gratis-1390041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/enfado-iphone-3464887.jpg?tf=1200x' alt='Apple cambia la garantía del iPhone y Apple Watch y  ahora pagarás por algo que antes era gratis' />
     </a>
 </div>
 
