@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240'>Descubren cómo fueron hackeados el Santander y TicketMaster, y es solo la punta del iceberg</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banco-santander-personas-caminan-reflejo-3297938.jpg?tf=1200x' alt='Descubren cómo fueron hackeados el Santander y TicketMaster, y es solo la punta del iceberg' />
+    <h4><a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136'>Científicos crean un chatbot con IA que te permite hablar con tu yo futuro</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/joven-hablando-yo-futuro-3467730.jpg?tf=1200x' alt='Científicos crean un chatbot con IA que te permite hablar con tu yo futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
+    <h4><a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119'>6 ajustes secretos de Chrome para Android que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-3467583.jpg?tf=1200x' alt='6 ajustes secretos de Chrome para Android que deberías activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448'>Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-3440035.jpg?tf=1200x' alt='Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?' />
+    <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075'>A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA' />
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619'>5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-3445146.jpg?tf=1200x' alt='5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)' />
     </a>
 </div>
 
