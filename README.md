@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021'>Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019'>AMD se la juega y abandona definitivamente a Windows 10</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='AMD se la juega y abandona definitivamente a Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076'>Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente</a></h4>
     <a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048'>Qué son las puertas lógicas, para qué sirven y cómo funcionan</a></h4>
     <a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circuito-ordenador-duda-3465194.jpg?tf=1200x' alt='Qué son las puertas lógicas, para qué sirven y cómo funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que debes saber antes de dejar Windows y cambiar a Linux</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que debes saber antes de dejar Windows y cambiar a Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/microsoft-avisa-no-uses-contrasena-inicio-sesion-windows-10-11-1390016'>Microsoft avisa: "no uses contraseña de inicio de sesión en Windows 10 y 11"</a></h4>
-    <a href='https://computerhoy.com/microsoft-avisa-no-uses-contrasena-inicio-sesion-windows-10-11-1390016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft avisa: "no uses contraseña de inicio de sesión en Windows 10 y 11"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
-    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
     </a>
 </div>
 
