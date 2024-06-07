@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140'>Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136'>Científicos crean un chatbot con IA que te permite hablar con tu yo futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/joven-hablando-yo-futuro-3467730.jpg?tf=1200x' alt='Científicos crean un chatbot con IA que te permite hablar con tu yo futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
     <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619'>5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-3445146.jpg?tf=1200x' alt='5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)' />
     </a>
 </div>
 
