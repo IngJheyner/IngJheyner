@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
+    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145'>Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136'>Científicos crean un chatbot con IA que te permite hablar con tu yo futuro</a></h4>
     <a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/joven-hablando-yo-futuro-3467730.jpg?tf=1200x' alt='Científicos crean un chatbot con IA que te permite hablar con tu yo futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119'>6 ajustes secretos de Chrome para Android que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-3467583.jpg?tf=1200x' alt='6 ajustes secretos de Chrome para Android que deberías activar ahora mismo' />
     </a>
 </div>
 
