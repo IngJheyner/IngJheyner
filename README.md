@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
+    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-zero-rival-barato-raspberry-pi-1353607'>Raspberry Pi tiene rival, y su precio es inalcanzable: 4GB de RAM por menos de 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/orange-pi-zero-rival-barato-raspberry-pi-1353607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Raspberry Pi tiene rival, y su precio es inalcanzable: 4GB de RAM por menos de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quienes son los BloomerX y cuál es su relación con la tecnología?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quienes son los BloomerX y cuál es su relación con la tecnología?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/starship-cohete-lunar-spacex-exito-1389983'>El cohete lunar de SpaceX al fin completa una misión sin explotar</a></h4>
-    <a href='https://computerhoy.com/espacio/starship-cohete-lunar-spacex-exito-1389983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-lunar-spacex-fin-completa-mision-explotar-3462038.jpg?tf=1200x' alt='El cohete lunar de SpaceX al fin completa una misión sin explotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-vence-moviles-nvidia-mas-valiosa-apple-1389975'>La IA vence a los móviles: Nvidia ya es más valiosa que Apple</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-vence-moviles-nvidia-mas-valiosa-apple-1389975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ceo-nvidia-frota-manos-popularidad-chatgpt-2954574.jpg?tf=1200x' alt='La IA vence a los móviles: Nvidia ya es más valiosa que Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
     </a>
 </div>
 
