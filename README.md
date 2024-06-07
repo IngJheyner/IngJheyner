@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pulsera-inteligente-huawei-sigue-siendo-mejor-companera-entrenamiento-ahora-puede-ser-29-euros-1390084'>Esta pulsera inteligente de HUAWEI sigue siendo tu mejor compañera de entrenamiento y ahora puede ser tuya por 29 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pulsera-inteligente-huawei-sigue-siendo-mejor-companera-entrenamiento-ahora-puede-ser-29-euros-1390084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-band-8-3465660.jpg?tf=1200x' alt='Esta pulsera inteligente de HUAWEI sigue siendo tu mejor compañera de entrenamiento y ahora puede ser tuya por 29 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075'>A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104'>Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad</a></h4>
-    <a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad' />
+    <h4><a href='https://computerhoy.com/tecnologia/esim-te-facilita-verano-internet-cualquier-pais-buen-precio-tarjeta-fisica-1389501'>Esta eSIM te facilita el verano: internet en cualquier país, buen precio y sin tarjeta física</a></h4>
+    <a href='https://computerhoy.com/tecnologia/esim-te-facilita-verano-internet-cualquier-pais-buen-precio-tarjeta-fisica-1389501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/saily-3442581.jpg?tf=1200x' alt='Esta eSIM te facilita el verano: internet en cualquier país, buen precio y sin tarjeta física' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151'>Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-restablecer-drivers-tarjeta-grafica-windows-11-3420218.jpg?tf=1200x' alt='Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723'>Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-salto-linea-whatsapp-web-windows-mac-3358288.jpg?tf=1200x' alt='Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-da-razon-elon-musk-robots-cambiaran-mundo-1390068'>El CEO de Nvidia da la razón a Elon Musk: los robots cambiarán el mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-da-razon-elon-musk-robots-cambiaran-mundo-1390068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-dominando-tierra-3465511.jpg?tf=1200x' alt='El CEO de Nvidia da la razón a Elon Musk: los robots cambiarán el mundo' />
     </a>
 </div>
 
