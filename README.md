@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ha-ocurrido-snowflake-empresa-detras-hackeos-masivos-santander-ticketmaster-1390023'>Qué ha ocurrido con Snowflake, la empresa detrás de los hackeos masivos al Santander y TicketMaster</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ha-ocurrido-snowflake-empresa-detras-hackeos-masivos-santander-ticketmaster-1390023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oficina-banco-santander-3267453.jpg?tf=1200x' alt='Qué ha ocurrido con Snowflake, la empresa detrás de los hackeos masivos al Santander y TicketMaster' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
+    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971'>ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una</a></h4>
+    <a href='https://computerhoy.com/windows/iso-personalizadas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-1388971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/iso-personalizas-windows-son-deberias-pensartelo-dos-veces-antes-instalar-3412400.jpg?tf=1200x' alt='ISO personalizadas de Windows: qué son y por qué deberías pensártelo dos veces antes de instalar una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/7-ofertas-ultima-hora-rebajas-aliexpress-no-veremos-1111-1389890'>7 ofertas de última hora de las rebajas de AliExpress que no veremos hasta el 11.11</a></h4>
     <a href='https://computerhoy.com/tecnologia/7-ofertas-ultima-hora-rebajas-aliexpress-no-veremos-1111-1389890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pasion-veraniega-aliexpress-3458212.jpg?tf=1200x' alt='7 ofertas de última hora de las rebajas de AliExpress que no veremos hasta el 11.11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007'>Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops</a></h4>
     <a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-escondidos-3464229.jpg?tf=1200x' alt='Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
-    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791'>Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-3406383.jpg?tf=1200x' alt='Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
