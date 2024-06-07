@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240'>Descubren cómo fueron hackeados el Santander y TicketMaster, y es solo la punta del iceberg</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/descubren-como-fueron-hackeados-santander-tickermaster-1389240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/banco-santander-personas-caminan-reflejo-3297938.jpg?tf=1200x' alt='Descubren cómo fueron hackeados el Santander y TicketMaster, y es solo la punta del iceberg' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448'>Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-1389448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-guardar-sitios-etiquetarlos-google-maps-mejor-3440035.jpg?tf=1200x' alt='Diferencias entre guardar sitios y etiquetarlos en Google Maps: ¿qué es mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075'>A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA</a></h4>
     <a href='https://computerhoy.com/tecnologia/sam-altman-crecen-enanos-empleados-openai-denuncian-politica-imprudente-ia-1390075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='A Sam Altman le crecen los enanos: empleados de OpenAI denuncian su política “imprudente” con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/esim-te-facilita-verano-internet-cualquier-pais-buen-precio-tarjeta-fisica-1389501'>Esta eSIM te facilita el verano: internet en cualquier país, buen precio y sin tarjeta física</a></h4>
-    <a href='https://computerhoy.com/tecnologia/esim-te-facilita-verano-internet-cualquier-pais-buen-precio-tarjeta-fisica-1389501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/saily-3442581.jpg?tf=1200x' alt='Esta eSIM te facilita el verano: internet en cualquier país, buen precio y sin tarjeta física' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723'>Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-salto-linea-whatsapp-web-windows-mac-3358288.jpg?tf=1200x' alt='Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-nvidia-da-razon-elon-musk-robots-cambiaran-mundo-1390068'>El CEO de Nvidia da la razón a Elon Musk: los robots cambiarán el mundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-nvidia-da-razon-elon-musk-robots-cambiaran-mundo-1390068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-dominando-tierra-3465511.jpg?tf=1200x' alt='El CEO de Nvidia da la razón a Elon Musk: los robots cambiarán el mundo' />
     </a>
 </div>
 
