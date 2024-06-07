@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407'>10 cosas que debes saber antes de dejar Windows y cambiar a Linux</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cambiar-windows-linux-1366407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-linux-3277915.jpg?tf=1200x' alt='10 cosas que debes saber antes de dejar Windows y cambiar a Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/microsoft-avisa-no-uses-contrasena-inicio-sesion-windows-10-11-1390016'>Microsoft avisa: "no uses contraseña de inicio de sesión en Windows 10 y 11"</a></h4>
+    <a href='https://computerhoy.com/microsoft-avisa-no-uses-contrasena-inicio-sesion-windows-10-11-1390016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/passkeys-microsoft-3307510.jpg?tf=1200x' alt='Microsoft avisa: "no uses contraseña de inicio de sesión en Windows 10 y 11"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986'>LPDDR5 vs. DDR5: principales diferencias y características</a></h4>
+    <a href='https://computerhoy.com/tecnologia/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-1388986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lpddr5-vs-ddr5-principales-diferencias-caracteristicas-3413256.jpg?tf=1200x' alt='LPDDR5 vs. DDR5: principales diferencias y características' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/robot-aspirador-triunfo-black-friday-vuelve-estar-rebajado-90eu-1389905'>El robot aspirador que triunfó en el Black Friday vuelve a estar rebajado a 90€</a></h4>
+    <a href='https://computerhoy.com/hogar/robot-aspirador-triunfo-black-friday-vuelve-estar-rebajado-90eu-1389905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/lefant-m210-3077986.jpg?tf=1200x' alt='El robot aspirador que triunfó en el Black Friday vuelve a estar rebajado a 90€' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-cambia-garantia-iphone-apple-watch-ahora-pagaras-algo-antes-era-gratis-1390041'>Apple cambia la garantía del iPhone y Apple Watch y  ahora pagarás por algo que antes era gratis</a></h4>
     <a href='https://computerhoy.com/apple/apple-cambia-garantia-iphone-apple-watch-ahora-pagaras-algo-antes-era-gratis-1390041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/enfado-iphone-3464887.jpg?tf=1200x' alt='Apple cambia la garantía del iPhone y Apple Watch y  ahora pagarás por algo que antes era gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695'>España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-router-wifi-3449976.jpg?tf=1200x' alt='España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474'>Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?</a></h4>
-    <a href='https://computerhoy.com/apps/google-drive-microsoft-onedrive-cual-mejor-ti-1389474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-microsoft-onedrive-cual-mejor-cada-caso-3442114.jpg?tf=1200x' alt='Google Drive o Microsoft OneDrive, ¿cuál es mejor para ti?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/funciones-ocultas-google-chrome-deberias-activar-ahora-mismo-acelerar-navegador-1388785'>Funciones ocultas de Google Chrome que deberías activar ahora mismo para acelerar el navegador</a></h4>
-    <a href='https://computerhoy.com/tutoriales/funciones-ocultas-google-chrome-deberias-activar-ahora-mismo-acelerar-navegador-1388785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-ocultas-google-chrome-deberias-activar-ahora-mismo-acelerar-navegador-3405399.jpg?tf=1200x' alt='Funciones ocultas de Google Chrome que deberías activar ahora mismo para acelerar el navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ha-ocurrido-snowflake-empresa-detras-hackeos-masivos-santander-ticketmaster-1390023'>Qué ha ocurrido con Snowflake, la empresa detrás de los hackeos masivos al Santander y TicketMaster</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ha-ocurrido-snowflake-empresa-detras-hackeos-masivos-santander-ticketmaster-1390023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/oficina-banco-santander-3267453.jpg?tf=1200x' alt='Qué ha ocurrido con Snowflake, la empresa detrás de los hackeos masivos al Santander y TicketMaster' />
     </a>
 </div>
 
