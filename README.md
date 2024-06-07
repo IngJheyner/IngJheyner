@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
-    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
+    <h4><a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-carga-infinita-precio-amazon-1356703'>Este Garmin con GPS y batería casi infinita se carga con el sol y Amazon ha rebajado radicalmente su precio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/garmin-instinct-2-solar-carga-infinita-precio-amazon-1356703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/garmin-instinct-2-solar-3260817.jpg?tf=1200x' alt='Este Garmin con GPS y batería casi infinita se carga con el sol y Amazon ha rebajado radicalmente su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197'>El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mecanografo-rapido-mundo-alcanza-305-palabras-minuto-1389197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mecanografia-3424503.jpg?tf=1200x' alt='El mecanógrafo más rápido del mundo alcanza 305 palabras por minuto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/orange-pi-zero-rival-barato-raspberry-pi-1353607'>Raspberry Pi tiene rival, y su precio es inalcanzable: 4GB de RAM por menos de 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/orange-pi-zero-rival-barato-raspberry-pi-1353607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/orange-pi-3255635.jpg?tf=1200x' alt='Raspberry Pi tiene rival, y su precio es inalcanzable: 4GB de RAM por menos de 30 euros' />
+    <h4><a href='https://computerhoy.com/tecnologia/duckduckgo-ai-chat-chatbot-buscador-privacidad-1389990'>DuckDuckGo da una lección de cómo hay que integrar la IA generativa en un buscador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/duckduckgo-ai-chat-chatbot-buscador-privacidad-1389990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/duckduckgo-da-leccion-como-hay-introducir-chatbot-buscador-3463631.jpg?tf=1200x' alt='DuckDuckGo da una lección de cómo hay que integrar la IA generativa en un buscador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quienes son los BloomerX y cuál es su relación con la tecnología?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quienes son los BloomerX y cuál es su relación con la tecnología?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042'>¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberresiliencia-deberia-ser-mejor-amiga-empresas-1384042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ciberresiliencia-3417184.jpg?tf=1200x' alt='¿Qué es ciberresiliencia y por qué debería ser la mejor amiga de las empresas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
+    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
     </a>
 </div>
 
