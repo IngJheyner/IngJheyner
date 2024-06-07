@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-670-computer-hoy-1388731'>¡Ya está en tu quiosco el número 670 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ya-quiosco-numero-670-computer-hoy-1388731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/computer-hoy-670-3415247.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 670 de Computer Hoy!' />
+    <h4><a href='https://computerhoy.com/tecnologia/7-ofertas-ultima-hora-rebajas-aliexpress-no-veremos-1111-1389890'>7 ofertas de última hora de las rebajas de AliExpress que no veremos hasta el 11.11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-ofertas-ultima-hora-rebajas-aliexpress-no-veremos-1111-1389890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pasion-veraniega-aliexpress-3458212.jpg?tf=1200x' alt='7 ofertas de última hora de las rebajas de AliExpress que no veremos hasta el 11.11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841'>La regla del metro: El secreto para mejorar la velocidad de tu conexión WiFi en casa</a></h4>
-    <a href='https://computerhoy.com/redes/regla-metro-secreto-mejorar-wifi-navegar-interrupciones-1362841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/regla-metro-podria-mejorar-notablemente-velocidad-conexion-wifi-casa-3271295.jpg?tf=1200x' alt='La regla del metro: El secreto para mejorar la velocidad de tu conexión WiFi en casa' />
+    <h4><a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007'>Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops</a></h4>
+    <a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-escondidos-3464229.jpg?tf=1200x' alt='Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169'>Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi</a></h4>
-    <a href='https://computerhoy.com/tutoriales/cansado-pagar-he-creado-mi-propio-google-fotos-usb-mi-router-1386169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/router-wifi-nube-3415696.jpg?tf=1200x' alt='Cansado de pagar he creado mi propio Google Fotos con un disco duro USB y mi router WiFi' />
+    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200'>Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético</a></h4>
-    <a href='https://computerhoy.com/motor/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-1389200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/panzerbike-moto-pesa-5-toneladas-usa-motor-tanque-sovietico-3427502.jpg?tf=1200x' alt='Panzerbike, la moto que pesa 5 toneladas y usa un motor de tanque soviético' />
+    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
+    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914'>Cómo llevar tus listas de reproducción de Spotify a Apple Music</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-llevar-listas-reproduccion-spotify-apple-music-3309714.jpg?tf=1200x' alt='Cómo llevar tus listas de reproducción de Spotify a Apple Music' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791'>Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-1388791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-limitar-carga-bateria-80-windows-11-deberias-hacerlo-ahora-mismo-3406383.jpg?tf=1200x' alt='Cómo limitar la carga de la batería al 80% en Windows 11 y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
