@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145'>Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-1390137'>5 ajustes rápidos para mejorar la calidad de imagen de tu Smart TV</a></h4>
+    <a href='https://computerhoy.com/tv/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-1390137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-3468172.jpg?tf=1200x' alt='5 ajustes rápidos para mejorar la calidad de imagen de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140'>Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119'>6 ajustes secretos de Chrome para Android que deberías activar ahora mismo</a></h4>
     <a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-3467583.jpg?tf=1200x' alt='6 ajustes secretos de Chrome para Android que deberías activar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
     </a>
 </div>
 
