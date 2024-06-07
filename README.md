@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783'>Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/7-apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-963783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apps-android-poder-localizar-amigos-familiares-incluso-grandes-aglomeraciones-gente-3463335.jpg?tf=1200x' alt='Apps Android para poder localizar a tus amigos y familiares, incluso en grandes aglomeraciones de gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021'>Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5</a></h4>
     <a href='https://computerhoy.com/tecnologia/cuatro-anos-despues-sony-elimina-gran-mentira-publicidad-playstation-5-1390021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Cuatro años después, Sony elimina la gran mentira de su publicidad de PlayStation 5' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019'>AMD se la juega y abandona definitivamente a Windows 10</a></h4>
     <a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='AMD se la juega y abandona definitivamente a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076'>Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente</a></h4>
-    <a href='https://computerhoy.com/apple/ni-matematicas-ni-memoria-steve-jobs-habilidad-persona-inteligente-1390076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='Ni matemáticas ni memoria: para Steve Jobs esta es la habilidad de una persona inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048'>Qué son las puertas lógicas, para qué sirven y cómo funcionan</a></h4>
-    <a href='https://computerhoy.com/tecnologia/son-puertas-logicas-sirven-como-funcionan-1390048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/circuito-ordenador-duda-3465194.jpg?tf=1200x' alt='Qué son las puertas lógicas, para qué sirven y cómo funcionan' />
     </a>
 </div>
 
