@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
+    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
     <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241'>5 películas de coches y velocidad que adelantan claramente a Fast & Furious</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-9-3189112.jpg?tf=1200x' alt='5 películas de coches y velocidad que adelantan claramente a Fast & Furious' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
     </a>
 </div>
 
