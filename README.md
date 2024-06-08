@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
+    <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209'>iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage</a></h4>
     <a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emojis-imessage-3474426.jpg?tf=1200x' alt='iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
     <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
     </a>
 </div>
 
