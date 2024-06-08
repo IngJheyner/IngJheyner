@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090'>Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-3416458.jpg?tf=1200x' alt='Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)' />
+    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
+    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
-    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
+    <h4><a href='https://computerhoy.com/windows/windows-11-incorpora-editor-fotos-perfil-efectos-ia-1390175'>Windows 11 incorpora un editor de fotos de perfil con efectos de IA</a></h4>
+    <a href='https://computerhoy.com/windows/windows-11-incorpora-editor-fotos-perfil-efectos-ia-1390175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-3471814.jpg?tf=1200x' alt='Windows 11 incorpora un editor de fotos de perfil con efectos de IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
-    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
+    <h4><a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984'>¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?</a></h4>
+    <a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-3463334.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-1389798'>Uso Chrome a diario, pero si tengo que hacer cosas importantes siempre cambio a este navegador</a></h4>
-    <a href='https://computerhoy.com/tecnologia/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-1389798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-3454569.jpg?tf=1200x' alt='Uso Chrome a diario, pero si tengo que hacer cosas importantes siempre cambio a este navegador' />
+    <h4><a href='https://computerhoy.com/apps/hace-waze-datos-como-sobrevive-publicidad-1389283'>¿Qué hace Waze con tus datos y cómo sobrevive sin publicidad? </a></h4>
+    <a href='https://computerhoy.com/apps/hace-waze-datos-como-sobrevive-publicidad-1389283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='¿Qué hace Waze con tus datos y cómo sobrevive sin publicidad? ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681'>¿Google Maps o Waze? Elegimos la mejor app para evitar atascos</a></h4>
-    <a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-evitar-atascos-google-maps-waze-3276196.jpg?tf=1200x' alt='¿Google Maps o Waze? Elegimos la mejor app para evitar atascos' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>Tablets que son tan potentes como un ordenador portátil</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389287.jpg?tf=1200x' alt='Tablets que son tan potentes como un ordenador portátil' />
     </a>
 </div>
 
