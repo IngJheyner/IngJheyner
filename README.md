@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-dinero-real-telegram-presenta-stars-moneda-virtual-miniaplicaciones-juegos-1390192'>¡Adiós al dinero real! Telegram presenta Stars, su moneda virtual para miniaplicaciones y juegos</a></h4>
-    <a href='https://computerhoy.com/apps/adios-dinero-real-telegram-presenta-stars-moneda-virtual-miniaplicaciones-juegos-1390192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-stars-3473111.jpg?tf=1200x' alt='¡Adiós al dinero real! Telegram presenta Stars, su moneda virtual para miniaplicaciones y juegos' />
+    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
+    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
-    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
+    <h4><a href='https://computerhoy.com/android/motorola-excelente-movil-gama-media-carga-rapida-pantalla-top-poco-300-euros-1390200'>Este Motorola es un excelente móvil de gama media: carga rápida, pantalla top y poco más de 300 euros</a></h4>
+    <a href='https://computerhoy.com/android/motorola-excelente-movil-gama-media-carga-rapida-pantalla-top-poco-300-euros-1390200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motorola-edge-40-neo-3133948.jpg?tf=1200x' alt='Este Motorola es un excelente móvil de gama media: carga rápida, pantalla top y poco más de 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    <h4><a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150'>IP estática vs. IP dinámica: qué son y en qué se diferencian</a></h4>
+    <a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ip-estatica-vs-ip-dinamica-son-diferencian-3419944.jpg?tf=1200x' alt='IP estática vs. IP dinámica: qué son y en qué se diferencian' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191'>Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa</a></h4>
-    <a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rediseno-youtube-3472963.jpg?tf=1200x' alt='Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168'>La mejor GoPro del momento está rebajada para que te la lleves de vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gopro-hero12-black-3471085.jpg?tf=1200x' alt='La mejor GoPro del momento está rebajada para que te la lleves de vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-optimizar-google-maps-funcione-rapido-movil-android-1367890'>Cómo optimizar Google Maps para que funcione mejor en tu móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-optimizar-google-maps-funcione-rapido-movil-android-1367890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-optimizar-google-maps-funcione-rapido-movil-android-3279989.jpg?tf=1200x' alt='Cómo optimizar Google Maps para que funcione mejor en tu móvil Android' />
     </a>
 </div>
 
