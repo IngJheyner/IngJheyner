@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
+    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183'>Crean un reproductor Winamp real con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crean-reproductor-winamp-real-raspberry-pi-3472390.jpg?tf=1200x' alt='Crean un reproductor Winamp real con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/5-metodos-encontrar-clave-producto-windows-1314496'>Los mejores métodos para encontrar la clave de producto de Windows</a></h4>
     <a href='https://computerhoy.com/tutoriales/5-metodos-encontrar-clave-producto-windows-1314496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='Los mejores métodos para encontrar la clave de producto de Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/meta-busca-diferenciar-messenger-otros-servicios-mensajeria-introduccion-comunidades-1390179'>Meta busca diferenciar Messenger de otros servicios de mensajería con la introducción de Comunidades</a></h4>
-    <a href='https://computerhoy.com/apps/meta-busca-diferenciar-messenger-otros-servicios-mensajeria-introduccion-comunidades-1390179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/messenger-comunidad-3472100.jpg?tf=1200x' alt='Meta busca diferenciar Messenger de otros servicios de mensajería con la introducción de Comunidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-recuperar-archivo-excel-danado-corrupto-1389982'>Cómo reparar y recuperar un archivo de Excel dañado o corrupto</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-reparar-recuperar-archivo-excel-danado-corrupto-1389982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-reparar-recuperar-archivo-excel-danado-corrupto-3462762.jpg?tf=1200x' alt='Cómo reparar y recuperar un archivo de Excel dañado o corrupto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308'>¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos</a></h4>
-    <a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos' />
     </a>
 </div>
 
