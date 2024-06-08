@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262'>Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde</a></h4>
-    <a href='https://computerhoy.com/life/bill-gates-ha-encontrado-clave-productividad-warren-buffett-aunque-demasiado-tarde-1389262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/portada-historia-microsoft-bill-gates-3081910.jpg?tf=1200x' alt='Bill Gates ha encontrado la clave de la productividad de Warren Buffett, aunque demasiado tarde' />
+    <h4><a href='https://computerhoy.com/tutoriales/5-metodos-encontrar-clave-producto-windows-1314496'>Los mejores métodos para encontrar la clave de producto de Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/5-metodos-encontrar-clave-producto-windows-1314496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/5-metodos-recuperar-clave-producto-windows-3150792.jpg?tf=1200x' alt='Los mejores métodos para encontrar la clave de producto de Windows' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-11-incorpora-editor-fotos-perfil-efectos-ia-1390175'>Windows 11 incorpora un editor de fotos de perfil con efectos de IA</a></h4>
-    <a href='https://computerhoy.com/windows/windows-11-incorpora-editor-fotos-perfil-efectos-ia-1390175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-3471814.jpg?tf=1200x' alt='Windows 11 incorpora un editor de fotos de perfil con efectos de IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316'>Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-todos-canales-gratis-tdt-windows-iptv-mientras-haces-otras-tareas-1389316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ottplayer-canales-tdt-3435903.jpg?tf=1200x' alt='Cómo ver todos los canales gratis de la TDT en Windows por IPTV mientras haces otras tareas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984'>¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?</a></h4>
-    <a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-3463334.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?' />
+    <h4><a href='https://computerhoy.com/apps/meta-busca-diferenciar-messenger-otros-servicios-mensajeria-introduccion-comunidades-1390179'>Meta busca diferenciar Messenger de otros servicios de mensajería con la introducción de Comunidades</a></h4>
+    <a href='https://computerhoy.com/apps/meta-busca-diferenciar-messenger-otros-servicios-mensajeria-introduccion-comunidades-1390179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/messenger-comunidad-3472100.jpg?tf=1200x' alt='Meta busca diferenciar Messenger de otros servicios de mensajería con la introducción de Comunidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/hace-waze-datos-como-sobrevive-publicidad-1389283'>¿Qué hace Waze con tus datos y cómo sobrevive sin publicidad? </a></h4>
-    <a href='https://computerhoy.com/apps/hace-waze-datos-como-sobrevive-publicidad-1389283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/7-funciones-ocultas-waze-seguramente-no-conocias-debes-usar-ahora-mismo-3274379.jpg?tf=1200x' alt='¿Qué hace Waze con tus datos y cómo sobrevive sin publicidad? ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-reparar-recuperar-archivo-excel-danado-corrupto-1389982'>Cómo reparar y recuperar un archivo de Excel dañado o corrupto</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-reparar-recuperar-archivo-excel-danado-corrupto-1389982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-reparar-recuperar-archivo-excel-danado-corrupto-3462762.jpg?tf=1200x' alt='Cómo reparar y recuperar un archivo de Excel dañado o corrupto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033'>Tablets que son tan potentes como un ordenador portátil</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-tablets-potentes-como-portatil-948033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389287.jpg?tf=1200x' alt='Tablets que son tan potentes como un ordenador portátil' />
+    <h4><a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308'>¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos</a></h4>
+    <a href='https://computerhoy.com/windows/windows-listo-risc-v-parece-sueno-aun-lejos-1389308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-risc-v-3306269.jpg?tf=1200x' alt='¿Está Windows listo para RISC-V? Parece que el sueño aún está lejos' />
     </a>
 </div>
 
