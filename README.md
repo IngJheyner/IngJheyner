@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-dinero-real-telegram-presenta-stars-moneda-virtual-miniaplicaciones-juegos-1390192'>¡Adiós al dinero real! Telegram presenta Stars, su moneda virtual para miniaplicaciones y juegos</a></h4>
+    <a href='https://computerhoy.com/apps/adios-dinero-real-telegram-presenta-stars-moneda-virtual-miniaplicaciones-juegos-1390192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/telegram-stars-3473111.jpg?tf=1200x' alt='¡Adiós al dinero real! Telegram presenta Stars, su moneda virtual para miniaplicaciones y juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153'>Qué es PWM, para qué sirve y por qué es importante para tu ordenador</a></h4>
+    <a href='https://computerhoy.com/pc/pwm-sirve-importante-ordenador-1389153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pwm-sirve-importante-ordenador-3420492.jpg?tf=1200x' alt='Qué es PWM, para qué sirve y por qué es importante para tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191'>Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa</a></h4>
     <a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rediseno-youtube-3472963.jpg?tf=1200x' alt='Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168'>La mejor GoPro del momento está rebajada para que te la lleves de vacaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gopro-hero12-black-3471085.jpg?tf=1200x' alt='La mejor GoPro del momento está rebajada para que te la lleves de vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
-    <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-glass-nueva-patente-bisagra-gafas-aviva-rumores-1390186'>Apple Glass: una nueva patente de bisagra para gafas aviva los rumores</a></h4>
-    <a href='https://computerhoy.com/apple/apple-glass-nueva-patente-bisagra-gafas-aviva-rumores-1390186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/imaginando-apple-glass-3472677.jpg?tf=1200x' alt='Apple Glass: una nueva patente de bisagra para gafas aviva los rumores' />
     </a>
 </div>
 
