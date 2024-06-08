@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157'>Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-da-paso-atras-windows-recall-aun-tiene-retroceder-maraton-3468328.jpg?tf=1200x' alt='Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
     <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140'>Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136'>Científicos crean un chatbot con IA que te permite hablar con tu yo futuro</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cientificos-crean-chatbot-ia-te-permite-hablar-yo-futuro-1390136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/joven-hablando-yo-futuro-3467730.jpg?tf=1200x' alt='Científicos crean un chatbot con IA que te permite hablar con tu yo futuro' />
     </a>
 </div>
 
