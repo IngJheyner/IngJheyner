@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405'>Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087'>¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans' />
+    <h4><a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165'>Usan el WiFi para medir las pulsaciones y la respiración de las personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usan-wifi-medir-pulsaciones-respiracion-personas-3470411.jpg?tf=1200x' alt='Usan el WiFi para medir las pulsaciones y la respiración de las personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157'>Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-da-paso-atras-windows-recall-aun-tiene-retroceder-maraton-3468328.jpg?tf=1200x' alt='Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón' />
+    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
+    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243'>Así estafaron 12 millones de euros a Apple, usando iPhone falsos</a></h4>
-    <a href='https://computerhoy.com/apple/estafaron-12-millones-euros-apple-usando-iphone-falsos-1389243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/tienda-apple-3140884.jpg?tf=1200x' alt='Así estafaron 12 millones de euros a Apple, usando iPhone falsos' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145'>Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares' />
+    <h4><a href='https://computerhoy.com/apps/razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-1389543'>Esta es la razón que dan los expertos a que cada vez menos gente use aplicaciones de citas</a></h4>
+    <a href='https://computerhoy.com/apps/razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-1389543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cambio-tendencia-razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-3443240.jpg?tf=1200x' alt='Esta es la razón que dan los expertos a que cada vez menos gente use aplicaciones de citas' />
     </a>
 </div>
 
