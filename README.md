@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087'>¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157'>Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-da-paso-atras-windows-recall-1390157' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-da-paso-atras-windows-recall-aun-tiene-retroceder-maraton-3468328.jpg?tf=1200x' alt='Microsoft da un paso atrás con Windows Recall: aún tiene que retroceder una maratón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145'>Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-podria-abandonar-tesla-56000-millones-dolares-1390145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/elon-musk-3046962.jpg?tf=1200x' alt='Elon Musk podría abandonar Tesla si la compañía no le paga 56.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-1390137'>5 ajustes rápidos para mejorar la calidad de imagen de tu Smart TV</a></h4>
-    <a href='https://computerhoy.com/tv/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-1390137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-3468172.jpg?tf=1200x' alt='5 ajustes rápidos para mejorar la calidad de imagen de tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140'>Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/wangiri-peligrosa-estafa-llama-cuelga-hace-sofisticada-puedes-protegerte-1390140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/rechazar-llamada-telefono-3198166.jpg?tf=1200x' alt='Wangiri: la peligrosa estafa del "llama y cuelga" se hace más sofisticada y así puedes protegerte' />
     </a>
 </div>
 
