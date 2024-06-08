@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405'>Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina</a></h4>
     <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
     <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-1389543'>Esta es la razón que dan los expertos a que cada vez menos gente use aplicaciones de citas</a></h4>
-    <a href='https://computerhoy.com/apps/razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-1389543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cambio-tendencia-razon-dan-expertos-cada-vez-menos-gente-use-aplicaciones-citas-3443240.jpg?tf=1200x' alt='Esta es la razón que dan los expertos a que cada vez menos gente use aplicaciones de citas' />
     </a>
 </div>
 
