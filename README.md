@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191'>Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa</a></h4>
+    <a href='https://computerhoy.com/apps/eres-suscriptor-youtube-premium-ya-tienes-oportunidad-probar-nuevo-rediseno-activa-1390191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rediseno-youtube-3472963.jpg?tf=1200x' alt='Si eres suscriptor de YouTube Premium ya tienes la oportunidad de probar el nuevo rediseño, y así se activa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168'>La mejor GoPro del momento está rebajada para que te la lleves de vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejor-gopro-momento-rebajada-te-lleves-vacaciones-1390168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gopro-hero12-black-3471085.jpg?tf=1200x' alt='La mejor GoPro del momento está rebajada para que te la lleves de vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095'>Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-vinted-debes-hacer-inmediatamente-eres-victima-1389095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vinted-3458052.jpg?tf=1200x' alt='Estafas en Vinted: esto es lo que debes hacer inmediatamente si eres víctima de una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333'>Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro</a></h4>
     <a href='https://computerhoy.com/windows/descubren-sencillo-truco-tener-explorador-archivos-windows-10-windows-11-hacer-cambios-registro-1389333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/explorador-archivos-windows-10-puede-ejecutarse-windows-11-sencillo-truco-3436063.jpg?tf=1200x' alt='Descubren un sencillo truco para tener el explorador de archivos de Windows 10 en Windows 11 sin hacer cambios en el registro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-glass-nueva-patente-bisagra-gafas-aviva-rumores-1390186'>Apple Glass: una nueva patente de bisagra para gafas aviva los rumores</a></h4>
     <a href='https://computerhoy.com/apple/apple-glass-nueva-patente-bisagra-gafas-aviva-rumores-1390186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/imaginando-apple-glass-3472677.jpg?tf=1200x' alt='Apple Glass: una nueva patente de bisagra para gafas aviva los rumores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302'>La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo</a></h4>
-    <a href='https://computerhoy.com/hogar/ocu-advierte-peligro-insospechado-altavoces-alexa-puede-tocarte-bolsillo-1389302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amazon-alexa-3435743.jpg?tf=1200x' alt='La OCU advierte de un peligro insospechado de los altavoces con Alexa que puede tocarte el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183'>Crean un reproductor Winamp real con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crean-reproductor-winamp-real-raspberry-pi-3472390.jpg?tf=1200x' alt='Crean un reproductor Winamp real con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
     </a>
 </div>
 
