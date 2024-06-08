@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-usara-ia-responder-preguntas-comunes-clientes-trae-verificacion-meta-cuentas-negocio-1390204'>WhatsApp usará IA para responder a preguntas comunes de los clientes y trae la verificación de Meta para cuentas de negocio</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-usara-ia-responder-preguntas-comunes-clientes-trae-verificacion-meta-cuentas-negocio-1390204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-whatsapp-3474278.jpg?tf=1200x' alt='WhatsApp usará IA para responder a preguntas comunes de los clientes y trae la verificación de Meta para cuentas de negocio' />
+    <h4><a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209'>iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emojis-imessage-3474426.jpg?tf=1200x' alt='iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401'>Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)</a></h4>
-    <a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)' />
+    <h4><a href='https://computerhoy.com/tecnologia/netflix-dejara-ofrecer-soporte-apple-tv-segunda-tercera-generacion-1390206'>Netflix dejará de ofrecer soporte para las Apple TV de segunda y tercera generación</a></h4>
+    <a href='https://computerhoy.com/tecnologia/netflix-dejara-ofrecer-soporte-apple-tv-segunda-tercera-generacion-1390206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-3266149.jpg?tf=1200x' alt='Netflix dejará de ofrecer soporte para las Apple TV de segunda y tercera generación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241'>5 películas de coches y velocidad que adelantan claramente a Fast & Furious</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-coches-velocidad-adelantan-claramente-fast-furious-1389241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/fast-furious-9-3189112.jpg?tf=1200x' alt='5 películas de coches y velocidad que adelantan claramente a Fast & Furious' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120'>Qué significa SATA: puertos, conectores, tipos y velocidad</a></h4>
-    <a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-sata-puertos-conectores-tipos-velocidad-3418428.jpg?tf=1200x' alt='Qué significa SATA: puertos, conectores, tipos y velocidad' />
+    <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
     </a>
 </div>
 
