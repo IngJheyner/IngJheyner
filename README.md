@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269'>Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden</a></h4>
+    <a href='https://computerhoy.com/apps/anuncios-feed-instagram-estan-vuelta-esquina-redes-arden-1389269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/instagram-mejoras-chats-3283420.jpg?tf=1200x' alt='Los anuncios en los feed de Instagram están a la vuelta de la esquina y las redes arden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233'>Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil</a></h4>
+    <a href='https://computerhoy.com/gaming/asus-rog-ally-x-primeras-impresiones-precio-comparativa-1389233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-rog-ally-x-3434083.jpg?tf=1200x' alt='Acabo de probar la nueva Asus ROG Ally X: esta es la evolución que esperabas de la consola portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-1389798'>Uso Chrome a diario, pero si tengo que hacer cosas importantes siempre cambio a este navegador</a></h4>
+    <a href='https://computerhoy.com/tecnologia/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-1389798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chrome-diario-pero-tengo-hacer-cosas-importantes-siempre-cambio-navegador-3454569.jpg?tf=1200x' alt='Uso Chrome a diario, pero si tengo que hacer cosas importantes siempre cambio a este navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681'>¿Google Maps o Waze? Elegimos la mejor app para evitar atascos</a></h4>
+    <a href='https://computerhoy.com/apps/mejor-evitar-atascos-google-maps-waze-1365681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mejor-evitar-atascos-google-maps-waze-3276196.jpg?tf=1200x' alt='¿Google Maps o Waze? Elegimos la mejor app para evitar atascos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
     <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405'>Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165'>Usan el WiFi para medir las pulsaciones y la respiración de las personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usan-wifi-medir-pulsaciones-respiracion-personas-3470411.jpg?tf=1200x' alt='Usan el WiFi para medir las pulsaciones y la respiración de las personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420'>Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos</a></h4>
-    <a href='https://computerhoy.com/apps/estas-apps-me-han-servido-mejorar-calidad-audio-videos-1386420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/aplicaciones-mejorar-sonido-microfono-movil-3348251.jpg?tf=1200x' alt='Mi móvil no tiene buen micrófono, pero con estas aplicaciones he mejorado la calidad del audio en mis vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
