@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346'>La Policía asegura haber desactivado unos de los mayores servicios IPTV en España</a></h4>
-    <a href='https://computerhoy.com/tv/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-1389346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-asegura-haber-desactivado-mayores-servicios-iptv-espana-pero-sigue-emitiendo-3436351.jpg?tf=1200x' alt='La Policía asegura haber desactivado unos de los mayores servicios IPTV en España' />
+    <h4><a href='https://computerhoy.com/apps/whatsapp-usara-ia-responder-preguntas-comunes-clientes-trae-verificacion-meta-cuentas-negocio-1390204'>WhatsApp usará IA para responder a preguntas comunes de los clientes y trae la verificación de Meta para cuentas de negocio</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-usara-ia-responder-preguntas-comunes-clientes-trae-verificacion-meta-cuentas-negocio-1390204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-whatsapp-3474278.jpg?tf=1200x' alt='WhatsApp usará IA para responder a preguntas comunes de los clientes y trae la verificación de Meta para cuentas de negocio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/motorola-excelente-movil-gama-media-carga-rapida-pantalla-top-poco-300-euros-1390200'>Este Motorola es un excelente móvil de gama media: carga rápida, pantalla top y poco más de 300 euros</a></h4>
-    <a href='https://computerhoy.com/android/motorola-excelente-movil-gama-media-carga-rapida-pantalla-top-poco-300-euros-1390200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/motorola-edge-40-neo-3133948.jpg?tf=1200x' alt='Este Motorola es un excelente móvil de gama media: carga rápida, pantalla top y poco más de 300 euros' />
+    <h4><a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401'>Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)</a></h4>
+    <a href='https://computerhoy.com/apps/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-1389401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Los datos de millones de Uber sentencian: esta es la mejor app de navegación (y no es Google Maps o Waze)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150'>IP estática vs. IP dinámica: qué son y en qué se diferencian</a></h4>
-    <a href='https://computerhoy.com/redes/ip-estatica-vs-ip-dinamica-son-diferencian-1389150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ip-estatica-vs-ip-dinamica-son-diferencian-3419944.jpg?tf=1200x' alt='IP estática vs. IP dinámica: qué son y en qué se diferencian' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
+    <h4><a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120'>Qué significa SATA: puertos, conectores, tipos y velocidad</a></h4>
+    <a href='https://computerhoy.com/pc/significa-sata-puertos-conectores-tipos-velocidad-1389120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/significa-sata-puertos-conectores-tipos-velocidad-3418428.jpg?tf=1200x' alt='Qué significa SATA: puertos, conectores, tipos y velocidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-optimizar-google-maps-funcione-rapido-movil-android-1367890'>Cómo optimizar Google Maps para que funcione mejor en tu móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-optimizar-google-maps-funcione-rapido-movil-android-1367890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-optimizar-google-maps-funcione-rapido-movil-android-3279989.jpg?tf=1200x' alt='Cómo optimizar Google Maps para que funcione mejor en tu móvil Android' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
     </a>
 </div>
 
