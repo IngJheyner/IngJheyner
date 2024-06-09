@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ios-18-tenira-iconos-modo-oscuro-nos-permitira-bloquear-aplicaciones-detras-face-id-1390242'>iOS 18 teñirá los íconos en modo oscuro y nos permitirá bloquear aplicaciones detrás de Face ID</a></h4>
     <a href='https://computerhoy.com/apple/ios-18-tenira-iconos-modo-oscuro-nos-permitira-bloquear-aplicaciones-detras-face-id-1390242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3479154.jpg?tf=1200x' alt='iOS 18 teñirá los íconos en modo oscuro y nos permitirá bloquear aplicaciones detrás de Face ID' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
     </a>
 </div>
 
