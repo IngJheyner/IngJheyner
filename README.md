@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278'>Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad</a></h4>
+    <a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274'>Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas</a></h4>
     <a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717961526266-3481757.jpg?tf=1200x' alt='Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
     <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266'>Recrean el mítico reproductor WinAMP en forma de minicadena física</a></h4>
-    <a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/recrean-mitico-reproductor-winamp-dispositivo-fisico-3481277.jpg?tf=1200x' alt='Recrean el mítico reproductor WinAMP en forma de minicadena física' />
     </a>
 </div>
 
