@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492'>Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?</a></h4>
+    <a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786'>No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?</a></h4>
+    <a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-3453503.jpg?tf=1200x' alt='No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090'>Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-3416458.jpg?tf=1200x' alt='Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
     <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799'>LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome</a></h4>
     <a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/librewolf-navegador-libre-privado-mejores-alternativas-chrome-3454871.jpg?tf=1200x' alt='LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502'>Cómo rotar un mapa de Google Maps en el móvil y en el navegador web</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-3277709.jpg?tf=1200x' alt='Cómo rotar un mapa de Google Maps en el móvil y en el navegador web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
-    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794'>Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-3454221.jpg?tf=1200x' alt='Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?' />
     </a>
 </div>
 
