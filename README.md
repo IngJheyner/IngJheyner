@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/netflix-prepara-mayor-rediseno-pagina-inicio-television-anos-1390234'>Netflix prepara el mayor rediseño de su página de inicio para televisión en años</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/netflix-prepara-mayor-rediseno-pagina-inicio-television-anos-1390234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='Netflix prepara el mayor rediseño de su página de inicio para televisión en años' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-no-quiere-te-olvide-te-acabas-descargar-aplicacion-play-store-1390235'>Google no quiere que se te olvide que te acabas de descargar una aplicación de la Play Store</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-no-quiere-te-olvide-te-acabas-descargar-aplicacion-play-store-1390235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google no quiere que se te olvide que te acabas de descargar una aplicación de la Play Store' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
-    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-donde-descarga-gratis-iso-windows-11-1389537'>Cómo y dónde descargar gratis la ISO de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-donde-descarga-gratis-iso-windows-11-1389537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3270804.jpg?tf=1200x' alt='Cómo y dónde descargar gratis la ISO de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
-    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231'>El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano</a></h4>
-    <a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-3478723.jpg?tf=1200x' alt='El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano' />
+    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980'>Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-3462329.jpg?tf=1200x' alt='Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad' />
+    <h4><a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864'>Uso Mac desde hace años y estas son las 10 primeras aplicaciones que siempre instalo</a></h4>
+    <a href='https://computerhoy.com/aplicaciones/primeras-aplicaciones-siempre-instalo-mac-1361864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/macbook-pro-14-m3-3219348.jpg?tf=1200x' alt='Uso Mac desde hace años y estas son las 10 primeras aplicaciones que siempre instalo' />
     </a>
 </div>
 
