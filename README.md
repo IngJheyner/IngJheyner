@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-6s-gen-3-gama-media-moviles-1390257'>Qualcomm presenta el Snapdragon 6s Gen 3, el nuevo rey de la gama media en móviles</a></h4>
+    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-6s-gen-3-gama-media-moviles-1390257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-presenta-snapdragon-6s-gen-3-nuevo-rey-gama-media-moviles-3480845.jpg?tf=1200x' alt='Qualcomm presenta el Snapdragon 6s Gen 3, el nuevo rey de la gama media en móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544'>Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan</a></h4>
+    <a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3443860.jpg?tf=1200x' alt='Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
     <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
     <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311'>CHKDSK, SFC y DISM: qué son y cómo activarlos para reparar Windows 11 sin reinstalar</a></h4>
-    <a href='https://computerhoy.com/tutoriales/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-reinstalar-3280703.jpg?tf=1200x' alt='CHKDSK, SFC y DISM: qué son y cómo activarlos para reparar Windows 11 sin reinstalar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/detienen-youtuber-disparar-lamborghini-helicoptero-emulando-gta-1390247'>Detienen a un youtuber por disparar a un Lamborghini desde un helicóptero, emulando a GTA V</a></h4>
-    <a href='https://computerhoy.com/internet/detienen-youtuber-disparar-lamborghini-helicoptero-emulando-gta-1390247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-youtuber-destruir-lamborghini-helicoptero-emulando-gta-3480280.jpg?tf=1200x' alt='Detienen a un youtuber por disparar a un Lamborghini desde un helicóptero, emulando a GTA V' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
-    <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
     </a>
 </div>
 
