@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-6s-gen-3-gama-media-moviles-1390257'>Qualcomm presenta el Snapdragon 6s Gen 3, el nuevo rey de la gama media en móviles</a></h4>
-    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-6s-gen-3-gama-media-moviles-1390257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-presenta-snapdragon-6s-gen-3-nuevo-rey-gama-media-moviles-3480845.jpg?tf=1200x' alt='Qualcomm presenta el Snapdragon 6s Gen 3, el nuevo rey de la gama media en móviles' />
+    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
+    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544'>Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan</a></h4>
-    <a href='https://computerhoy.com/apps/waze-vuelve-retrasar-otra-funciones-esperadas-usuarios-estallan-1389544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3443860.jpg?tf=1200x' alt='Waze vuelve a retrasar otra de las funciones más esperadas y los usuarios estallan' />
+    <h4><a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266'>Recrean el mítico reproductor WinAMP en forma de minicadena física</a></h4>
+    <a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/recrean-mitico-reproductor-winamp-dispositivo-fisico-3481277.jpg?tf=1200x' alt='Recrean el mítico reproductor WinAMP en forma de minicadena física' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535'>¿Cómo saber si alguien tiene una cuenta de Tinder?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-alguien-tiene-cuenta-tinder-1387535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='¿Cómo saber si alguien tiene una cuenta de Tinder?' />
+    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
+    <h4><a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553'>Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"</a></h4>
+    <a href='https://computerhoy.com/tv/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-1389553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/stephen-king-fascinado-nueva-pelicula-terror-cuando-sangre-fluye-fluye-cubos-3443550.jpg?tf=1200x' alt='Stephen King fascinado con una nueva película de terror: "Cuando la sangre fluye, fluye a cubos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
+    <h4><a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391'>¿Qué televisores son compatibles con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tv/televisores-son-compatibles-chromecast-1388391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/televisores-son-compatibles-chromecast-3391256.jpg?tf=1200x' alt='¿Qué televisores son compatibles con Chromecast?' />
     </a>
 </div>
 
