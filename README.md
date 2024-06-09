@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/record-temperatura-mayo-2024-1390211'>Se cumple un año desde que batimos el récord de temperatura todos los meses</a></h4>
+    <a href='https://computerhoy.com/life/record-temperatura-mayo-2024-1390211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cumple-ano-batimos-record-temperatura-todos-meses-3469657.jpg?tf=1200x' alt='Se cumple un año desde que batimos el récord de temperatura todos los meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
     <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
     <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358'>Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones</a></h4>
-    <a href='https://computerhoy.com/apple/carpintero-utilizo-airtag-encontrar-herramientas-robadas-desmantelar-red-ladrones-1389358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/apple-airtag-2335245.jpg?tf=1200x' alt='Un carpintero utilizó un AirTag para encontrar sus herramientas robadas y desmantelar una red de ladrones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209'>iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-incluira-reacciones-cualquier-emoji-capacidad-programar-imessage-1390209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emojis-imessage-3474426.jpg?tf=1200x' alt='iOS 18 incluirá reacciones con cualquier emoji y la capacidad de programar en iMessage' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/netflix-dejara-ofrecer-soporte-apple-tv-segunda-tercera-generacion-1390206'>Netflix dejará de ofrecer soporte para las Apple TV de segunda y tercera generación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/netflix-dejara-ofrecer-soporte-apple-tv-segunda-tercera-generacion-1390206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/8-cosas-increibles-puedes-hacer-apple-tv-quizas-no-sabias-3266149.jpg?tf=1200x' alt='Netflix dejará de ofrecer soporte para las Apple TV de segunda y tercera generación' />
     </a>
 </div>
 
