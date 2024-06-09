@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799'>LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome</a></h4>
+    <a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/librewolf-navegador-libre-privado-mejores-alternativas-chrome-3454871.jpg?tf=1200x' alt='LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502'>Cómo rotar un mapa de Google Maps en el móvil y en el navegador web</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-1366502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-rotar-mapa-google-maps-gesto-util-casi-nadie-conoce-3277709.jpg?tf=1200x' alt='Cómo rotar un mapa de Google Maps en el móvil y en el navegador web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
     <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794'>Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?</a></h4>
     <a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-3454221.jpg?tf=1200x' alt='Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
-    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208'>Este robot resuelve el cubo de Rubik en menos de un segundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-resuelve-cubo-rubik-menos-segundo-3474280.jpg?tf=1200x' alt='Este robot resuelve el cubo de Rubik en menos de un segundo' />
     </a>
 </div>
 
