@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794'>Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?</a></h4>
+    <a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-3454221.jpg?tf=1200x' alt='Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501'>Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones</a></h4>
+    <a href='https://computerhoy.com/moviles/debes-hacer-no-te-hackeen-movil-vacaciones-1388501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/movil-vacaciones-3436717.jpg?tf=1200x' alt='Esto es lo que debes hacer para que no te hackeen el móvil durante tus vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
     <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208'>Este robot resuelve el cubo de Rubik en menos de un segundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-resuelve-cubo-rubik-menos-segundo-3474280.jpg?tf=1200x' alt='Este robot resuelve el cubo de Rubik en menos de un segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212'>El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona</a></h4>
-    <a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-ver-funciona-3477401.jpg?tf=1200x' alt='El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
-    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
