@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602'>Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.com/apps/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-1389602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pocas-apps-android-auto-me-ha-hecho-plantearme-dejar-google-maps-waze-3445299.jpg?tf=1200x' alt='Esta es una de las pocas apps para Android Auto que me ha hecho plantearme dejar Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455'>Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-1389455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/comando-sudo-windows-sirve-puedes-hacer-tan-poderoso-como-linux-3440616.jpg?tf=1200x' alt='Comando Sudo en Windows, para qué sirve y lo que puedes hacer: ¿es tan poderoso como en Linux?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311'>CHKDSK, SFC y DISM: qué son y cómo activarlos para reparar Windows 11 sin reinstalar</a></h4>
     <a href='https://computerhoy.com/tutoriales/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-1368311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/son-chkdsk-sfc-dism-como-activarlos-reparar-windows-11-reinstalar-3280703.jpg?tf=1200x' alt='CHKDSK, SFC y DISM: qué son y cómo activarlos para reparar Windows 11 sin reinstalar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423'>Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber</a></h4>
     <a href='https://computerhoy.com/tecnologia/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-1389423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/overclocking-raspberry-pi-como-hacerlo-riesgos-necesitas-saber-3438849.jpg?tf=1200x' alt='Overclocking en Raspberry Pi: cómo hacerlo, riesgos y lo que necesitas saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-cables-no-tiene-nada-envidiar-dyson-cuesta-500-euros-menos-1390117'>Esta aspiradora sin cables no tiene nada que envidiar a las Dyson y cuesta 500 euros menos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-cables-no-tiene-nada-envidiar-dyson-cuesta-500-euros-menos-1390117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/levoit-lvac-200-3466694.jpg?tf=1200x' alt='Esta aspiradora sin cables no tiene nada que envidiar a las Dyson y cuesta 500 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330'>¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?</a></h4>
-    <a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/supremo-anula-traspaso-competencias-trafico-guardia-civil-navarra-3277103.jpg?tf=1200x' alt='¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?' />
     </a>
 </div>
 
