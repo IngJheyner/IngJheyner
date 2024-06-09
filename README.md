@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330'>¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?</a></h4>
+    <a href='https://computerhoy.com/apps/legal-te-multen-avisar-waze-whatsapp-telegram-control-trafico-guardia-civil-1389330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/supremo-anula-traspaso-competencias-trafico-guardia-civil-navarra-3277103.jpg?tf=1200x' alt='¿Es legal que te multen por avisar en Waze, WhatsApp o Telegram de un control de tráfico de la Guardia Civil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535'>Microsoft ha bloqueado uno de los mejores trucos de Windows 11</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-ha-bloqueado-mejores-trucos-windows-11-1389535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-truco-prohibido-3443242.jpg?tf=1200x' alt='Microsoft ha bloqueado uno de los mejores trucos de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-donde-descarga-gratis-iso-windows-11-1389537'>Cómo y dónde descargar gratis la ISO de Windows 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-donde-descarga-gratis-iso-windows-11-1389537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/windows-11-3270804.jpg?tf=1200x' alt='Cómo y dónde descargar gratis la ISO de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
     </a>
 </div>
 
