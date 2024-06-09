@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
+    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-empieza-instalar-todos-nuevas-notas-rapidas-windows-11-trae-todas-estas-novedades-1390229'>Microsoft empieza a instalar para todos las nuevas notas rápidas en Windows 11, y trae todas estas novedades</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-empieza-instalar-todos-nuevas-notas-rapidas-windows-11-trae-todas-estas-novedades-1390229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='Microsoft empieza a instalar para todos las nuevas notas rápidas en Windows 11, y trae todas estas novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492'>Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?</a></h4>
     <a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786'>No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-3453503.jpg?tf=1200x' alt='No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090'>Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-3416458.jpg?tf=1200x' alt='Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481'>Ahora que la IA escribe código: ¿merece la pena estudiar programación?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ahora-ia-escribe-codigo-merece-pena-estudiar-programacion-1389481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-codigo-3442424.jpg?tf=1200x' alt='Ahora que la IA escribe código: ¿merece la pena estudiar programación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799'>LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome</a></h4>
-    <a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/librewolf-navegador-libre-privado-mejores-alternativas-chrome-3454871.jpg?tf=1200x' alt='LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome' />
     </a>
 </div>
 
