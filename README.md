@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084'>OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-1389084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/openai-preocupa-ahora-seguridad-chatgpt-5-rectificacion-postureo-3416164.jpg?tf=1200x' alt='OpenAI se preocupa (ahora sí) por la seguridad de ChatGPT-5, ¿rectificación o postureo?' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208'>Este robot resuelve el cubo de Rubik en menos de un segundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-resuelve-cubo-rubik-menos-segundo-3474280.jpg?tf=1200x' alt='Este robot resuelve el cubo de Rubik en menos de un segundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/record-temperatura-mayo-2024-1390211'>Se cumple un año desde que batimos el récord de temperatura todos los meses</a></h4>
-    <a href='https://computerhoy.com/life/record-temperatura-mayo-2024-1390211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cumple-ano-batimos-record-temperatura-todos-meses-3469657.jpg?tf=1200x' alt='Se cumple un año desde que batimos el récord de temperatura todos los meses' />
+    <h4><a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212'>El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona</a></h4>
+    <a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-ver-funciona-3477401.jpg?tf=1200x' alt='El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348'>¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cine-muere-resultados-taquilla-ya-han-hecho-saltar-todas-alarmas-1389348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crisis-cine-3436566.jpg?tf=1200x' alt='¿El cine se muere? Los resultados de taquilla que ya han hecho saltar todas las alarmas' />
+    <h4><a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259'>He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro</a></h4>
+    <a href='https://computerhoy.com/windows/he-probado-primer-portatil-copilot-creo-va-convertir-segundo-cerebro-1389259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-vivobook-s-15-3435101.jpg?tf=1200x' alt='He probado el primer portátil con Copilot+ y creo que se va a convertir en tu segundo cerebro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442'>7 grandes mitos sobre Linux que no te debes creer </a></h4>
-    <a href='https://computerhoy.com/tecnologia/7-grandes-mitos-linux-no-te-debes-creer-1389442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/7-grandes-mitos-linux-no-te-debes-creer-3439296.jpg?tf=1200x' alt='7 grandes mitos sobre Linux que no te debes creer ' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
