@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532'>Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-cualquier-canal-tdt-online-instalar-nada-ni-volverte-loco-1389532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/canales-tdt-3442818.jpg?tf=1200x' alt='Cómo ver cualquier canal de la TDT online sin instalar nada ni volverte loco' />
+    <h4><a href='https://computerhoy.com/entretenimiento/netflix-prepara-mayor-rediseno-pagina-inicio-television-anos-1390234'>Netflix prepara el mayor rediseño de su página de inicio para televisión en años</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/netflix-prepara-mayor-rediseno-pagina-inicio-television-anos-1390234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/netflix-3068302.jpg?tf=1200x' alt='Netflix prepara el mayor rediseño de su página de inicio para televisión en años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493'>Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional</a></h4>
-    <a href='https://computerhoy.com/google/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-1389493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-ha-puesto-peligro-nuevo-datos-millones-usuarios-pero-asegura-no-fue-intencional-3442419.jpg?tf=1200x' alt='Google ha puesto en peligro de nuevo los datos de millones de usuarios, pero asegura que no fue intencional' />
+    <h4><a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509'>Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?</a></h4>
+    <a href='https://computerhoy.com/tv/netflix-dejara-ser-compatible-muchas-smart-tv-antiguas-tienes-ellas-1389509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/netflix-smart-tv-3443077.jpg?tf=1200x' alt='Netflix dejará de ser compatible con muchas Smart TV antiguas: ¿tienes una de ellas?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-empieza-instalar-todos-nuevas-notas-rapidas-windows-11-trae-todas-estas-novedades-1390229'>Microsoft empieza a instalar para todos las nuevas notas rápidas en Windows 11, y trae todas estas novedades</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-empieza-instalar-todos-nuevas-notas-rapidas-windows-11-trae-todas-estas-novedades-1390229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='Microsoft empieza a instalar para todos las nuevas notas rápidas en Windows 11, y trae todas estas novedades' />
+    <h4><a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531'>Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente</a></h4>
+    <a href='https://computerhoy.com/apps/numeros-malditos-whatsapp-ves-grupo-sal-inmediatamente-1389531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/whatsapp-3284084.jpg?tf=1200x' alt='Los números malditos de WhatsApp: si los ves en un grupo sal inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
+    <h4><a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231'>El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano</a></h4>
+    <a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-3478723.jpg?tf=1200x' alt='El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492'>Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?</a></h4>
-    <a href='https://computerhoy.com/pc/intel-elimina-hyper-threading-cpu-lunar-lake-adios-multitarea-1389492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-lanza-solucion-fallos-cpu-modelos-gama-alta-3309969.jpg?tf=1200x' alt='Intel elimina el Hyper-Threading de sus CPU Lunar Lake: ¿Adiós a la multitarea?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980'>Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-3462329.jpg?tf=1200x' alt='Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad' />
     </a>
 </div>
 
