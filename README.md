@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274'>Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas</a></h4>
+    <a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717961526266-3481757.jpg?tf=1200x' alt='Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
     <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266'>Recrean el mítico reproductor WinAMP en forma de minicadena física</a></h4>
     <a href='https://computerhoy.com/tecnologia/recrean-mitico-reproductor-winamp-forma-minicadena-fisica-1390266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/recrean-mitico-reproductor-winamp-dispositivo-fisico-3481277.jpg?tf=1200x' alt='Recrean el mítico reproductor WinAMP en forma de minicadena física' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624'>Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos</a></h4>
-    <a href='https://computerhoy.com/tutoriales/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-1389624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-podras-recuperar-cuenta-whatsapp-hackeada-minutos-3445902.jpg?tf=1200x' alt='Con este truco podrás recuperar tu cuenta de WhatsApp hackeada en minutos' />
     </a>
 </div>
 
