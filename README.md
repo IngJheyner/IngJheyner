@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360'>Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato</a></h4>
     <a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
     <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
-    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
-    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
     </a>
 </div>
 
