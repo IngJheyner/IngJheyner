@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477'>TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación</a></h4>
+    <a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/amazon-mejorara-experiencia-usuario-minimizar-anuncios-pantalla-completa-fire-tv-1390475'>Amazon mejorará la experiencia del usuario al minimizar los anuncios en pantalla completa en Fire TV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/amazon-mejorara-experiencia-usuario-minimizar-anuncios-pantalla-completa-fire-tv-1390475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/error-estas-cometiendo-amazon-fire-tv-router-wifi-como-solucionarlo-3286140.jpg?tf=1200x' alt='Amazon mejorará la experiencia del usuario al minimizar los anuncios en pantalla completa en Fire TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472'>Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más</a></h4>
     <a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488452.jpg?tf=1200x' alt='Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488905.jpg?tf=1200x' alt='Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456'>Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos</a></h4>
     <a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/macos-15-3488450.jpg?tf=1200x' alt='Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619'>5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-3445146.jpg?tf=1200x' alt='5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462'>iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes</a></h4>
-    <a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipados-18-3488443.jpg?tf=1200x' alt='iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes' />
     </a>
 </div>
 
