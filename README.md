@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484'>Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras</a></h4>
+    <a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tienda-permite-alguien-herede-juegos-cuando-te-mueras-3488729.jpg?tf=1200x' alt='Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469'>Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desarrollan-primera-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-3488750.jpg?tf=1200x' alt='Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477'>TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472'>Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más</a></h4>
     <a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488905.jpg?tf=1200x' alt='Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163'>Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes</a></h4>
-    <a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-3470232.jpg?tf=1200x' alt='Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456'>Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/macos-15-3488450.jpg?tf=1200x' alt='Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos' />
     </a>
 </div>
 
