@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278'>Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad</a></h4>
     <a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643'>Primer concurso de belleza de modelos generadas con IA, tan reales que asustan</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asustan-1389643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/primer-concurso-belleza-modelos-generadas-ia-tan-reales-asuntan-3446188.jpg?tf=1200x' alt='Primer concurso de belleza de modelos generadas con IA, tan reales que asustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638'>Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip</a></h4>
-    <a href='https://computerhoy.com/pc/intel-lunar-lake-120-tops-memoria-ram-dentro-chip-1389638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/intel-revoluciona-cpu-lunar-lake-120-tops-memoria-ram-dentro-chip-3445899.jpg?tf=1200x' alt='Intel revoluciona las CPU con Lunar Lake, hasta 120 TOPS y la memoria RAM dentro del chip' />
     </a>
 </div>
 
