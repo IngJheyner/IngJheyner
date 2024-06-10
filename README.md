@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462'>iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes</a></h4>
+    <a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipados-18-3488443.jpg?tf=1200x' alt='iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723'>Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-salto-linea-whatsapp-web-windows-mac-1387723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-salto-linea-whatsapp-web-windows-mac-3358288.jpg?tf=1200x' alt='Cómo hacer un salto de línea en WhatsApp Web para Windows y para Mac' />
+    <h4><a href='https://computerhoy.com/apple/tvos-18-informacion-mejoras-audio-mientras-ves-peliculas-favoritas-1390468'>tvOS 18: más información y mejoras en audio mientras ves tus películas favoritas</a></h4>
+    <a href='https://computerhoy.com/apple/tvos-18-informacion-mejoras-audio-mientras-ves-peliculas-favoritas-1390468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tvos-18-3488292.jpg?tf=1200x' alt='tvOS 18: más información y mejoras en audio mientras ves tus películas favoritas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266'>5 usos ocultos de Flipper Zero que no encontrarás en su manual de usuario</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='5 usos ocultos de Flipper Zero que no encontrarás en su manual de usuario' />
+    <h4><a href='https://computerhoy.com/apple/watchos-11-ahora-podras-registrar-carga-entrenamientos-1390461'>watchOS 11: ahora podrás registrar la carga de tus entrenamientos</a></h4>
+    <a href='https://computerhoy.com/apple/watchos-11-ahora-podras-registrar-carga-entrenamientos-1390461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/watchos-11-3488296.jpg?tf=1200x' alt='watchOS 11: ahora podrás registrar la carga de tus entrenamientos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    <h4><a href='https://computerhoy.com/apple/ios-18-llega-mayor-renovacion-fotos-privacidad-1390464'>iOS 18: llega la mayor renovación en Fotos y privacidad</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-llega-mayor-renovacion-fotos-privacidad-1390464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3488287.jpg?tf=1200x' alt='iOS 18: llega la mayor renovación en Fotos y privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151'>Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-restablecer-drivers-tarjeta-grafica-windows-11-3420218.jpg?tf=1200x' alt='Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11' />
+    <h4><a href='https://computerhoy.com/tecnologia/gran-actualizacion-apple-vision-pro-no-llega-diseno-sino-visionos-2-1390457'>La gran actualización de las Apple Vision Pro no llega en el diseño, sino en visionOS 2</a></h4>
+    <a href='https://computerhoy.com/tecnologia/gran-actualizacion-apple-vision-pro-no-llega-diseno-sino-visionos-2-1390457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vision-os-2-3488133.jpg?tf=1200x' alt='La gran actualización de las Apple Vision Pro no llega en el diseño, sino en visionOS 2' />
     </a>
 </div>
 
