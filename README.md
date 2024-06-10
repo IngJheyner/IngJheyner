@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
+    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
+    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922'>Así puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-jailbreak-chatgpt-desbloquear-todo-potencial-usar-ia-restricciones-3266157.jpg?tf=1200x' alt='Así puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
     <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353'>Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405'>Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina</a></h4>
-    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
