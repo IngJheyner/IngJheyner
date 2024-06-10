@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925'>Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11</a></h4>
     <a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprobar-estado-ssd-ordenador-windows-11-3271399.jpg?tf=1200x' alt='Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mejores-tablets-xiaomi-puedes-comprar-ahora-cuesta-menos-300-euros-1390346'>Es una de las mejores tablets de Xiaomi que puedes comprar y ahora cuesta menos de 300 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/mejores-tablets-xiaomi-puedes-comprar-ahora-cuesta-menos-300-euros-1390346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-pad-6-3485652.jpg?tf=1200x' alt='Es una de las mejores tablets de Xiaomi que puedes comprar y ahora cuesta menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327'>YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-limitando-publicaciones-muestran-armas-3485982.jpg?tf=1200x' alt='YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos' />
     </a>
 </div>
 
