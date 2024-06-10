@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660'>Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS</a></h4>
+    <a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-5-ya-tiene-propio-chip-ia-barato-13-tops-3447336.jpg?tf=1200x' alt='Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
+    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278'>Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad</a></h4>
     <a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274'>Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas</a></h4>
-    <a href='https://computerhoy.com/gaming/microsoft-presenta-xbox-series-x-sin-lector-discos-1390274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717961526266-3481757.jpg?tf=1200x' alt='Microsoft presenta una Xbox Series X sin lector de discos, y otras dos consolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644'>Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X</a></h4>
-    <a href='https://computerhoy.com/tecnologia/elon-musk-busca-ser-alternativa-onlyfans-porno-explicito-ya-legal-x-1389644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/red-social-x-3446189.jpg?tf=1200x' alt='Elon Musk busca ser la alternativa a Onlyfans: el porno explícito ya es legal en X' />
     </a>
 </div>
 
