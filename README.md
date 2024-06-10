@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323'>Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nina-tecnologia-3485498.jpg?tf=1200x' alt='Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion' />
+    <h4><a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925'>Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11</a></h4>
+    <a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprobar-estado-ssd-ordenador-windows-11-3271399.jpg?tf=1200x' alt='Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695'>España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/espana-chollo-hackers-mala-costumbre-router-wifi-tiene-culpa-1389695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-router-wifi-3449976.jpg?tf=1200x' alt='España, un chollo para los hackers: una mala costumbre con el router WiFi tiene la culpa' />
+    <h4><a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038'>Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps</a></h4>
+    <a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nada-studio-3465512.jpg?tf=1200x' alt='Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
-    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
+    <h4><a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345'>Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-domesticos-3486150.jpg?tf=1200x' alt='Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/instagram-permitira-publicar-stories-whatsapp-antes-acabe-ano-1390290'>Meta prepara una nueva función que te permitirá publicar Stories de Instagram en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/apps/instagram-permitira-publicar-stories-whatsapp-antes-acabe-ano-1390290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-permitira-publicar-historias-whatsapp-antes-acabe-ano-3485026.jpg?tf=1200x' alt='Meta prepara una nueva función que te permitirá publicar Stories de Instagram en WhatsApp' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-tablets-xiaomi-puedes-comprar-ahora-cuesta-menos-300-euros-1390346'>Es una de las mejores tablets de Xiaomi que puedes comprar y ahora cuesta menos de 300 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-tablets-xiaomi-puedes-comprar-ahora-cuesta-menos-300-euros-1390346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-pad-6-3485652.jpg?tf=1200x' alt='Es una de las mejores tablets de Xiaomi que puedes comprar y ahora cuesta menos de 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/hackeo-masivo-santander-ticketmaster-empresa-responsable-no-contando-1390312'>Hackeo masivo al Santander y TicketMaster: lo que la empresa responsable no está contando</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/hackeo-masivo-santander-ticketmaster-empresa-responsable-no-contando-1390312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-hackeo-3485338.jpg?tf=1200x' alt='Hackeo masivo al Santander y TicketMaster: lo que la empresa responsable no está contando' />
+    <h4><a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327'>YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-limitando-publicaciones-muestran-armas-3485982.jpg?tf=1200x' alt='YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos' />
     </a>
 </div>
 
