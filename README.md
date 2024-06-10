@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487'>Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio</a></h4>
+    <a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosmonauta-primer-ser-humano-ha-pasado-1000-dias-espacio-3489351.jpg?tf=1200x' alt='Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481'>Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo</a></h4>
+    <a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-3489207.jpg?tf=1200x' alt='Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484'>Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras</a></h4>
     <a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tienda-permite-alguien-herede-juegos-cuando-te-mueras-3488729.jpg?tf=1200x' alt='Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477'>TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación</a></h4>
     <a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/amazon-mejorara-experiencia-usuario-minimizar-anuncios-pantalla-completa-fire-tv-1390475'>Amazon mejorará la experiencia del usuario al minimizar los anuncios en pantalla completa en Fire TV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/amazon-mejorara-experiencia-usuario-minimizar-anuncios-pantalla-completa-fire-tv-1390475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/error-estas-cometiendo-amazon-fire-tv-router-wifi-como-solucionarlo-3286140.jpg?tf=1200x' alt='Amazon mejorará la experiencia del usuario al minimizar los anuncios en pantalla completa en Fire TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472'>Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más</a></h4>
-    <a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488905.jpg?tf=1200x' alt='Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más' />
     </a>
 </div>
 
