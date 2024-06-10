@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
+    <h4><a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679'>Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes</a></h4>
+    <a href='https://computerhoy.com/esperar-wwdc-2024-apple-ios-18-macos-15-inteligencia-artificial-todas-partes-1389679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wwdc-24-apple-3449511.jpg?tf=1200x' alt='Qué esperar de la WWDC 2024 de Apple: iOS 18,  macOS 15 e inteligencia artificial por todas partes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681'>Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal</a></h4>
-    <a href='https://computerhoy.com/alimentacion/cuchara-inteligente-convierte-alimentos-sosos-salados-1389681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717567979593-3449205.jpg?tf=1200x' alt='Esta cuchara inteligente convierte los alimentos sosos en salados, sin añadir sal' />
+    <h4><a href='https://computerhoy.com/apps/instagram-permitira-publicar-stories-whatsapp-antes-acabe-ano-1390290'>Meta prepara una nueva función que te permitirá publicar Stories de Instagram en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/apps/instagram-permitira-publicar-stories-whatsapp-antes-acabe-ano-1390290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-permitira-publicar-historias-whatsapp-antes-acabe-ano-3485026.jpg?tf=1200x' alt='Meta prepara una nueva función que te permitirá publicar Stories de Instagram en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672'>¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes</a></h4>
-    <a href='https://computerhoy.com/gaming/necesitas-trabajo-ikea-planea-abrir-tienda-virtual-roblox-pagar-dependientes-1389672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/roblox-ikea-3444998.jpg?tf=1200x' alt='¿Necesitas trabajo? Ikea planea abrir una tienda virtual en Roblox y pagar a sus dependientes' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/hackeo-masivo-santander-ticketmaster-empresa-responsable-no-contando-1390312'>Hackeo masivo al Santander y TicketMaster: lo que la empresa responsable no está contando</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/hackeo-masivo-santander-ticketmaster-empresa-responsable-no-contando-1390312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-hackeo-3485338.jpg?tf=1200x' alt='Hackeo masivo al Santander y TicketMaster: lo que la empresa responsable no está contando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922'>Así puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-jailbreak-chatgpt-1359922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-hacer-jailbreak-chatgpt-desbloquear-todo-potencial-usar-ia-restricciones-3266157.jpg?tf=1200x' alt='Así puedes desbloquear ChatGPT para sacar todo su potencial y usar la IA sin restricciones' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-arrasa-pixel-8-pro-gracias-oferta-descomunal-300-euros-menos-1390311'>Google arrasa con su Pixel 8 Pro gracias a esta oferta descomunal: 300 euros menos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-arrasa-pixel-8-pro-gracias-oferta-descomunal-300-euros-menos-1390311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-pixel-8-pro-3485184.jpg?tf=1200x' alt='Google arrasa con su Pixel 8 Pro gracias a esta oferta descomunal: 300 euros menos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
-    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
+    <h4><a href='https://computerhoy.com/analisis/huawei-freebuds-6i-son-auriculares-tanta-calidad-me-olvida-son-gama-media-1389496'>Huawei FreeBuds 6i son unos auriculares con tanta calidad que se me olvida que son de gama media</a></h4>
+    <a href='https://computerhoy.com/analisis/huawei-freebuds-6i-son-auriculares-tanta-calidad-me-olvida-son-gama-media-1389496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-freebuds-6i-3443874.jpg?tf=1200x' alt='Huawei FreeBuds 6i son unos auriculares con tanta calidad que se me olvida que son de gama media' />
     </a>
 </div>
 
