@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660'>Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS</a></h4>
-    <a href='https://computerhoy.com/pc/raspberry-pi-5-ya-tiene-chip-ia-barato-13-tops-1389660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-5-ya-tiene-propio-chip-ia-barato-13-tops-3447336.jpg?tf=1200x' alt='Raspberry Pi 5 ya tiene su propio chip de IA barato, con 13 TOPS' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562'>¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra</a></h4>
-    <a href='https://computerhoy.com/ciencia/da-dinero-felicidad-pero-solamente-partir-cifra-1389562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/da-dinero-felicidad-pero-solamente-partir-cifra-3443556.jpg?tf=1200x' alt='¿Da el dinero la felicidad? Sí, pero solamente a partir de esta cifra' />
+    <h4><a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294'>¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?</a></h4>
+    <a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717765422519-3465962.jpg?tf=1200x' alt='¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503'>Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/google-maps-no-te-va-ofrecer-trabajo-whatsapp-cuidado-estafa-1389503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-3444028.jpg?tf=1200x' alt='Google Maps no te va a ofrecer trabajo por WhatsApp: cuidado con esta estafa' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-1389363'>Todo el mundo habla de ella pero, ¿y si la inteligencia artificial general no llegase a hacerse realidad nunca?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-1389363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-3436762.jpg?tf=1200x' alt='Todo el mundo habla de ella pero, ¿y si la inteligencia artificial general no llegase a hacerse realidad nunca?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656'>Esta mujer lleva 12 años vendiendo online mensajes de buenas noches</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mujer-lleva-12-anos-vendiendo-online-mensajes-buenas-noches-1389656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mujer-lleva-10-anos-vendiendo-online-mensajes-buenas-noches-3447479.jpg?tf=1200x' alt='Esta mujer lleva 12 años vendiendo online mensajes de buenas noches' />
+    <h4><a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711'>Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión</a></h4>
+    <a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/douglas-crockford-creador-formato-datos-json-3457020.jpg?tf=1200x' alt='Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278'>Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad</a></h4>
-    <a href='https://computerhoy.com/apple/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-1390278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-niega-pagar-kaspersky-recompensa-encontrar-grave-bug-seguridad-3482197.jpg?tf=1200x' alt='Apple se niega a pagar a Kaspersky la recompensa por encontrar un grave bug de seguridad' />
+    <h4><a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-beneficios-1382802'>Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-beneficios-1382802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo' />
     </a>
 </div>
 
