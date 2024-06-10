@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353'>Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sam-altman-da-razon-elon-musk-inteligencia-artificial-transformara-trabajo-1389353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Sam Altman da la razón a Elon Musk: “la inteligencia artificial transformará el trabajo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405'>Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina</a></h4>
+    <a href='https://computerhoy.com/tecnologia/inteligencia-artificial-revivir-muertos-nos-estamos-volviendo-locos-experto-opina-1389405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Inteligencia artificial para "revivir muertos": ¿Nos estamos volviendo locos? Un experto opina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
     <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294'>¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717765422519-3465962.jpg?tf=1200x' alt='¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-1389363'>Todo el mundo habla de ella pero, ¿y si la inteligencia artificial general no llegase a hacerse realidad nunca?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-1389363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todo-mundo-habla-ella-pero-inteligencia-artificial-general-no-llegase-hacerse-realidad-nunca-3436762.jpg?tf=1200x' alt='Todo el mundo habla de ella pero, ¿y si la inteligencia artificial general no llegase a hacerse realidad nunca?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711'>Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión</a></h4>
-    <a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/douglas-crockford-creador-formato-datos-json-3457020.jpg?tf=1200x' alt='Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-beneficios-1382802'>Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/motivo-porque-memoria-ram-soldada-beneficios-1382802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/soldar-memoria-ram-3305531.jpg?tf=1200x' alt='Cada vez más portátiles llevan la memoria RAM soldada, y este es el motivo' />
     </a>
 </div>
 
