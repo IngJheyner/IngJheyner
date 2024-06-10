@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266'>5 usos ocultos de Flipper Zero que no encontrarás en su manual de usuario</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usos-ocultos-oscuros-flipper-zero-no-encontraras-manual-instrucciones-1359266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/flipper-zero-3250919.jpg?tf=1200x' alt='5 usos ocultos de Flipper Zero que no encontrarás en su manual de usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701'>No instales esta versión de Google Maps: está dando problemas en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-instales-version-google-maps-dando-problemas-android-auto-1389701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-solucionar-errores-spotify-android-auto-guia-completa-3255917.jpg?tf=1200x' alt='No instales esta versión de Google Maps: está dando problemas en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151'>Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-restablecer-drivers-tarjeta-grafica-windows-11-1389151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-restablecer-drivers-tarjeta-grafica-windows-11-3420218.jpg?tf=1200x' alt='Cómo restablecer los drivers de tu tarjeta gráfica en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
+    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657'>Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-escribir-simbolo-diametro-teclado-portatil-pc-1389657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-escribir-simbolo-diametro-teclado-portatil-pc-3448334.jpg?tf=1200x' alt='Cómo escribir el símbolo de diámetro con el teclado de tu portátil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360'>Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
     </a>
 </div>
 
