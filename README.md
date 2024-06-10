@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360'>Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ventilador-techo-vendido-enfria-como-aire-acondicionado-pero-mucho-barato-1390360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/philips-lighting-bliss-3485977.jpg?tf=1200x' alt='Este es el ventilador de techo más vendido: enfría como un aire acondicionado pero mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655'>Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador</a></h4>
+    <a href='https://computerhoy.com/windows/programa-windows-insider-sirve-como-apuntarse-ordenador-1389655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/programa-windows-insider-sirve-como-apuntarse-ordenador-3448049.jpg?tf=1200x' alt='Programa Windows Insider: qué es, para qué sirve y cómo apuntarse desde tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
     <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536'>WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-1387536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/whatsapp-web-vs-whatsapp-escritorio-todas-diferencias-3351502.jpg?tf=1200x' alt='WhatsApp Web vs. WhatsApp de escritorio, todas las diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925'>Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11</a></h4>
-    <a href='https://computerhoy.com/pc/como-comprobar-estado-disco-ssd-windows-11-1362925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-comprobar-estado-ssd-ordenador-windows-11-3271399.jpg?tf=1200x' alt='Cómo comprobar si el disco SSD de tu PC tiene algún problema en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038'>Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps</a></h4>
-    <a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nada-studio-3465512.jpg?tf=1200x' alt='Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps' />
     </a>
 </div>
 
