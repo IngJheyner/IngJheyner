@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472'>Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más</a></h4>
+    <a href='https://computerhoy.com/apple/llega-apple-intelligence-apuesta-ia-cambios-siri-edicion-imagenes-mucho-1390472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488452.jpg?tf=1200x' alt='Llega Apple Intelligence, su apuesta de IA: cambios en Siri, edición de imágenes y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163'>Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes</a></h4>
+    <a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-3470232.jpg?tf=1200x' alt='Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456'>Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/apple-lanza-macos-sequoia-mensaje-importante-industria-videojuegos-1390456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/macos-15-3488450.jpg?tf=1200x' alt='Apple lanza con macOS Sequoia un mensaje importante para la industria de videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619'>5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-1389619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-peliculas-incomprensiblemente-nunca-tuvieron-secuela-aunque-pedian-gritos-3445146.jpg?tf=1200x' alt='5 películas que incomprensiblemente nunca tuvieron secuela (aunque la pedían a gritos)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462'>iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes</a></h4>
     <a href='https://computerhoy.com/apple/ipados-18-calculadora-fin-aterriza-llega-funciones-compatibles-apple-pencil-interesantes-1390462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipados-18-3488443.jpg?tf=1200x' alt='iPadOS 18: la calculadora por fin aterriza y llega con funciones compatibles con el Apple Pencil de lo más interesantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tvos-18-informacion-mejoras-audio-mientras-ves-peliculas-favoritas-1390468'>tvOS 18: más información y mejoras en audio mientras ves tus películas favoritas</a></h4>
-    <a href='https://computerhoy.com/apple/tvos-18-informacion-mejoras-audio-mientras-ves-peliculas-favoritas-1390468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tvos-18-3488292.jpg?tf=1200x' alt='tvOS 18: más información y mejoras en audio mientras ves tus películas favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/watchos-11-ahora-podras-registrar-carga-entrenamientos-1390461'>watchOS 11: ahora podrás registrar la carga de tus entrenamientos</a></h4>
-    <a href='https://computerhoy.com/apple/watchos-11-ahora-podras-registrar-carga-entrenamientos-1390461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/watchos-11-3488296.jpg?tf=1200x' alt='watchOS 11: ahora podrás registrar la carga de tus entrenamientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-llega-mayor-renovacion-fotos-privacidad-1390464'>iOS 18: llega la mayor renovación en Fotos y privacidad</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-llega-mayor-renovacion-fotos-privacidad-1390464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3488287.jpg?tf=1200x' alt='iOS 18: llega la mayor renovación en Fotos y privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/gran-actualizacion-apple-vision-pro-no-llega-diseno-sino-visionos-2-1390457'>La gran actualización de las Apple Vision Pro no llega en el diseño, sino en visionOS 2</a></h4>
-    <a href='https://computerhoy.com/tecnologia/gran-actualizacion-apple-vision-pro-no-llega-diseno-sino-visionos-2-1390457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vision-os-2-3488133.jpg?tf=1200x' alt='La gran actualización de las Apple Vision Pro no llega en el diseño, sino en visionOS 2' />
     </a>
 </div>
 
