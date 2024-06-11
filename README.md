@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345'>Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-domesticos-3486150.jpg?tf=1200x' alt='Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple' />
+    <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
+    <h4><a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883'>La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-1-inteligencia-artificial-3458206.jpg?tf=1200x' alt='La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852'>Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine' />
+    <h4><a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843'>5 formas de sacarle partido a tu PC con Windows 10 en 2025</a></h4>
+    <a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='5 formas de sacarle partido a tu PC con Windows 10 en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327'>YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-limitando-publicaciones-muestran-armas-3485982.jpg?tf=1200x' alt='YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos' />
+    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
     </a>
 </div>
 
