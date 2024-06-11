@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
+    <h4><a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665'>Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?</a></h4>
+    <a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-3495370.jpg?tf=1200x' alt='Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
-    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
+    <h4><a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953'>¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-1389953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-utilizar-raspberry-pi-como-mini-pc-escritorio-3460274.jpg?tf=1200x' alt='¿Es posible utilizar una Raspberry Pi como un mini PC de escritorio?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
-    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482'>Cómo usar fondos de pantalla animados en Windows 11</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-usar-fondos-pantalla-animados-windows-11-1298482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fondo-pantalla-animado-windows-11-3458369.jpg?tf=1200x' alt='Cómo usar fondos de pantalla animados en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164'>Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-3470517.jpg?tf=1200x' alt='Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo' />
     </a>
 </div>
 
