@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
+    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681'>Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966'>Windows 12 se aleja y Microsoft tiene buenas razones para ello</a></h4>
     <a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-12-aleja-microsoft-tiene-buenas-razones-ello-3460732.jpg?tf=1200x' alt='Windows 12 se aleja y Microsoft tiene buenas razones para ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/wallapop-informe-red-cambio-2024-economia-circular-1390677'>Wallapop presenta su informe La Red del Cambio 2024, y explica por qué España ya es una economía circular</a></h4>
-    <a href='https://computerhoy.com/industria/wallapop-informe-red-cambio-2024-economia-circular-1390677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wallapop-presenta-informe-red-cambio-2024-explica-espana-ya-economia-circular-3495373.jpg?tf=1200x' alt='Wallapop presenta su informe La Red del Cambio 2024, y explica por qué España ya es una economía circular' />
     </a>
 </div>
 
