@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216'>Las 6 mejores webs para escanear y eliminar virus gratis en tu PC </a></h4>
-    <a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-mejores-webs-escanear-eliminar-virus-gratis-3260003.jpg?tf=1200x' alt='Las 6 mejores webs para escanear y eliminar virus gratis en tu PC ' />
+    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
+    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
+    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
-    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
+    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
+    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/todos-canales-tiene-pluto-tv-1390144'>Todos los canales que tiene Pluto TV</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/todos-canales-tiene-pluto-tv-1390144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todos-canales-tiene-pluto-tv-3468773.jpg?tf=1200x' alt='Todos los canales que tiene Pluto TV' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507'>Cómo pasar las fotos del iPhone a un PC con Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-pasar-fotos-iphone-pc-windows-1389507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-junto-ordenador-windows-3458207.jpg?tf=1200x' alt='Cómo pasar las fotos del iPhone a un PC con Windows' />
     </a>
 </div>
 
