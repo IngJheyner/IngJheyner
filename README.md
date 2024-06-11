@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970'>Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá</a></h4>
-    <a href='https://computerhoy.com/energia/cementerios-placas-solares-ciudad-espanola-generando-energia-limpia-ayuda-alla-1389970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/paneles-solares-3460579.jpg?tf=1200x' alt='Cementerios con placas solares: la ciudad española que está generando energía limpia con la "ayuda" del más allá' />
+    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681'>Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395'>Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-1389395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/4-series-animacion-basadas-videojuegos-nivel-tomb-raider-netflix-3437660.jpg?tf=1200x' alt='Series de animación basadas en videojuegos al nivel del Tomb Raider de Netflix' />
+    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a cómo fueron en realidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a cómo fueron en realidad' />
+    <h4><a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966'>Windows 12 se aleja y Microsoft tiene buenas razones para ello</a></h4>
+    <a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-12-aleja-microsoft-tiene-buenas-razones-ello-3460732.jpg?tf=1200x' alt='Windows 12 se aleja y Microsoft tiene buenas razones para ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665'>Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?</a></h4>
-    <a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-3495370.jpg?tf=1200x' alt='Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?' />
+    <h4><a href='https://computerhoy.com/industria/wallapop-informe-red-cambio-2024-economia-circular-1390677'>Wallapop presenta su informe La Red del Cambio 2024, y explica por qué España ya es una economía circular</a></h4>
+    <a href='https://computerhoy.com/industria/wallapop-informe-red-cambio-2024-economia-circular-1390677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/wallapop-presenta-informe-red-cambio-2024-explica-espana-ya-economia-circular-3495373.jpg?tf=1200x' alt='Wallapop presenta su informe La Red del Cambio 2024, y explica por qué España ya es una economía circular' />
     </a>
 </div>
 
