@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
+    <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
+    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845'>Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión</a></h4>
+    <a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aeropuerto-2711597.jpg?tf=1200x' alt='Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883'>La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/33-fernando-alonso-podria-venir-acompanada-curiosa-sorpresa-gracias-ia-1389883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-1-inteligencia-artificial-3458206.jpg?tf=1200x' alt='La 33 de Fernando Alonso podría venir acompañada de una curiosa sorpresa gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843'>5 formas de sacarle partido a tu PC con Windows 10 en 2025</a></h4>
-    <a href='https://computerhoy.com/windows/5-formas-sacarle-partido-pc-windows-10-2025-1389843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/windows-10-windows-11-3283973.jpg?tf=1200x' alt='5 formas de sacarle partido a tu PC con Windows 10 en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
     </a>
 </div>
 
