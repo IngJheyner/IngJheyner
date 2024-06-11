@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tener-enorme-tv-samsung-65-mini-led-full-array-cuesta-ahora-mitad-1390489'>Tener un enorme TV Samsung de 65" Mini LED y Full Array cuesta ahora la mitad</a></h4>
-    <a href='https://computerhoy.com/tv/tener-enorme-tv-samsung-65-mini-led-full-array-cuesta-ahora-mitad-1390489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-qled-65-3489629.jpg?tf=1200x' alt='Tener un enorme TV Samsung de 65" Mini LED y Full Array cuesta ahora la mitad' />
+    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
-    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
+    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/pluto-tv-que-es-y-configuracion-881079'>Pluto TV: qué es, cómo funciona y todo lo que debes saber para ver la TV gratis</a></h4>
+    <a href='https://computerhoy.com/reportajes/entretenimiento/pluto-tv-que-es-y-configuracion-881079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pluto-tv-3307122.jpg?tf=1200x' alt='Pluto TV: qué es, cómo funciona y todo lo que debes saber para ver la TV gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509'>¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chatbots-trabajo-3492135.jpg?tf=1200x' alt='¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA' />
+    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
+    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
     </a>
 </div>
 
