@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711'>Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión</a></h4>
+    <a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/douglas-crockford-creador-formato-datos-json-3457020.jpg?tf=1200x' alt='Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/no-llames-inteligencia-artificial-llamalo-inteligencia-apple-entra-era-ia-1390432'>No lo llames inteligencia artificial, llámalo inteligencia: Apple entra en su era de la IA</a></h4>
+    <a href='https://computerhoy.com/apple/no-llames-inteligencia-artificial-llamalo-inteligencia-apple-entra-era-ia-1390432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488906.jpg?tf=1200x' alt='No lo llames inteligencia artificial, llámalo inteligencia: Apple entra en su era de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815'>ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM</a></h4>
     <a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tinker-board-r20-3442268.jpg?tf=1200x' alt='ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481'>Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo</a></h4>
     <a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-3489207.jpg?tf=1200x' alt='Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484'>Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras</a></h4>
-    <a href='https://computerhoy.com/gaming/tienda-gog-permite-alguien-herede-juegos-digitales-cuando-mueras-1390484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tienda-permite-alguien-herede-juegos-cuando-te-mueras-3488729.jpg?tf=1200x' alt='Esta tienda sí permite que alguien herede tus juegos digitales cuando mueras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469'>Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desarrollan-primera-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-3488750.jpg?tf=1200x' alt='Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles' />
     </a>
 </div>
 
