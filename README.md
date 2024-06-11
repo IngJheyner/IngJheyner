@@ -58,6 +58,22 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
+    <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-sabras-cuantas-calorias-debes-comer-dia-adelgazar-peso-edad-altura-3490467.jpg?tf=1200x' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
     <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
     <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845'>Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión</a></h4>
-    <a href='https://computerhoy.com/apple/truco-iphone-maravilla-vas-usar-siempre-viajes-avion-1389845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/aeropuerto-2711597.jpg?tf=1200x' alt='Este truco de iPhone es una maravilla que vas a usar siempre que viajes en avión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
     </a>
 </div>
 
