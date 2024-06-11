@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837'>Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura</a></h4>
-    <a href='https://computerhoy.com/noticias/life/esta-formula-te-dice-cuantas-calorias-debes-comer-dia-adelgazar-286837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/formula-sabras-cuantas-calorias-debes-comer-dia-adelgazar-peso-edad-altura-3490467.jpg?tf=1200x' alt='Con esta fórmula sabrás cuántas calorías debes comer al día para adelgazar, según tu peso, edad y altura' />
+    <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865'>Google Maps borrará los datos de tu timeline a menos que tomes medidas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-borrara-datos-timeline-menos-tomes-medidas-1389865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-no-sigue-cerrando-servicios-ahora-toca-google-maps-3408947.jpg?tf=1200x' alt='Google Maps borrará los datos de tu timeline a menos que tomes medidas' />
+    <h4><a href='https://computerhoy.com/windows/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-1390638'>¿Por qué tanta gente odia Windows 11 y se resiste a abandonar Windows 10?</a></h4>
+    <a href='https://computerhoy.com/windows/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-1390638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-3494309.jpg?tf=1200x' alt='¿Por qué tanta gente odia Windows 11 y se resiste a abandonar Windows 10?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
-    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
+    <h4><a href='https://computerhoy.com/android/puede-ser-mejor-movil-redmi-momento-precio-ha-caido-picado-1390600'>Puede ser el mejor móvil Redmi del momento y su precio ha caído en picado</a></h4>
+    <a href='https://computerhoy.com/android/puede-ser-mejor-movil-redmi-momento-precio-ha-caido-picado-1390600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-redmi-13-pro-plus-3493548.jpg?tf=1200x' alt='Puede ser el mejor móvil Redmi del momento y su precio ha caído en picado' />
     </a>
 </div>
 
