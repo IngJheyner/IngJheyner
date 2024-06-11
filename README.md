@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
+    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
     <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/entretenimiento/pluto-tv-que-es-y-configuracion-881079'>Pluto TV: qué es, cómo funciona y todo lo que debes saber para ver la TV gratis</a></h4>
-    <a href='https://computerhoy.com/reportajes/entretenimiento/pluto-tv-que-es-y-configuracion-881079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/pluto-tv-3307122.jpg?tf=1200x' alt='Pluto TV: qué es, cómo funciona y todo lo que debes saber para ver la TV gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
-    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
     </a>
 </div>
 
