@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815'>ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM</a></h4>
+    <a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tinker-board-r20-3442268.jpg?tf=1200x' alt='ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487'>Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio</a></h4>
     <a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosmonauta-primer-ser-humano-ha-pasado-1000-dias-espacio-3489351.jpg?tf=1200x' alt='Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469'>Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles</a></h4>
     <a href='https://computerhoy.com/tecnologia/desarrollan-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-1390469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/desarrollan-primera-impresora-3d-pequena-mundo-chip-fotonico-piezas-moviles-3488750.jpg?tf=1200x' alt='Desarrollan la impresora 3D más pequeña del mundo con chip fotónico y sin piezas móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477'>TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación</a></h4>
-    <a href='https://computerhoy.com/apps/tdtchannels-renueva-llegan-canales-tv-radio-gratis-registro-ni-instalacion-1390477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels se renueva: llegan más canales de TV y radio gratis, sin registro ni instalación' />
     </a>
 </div>
 
