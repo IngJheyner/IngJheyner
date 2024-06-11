@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231'>El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano</a></h4>
-    <a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-3478723.jpg?tf=1200x' alt='El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano' />
+    <h4><a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345'>Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-domesticos-3486150.jpg?tf=1200x' alt='Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
-    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852'>Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-guardar-datos-timeline-google-maps-antes-google-elimine-1389852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-maps-3411523.jpg?tf=1200x' alt='Cómo guardar los datos de tu timeline de Google Maps antes de que Google los elimine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
+    <h4><a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327'>YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-limitando-publicaciones-muestran-armas-3485982.jpg?tf=1200x' alt='YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos' />
     </a>
 </div>
 
