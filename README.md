@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
+    <h4><a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216'>Las 6 mejores webs para escanear y eliminar virus gratis en tu PC </a></h4>
+    <a href='https://computerhoy.com/internet/mejores-webs-escanear-eliminar-virus-gratis-1356216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/6-mejores-webs-escanear-eliminar-virus-gratis-3260003.jpg?tf=1200x' alt='Las 6 mejores webs para escanear y eliminar virus gratis en tu PC ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444'>Cómo poner contraseña a las fotos en un móvil Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-poner-contrasena-fotos-movil-android-1388444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/contrasena-segura-3390420.jpg?tf=1200x' alt='Cómo poner contraseña a las fotos en un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-1390638'>¿Por qué tanta gente odia Windows 11 y se resiste a abandonar Windows 10?</a></h4>
-    <a href='https://computerhoy.com/windows/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-1390638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tanta-gente-odia-windows-11-resiste-abandonar-windows-10-3494309.jpg?tf=1200x' alt='¿Por qué tanta gente odia Windows 11 y se resiste a abandonar Windows 10?' />
+    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
+    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/puede-ser-mejor-movil-redmi-momento-precio-ha-caido-picado-1390600'>Puede ser el mejor móvil Redmi del momento y su precio ha caído en picado</a></h4>
-    <a href='https://computerhoy.com/android/puede-ser-mejor-movil-redmi-momento-precio-ha-caido-picado-1390600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/xiaomi-redmi-13-pro-plus-3493548.jpg?tf=1200x' alt='Puede ser el mejor móvil Redmi del momento y su precio ha caído en picado' />
+    <h4><a href='https://computerhoy.com/entretenimiento/todos-canales-tiene-pluto-tv-1390144'>Todos los canales que tiene Pluto TV</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/todos-canales-tiene-pluto-tv-1390144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/todos-canales-tiene-pluto-tv-3468773.jpg?tf=1200x' alt='Todos los canales que tiene Pluto TV' />
     </a>
 </div>
 
