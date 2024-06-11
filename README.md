@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711'>Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión</a></h4>
-    <a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/douglas-crockford-creador-formato-datos-json-3457020.jpg?tf=1200x' alt='Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión' />
+    <h4><a href='https://computerhoy.com/windows/windows-recall-como-funciona-deberias-desactivarlo-1390419'>Qué es Windows Recall, cómo funciona y por qué deberías desactivarlo </a></h4>
+    <a href='https://computerhoy.com/windows/windows-recall-como-funciona-deberias-desactivarlo-1390419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Qué es Windows Recall, cómo funciona y por qué deberías desactivarlo ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-llames-inteligencia-artificial-llamalo-inteligencia-apple-entra-era-ia-1390432'>No lo llames inteligencia artificial, llámalo inteligencia: Apple entra en su era de la IA</a></h4>
-    <a href='https://computerhoy.com/apple/no-llames-inteligencia-artificial-llamalo-inteligencia-apple-entra-era-ia-1390432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-intelligence-3488906.jpg?tf=1200x' alt='No lo llames inteligencia artificial, llámalo inteligencia: Apple entra en su era de la IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914'>Cómo llevar tus listas de reproducción de Spotify a Apple Music</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-llevar-listas-reproduccion-spotify-apple-music-1384914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-llevar-listas-reproduccion-spotify-apple-music-3309714.jpg?tf=1200x' alt='Cómo llevar tus listas de reproducción de Spotify a Apple Music' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815'>ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM</a></h4>
-    <a href='https://computerhoy.com/tecnologia/asus-mini-pc-alternativa-raspberry-pi-1368815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/asus-tinker-board-r20-3442268.jpg?tf=1200x' alt='ASUS va a por las Raspberry Pi: vende un PC del mismo estilo y con 8GB de RAM' />
+    <h4><a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406'>El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sexo-da-giro-180-grados-ia-realidad-virtual-novias-chatbots-ocurriendo-expertos-responden-1389406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tecnologia-sexo-3459658.jpg?tf=1200x' alt='El sexo da un giro de 180 grados: IA, realidad virtual, novias chatbots... ¿Qué está ocurriendo? Expertos responden' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487'>Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/cosmonauta-ruso-primer-ser-humano-1000-dias-espacio-1390487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosmonauta-primer-ser-humano-ha-pasado-1000-dias-espacio-3489351.jpg?tf=1200x' alt='Este cosmonauta es el primer ser humano que ha pasado 1.000 días en el espacio' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588'>¿Quienes son los BloomerX y cuál es su relación con la tecnología?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-son-bloomerx-cual-relacion-tecnologia-1389588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quieres-son-bloomerx-cual-relacion-tecnologia-3444331.jpg?tf=1200x' alt='¿Quienes son los BloomerX y cuál es su relación con la tecnología?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481'>Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo</a></h4>
-    <a href='https://computerhoy.com/redes/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-1390481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nokia-realiza-primera-llamada-telefonica-audio-espacial-3d-mundo-3489207.jpg?tf=1200x' alt='Nokia realiza la primera llamada telefónica con audio espacial 3D del mundo' />
+    <h4><a href='https://computerhoy.com/tecnologia/microsoft-365-rebaja-precios-incluye-antivirus-nube-1346826'>Microsoft revienta precios: todo Office y 1TB de almacenamiento con antivirus gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/microsoft-365-rebaja-precios-incluye-antivirus-nube-1346826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/aplicaciones-microsoft-3243630.jpg?tf=1200x' alt='Microsoft revienta precios: todo Office y 1TB de almacenamiento con antivirus gratis' />
     </a>
 </div>
 
