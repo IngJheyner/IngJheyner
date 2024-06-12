@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062'>Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conga-rockstar-10000-nebula-3442022.jpg?tf=1200x' alt='Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
@@ -58,33 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599'>Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-pueden-piratear-3493396.jpg?tf=1200x' alt='Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear' />
+    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686'>El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-3496676.jpg?tf=1200x' alt='El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751'>Las mejores frases para dar los buenos días en WhatsApp</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-frases-dar-buenos-dias-whatsapp-3470659.jpg?tf=1200x' alt='Las mejores frases para dar los buenos días en WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
-    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681'>Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo' />
+    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-barato-aliexpress-zeblade-oferta-1346778'>Este smartwatch parece carísimo, pero AliExpress lo está vendiendo por apenas 30 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/smartwatch-barato-aliexpress-zeblade-oferta-1346778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Este smartwatch parece carísimo, pero AliExpress lo está vendiendo por apenas 30 euros' />
     </a>
 </div>
 
