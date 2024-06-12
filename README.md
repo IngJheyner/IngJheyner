@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/tiene-cuenta-tinder-como-saber-1387535'>Así puedes saber si alguien tiene cuenta en Tinder o no</a></h4>
-    <a href='https://computerhoy.com/tutoriales/tiene-cuenta-tinder-como-saber-1387535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='Así puedes saber si alguien tiene cuenta en Tinder o no' />
+    <h4><a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119'>6 ajustes secretos de Chrome en Android que deberías activar ahora mismo</a></h4>
+    <a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-3467583.jpg?tf=1200x' alt='6 ajustes secretos de Chrome en Android que deberías activar ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
     </a>
 </div>
 
