@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323'>La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/musica-instagram-no-funciona-stories-4-metodos-solucionarlo-1358323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/musica-instagram-no-funciona-stories-4-metodos-efectivos-solucionarlo-3263640.jpg?tf=1200x' alt='La música de Instagram no funciona en las Stories: 4 métodos efectivos para solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702'>Esta VPN exprime tu fibra al máximo y tiene IP dedicada, y barata: probamos CyberGhost y este es nuestro veredicto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Esta VPN exprime tu fibra al máximo y tiene IP dedicada, y barata: probamos CyberGhost y este es nuestro veredicto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751'>Las mejores frases para dar los buenos días en WhatsApp</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/mejores-frases-dar-buenos-dias-whatsapp-1072751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mejores-frases-dar-buenos-dias-whatsapp-3470659.jpg?tf=1200x' alt='Las mejores frases para dar los buenos días en WhatsApp' />
+    <h4><a href='https://computerhoy.com/apple/como-abrir-terminal-mac-finder-launchpad-spotlight-1356089'>Cómo abrir Terminal en Mac desde Finder, Launchpad o Spotlight</a></h4>
+    <a href='https://computerhoy.com/apple/como-abrir-terminal-mac-finder-launchpad-spotlight-1356089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-abrir-terminal-mac-finder-launchpad-spotlight-3259801.jpg?tf=1200x' alt='Cómo abrir Terminal en Mac desde Finder, Launchpad o Spotlight' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/smartwatch-barato-aliexpress-zeblade-oferta-1346778'>Este smartwatch parece carísimo, pero AliExpress lo está vendiendo por apenas 30 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/smartwatch-barato-aliexpress-zeblade-oferta-1346778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zeblade-ares-3-pro-3243542.jpg?tf=1200x' alt='Este smartwatch parece carísimo, pero AliExpress lo está vendiendo por apenas 30 euros' />
+    <h4><a href='https://computerhoy.com/analisis/television-hisense-me-ha-reconciliado-videojuegos-pantalla-grande-mini-led-resolucion-4k-144-hz-1390105'>Esta televisión de Hisense me ha reconciliado con los videojuegos en una pantalla grande: mini-LED, resolución 4K y 144 Hz</a></h4>
+    <a href='https://computerhoy.com/analisis/television-hisense-me-ha-reconciliado-videojuegos-pantalla-grande-mini-led-resolucion-4k-144-hz-1390105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hisense-miniled-tv-u8nq-3487671.jpg?tf=1200x' alt='Esta televisión de Hisense me ha reconciliado con los videojuegos en una pantalla grande: mini-LED, resolución 4K y 144 Hz' />
     </a>
 </div>
 
