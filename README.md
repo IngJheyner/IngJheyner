@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599'>Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-pueden-piratear-3493396.jpg?tf=1200x' alt='Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686'>El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"</a></h4>
     <a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-3496676.jpg?tf=1200x' alt='El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681'>Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo</a></h4>
     <a href='https://computerhoy.com/apps/ya-disponible-android-auto-122-novedades-como-actualizar-ahora-mismo-1390681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Ya disponible Android Auto 12.2: novedades y cómo actualizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
     </a>
 </div>
 
