@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
+    <h4><a href='https://computerhoy.com/tecnologia/olvida-google-drive-nube-100-privada-barata-puedes-probar-gratis-1389514'>Olvida Google Drive: este nube es 100% privada, más barata y la puedes probar gratis</a></h4>
+    <a href='https://computerhoy.com/tecnologia/olvida-google-drive-nube-100-privada-barata-puedes-probar-gratis-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Olvida Google Drive: este nube es 100% privada, más barata y la puedes probar gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130'>Cómo comprobar si la seguridad de tu cuenta de correo está comprometida y qué hacer para protegerla</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-comprobar-correo-ha-filtrado-internet-hacer-proteger-cuenta-3264842.jpg?tf=1200x' alt='Cómo comprobar si la seguridad de tu cuenta de correo está comprometida y qué hacer para protegerla' />
+    <h4><a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714'>YouTube Music resucita una función que Spotify tiró a la basura y la mejora</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg?tf=1200x' alt='YouTube Music resucita una función que Spotify tiró a la basura y la mejora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
+    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
+    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/robo-lavadora-ingresos-famoso-youtuber-1389925'>Así le robó una lavadora los ingresos a un famoso YouTuber </a></h4>
-    <a href='https://computerhoy.com/internet/robo-lavadora-ingresos-famoso-youtuber-1389925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/senor-mayor-lavando-ropa-3459293.jpg?tf=1200x' alt='Así le robó una lavadora los ingresos a un famoso YouTuber ' />
+    <h4><a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007'>Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops</a></h4>
+    <a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-escondidos-3464229.jpg?tf=1200x' alt='Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops' />
     </a>
 </div>
 
