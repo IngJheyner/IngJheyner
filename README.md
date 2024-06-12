@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104'>Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad</a></h4>
-    <a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
-    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
+    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
+    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2024 (lista actualizada)</a></h4>
-    <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-netflix-2024-lista-actualizada-3498763.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2024 (lista actualizada)' />
+    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
+    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
     </a>
 </div>
 
