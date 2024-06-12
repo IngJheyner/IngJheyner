@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115'>¿Quién es Elon Musk? Twitter, Tesla, Space X: éxitos y fracasos</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/elon-musk-3265659.jpg?tf=1200x' alt='¿Quién es Elon Musk? Twitter, Tesla, Space X: éxitos y fracasos' />
+    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
+    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021'>Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después' />
+    <h4><a href='https://computerhoy.com/moviles/honor-presenta-familia-honor-200-da-salto-retrato-ia-anade-modelo-pro-llega-primera-vez-espana-1390427'>Honor presenta la familia Honor 200, que da un salto en retrato e IA y añade un modelo Pro que llega por primera vez a España</a></h4>
+    <a href='https://computerhoy.com/moviles/honor-presenta-familia-honor-200-da-salto-retrato-ia-anade-modelo-pro-llega-primera-vez-espana-1390427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3492771.jpg?tf=1200x' alt='Honor presenta la familia Honor 200, que da un salto en retrato e IA y añade un modelo Pro que llega por primera vez a España' />
     </a>
 </div>
 
