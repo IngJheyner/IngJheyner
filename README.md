@@ -66,6 +66,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
+    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875'>Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze</a></h4>
     <a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-3503356.jpg?tf=1200x' alt='Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ajustes-rapidos-mejorar-calidad-imagen-tv-1390137'>5 ajustes rápidos que mejoran la calidad de imagen de tu Smart TV al instante</a></h4>
     <a href='https://computerhoy.com/tv/ajustes-rapidos-mejorar-calidad-imagen-tv-1390137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-ajustes-rapidos-mejorar-calidad-imagen-smart-tv-3468172.jpg?tf=1200x' alt='5 ajustes rápidos que mejoran la calidad de imagen de tu Smart TV al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
     </a>
 </div>
 
