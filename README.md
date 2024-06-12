@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702'>Esta VPN exprime tu fibra al máximo y tiene IP dedicada, y barata: probamos CyberGhost y este es nuestro veredicto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/cyberghost-vpn-analisis-opinion-merece-pena-1388702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Esta VPN exprime tu fibra al máximo y tiene IP dedicada, y barata: probamos CyberGhost y este es nuestro veredicto' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130'>Cómo comprobar si la seguridad de tu cuenta de correo está comprometida y qué hacer para protegerla</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-saber-correo-ha-filtrado-internet-hacer-proteger-cuenta-1359130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-comprobar-correo-ha-filtrado-internet-hacer-proteger-cuenta-3264842.jpg?tf=1200x' alt='Cómo comprobar si la seguridad de tu cuenta de correo está comprometida y qué hacer para protegerla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-abrir-terminal-mac-finder-launchpad-spotlight-1356089'>Cómo abrir Terminal en Mac desde Finder, Launchpad o Spotlight</a></h4>
-    <a href='https://computerhoy.com/apple/como-abrir-terminal-mac-finder-launchpad-spotlight-1356089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-abrir-terminal-mac-finder-launchpad-spotlight-3259801.jpg?tf=1200x' alt='Cómo abrir Terminal en Mac desde Finder, Launchpad o Spotlight' />
+    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/television-hisense-me-ha-reconciliado-videojuegos-pantalla-grande-mini-led-resolucion-4k-144-hz-1390105'>Esta televisión de Hisense me ha reconciliado con los videojuegos en una pantalla grande: mini-LED, resolución 4K y 144 Hz</a></h4>
-    <a href='https://computerhoy.com/analisis/television-hisense-me-ha-reconciliado-videojuegos-pantalla-grande-mini-led-resolucion-4k-144-hz-1390105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hisense-miniled-tv-u8nq-3487671.jpg?tf=1200x' alt='Esta televisión de Hisense me ha reconciliado con los videojuegos en una pantalla grande: mini-LED, resolución 4K y 144 Hz' />
+    <h4><a href='https://computerhoy.com/internet/robo-lavadora-ingresos-famoso-youtuber-1389925'>Así le robó una lavadora los ingresos a un famoso YouTuber </a></h4>
+    <a href='https://computerhoy.com/internet/robo-lavadora-ingresos-famoso-youtuber-1389925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/senor-mayor-lavando-ropa-3459293.jpg?tf=1200x' alt='Así le robó una lavadora los ingresos a un famoso YouTuber ' />
     </a>
 </div>
 
