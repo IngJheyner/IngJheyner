@@ -58,6 +58,14 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686'>El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-1390686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ceo-hp-trabajo-hibrido-acabando-negocio-impresoras-3496676.jpg?tf=1200x' alt='El CEO de HP: "El trabajo híbrido está acabando con el negocio de las impresoras"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
     <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966'>Windows 12 se aleja y Microsoft tiene buenas razones para ello</a></h4>
-    <a href='https://computerhoy.com/windows/windows-12-aleja-microsoft-tiene-buenas-razones-ello-1389966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-12-aleja-microsoft-tiene-buenas-razones-ello-3460732.jpg?tf=1200x' alt='Windows 12 se aleja y Microsoft tiene buenas razones para ello' />
     </a>
 </div>
 
