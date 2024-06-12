@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323'>Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nina-tecnologia-3485498.jpg?tf=1200x' alt='Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730'>Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud</a></h4>
-    <a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-s22-radiacion-3499793.jpg?tf=1200x' alt='Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud' />
+    <h4><a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752'>El invento inspirado en Star Wars que convierte el aire en agua</a></h4>
+    <a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-potable-star-wars-3499632.jpg?tf=1200x' alt='El invento inspirado en Star Wars que convierte el aire en agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
-    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    <h4><a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327'>YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-limitando-publicaciones-muestran-armas-usuarios-impresoras-3d-no-estan-contentos-1390327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-limitando-publicaciones-muestran-armas-3485982.jpg?tf=1200x' alt='YouTube está limitando las publicaciones que muestran armas: los usuarios de impresoras 3D no están contentos' />
     </a>
 </div>
 
