@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/bascula-garmin-fiable-da-montones-datos-pudimos-probar-ahora-rebajadisima-1390732'>La báscula de Garmin sí es fiable y da montones de datos: la pudimos probar y ahora está rebajadísima</a></h4>
-    <a href='https://computerhoy.com/tecnologia/bascula-garmin-fiable-da-montones-datos-pudimos-probar-ahora-rebajadisima-1390732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/garmin-index-s2-3499486.jpg?tf=1200x' alt='La báscula de Garmin sí es fiable y da montones de datos: la pudimos probar y ahora está rebajadísima' />
+    <h4><a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021'>Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después</a></h4>
+    <a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/steve-jobs-persona-inteligente-habilidad-1390076'>Steve Jobs te hubiera considerado una persona inteligente si tienes esta habilida</a></h4>
-    <a href='https://computerhoy.com/apple/steve-jobs-persona-inteligente-habilidad-1390076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/metodo-pregunta-steve-jobs-no-desviarse-camino-exito-3215532.jpg?tf=1200x' alt='Steve Jobs te hubiera considerado una persona inteligente si tienes esta habilida' />
+    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
+    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
-    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
+    <h4><a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019'>AMD se la juega y abandona definitivamente a Windows 10</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='AMD se la juega y abandona definitivamente a Windows 10' />
     </a>
 </div>
 
