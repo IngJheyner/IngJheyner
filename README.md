@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714'>YouTube Music resucita una función que Spotify tiró a la basura y la mejora</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg?tf=1200x' alt='YouTube Music resucita una función que Spotify tiró a la basura y la mejora' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ransomware-2023-fue-record-2024-toma-tintes-oscuros-peligrosos-1390720'>Ataques de 'ransomware': si 2023 fue de récord, 2024 toma tintes más oscuros y peligrosos</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ataques-ransomware-2023-fue-record-2024-toma-tintes-oscuros-peligrosos-1390720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ransomware-ciberseguridad-3499416.jpg?tf=1200x' alt='Ataques de 'ransomware': si 2023 fue de récord, 2024 toma tintes más oscuros y peligrosos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
-    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
+    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007'>Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops</a></h4>
-    <a href='https://computerhoy.com/tecnologia/2000-usb-ocultos-mundo-curiosa-historia-detras-dead-drops-1390007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-escondidos-3464229.jpg?tf=1200x' alt='Más de 2.000 USB ocultos en el mundo: la curiosa historia detrás de Dead Drops' />
+    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
+    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
     </a>
 </div>
 
