@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/olvida-google-drive-nube-100-privada-barata-puedes-probar-gratis-1389514'>Olvida Google Drive: este nube es 100% privada, más barata y la puedes probar gratis</a></h4>
-    <a href='https://computerhoy.com/tecnologia/olvida-google-drive-nube-100-privada-barata-puedes-probar-gratis-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordlocker-3493544.jpg?tf=1200x' alt='Olvida Google Drive: este nube es 100% privada, más barata y la puedes probar gratis' />
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
+    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119'>6 ajustes secretos de Chrome en Android que deberías activar ahora mismo</a></h4>
-    <a href='https://computerhoy.com/google/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-1390119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/6-ajustes-secretos-chrome-android-deberias-activar-ahora-mismo-3467583.jpg?tf=1200x' alt='6 ajustes secretos de Chrome en Android que deberías activar ahora mismo' />
+    <h4><a href='https://computerhoy.com/apps/bizum-elimina-limites-molestos-mayoria-bancos-espanoles-1390877'>Bizum elimina uno de sus límites más molestos en la mayoría de bancos españoles</a></h4>
+    <a href='https://computerhoy.com/apps/bizum-elimina-limites-molestos-mayoria-bancos-espanoles-1390877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hacer-bizum-3281456.jpg?tf=1200x' alt='Bizum elimina uno de sus límites más molestos en la mayoría de bancos españoles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
+    <h4><a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878'>Arm pide que todos los procesadores Snapdragon X Elite sean destruidos</a></h4>
+    <a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='Arm pide que todos los procesadores Snapdragon X Elite sean destruidos' />
     </a>
 </div>
 
