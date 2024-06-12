@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
+    <h4><a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104'>Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad</a></h4>
+    <a href='https://computerhoy.com/android/navegador-android-igual-chrome-diferencia-respeta-privacidad-1390104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/navegador-android-igual-chrome-diferencia-respeta-privacidad-3466689.jpg?tf=1200x' alt='Este navegador para Android es igual que Chrome con una diferencia: respeta tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
+    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
+    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/honor-presenta-familia-honor-200-da-salto-retrato-ia-anade-modelo-pro-llega-primera-vez-espana-1390427'>Honor presenta la familia Honor 200, que da un salto en retrato e IA y añade un modelo Pro que llega por primera vez a España</a></h4>
-    <a href='https://computerhoy.com/moviles/honor-presenta-familia-honor-200-da-salto-retrato-ia-anade-modelo-pro-llega-primera-vez-espana-1390427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3492771.jpg?tf=1200x' alt='Honor presenta la familia Honor 200, que da un salto en retrato e IA y añade un modelo Pro que llega por primera vez a España' />
+    <h4><a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2024 (lista actualizada)</a></h4>
+    <a href='https://computerhoy.com/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/codigos-secretos-netflix-2024-lista-actualizada-3498763.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2024 (lista actualizada)' />
     </a>
 </div>
 
