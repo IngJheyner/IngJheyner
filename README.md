@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115'>¿Quién es Elon Musk? Twitter, Tesla, Space X: éxitos y fracasos</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/quien-elon-musk-paypal-tesla-space-x-historia-exitos-fracasos-1133115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/elon-musk-3265659.jpg?tf=1200x' alt='¿Quién es Elon Musk? Twitter, Tesla, Space X: éxitos y fracasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021'>Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después</a></h4>
     <a href='https://computerhoy.com/tecnologia/sony-elimina-gran-mentira-publicidad-playstation-1390021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/playstation-5-ps5-3216088.jpg?tf=1200x' alt='Sony "recorta" las especificaciones técnicas de PlayStation 5, cuatro años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
-    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019'>AMD se la juega y abandona definitivamente a Windows 10</a></h4>
-    <a href='https://computerhoy.com/tecnologia/amd-juega-abandona-definitivamente-windows-10-1390019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/intel-amd-podrian-convertirse-mejores-aliados-microsoft-acabar-windows-10-3312271.jpg?tf=1200x' alt='AMD se la juega y abandona definitivamente a Windows 10' />
     </a>
 </div>
 
