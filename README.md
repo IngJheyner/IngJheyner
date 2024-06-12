@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ataques-ransomware-2023-fue-record-2024-toma-tintes-oscuros-peligrosos-1390720'>Ataques de 'ransomware': si 2023 fue de récord, 2024 toma tintes más oscuros y peligrosos</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ataques-ransomware-2023-fue-record-2024-toma-tintes-oscuros-peligrosos-1390720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ransomware-ciberseguridad-3499416.jpg?tf=1200x' alt='Ataques de 'ransomware': si 2023 fue de récord, 2024 toma tintes más oscuros y peligrosos' />
+    <h4><a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323'>Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nina-tecnologia-3485498.jpg?tf=1200x' alt='Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
+    <h4><a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730'>Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud</a></h4>
+    <a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-s22-radiacion-3499793.jpg?tf=1200x' alt='Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
-    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
+    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
+    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
     </a>
 </div>
 
