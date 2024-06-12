@@ -66,25 +66,25 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/tiene-cuenta-tinder-como-saber-1387535'>Así puedes saber si alguien tiene cuenta en Tinder o no</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tiene-cuenta-tinder-como-saber-1387535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-saber-alguien-tiene-cuenta-tinder-3351092.jpg?tf=1200x' alt='Así puedes saber si alguien tiene cuenta en Tinder o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
-    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
     </a>
 </div>
 
