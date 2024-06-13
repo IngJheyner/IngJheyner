@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/akaso-brave-7-camara-sumergible-barata-1359969'>Esta cámara sumergible es la rival china de GoPro, y es muchísimo más barata</a></h4>
-    <a href='https://computerhoy.com/tecnologia/akaso-brave-7-camara-sumergible-barata-1359969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/akaso-brave-7-3441956.jpg?tf=1200x' alt='Esta cámara sumergible es la rival china de GoPro, y es muchísimo más barata' />
+    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin tener una antena en cualquier televisor incluso si no es Smart TV</a></h4>
+    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin tener una antena en cualquier televisor incluso si no es Smart TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165'>Usan el WiFi para medir las pulsaciones y la respiración de las personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usan-wifi-medir-pulsaciones-respiracion-personas-3470411.jpg?tf=1200x' alt='Usan el WiFi para medir las pulsaciones y la respiración de las personas' />
+    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
+    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
-    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
+    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
-    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
+    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355'>El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/apple-ipad-air-m2-analisis-opinion-1390833'>He probado el iPad Air de 13 pulgadas y este sí es el iPad grande que buscabas</a></h4>
-    <a href='https://computerhoy.com/analisis/apple-ipad-air-m2-analisis-opinion-1390833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502062.jpg?tf=1200x' alt='He probado el iPad Air de 13 pulgadas y este sí es el iPad grande que buscabas' />
+    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
+    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
     </a>
 </div>
 
