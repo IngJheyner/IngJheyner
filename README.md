@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883'>Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/empresa-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-3503355.jpg?tf=1200x' alt='Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
+    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082'>Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC</a></h4>
+    <a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg?tf=1200x' alt='Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/como-ver-tdt-pantalla-coche-android-auto-1391053'>Cómo ver la TDT en la pantalla del coche con Android Auto</a></h4>
+    <a href='https://computerhoy.com/android/como-ver-tdt-pantalla-coche-android-auto-1391053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ver-tdt-pantalla-coche-android-auto-3510325.jpg?tf=1200x' alt='Cómo ver la TDT en la pantalla del coche con Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
-    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/estas-versiones-windows-10-dejan-existir-microsoft-te-obligara-actualizarte-1391072'>Estas versiones de Windows 10 dejan de existir y Microsoft te obligará a actualizarte</a></h4>
-    <a href='https://computerhoy.com/windows/estas-versiones-windows-10-dejan-existir-microsoft-te-obligara-actualizarte-1391072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Estas versiones de Windows 10 dejan de existir y Microsoft te obligará a actualizarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071'>Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025</a></h4>
-    <a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/viajar-avion-3509773.jpg?tf=1200x' alt='Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025' />
     </a>
 </div>
 
