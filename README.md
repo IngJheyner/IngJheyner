@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935'>Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos</a></h4>
     <a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299914.jpg?tf=1200x' alt='Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
     <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737'>¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-empresas-3500266.jpg?tf=1200x' alt='¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957'>España entre el pódium de las IPTV (y no es para estar orgulloso)</a></h4>
-    <a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='España entre el pódium de las IPTV (y no es para estar orgulloso)' />
     </a>
 </div>
 
