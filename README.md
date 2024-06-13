@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
+    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984'>¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?</a></h4>
+    <a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-3463334.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
     <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
     <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
-    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090'>Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-3416458.jpg?tf=1200x' alt='Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)' />
     </a>
 </div>
 
