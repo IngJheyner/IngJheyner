@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071'>Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025</a></h4>
     <a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/viajar-avion-3509773.jpg?tf=1200x' alt='Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
-    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
     </a>
 </div>
 
