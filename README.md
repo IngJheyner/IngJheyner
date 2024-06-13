@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
+    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad' />
+    <h4><a href='https://computerhoy.com/windows/estas-versiones-windows-10-dejan-existir-microsoft-te-obligara-actualizarte-1391072'>Estas versiones de Windows 10 dejan de existir y Microsoft te obligará a actualizarte</a></h4>
+    <a href='https://computerhoy.com/windows/estas-versiones-windows-10-dejan-existir-microsoft-te-obligara-actualizarte-1391072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/windows-10-3375157.jpg?tf=1200x' alt='Estas versiones de Windows 10 dejan de existir y Microsoft te obligará a actualizarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
+    <h4><a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071'>Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025</a></h4>
+    <a href='https://computerhoy.com/life/etias-como-conseguir-nuevo-documento-sera-obligatorio-viajar-europa-2025-1391071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/viajar-avion-3509773.jpg?tf=1200x' alt='Qué es ETIAS y cómo conseguir el nuevo documento que será obligatorio para viajar por Europa en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
     </a>
 </div>
 
