@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/electricidad-alla-adonde-vayas-precio-generador-solar-desploma-amazon-1390916'>Electricidad allá adónde vayas: el precio de este generador solar se desploma en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/electricidad-alla-adonde-vayas-precio-generador-solar-desploma-amazon-1390916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estacion-carga-bluetti-eb3a-3257970.jpg?tf=1200x' alt='Electricidad allá adónde vayas: el precio de este generador solar se desploma en Amazon' />
+    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
-    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
+    <h4><a href='https://computerhoy.com/apple-watch-fin-recibiran-funciones-pedidas-gracias-watch-os-11-1390923'>Los Apple Watch por fin recibirán una de las funciones más pedidas gracias a watch OS 11</a></h4>
+    <a href='https://computerhoy.com/apple-watch-fin-recibiran-funciones-pedidas-gracias-watch-os-11-1390923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Los Apple Watch por fin recibirán una de las funciones más pedidas gracias a watch OS 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509'>¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chatbots-trabajo-3492135.jpg?tf=1200x' alt='¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA' />
+    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-reparto-drones-cima-everest-video-1390507'>Así fue el primer reparto con drones en la cima del Everest</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-reparto-drones-cima-everest-video-1390507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718085969543-3491837.jpg?tf=1200x' alt='Así fue el primer reparto con drones en la cima del Everest' />
+    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
+    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708'>El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor</a></h4>
-    <a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor' />
+    <h4><a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090'>Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-1389090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estas-son-ciudades-tecnologicas-mundo-algunas-llevan-anos-ventaja-3416458.jpg?tf=1200x' alt='Estas son las ciudades más tecnológicas del mundo (y algunas llevan años de ventaja)' />
     </a>
 </div>
 
