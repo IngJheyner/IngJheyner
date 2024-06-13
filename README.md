@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
-    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    <h4><a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744'>Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena</a></h4>
+    <a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984'>¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?</a></h4>
-    <a href='https://computerhoy.com/pc/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-1389984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-temperatura-ideal-tiene-funcionar-tarjeta-grafica-3463334.jpg?tf=1200x' alt='¿Cuál es la temperatura ideal a la que tiene que funcionar una tarjeta gráfica?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple-watch-fin-recibiran-funciones-pedidas-gracias-watch-os-11-1390923'>Los Apple Watch por fin recibirán una de las funciones más pedidas gracias a watch OS 11</a></h4>
-    <a href='https://computerhoy.com/apple-watch-fin-recibiran-funciones-pedidas-gracias-watch-os-11-1390923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-watch-3291677.jpg?tf=1200x' alt='Los Apple Watch por fin recibirán una de las funciones más pedidas gracias a watch OS 11' />
+    <h4><a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752'>El invento inspirado en Star Wars que convierte el aire en agua</a></h4>
+    <a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-potable-star-wars-3499632.jpg?tf=1200x' alt='El invento inspirado en Star Wars que convierte el aire en agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
+    <h4><a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557'>Qué significan los colores de la caja de carga de los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg?tf=1200x' alt='Qué significan los colores de la caja de carga de los AirPods de Apple' />
     </a>
 </div>
 
