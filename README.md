@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982'>Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-3507457.jpg?tf=1200x' alt='Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales' />
+    <h4><a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935'>Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos</a></h4>
+    <a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299914.jpg?tf=1200x' alt='Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
-    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
+    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
+    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940'>Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hucha-cerdito-ahorrar-3506851.jpg?tf=1200x' alt='Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros' />
+    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
+    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737'>¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-empresas-3500266.jpg?tf=1200x' alt='¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
+    <h4><a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957'>España entre el pódium de las IPTV (y no es para estar orgulloso)</a></h4>
+    <a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='España entre el pódium de las IPTV (y no es para estar orgulloso)' />
     </a>
 </div>
 
