@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921'>La obra maestra que inventó el ciberpunk tendrá serie de TV, con casi 40 años de retraso</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='La obra maestra que inventó el ciberpunk tendrá serie de TV, con casi 40 años de retraso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087'>¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062'>Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil</a></h4>
     <a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conga-rockstar-10000-nebula-3442022.jpg?tf=1200x' alt='Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
     <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599'>Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-pueden-piratear-3493396.jpg?tf=1200x' alt='Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648'>Las curiosidades que no conocías sobre Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/curiosidades-no-conocias-elon-musk-3447186.jpg?tf=1200x' alt='Las curiosidades que no conocías sobre Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883'>Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/empresa-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-3503355.jpg?tf=1200x' alt='Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU' />
     </a>
 </div>
 
