@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921'>La obra maestra que inventó el ciberpunk tendrá serie de TV, con casi 40 años de retraso</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ciberpunk-neuromante-serie-television-obra-maestra-1373921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/obra-maestra-invento-cyberpunk-inspiro-matrix-terminator-fin-tendra-serie-40-anos-despues-3290414.jpg?tf=1200x' alt='La obra maestra que inventó el ciberpunk tendrá serie de TV, con casi 40 años de retraso' />
+    <h4><a href='https://computerhoy.com/tecnologia/akaso-brave-7-camara-sumergible-barata-1359969'>Esta cámara sumergible es la rival china de GoPro, y es muchísimo más barata</a></h4>
+    <a href='https://computerhoy.com/tecnologia/akaso-brave-7-camara-sumergible-barata-1359969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/akaso-brave-7-3441956.jpg?tf=1200x' alt='Esta cámara sumergible es la rival china de GoPro, y es muchísimo más barata' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087'>¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/cuando-estrenara-segunda-temporada-fallout-amazon-prime-video-no-tiene-buenas-noticias-fans-1390087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/fallout-prime-video-3296949.jpg?tf=1200x' alt='¿Cuándo se estrenará la segunda temporada de Fallout? Amazon Prime Video no tiene buenas noticias para los fans' />
+    <h4><a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165'>Usan el WiFi para medir las pulsaciones y la respiración de las personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usan-wifi-medir-pulsaciones-respiracion-personas-1390165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usan-wifi-medir-pulsaciones-respiracion-personas-3470411.jpg?tf=1200x' alt='Usan el WiFi para medir las pulsaciones y la respiración de las personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
+    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062'>Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aspiradora-cecotec-base-autovaciado-rival-dyson-1369062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conga-rockstar-10000-nebula-3442022.jpg?tf=1200x' alt='Esta marca española pone en apuros a Dyson: su aspiradora tiene algo que pocas tienen y que hará tu vida más fácil' />
+    <h4><a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653'>Si tienes un móvil grande, cómprate este accesorio</a></h4>
+    <a href='https://computerhoy.com/moviles/tienes-movil-grande-comprate-accesorio-1389653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/moft-moviles-3447334.jpg?tf=1200x' alt='Si tienes un móvil grande, cómprate este accesorio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
-    <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
+    <h4><a href='https://computerhoy.com/analisis/apple-ipad-air-m2-analisis-opinion-1390833'>He probado el iPad Air de 13 pulgadas y este sí es el iPad grande que buscabas</a></h4>
+    <a href='https://computerhoy.com/analisis/apple-ipad-air-m2-analisis-opinion-1390833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502062.jpg?tf=1200x' alt='He probado el iPad Air de 13 pulgadas y este sí es el iPad grande que buscabas' />
     </a>
 </div>
 
