@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500'>Cómo ver la TDT sin tener una antena en cualquier televisor incluso si no es Smart TV</a></h4>
-    <a href='https://computerhoy.com/streaming/como-ver-tdt-necesidad-antena-cualquier-televisor-incluso-no-smart-tv-1193500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/tdt-2856157.jpg?tf=1200x' alt='Cómo ver la TDT sin tener una antena en cualquier televisor incluso si no es Smart TV' />
+    <h4><a href='https://computerhoy.com/tecnologia/electricidad-alla-adonde-vayas-precio-generador-solar-desploma-amazon-1390916'>Electricidad allá adónde vayas: el precio de este generador solar se desploma en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/electricidad-alla-adonde-vayas-precio-generador-solar-desploma-amazon-1390916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/estacion-carga-bluetti-eb3a-3257970.jpg?tf=1200x' alt='Electricidad allá adónde vayas: el precio de este generador solar se desploma en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404'>Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera</a></h4>
-    <a href='https://computerhoy.com/apps/descargar-app-midgt-grandes-decisiones-mi-vida-adios-olvidar-mi-cartera-1389404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aplicacion-midgt-3460429.jpg?tf=1200x' alt='Descargar la app miDGT es una de las grandes decisiones de mi vida: adiós a olvidar mi cartera' />
+    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
+    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509'>¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chatbots-trabajo-3492135.jpg?tf=1200x' alt='¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355'>El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-reparto-drones-cima-everest-video-1390507'>Así fue el primer reparto con drones en la cima del Everest</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-reparto-drones-cima-everest-video-1390507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718085969543-3491837.jpg?tf=1200x' alt='Así fue el primer reparto con drones en la cima del Everest' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
-    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
+    <h4><a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708'>El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor</a></h4>
+    <a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor' />
     </a>
 </div>
 
