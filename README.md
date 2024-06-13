@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691'>Cómo geolocalizar una dirección IP en 2024</a></h4>
+    <a href='https://computerhoy.com/noticias/internet/como-geolocalizar-direccion-ip-72691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-geolocalizar-direccion-ip-2024-3505045.jpg?tf=1200x' alt='Cómo geolocalizar una dirección IP en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
     <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744'>Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena</a></h4>
-    <a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena' />
     </a>
 </div>
 
