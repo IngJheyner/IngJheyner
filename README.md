@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
+    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939'>Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios</a></h4>
+    <a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-3506583.jpg?tf=1200x' alt='Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183'>Crean un reproductor Winamp real con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/crean-reproductor-winamp-real-raspberry-pi-1390183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/crean-reproductor-winamp-real-raspberry-pi-3472390.jpg?tf=1200x' alt='Crean un reproductor Winamp real con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721'>¿Cómo entrar a Tinder sin estar registrado?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-entrar-tinder-estar-registrado-1387721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tinder-3465365.jpg?tf=1200x' alt='¿Cómo entrar a Tinder sin estar registrado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744'>Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena</a></h4>
     <a href='https://computerhoy.com/life/claves-felicidad-albert-einstein-1249744' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/surrealista-historia-como-robaron-cerebro-albert-einstein-2859653.jpg?tf=1200x' alt='Las claves de la felicidad según Albert Einstein: 4 consejos para una vida plena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752'>El invento inspirado en Star Wars que convierte el aire en agua</a></h4>
-    <a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-potable-star-wars-3499632.jpg?tf=1200x' alt='El invento inspirado en Star Wars que convierte el aire en agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557'>Qué significan los colores de la caja de carga de los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg?tf=1200x' alt='Qué significan los colores de la caja de carga de los AirPods de Apple' />
     </a>
 </div>
 
