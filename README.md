@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935'>Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos</a></h4>
-    <a href='https://computerhoy.com/audio/estos-cascos-nos-han-encantado-son-estilosos-ahora-amazon-vende-mucho-baratos-1390935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299914.jpg?tf=1200x' alt='Estos cascos nos han encantado, son estilosos y ahora Amazon los vende mucho más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
-    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
-    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
     </a>
 </div>
 
