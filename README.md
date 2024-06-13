@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982'>Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-3507457.jpg?tf=1200x' alt='Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
+    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940'>Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hucha-cerdito-ahorrar-3506851.jpg?tf=1200x' alt='Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
     <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-fe-smartwatch-barato-salud-fitness-1391010'>Samsung Galaxy Watch FE es el nuevo smartwatch barato para los amantes de la salud y el fitness</a></h4>
-    <a href='https://computerhoy.com/tecnologia/samsung-galaxy-watch-fe-smartwatch-barato-salud-fitness-1391010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-watch-fe-3508209.jpg?tf=1200x' alt='Samsung Galaxy Watch FE es el nuevo smartwatch barato para los amantes de la salud y el fitness' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717'>Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-iptv-3499646.jpg?tf=1200x' alt='Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652'>Cómo ha hecho su fortuna Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ha-hecho-fortuna-elon-musk-3447622.jpg?tf=1200x' alt='Cómo ha hecho su fortuna Elon Musk' />
     </a>
 </div>
 
