@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
+    <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883'>Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/empresa-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-3503355.jpg?tf=1200x' alt='Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082'>Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC</a></h4>
+    <a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg?tf=1200x' alt='Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/motor/elon-musk-45000-millones-dolares-rico-tesla-1391240'>Elon Musk es hoy 45.000 millones de dólares más rico, pero el dinero no es lo más importante</a></h4>
     <a href='https://computerhoy.com/motor/elon-musk-45000-millones-dolares-rico-tesla-1391240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk es hoy 45.000 millones de dólares más rico, pero el dinero no es lo más importante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
-    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225'>Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas' />
     </a>
 </div>
 
