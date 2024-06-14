@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231'>El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano</a></h4>
+    <a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-3478723.jpg?tf=1200x' alt='El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980'>Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-3462329.jpg?tf=1200x' alt='Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928'>Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello</a></h4>
     <a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/eurocopa-2024-3506428.jpg?tf=1200x' alt='Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
     </a>
 </div>
 
