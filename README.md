@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/huawei-mayor-importador-carne-china-1391086'>¿Es Huawei el mayor importador de carne de China?: sus curiosos métodos para vender tecnología</a></h4>
-    <a href='https://computerhoy.com/tecnologia/huawei-mayor-importador-carne-china-1391086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-mayor-importador-carne-china-rumores-metodos-eludir-sanciones-disparan-3510531.jpg?tf=1200x' alt='¿Es Huawei el mayor importador de carne de China?: sus curiosos métodos para vender tecnología' />
+    <h4><a href='https://computerhoy.com/tecnologia/reloj-gamin-trail-running-rebaja-amazon-1375142'>Este reloj de Garmin supera a los Fenix con 16 días de batería y una épica rebaja que hace honor a su nombre</a></h4>
+    <a href='https://computerhoy.com/tecnologia/reloj-gamin-trail-running-rebaja-amazon-1375142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este reloj de Garmin supera a los Fenix con 16 días de batería y una épica rebaja que hace honor a su nombre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795'>Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-3500415.jpg?tf=1200x' alt='Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)' />
+    <h4><a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208'>Este robot resuelve el cubo de Rubik en menos de un segundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-resuelve-cubo-rubik-menos-segundo-3474280.jpg?tf=1200x' alt='Este robot resuelve el cubo de Rubik en menos de un segundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    <h4><a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212'>El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona</a></h4>
+    <a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-ver-funciona-3477401.jpg?tf=1200x' alt='El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sony-alpha-camara-profesional-precio-barato-1373428'>Ahorra 400 euros si vas a cambiar de cámara: esta Sony Alpha es top y ahora tiene precio de gama media</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sony-alpha-camara-profesional-precio-barato-1373428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-alpha-iii-3442113.jpg?tf=1200x' alt='Ahorra 400 euros si vas a cambiar de cámara: esta Sony Alpha es top y ahora tiene precio de gama media' />
+    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
+    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
-    <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
+    <h4><a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294'>¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?</a></h4>
+    <a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717765422519-3465962.jpg?tf=1200x' alt='¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?' />
     </a>
 </div>
 
