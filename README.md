@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982'>Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-3507457.jpg?tf=1200x' alt='Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717'>Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-iptv-3499646.jpg?tf=1200x' alt='Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
+    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/vivo-completa-gama-moviles-v40-5g-v40-lite-5g-camara-zeiss-autonomia-interminable-1390951'>Vivo completa su gama de móviles con los V40 5G y V40 Lite 5G: cámara Zeiss y autonomía interminable</a></h4>
-    <a href='https://computerhoy.com/moviles/vivo-completa-gama-moviles-v40-5g-v40-lite-5g-camara-zeiss-autonomia-interminable-1390951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3506846.jpg?tf=1200x' alt='Vivo completa su gama de móviles con los V40 5G y V40 Lite 5G: cámara Zeiss y autonomía interminable' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940'>Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hucha-cerdito-ahorrar-3506851.jpg?tf=1200x' alt='Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095'>Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-3465958.jpg?tf=1200x' alt='Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491'>Android Auto: qué es, cómo funciona, coches compatibles y mejores apps</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/android-auto-como-funciona-coches-compatibles-mejores-apps-1132491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-3513894.jpg?tf=1200x' alt='Android Auto: qué es, cómo funciona, coches compatibles y mejores apps' />
     </a>
 </div>
 
