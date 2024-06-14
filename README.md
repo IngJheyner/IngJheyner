@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535'>Cómo responder a un insulto de forma impecable, al estilo Steve Jobs</a></h4>
+    <a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-responder-insulto-forma-impecable-estilo-steve-jobs-3512097.jpg?tf=1200x' alt='Cómo responder a un insulto de forma impecable, al estilo Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
     <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
     <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262'>¿Qué es el botón WPS de tu router? Descubre su función y cómo usarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2985284.jpg?tf=1200x' alt='¿Qué es el botón WPS de tu router? Descubre su función y cómo usarlo' />
     </a>
 </div>
 
