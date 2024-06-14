@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/reloj-gamin-trail-running-rebaja-amazon-1375142'>Este reloj de Garmin supera a los Fenix con 16 días de batería y una épica rebaja que hace honor a su nombre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/reloj-gamin-trail-running-rebaja-amazon-1375142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3241634.jpg?tf=1200x' alt='Este reloj de Garmin supera a los Fenix con 16 días de batería y una épica rebaja que hace honor a su nombre' />
+    <h4><a href='https://computerhoy.com/pc/teclados-mecanicos-madera-sharkoon-1391099'>Llegan los teclados mecánicos de madera, ¿qué aportan?</a></h4>
+    <a href='https://computerhoy.com/pc/teclados-mecanicos-madera-sharkoon-1391099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/llegan-teclados-mecanicos-madera-aportan-3512228.jpg?tf=1200x' alt='Llegan los teclados mecánicos de madera, ¿qué aportan?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208'>Este robot resuelve el cubo de Rubik en menos de un segundo</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robot-resuelve-cubo-rubik-menos-segundo-1390208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robot-resuelve-cubo-rubik-menos-segundo-3474280.jpg?tf=1200x' alt='Este robot resuelve el cubo de Rubik en menos de un segundo' />
+    <h4><a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794'>Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?</a></h4>
+    <a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-3454221.jpg?tf=1200x' alt='Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212'>El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona</a></h4>
-    <a href='https://computerhoy.com/ciencia/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-1390212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejercito-griego-prueba-misteriosa-armadura-hace-3500-anos-ver-funciona-3477401.jpg?tf=1200x' alt='El ejército griego prueba una misteriosa armadura de hace 3.500 años, para ver si funciona' />
+    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
-    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
+    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
+    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294'>¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ia-hay-tanto-hype-ellos-1388294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1717765422519-3465962.jpg?tf=1200x' alt='¿Qué es un PC con IA y por qué hay tanto 'hype' con ellos?' />
+    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355'>El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT' />
     </a>
 </div>
 
