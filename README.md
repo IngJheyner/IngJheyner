@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995'>No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-experto-3507831.jpg?tf=1200x' alt='No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216'>Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-3515718.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
     <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/iphone-sigue-siendo-muy-top-ahora-tiene-150-euros-descuento-1390740'>Este iPhone sigue siendo muy top, y ahora tiene 150 euros de descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/iphone-sigue-siendo-muy-top-ahora-tiene-150-euros-descuento-1390740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/iphone-14-2963536.jpg?tf=1200x' alt='Este iPhone sigue siendo muy top, y ahora tiene 150 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737'>¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-empresas-3500266.jpg?tf=1200x' alt='¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957'>España entre el pódium de las IPTV (y no es para estar orgulloso)</a></h4>
-    <a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='España entre el pódium de las IPTV (y no es para estar orgulloso)' />
     </a>
 </div>
 
