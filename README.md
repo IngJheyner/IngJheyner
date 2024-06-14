@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535'>Cómo responder a un insulto de forma impecable, al estilo Steve Jobs</a></h4>
-    <a href='https://computerhoy.com/noticias/life/como-responder-insulto-steve-jobs-507535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-responder-insulto-forma-impecable-estilo-steve-jobs-3512097.jpg?tf=1200x' alt='Cómo responder a un insulto de forma impecable, al estilo Steve Jobs' />
+    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
+    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
-    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
+    <h4><a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717'>Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-iptv-3499646.jpg?tf=1200x' alt='Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
-    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153'>Nuevo y preocupante problema para los coches eléctricos: los cables de carga</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nuevo-preocupante-problema-coches-electricos-cables-carga-3513747.jpg?tf=1200x' alt='Nuevo y preocupante problema para los coches eléctricos: los cables de carga' />
+    <h4><a href='https://computerhoy.com/moviles/vivo-completa-gama-moviles-v40-5g-v40-lite-5g-camara-zeiss-autonomia-interminable-1390951'>Vivo completa su gama de móviles con los V40 5G y V40 Lite 5G: cámara Zeiss y autonomía interminable</a></h4>
+    <a href='https://computerhoy.com/moviles/vivo-completa-gama-moviles-v40-5g-v40-lite-5g-camara-zeiss-autonomia-interminable-1390951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vivo-v40-5g-3506846.jpg?tf=1200x' alt='Vivo completa su gama de móviles con los V40 5G y V40 Lite 5G: cámara Zeiss y autonomía interminable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
+    <h4><a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095'>Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-3465958.jpg?tf=1200x' alt='Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes' />
     </a>
 </div>
 
