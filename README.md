@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
+    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928'>Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello</a></h4>
+    <a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/eurocopa-2024-3506428.jpg?tf=1200x' alt='Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/resumen-chats-ia-busqueda-google-lens-posibles-novedades-youtube-1391111'>Resumen de chats con IA o búsqueda con Google Lens: posibles novedades en YouTube</a></h4>
-    <a href='https://computerhoy.com/google/resumen-chats-ia-busqueda-google-lens-posibles-novedades-youtube-1391111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/youtube-3305209.jpg?tf=1200x' alt='Resumen de chats con IA o búsqueda con Google Lens: posibles novedades en YouTube' />
+    <h4><a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730'>Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud</a></h4>
+    <a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-s22-radiacion-3499793.jpg?tf=1200x' alt='Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786'>No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-1389786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-pero-puedes-evitarlo-google-maps-no-siempre-recomienda-ruta-rapida-3453503.jpg?tf=1200x' alt='No es un error, pero puedes evitarlo: ¿por qué Google Maps no siempre recomienda la ruta más rápida?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/dos-anos-vpn-mitad-precio-sorpresa-esim-gratis-10gb-1390728'>Más de dos años de VPN a mitad de precio y con sorpresa: una eSIM gratis con hasta 10GB</a></h4>
-    <a href='https://computerhoy.com/tecnologia/dos-anos-vpn-mitad-precio-sorpresa-esim-gratis-10gb-1390728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Más de dos años de VPN a mitad de precio y con sorpresa: una eSIM gratis con hasta 10GB' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974'>Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-1389974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-hacer-google-chrome-guarde-todas-imagenes-jpg-png-3461456.jpg?tf=1200x' alt='Cómo hacer que Google Chrome guarde todas las imágenes en JPG o PNG' />
     </a>
 </div>
 
