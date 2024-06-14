@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
+    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
+    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
+    <h4><a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225'>Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
+    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-paraliza-funcion-estrella-windows-11-confirma-metida-pata-historica-1391234'>Microsoft paraliza la función estrella de Windows 11 y confirma una metida de pata histórica</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-paraliza-funcion-estrella-windows-11-confirma-metida-pata-historica-1391234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-3516308.jpg?tf=1200x' alt='Microsoft paraliza la función estrella de Windows 11 y confirma una metida de pata histórica' />
     </a>
 </div>
 
