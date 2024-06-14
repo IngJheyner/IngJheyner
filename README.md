@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231'>El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano</a></h4>
-    <a href='https://computerhoy.com/apple/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-1390231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estuche-carga-proximos-airpods-estarian-inspirados-vanguardista-ipod-nano-3478723.jpg?tf=1200x' alt='El estuche de carga de tus próximos Airpods estarían inspirados en un vanguardista iPod Nano' />
+    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
+    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980'>Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-1389980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-configurar-correctamente-calendario-compartido-gmail-no-poner-riesgo-privacidad-3462329.jpg?tf=1200x' alt='Cómo configurar correctamente un calendario compartido de Gmail para no poner en riesgo tu privacidad' />
+    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
+    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928'>Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello</a></h4>
-    <a href='https://computerhoy.com/tecnologia/vpn-te-permite-ver-eurocopa-rtve-gratis-estes-donde-estes-tiene-servidor-dedicado-ello-1390928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/eurocopa-2024-3506428.jpg?tf=1200x' alt='Esta VPN te permite ver la Eurocopa en RTVE gratis estés donde estés, y tiene un servidor dedicado a ello' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153'>Nuevo y preocupante problema para los coches eléctricos: los cables de carga</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nuevo-preocupante-problema-coches-electricos-cables-carga-3513747.jpg?tf=1200x' alt='Nuevo y preocupante problema para los coches eléctricos: los cables de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730'>Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud</a></h4>
-    <a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-s22-radiacion-3499793.jpg?tf=1200x' alt='Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud' />
+    <h4><a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585'>¿Qué plataformas se pueden ver con Chromecast?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/plataformas-pueden-ver-chromecast-1388585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/plataformas-pueden-ver-chromecast-3398037.jpg?tf=1200x' alt='¿Qué plataformas se pueden ver con Chromecast?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
+    <h4><a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262'>¿Qué es el botón WPS de tu router? Descubre su función y cómo usarlo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hace-boton-wps-router-descubre-funcion-como-usarlo-1216262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/router-wifi-2985284.jpg?tf=1200x' alt='¿Qué es el botón WPS de tu router? Descubre su función y cómo usarlo' />
     </a>
 </div>
 
