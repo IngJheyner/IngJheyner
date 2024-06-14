@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/teclados-mecanicos-madera-sharkoon-1391099'>Llegan los teclados mecánicos de madera, ¿qué aportan?</a></h4>
-    <a href='https://computerhoy.com/pc/teclados-mecanicos-madera-sharkoon-1391099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/llegan-teclados-mecanicos-madera-aportan-3512228.jpg?tf=1200x' alt='Llegan los teclados mecánicos de madera, ¿qué aportan?' />
+    <h4><a href='https://computerhoy.com/tecnologia/dos-anos-vpn-mitad-precio-sorpresa-esim-gratis-10gb-1390728'>Más de dos años de VPN a mitad de precio y con sorpresa: una eSIM gratis con hasta 10GB</a></h4>
+    <a href='https://computerhoy.com/tecnologia/dos-anos-vpn-mitad-precio-sorpresa-esim-gratis-10gb-1390728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Más de dos años de VPN a mitad de precio y con sorpresa: una eSIM gratis con hasta 10GB' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794'>Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?</a></h4>
-    <a href='https://computerhoy.com/pc/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-1389794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-puedes-anadir-inteligencia-artificial-ordenador-actual-3454221.jpg?tf=1200x' alt='Qué es un PC con IA: ¿puedes añadir inteligencia artificial a tu ordenador actual?' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
-    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
+    <h4><a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708'>El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor</a></h4>
+    <a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
-    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
+    <h4><a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799'>LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome</a></h4>
+    <a href='https://computerhoy.com/apps/librewolf-navegador-libre-privado-mejores-alternativas-chrome-1389799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/librewolf-navegador-libre-privado-mejores-alternativas-chrome-3454871.jpg?tf=1200x' alt='LibreWolf: el navegador libre y privado que es una de las mejores alternativas a Chrome' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355'>El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT</a></h4>
-    <a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT' />
+    <h4><a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472'>Cuál es la diferencia entre los puertos USB-C y Thunderbolt</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cual-diferencia-usb-c-thunderbolt-1189472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/usb-c-2830723.jpg?tf=1200x' alt='Cuál es la diferencia entre los puertos USB-C y Thunderbolt' />
     </a>
 </div>
 
