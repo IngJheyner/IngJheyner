@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267'>Google Play ofrecerá inicio automático de las aplicaciones recién descargadas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play ofrecerá inicio automático de las aplicaciones recién descargadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
+    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
     <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061'>Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros</a></h4>
     <a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-24mr400-b-3509290.jpg?tf=1200x' alt='Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939'>Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios</a></h4>
-    <a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-3506583.jpg?tf=1200x' alt='Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
-    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
     </a>
 </div>
 
