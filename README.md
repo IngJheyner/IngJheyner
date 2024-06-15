@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
-    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
+    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
-    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
+    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de una consola de Nintendo, y es... muy años 80</a></h4>
+    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de una consola de Nintendo, y es... muy años 80' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613'>OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085'>Cómo solucionar el error "UI del sistema no responde" en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ui-sistema-no-responde-3511966.jpg?tf=1200x' alt='Cómo solucionar el error "UI del sistema no responde" en Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pine64-mini-pc-barato-parecido-raspberry-pi-1372262'>Raspberry tiene problemas: este PC de Pine64 es igual de potente y mucho más barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pine64-mini-pc-barato-parecido-raspberry-pi-1372262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pine64-3499786.jpg?tf=1200x' alt='Raspberry tiene problemas: este PC de Pine64 es igual de potente y mucho más barato' />
+    <h4><a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688'>Con esta herramienta puedes instalar Windows 11 en cualquier PC</a></h4>
+    <a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Con esta herramienta puedes instalar Windows 11 en cualquier PC' />
     </a>
 </div>
 
