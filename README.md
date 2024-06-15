@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/android-auto-122-estable-disponible-descargar-incluye-mejoras-correcciones-1391270'>Android Auto 12.2 estable disponible para descargar e incluye mejoras y correcciones</a></h4>
-    <a href='https://computerhoy.com/apps/android-auto-122-estable-disponible-descargar-incluye-mejoras-correcciones-1391270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Android Auto 12.2 estable disponible para descargar e incluye mejoras y correcciones' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
+    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
+    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095'>Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-3465958.jpg?tf=1200x' alt='Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes' />
+    <h4><a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416'>Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación</a></h4>
+    <a href='https://computerhoy.com/redes/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-1390416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/libro-bill-gates-recomienda-leer-entender-como-ia-va-transformar-educacion-3487206.jpg?tf=1200x' alt='Este es el libro que Bill Gates recomienda leer para entender cómo la IA va a transformar la educación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267'>Google Play ofrecerá inicio automático de las aplicaciones recién descargadas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play ofrecerá inicio automático de las aplicaciones recién descargadas' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940'>Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/cuidado-cuentas-mula-nueva-estafa-ya-ha-alertado-banco-espana-puede-dejarte-ahorros-1390940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hucha-cerdito-ahorrar-3506851.jpg?tf=1200x' alt='Cuidado con las cuentas mula: la nueva estafa sobre la que ya ha alertado el Banco de España y que puede dejarte sin ahorros' />
     </a>
 </div>
 
