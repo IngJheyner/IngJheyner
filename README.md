@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
     <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
     <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281'>YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos</a></h4>
-    <a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-3522724.jpg?tf=1200x' alt='YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos' />
     </a>
 </div>
 
