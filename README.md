@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995'>No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-experto-3507831.jpg?tf=1200x' alt='No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216'>Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-3515718.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
     <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391'>Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos</a></h4>
-    <a href='https://computerhoy.com/motor/desarrollan-unas-baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-1390391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baterias-autoextinguibles-acabaran-mayores-problemas-coches-electricos-3486613.jpg?tf=1200x' alt='Desarrollan unas baterías autoextinguibles que acabarán con uno de los mayores problemas de los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957'>España entre el pódium de las IPTV (y no es para estar orgulloso)</a></h4>
-    <a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='España entre el pódium de las IPTV (y no es para estar orgulloso)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620'>Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una app</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-tener-toda-tdt-cientos-canales-todo-mundo-gratis-sola-app-1204620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/04/como-ver-canales-hd-no-estan-tdt_6.jpg?tf=1200x' alt='Cómo tener toda la TDT y cientos de canales de todo el mundo gratis en una app' />
     </a>
 </div>
 
