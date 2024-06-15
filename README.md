@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
     <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085'>Cómo solucionar el error "UI del sistema no responde" en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ui-sistema-no-responde-3511966.jpg?tf=1200x' alt='Cómo solucionar el error "UI del sistema no responde" en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688'>Con esta herramienta puedes instalar Windows 11 en cualquier PC</a></h4>
-    <a href='https://computerhoy.com/software/herramienta-podras-instalar-windows-11-cualquier-pc-1179688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/ordenador-windows-11-2917398.jpg?tf=1200x' alt='Con esta herramienta puedes instalar Windows 11 en cualquier PC' />
     </a>
 </div>
 
