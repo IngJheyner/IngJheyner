@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520'>Para qué sirve el modo cine (o filmmaker) de tu televisor y por qué deberías usarlo</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine (o filmmaker) de tu televisor y por qué deberías usarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061'>Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-24mr400-b-3509290.jpg?tf=1200x' alt='Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038'>Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps</a></h4>
-    <a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nada-studio-3465512.jpg?tf=1200x' alt='Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps' />
+    <h4><a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939'>Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios</a></h4>
+    <a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-3506583.jpg?tf=1200x' alt='Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345'>Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-domesticos-3486150.jpg?tf=1200x' alt='Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple' />
+    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
+    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153'>Nuevo y preocupante problema para los coches eléctricos: los cables de carga</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nuevo-preocupante-problema-coches-electricos-cables-carga-3513747.jpg?tf=1200x' alt='Nuevo y preocupante problema para los coches eléctricos: los cables de carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/proximo-evento-galaxy-unpacked-samsung-tendra-lugar-10-julio-presentaran-todo-1391261'>El próximo evento Galaxy Unpacked de Samsung tendrá lugar el 10 de julio y presentarán todo esto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/proximo-evento-galaxy-unpacked-samsung-tendra-lugar-10-julio-presentaran-todo-1391261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='El próximo evento Galaxy Unpacked de Samsung tendrá lugar el 10 de julio y presentarán todo esto' />
+    <h4><a href='https://computerhoy.com/android/android-15-lleva-eliminacion-aplicaciones-otro-nivel-1391263'>Android 15 lleva la eliminación de aplicaciones a otro nivel</a></h4>
+    <a href='https://computerhoy.com/android/android-15-lleva-eliminacion-aplicaciones-otro-nivel-1391263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3302213.jpg?tf=1200x' alt='Android 15 lleva la eliminación de aplicaciones a otro nivel' />
     </a>
 </div>
 
