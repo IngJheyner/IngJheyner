@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258'>Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/banco-despide-docena-empleados-usar-software-simulaba-actividad-teclado-3519831.jpg?tf=1200x' alt='Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado' />
+    <h4><a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520'>Para qué sirve el modo cine (o filmmaker) de tu televisor y por qué deberías usarlo</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/modo-cine-filmmaker-televisor-como-activarlo-1268520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/sirve-modo-cine-televisor-deberias-usarlo-3071980.jpg?tf=1200x' alt='Para qué sirve el modo cine (o filmmaker) de tu televisor y por qué deberías usarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323'>Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion</a></h4>
-    <a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nina-tecnologia-3485498.jpg?tf=1200x' alt='Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion' />
+    <h4><a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038'>Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps</a></h4>
+    <a href='https://computerhoy.com/apple/estos-dos-espanoles-dejaron-arquitectura-apple-ahora-son-referente-1390038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nada-studio-3465512.jpg?tf=1200x' alt='Cómo estos dos vallisoletanos conquistaron a Apple y a la industria de desarrollo de apps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
+    <h4><a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345'>Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/ni-nuevos-iphone-ni-mac-proximo-gran-proyecto-apple-1390345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-domesticos-3486150.jpg?tf=1200x' alt='Ni nuevos iPhone ni Mac: esta es el próximo gran proyecto de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084'>Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-3511371.jpg?tf=1200x' alt='Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series' />
+    <h4><a href='https://computerhoy.com/tecnologia/proximo-evento-galaxy-unpacked-samsung-tendra-lugar-10-julio-presentaran-todo-1391261'>El próximo evento Galaxy Unpacked de Samsung tendrá lugar el 10 de julio y presentarán todo esto</a></h4>
+    <a href='https://computerhoy.com/tecnologia/proximo-evento-galaxy-unpacked-samsung-tendra-lugar-10-julio-presentaran-todo-1391261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/render-samsung-galaxy-z-fold-5-3022300.jpg?tf=1200x' alt='El próximo evento Galaxy Unpacked de Samsung tendrá lugar el 10 de julio y presentarán todo esto' />
     </a>
 </div>
 
