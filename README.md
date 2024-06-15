@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795'>Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-3500415.jpg?tf=1200x' alt='Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)' />
+    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
+    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    <h4><a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112'>Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift</a></h4>
+    <a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/loop-experience-3466841.jpg?tf=1200x' alt='Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/sanoto-cascos-conduccion-osea-top-ventas-amazon-1360543'>Seguramente ya los has visto y son una moda fuerte: estos cascos de conducción ósea arrasan en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/sanoto-cascos-conduccion-osea-top-ventas-amazon-1360543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sanoto-auriculares-3267212.jpg?tf=1200x' alt='Seguramente ya los has visto y son una moda fuerte: estos cascos de conducción ósea arrasan en Amazon' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855'>No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/scarlett-johansson-3292241.jpg?tf=1200x' alt='No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
-    <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
+    <h4><a href='https://computerhoy.com/tecnologia/senales-me-indican-toca-renovar-movil-1380673'>¿Cuándo es el momento perfecto para cambiar de móvil? Estas son las señales que me indican que toca renovar</a></h4>
+    <a href='https://computerhoy.com/tecnologia/senales-me-indican-toca-renovar-movil-1380673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/moviles-3305274.jpg?tf=1200x' alt='¿Cuándo es el momento perfecto para cambiar de móvil? Estas son las señales que me indican que toca renovar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648'>Las curiosidades que no conocías sobre Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/curiosidades-no-conocias-elon-musk-3447186.jpg?tf=1200x' alt='Las curiosidades que no conocías sobre Elon Musk' />
+    <h4><a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711'>Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión</a></h4>
+    <a href='https://computerhoy.com/industria/razones-ia-no-sustituira-programadores-referente-profesion-1388711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/douglas-crockford-creador-formato-datos-json-3457020.jpg?tf=1200x' alt='Las razones por las que la IA no sustituirá a los programadores, según este referente de la profesión' />
     </a>
 </div>
 
