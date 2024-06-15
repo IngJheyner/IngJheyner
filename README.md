@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
+    <h4><a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258'>Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/banco-despide-docena-empleados-usar-software-simulaba-actividad-teclado-3519831.jpg?tf=1200x' alt='Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
+    <h4><a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323'>Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion</a></h4>
+    <a href='https://computerhoy.com/tecnologia/imagenes-cientos-ninos-usadas-ilegalmente-entrenar-ia-como-stable-diffusion-1390323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nina-tecnologia-3485498.jpg?tf=1200x' alt='Imágenes de cientos de niños usadas ilegalmente para entrenar IA como Stable Diffusion' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294'>El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/primer-prostibulo-munecas-ia-mundo-abre-veda-favor-1390294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-sexo-3485172.jpg?tf=1200x' alt='El primer prostíbulo de muñecas con IA del mundo abre la veda: ¿A favor o en contra?' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de una consola de Nintendo, y es... muy años 80</a></h4>
-    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de una consola de Nintendo, y es... muy años 80' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084'>Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-3511371.jpg?tf=1200x' alt='Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series' />
     </a>
 </div>
 
