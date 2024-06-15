@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/android-auto-122-estable-disponible-descargar-incluye-mejoras-correcciones-1391270'>Android Auto 12.2 estable disponible para descargar e incluye mejoras y correcciones</a></h4>
+    <a href='https://computerhoy.com/apps/android-auto-122-estable-disponible-descargar-incluye-mejoras-correcciones-1391270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/android-auto-122-3495956.jpg?tf=1200x' alt='Android Auto 12.2 estable disponible para descargar e incluye mejoras y correcciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408'>Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-1390408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/blade-runner-2099-reparto-argumento-todo-sabe-nueva-serie-prime-video-3487058.jpg?tf=1200x' alt='Blade Runner 2099: reparto, argumento y todo lo que se sabe de la nueva serie de Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095'>Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-1390095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videojuegos-vinilos-camaras-estos-son-aparatos-usaban-padres-ahora-vuelven-estar-moda-jovenes-3465958.jpg?tf=1200x' alt='Videojuegos, vinilos, cámaras… estos son los aparatos que usaban tus padres y ahora vuelven a estar de moda entre los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267'>Google Play ofrecerá inicio automático de las aplicaciones recién descargadas</a></h4>
     <a href='https://computerhoy.com/tecnologia/google-play-ofrecera-inicio-automatico-aplicaciones-recien-descargadas-1391267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Google Play ofrecerá inicio automático de las aplicaciones recién descargadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370'>Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje</a></h4>
-    <a href='https://computerhoy.com/moviles/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-1390370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sencillos-trucos-ahorraras-datos-moviles-proximo-viaje-3486152.jpg?tf=1200x' alt='Sencillos trucos con los que ahorrarás datos móviles en tu próximo viaje' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375'>Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema</a></h4>
-    <a href='https://computerhoy.com/ciencia/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-1390375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ordenadores-fin-pueden-entender-emociones-humanas-gracias-sistema-3486211.jpg?tf=1200x' alt='Los ordenadores por fin pueden entender las emociones humanas gracias a este sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-chrome-incorporara-funcion-busqueda-ia-explorar-fondo-historial-navegacion-1391266'>Google Chrome incorporará una función de búsqueda con IA para explorar a fondo tu historial de navegación</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-chrome-incorporara-funcion-busqueda-ia-explorar-fondo-historial-navegacion-1391266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-chrome-3520926.jpg?tf=1200x' alt='Google Chrome incorporará una función de búsqueda con IA para explorar a fondo tu historial de navegación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061'>Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/monitor-barato-lg-perfecto-trabajar-estudiar-jugar-no-cuesta-ni-100-euros-1391061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-24mr400-b-3509290.jpg?tf=1200x' alt='Este monitor barato de LG es perfecto para trabajar, estudiar y jugar y no cuesta ni 100 euros' />
     </a>
 </div>
 
