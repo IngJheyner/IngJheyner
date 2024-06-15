@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
+    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/aunque-iphone-no-tenga-bateria-te-seguira-mostrando-hora-pantalla-gracias-ios-18-1391283'>Aunque tu iPhone no tenga batería te seguirá mostrando la hora en pantalla gracias a iOS 18</a></h4>
+    <a href='https://computerhoy.com/apple/aunque-iphone-no-tenga-bateria-te-seguira-mostrando-hora-pantalla-gracias-ios-18-1391283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Aunque tu iPhone no tenga batería te seguirá mostrando la hora en pantalla gracias a iOS 18' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225'>Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281'>YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos</a></h4>
     <a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-3522724.jpg?tf=1200x' alt='YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-te-permitira-elegir-aplicaciones-windows-11-accederan-ia-generativa-1391280'>Microsoft te permitirá elegir qué aplicaciones de Windows 11 accederán a su IA generativa</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-te-permitira-elegir-aplicaciones-windows-11-accederan-ia-generativa-1391280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-ajustes-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-3392091.jpg?tf=1200x' alt='Microsoft te permitirá elegir qué aplicaciones de Windows 11 accederán a su IA generativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163'>Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes</a></h4>
-    <a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-3470232.jpg?tf=1200x' alt='Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
     </a>
 </div>
 
