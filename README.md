@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
+    <h4><a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281'>YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-quiere-no-veas-siempre-misma-miniatura-videos-favoritos-1391281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/youtube-3522724.jpg?tf=1200x' alt='YouTube quiere que no veas siempre la misma miniatura para tus vídeos favoritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995'>No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-experto-3507831.jpg?tf=1200x' alt='No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-te-permitira-elegir-aplicaciones-windows-11-accederan-ia-generativa-1391280'>Microsoft te permitirá elegir qué aplicaciones de Windows 11 accederán a su IA generativa</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-te-permitira-elegir-aplicaciones-windows-11-accederan-ia-generativa-1391280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/estos-ajustes-he-conseguido-mejorar-rendimiento-mi-pc-windows-11-3392091.jpg?tf=1200x' alt='Microsoft te permitirá elegir qué aplicaciones de Windows 11 accederán a su IA generativa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216'>Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-1391216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-spotify-ni-apple-music-app-arrasa-escuchar-musica-android-auto-3515718.jpg?tf=1200x' alt='Ni Spotify ni Apple Music, esta es la app que arrasa para escuchar música en Android Auto' />
+    <h4><a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163'>Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes</a></h4>
+    <a href='https://computerhoy.com/windows/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-1390163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-aumentar-espacio-libre-disco-windows-11-windows-10-eliminar-archivos-importantes-3470232.jpg?tf=1200x' alt='Cómo aumentar el espacio libre en disco en Windows 11 o Windows 10 sin eliminar archivos importantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
-    <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
     </a>
 </div>
 
