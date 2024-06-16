@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795'>Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-3500415.jpg?tf=1200x' alt='Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)' />
+    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-7a-precio-xiaomi-1372126'>No es un Xiaomi, pero es igual de barato: el Pixel 7a rebaja drásticamente su precio en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/google-pixel-7a-precio-xiaomi-1372126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='No es un Xiaomi, pero es igual de barato: el Pixel 7a rebaja drásticamente su precio en Amazon' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/auriculares-diadema-sony-xm5-rebaja-amazon-1372931'>Los cascos más top de Sony bloquean todo el ruido y su precio se ha desplomado en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/auriculares-diadema-sony-xm5-rebaja-amazon-1372931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700571.jpg?tf=1200x' alt='Los cascos más top de Sony bloquean todo el ruido y su precio se ha desplomado en Amazon' />
+    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
-    <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
+    <h4><a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112'>Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift</a></h4>
+    <a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/loop-experience-3466841.jpg?tf=1200x' alt='Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082'>Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC</a></h4>
-    <a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg?tf=1200x' alt='Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC' />
+    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855'>No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/scarlett-johansson-3292241.jpg?tf=1200x' alt='No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
+    <h4><a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292'>Por qué los pilotos de aerolíneas no llevan barba</a></h4>
+    <a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pilotos-aerolineas-no-llevan-barba-3524682.jpg?tf=1200x' alt='Por qué los pilotos de aerolíneas no llevan barba' />
     </a>
 </div>
 
