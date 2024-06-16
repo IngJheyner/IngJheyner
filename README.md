@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336'>Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos</a></h4>
+    <a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-3529772.jpg?tf=1200x' alt='Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
     <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
     </a>
 </div>
 
