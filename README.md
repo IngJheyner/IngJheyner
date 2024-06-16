@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
+    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652'>Cómo ha hecho su fortuna Elon Musk</a></h4>
+    <a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ha-hecho-fortuna-elon-musk-3447622.jpg?tf=1200x' alt='Cómo ha hecho su fortuna Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315'>WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado</a></h4>
     <a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videollamadas-whatsapp-3527773.jpg?tf=1200x' alt='WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311'>iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-forerunner-garmin-pero-compacto-elegante-barato-1391309'>Como los Forerunner de Garmin, pero más compacto, elegante y... barato</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-forerunner-garmin-pero-compacto-elegante-barato-1391309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-watch-gt4-3527489.jpg?tf=1200x' alt='Como los Forerunner de Garmin, pero más compacto, elegante y... barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308'>Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización</a></h4>
-    <a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/menu-inicio-windows-11-3302055.jpg?tf=1200x' alt='Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306'>Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail</a></h4>
-    <a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copias-seguridad-mails-outlook-3293357.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail' />
     </a>
 </div>
 
