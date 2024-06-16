@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mcdonalds-retira-ia-registro-pedidos-1391338'>McDonald's retira la IA de su registro de pedidos, tras añadir kétchup y vasos de té de forma descontrolada</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mcdonalds-retira-ia-registro-pedidos-1391338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mcdonalds-2965942.jpg?tf=1200x' alt='McDonald's retira la IA de su registro de pedidos, tras añadir kétchup y vasos de té de forma descontrolada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
+    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336'>Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos</a></h4>
     <a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-3529772.jpg?tf=1200x' alt='Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
     <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333'>Los drones de DJI, a un paso de ser prohibidos en Estados Unidos </a></h4>
-    <a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='Los drones de DJI, a un paso de ser prohibidos en Estados Unidos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad' />
     </a>
 </div>
 
