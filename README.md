@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
+    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
+    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
     <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486'>Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despidos-amazon-3492605.jpg?tf=1200x' alt='Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509'>¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chatbots-trabajo-3492135.jpg?tf=1200x' alt='¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80</a></h4>
-    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
