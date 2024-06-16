@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315'>WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado</a></h4>
+    <a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videollamadas-whatsapp-3527773.jpg?tf=1200x' alt='WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311'>iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone</a></h4>
     <a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306'>Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail</a></h4>
     <a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copias-seguridad-mails-outlook-3293357.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
     </a>
 </div>
 
