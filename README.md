@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>7 películas de terror basadas en libros de Stephen King que tal vez no conozcas</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='7 películas de terror basadas en libros de Stephen King que tal vez no conozcas' />
+    <h4><a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308'>Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización</a></h4>
+    <a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/menu-inicio-windows-11-3302055.jpg?tf=1200x' alt='Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
+    <h4><a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306'>Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail</a></h4>
+    <a href='https://computerhoy.com/apps/microsoft-cambia-siempre-forma-acceder-outlook-hotmail-1391306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/como-hacer-copias-seguridad-mails-outlook-3293357.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de acceder a Outlook y Hotmail' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-reconoce-fallo-alto-uso-cpu-windows-11-debes-estar-atento-1391300'>Microsoft reconoce un fallo de alto uso de CPU en Windows 11 y debes estar atento</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-reconoce-fallo-alto-uso-cpu-windows-11-debes-estar-atento-1391300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Microsoft reconoce un fallo de alto uso de CPU en Windows 11 y debes estar atento' />
+    <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557'>Qué significan los colores de la caja de carga de los AirPods de Apple</a></h4>
-    <a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg?tf=1200x' alt='Qué significan los colores de la caja de carga de los AirPods de Apple' />
+    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
+    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-drive-pasa-privacidad-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-1390541'>Google Drive pasa de tu privacidad y te enviará una newsletter sobre tus propios archivos (aunque podrás evitarlo)</a></h4>
-    <a href='https://computerhoy.com/google/google-drive-pasa-privacidad-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-1390541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-3492607.jpg?tf=1200x' alt='Google Drive pasa de tu privacidad y te enviará una newsletter sobre tus propios archivos (aunque podrás evitarlo)' />
+    <h4><a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153'>Nuevo y preocupante problema para los coches eléctricos: los cables de carga</a></h4>
+    <a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nuevo-preocupante-problema-coches-electricos-cables-carga-3513747.jpg?tf=1200x' alt='Nuevo y preocupante problema para los coches eléctricos: los cables de carga' />
     </a>
 </div>
 
