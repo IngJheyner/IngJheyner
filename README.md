@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
-    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
+    <h4><a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034'>7 películas de terror basadas en libros de Stephen King que tal vez no conozcas</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/7-peliculas-terror-basadas-historias-stephen-king-tal-vez-no-conozcas-1251034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/ojos-gato-2756729.jpg?tf=1200x' alt='7 películas de terror basadas en libros de Stephen King que tal vez no conozcas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492'>Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-1390492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-anadir-modificar-eliminar-metodos-pago-chrome-pc-moviles-3490053.jpg?tf=1200x' alt='Cómo añadir, modificar o eliminar tus métodos de pago en Chrome para PC y móviles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-reconoce-fallo-alto-uso-cpu-windows-11-debes-estar-atento-1391300'>Microsoft reconoce un fallo de alto uso de CPU en Windows 11 y debes estar atento</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-reconoce-fallo-alto-uso-cpu-windows-11-debes-estar-atento-1391300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/5-formas-acelerar-windows-11-maximo-tener-mejor-rendimiento-3391674.jpg?tf=1200x' alt='Microsoft reconoce un fallo de alto uso de CPU en Windows 11 y debes estar atento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976'>Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo</a></h4>
-    <a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-3507221.jpg?tf=1200x' alt='Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo' />
+    <h4><a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557'>Qué significan los colores de la caja de carga de los AirPods de Apple</a></h4>
+    <a href='https://computerhoy.com/apple/significan-colores-caja-carga-airpods-apple-1390557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/apple-airpods-3-2524067.jpg?tf=1200x' alt='Qué significan los colores de la caja de carga de los AirPods de Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mejores-vpn-hemos-probado-ahora-cuesta-apenas-2-euros-1391157'>Es de las mejores VPN que hemos probado y ahora cuesta apenas 2 euros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mejores-vpn-hemos-probado-ahora-cuesta-apenas-2-euros-1391157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Es de las mejores VPN que hemos probado y ahora cuesta apenas 2 euros' />
+    <h4><a href='https://computerhoy.com/google/google-drive-pasa-privacidad-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-1390541'>Google Drive pasa de tu privacidad y te enviará una newsletter sobre tus propios archivos (aunque podrás evitarlo)</a></h4>
+    <a href='https://computerhoy.com/google/google-drive-pasa-privacidad-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-1390541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-3492607.jpg?tf=1200x' alt='Google Drive pasa de tu privacidad y te enviará una newsletter sobre tus propios archivos (aunque podrás evitarlo)' />
     </a>
 </div>
 
