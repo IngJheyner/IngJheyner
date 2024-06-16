@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066'>Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tdt-movil-3032062.jpg?tf=1200x' alt='Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app' />
+    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
+    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882'>PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-vs-copilot-diferencian-cual-mejor-ti-3503916.jpg?tf=1200x' alt='PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti' />
+    <h4><a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486'>Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla</a></h4>
+    <a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despidos-amazon-3492605.jpg?tf=1200x' alt='Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
-    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
+    <h4><a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509'>¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/quieres-usar-chatbots-trabajo-4-consejos-experto-no-liarla-ia-1390509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/uso-chatbots-trabajo-3492135.jpg?tf=1200x' alt='¿Quieres usar chatbots en tu trabajo? 4 consejos de un experto para no liarla con la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
+    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80</a></h4>
+    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613'>OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
