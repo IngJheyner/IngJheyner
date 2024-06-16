@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665'>Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?</a></h4>
+    <a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-3495370.jpg?tf=1200x' alt='Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995'>No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-experto-3507831.jpg?tf=1200x' alt='No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164'>Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-3470517.jpg?tf=1200x' alt='Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
     <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/portatil-samsung-copilot-viene-sorpresa-150-euros-barato-preventa-1391319'>El portátil Samsung con Copilot+ viene con sorpresa: es 150 euros más barato en preventa</a></h4>
-    <a href='https://computerhoy.com/tecnologia/portatil-samsung-copilot-viene-sorpresa-150-euros-barato-preventa-1391319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-book-4-edge-3345425.jpg?tf=1200x' alt='El portátil Samsung con Copilot+ viene con sorpresa: es 150 euros más barato en preventa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
-    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
-    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
     </a>
 </div>
 
