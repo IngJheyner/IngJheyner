@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311'>iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone</a></h4>
+    <a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/como-forerunner-garmin-pero-compacto-elegante-barato-1391309'>Como los Forerunner de Garmin, pero más compacto, elegante y... barato</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-forerunner-garmin-pero-compacto-elegante-barato-1391309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-watch-gt4-3527489.jpg?tf=1200x' alt='Como los Forerunner de Garmin, pero más compacto, elegante y... barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308'>Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización</a></h4>
     <a href='https://computerhoy.com/windows/todos-cambios-han-llegado-barra-tareas-menu-inicio-windows-11-ultima-actualizacion-1391308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/menu-inicio-windows-11-3302055.jpg?tf=1200x' alt='Todos los cambios que han llegado a la barra de tareas y al menú inicio de Windows 11 con la última actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565'>rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC</a></h4>
     <a href='https://computerhoy.com/entretenimiento/rlaxx-tv-mejor-alternativa-tdtchannels-100-canales-gratis-movil-pc-1390565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/rlaxxtv-3493242.jpg?tf=1200x' alt='rlaxx TV, la mejor alternativa a TDTChannels: más de 100 canales gratis en tu móvil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145'>Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos</a></h4>
-    <a href='https://computerhoy.com/tv/como-convertir-mando-distancia-smart-tv-supermando-dominarlos-todos-1391145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/supermando-smart-tv-3513455.jpg?tf=1200x' alt='Cómo convertir el mando a distancia de tu Smart TV en un supermando para dominarlos todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153'>Nuevo y preocupante problema para los coches eléctricos: los cables de carga</a></h4>
-    <a href='https://computerhoy.com/motor/nuevo-preocupante-problema-coches-electricos-cables-carga-1391153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nuevo-preocupante-problema-coches-electricos-cables-carga-3513747.jpg?tf=1200x' alt='Nuevo y preocupante problema para los coches eléctricos: los cables de carga' />
     </a>
 </div>
 
