@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333'>Los drones de DJI, a un paso de ser prohibidos en Estados Unidos </a></h4>
+    <a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='Los drones de DJI, a un paso de ser prohibidos en Estados Unidos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630'>Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-clasicas-iban-ser-muy-diferentes-como-fueron-realidad-1390630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gizmo-gremlins-2649887.jpg?tf=1200x' alt='Cuando Hollywood cambia de idea: 5 películas clásicas que iban a ser muy diferentes a como fueron en realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665'>Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?</a></h4>
     <a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-3495370.jpg?tf=1200x' alt='Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
     <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995'>No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-1390995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-son-ojos-razon-efectos-especiales-peliculas-son-peores-antes-experto-3507831.jpg?tf=1200x' alt='No son tus ojos: esta es la razón por la que los efectos especiales de las películas son peores que antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164'>Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-1390164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-cambiar-dns-windows-deberias-hacerlo-ahora-mismo-3470517.jpg?tf=1200x' alt='Cómo cambiar las DNS en Windows y por qué deberías hacerlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
-    <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
     </a>
 </div>
 
