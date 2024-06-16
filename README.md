@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795'>Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)</a></h4>
+    <a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-3500415.jpg?tf=1200x' alt='Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/auriculares-diadema-sony-xm5-rebaja-amazon-1372931'>Los cascos más top de Sony bloquean todo el ruido y su precio se ha desplomado en Amazon</a></h4>
+    <a href='https://computerhoy.com/tecnologia/auriculares-diadema-sony-xm5-rebaja-amazon-1372931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/sony-wh-1000xm5-2700571.jpg?tf=1200x' alt='Los cascos más top de Sony bloquean todo el ruido y su precio se ha desplomado en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
     <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
     <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
-    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/aunque-iphone-no-tenga-bateria-te-seguira-mostrando-hora-pantalla-gracias-ios-18-1391283'>Aunque tu iPhone no tenga batería te seguirá mostrando la hora en pantalla gracias a iOS 18</a></h4>
-    <a href='https://computerhoy.com/apple/aunque-iphone-no-tenga-bateria-te-seguira-mostrando-hora-pantalla-gracias-ios-18-1391283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-3143624.jpg?tf=1200x' alt='Aunque tu iPhone no tenga batería te seguirá mostrando la hora en pantalla gracias a iOS 18' />
     </a>
 </div>
 
