@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
+    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679'>El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón</a></h4>
+    <a href='https://computerhoy.com/tecnologia/creador-telegram-utiliza-movil-barato-170-euros-curiosa-encomiable-razon-1390679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a52-telegram-3495907.jpg?tf=1200x' alt='El creador de Telegram utiliza este móvil barato de 170 euros por una curiosa y encomiable razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333'>Los drones de DJI, a un paso de ser prohibidos en Estados Unidos </a></h4>
     <a href='https://computerhoy.com/tecnologia/drones-dji-paso-ser-prohibidos-estados-unidos-1391333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/dji-estrena-nuevo-dron-cine-alta-gama-inspire-3-especificaciones-infarto-3006876.jpg?tf=1200x' alt='Los drones de DJI, a un paso de ser prohibidos en Estados Unidos ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665'>Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?</a></h4>
-    <a href='https://computerhoy.com/windows/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-1390665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ejecutable-antimalware-windows-como-funciona-deberias-desactivarlo-3495370.jpg?tf=1200x' alt='Qué es el ejecutable antimalware de Windows y cómo funciona: ¿deberías desactivarlo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
     </a>
 </div>
 
