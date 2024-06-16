@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576'>Cómo borrar el historial de búsquedas secreto de Google (y que casi nadie conoce)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-3019892.jpg?tf=1200x' alt='Cómo borrar el historial de búsquedas secreto de Google (y que casi nadie conoce)' />
+    <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
+    <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
+    <h4><a href='https://computerhoy.com/tecnologia/portatil-samsung-copilot-viene-sorpresa-150-euros-barato-preventa-1391319'>El portátil Samsung con Copilot+ viene con sorpresa: es 150 euros más barato en preventa</a></h4>
+    <a href='https://computerhoy.com/tecnologia/portatil-samsung-copilot-viene-sorpresa-150-euros-barato-preventa-1391319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/samsung-galaxy-book-4-edge-3345425.jpg?tf=1200x' alt='El portátil Samsung con Copilot+ viene con sorpresa: es 150 euros más barato en preventa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
-    <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
+    <h4><a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641'>Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza</a></h4>
+    <a href='https://computerhoy.com/redes/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-1390641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-encendido-ni-reset-boton-importante-router-wifi-casi-nadie-utiliza-3494931.jpg?tf=1200x' alt='Ni encendido ni reset: este es el botón más importante del router WiFi y casi nadie lo utiliza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    <h4><a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590'>El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo</a></h4>
+    <a href='https://computerhoy.com/apps/secreto-oculto-waze-te-hara-pensartelo-dos-veces-antes-utilizarlo-1390590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/waze-3493853.jpg?tf=1200x' alt='El secreto oculto de Waze que te hará pensártelo dos veces antes de utilizarlo' />
     </a>
 </div>
 
