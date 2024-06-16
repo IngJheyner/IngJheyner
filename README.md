@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/google-pixel-7a-precio-xiaomi-1372126'>No es un Xiaomi, pero es igual de barato: el Pixel 7a rebaja drásticamente su precio en Amazon</a></h4>
-    <a href='https://computerhoy.com/tecnologia/google-pixel-7a-precio-xiaomi-1372126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/google-pixel-7a-3287159.jpg?tf=1200x' alt='No es un Xiaomi, pero es igual de barato: el Pixel 7a rebaja drásticamente su precio en Amazon' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066'>Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-tdt-directo-movil-pc-ninguna-app-programa-1238066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/tdt-movil-3032062.jpg?tf=1200x' alt='Cómo ver la TDT en directo desde el móvil o PC sin instalar ninguna app' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882'>PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-vs-copilot-diferencian-cual-mejor-ti-3503916.jpg?tf=1200x' alt='PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112'>Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift</a></h4>
-    <a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/loop-experience-3466841.jpg?tf=1200x' alt='Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift' />
+    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
+    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855'>No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/no-solo-scarlett-johansson-otras-estrellas-hollywood-han-declarado-guerra-ia-1390855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/scarlett-johansson-3292241.jpg?tf=1200x' alt='No solo Scarlett Johansson: otras estrellas de Hollywood que han declarado la guerra a la IA' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292'>Por qué los pilotos de aerolíneas no llevan barba</a></h4>
-    <a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pilotos-aerolineas-no-llevan-barba-3524682.jpg?tf=1200x' alt='Por qué los pilotos de aerolíneas no llevan barba' />
+    <h4><a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613'>OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?' />
     </a>
 </div>
 
