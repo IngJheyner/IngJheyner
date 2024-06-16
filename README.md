@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576'>Cómo borrar el historial de búsquedas secreto de Google (y que casi nadie conoce)</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-borrar-historial-busquedas-secreto-google-casi-nadie-conoce-1236576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/google-3019892.jpg?tf=1200x' alt='Cómo borrar el historial de búsquedas secreto de Google (y que casi nadie conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
+    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493'>Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste</a></h4>
     <a href='https://computerhoy.com/ciencia/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-1390493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cientificos-desarrollan-desaladora-termodifusiva-obtener-agua-dulce-mar-coste-3490466.jpg?tf=1200x' alt='Científicos desarrollan una desaladora termodifusiva para obtener agua dulce del mar a bajo coste' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
     <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652'>Cómo ha hecho su fortuna Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/como-ha-hecho-fortuna-elon-musk-1389652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ha-hecho-fortuna-elon-musk-3447622.jpg?tf=1200x' alt='Cómo ha hecho su fortuna Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315'>WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado</a></h4>
-    <a href='https://computerhoy.com/apps/whatsapp-renueva-convertirse-mejor-aplicacion-videollamadas-mercado-1391315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/videollamadas-whatsapp-3527773.jpg?tf=1200x' alt='WhatsApp se renueva para convertirse en la mejor aplicación de videollamadas del mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311'>iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone</a></h4>
-    <a href='https://computerhoy.com/apple/ios-18-te-advertira-usas-cargador-lento-cargar-bateria-iphone-1391311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/8-trucos-efectivos-bateria-iphone-dure-mucho-3255034.jpg?tf=1200x' alt='iOS 18 te advertirá si usas un cargador lento para cargar la batería de tu iPhone' />
     </a>
 </div>
 
