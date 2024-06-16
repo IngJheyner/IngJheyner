@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510'>¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-1390510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-evito-decir-inteligencia-artificial-presentacion-ios-18-3492136.jpg?tf=1200x' alt='¿Por qué Apple evitó decir "Inteligencia Artificial" en la presentación de iOS 18?' />
+    <h4><a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530'>Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?</a></h4>
+    <a href='https://computerhoy.com/moviles/nada-4g-5g-significa-letra-iphone-movil-android-1390530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/conexion-internet-movil-3492609.jpg?tf=1200x' alt='Nada de 4G o 5G: ¿Qué significa la letra E en tu iPhone o móvil Android?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514'>Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"</a></h4>
-    <a href='https://computerhoy.com/apple/elon-musk-amenaza-prohibir-iphone-x-tesla-space-x-ia-no-quiero-1390514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/meme-openai-apple-iphone-3492460.jpg?tf=1200x' alt='Elon Musk amenaza con prohibir el iPhone en Tesla o X por la inteligencia artificial: "No lo quiero"' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
+    <h4><a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976'>Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo</a></h4>
+    <a href='https://computerhoy.com/windows/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-1390976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/antimalware-windows-como-funciona-como-saber-debes-desactivarlo-3507221.jpg?tf=1200x' alt='Antimalware de Windows: qué es, cómo funciona y cómo saber si debes desactivarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017'>Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche</a></h4>
-    <a href='https://computerhoy.com/apple/apple-carplay-sirve-como-usa-sistema-conectar-iphone-coche-1390017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3466390.jpg?tf=1200x' alt='Apple CarPlay: qué es, para qué sirve y cómo se usa el sistema para conectar tu iPhone al coche' />
+    <h4><a href='https://computerhoy.com/tecnologia/mejores-vpn-hemos-probado-ahora-cuesta-apenas-2-euros-1391157'>Es de las mejores VPN que hemos probado y ahora cuesta apenas 2 euros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mejores-vpn-hemos-probado-ahora-cuesta-apenas-2-euros-1391157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/vpn-surfshark-3241642.jpg?tf=1200x' alt='Es de las mejores VPN que hemos probado y ahora cuesta apenas 2 euros' />
     </a>
 </div>
 
