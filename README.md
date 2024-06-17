@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciencia/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-1391449'>Así es la batería nuclear que promete energía durante décadas: tiene el tamaño de una pila de botón</a></h4>
+    <a href='https://computerhoy.com/ciencia/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-1391449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-3534203.jpg?tf=1200x' alt='Así es la batería nuclear que promete energía durante décadas: tiene el tamaño de una pila de botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/mayor-juicio-iptv-peliculas-gratis-empieza-gran-polemica-legal-1391430'>El mayor juicio contra las IPTV de películas gratis empieza con una gran polémica legal</a></h4>
+    <a href='https://computerhoy.com/tv/mayor-juicio-iptv-peliculas-gratis-empieza-gran-polemica-legal-1391430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/duro-golpe-futbol-gratis-cae-beats-tv-mayores-redes-iptv-pirata-3310398.jpg?tf=1200x' alt='El mayor juicio contra las IPTV de películas gratis empieza con una gran polémica legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/viejo-sea-coche-puede-tener-android-auto-pantalla-cuesta-50-euros-instala-segundos-1391465'>Por viejo que sea tu coche, puede tener Android Auto: esta pantalla cuesta 50 euros y se instala en segundos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/viejo-sea-coche-puede-tener-android-auto-pantalla-cuesta-50-euros-instala-segundos-1391465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reproductor-mp5-acodo-3534355.jpg?tf=1200x' alt='Por viejo que sea tu coche, puede tener Android Auto: esta pantalla cuesta 50 euros y se instala en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
     <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
     <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
-    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-defender-suficientemente-seguro-necesitas-proteccion-extra-1390754'>¿Es Microsoft Defender suficientemente seguro o necesitas una protección extra?</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-defender-suficientemente-seguro-necesitas-proteccion-extra-1390754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-defender-3499806.jpg?tf=1200x' alt='¿Es Microsoft Defender suficientemente seguro o necesitas una protección extra?' />
     </a>
 </div>
 
