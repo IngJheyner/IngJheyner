@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898'>Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene</a></h4>
+    <a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242'>Diferencias entre CPU, GPU, iGPU y APU</a></h4>
+    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-cpu-gpu-igpu-apu-3518015.jpg?tf=1200x' alt='Diferencias entre CPU, GPU, iGPU y APU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
     <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717'>Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis</a></h4>
     <a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-iptv-3499646.jpg?tf=1200x' alt='Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128'>¿Cómo llamar a Vodafone gratis desde cualquier operador?</a></h4>
-    <a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='¿Cómo llamar a Vodafone gratis desde cualquier operador?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
-    <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
-    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
     </a>
 </div>
 
