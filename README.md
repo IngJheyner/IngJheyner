@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/proveedor-baterias-apple-apuesta-modelos-estado-solido-1391370'>El proveedor de baterías de Apple apuesta por los modelos en estado sólido</a></h4>
-    <a href='https://computerhoy.com/apple/proveedor-baterias-apple-apuesta-modelos-estado-solido-1391370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/proveedor-baterias-apple-apuesta-modelos-estado-solido-3533150.jpg?tf=1200x' alt='El proveedor de baterías de Apple apuesta por los modelos en estado sólido' />
+    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/aliexpress-da-pistoletazo-salida-verano-10-chollos-top-codigos-descuento-1391350'>AliExpress da el pistoletazo de salida al verano: 10 chollos top y códigos descuento</a></h4>
-    <a href='https://computerhoy.com/tecnologia/aliexpress-da-pistoletazo-salida-verano-10-chollos-top-codigos-descuento-1391350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/aliexpress-verano-3533768.jpg?tf=1200x' alt='AliExpress da el pistoletazo de salida al verano: 10 chollos top y códigos descuento' />
+    <h4><a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752'>El invento inspirado en Star Wars que convierte el aire en agua</a></h4>
+    <a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-potable-star-wars-3499632.jpg?tf=1200x' alt='El invento inspirado en Star Wars que convierte el aire en agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730'>Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud</a></h4>
-    <a href='https://computerhoy.com/moviles/niveles-radiacion-estos-moviles-samsung-muy-recientes-populares-rozan-limites-recomendados-salud-1390730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-s22-radiacion-3499793.jpg?tf=1200x' alt='Los niveles de radiación de estos móviles Samsung muy recientes y populares rozan los límites recomendados para la salud' />
+    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    <h4><a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456'>Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X</a></h4>
+    <a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-3441068.jpg?tf=1200x' alt='Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-no-puede-esperar-quiere-pruebes-2024-nueva-siri-ia-1391379'>Apple no puede esperar y quiere que pruebes en 2024 la nueva Siri con IA</a></h4>
-    <a href='https://computerhoy.com/apple/apple-no-puede-esperar-quiere-pruebes-2024-nueva-siri-ia-1391379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/05/siri-iphone-2340841.jpg?tf=1200x' alt='Apple no puede esperar y quiere que pruebes en 2024 la nueva Siri con IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081'>Clonezilla: cómo clonar un disco duro completo en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/clonezilla-como-clonar-disco-duro-completo-windows-3510927.jpg?tf=1200x' alt='Clonezilla: cómo clonar un disco duro completo en Windows' />
     </a>
 </div>
 
