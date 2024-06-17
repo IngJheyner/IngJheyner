@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883'>Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/empresa-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-3503355.jpg?tf=1200x' alt='Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
+    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875'>Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-3503356.jpg?tf=1200x' alt='Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
     <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878'>Arm pide que todos los procesadores Snapdragon X Elite sean destruidos</a></h4>
     <a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='Arm pide que todos los procesadores Snapdragon X Elite sean destruidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524'>Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-estan-aqui-estafas-eurocopa-2024-consejos-evitarlas-3536030.jpg?tf=1200x' alt='Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
     </a>
 </div>
 
