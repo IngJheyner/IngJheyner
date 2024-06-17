@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599'>Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-pueden-piratear-3493396.jpg?tf=1200x' alt='Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
     <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336'>Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos</a></h4>
     <a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-3529772.jpg?tf=1200x' alt='Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
-    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
     </a>
 </div>
 
