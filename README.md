@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
+    <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241'>Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-3517612.jpg?tf=1200x' alt='Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
     <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491'>Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel</a></h4>
     <a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737'>¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-empresas-3500266.jpg?tf=1200x' alt='¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898'>Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene</a></h4>
-    <a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
     </a>
 </div>
 
