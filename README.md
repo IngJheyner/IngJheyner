@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/qnap-disco-duro-nas-oferta-amazon-1368689'>Olvídate de Dropbox: este NAS te da hasta 18TB de almacenamiento y son tuyos para siempre</a></h4>
-    <a href='https://computerhoy.com/tecnologia/qnap-disco-duro-nas-oferta-amazon-1368689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/qnap-ts-233-3281280.jpg?tf=1200x' alt='Olvídate de Dropbox: este NAS te da hasta 18TB de almacenamiento y son tuyos para siempre' />
+    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
+    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961'>Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502072.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla' />
+    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
+    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863'>¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?</a></h4>
-    <a href='https://computerhoy.com/apple/apple-intelligence-como-apple-sumando-ia-1390863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718368191917-3514404.jpg?tf=1200x' alt='¿Qué es Apple Intelligence y cómo Apple se está sumando a la IA?' />
+    <h4><a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701'>Ni en cápsula ni en cafetera: llega el café en tubo</a></h4>
+    <a href='https://computerhoy.com/alimentacion/no-normal-coffee-cafe-tubo-1390701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718168177240-3498468.jpg?tf=1200x' alt='Ni en cápsula ni en cafetera: llega el café en tubo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112'>Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift</a></h4>
-    <a href='https://computerhoy.com/life/tapones-loop-mejora-experiencia-conciertos-festivales-1390112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/loop-experience-3466841.jpg?tf=1200x' alt='Lentejuelas, glitter y tapones contra el ruido: así salvé mis tímpanos en el concierto de Taylor Swift' />
+    <h4><a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355'>El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT</a></h4>
+    <a href='https://computerhoy.com/tecnologia/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-1390355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/impacto-ia-empieza-notarse-estos-son-profesionales-aceptarian-bajarse-sueldo-usan-chatgpt-3485970.jpg?tf=1200x' alt='El impacto de la IA empieza a notarse: estos son los profesionales que aceptarían bajarse el sueldo si usan ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292'>Por qué los pilotos de aerolíneas no llevan barba</a></h4>
-    <a href='https://computerhoy.com/life/pilotos-aerolineas-no-llevan-barba-1391292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pilotos-aerolineas-no-llevan-barba-3524682.jpg?tf=1200x' alt='Por qué los pilotos de aerolíneas no llevan barba' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
     </a>
 </div>
 
