@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524'>Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-estan-aqui-estafas-eurocopa-2024-consejos-evitarlas-3536030.jpg?tf=1200x' alt='Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858'>Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-1390858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-flipper-zero-ni-raspberry-pi-mejor-tamagotchi-hackers-cuesta-menos-mitad-3502372.jpg?tf=1200x' alt='Ni Flipper Zero ni Raspberry Pi: este es el mejor Tamagotchi para hackers (y cuesta menos de la mitad)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
     <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241'>Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-3517612.jpg?tf=1200x' alt='Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
-    <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491'>Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel</a></h4>
-    <a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel' />
     </a>
 </div>
 
