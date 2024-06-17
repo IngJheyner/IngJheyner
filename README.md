@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: “no hay de qué preocuparse”</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: “no hay de qué preocuparse”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/android-tv-box-xiaomi-oferta-aliexpress-1363617'>Este aparato de Xiaomi hará que vuelvas a amar a tu televisor: más rápido y con Android</a></h4>
+    <a href='https://computerhoy.com/tecnologia/android-tv-box-xiaomi-oferta-aliexpress-1363617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3272482.jpg?tf=1200x' alt='Este aparato de Xiaomi hará que vuelvas a amar a tu televisor: más rápido y con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599'>Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-puedan-piratear-1390599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chip-perro-marcapasos-dispositivos-jamas-hubieses-imaginado-te-pueden-piratear-3493396.jpg?tf=1200x' alt='Del chip del perro al marcapasos: dispositivos que jamás hubieses imaginado que te puedan piratear' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/mcdonalds-retira-ia-registro-pedidos-1391338'>McDonald's retira la IA de su registro de pedidos, tras añadir kétchup y vasos de té de forma descontrolada</a></h4>
     <a href='https://computerhoy.com/tecnologia/mcdonalds-retira-ia-registro-pedidos-1391338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/mcdonalds-2965942.jpg?tf=1200x' alt='McDonald's retira la IA de su registro de pedidos, tras añadir kétchup y vasos de té de forma descontrolada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684'>Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo</a></h4>
-    <a href='https://computerhoy.com/moviles/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-1390684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/light-phone-3-movil-minimalista-quieren-desconectar-casi-todo-3496400.jpg?tf=1200x' alt='Light Phone 3, el móvil minimalista para los que quieren desconectar casi del todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336'>Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos</a></h4>
-    <a href='https://computerhoy.com/gaming/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-1391336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/creadores-diablo-lol-reconocen-jugadores-estan-haciendo-viejos-3529772.jpg?tf=1200x' alt='Los creadores de Diablo y LoL reconocen que sus jugadores se están haciendo viejos' />
     </a>
 </div>
 
