@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879'>Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/desarrollan-nuevo-tipo-hormigon-convierte-edificios-baterias-gigantes-1390879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hormigon-3502794.jpg?tf=1200x' alt='Desarrollan un nuevo tipo de hormigón que convierte los edificios en baterías gigantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878'>Arm pide que todos los procesadores Snapdragon X Elite sean destruidos</a></h4>
+    <a href='https://computerhoy.com/pc/arm-pide-todos-procesadores-snapdragon-x-elite-sean-destruidos-1390878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nuevos-snapdragon-x-elite-plus-portatiles-potentes-apple-m3-ia-rapida-3303520.jpg?tf=1200x' alt='Arm pide que todos los procesadores Snapdragon X Elite sean destruidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524'>Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/estafas-eurocopa-2024-trucos-evitarlas-1391524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ya-estan-aqui-estafas-eurocopa-2024-consejos-evitarlas-3536030.jpg?tf=1200x' alt='Ya están aquí las estafas de la Eurocopa 2024: trucos para evitarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687'>Gestiones online para las que siempre deberías utilizar una VPN</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/gestiones-online-siempre-deberias-utilizar-vpn-1390687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/gestiones-online-siempre-deberias-utilizar-vpn-3498189.jpg?tf=1200x' alt='Gestiones online para las que siempre deberías utilizar una VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534'>WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/whatsapp-como-detectar-han-hackeado-cuenta-hacer-respecto-1390534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-whatsapp-3500268.jpg?tf=1200x' alt='WhatsApp: cómo detectar si han hackeado tu cuenta, y qué hacer al respecto' />
     </a>
 </div>
 
