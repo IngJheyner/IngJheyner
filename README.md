@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
+    <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752'>El invento inspirado en Star Wars que convierte el aire en agua</a></h4>
-    <a href='https://computerhoy.com/energia/invento-inspirado-star-wars-convierte-aire-agua-1390752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/agua-potable-star-wars-3499632.jpg?tf=1200x' alt='El invento inspirado en Star Wars que convierte el aire en agua' />
+    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
+    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456'>Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X</a></h4>
-    <a href='https://computerhoy.com/gaming/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-1389456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juegos-android-mejores-graficos-nada-tienen-envidiar-ps5-xbox-series-x-3441068.jpg?tf=1200x' alt='Los juegos para Android con mejores gráficos que nada tienen que envidiar a PS5 o Xbox Series X' />
+    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
+    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081'>Clonezilla: cómo clonar un disco duro completo en Windows</a></h4>
-    <a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/clonezilla-como-clonar-disco-duro-completo-windows-3510927.jpg?tf=1200x' alt='Clonezilla: cómo clonar un disco duro completo en Windows' />
+    <h4><a href='https://computerhoy.com/windows/microsoft-defender-suficientemente-seguro-necesitas-proteccion-extra-1390754'>¿Es Microsoft Defender suficientemente seguro o necesitas una protección extra?</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-defender-suficientemente-seguro-necesitas-proteccion-extra-1390754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-defender-3499806.jpg?tf=1200x' alt='¿Es Microsoft Defender suficientemente seguro o necesitas una protección extra?' />
     </a>
 </div>
 
