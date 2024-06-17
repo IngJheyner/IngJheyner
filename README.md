@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
+    <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
+    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-1391449'>Así es la batería nuclear que promete energía durante décadas: tiene el tamaño de una pila de botón</a></h4>
     <a href='https://computerhoy.com/ciencia/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-1391449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bateria-nuclear-promete-energia-durante-decadas-tiene-tamano-pila-boton-3534203.jpg?tf=1200x' alt='Así es la batería nuclear que promete energía durante décadas: tiene el tamaño de una pila de botón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/viejo-sea-coche-puede-tener-android-auto-pantalla-cuesta-50-euros-instala-segundos-1391465'>Por viejo que sea tu coche, puede tener Android Auto: esta pantalla cuesta 50 euros y se instala en segundos</a></h4>
     <a href='https://computerhoy.com/tecnologia/viejo-sea-coche-puede-tener-android-auto-pantalla-cuesta-50-euros-instala-segundos-1391465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/reproductor-mp5-acodo-3534355.jpg?tf=1200x' alt='Por viejo que sea tu coche, puede tener Android Auto: esta pantalla cuesta 50 euros y se instala en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761'>Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema </a></h4>
-    <a href='https://computerhoy.com/windows/detectado-windows-10-11-extrano-error-configuracion-cuestiona-estabilidad-sistema-1390761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-11-trae-nuevo-error-configuracion-suma-ultimo-vpn-3499949.jpg?tf=1200x' alt='Detectado en Windows 10 y 11 un extraño error de configuración que cuestiona la estabilidad del sistema ' />
     </a>
 </div>
 
