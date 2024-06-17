@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80</a></h4>
-    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80' />
+    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085'>Cómo solucionar el error "UI del sistema no responde" en Android</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ui-sistema-no-responde-3511966.jpg?tf=1200x' alt='Cómo solucionar el error "UI del sistema no responde" en Android' />
+    <h4><a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714'>YouTube Music resucita una función que Spotify tiró a la basura y la mejora</a></h4>
+    <a href='https://computerhoy.com/apps/youtube-music-resucita-funcion-spotify-tiro-basura-mejora-1390714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/youtube-music-2459713.jpg?tf=1200x' alt='YouTube Music resucita una función que Spotify tiró a la basura y la mejora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708'>El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor</a></h4>
-    <a href='https://computerhoy.com/android/easter-egg-android-14-tiene-segunda-parte-android-15-hacen-aun-mejor-1390708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-15-3305305.jpg?tf=1200x' alt='El 'easter egg' de Android 14 tiene una segunda parte en Android 15 que lo hacen aún mejor' />
+    <h4><a href='https://computerhoy.com/apple/apple-operacion-bikini-ipad-pro-oled-solo-comienzo-nueva-era-1391373'>Apple y su operación bikini con el iPad Pro OLED es solo el comienzo de una nueva era</a></h4>
+    <a href='https://computerhoy.com/apple/apple-operacion-bikini-ipad-pro-oled-solo-comienzo-nueva-era-1391373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/ipad-pro-m4-13-pulgadas-3389273.jpg?tf=1200x' alt='Apple y su operación bikini con el iPad Pro OLED es solo el comienzo de una nueva era' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102'>Cómo descargar libros gratis para Amazon Kindle (y legales)</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-descargar-libros-gratis-amazon-kindle-1224102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/amazon-kindle-2022-2813017.jpg?tf=1200x' alt='Cómo descargar libros gratis para Amazon Kindle (y legales)' />
+    <h4><a href='https://computerhoy.com/apple/ya-no-hay-excusas-tira-viejo-apple-watch-porque-series-9-ha-reventado-precio-1391349'>Ya no hay excusas: tira tu viejo Apple Watch porque el Series 9 ha reventado su precio</a></h4>
+    <a href='https://computerhoy.com/apple/ya-no-hay-excusas-tira-viejo-apple-watch-porque-series-9-ha-reventado-precio-1391349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/apple-watch-series-9-3187116.jpg?tf=1200x' alt='Ya no hay excusas: tira tu viejo Apple Watch porque el Series 9 ha reventado su precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
     </a>
 </div>
 
