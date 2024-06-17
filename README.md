@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844'>Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción</a></h4>
+    <a href='https://computerhoy.com/windows/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-1390844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-sigue-actualizando-mejorando-windows-10-ya-tiene-fecha-defuncion-3501914.jpg?tf=1200x' alt='Por qué Microsoft sigue actualizando y mejorando Windows 10 si ya tiene fecha de defunción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491'>Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel</a></h4>
+    <a href='https://computerhoy.com/android/realme-une-guerra-gama-alta-12gb-ram-pantalla-oled-mucho-barata-pixel-1391491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/realme-12-pro-3303722.jpg?tf=1200x' alt='Realme se une a la guerra de la gama alta: 12GB de RAM y pantalla OLED mucho más barata que la de los Pixel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737'>¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/has-sufrido-brecha-seguridad-santander-iberdrola-ticketmaster-ocu-te-recomienda-hagas-1390737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-empresas-3500266.jpg?tf=1200x' alt='¿Has sufrido la brecha de seguridad de Santander, Iberdrola o Ticketmaster? Esto es lo que la OCU te recomienda que hagas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898'>Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene</a></h4>
     <a href='https://computerhoy.com/internet/modo-bridge-router-wifi-como-activarlo-ventajas-tiene-1200898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/router-wifi-2798907.jpg?tf=1200x' alt='Todo sobre el modo bridge de tu router WiFi: qué es, cómo activarlo y qué ventajas tiene' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272'>Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-han-encontrado-forma-ingeniosa-usar-emojis-ataques-funciona-1391272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/emoji-ciberdelincuente-3521341.jpg?tf=1200x' alt='Los ciberdelincuentes han encontrado una forma ingeniosa de usar emojis en sus ataques y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242'>Diferencias entre CPU, GPU, iGPU y APU</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-cpu-gpu-igpu-apu-3518015.jpg?tf=1200x' alt='Diferencias entre CPU, GPU, iGPU y APU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735'>He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?</a></h4>
-    <a href='https://computerhoy.com/moviles/he-probado-honor-200-pro-me-parece-dificil-clasificar-gama-alta-no-1390735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/honor-200-pro-3499950.jpg?tf=1200x' alt='He probado el Honor 200 Pro y me parece difícil de clasificar: ¿es gama alta o no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717'>Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.com/tv/ver-eurocopa-iptv-puede-salirte-muy-caro-5000-euros-multa-ver-futbol-gratis-1390717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/futbol-iptv-3499646.jpg?tf=1200x' alt='Ver Eurocopa por IPTV puede salirte muy caro: hasta 5.000 euros de multa por ver el fútbol gratis' />
     </a>
 </div>
 
