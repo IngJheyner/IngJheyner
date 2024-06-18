@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
+    <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
+    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082'>Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC</a></h4>
+    <a href='https://computerhoy.com/pc/mediatek-procesadores-pc-arm-1391082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/mediatek-dimensity-8100-2749021.jpg?tf=1200x' alt='Mediatek sigue los pasos de Qualcomm: está preparando procesadores de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
+    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723'>La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-advierte-fans-bluetooth-cuidado-bluesnarfing-3543745.jpg?tf=1200x' alt='La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077'>Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes</a></h4>
-    <a href='https://computerhoy.com/tecnologia/detienen-estudiante-usaba-ia-responder-preguntas-examenes-1391077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detienen-estudiante-usaba-ia-respondiese-preguntas-examenes-3509348.jpg?tf=1200x' alt='Detienen a un estudiante que usaba la IA para responder las preguntas de los exámenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
-    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566'>Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos</a></h4>
-    <a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lampara-antimosquitos-palone-3540216.jpg?tf=1200x' alt='Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
