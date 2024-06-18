@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-3518823.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617'>Galaxy Book 4 Edge: el PC con IA de Samsung llega a España </a></h4>
+    <a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/galaxy-book-4-edge-3541093.jpg?tf=1200x' alt='Galaxy Book 4 Edge: el PC con IA de Samsung llega a España ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
+    <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
     <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939'>Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios</a></h4>
-    <a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-3506583.jpg?tf=1200x' alt='Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
-    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
-    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672'>¿Cómo puedo saber si mi coche es compatible con Android Auto?</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='¿Cómo puedo saber si mi coche es compatible con Android Auto?' />
     </a>
 </div>
 
