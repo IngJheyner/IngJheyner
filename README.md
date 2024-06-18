@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486'>Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla</a></h4>
-    <a href='https://computerhoy.com/amazon/amazon-confiesa-lleva-anos-contratando-gente-simplemente-luego-despedirla-1390486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despidos-amazon-3492605.jpg?tf=1200x' alt='Amazon confiesa que lleva años contratando a gente simplemente para luego despedirla' />
+    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/no-todo-sale-bien-apple-funcion-apple-pay-desaparece-meses-1391558'>No todo le sale bien a Apple y esta función de Apple Pay desaparece tras unos meses</a></h4>
-    <a href='https://computerhoy.com/apple/no-todo-sale-bien-apple-funcion-apple-pay-desaparece-meses-1391558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-pay-funcion-3539985.jpg?tf=1200x' alt='No todo le sale bien a Apple y esta función de Apple Pay desaparece tras unos meses' />
+    <h4><a href='https://computerhoy.com/apple/futuro-apple-carplay-inalambrico-automatico-integrado-pantallas-coche-1391567'>El futuro Apple CarPlay: inalámbrico, automático e integrado en las pantallas de tu coche</a></h4>
+    <a href='https://computerhoy.com/apple/futuro-apple-carplay-inalambrico-automatico-integrado-pantallas-coche-1391567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3540285.jpg?tf=1200x' alt='El futuro Apple CarPlay: inalámbrico, automático e integrado en las pantallas de tu coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-puedes-instalar-skyshowtime-fire-tv-stick-1208320'>Cómo puedes instalar SkyShowtime en tu Fire TV Stick</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-puedes-instalar-skyshowtime-fire-tv-stick-1208320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/skyshowtime-fire-tv-stick-2971146.jpg?tf=1200x' alt='Cómo puedes instalar SkyShowtime en tu Fire TV Stick' />
+    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
+    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/router-xiaomi-canon-exprime-fibra-ahora-cuesta-mitad-1391550'>Este router Xiaomi es un cañón que exprime tu fibra y ahora cuesta la mitad</a></h4>
+    <a href='https://computerhoy.com/tecnologia/router-xiaomi-canon-exprime-fibra-ahora-cuesta-mitad-1391550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg?tf=1200x' alt='Este router Xiaomi es un cañón que exprime tu fibra y ahora cuesta la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882'>PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-vs-copilot-diferencian-cual-mejor-ti-3503916.jpg?tf=1200x' alt='PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti' />
+    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
+    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
     </a>
 </div>
 
