@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-puedes-instalar-skyshowtime-fire-tv-stick-1208320'>Cómo puedes instalar SkyShowtime en tu Fire TV Stick</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-puedes-instalar-skyshowtime-fire-tv-stick-1208320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/skyshowtime-fire-tv-stick-2971146.jpg?tf=1200x' alt='Cómo puedes instalar SkyShowtime en tu Fire TV Stick' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
-    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
+    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
+    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-1391541'>Boeing envió a dos astronautas a la Estación Espacial, pero ahora no pueden volver</a></h4>
-    <a href='https://computerhoy.com/espacio/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-1391541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-3538211.jpg?tf=1200x' alt='Boeing envió a dos astronautas a la Estación Espacial, pero ahora no pueden volver' />
+    <h4><a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882'>PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.com/tecnologia/pc-ia-vs-copilot-diferencian-cual-mejor-ti-1390882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/pc-ia-vs-copilot-diferencian-cual-mejor-ti-3503916.jpg?tf=1200x' alt='PC con IA vs. Copilot+: en qué se diferencian y cuál es mejor para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961'>Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502072.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla' />
+    <h4><a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
-    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
+    <h4><a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512'>Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)</a></h4>
+    <a href='https://computerhoy.com/apps/japon-recurre-desesperadamente-tecnologia-solucionar-problemas-natalidad-no-mucho-peor-espana-1390512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/quiere-resolver-japon-problemas-natalidad-app-solteros-3492130.jpg?tf=1200x' alt='Japón recurre desesperadamente a la tecnología para solucionar sus problemas de natalidad (y no está mucho peor que España)' />
     </a>
 </div>
 
