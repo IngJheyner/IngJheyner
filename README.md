@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
-    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-detras-hackeo-santander-ticketmaster-cuentan-como-hicieron-1391578'>Los ciberdelincuentes detrás del hackeo al Santander y TicketMaster cuentan cómo lo hicieron</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-detras-hackeo-santander-ticketmaster-cuentan-como-hicieron-1391578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-santander-ticketmaster-3540458.jpg?tf=1200x' alt='Los ciberdelincuentes detrás del hackeo al Santander y TicketMaster cuentan cómo lo hicieron' />
+    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
+    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
-    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
+    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
+    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/futuro-apple-carplay-inalambrico-automatico-integrado-pantallas-coche-1391567'>El futuro Apple CarPlay: inalámbrico, automático e integrado en las pantallas de tu coche</a></h4>
-    <a href='https://computerhoy.com/apple/futuro-apple-carplay-inalambrico-automatico-integrado-pantallas-coche-1391567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-carplay-3540285.jpg?tf=1200x' alt='El futuro Apple CarPlay: inalámbrico, automático e integrado en las pantallas de tu coche' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
-    <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
+    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
+    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
     </a>
 </div>
 
