@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/he-pasado-rato-oppo-reno12-pro-diseno-llamativo-ia-escondida-simple-vista-1391459'>He pasado un rato con el Oppo Reno12 Pro: diseño llamativo y una IA escondida a simple vista</a></h4>
-    <a href='https://computerhoy.com/moviles/he-pasado-rato-oppo-reno12-pro-diseno-llamativo-ia-escondida-simple-vista-1391459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-reno12-pro-3534505.jpg?tf=1200x' alt='He pasado un rato con el Oppo Reno12 Pro: diseño llamativo y una IA escondida a simple vista' />
+    <h4><a href='https://computerhoy.com/tecnologia/ni-programadores-ni-cientificos-datos-mapa-empleos-tecnologicos-demandados-cada-ccaa-1391641'>Ni programadores ni científicos de datos: el mapa de los empleos tecnológicos más demandados por cada CCAA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ni-programadores-ni-cientificos-datos-mapa-empleos-tecnologicos-demandados-cada-ccaa-1391641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/robots-empleo-2112791.jpg?tf=1200x' alt='Ni programadores ni científicos de datos: el mapa de los empleos tecnológicos más demandados por cada CCAA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/oppo-reno-12-reno-12-pro-oppo-watch-x-caracteristicas-precios-informacion-1391329'>Oppo se lanza a la conquista: llegan los Reno12 Pro y Reno12, su primer smartwatch Wear OS y más auriculares</a></h4>
-    <a href='https://computerhoy.com/moviles/oppo-reno-12-reno-12-pro-oppo-watch-x-caracteristicas-precios-informacion-1391329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-reno12-pro-3529492.jpg?tf=1200x' alt='Oppo se lanza a la conquista: llegan los Reno12 Pro y Reno12, su primer smartwatch Wear OS y más auriculares' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316'>Cómo hacer tu viejo PC con Windows utilizable otra vez con el script Tron</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-2961980.jpg?tf=1200x' alt='Cómo hacer tu viejo PC con Windows utilizable otra vez con el script Tron' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
-    <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3541592.jpg?tf=1200x' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
+    <h4><a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982'>Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales</a></h4>
+    <a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-3507457.jpg?tf=1200x' alt='Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656'>Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología' />
+    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
+    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128'>¿Cómo llamar a Vodafone gratis desde cualquier operador?</a></h4>
-    <a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='¿Cómo llamar a Vodafone gratis desde cualquier operador?' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
     </a>
 </div>
 
