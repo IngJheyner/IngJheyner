@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-detras-hackeo-santander-ticketmaster-cuentan-como-hicieron-1391578'>Los ciberdelincuentes detrás del hackeo al Santander y TicketMaster cuentan cómo lo hicieron</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/ciberdelincuentes-detras-hackeo-santander-ticketmaster-cuentan-como-hicieron-1391578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hackeo-santander-ticketmaster-3540458.jpg?tf=1200x' alt='Los ciberdelincuentes detrás del hackeo al Santander y TicketMaster cuentan cómo lo hicieron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
     <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913'>¿Un político generado con IA? Existe y se puede votar por él en Reino Unido</a></h4>
     <a href='https://computerhoy.com/tecnologia/politico-generado-ia-existe-puede-votar-reino-unido-1390913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-steve-politica-3506280.jpg?tf=1200x' alt='¿Un político generado con IA? Existe y se puede votar por él en Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/router-xiaomi-canon-exprime-fibra-ahora-cuesta-mitad-1391550'>Este router Xiaomi es un cañón que exprime tu fibra y ahora cuesta la mitad</a></h4>
-    <a href='https://computerhoy.com/tecnologia/router-xiaomi-canon-exprime-fibra-ahora-cuesta-mitad-1391550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/xiaomi-mesh-system-ax3000-analisis-opinion-2525597.jpg?tf=1200x' alt='Este router Xiaomi es un cañón que exprime tu fibra y ahora cuesta la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886'>Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca</a></h4>
-    <a href='https://computerhoy.com/tutoriales/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-1390886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hacer-cuando-menu-inicio-windows-11-no-responde-atasca-3504760.jpg?tf=1200x' alt='Qué hacer cuando el menú Inicio de Windows 11 no responde y se atasca' />
     </a>
 </div>
 
