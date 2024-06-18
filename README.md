@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
-    <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723'>La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing</a></h4>
     <a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-advierte-fans-bluetooth-cuidado-bluesnarfing-3543745.jpg?tf=1200x' alt='La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566'>Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos</a></h4>
     <a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lampara-antimosquitos-palone-3540216.jpg?tf=1200x' alt='Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
+    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
