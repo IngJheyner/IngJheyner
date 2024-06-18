@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
-    <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
+    <h4><a href='https://computerhoy.com/moviles/he-pasado-rato-oppo-reno12-pro-diseno-llamativo-ia-escondida-simple-vista-1391459'>He pasado un rato con el Oppo Reno12 Pro: diseño llamativo y una IA escondida a simple vista</a></h4>
+    <a href='https://computerhoy.com/moviles/he-pasado-rato-oppo-reno12-pro-diseno-llamativo-ia-escondida-simple-vista-1391459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-reno12-pro-3534505.jpg?tf=1200x' alt='He pasado un rato con el Oppo Reno12 Pro: diseño llamativo y una IA escondida a simple vista' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
-    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
+    <h4><a href='https://computerhoy.com/moviles/oppo-reno-12-reno-12-pro-oppo-watch-x-caracteristicas-precios-informacion-1391329'>Oppo se lanza a la conquista: llegan los Reno12 Pro y Reno12, su primer smartwatch Wear OS y más auriculares</a></h4>
+    <a href='https://computerhoy.com/moviles/oppo-reno-12-reno-12-pro-oppo-watch-x-caracteristicas-precios-informacion-1391329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oppo-reno12-pro-3529492.jpg?tf=1200x' alt='Oppo se lanza a la conquista: llegan los Reno12 Pro y Reno12, su primer smartwatch Wear OS y más auriculares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-3518823.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
+    <h4><a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413'>Google Traductor: guía completa y trucos del mejor traductor online</a></h4>
+    <a href='https://computerhoy.com/reportajes/tecnologia/google-traductor-guia-definitiva-usar-traductor-352413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3541592.jpg?tf=1200x' alt='Google Traductor: guía completa y trucos del mejor traductor online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
+    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656'>Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617'>Galaxy Book 4 Edge: el PC con IA de Samsung llega a España </a></h4>
-    <a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/galaxy-book-4-edge-3541093.jpg?tf=1200x' alt='Galaxy Book 4 Edge: el PC con IA de Samsung llega a España ' />
+    <h4><a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128'>¿Cómo llamar a Vodafone gratis desde cualquier operador?</a></h4>
+    <a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='¿Cómo llamar a Vodafone gratis desde cualquier operador?' />
     </a>
 </div>
 
