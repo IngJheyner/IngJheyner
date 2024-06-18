@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"' />
+    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
+    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-redmi-pad-se-tablet-barata-oferta-1367237'>Esta tablet Xiaomi rompe la web: cuesta 150 euros y es perfecta para jugar y ver series</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-redmi-pad-se-tablet-barata-oferta-1367237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Esta tablet Xiaomi rompe la web: cuesta 150 euros y es perfecta para jugar y ver series' />
+    <h4><a href='https://computerhoy.com/espacio/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-1391541'>Boeing envió a dos astronautas a la Estación Espacial, pero ahora no pueden volver</a></h4>
+    <a href='https://computerhoy.com/espacio/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-1391541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/boeing-envio-dos-astronautas-estacion-espacial-pero-ahora-no-pueden-volver-3538211.jpg?tf=1200x' alt='Boeing envió a dos astronautas a la Estación Espacial, pero ahora no pueden volver' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
-    <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961'>Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502072.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648'>Las curiosidades que no conocías sobre Elon Musk</a></h4>
-    <a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/curiosidades-no-conocias-elon-musk-3447186.jpg?tf=1200x' alt='Las curiosidades que no conocías sobre Elon Musk' />
+    <h4><a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654'>Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan</a></h4>
+    <a href='https://computerhoy.com/pc/-huawei-matebook-x-pro-2024-como-primeras-impresiones-enganan-1389654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/huawei-matebook-x-pro-2024-3417033.jpg?tf=1200x' alt='Lo que más me ha gustado del Huawei MateBook X Pro (2024) es cómo las primeras impresiones engañan' />
     </a>
 </div>
 
