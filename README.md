@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967'>Cómo subir y publicar vídeos largos en Instagram</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-subir-publicar-videos-largos-instagram-1390967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/instagram-videos-3507217.jpg?tf=1200x' alt='Cómo subir y publicar vídeos largos en Instagram' />
+    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
+    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
+    <h4><a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939'>Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios</a></h4>
+    <a href='https://computerhoy.com/apps/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-1390939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/adios-bloqueadores-youtube-ha-encontrado-forma-obligarte-ver-todos-anuncios-3506583.jpg?tf=1200x' alt='Adiós bloqueadores: YouTube ha encontrado la forma de obligarte a ver todos sus anuncios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
-    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580'>El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-1391580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-te-muestra-donde-viene-apellido-cuantas-personas-comparten-3540613.jpg?tf=1200x' alt='El Google Maps que te muestra de dónde viene tu apellido y cuántas personas lo comparten' />
+    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
+    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672'>¿Cómo puedo saber si mi coche es compatible con Android Auto?</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-puedo-saber-mi-coche-compatible-android-auto-1390672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-puedo-saber-mi-coche-compatible-android-auto-3497636.jpg?tf=1200x' alt='¿Cómo puedo saber si mi coche es compatible con Android Auto?' />
     </a>
 </div>
 
