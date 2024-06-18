@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
+    <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
+    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938'>Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-1186938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-misma-cuenta-whatsapp-dos-smartphones-android-vez-3518823.jpg?tf=1200x' alt='Cómo usar la misma cuenta de WhatsApp en dos smartphones Android a la vez' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617'>Galaxy Book 4 Edge: el PC con IA de Samsung llega a España </a></h4>
     <a href='https://computerhoy.com/pc/galaxy-book-4-edge-pc-ia-samsung-llega-espana-1391617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/galaxy-book-4-edge-3541093.jpg?tf=1200x' alt='Galaxy Book 4 Edge: el PC con IA de Samsung llega a España ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
-    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
     </a>
 </div>
 
