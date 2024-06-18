@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750'>Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-1390750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/vuelve-estafa-correos-cuidado-mensaje-pone-peligro-seguridad-3499795.jpg?tf=1200x' alt='Vuelve la estafa de Correos: cuidado con este mensaje que pone en peligro tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/xiaomi-redmi-pad-se-tablet-barata-oferta-1367237'>Esta tablet Xiaomi rompe la web: cuesta 150 euros y es perfecta para jugar y ver series</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-redmi-pad-se-tablet-barata-oferta-1367237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/redmi-pad-3309496.jpg?tf=1200x' alt='Esta tablet Xiaomi rompe la web: cuesta 150 euros y es perfecta para jugar y ver series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888'>El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos</a></h4>
     <a href='https://computerhoy.com/ciencia/neutrinos-llave-nueva-ciencia-universo-1390888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/misterio-neutrinos-llave-nueva-ciencia-no-comprendemos-3504759.jpg?tf=1200x' alt='El misterio de los neutrinos: la llave de una nueva ciencia que no comprendemos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648'>Las curiosidades que no conocías sobre Elon Musk</a></h4>
     <a href='https://computerhoy.com/life/curiosidades-no-conocias-elon-musk-1389648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/curiosidades-no-conocias-elon-musk-3447186.jpg?tf=1200x' alt='Las curiosidades que no conocías sobre Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883'>Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flow-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-1390883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/empresa-asegura-puede-multiplicar-100-rendimiento-cualquier-cpu-3503355.jpg?tf=1200x' alt='Esta empresa asegura que puede multiplicar por 100 el rendimiento de cualquier CPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
-    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875'>Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze</a></h4>
-    <a href='https://computerhoy.com/tecnologia/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-1390875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/mi-aplicacion-favorita-detectar-radares-android-auto-renunciar-utilizar-google-maps-waze-3503356.jpg?tf=1200x' alt='Esta es mi aplicación favorita para detectar radares en Android Auto sin renunciar a utilizar Google Maps o Waze' />
     </a>
 </div>
 
