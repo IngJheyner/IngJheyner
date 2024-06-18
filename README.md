@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473'>No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-gladiator-5-peliculas-ambientadas-imperio-romano-no-puedes-perderte-3534662.jpg?tf=1200x' alt='No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161'>Cómo acelerar la instalación de las actualizaciones de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='Cómo acelerar la instalación de las actualizaciones de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326'>Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano</a></h4>
-    <a href='https://computerhoy.com/tecnologia/anulan-premio-concurso-fotografico-ia-foto-hizo-humano-1391326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/anulan-premio-concurso-fotografico-ia-porque-foto-hizo-humano-3528928.jpg?tf=1200x' alt='Anulan el premio de un concurso fotográfico para IA, porque la foto la hizo un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400'>¿Es posible desaparecer por completo de Internet?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/posible-desaparecer-completo-internet-1390400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/posible-desaparecer-completo-internet-3486767.jpg?tf=1200x' alt='¿Es posible desaparecer por completo de Internet?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241'>Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares</a></h4>
     <a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-3517612.jpg?tf=1200x' alt='Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014'>Qué es el “slop”, el nuevo spam creado por la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/slop-nuevo-spam-creado-inteligencia-artificial-3508210.jpg?tf=1200x' alt='Qué es el “slop”, el nuevo spam creado por la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685'>Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-3543010.jpg?tf=1200x' alt='Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604'>Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba</a></h4>
+    <a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
     </a>
 </div>
 
