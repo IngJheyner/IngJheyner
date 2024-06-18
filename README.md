@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241'>Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-1391241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-compartir-hora-llegada-destino-google-maps-amigos-familiares-3517612.jpg?tf=1200x' alt='Cómo compartir la hora de llegada a tu destino en Google Maps con amigos y familiares' />
+    <h4><a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033'>Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor</a></h4>
+    <a href='https://computerhoy.com/hogar/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-1391033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/errores-cometes-freidora-aire-darte-cuenta-hacen-comida-sepa-peor-3509064.jpg?tf=1200x' alt='Errores que cometes con la freidora de aire sin darte cuenta de que hacen que la comida sepa peor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014'>Qué es el “slop”, el nuevo spam creado por la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/slop-nuevo-spam-creado-inteligencia-artificial-3508210.jpg?tf=1200x' alt='Qué es el “slop”, el nuevo spam creado por la inteligencia artificial' />
+    <h4><a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566'>Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos</a></h4>
+    <a href='https://computerhoy.com/tecnologia/di-adios-mosquitos-lampara-arrasa-amazon-deja-fritos-1391566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lampara-antimosquitos-palone-3540216.jpg?tf=1200x' alt='Di adiós a los mosquitos: esta lámpara arrasa en Amazon y los deja fritos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685'>Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte</a></h4>
-    <a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-3543010.jpg?tf=1200x' alt='Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte' />
+    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
+    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604'>Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba</a></h4>
-    <a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba' />
+    <h4><a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812'>La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-1390812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-no-nueva-pelicula-olvidada-autor-parque-jurasico-ya-alertada-peligro-maquinas-1973-3500855.jpg?tf=1200x' alt='La IA no es nueva: la película olvidada del autor de Parque Jurásico que ya alertada del peligro de las máquinas… ¡en 1973!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473'>No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-gladiator-5-peliculas-ambientadas-imperio-romano-no-puedes-perderte-3534662.jpg?tf=1200x' alt='No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte' />
     </a>
 </div>
 
