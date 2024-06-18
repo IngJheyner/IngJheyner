@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685'>Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-3543010.jpg?tf=1200x' alt='Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604'>Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba</a></h4>
+    <a href='https://computerhoy.com/android/potente-10-pantalla-solo-80-euros-tablet-pone-aliexpress-patas-arriba-1391604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/teclast-m50-3209106.jpg?tf=1200x' alt='Potente, con 10" de pantalla y por sólo 80 euros: esta tablet pone AliExpress patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517'>Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-1391517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-truco-udm14-navegador-bloquear-contenido-generado-ia-3536758.jpg?tf=1200x' alt='Cómo usar el truco udm=14 en tu navegador para bloquear contenido generado por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957'>España entra en el pódium de las IPTV (y no es para estar orgulloso)</a></h4>
+    <a href='https://computerhoy.com/tv/espana-podium-iptv-no-estar-orgulloso-1390957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/espana-podium-iptv-no-estar-orgulloso-3506847.jpg?tf=1200x' alt='España entra en el pódium de las IPTV (y no es para estar orgulloso)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ni-programadores-ni-cientificos-datos-mapa-empleos-tecnologicos-demandados-cada-ccaa-1391641'>Ni programadores ni científicos de datos: el mapa de los empleos tecnológicos más demandados por cada CCAA</a></h4>
     <a href='https://computerhoy.com/tecnologia/ni-programadores-ni-cientificos-datos-mapa-empleos-tecnologicos-demandados-cada-ccaa-1391641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/10/robots-empleo-2112791.jpg?tf=1200x' alt='Ni programadores ni científicos de datos: el mapa de los empleos tecnológicos más demandados por cada CCAA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316'>Cómo hacer tu viejo PC con Windows utilizable otra vez con el script Tron</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-hacer-viejo-pc-windows-usable-otra-vez-script-tron-1203316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/ordenador-2961980.jpg?tf=1200x' alt='Cómo hacer tu viejo PC con Windows utilizable otra vez con el script Tron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982'>Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales</a></h4>
-    <a href='https://computerhoy.com/apps/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-1390982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-ha-lanzado-actualizacion-emergencia-fallo-funciones-esenciales-3507457.jpg?tf=1200x' alt='Google Maps ha lanzado una actualización de emergencia tras el fallo de una de sus funciones esenciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017'>Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido</a></h4>
-    <a href='https://computerhoy.com/google/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-1391017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Ni reiniciar ni limpiar la caché, este es el truco infalible para que Google Maps funcione siempre perfecto y fluido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
     </a>
 </div>
 
