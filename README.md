@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
+    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656'>Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/fussballiebe-balon-euro-2024-apuesta-tecnologia-1336656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/fussballiebe-3224540.jpg?tf=1200x' alt='Así es Fussballiebe, el balón de la Euro 2024 que apuesta por la tecnología' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729'>Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil</a></h4>
+    <a href='https://computerhoy.com/tecnologia/usb-pd-como-funciona-importante-carga-movil-1391729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-pd-como-funciona-importante-carga-movil-3545852.jpg?tf=1200x' alt='Qué es USB PD, cómo funciona y por qué es importante para la carga de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128'>¿Cómo llamar a Vodafone gratis desde cualquier operador?</a></h4>
+    <a href='https://computerhoy.com/moviles/como-llamar-vodafone-gratis-cualquier-operador-1391128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-llamar-vodafone-gratis-cualquier-operador-3513228.jpg?tf=1200x' alt='¿Cómo llamar a Vodafone gratis desde cualquier operador?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
     <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
-    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
-    <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significan-numeros-letras-procesadores-intel-3538940.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798'>Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús</a></h4>
-    <a href='https://computerhoy.com/tutoriales/verano-joven-2024-requisitos-como-registrarte-conseguir-descuentos-90-billetes-tren-autobus-1391798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verano-joven-2024-3548803.jpg?tf=1200x' alt='Verano Joven 2024: requisitos y cómo registrarte para conseguir descuentos de hasta el 90% en billetes de tren y autobús' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
     </a>
 </div>
 
