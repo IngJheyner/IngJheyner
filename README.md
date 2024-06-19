@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864'>Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas</a></h4>
-    <a href='https://computerhoy.com/google/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-1391864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-maps-vuelve-loco-quiere-eliminar-funciones-favoritas-3549706.jpg?tf=1200x' alt='Google Maps se vuelve loco, quiere eliminar una de mis funciones favoritas' />
+    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
+    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795'>Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar</a></h4>
-    <a href='https://computerhoy.com/redes/cambios-whatsapp-tres-nuevas-funciones-puedes-empezar-usar-1391795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/whatsapp-3548490.jpg?tf=1200x' alt='Cambios en WhatsApp: las tres nuevas funciones que puedes empezar a usar' />
+    <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198'>10 funciones geniales de Kodi para exprimir al máximo todo su potencial</a></h4>
-    <a href='https://computerhoy.com/tecnologia/10-funciones-brutales-kodi-exprimir-maximo-todo-potencial-1256198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/kodi-logo-3051872.jpg?tf=1200x' alt='10 funciones geniales de Kodi para exprimir al máximo todo su potencial' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473'>No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-gladiator-5-peliculas-ambientadas-imperio-romano-no-puedes-perderte-3534662.jpg?tf=1200x' alt='No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
+    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
+    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161'>Cómo acelerar la instalación de las actualizaciones de Windows 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='Cómo acelerar la instalación de las actualizaciones de Windows 11' />
     </a>
 </div>
 
