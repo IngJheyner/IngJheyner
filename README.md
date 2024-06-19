@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
+    <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
+    <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908'>Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces</a></h4>
+    <a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-estrena-espana-frigorificos-lg-mood-pantallas-dinamica-led-altavoces-3550436.jpg?tf=1200x' alt='Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/entretenimiento/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-1391673'>Premios Top Teachers 2024: quiénes son los creadores de contenido formativo y divulgativo del año</a></h4>
     <a href='https://computerhoy.com/entretenimiento/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-1391673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-3551144.jpg?tf=1200x' alt='Premios Top Teachers 2024: quiénes son los creadores de contenido formativo y divulgativo del año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
     <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
-    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225'>Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas</a></h4>
-    <a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
-    <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
     </a>
 </div>
 
