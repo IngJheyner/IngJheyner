@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
+    <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601'>No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress</a></h4>
     <a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/zeblade-beyond-3-3540771.jpg?tf=1200x' alt='No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
-    <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bono-cultural-joven-2024-requisitos-como-solicitarlo-puedes-gastar-subvencion-400-euros-3305070.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
     </a>
 </div>
 
