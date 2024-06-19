@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174'>Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"</a></h4>
-    <a href='https://computerhoy.com/apple/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-1391174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-elige-momento-favorito-presentaciones-steve-jobs-fue-gran-momento-apple-3514107.jpg?tf=1200x' alt='Tim Cook elige su momento favorito de las presentaciones de Steve Jobs: "Fue un gran momento para Apple"' />
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789'>ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-1391789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ia-son-burbuja-desinflara-no-sirve-nada-defiende-nuevo-estudio-3547729.jpg?tf=1200x' alt='ChatGPT y la IA son una burbuja que se desinflará: “no sirve para nada”, defiende un nuevo estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533'>Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-1391533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-mejorar-rendimiento-mi-raspberry-pi-5-instalando-ssd-3537475.jpg?tf=1200x' alt='Cómo mejorar el rendimiento de mi Raspberry Pi 5 instalando un SSD' />
+    <h4><a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014'>Qué es el “slop”, el nuevo spam creado por la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.com/internet/slop-nuevo-spam-creado-inteligencia-artificial-1391014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/slop-nuevo-spam-creado-inteligencia-artificial-3508210.jpg?tf=1200x' alt='Qué es el “slop”, el nuevo spam creado por la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242'>Diferencias entre CPU, GPU, iGPU y APU</a></h4>
-    <a href='https://computerhoy.com/pc/diferencias-cpu-gpu-igpu-apu-1391242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/diferencias-cpu-gpu-igpu-apu-3518015.jpg?tf=1200x' alt='Diferencias entre CPU, GPU, iGPU y APU' />
+    <h4><a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685'>Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte</a></h4>
+    <a href='https://computerhoy.com/tecnologia/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-1391685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/flipper-zero-convierte-pesadilla-muchos-hoteles-evita-caja-fuerte-3543010.jpg?tf=1200x' alt='Flipper Zero se convierte en la pesadilla de muchos hoteles: evita la caja fuerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728'>La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto</a></h4>
-    <a href='https://computerhoy.com/tecnologia/verdad-detras-procesadores-128-bits-no-veremos-pronto-1391728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fabricantes-no-han-creado-procesadores-128-bits-3545576.jpg?tf=1200x' alt='La verdad detrás de los procesadores de 128 bits y por qué no los veremos pronto' />
+    <h4><a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885'>¿Cómo usar Android Auto en motos?</a></h4>
+    <a href='https://computerhoy.com/android/como-usar-android-auto-motos-1390885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-usar-android-auto-motos-3504195.jpg?tf=1200x' alt='¿Cómo usar Android Auto en motos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605'>Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)</a></h4>
-    <a href='https://computerhoy.com/tecnologia/todo-debes-saber-usb-c-cargar-bateria-cada-vez-marcas-integran-incluso-apple-1390605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/usb-c-3514047.jpg?tf=1200x' alt='Todo lo que debes saber del USB-C para cargar la batería y por qué cada vez más marcas lo integran (incluso Apple)' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699'>Cómo cambiar el nombre de usuario en Windows 10 y 11</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-cambiar-nombre-usuario-windows-10-11-1389699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/funciones-deberias-desactivar-windows-11-mejor-experiencia-3411812.jpg?tf=1200x' alt='Cómo cambiar el nombre de usuario en Windows 10 y 11' />
     </a>
 </div>
 
