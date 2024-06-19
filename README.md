@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356'>ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA</a></h4>
+    <a href='https://computerhoy.com/tecnologia/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-1391356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-no-sabe-todo-estos-son-temas-nunca-debes-dejar-manos-ia-3532913.jpg?tf=1200x' alt='ChatGPT no lo sabe todo: estos son los temas que nunca debes dejar en manos de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114'>Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/tener-mano-muy-larga-dar-cualquiera-correo-te-puede-salir-muy-caro-bomba-relojeria-1391114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-correo-3513171.jpg?tf=1200x' alt='Tener la mano muy larga y dar a cualquiera tu correo te puede salir muy caro: "es una bomba de relojería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107'>Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/raspberry-pi-tendra-add-nuevas-funciones-ia-aunque-tiene-limitaciones-1391107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/raspberry-pi-3513308.jpg?tf=1200x' alt='Raspberry Pi tendrá un add-on con nuevas funciones de IA, aunque tiene sus limitaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/estrategia-3-strikes-iptv-futbol-gratis-comienza-dar-resultados-1391774'>La estrategia de los "3 strikes" contra las IPTV y el fútbol gratis comienza a dar resultados</a></h4>
+    <a href='https://computerhoy.com/tv/estrategia-3-strikes-iptv-futbol-gratis-comienza-dar-resultados-1391774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estrategia-3-strikes-iptv-futbol-gratis-comienza-dar-resultados-3547455.jpg?tf=1200x' alt='La estrategia de los "3 strikes" contra las IPTV y el fútbol gratis comienza a dar resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372'>Las tres reglas de Google para que los robots sean seguros</a></h4>
     <a href='https://computerhoy.com/tecnologia/tres-reglas-google-robots-sean-seguros-1391372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tres-reglas-google-robots-sean-seguros-3533148.jpg?tf=1200x' alt='Las tres reglas de Google para que los robots sean seguros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601'>No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress</a></h4>
-    <a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/zeblade-beyond-3-3540771.jpg?tf=1200x' alt='No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/apple-ha-suspendido-proyecto-vision-pro-2-pero-no-abandona-completo-1391752'>Apple ha suspendido el proyecto de las Vision Pro 2, pero no lo abandona por completo</a></h4>
-    <a href='https://computerhoy.com/apple/apple-ha-suspendido-proyecto-vision-pro-2-pero-no-abandona-completo-1391752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple ha suspendido el proyecto de las Vision Pro 2, pero no lo abandona por completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/motor/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-1391751'>Estas inocentes apps registran tus hábitos de conducción y los venden a las aseguradoras</a></h4>
-    <a href='https://computerhoy.com/motor/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-1391751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-3546699.jpg?tf=1200x' alt='Estas inocentes apps registran tus hábitos de conducción y los venden a las aseguradoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
