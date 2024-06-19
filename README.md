@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
+    <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
+    <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535'>Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'</a></h4>
     <a href='https://computerhoy.com/redes/etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-1391535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estados-unidos-quiere-poner-etiquetas-aviso-tiktok-facebook-redes-sociales-son-nocivas-salud-3536902.jpg?tf=1200x' alt='Estados Unidos quiere poner etiquetas de aviso en TikTok y Facebook: 'Las redes sociales son nocivas para tu salud'' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908'>Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces</a></h4>
     <a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-estrena-espana-frigorificos-lg-mood-pantallas-dinamica-led-altavoces-3550436.jpg?tf=1200x' alt='Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-1391673'>Premios Top Teachers 2024: quiénes son los creadores de contenido formativo y divulgativo del año</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-1391673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/premios-top-teachers-2024-quienes-son-creadores-contenido-formativo-divulgativo-ano-3551144.jpg?tf=1200x' alt='Premios Top Teachers 2024: quiénes son los creadores de contenido formativo y divulgativo del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
-    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
     </a>
 </div>
 
