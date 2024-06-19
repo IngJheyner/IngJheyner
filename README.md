@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
+    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
+    <a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613'>OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
+    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175'>Ayuno digital: 4 razones para desconectar del móvil en vacaciones</a></h4>
     <a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayuno-digital-4-razones-desconectar-movil-vacaciones-3514105.jpg?tf=1200x' alt='Ayuno digital: 4 razones para desconectar del móvil en vacaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/android/xiaomi-barato-menos-300-euros-oferta-aliexpress-1380822'>Xiaomi la lía en las rebajas de AliExpress: su móvil barato top ventas revienta su precio de forma temporal</a></h4>
-    <a href='https://computerhoy.com/android/xiaomi-barato-menos-300-euros-oferta-aliexpress-1380822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-redmi-note-13-pro-5g-xiaomi-redmi-note-13-pro-plus-5g-3366920.jpg?tf=1200x' alt='Xiaomi la lía en las rebajas de AliExpress: su móvil barato top ventas revienta su precio de forma temporal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
-    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961'>Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla</a></h4>
-    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502072.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/audio/ni-airpods-ni-sony-auriculares-ear-mejor-modo-ambiente-he-probado-anos-son-estos-1389559'>Ni AirPods ni Sony: los auriculares 'in-ear' con mejor modo ambiente que he probado en años son estos</a></h4>
-    <a href='https://computerhoy.com/audio/ni-airpods-ni-sony-auriculares-ear-mejor-modo-ambiente-he-probado-anos-son-estos-1389559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-freebuds-6i-3451627.jpg?tf=1200x' alt='Ni AirPods ni Sony: los auriculares 'in-ear' con mejor modo ambiente que he probado en años son estos' />
     </a>
 </div>
 
