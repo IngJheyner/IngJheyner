@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392'>Los robots humanoides con las expresiones faciales más realistas que parecen personas</a></h4>
-    <a href='https://computerhoy.com/tecnologia/robots-humanoides-expresiones-faciales-realistas-parecen-personas-1391392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/robots-humanoides-3533474.jpg?tf=1200x' alt='Los robots humanoides con las expresiones faciales más realistas que parecen personas' />
+    <h4><a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881'>Cómo crear encuestas desde WhatsApp y usos divertidos</a></h4>
+    <a href='https://computerhoy.com/tutoriales/tecnologia/como-crear-encuestas-whatsapp-usos-divertidos-1159881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-crear-encuestas-whatsapp-usos-divertidos-3344719.jpg?tf=1200x' alt='Cómo crear encuestas desde WhatsApp y usos divertidos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
-    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
+    <h4><a href='https://computerhoy.com/tecnologia/amd-investigando-presunto-robo-informacion-productos-futuros-bases-datos-empleados-clientes-1391805'>AMD está investigando un presunto robo de información de productos futuros, bases de datos de empleados y de clientes</a></h4>
+    <a href='https://computerhoy.com/tecnologia/amd-investigando-presunto-robo-informacion-productos-futuros-bases-datos-empleados-clientes-1391805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amd-procesadores-3211572.jpg?tf=1200x' alt='AMD está investigando un presunto robo de información de productos futuros, bases de datos de empleados y de clientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393'>La app que ha sido creada con el objetivo de destruir todos los iPhone</a></h4>
-    <a href='https://computerhoy.com/apps/app-ha-sido-creada-objetivo-destruir-todos-iphone-1391393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/app-ha-sido-creada-objetivo-destruir-todos-iphone-3533473.jpg?tf=1200x' alt='La app que ha sido creada con el objetivo de destruir todos los iPhone' />
+    <h4><a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606'>Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo</a></h4>
+    <a href='https://computerhoy.com/industria/enrutamiento-internet-como-funciona-te-interesa-conocerlo-1391606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciudad-conectada-3540924.jpg?tf=1200x' alt='Enrutamiento de Internet: qué es, cómo funciona y por qué te interesa conocerlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611'>Top Teachers 2024: ¡sigue la gala en directo este miércoles!</a></h4>
-    <a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718705266963-3540936.jpg?tf=1200x' alt='Top Teachers 2024: ¡sigue la gala en directo este miércoles!' />
+    <h4><a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407'>Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web</a></h4>
+    <a href='https://computerhoy.com/google/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-1391407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nueva-funcion-google-chrome-te-lee-voz-alta-cuentos-dormir-otras-paginas-web-3533625.jpg?tf=1200x' alt='Con su nueva función, Google Chrome te lee en voz alta cuentos para dormir y otras páginas web' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794'>El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial</a></h4>
-    <a href='https://computerhoy.com/windows/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-1391794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/fin-windows-10-podria-tener-efecto-catastrofico-nivel-mundial-3547899.jpg?tf=1200x' alt='El fin de Windows 10 podría tener un efecto catastrófico a nivel mundial' />
+    <h4><a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403'>El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado</a></h4>
+    <a href='https://computerhoy.com/apple/guino-escondido-macos-sequoia-muestra-como-apple-recuerda-pasado-1391403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/apple-fondos-pantalla-macosc-3533615.jpg?tf=1200x' alt='El guiño escondido en macOS Sequoia que muestra cómo Apple recuerda su pasado' />
     </a>
 </div>
 
