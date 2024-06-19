@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348'>Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos</a></h4>
-    <a href='https://computerhoy.com/apps/descubre-tres-nuevas-funciones-whatsapp-disponibles-todos-dispositivos-1391348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/whatsapp-3297899.jpg?tf=1200x' alt='Descubre las tres nuevas funciones de WhatsApp disponibles en todos los dispositivos' />
+    <h4><a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601'>No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress</a></h4>
+    <a href='https://computerhoy.com/tecnologia/no-apple-watch-cuesta-menos-30-euros-smartwatch-chino-top-ventas-aliexpress-1391601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/zeblade-beyond-3-3540771.jpg?tf=1200x' alt='No es el Apple Watch: cuesta menos de 30 euros y es un smartwatch chino top ventas en AliExpress' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
-    <a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    <h4><a href='https://computerhoy.com/apple/apple-ha-suspendido-proyecto-vision-pro-2-pero-no-abandona-completo-1391752'>Apple ha suspendido el proyecto de las Vision Pro 2, pero no lo abandona por completo</a></h4>
+    <a href='https://computerhoy.com/apple/apple-ha-suspendido-proyecto-vision-pro-2-pero-no-abandona-completo-1391752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/apple-vision-pro-3051564.jpg?tf=1200x' alt='Apple ha suspendido el proyecto de las Vision Pro 2, pero no lo abandona por completo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613'>OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.com/tecnologia/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-1390613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/openai-google-microsoft-tecnologicas-estuviesen-yendo-demasiado-deprisa-inteligencia-artificial-3493701.jpg?tf=1200x' alt='OpenAI, Google, Microsoft… ¿y si las tecnológicas estuviesen yendo demasiado deprisa con la inteligencia artificial?' />
+    <h4><a href='https://computerhoy.com/motor/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-1391751'>Estas inocentes apps registran tus hábitos de conducción y los venden a las aseguradoras</a></h4>
+    <a href='https://computerhoy.com/motor/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-1391751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-inocentes-apps-registran-habitos-conduccion-venden-aseguradoras-3546699.jpg?tf=1200x' alt='Estas inocentes apps registran tus hábitos de conducción y los venden a las aseguradoras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461'>El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-1391461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/consejo-policia-nunca-te-estafen-whatsapp-debes-hacer-3534356.jpg?tf=1200x' alt='El consejo de la Policía para que nunca te estafen por WhatsApp: esto debes hacer' />
+    <h4><a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102'>Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/como-resucitar-dispositivos-antiguos-no-compatibles-raspberry-pi-1391102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Cómo resucitar dispositivos antiguos no compatibles con una Raspberry Pi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175'>Ayuno digital: 4 razones para desconectar del móvil en vacaciones</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayuno-digital-4-razones-desconectar-movil-vacaciones-3514105.jpg?tf=1200x' alt='Ayuno digital: 4 razones para desconectar del móvil en vacaciones' />
+    <h4><a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424'>Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros</a></h4>
+    <a href='https://computerhoy.com/tutoriales/bono-cultural-joven-2024-1355424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bono-cultural-joven-2024-requisitos-como-solicitarlo-puedes-gastar-subvencion-400-euros-3305070.jpg?tf=1200x' alt='Bono Cultural Joven 2024: requisitos, cómo solicitarlo y en qué puedes gastar la subvención de 400 euros' />
     </a>
 </div>
 
