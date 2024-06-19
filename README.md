@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466'>Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio</a></h4>
+    <a href='https://computerhoy.com/life/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-1391466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/despues-anos-usando-repelentes-mosquitos-descubro-solo-necesitaba-mi-movil-accesorio-3534503.jpg?tf=1200x' alt='Después de años usando repelentes de mosquitos, descubro que solo necesitaba mi móvil y este accesorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126'>¿Cómo instalar Apple CarPlay en cualquier coche?</a></h4>
+    <a href='https://computerhoy.com/apple/como-instalar-apple-carplay-cualquier-coche-1391126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/coche-apple-carplay-3513454.jpg?tf=1200x' alt='¿Cómo instalar Apple CarPlay en cualquier coche?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812'>¿Qué significan los números y las letras en los procesadores de Intel?</a></h4>
     <a href='https://computerhoy.com/noticias/hardware/que-significan-numeros-letras-procesadores-intel-56812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significan-numeros-letras-procesadores-intel-3538940.jpg?tf=1200x' alt='¿Qué significan los números y las letras en los procesadores de Intel?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631'>Con este truco no volverás a perder un vídeo de TikTok si actualizas por error</a></h4>
     <a href='https://computerhoy.com/entretenimiento/truco-no-volveras-perder-video-tiktok-actualizas-error-1391631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/truco-no-volveras-perder-video-tiktok-actualizas-error-3541248.jpg?tf=1200x' alt='Con este truco no volverás a perder un vídeo de TikTok si actualizas por error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829'>Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi</a></h4>
-    <a href='https://computerhoy.com/windows/fallo-windows-permite-hackers-colarse-pc-traves-wifi-1391829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hackers-robo-datos-3301689.jpg?tf=1200x' alt='Un fallo de Windows permite a los hackers colarse en tu PC a través del wifi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422'>Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado</a></h4>
-    <a href='https://computerhoy.com/alimentacion/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-1391422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estas-apps-son-mejor-aliado-encontrar-aceite-oliva-barato-supermercado-3533918.jpg?tf=1200x' alt='Estas apps son tu mejor aliado para encontrar el aceite de oliva más barato en el supermercado' />
     </a>
 </div>
 
