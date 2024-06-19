@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731'>El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia</a></h4>
+    <a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-ariane-6-listo-despegar-fin-dependencia-europea-estados-unidos-rusia-3545163.jpg?tf=1200x' alt='El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727'>La IA DeepMind de Google ya crea una banda sonora observando un vídeo</a></h4>
     <a href='https://computerhoy.com/google/ia-deepmind-google-crea-banda-sonora-observando-video-1391727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-presenta-ia-crea-banda-sonora-observando-video-3544334.jpg?tf=1200x' alt='La IA DeepMind de Google ya crea una banda sonora observando un vídeo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714'>Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios</a></h4>
     <a href='https://computerhoy.com/apps/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-1391714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-google-maps-ni-waze-mejor-app-navegacion-android-auto-millones-usuarios-3544196.jpg?tf=1200x' alt='Ni Google Maps ni Waze: esta es la mejor app de navegación en Android Auto para millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723'>La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/policia-advierte-bluetooth-cuidado-bluesnarfing-1391723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/policia-advierte-fans-bluetooth-cuidado-bluesnarfing-3543745.jpg?tf=1200x' alt='La Policía advierte a los fans del Bluetooth: cuidado con el Bluesnarfing' />
     </a>
 </div>
 
