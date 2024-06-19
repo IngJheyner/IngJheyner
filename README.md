@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243'>Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-1391243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/significa-telefono-demasiado-caliente-android-auto-como-solucionarlo-3518552.jpg?tf=1200x' alt='Qué significa "El teléfono está demasiado caliente" en Android Auto y cómo solucionarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175'>Ayuno digital: 4 razones para desconectar del móvil en vacaciones</a></h4>
+    <a href='https://computerhoy.com/tecnologia/ayuno-digital-4-razones-desconectar-movil-vacaciones-1391175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ayuno-digital-4-razones-desconectar-movil-vacaciones-3514105.jpg?tf=1200x' alt='Ayuno digital: 4 razones para desconectar del móvil en vacaciones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795'>Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)</a></h4>
-    <a href='https://computerhoy.com/espacio/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-1390795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/estos-son-cambios-producen-cuerpo-humano-viajar-espacio-cuanto-tardarias-recuperarte-3500415.jpg?tf=1200x' alt='Estos son los cambios que se producen en el cuerpo humano al viajar al espacio (y cuánto tardarías en recuperarte)' />
+    <h4><a href='https://computerhoy.com/android/xiaomi-barato-menos-300-euros-oferta-aliexpress-1380822'>Xiaomi la lía en las rebajas de AliExpress: su móvil barato top ventas revienta su precio de forma temporal</a></h4>
+    <a href='https://computerhoy.com/android/xiaomi-barato-menos-300-euros-oferta-aliexpress-1380822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/xiaomi-redmi-note-13-pro-5g-xiaomi-redmi-note-13-pro-plus-5g-3366920.jpg?tf=1200x' alt='Xiaomi la lía en las rebajas de AliExpress: su móvil barato top ventas revienta su precio de forma temporal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164'>¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"</a></h4>
-    <a href='https://computerhoy.com/tecnologia/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-1391164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ia-amenaza-multimillonario-tiene-claro-no-hay-preocuparse-3513955.jpg?tf=1200x' alt='¿Es la IA una amenaza? Este multimillonario lo tiene claro: "No hay de qué preocuparse"' />
+    <h4><a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436'>¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos</a></h4>
+    <a href='https://computerhoy.com/life/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-1391436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nostalgia-desintoxicacion-estas-son-razones-boom-telefonos-tontos-3534060.jpg?tf=1200x' alt='¿Nostalgia o desintoxicación? Estas son las razones del boom de los teléfonos tontos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/pixel-8-pro-cupon-descuento-aliexpress-verano-1390311'>Google arrasa con su Pixel 8 Pro, que tiene un brutal código descuento que lo deja casi a mitad de precio</a></h4>
-    <a href='https://computerhoy.com/tecnologia/pixel-8-pro-cupon-descuento-aliexpress-verano-1390311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-8-pro-3191842.jpg?tf=1200x' alt='Google arrasa con su Pixel 8 Pro, que tiene un brutal código descuento que lo deja casi a mitad de precio' />
+    <h4><a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961'>Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla</a></h4>
+    <a href='https://computerhoy.com/apple/me-ha-gustado-ipad-air-13-pulgadas-como-no-podia-ser-menos-pantalla-1390961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ipad-air-m2-13-pulgadas-3502072.jpg?tf=1200x' alt='Lo que más me ha gustado del iPad Air de 13 pulgadas es, como no podía ser menos, su pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731'>El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia</a></h4>
-    <a href='https://computerhoy.com/espacio/cohete-ariane-6-listo-despegar-1391731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cohete-ariane-6-listo-despegar-fin-dependencia-europea-estados-unidos-rusia-3545163.jpg?tf=1200x' alt='El cohete Ariane 6, listo para despegar: el fin de la dependencia europea de Estados Unidos y Rusia' />
+    <h4><a href='https://computerhoy.com/audio/ni-airpods-ni-sony-auriculares-ear-mejor-modo-ambiente-he-probado-anos-son-estos-1389559'>Ni AirPods ni Sony: los auriculares 'in-ear' con mejor modo ambiente que he probado en años son estos</a></h4>
+    <a href='https://computerhoy.com/audio/ni-airpods-ni-sony-auriculares-ear-mejor-modo-ambiente-he-probado-anos-son-estos-1389559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-freebuds-6i-3451627.jpg?tf=1200x' alt='Ni AirPods ni Sony: los auriculares 'in-ear' con mejor modo ambiente que he probado en años son estos' />
     </a>
 </div>
 
