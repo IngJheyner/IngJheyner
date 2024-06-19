@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238'>Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador</a></h4>
+    <a href='https://computerhoy.com/gaming/detenida-aduana-350-cartuchos-nintendo-switch-sujetador-1391238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/detenida-intentar-cruzar-aduana-350-cartuchos-nintendo-switch-sujetador-3516309.jpg?tf=1200x' alt='Detenida por intentar cruzar la aduana con 350 cartuchos de Nintendo Switch en el sujetador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225'>Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas</a></h4>
+    <a href='https://computerhoy.com/tutoriales/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-1391225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odie-android-auto-descubri-truco-fijar-aplicaciones-favoritas-3516391.jpg?tf=1200x' alt='Odié Android Auto hasta que descubrí este truco para fijar mis aplicaciones favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703'>¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?</a></h4>
     <a href='https://computerhoy.com/google/no-error-google-maps-nunca-te-lleve-ruta-corta-1391703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-error-google-maps-nunca-te-lleve-ruta-corta-3543453.jpg?tf=1200x' alt='¿Por qué no es un error que Google Maps nunca te lleve por la ruta más corta?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032'>De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar</a></h4>
     <a href='https://computerhoy.com/entretenimiento/peliculas-imagen-real-basadas-anime-malas-1391032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/dragon-ball-saint-seiya-5-peliculas-imagen-real-basadas-anime-olvidar-3508607.jpg?tf=1200x' alt='De Dragon Ball a Saint Seiya: 5 películas de imagen real basadas en anime para olvidar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473'>No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ambientadas-imperio-romano-1391473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/no-solo-gladiator-5-peliculas-ambientadas-imperio-romano-no-puedes-perderte-3534662.jpg?tf=1200x' alt='No solo Gladiator: 5 películas ambientadas en el Imperio romano que no puedes perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161'>Cómo acelerar la instalación de las actualizaciones de Windows 11</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-acelerar-instalacion-actualizaciones-windows-11-1390161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-acelerar-instalacion-actualizaciones-windows-11-3469515.jpg?tf=1200x' alt='Cómo acelerar la instalación de las actualizaciones de Windows 11' />
     </a>
 </div>
 
