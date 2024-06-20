@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953'>Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple</a></h4>
+    <a href='https://computerhoy.com/apple/steve-jobs-odiaria-todas-fuerzas-muchas-cosas-actual-apple-1391953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cual-fecha-lanzamiento-ios-18-3506219.jpg?tf=1200x' alt='Steve Jobs odiaría con todas sus fuerzas muchas cosas de la actual Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589'>Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?</a></h4>
+    <a href='https://computerhoy.com/moviles/qualcomm-snapdragon-8s-gen-3-prueba-mejor-8-gen-3-1391589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/qualcomm-snapdragon-8s-gen-3-3540619.jpg?tf=1200x' alt='Qualcomm Snapdragon 8s Gen 3 a prueba: ¿es mejor que el 8 Gen 3?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611'>Top Teachers 2024: ¡sigue la gala en directo este miércoles!</a></h4>
+    <a href='https://computerhoy.com/tecnologia/top-teachers-2024-sigue-gala-directo-miercoles-1391611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/verticalimage1718705266963-3540936.jpg?tf=1200x' alt='Top Teachers 2024: ¡sigue la gala en directo este miércoles!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081'>Clonezilla: cómo clonar un disco duro completo en Windows</a></h4>
+    <a href='https://computerhoy.com/tutoriales/clonezilla-como-clonar-disco-duro-completo-windows-1391081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/clonezilla-como-clonar-disco-duro-completo-windows-3510927.jpg?tf=1200x' alt='Clonezilla: cómo clonar un disco duro completo en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965'>Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta</a></h4>
     <a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baseus-7-1-3554835.jpg?tf=1200x' alt='Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258'>Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado</a></h4>
-    <a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/banco-despide-docena-empleados-usar-software-simulaba-actividad-teclado-3519831.jpg?tf=1200x' alt='Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
-    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084'>Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-3511371.jpg?tf=1200x' alt='Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702'>He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares</a></h4>
-    <a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548643.jpg?tf=1200x' alt='He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares' />
     </a>
 </div>
 
