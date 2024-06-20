@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889'>Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más</a></h4>
+    <a href='https://computerhoy.com/tecnologia/modo-dios-como-activarlo-android-auto-windows-11-alexa-1391889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-dios-como-activarlo-android-auto-windows-11-alexa-3550784.jpg?tf=1200x' alt='Modo dios: cómo activarlo en Android Auto, Windows 11, Alexa y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061'>HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor</a></h4>
+    <a href='https://computerhoy.com/tecnologia/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-1392061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/hdmi-arc-vs-earc-diferencian-sirve-cada-cual-mejor-3557713.jpg?tf=1200x' alt='HDMI ARC vs. eARC: en qué se diferencian, para qué sirve cada uno y cuál es mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060'>Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV</a></h4>
     <a href='https://computerhoy.com/tecnologia/tivify-lanza-propio-amazon-fire-tv-vitaminado-transforma-cualquier-televisor-smart-tv-1392060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tivify-denali-3557423.jpg?tf=1200x' alt='Tivify lanza su propio Amazon Fire TV vitaminado que transforma cualquier televisor en un Smart TV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883'>Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video</a></h4>
     <a href='https://computerhoy.com/entretenimiento/ni-maxton-hall-ni-wilds-mejor-serie-adolescente-aun-puedes-ver-amazon-prime-video-1391883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cruel-summer-3555422.jpg?tf=1200x' alt='Ni Maxton Hall ni The Wilds, esta es la mejor serie adolescente que aún puedes ver en Amazon Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689'>Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood</a></h4>
-    <a href='https://computerhoy.com/entretenimiento/mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-1391689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/5-mejores-peliculas-ciencia-ficcion-espanolas-no-tienen-nada-envidiar-hollywood-3542627.jpg?tf=1200x' alt='Las mejores películas de ciencia ficción españolas que no tienen nada que envidiar a Hollywood' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056'>Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio</a></h4>
-    <a href='https://computerhoy.com/espacio/retrasan-regreso-astronautas-boeing-starliner-miedo-queden-varados-espacio-1392056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/starliner-3557282.jpg?tf=1200x' alt='Retrasan el regreso de los astronautas de la Boeing Starliner por miedo a que se queden varados en el espacio' />
     </a>
 </div>
 
