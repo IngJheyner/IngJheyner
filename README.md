@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912'>Cómo ver el historial de navegación en modo incógnito de Chrome y cómo borrarlo</a></h4>
-    <a href='https://computerhoy.com/tutoriales/como-ver-historial-navegacion-modo-incognito-chrome-como-eliminarlo-1214912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/inc.jpg?tf=1200x' alt='Cómo ver el historial de navegación en modo incógnito de Chrome y cómo borrarlo' />
+    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740'>Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi</a></h4>
+    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604'>¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde</a></h4>
-    <a href='https://computerhoy.com/moviles/produce-cancer-radiacion-moviles-divulgador-operador-nuclear-responde-1390604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/esqueleto-movil-3508702.jpg?tf=1200x' alt='¿Produce cáncer la radiación de los móviles? El divulgador Operador Nuclear responde' />
+    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
+    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489'>Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso</a></h4>
-    <a href='https://computerhoy.com/apple/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-1391489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-conectar-dos-pares-airpods-telefono-compartir-audio-paso-paso-3535879.jpg?tf=1200x' alt='Cómo conectar dos pares de AirPods a tu teléfono para compartir audio paso a paso' />
+    <h4><a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247'>Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80</a></h4>
+    <a href='https://computerhoy.com/gaming/hallan-primer-anuncio-comercial-perdido-consola-nintendo-1391247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/restauran-primer-anuncio-comercial-consola-nintendo-muy-anos-80-3519012.jpg?tf=1200x' alt='Hallan el primer anuncio comercial perdido de Nintendo, y es... muy años 80' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602'>Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/ley-ciberresiliencia-ue-como-te-afectara-ley-ayudara-consumidores-todos-ganamos-1390602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ciberseguridad-union-europea-3500708.jpg?tf=1200x' alt='Qué es la Ley de Ciberresiliencia de la UE y cómo te afectará: "Esta ley ayudará a los consumidores, todos ganamos"' />
+    <h4><a href='https://computerhoy.com/audio/logitech-lanza-teclado-ultraligero-tabletas-keys-go-2-teclas-tijera-junto-nuevos-accesorios-1391508'>Logitech lanza el teclado ultraligero para tabletas Keys To Go 2 con teclas de tijera junto a nuevos accesorios</a></h4>
+    <a href='https://computerhoy.com/audio/logitech-lanza-teclado-ultraligero-tabletas-keys-go-2-teclas-tijera-junto-nuevos-accesorios-1391508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logitech-keys-go-2-3541225.jpg?tf=1200x' alt='Logitech lanza el teclado ultraligero para tabletas Keys To Go 2 con teclas de tijera junto a nuevos accesorios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832'>Advertencia de Google Chrome: jamás copies y pegues este texto </a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/advertencia-google-chrome-jamas-copies-pegues-texto-1391832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/logo-google-chrome-rodeado-senales-advertencia-3548806.jpg?tf=1200x' alt='Advertencia de Google Chrome: jamás copies y pegues este texto ' />
+    <h4><a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085'>Cómo solucionar el error "UI del sistema no responde" en Android</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-solucionar-error-ui-sistema-no-responde-android-1391085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ui-sistema-no-responde-3511966.jpg?tf=1200x' alt='Cómo solucionar el error "UI del sistema no responde" en Android' />
     </a>
 </div>
 
