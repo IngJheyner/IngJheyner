@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/gaming/banana-juego-steam-tocar-banana-millon-jugadores-1391917'>Por qué un juego en el que solo hay que tocar una banana, tiene casi un millón de jugadores</a></h4>
+    <a href='https://computerhoy.com/gaming/banana-juego-steam-tocar-banana-millon-jugadores-1391917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/juego-solo-hay-tocar-banana-segundo-jugado-steam-3552011.jpg?tf=1200x' alt='Por qué un juego en el que solo hay que tocar una banana, tiene casi un millón de jugadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236'>Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo</a></h4>
     <a href='https://computerhoy.com/tv/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-1391236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tarde-mucho-tiempo-darme-cuenta-error-mi-smart-tv-estas-tiempo-evitarlo-3517125.jpg?tf=1200x' alt='Tardé mucho tiempo en darme cuenta de este error con mi Smart TV: tú estás a tiempo de evitarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911'>Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo</a></h4>
     <a href='https://computerhoy.com/tecnologia/nvidia-compania-mas-valiosa-mundo-1391911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Tras superar a Apple, NVIDIA deja atrás a Microsoft, y ya es la compañía más valiosa del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908'>Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces</a></h4>
-    <a href='https://computerhoy.com/hogar/frigorificos-lg-mood-up-pantallas-dinamicas-led-altavoces-1391908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/lg-estrena-espana-frigorificos-lg-mood-pantallas-dinamica-led-altavoces-3550436.jpg?tf=1200x' alt='Llegan a España los frigoríficos LG Mood Up, con pantallas dinámicas LED y altavoces' />
     </a>
 </div>
 
