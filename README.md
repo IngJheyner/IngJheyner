@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965'>Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta</a></h4>
+    <a href='https://computerhoy.com/tecnologia/cargador-definitivo-todos-dispositivos-base-deja-obsoleta-regleta-1391965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/baseus-7-1-3554835.jpg?tf=1200x' alt='Este es el cargador definitivo: todos tus dispositivos en una base que deja obsoleta tu regleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258'>Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado</a></h4>
+    <a href='https://computerhoy.com/tecnologia/banco-despide-varios-empleados-usar-software-simulaba-actividad-teclado-1391258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/banco-despide-docena-empleados-usar-software-simulaba-actividad-teclado-3519831.jpg?tf=1200x' alt='Un banco despide a varios empleados por usar un software que simulaba actividad con el teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949'>¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro</a></h4>
+    <a href='https://computerhoy.com/windows/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-1391949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/odias-windows-11-quieres-dar-salto-windows-12-piensatelo-dos-veces-podria-salirte-muy-caro-3554380.jpg?tf=1200x' alt='¿Odias Windows 11 y quieres dar el salto a Windows 12? Piénsatelo dos veces, podría salirte muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084'>Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series</a></h4>
+    <a href='https://computerhoy.com/tutoriales/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-1391084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/como-ver-peliculas-kodi-formas-hacerlo-mejores-add-ons-pelis-series-3511371.jpg?tf=1200x' alt='Cómo ver películas en Kodi: formas de hacerlo y los mejores add-ons de pelis y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702'>He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares</a></h4>
     <a href='https://computerhoy.com/analisis/he-probado-realme-gt-6t-movil-apunta-gama-alta-pantalla-rendimiento-espectaculares-1391702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548643.jpg?tf=1200x' alt='He probado el Realme GT 6T, un móvil que apunta a la gama alta con pantalla y rendimiento espectaculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/analisis/unas-semanas-realme-gt6-me-dejan-claro-estoy-moviles-ano-1391592'>Unas semanas con el Realme GT6 me dejan claro que estoy ante uno de los móviles del año</a></h4>
-    <a href='https://computerhoy.com/analisis/unas-semanas-realme-gt6-me-dejan-claro-estoy-moviles-ano-1391592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt6-3554539.jpg?tf=1200x' alt='Unas semanas con el Realme GT6 me dejan claro que estoy ante uno de los móviles del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353'>Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.com/ciberseguridad/estas-son-frases-nunca-debes-buscar-google-no-quieres-alertar-ciberdelincuentes-1390353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/buscar-google-3513661.jpg?tf=1200x' alt='Estas son las frases que nunca debes buscar en Google si no quieres alertar a los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740'>Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi</a></h4>
-    <a href='https://computerhoy.com/tecnologia/xiaomi-revienta-mercado-redmi-watch-4-smartwatch-baratisimo-incluso-ser-xiaomi-1391740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/xiaomi-redmi-watch-4-3265213.jpg?tf=1200x' alt='Xiaomi revienta el mercado: su Redmi Watch 4 es un smartwatch baratísimo incluso para ser Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937'>Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas</a></h4>
-    <a href='https://computerhoy.com/apps/adios-youtube-premium-barato-comienzan-bloquear-cuentas-compradas-turquia-argentina-filipinas-1391937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bloqueo-youtube-3554233.jpg?tf=1200x' alt='Adiós al YouTube Premium barato: comienzan a bloquear cuentas compradas en Turquía, Argentina o Filipinas' />
     </a>
 </div>
 
